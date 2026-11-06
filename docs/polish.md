@@ -62,3 +62,12 @@ Minor style notes from the review pass, for one polish pass before release. Phas
 - [ ] s0199_04528 - 現世 "the world above" adds a direction: "in the real world".
 - [ ] s0203_00cd4 - キィーッ is a rage shriek, "Eeeek!" reads as fear: "Kyaaah!" or "Grrr!".
 - [ ] s0207_0156c - 負けてやる "lose for you" calque: "But if we meet as enemies, don't expect me to let you win."
+- [ ] s0207_020d4 - 未熟 "unripe" is a calque: "My power as a bard is still green, but allow me to accompany you."
+- [ ] s0207_02564 - 操られていた "how I was worked" stumbles: "how I was controlled as the Demon Thunder Queen".
+- [ ] s0207_03df8 - ズ、ズ、ズ left as "Zu, zu, zu:", reads as a name: "A low rumbling, on and on, rose through the snow that buried the ground at their feet."
+- [ ] s0207_04800 - お安いご用 "Being your comrade is nothing at all!" is flat: "Join you? Easy as pie!"
+- [ ] s0207_05294 - そんな気もする "I do feel that way" is vague: "Hmmm... Come to think of it, you may have a point."
+- [ ] s0223_00af0 - 成長の度合いが激しく "growth is getting more severe" is stiff: "it is growing faster and faster."
+- [ ] s0223_01654 - 仕掛け "fitted with any device" misses the reply to "trap": "I believe neither mountain has been rigged."
+- [ ] s0230_00fc8 - 我の封じる洞窟の結界 word order splits it: "I undo the barrier... of the cave I seal...".
+- [ ] s0238_00ed0 - 空間に割り込んで "butting into space" stumbles: "Instead of the real tower, is a passage to some other building cutting in?"
