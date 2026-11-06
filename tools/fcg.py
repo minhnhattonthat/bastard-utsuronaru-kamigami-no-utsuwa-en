@@ -15,7 +15,7 @@ from pathlib import Path
 from PIL import Image, ImageDraw
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
-from rbb import lzss_decode
+from rbb import lzss_decode, lzss_encode
 
 ROOT = Path(__file__).resolve().parents[1]
 
@@ -65,6 +65,45 @@ def textures(d):
                     t["pixels"], t["x"], t["y"], t["w"], t["h"], t["mode"] = data, *xywh[:5]
         if t["pixels"] is not None:
             yield t
+
+
+def _chunk(tag, body, flags):
+    return tag + struct.pack("<I", len(body) | flags) + body + bytes(len(body) & 1)
+
+
+def _pack_data(old, raw):
+    """A `data` chunk's body for new pixels, in the form the old one had."""
+    if old[:4] != b"00zL":
+        assert len(raw) == len(old)
+        return raw
+    stream = lzss_encode(raw)
+    return old[:8] + struct.pack("<IIII", len(stream) + 12, 0x1000, len(stream), len(raw)) + stream + bytes(-len(stream) & 3)
+
+
+def with_pixels(d, edits):
+    """A copy of fcg bytes with {texture index: raw pixels} replaced; every other byte is kept and parent sizes follow."""
+    size = struct.unpack_from("<I", d, 4)[0] & 0x7FFFFFFF
+
+    def rebuild(o, end, depth, picked):
+        out = b""
+        for tag, a, sz, sub in chunks(d, o, end):
+            flags = 0x80000000 if sub else 0
+            if depth == 0 and tag == b"tex ":
+                n = rebuild.tex
+                rebuild.tex += 1
+                out += _chunk(tag, rebuild(a, a + sz, 1, n) if n in edits else d[a:a + sz], flags)
+            elif depth == 1 and tag == b"pxel":
+                out += _chunk(tag, rebuild(a, a + sz, 2, picked), flags)
+            elif depth == 2 and tag == b"data":
+                out += _chunk(tag, _pack_data(d[a:a + sz], edits[picked]), flags)
+            else:
+                out += _chunk(tag, d[a:a + sz], flags)
+        return out
+
+    rebuild.tex = 0
+    body = rebuild(8, 8 + size, 0, None)
+    flag = struct.unpack_from("<I", d, 4)[0] & 0x80000000
+    return d[:4] + struct.pack("<I", len(body) | flag) + body + d[8 + size:]
 
 
 def to_image(t):

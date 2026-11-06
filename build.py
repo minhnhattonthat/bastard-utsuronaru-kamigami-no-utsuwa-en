@@ -43,6 +43,7 @@ def build(out=OUT, edits=True, marker=False, qa=None):
         arc = disc.read_form1(f, *disc.FILES["RSRCALL.RBB"])
         report = {}
         if edits:
+            import cards
             import insert
 
             table = rbb.index(arc)
@@ -51,6 +52,7 @@ def build(out=OUT, edits=True, marker=False, qa=None):
                 return rbb.unwrap(rbb.entry(arc, *table[eid]))
 
             exe, new, report = insert.apply(exe, raw, _text_source(marker, qa or {}), qa=marker or bool(qa))
+            new.update(cards.build(raw))
             replaced = {eid: rbb.rewrap(rbb.entry(arc, *table[eid]), data) for eid, data in new.items()}
             arc, spill = rbb.relocate(arc, replaced, (disc.FILES["DUMMY"][0] - disc.FILES["RSRCALL.RBB"][0]) * 2048)
             report["entries_changed"] = len(replaced)

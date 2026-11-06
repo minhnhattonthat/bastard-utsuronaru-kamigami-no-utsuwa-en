@@ -27,7 +27,7 @@ Binding for every translator and reviewer. `tools/batches.py check` enforces the
 | アーシェス・ネイ / ネイ | Nei | | full: Arshes Nei | |
 | カル＝ス / カル | Kall | | full: Kall-Su | |
 | アビゲイル | Abigail | | | |
-| アビちゃん | Abi-chan | | Abigail of himself | little Abi |
+| アビちゃん | Abi-chan | | Abigail's self-reference | little Abi |
 | ヨシュア | Joshua | | full: Joshua Belahia | |
 | シェン | Schen | | full: Schen Kar | |
 | ヴァイ | Vai | | full: Vai Steave; game label `Vie`, Steve Vai is the reference | Vie |

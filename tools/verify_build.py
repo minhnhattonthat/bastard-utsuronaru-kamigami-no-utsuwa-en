@@ -19,6 +19,7 @@ import numpy as np
 
 ROOT = Path(__file__).resolve().parents[1]
 sys.path.insert(0, str(ROOT / "tools"))
+import cards  # noqa: E402
 import disc  # noqa: E402
 import engine  # noqa: E402
 import extract  # noqa: E402
@@ -266,8 +267,12 @@ def verify(new_path):
     for o in (0, 1, 2, 4):
         old[f"ov{o}"] = bytearray(rbb.unwrap(old_e[o]))
         new[f"ov{o}"] = bytearray(rbb.unwrap(new_e[o]))
+    pictures = cards.build(lambda eid: rbb.unwrap(old_e[eid]))
     for eid in old_e:
-        if eid in ssg:
+        if eid in pictures:
+            if rbb.unwrap(new_e[eid]) != pictures[eid]:
+                errs.append(f"entry {eid}: not the redrawn picture")
+        elif eid in ssg:
             check_ssg(ssg[eid][0], ssg[eid][1], rbb.unwrap(old_e[eid]), rbb.unwrap(new_e[eid]), errs)
         elif eid in tbl:
             check_tbl(tbl[eid][0], tbl[eid][1], bytearray(rbb.unwrap(old_e[eid])), rbb.unwrap(new_e[eid]), errs)
