@@ -5,7 +5,7 @@
 --   JP <hex codes>         Shift-JIS still being drawn: a string the build did not replace
 local ffi = require("ffi")
 local M = ffi.cast("uint8_t*", PCSX.getMemPtr())
-local RING, SIZE = 0x1FD000, 0x2000  -- engine.RING, engine.RING_SIZE
+local RING, SIZE = 0xC400, 0x1000  -- engine.RING, engine.RING_SIZE
 local function u32(o) return ffi.cast("uint32_t*", M + o)[0] end
 
 local seen, seenJp = {}, {}

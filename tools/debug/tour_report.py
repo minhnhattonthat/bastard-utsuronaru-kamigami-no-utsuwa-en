@@ -45,7 +45,8 @@ def main():
     logs = glob.glob(str(ROOT / "work/qa/warp/*/log.txt"))
     swept = set()
     for log in logs:
-        forced = Path(log).parent.name.startswith("sweep_")
+        # Forced prints say nothing about a box. Nor do the SCENE_TABLE lists: those windows size themselves to the short marker id.
+        forced = Path(log).parent.name.startswith("sweep_") or Path(log).parent.name in SCENE_TABLE
         for ln in Path(log).read_text(encoding="utf-8", errors="replace").splitlines():
             if ln.startswith("ID "):
                 parts = ln.split()

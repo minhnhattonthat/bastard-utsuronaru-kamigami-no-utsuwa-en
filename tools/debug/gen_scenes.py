@@ -287,6 +287,10 @@ def main():
     # The field's prompts by their real function and strings (exits, which need a walk onto the point): no marker needed, so any build.
     (ROOT / "work/qa/sweep/9005.txt").write_text("\n".join([str(first[2]), "@8003A5C0", "@8003AA88", "@8003AA70", "@8003B6CC", "@8003E454"]) + "\n", encoding="utf-8")
     scenes.append(scene("field_prompts", "menu", first[0] + f" MASTER=1 EVENT={first[1]} SWEEP=9005", FIELD + ";10 start;400 -;6 circle;400 -;6 circle;400 -;6 circle;400 -;6 circle;400 -;6 circle;300 -", 5000, 0, "event"))
+    # Pictures with text, by the scripts' own stub: chapter ends (entries 1479-1482), title cards in CG format (1194-1196), the note (1172).
+    pics = [643, 644, 645, 646, 358, 359, 360, 336]
+    (ROOT / "work/qa/sweep/9006.txt").write_text("\n".join([str(first[2])] + [f"#{p}" for p in pics]) + "\n", encoding="utf-8")
+    scenes.append(scene("cg_pictures", "menu", first[0] + f" MASTER=1 EVENT={first[1]} SWEEP=9006", FIELD + ";10 start;10 -", 2300 + 420 * len(pics), 0, "event"))
     (ROOT / "work/qa/sweep/hints.json").write_text(json.dumps(SCAN_HINTS), encoding="utf-8")
     (HERE / "maps.tsv").write_text("\n".join(point_rows) + "\n", encoding="utf-8")
     rows = ["\t".join(COLUMNS)] + ["\t".join(s) for s in scenes]

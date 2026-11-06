@@ -1014,3 +1014,4 @@ sweep_t0388b	sweep	MAP=0 POINT=p001 MASTER=1 EVENT=3 SWEEP=9002	2200 -;10 start;
 sweep_t0382	sweep	MAP=0 POINT=p001 MASTER=1 EVENT=3 SWEEP=9003	2200 -;10 start;10 -	15260	30	event
 sweep_t0393	sweep	MAP=0 POINT=p001 MASTER=1 EVENT=3 SWEEP=9004	2200 -;10 start;10 -	16700	30	event
 field_prompts	menu	MAP=0 POINT=p001 MASTER=1 EVENT=3 SWEEP=9005	2200 -;10 start;400 -;6 circle;400 -;6 circle;400 -;6 circle;400 -;6 circle;400 -;6 circle;300 -	5000	0	event
+cg_pictures	menu	MAP=0 POINT=p001 MASTER=1 EVENT=3 SWEEP=9006	2200 -;10 start;10 -	5660	0	event

@@ -105,8 +105,10 @@ def _lo(a):
 # each frame. Breakpoints on the draw path run the emulator under the debugger, far too slow for a tour of every scene.
 # Just below the stack, above the heap; QA only, a release never writes here. Not lower: at 801F0000 the marker build's heap
 # reached it on map 2_11 (heap top 801F14D4) and the hook overwrote the loaded script, which hung two events.
-RING = 0x801FD000
-RING_SIZE = 0x2000
+# Moved again: the camp's heap (the 60-byte name buffer at 800C47B0) reached 801FCFFC with all characters joined, and the hook then
+# overwrote live heap, so the marker build hung where English does not. Kernel RAM 8000C000-8000E000 stays zero in every state read.
+RING = 0x8000C400
+RING_SIZE = 0x1000
 RING_LOG = """
     lui   $t9, {ring_hi}
     lw    $t1, {ring_idx}($t9)

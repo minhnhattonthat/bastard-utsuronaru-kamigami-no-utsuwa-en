@@ -11,7 +11,7 @@ local function w32(a, v) ffi.cast("uint32_t*", M + (a % 0x200000))[0] = v end
 local CODE, DONE = 0x801F2000, 0x801F7FF0  -- map 2_11 uses RAM up to 801F11A4 (ramuse.py); DONE's low half must not sign-extend
 local SEQ_PTR = 0x8009D3A8
 local BAL = { n = 0x240, d = 0x280, c = 0x2B0 }  -- bal targets: narration, dialogue, choice; 0x2A0 speaker; 0x10 event end
-local items, evOff, want, sites = {}, nil, nil, nil
+local items, evOff, want, sites, pics = {}, nil, nil, nil, nil
 for line in io.lines(string.format("%s/%04d.txt", SWEEP_DIR, SWEEP)) do
   if not evOff then evOff = tonumber(line)
   elseif line:match("^=") then  -- "=<tail>": a marker id to find in RAM (EXE strings and tables, not script strings)
@@ -20,6 +20,9 @@ for line in io.lines(string.format("%s/%04d.txt", SWEEP_DIR, SWEEP)) do
   elseif line:match("^@") then  -- "@<hex address>": the lui of a field prompt's format string
     sites = sites or {}
     sites[#sites + 1] = tonumber(line:sub(2), 16)
+  elseif line:match("^#") then  -- "#<id>": an event CG (entry = 836 + id), shown for 3 seconds as the scripts do
+    pics = pics or {}
+    pics[#pics + 1] = tonumber(line:sub(2))
   else
     local ref, kind, spk = line:match("(%d+) (%a) (-?%d+)")
     items[#items + 1] = { tonumber(ref), kind, tonumber(spk) }
@@ -74,6 +77,9 @@ local function build(base)
     else
       emit(stub(BAL[it[2]]), 0)
     end
+  end
+  for _, id in ipairs(pics or {}) do  -- the scripts' own sequence: wait, show, wait, hide (bal 0x210, 0x390, 0x3A8)
+    emit(stub(0x210), ori(4, 60), stub(0x390), ori(4, id), stub(0x210), ori(4, 180), stub(0x3A8), 0)
   end
   if want or sites then
     local NAME = DONE + 8  -- what a %s prints; a %d prints its address, harmlessly

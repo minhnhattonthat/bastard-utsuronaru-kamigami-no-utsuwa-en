@@ -42,6 +42,10 @@ Extends `text.md`. After `prg` come 4-byte records named by event number, `1000`
 
 The first 0x800 bytes of `prg`, zero on disc, are filled at load (8003FA94) from the `j` stub table at EXE 0x80010B58-0x80010F58 (128 × `j f; nop`). A script calls `bal` to `f`'s table offset + 0x10.
 
+Script `bal` targets worth knowing: 0x210 wait a0 frames, 0x240 narration, 0x280 dialogue, 0x2A0 speaker, 0x2B0 choice, 0x390 show event CG a0 (entry = 836 + a0), 0x3A8 hide it. A chapter end is `0x390` with 0x283-0x286 (entries 1479-1482): maps 1_24_1, one with 0x284, 3_20, 4_09_1.
+
+Field yes/no prompt: 8003AF88(format, args), sprintf into a stack buffer, box `max(8, cells)`, buttons at fixed x (`engine.PROMPT_ROW`). Enemy tables load only for a battle, 80079E10: 551 and 644 + the area at 0x800A3D30; they are not in RAM in the field.
+
 Stubs worth knowing: 800432F8 join party (a0 = character), 80042C14 ending state 3, 80042C4C alternate ending (state 3, bit 1), text output around 0x80043C8C (**guess**, from its string arguments).
 
 Real ending triggers: 5_06 event 1, 6_01 event 10.

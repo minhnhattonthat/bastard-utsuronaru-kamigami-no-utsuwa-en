@@ -25,6 +25,8 @@ Run `tour_report.py` over a full set of logs only: it rewrites `windows.json` fr
 
 `tour_report.py` also writes `build/strings.tsv` and `work/qa/cover/log.txt`, the input of `textcover.py`.
 
+`sweep.lua` has three more list lines: `=<tail>` finds that marker id in RAM and prints it (`sweep_exe`, `sweep_t0388a`, `sweep_t0388b`, `sweep_t0393`, `sweep_t0382`; a `%` line goes through the field prompt), `@<address>` reads a prompt's format string from its `lui` + `addiu` so it works on any build (`field_prompts`), `#<id>` shows an event CG (`cg_pictures`: chapter ends, CG-format title cards, the note). Group `battlemap` runs encounter 1 in each area that answers the debug battle key, which also loads that area's enemy tables. `ending_blurbs_*` rotate the 69 ending blurb slots so the real draw shows each. `waive_text.py` writes `docs/text_unshown.tsv` from `tour_unseen.txt`.
+
 ## Scene list
 `scenes.tsv` (from `gen_scenes.py`): title and real boot path, every menu, debug screens, battles (start, commands, win, loss, boss, with party), all movies and ending branches, all 79 maps with their title cards, and every script event of every map.
 
