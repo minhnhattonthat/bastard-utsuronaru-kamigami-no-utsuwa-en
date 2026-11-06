@@ -3,7 +3,7 @@
   "id": "t0712_00008",
   "off": 8,
   "term": "00",
-  "max": 40,
+  "max": 20,
   "kind": "label",
   "refs": [
    "t712:rec0"
@@ -15,7 +15,7 @@
   "id": "t0712_000c4",
   "off": 196,
   "term": "00",
-  "max": 40,
+  "max": 20,
   "kind": "label",
   "refs": [
    "t712:rec1"
@@ -27,7 +27,7 @@
   "id": "t0712_00180",
   "off": 384,
   "term": "00",
-  "max": 40,
+  "max": 20,
   "kind": "label",
   "refs": [
    "t712:rec2"
@@ -39,7 +39,7 @@
   "id": "t0712_0023c",
   "off": 572,
   "term": "00",
-  "max": 40,
+  "max": 20,
   "kind": "label",
   "refs": [
    "t712:rec3"
@@ -51,7 +51,7 @@
   "id": "t0712_002f8",
   "off": 760,
   "term": "00",
-  "max": 40,
+  "max": 20,
   "kind": "label",
   "refs": [
    "t712:rec4"
@@ -63,7 +63,7 @@
   "id": "t0712_003b4",
   "off": 948,
   "term": "00",
-  "max": 40,
+  "max": 20,
   "kind": "label",
   "refs": [
    "t712:rec5"
@@ -75,7 +75,7 @@
   "id": "t0712_00470",
   "off": 1136,
   "term": "00",
-  "max": 40,
+  "max": 20,
   "kind": "label",
   "refs": [
    "t712:rec6"
@@ -87,7 +87,7 @@
   "id": "t0712_0052c",
   "off": 1324,
   "term": "00",
-  "max": 40,
+  "max": 20,
   "kind": "label",
   "refs": [
    "t712:rec7"
@@ -99,7 +99,7 @@
   "id": "t0712_005e8",
   "off": 1512,
   "term": "00",
-  "max": 40,
+  "max": 20,
   "kind": "label",
   "refs": [
    "t712:rec8"
@@ -111,7 +111,7 @@
   "id": "t0712_006a4",
   "off": 1700,
   "term": "00",
-  "max": 40,
+  "max": 20,
   "kind": "label",
   "refs": [
    "t712:rec9"
@@ -123,7 +123,7 @@
   "id": "t0712_00760",
   "off": 1888,
   "term": "00",
-  "max": 40,
+  "max": 20,
   "kind": "label",
   "refs": [
    "t712:rec10"
@@ -135,7 +135,7 @@
   "id": "t0712_0081c",
   "off": 2076,
   "term": "00",
-  "max": 40,
+  "max": 20,
   "kind": "label",
   "refs": [
    "t712:rec11"
@@ -147,7 +147,7 @@
   "id": "t0712_008d8",
   "off": 2264,
   "term": "00",
-  "max": 40,
+  "max": 20,
   "kind": "label",
   "refs": [
    "t712:rec12"
@@ -159,7 +159,7 @@
   "id": "t0712_00994",
   "off": 2452,
   "term": "00",
-  "max": 40,
+  "max": 20,
   "kind": "label",
   "refs": [
    "t712:rec13"
@@ -168,10 +168,22 @@
   "en": ""
  },
  {
+  "id": "t0712_00a50",
+  "off": 2640,
+  "term": "",
+  "max": 20,
+  "kind": "label",
+  "refs": [
+   "t712:rec14"
+  ],
+  "jp": "ストームジャイアント",
+  "en": ""
+ },
+ {
   "id": "t0712_00b0c",
   "off": 2828,
   "term": "00",
-  "max": 40,
+  "max": 20,
   "kind": "label",
   "refs": [
    "t712:rec15"
@@ -183,7 +195,7 @@
   "id": "t0712_00bc8",
   "off": 3016,
   "term": "00",
-  "max": 40,
+  "max": 20,
   "kind": "label",
   "refs": [
    "t712:rec16"
@@ -195,7 +207,7 @@
   "id": "t0712_00c84",
   "off": 3204,
   "term": "00",
-  "max": 40,
+  "max": 20,
   "kind": "label",
   "refs": [
    "t712:rec17"
@@ -207,7 +219,7 @@
   "id": "t0712_00d40",
   "off": 3392,
   "term": "00",
-  "max": 40,
+  "max": 20,
   "kind": "label",
   "refs": [
    "t712:rec18"

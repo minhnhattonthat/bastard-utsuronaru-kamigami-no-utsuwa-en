@@ -200,6 +200,48 @@ def pack(data, replaced={}):
     return bytes(head + body)
 
 
+def unwrap(e):
+    """An entry's raw content: decompressed if the whole entry is one 00zL block."""
+    if e[:4] != b"00zL":
+        return e
+    csize, usize = struct.unpack_from("<II", e, 16)
+    return lzss_decode(e[24:24 + csize], usize)[0]
+
+
+def rewrap(old, raw):
+    """New entry bytes for raw content, in the form the old entry had."""
+    if old[:4] != b"00zL":
+        return raw
+    stream = lzss_encode(raw)
+    head = old[:8] + struct.pack("<IIII", len(stream) + 12, 0x1000, len(stream), len(raw))
+    return head + stream + bytes(-len(stream) & 3)
+
+
+def relocate(data, replaced, spill_at):
+    """Replace entries without moving any others. An entry that fits the space up to the next entry stays; a larger one goes
+    to the spill area, spill_at bytes from the archive's start (the game adds an entry's offset to the file's start with no
+    range check, so offsets can reach past the file: DUMMY). -> (new archive of the same size, spill bytes)."""
+    table = index(data)
+    out = bytearray(data)
+    spill = bytearray()
+    ends = sorted(off for off, _ in table) + [len(data) - BASE]
+    next_of = {a: b for a, b in zip(ends, ends[1:])}
+    for n, e in sorted(replaced.items()):
+        off, size = table[n]
+        if len(e) <= next_of[off] - off:
+            out[BASE + off:BASE + off + size] = bytes(size)
+            out[BASE + off:BASE + off + len(e)] = e
+            new_off = off
+        else:
+            spill += bytes(-len(spill) & 0x7FF)
+            new_off = spill_at + len(spill) - BASE
+            spill += e
+            out[BASE + off:BASE + off + size] = bytes(size)
+        struct.pack_into("<II", out, 0x88 + n * 8, new_off, len(e))
+        struct.pack_into("<I", out, EXIX + n * 4, len(e))
+    return bytes(out), bytes(spill)
+
+
 def _same(block):
     n, p, csize, usize, stream = block
     return n, p, lzss_encode(lzss_decode(stream, usize)[0]) == stream

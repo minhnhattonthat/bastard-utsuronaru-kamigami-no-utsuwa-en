@@ -4,7 +4,7 @@ Skill: translate-retro-game (Claude Code: plugin, enabled in .claude/settings.js
 
 ## Commands (run from repo root)
 - Setup after clone: `git config core.hooksPath tools/hooks`; `python -X utf8 tools/disc.py extract`; `python -X utf8 tools/rbb.py unpack` (work/rbb/).
-- Build:    `python -X utf8 build.py` -> build/bastard_en.cue (needs numpy). Encoder proof, a few minutes: `python -X utf8 tools/rbb.py verify`
+- Build:    `python -X utf8 build.py` -> build/bastard_en.cue (needs numpy, keystone-engine). `--marker`: build/bastard_marker.cue, each line shows its id; `--qa FILE.json`: override lines. Encoder proof, a few minutes: `python -X utf8 tools/rbb.py verify`
 - Check:    `python -X utf8 tools/check.py` (tests; the pre-commit hook runs this)
 - Smoke:    `python -X utf8 "$(python tools/skill.py)/scripts/emu.py" <cue> --out work/qa/smoke --route tools/routes/boot.txt --smoke`
 - New game: `--route tools/routes/newgame.txt --mash 150 --mash-key circle --frames 20000 --timeout 500` (prologue movie can't be skipped; first narration at ~frame 16700)
@@ -16,7 +16,7 @@ Skill: translate-retro-game (Claude Code: plugin, enabled in .claude/settings.js
 ## Paths
 - Original disc: `rom/*.bin`, `.cue` (gitignored; SHA-1 in `rom.sha1`, checked by `tools/check_rom.py`). Emulator: `tools/pcsx/` (PCSX-Redux nightly 30375.20261106.4 from distrib.app, `fetch_emu.py pcsx`; gitignored). BIOS: `tools/bios/scph5500.bin` (`fetch_emu.py psx-bios`), **required**: the game's text uses the BIOS kanji font. Savestates: `work/states/`.
 - Extract/format tools: `tools/disc.py` (raw sectors), `tools/rbb.py` (RSRCALL.RBB + LZSS), `tools/fcg.py` (images), `tools/movies.py` (STR index + ffmpeg samples), `tools/strscan.py` (SJIS runs).
-- RE notes index: `docs/re/README.md`. Glossary: `glossary.md`. Fonts and licences: `docs/fonts.md`. Text: `script/` (from phase 4).
+- RE notes index: `docs/re/README.md`. Box widths and byte limits: `docs/re/windows.md`. Glossary: `glossary.md`. Fonts and licences: `docs/fonts.md`. Text: `script/` (from phase 4).
 
 ## Rulings
 - Edit source files (.py .lua .asm .tbl .json) only with the file-edit tool; scripts here read and analyse, never `.replace()` and write back.

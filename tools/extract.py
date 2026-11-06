@@ -43,8 +43,9 @@ TABLES = {  # entry: header, stride, [(field offset, field size)], kind
     388: (4, 32, [(2, 18)], "text"),
     392: (0, 44, [(4, 40)], "label"),  # developer map labels (テスト１): seen in game? phase 5
     393: (4, 108, [(24, 20), (44, 64)], "text"),  # formation name and description
-    **{e: (0, 1316, [(4, 40)], "label") for e in range(551, 644)},  # encounter groups (オーク＊３)
-    **{e: (8, 188, [(0, 40)], "label") for e in range(644, 737)},  # map objects (障害物零号機)
+    # A full 20-byte name has no NUL: the next field starts right after it, and can read as 0B or 0C (エクスキューショナー[14]).
+    **{e: (0, 1316, [(4, 20)], "label") for e in range(551, 644)},  # encounter groups (オーク＊３)
+    **{e: (8, 188, [(0, 20)], "label") for e in range(644, 737)},  # enemies and map objects (障害物零号機)
 }
 
 
@@ -292,9 +293,9 @@ def table_strings(eid):
     return rows
 
 
-def text_runs(d, ranges=None):
+def text_runs(d, ranges=None, ends=(0, 0x0C)):
     """Independent of any pointer: [(start, end)] of runs that read as Japanese text, for the coverage test. Every pair is a
-    real kana, punctuation or level-1 kanji code, ended by NUL or 0C, 2+ characters, with kana or 3+ characters."""
+    real kana, punctuation or level-1 kanji code, ended by a byte in `ends`, 2+ characters, with kana or 3+ characters."""
     out = []
     for lo, hi in ranges or [(0, len(d))]:
         i = lo
@@ -312,7 +313,7 @@ def text_runs(d, ranges=None):
                     j += 1
                 else:
                     break
-            if cnt >= 2 and d[j] in (0, 0x0C) and (kana or cnt >= 3):
+            if cnt >= 2 and d[j] in ends and (kana or cnt >= 3):
                 out.append((i, j))
                 i = j + 1
             else:
@@ -332,7 +333,9 @@ def leftovers():
         cov = bytearray(len(d))
         for e in rows:
             cov[e["off"]:e["end"]] = b"\1" * (e["end"] - e["off"])
-        out += [(stem, a, decode(d[a:b])) for a, b in text_runs(d) if not any(cov[a:b])]
+        # Table fields can fill up and run into the next field's bytes; elsewhere a wider end only finds code bytes.
+        ends = range(0x20) if stem.startswith("tbl_") else (0, 0x0C)
+        out += [(stem, a, decode(d[a:b])) for a, b in text_runs(d, ends=ends) if not any(cov[a:b])]
     return out
 
 

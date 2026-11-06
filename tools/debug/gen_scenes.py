@@ -13,7 +13,9 @@ BASE = 0x8000F800
 TABLE, COUNT = 0x8009BFA4, 79
 HERE = Path(__file__).parent
 COLUMNS = ["name", "group", "vars", "route", "frames", "mash", "check"]
-FIELD = "1800 -"        # map card done, player has control (arrival ~frame 1300, card ~500)
+# Map card done, player has control. Original disc: arrival ~1300 + card ~500. A build with scripts in DUMMY arrives ~70
+# frames later for the long seek, so leave room.
+FIELD = "2200 -"
 BATTLE_KEY = FIELD + ";20 select;10 select+square;170 -"
 STAFF_FRAMES = 15000
 
@@ -178,16 +180,18 @@ def special_scenes():
         scene("debug_stats", "debug", w, FIELD + ";20 select;10 select+l1;300 -", check="map"),
         scene("debug_map_select", "debug", w, FIELD + ";20 select;10 select+start;400 -"),
         # Battles: any encounter id by the debug replay key.
-        scene("battle_start", "battle", w + " BATTLE=1", BATTLE_KEY + ";400 -", 2800, 0, "battle"),
-        scene("battle_commands", "battle", w + " BATTLE=1", BATTLE_KEY + ";500 -;6 circle;200 -", 3000, 0, "battle"),
+        scene("battle_start", "battle", w + " BATTLE=1", BATTLE_KEY + ";400 -", 3200, 0, "battle"),
+        scene("battle_commands", "battle", w + " BATTLE=1", BATTLE_KEY + ";500 -;6 circle;200 -", 3400, 0, "battle"),
         # Current HP of the first party member in battle is at 0x80106C2C (tested on screen): held high to win, 1 to lose.
         # Winning needs a placed member: with no one on the board only the enemies act.
-        # 801374B0.. (stride 0x1C0): the three enemies' current HP in encounter 1, set to 1 once the fight has loaded.
+        # The three enemies' current HP in encounter 1 (17, stride 0x1C0; 0x801374B0 on the original disc) go to 1 once the fight has loaded.
         scene("battle_win", "battle", join + f" MASTER=1 BATTLE=1 DEBUG_AT={placed_at} PIN_FROM={placed_at + 500} PIN_ONCE=1"
-              " PINS=80106C2C:4:500,801374B0:4:1,80137670:4:1,80137830:4:1",
-              placed + ";20 select;10 select+square;900 -" + "".join(";6 circle;90 -" for _ in range(90)), check="won"),
-        scene("battle_boss", "battle", w + " BATTLE=800", BATTLE_KEY + ";600 -", 3000, 0, "battle"),
-        scene("battle_lose", "battle", w + " BATTLE=1 PIN_FROM=2600 PINS=80106C2C:4:1", BATTLE_KEY, 12000, 60, "lost"),
+              # 800BB210 is rand()'s seed. A counter-attack can kill, and its dice follow the rand() calls made so far, which vary with
+              # the build's text: without a fixed seed some builds lose every time (seeds 2-4 lose on the marker build; 1 wins).
+              " ENEMY_HP=17 PINS=80106C2C:4:500,800BB210:4:1",
+              placed + ";20 select;10 select+square;930 -" + "".join(";6 circle;90 -" for _ in range(90)), check="won"),
+        scene("battle_boss", "battle", w + " BATTLE=800", BATTLE_KEY + ";600 -", 3400, 0, "battle"),
+        scene("battle_lose", "battle", w + " BATTLE=1 PIN_FROM=3000 PINS=80106C2C:4:1", BATTLE_KEY, 12400, 60, "lost"),
         # Movies and endings: the states the sequence controller dispatches on.
         scene("movie_prologue", "ending", w + " STATE=1", "", 13000, 0, "none"),
         scene("movie_midgame", "ending", w + " STATE=2", "", 13000, 0, "none"),

@@ -55,6 +55,12 @@ if swapEvent then
     { 0x8003816C, 0x34050808, 0x8C840040 },          -- a0 = script object, seq+0x34+0xC
     { 0x80038170, 0x0C00F817, 0x0C00FE2F },          -- jal 8003F8BC instead of the camp menu
     { 0x80038174, 0x00000000, 0x34060001 },          -- a2 = 1
+    -- Chest animation of the object that triggered the event. Here there is none: the index (0x27) is past the object table, so
+    -- 800C16F0 calls through heap garbage and hangs if the heap layout is unlucky (ev_1_09_0006 on the marker build).
+    { 0x80044A10, 0x0C0305BC, 0 },
+    { 0x80044A9C, 0x0C0305BC, 0 },
+    { 0x80044B00, 0x0C0305BC, 0 },
+    { 0x80044B6C, 0x0C0305BC, 0 },
   }
   for _, p in ipairs(more) do PATCH[#PATCH + 1] = p end
 end

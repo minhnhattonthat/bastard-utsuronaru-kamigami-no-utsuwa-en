@@ -14,6 +14,11 @@ Add `--state` to keep `work/states/NAME.state`. Regenerate after a rebuild, beca
 
 `--vars` names and `CHECK` values are in the header of `warp.lua`. `maps.tsv` lists every map point. `pin.lua` holds RAM values. Don't hold HP during a battle: the battle waits for the HP bar to reach the value, and holding it hangs the fight, so set `PIN_ONCE=1`. `$SKILL/scripts/lua/probes/ramdump.lua` dumps RAM.
 
+## Marker tours
+`build.py --marker` then `warp.py all --cue build/bastard_marker.cue --probe tools/debug/drawlog.lua`; `--failed` re-runs what `results.tsv` does not list as ok. `tour_report.py` turns the logs into `tools/windows.json` (id -> smallest box width seen) and `work/qa/tour_unseen.txt`, `work/qa/tour_jp.txt`. `fmt_sites.py` lists every sprintf and its stack buffer; `ssg_stress.py` makes a `--qa` file that grows one script to its limit.
+
+Warped events have no triggering object, so `warp.lua` skips the chest animation (800C16F0): with an index past the object table it calls through heap garbage, which hung some scenes on the marker build. On the original disc the same read happens to do nothing, but it hangs there too under the debugger. A chest opening is therefore not shown by these scenes.
+
 ## Scene list
 `scenes.tsv` (from `gen_scenes.py`): title and real boot path, every menu, debug screens, battles (start, commands, win, loss, boss, with party), all movies and ending branches, all 79 maps with their title cards, and every script event of every map.
 

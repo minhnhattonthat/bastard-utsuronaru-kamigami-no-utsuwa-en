@@ -32,7 +32,7 @@ def test_warp_patches_the_code_it_was_written_against():
     exe = EXE.read_bytes()
     lua = (ROOT / "tools/debug/warp.lua").read_text(encoding="utf-8")
     pairs = re.findall(r"\{ (0x[0-9A-F]{8}), (0x[0-9A-F]{8}),", lua)
-    assert len(pairs) == 17  # new-game branch 10, event trigger 6, entry event 1
+    assert len(pairs) == 21  # new-game branch 10, event trigger 6, chest animation 4, entry event 1
     for addr, word in pairs:
         assert struct.unpack_from("<I", exe, int(addr, 16) - BASE)[0] == int(word, 16), addr
 

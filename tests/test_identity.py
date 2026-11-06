@@ -83,7 +83,7 @@ def test_encode_form1_restores_wiped_edc_and_ecc():
 
 @needs_rom
 def test_identity_build_equals_original_disc(tmp_path):
-    out = build.build(tmp_path / "identity.bin")
+    out = build.build(tmp_path / "identity.bin", edits=False)
     want = (ROOT / "rom.sha1").read_text(encoding="utf-8").splitlines()[1].split()[0]
     with open(out, "rb") as f:
         assert hashlib.file_digest(f, "sha1").hexdigest() == want

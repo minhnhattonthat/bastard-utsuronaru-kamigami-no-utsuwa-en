@@ -3,7 +3,7 @@
   "id": "t0692_00008",
   "off": 8,
   "term": "00",
-  "max": 40,
+  "max": 20,
   "kind": "label",
   "refs": [
    "t692:rec0"
@@ -15,7 +15,7 @@
   "id": "t0692_000c4",
   "off": 196,
   "term": "00",
-  "max": 40,
+  "max": 20,
   "kind": "label",
   "refs": [
    "t692:rec1"
@@ -27,7 +27,7 @@
   "id": "t0692_00180",
   "off": 384,
   "term": "00",
-  "max": 40,
+  "max": 20,
   "kind": "label",
   "refs": [
    "t692:rec2"
@@ -39,7 +39,7 @@
   "id": "t0692_0023c",
   "off": 572,
   "term": "00",
-  "max": 40,
+  "max": 20,
   "kind": "label",
   "refs": [
    "t692:rec3"
@@ -51,7 +51,7 @@
   "id": "t0692_002f8",
   "off": 760,
   "term": "00",
-  "max": 40,
+  "max": 20,
   "kind": "label",
   "refs": [
    "t692:rec4"
@@ -63,7 +63,7 @@
   "id": "t0692_003b4",
   "off": 948,
   "term": "00",
-  "max": 40,
+  "max": 20,
   "kind": "label",
   "refs": [
    "t692:rec5"
@@ -75,7 +75,7 @@
   "id": "t0692_00470",
   "off": 1136,
   "term": "00",
-  "max": 40,
+  "max": 20,
   "kind": "label",
   "refs": [
    "t692:rec6"
@@ -87,7 +87,7 @@
   "id": "t0692_0052c",
   "off": 1324,
   "term": "00",
-  "max": 40,
+  "max": 20,
   "kind": "label",
   "refs": [
    "t692:rec7"
@@ -99,7 +99,7 @@
   "id": "t0692_005e8",
   "off": 1512,
   "term": "00",
-  "max": 40,
+  "max": 20,
   "kind": "label",
   "refs": [
    "t692:rec8"
@@ -111,7 +111,7 @@
   "id": "t0692_006a4",
   "off": 1700,
   "term": "00",
-  "max": 40,
+  "max": 20,
   "kind": "label",
   "refs": [
    "t692:rec9"
@@ -123,7 +123,7 @@
   "id": "t0692_00760",
   "off": 1888,
   "term": "00",
-  "max": 40,
+  "max": 20,
   "kind": "label",
   "refs": [
    "t692:rec10"
@@ -135,7 +135,7 @@
   "id": "t0692_0081c",
   "off": 2076,
   "term": "00",
-  "max": 40,
+  "max": 20,
   "kind": "label",
   "refs": [
    "t692:rec11"
@@ -147,7 +147,7 @@
   "id": "t0692_008d8",
   "off": 2264,
   "term": "00",
-  "max": 40,
+  "max": 20,
   "kind": "label",
   "refs": [
    "t692:rec12"
@@ -159,7 +159,7 @@
   "id": "t0692_00994",
   "off": 2452,
   "term": "00",
-  "max": 40,
+  "max": 20,
   "kind": "label",
   "refs": [
    "t692:rec13"
@@ -171,7 +171,7 @@
   "id": "t0692_00a50",
   "off": 2640,
   "term": "00",
-  "max": 40,
+  "max": 20,
   "kind": "label",
   "refs": [
    "t692:rec14"
@@ -183,7 +183,7 @@
   "id": "t0692_00b0c",
   "off": 2828,
   "term": "00",
-  "max": 40,
+  "max": 20,
   "kind": "label",
   "refs": [
    "t692:rec15"
@@ -195,7 +195,7 @@
   "id": "t0692_00bc8",
   "off": 3016,
   "term": "00",
-  "max": 40,
+  "max": 20,
   "kind": "label",
   "refs": [
    "t692:rec16"
@@ -207,7 +207,7 @@
   "id": "t0692_00c84",
   "off": 3204,
   "term": "00",
-  "max": 40,
+  "max": 20,
   "kind": "label",
   "refs": [
    "t692:rec17"
@@ -219,7 +219,7 @@
   "id": "t0692_00d40",
   "off": 3392,
   "term": "00",
-  "max": 40,
+  "max": 20,
   "kind": "label",
   "refs": [
    "t692:rec18"
@@ -231,7 +231,7 @@
   "id": "t0692_00dfc",
   "off": 3580,
   "term": "00",
-  "max": 40,
+  "max": 20,
   "kind": "label",
   "refs": [
    "t692:rec19"
@@ -243,7 +243,7 @@
   "id": "t0692_00eb8",
   "off": 3768,
   "term": "00",
-  "max": 40,
+  "max": 20,
   "kind": "label",
   "refs": [
    "t692:rec20"
@@ -255,7 +255,7 @@
   "id": "t0692_00f74",
   "off": 3956,
   "term": "00",
-  "max": 40,
+  "max": 20,
   "kind": "label",
   "refs": [
    "t692:rec21"
@@ -267,7 +267,7 @@
   "id": "t0692_01030",
   "off": 4144,
   "term": "00",
-  "max": 40,
+  "max": 20,
   "kind": "label",
   "refs": [
    "t692:rec22"
@@ -279,7 +279,7 @@
   "id": "t0692_010ec",
   "off": 4332,
   "term": "00",
-  "max": 40,
+  "max": 20,
   "kind": "label",
   "refs": [
    "t692:rec23"
@@ -291,7 +291,7 @@
   "id": "t0692_011a8",
   "off": 4520,
   "term": "00",
-  "max": 40,
+  "max": 20,
   "kind": "label",
   "refs": [
    "t692:rec24"
@@ -303,7 +303,7 @@
   "id": "t0692_01264",
   "off": 4708,
   "term": "00",
-  "max": 40,
+  "max": 20,
   "kind": "label",
   "refs": [
    "t692:rec25"
@@ -315,7 +315,7 @@
   "id": "t0692_01320",
   "off": 4896,
   "term": "00",
-  "max": 40,
+  "max": 20,
   "kind": "label",
   "refs": [
    "t692:rec26"
@@ -327,7 +327,7 @@
   "id": "t0692_013dc",
   "off": 5084,
   "term": "00",
-  "max": 40,
+  "max": 20,
   "kind": "label",
   "refs": [
    "t692:rec27"
@@ -339,7 +339,7 @@
   "id": "t0692_01498",
   "off": 5272,
   "term": "00",
-  "max": 40,
+  "max": 20,
   "kind": "label",
   "refs": [
    "t692:rec28"
@@ -351,7 +351,7 @@
   "id": "t0692_01554",
   "off": 5460,
   "term": "00",
-  "max": 40,
+  "max": 20,
   "kind": "label",
   "refs": [
    "t692:rec29"

@@ -25,7 +25,7 @@ Runtime joins: `  %sを%dつ手に入れた！` (item, count), `%sが仲間に�
 | data | 49 | Script map ids in ASCII (`1_02`): never touch |
 | debug | 169 | Debug screens and the EXE name pool: stay Japanese unless the marker tour shows one in a retail run |
 | card | 2 | Memory card save title. The card directory needs Shift-JIS, so these stay full-width: EXE 0x1B70, 0x1BA4 |
-| label | 2,919 | Tables 392, 551-736: developer labels, shown in game? **Unknown**, the marker tour decides (many repeat per area) |
+| label | 2,953 | Tables 392, 551-736. Enemy names in 551-736 show in battle, so translate them; table 392 has not been seen on screen (`windows.md`). Many repeat per area |
 
 Coverage: `text_runs` looks for Japanese with no pointer logic, over every script, overlay, table, map and the whole EXE; only two runs in EXE code are left over, and `tests/test_extract.py` names them. `fcg` entries hold images only and the sound bank (entry 6) is skipped.
 

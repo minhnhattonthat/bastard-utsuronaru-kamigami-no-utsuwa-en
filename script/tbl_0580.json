@@ -3,7 +3,7 @@
   "id": "t0580_00004",
   "off": 4,
   "term": "00",
-  "max": 40,
+  "max": 20,
   "kind": "label",
   "refs": [
    "t580:rec0"
@@ -15,7 +15,7 @@
   "id": "t0580_00528",
   "off": 1320,
   "term": "00",
-  "max": 40,
+  "max": 20,
   "kind": "label",
   "refs": [
    "t580:rec1"
@@ -27,7 +27,7 @@
   "id": "t0580_00a4c",
   "off": 2636,
   "term": "00",
-  "max": 40,
+  "max": 20,
   "kind": "label",
   "refs": [
    "t580:rec2"
@@ -39,7 +39,7 @@
   "id": "t0580_00f70",
   "off": 3952,
   "term": "00",
-  "max": 40,
+  "max": 20,
   "kind": "label",
   "refs": [
    "t580:rec3"
@@ -51,7 +51,7 @@
   "id": "t0580_01494",
   "off": 5268,
   "term": "00",
-  "max": 40,
+  "max": 20,
   "kind": "label",
   "refs": [
    "t580:rec4"
@@ -63,7 +63,7 @@
   "id": "t0580_019b8",
   "off": 6584,
   "term": "00",
-  "max": 40,
+  "max": 20,
   "kind": "label",
   "refs": [
    "t580:rec5"
@@ -75,7 +75,7 @@
   "id": "t0580_01edc",
   "off": 7900,
   "term": "00",
-  "max": 40,
+  "max": 20,
   "kind": "label",
   "refs": [
    "t580:rec6"
@@ -87,7 +87,7 @@
   "id": "t0580_02400",
   "off": 9216,
   "term": "00",
-  "max": 40,
+  "max": 20,
   "kind": "label",
   "refs": [
    "t580:rec7"
@@ -99,7 +99,7 @@
   "id": "t0580_02924",
   "off": 10532,
   "term": "00",
-  "max": 40,
+  "max": 20,
   "kind": "label",
   "refs": [
    "t580:rec8"
@@ -111,7 +111,7 @@
   "id": "t0580_02e48",
   "off": 11848,
   "term": "00",
-  "max": 40,
+  "max": 20,
   "kind": "label",
   "refs": [
    "t580:rec9"
@@ -123,7 +123,7 @@
   "id": "t0580_0336c",
   "off": 13164,
   "term": "00",
-  "max": 40,
+  "max": 20,
   "kind": "label",
   "refs": [
    "t580:rec10"
@@ -135,7 +135,7 @@
   "id": "t0580_03890",
   "off": 14480,
   "term": "00",
-  "max": 40,
+  "max": 20,
   "kind": "label",
   "refs": [
    "t580:rec11"

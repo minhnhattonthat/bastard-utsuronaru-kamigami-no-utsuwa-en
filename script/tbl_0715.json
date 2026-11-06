@@ -3,7 +3,7 @@
   "id": "t0715_00008",
   "off": 8,
   "term": "00",
-  "max": 40,
+  "max": 20,
   "kind": "label",
   "refs": [
    "t715:rec0"
@@ -15,7 +15,7 @@
   "id": "t0715_000c4",
   "off": 196,
   "term": "00",
-  "max": 40,
+  "max": 20,
   "kind": "label",
   "refs": [
    "t715:rec1"
@@ -27,7 +27,7 @@
   "id": "t0715_00180",
   "off": 384,
   "term": "00",
-  "max": 40,
+  "max": 20,
   "kind": "label",
   "refs": [
    "t715:rec2"
@@ -39,7 +39,7 @@
   "id": "t0715_0023c",
   "off": 572,
   "term": "00",
-  "max": 40,
+  "max": 20,
   "kind": "label",
   "refs": [
    "t715:rec3"
@@ -51,7 +51,7 @@
   "id": "t0715_002f8",
   "off": 760,
   "term": "00",
-  "max": 40,
+  "max": 20,
   "kind": "label",
   "refs": [
    "t715:rec4"
@@ -63,7 +63,7 @@
   "id": "t0715_003b4",
   "off": 948,
   "term": "00",
-  "max": 40,
+  "max": 20,
   "kind": "label",
   "refs": [
    "t715:rec5"
@@ -75,7 +75,7 @@
   "id": "t0715_00470",
   "off": 1136,
   "term": "00",
-  "max": 40,
+  "max": 20,
   "kind": "label",
   "refs": [
    "t715:rec6"
@@ -87,7 +87,7 @@
   "id": "t0715_0052c",
   "off": 1324,
   "term": "00",
-  "max": 40,
+  "max": 20,
   "kind": "label",
   "refs": [
    "t715:rec7"
@@ -99,7 +99,7 @@
   "id": "t0715_005e8",
   "off": 1512,
   "term": "00",
-  "max": 40,
+  "max": 20,
   "kind": "label",
   "refs": [
    "t715:rec8"
@@ -111,7 +111,7 @@
   "id": "t0715_006a4",
   "off": 1700,
   "term": "00",
-  "max": 40,
+  "max": 20,
   "kind": "label",
   "refs": [
    "t715:rec9"
@@ -123,7 +123,7 @@
   "id": "t0715_00760",
   "off": 1888,
   "term": "00",
-  "max": 40,
+  "max": 20,
   "kind": "label",
   "refs": [
    "t715:rec10"
@@ -135,7 +135,7 @@
   "id": "t0715_0081c",
   "off": 2076,
   "term": "00",
-  "max": 40,
+  "max": 20,
   "kind": "label",
   "refs": [
    "t715:rec11"
@@ -147,7 +147,7 @@
   "id": "t0715_008d8",
   "off": 2264,
   "term": "00",
-  "max": 40,
+  "max": 20,
   "kind": "label",
   "refs": [
    "t715:rec12"
@@ -159,7 +159,7 @@
   "id": "t0715_00994",
   "off": 2452,
   "term": "00",
-  "max": 40,
+  "max": 20,
   "kind": "label",
   "refs": [
    "t715:rec13"
@@ -171,7 +171,7 @@
   "id": "t0715_00a50",
   "off": 2640,
   "term": "00",
-  "max": 40,
+  "max": 20,
   "kind": "label",
   "refs": [
    "t715:rec14"
@@ -183,7 +183,7 @@
   "id": "t0715_00b0c",
   "off": 2828,
   "term": "00",
-  "max": 40,
+  "max": 20,
   "kind": "label",
   "refs": [
    "t715:rec15"
@@ -195,7 +195,7 @@
   "id": "t0715_00bc8",
   "off": 3016,
   "term": "00",
-  "max": 40,
+  "max": 20,
   "kind": "label",
   "refs": [
    "t715:rec16"
@@ -207,7 +207,7 @@
   "id": "t0715_00c84",
   "off": 3204,
   "term": "00",
-  "max": 40,
+  "max": 20,
   "kind": "label",
   "refs": [
    "t715:rec17"

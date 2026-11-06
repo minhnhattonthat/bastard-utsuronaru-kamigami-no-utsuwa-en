@@ -3,7 +3,7 @@
   "id": "t0586_00004",
   "off": 4,
   "term": "00",
-  "max": 40,
+  "max": 20,
   "kind": "label",
   "refs": [
    "t586:rec0"
@@ -15,7 +15,7 @@
   "id": "t0586_00528",
   "off": 1320,
   "term": "00",
-  "max": 40,
+  "max": 20,
   "kind": "label",
   "refs": [
    "t586:rec1"

@@ -3,7 +3,7 @@
   "id": "t0563_00004",
   "off": 4,
   "term": "00",
-  "max": 40,
+  "max": 20,
   "kind": "label",
   "refs": [
    "t563:rec0"

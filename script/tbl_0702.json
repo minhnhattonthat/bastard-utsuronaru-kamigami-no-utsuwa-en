@@ -3,7 +3,7 @@
   "id": "t0702_00008",
   "off": 8,
   "term": "00",
-  "max": 40,
+  "max": 20,
   "kind": "label",
   "refs": [
    "t702:rec0"
@@ -15,7 +15,7 @@
   "id": "t0702_000c4",
   "off": 196,
   "term": "00",
-  "max": 40,
+  "max": 20,
   "kind": "label",
   "refs": [
    "t702:rec1"
@@ -27,7 +27,7 @@
   "id": "t0702_00180",
   "off": 384,
   "term": "00",
-  "max": 40,
+  "max": 20,
   "kind": "label",
   "refs": [
    "t702:rec2"
@@ -39,7 +39,7 @@
   "id": "t0702_0023c",
   "off": 572,
   "term": "00",
-  "max": 40,
+  "max": 20,
   "kind": "label",
   "refs": [
    "t702:rec3"
@@ -51,7 +51,7 @@
   "id": "t0702_002f8",
   "off": 760,
   "term": "00",
-  "max": 40,
+  "max": 20,
   "kind": "label",
   "refs": [
    "t702:rec4"
@@ -63,7 +63,7 @@
   "id": "t0702_003b4",
   "off": 948,
   "term": "00",
-  "max": 40,
+  "max": 20,
   "kind": "label",
   "refs": [
    "t702:rec5"
@@ -75,7 +75,7 @@
   "id": "t0702_00470",
   "off": 1136,
   "term": "00",
-  "max": 40,
+  "max": 20,
   "kind": "label",
   "refs": [
    "t702:rec6"
@@ -87,7 +87,7 @@
   "id": "t0702_0052c",
   "off": 1324,
   "term": "00",
-  "max": 40,
+  "max": 20,
   "kind": "label",
   "refs": [
    "t702:rec7"
@@ -99,7 +99,7 @@
   "id": "t0702_005e8",
   "off": 1512,
   "term": "00",
-  "max": 40,
+  "max": 20,
   "kind": "label",
   "refs": [
    "t702:rec8"
@@ -111,7 +111,7 @@
   "id": "t0702_006a4",
   "off": 1700,
   "term": "00",
-  "max": 40,
+  "max": 20,
   "kind": "label",
   "refs": [
    "t702:rec9"
@@ -123,7 +123,7 @@
   "id": "t0702_00760",
   "off": 1888,
   "term": "00",
-  "max": 40,
+  "max": 20,
   "kind": "label",
   "refs": [
    "t702:rec10"
@@ -135,7 +135,7 @@
   "id": "t0702_0081c",
   "off": 2076,
   "term": "00",
-  "max": 40,
+  "max": 20,
   "kind": "label",
   "refs": [
    "t702:rec11"
@@ -147,7 +147,7 @@
   "id": "t0702_008d8",
   "off": 2264,
   "term": "00",
-  "max": 40,
+  "max": 20,
   "kind": "label",
   "refs": [
    "t702:rec12"
@@ -159,7 +159,7 @@
   "id": "t0702_00994",
   "off": 2452,
   "term": "00",
-  "max": 40,
+  "max": 20,
   "kind": "label",
   "refs": [
    "t702:rec13"
@@ -171,7 +171,7 @@
   "id": "t0702_00a50",
   "off": 2640,
   "term": "00",
-  "max": 40,
+  "max": 20,
   "kind": "label",
   "refs": [
    "t702:rec14"
@@ -183,7 +183,7 @@
   "id": "t0702_00b0c",
   "off": 2828,
   "term": "00",
-  "max": 40,
+  "max": 20,
   "kind": "label",
   "refs": [
    "t702:rec15"
@@ -195,12 +195,24 @@
   "id": "t0702_00bc8",
   "off": 3016,
   "term": "00",
-  "max": 40,
+  "max": 20,
   "kind": "label",
   "refs": [
    "t702:rec16"
   ],
   "jp": "カースドドール",
+  "en": ""
+ },
+ {
+  "id": "t0702_00c84",
+  "off": 3204,
+  "term": "",
+  "max": 20,
+  "kind": "label",
+  "refs": [
+   "t702:rec17"
+  ],
+  "jp": "スマイリーファントム",
   "en": ""
  }
 ]

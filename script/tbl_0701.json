@@ -3,7 +3,7 @@
   "id": "t0701_00008",
   "off": 8,
   "term": "00",
-  "max": 40,
+  "max": 20,
   "kind": "label",
   "refs": [
    "t701:rec0"
@@ -15,7 +15,7 @@
   "id": "t0701_000c4",
   "off": 196,
   "term": "00",
-  "max": 40,
+  "max": 20,
   "kind": "label",
   "refs": [
    "t701:rec1"
@@ -27,7 +27,7 @@
   "id": "t0701_00180",
   "off": 384,
   "term": "00",
-  "max": 40,
+  "max": 20,
   "kind": "label",
   "refs": [
    "t701:rec2"
@@ -39,7 +39,7 @@
   "id": "t0701_0023c",
   "off": 572,
   "term": "00",
-  "max": 40,
+  "max": 20,
   "kind": "label",
   "refs": [
    "t701:rec3"
@@ -51,7 +51,7 @@
   "id": "t0701_002f8",
   "off": 760,
   "term": "00",
-  "max": 40,
+  "max": 20,
   "kind": "label",
   "refs": [
    "t701:rec4"
@@ -63,7 +63,7 @@
   "id": "t0701_003b4",
   "off": 948,
   "term": "00",
-  "max": 40,
+  "max": 20,
   "kind": "label",
   "refs": [
    "t701:rec5"
@@ -75,7 +75,7 @@
   "id": "t0701_00470",
   "off": 1136,
   "term": "00",
-  "max": 40,
+  "max": 20,
   "kind": "label",
   "refs": [
    "t701:rec6"
@@ -87,7 +87,7 @@
   "id": "t0701_0052c",
   "off": 1324,
   "term": "00",
-  "max": 40,
+  "max": 20,
   "kind": "label",
   "refs": [
    "t701:rec7"
@@ -99,7 +99,7 @@
   "id": "t0701_005e8",
   "off": 1512,
   "term": "00",
-  "max": 40,
+  "max": 20,
   "kind": "label",
   "refs": [
    "t701:rec8"
@@ -111,7 +111,7 @@
   "id": "t0701_006a4",
   "off": 1700,
   "term": "00",
-  "max": 40,
+  "max": 20,
   "kind": "label",
   "refs": [
    "t701:rec9"
@@ -123,7 +123,7 @@
   "id": "t0701_00760",
   "off": 1888,
   "term": "00",
-  "max": 40,
+  "max": 20,
   "kind": "label",
   "refs": [
    "t701:rec10"
@@ -135,7 +135,7 @@
   "id": "t0701_0081c",
   "off": 2076,
   "term": "00",
-  "max": 40,
+  "max": 20,
   "kind": "label",
   "refs": [
    "t701:rec11"
@@ -147,7 +147,7 @@
   "id": "t0701_008d8",
   "off": 2264,
   "term": "00",
-  "max": 40,
+  "max": 20,
   "kind": "label",
   "refs": [
    "t701:rec12"
@@ -159,7 +159,7 @@
   "id": "t0701_00994",
   "off": 2452,
   "term": "00",
-  "max": 40,
+  "max": 20,
   "kind": "label",
   "refs": [
    "t701:rec13"
@@ -171,7 +171,7 @@
   "id": "t0701_00a50",
   "off": 2640,
   "term": "00",
-  "max": 40,
+  "max": 20,
   "kind": "label",
   "refs": [
    "t701:rec14"
