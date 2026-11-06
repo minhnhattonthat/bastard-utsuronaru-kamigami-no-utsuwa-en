@@ -1,0 +1,2 @@
+# Cold boot: wait through BIOS and logos to the title
+1800 -
