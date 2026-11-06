@@ -8,7 +8,7 @@ Skill: translate-retro-game (Claude Code: plugin, enabled in .claude/settings.js
 - Check:    `python -X utf8 tools/check.py` (tests; the pre-commit hook runs this)
 - Smoke:    `python -X utf8 "$(python tools/skill.py)/scripts/emu.py" <cue> --out work/qa/smoke --route tools/routes/boot.txt --smoke`
 - New game: `--route tools/routes/newgame.txt --mash 150 --mash-key circle --frames 20000 --timeout 500` (prologue movie can't be skipped; first narration at ~frame 16700)
-- Warp:     phase 2 (`tools/debug/`). Never ask the user to play to a scene.
+- Warp:     `python -X utf8 tools/debug/warp.py NAME [--cue CUE]` (`list`, `all`; then `warp_report.py`; see `tools/debug/README.md`). Never ask the user to play to a scene.
 - Release:  phase 9 (`tools/release.py`: xdelta against the .bin; never publish without the user)
 - Clean:    `python -X utf8 tools/clean.py`
 

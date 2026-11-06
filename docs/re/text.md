@@ -15,7 +15,7 @@ Control bytes in `ssg` strings (verified by decoding 81 scripts; meaning of 0x0B
 No speaker-name or variable codes noticed in the strings read so far (a sample, not a census: the phase 4 extractor must count every byte below 0x20). The EXE holds sentence fragments such as `つ手に入れた！` and `を手に入れた！` which are likely joined to item names at runtime (**guess**): watch for this when reordering sentences.
 
 ## Script files (`ssg`, 81 entries, 545 KB of text, 6,359 strings, largest file 50 KB)
-Chunks: `ssg ` > `scr ` > `prg ` (u32 size, payload at file offset 0x18), then `idx ` and `000 `, `001 `... records holding code offsets. The payload is **compiled MIPS, position independent, with strings between functions**:
+Chunks: `ssg ` > `scr ` > `prg ` (u32 size, payload at file offset 0x18), then `idx ` ($gp value) and `001 `, `002 `... event records holding code offsets from file offset 8 (`code.md`). The payload is **compiled MIPS, position independent, with strings between functions**:
 
 ```
 ori  $a0, $zero, off      ; off = string - gp, 16-bit unsigned
@@ -50,4 +50,4 @@ Latin labels already in English exist in overlay 2 (`COMMAND`, `PARTY`, `STATUS`
 English plan for phase 5: hook this function to return glyphs from our own font for a private code range, then pair half-width or VWF letters into cells. Needs the real BIOS in QA (`tools/bios/scph5500.bin`), since OpenBIOS has no such font.
 
 ## Debug leftovers
-EXE holds `最初から（デバッグあり版）`, `続きから（デバッグあり版）` and event-battle variants (0xFB8-0x1048, pointer table near 0x8DB68), plus `グローバルフラグ`, `システムフラグ`, `スクリプト`, a map list and `sdebug.cpp`, `Rdebug`, `DEBUG.LOG`. A built-in debug menu probably survives: first thing to try in phase 2.
+EXE holds `最初から（デバッグあり版）`, `続きから（デバッグあり版）` and event-battle variants (0xFB8-0x1048, pointer table near 0x8DB68), plus `グローバルフラグ`, `システムフラグ`, `スクリプト`, a map list and `sdebug.cpp`, `Rdebug`, `DEBUG.LOG`. The start menu with those strings has no caller left, but the debug screens work: see `code.md`. These strings are never seen in a retail run, so they can stay Japanese.
