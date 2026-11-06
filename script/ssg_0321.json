@@ -21,7 +21,7 @@
    ""
   ],
   "jp": "洞窟を抜けると、そこはこれまでとは{n}比べものにならぬほど広い、岩壁の{n}天蓋に覆われた巨大な地底空間だった。",
-  "en": ""
+  "en": "Beyond the cave lay a vast underground{n}space, roofed by a canopy of rock,{n}incomparably wider than anything before{n}it."
  },
  {
   "id": "s0321_00884",
@@ -45,7 +45,7 @@
    ""
   ],
   "jp": "目が眩むほど高い天蓋との間には、{n}薄い層雲がかかっていた。その雲から{n}落ちてくるのか、それとも天蓋から{n}滲み出しているのか、霧雨状の水滴が{n}静かに視界を煙らせている。",
-  "en": ""
+  "en": "Thin layers of cloud hung beneath that{n}dizzyingly high canopy. Whether falling{n}from the clouds or seeping from the rock{n}above, a fine drizzle silently veiled the{n}view."
  },
  {
   "id": "s0321_00928",
@@ -69,7 +69,7 @@
    ""
   ],
   "jp": "大地は水気を吸った広大な湿地だった。{n}足に絡みつく水草が繁茂し、その隙間{n}から時折、瘴気の気泡が浮かび上がっ{n}ては弾ける。直に歩いて渡れる場所で{n}はないようだった。",
-  "en": ""
+  "en": "The ground was a broad, waterlogged{n}marsh. Water weeds that clung to the{n}feet grew thick, and between them{n}bubbles of miasma now and then rose and{n}burst. It did not seem a place one could{n}cross on foot."
  },
  {
   "id": "s0321_009cc",
@@ -93,7 +93,7 @@
    ""
   ],
   "jp": "湿地には、木で造られた渡り板が唯一{n}の道として設けられていた。それは{n}湿地の奥へと延び、ところどころに{n}雨をしのぐあずま屋らしきものが建て{n}られている。この湿地を庭に見立てて{n}いるのだとすれば、およそ悪趣味な{n}庭園であると言うべきだった。",
-  "en": ""
+  "en": "Wooden boardwalks had been laid across{n}the marsh as the only road. They{n}stretched into its depths, and here and{n}there stood what appeared to be arbors{n}for shelter from the rain. If this marsh{n}was meant as a garden, it could only be{n}called a garden in the worst of taste."
  },
  {
   "id": "s0321_00ab8",
@@ -117,7 +117,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "ここに逃げ込みやがったのか――",
-  "en": ""
+  "en": "So this is where he ran off to--"
  },
  {
   "id": "s0321_00ad8",
@@ -141,7 +141,7 @@
    "ネイ"
   ],
   "jp": "想像以上に広い地底空間ね……さっき{n}までは大きめの鍾乳洞のように思って{n}いたけど、この規模では地下世界と{n}呼んだほうが相応しいわ――",
-  "en": ""
+  "en": "This underground space is even wider than I{n}imagined... Until now I thought of it as a{n}largish limestone cave, but at this scale,{n}\"underworld\" is the more fitting word--"
  },
  {
   "id": "s0321_00b5c",
@@ -165,7 +165,7 @@
    "ガラ"
   ],
   "jp": "イヤな雨だぜ。薄い酸を含んでやがる。{n}長く浴びてっとひと皮ムケちまうぞ",
-  "en": ""
+  "en": "Nasty rain. It's got a thin acid in it. Stand{n}out in it too long and you'll peel a whole{n}layer of skin."
  },
  {
   "id": "s0321_00ba4",
@@ -189,7 +189,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "暗黒僧を追うにしろ、先に進むにしろ、{n}あの木道を渡ってくしかねえようだ。{n}オメエら、気ィつけろよ――",
-  "en": ""
+  "en": "Whether we chase the Dark Priest or just{n}keep going, looks like we gotta cross that{n}boardwalk. Watch yourselves, you guys--"
  },
  {
   "id": "s0321_00d04",
@@ -213,7 +213,7 @@
    ""
   ],
   "jp": "霧雨に煙る木道の視界は予想外に悪く、{n}少し離れると人の見分けもつかない。{n}足を踏み外さぬよう慎重に進むうち、{n}前方にぼんやりと、黒い人影が見えた。",
-  "en": ""
+  "en": "The drizzle on the boardwalk hid more{n}than expected: a short way off, one{n}person could not be told from another. As{n}they went carefully on, so as not to{n}misstep, a dark human figure loomed{n}vaguely ahead."
  },
  {
   "id": "s0321_00d98",
@@ -237,7 +237,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "暗黒僧か――？",
-  "en": ""
+  "en": "The Dark Priest--?"
  },
  {
   "id": "s0321_00da8",
@@ -261,7 +261,7 @@
    "ヴァイ"
   ],
   "jp": "Ｄ・Ｓ！　良かった、ようやく合流{n}できたぜ！",
-  "en": ""
+  "en": "D.S.! Thank god, I finally found you guys!"
  },
  {
   "id": "s0321_00dd8",
@@ -285,7 +285,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "ヴァイか！",
-  "en": ""
+  "en": "Vai!"
  },
  {
   "id": "s0321_00de4",
@@ -309,7 +309,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "ヴァイも、おおむね状況は同じである{n}らしかった。ひとりで湿地に飛ばされ、{n}途方に暮れていたのであった。",
-  "en": ""
+  "en": "Vai's situation seemed much the same as{n}theirs. Thrown into the marsh alone, he{n}had been at a loss."
  },
  {
   "id": "s0321_00e4c",
@@ -333,7 +333,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "ところでオメエ、牛の骨みたいなモン{n}被った、見るからに怪しい黒ローブの{n}奴を見なかったか？",
-  "en": ""
+  "en": "Hey, you see a guy in a black robe wearing{n}something like a cow skull? Looks shady as{n}hell."
  },
  {
   "id": "s0321_00ea8",
@@ -357,7 +357,7 @@
    "ヴァイ"
   ],
   "jp": "牛ィ？　いんや、アンタらが来るまで、{n}ここを通ったヤツはいなかったな",
-  "en": ""
+  "en": "A cow? Nope, nobody's come through here{n}till you guys showed up."
  },
  {
   "id": "s0321_00ef0",
@@ -381,7 +381,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "ここまで一本道のハズなんだが……{n}奴には毒の湿地も関係ねえのかも{n}知れねえな――",
-  "en": ""
+  "en": "There oughta be just the one road this far...{n}Maybe a poison marsh don't mean squat to{n}him--"
  },
  {
   "id": "s0321_0105c",
@@ -405,7 +405,7 @@
    ""
   ],
   "jp": "あずま屋の下に、ぼんやりと佇む男の{n}姿があった。",
-  "en": ""
+  "en": "Beneath an arbor, a man stood{n}vacantly."
  },
  {
   "id": "s0321_01090",
@@ -429,7 +429,7 @@
    ""
   ],
   "jp": "ヨシュアである。だが、その瞳は虚ろ{n}で、一行に気づいた様子もない。生気{n}を抜かれたように立ち尽くしている。",
-  "en": ""
+  "en": "It was Joshua. But his eyes were hollow,{n}and he seemed not to notice the party.{n}He stood rooted there as if the life had{n}been drawn out of him."
  },
  {
   "id": "s0321_010fc",
@@ -453,7 +453,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "おい！　ヨシュア！",
-  "en": ""
+  "en": "Hey! Joshua!"
  },
  {
   "id": "s0321_01110",
@@ -501,7 +501,7 @@
    "ヨシュア"
   ],
   "jp": "強く呼びかけられ、ヨシュアの瞳に{n}覚醒の光が灯った。今の今まで強力な{n}術に括られ、催眠状態にあったらしい。",
-  "en": ""
+  "en": "At the sharp call, the light of waking{n}returned to Joshua's eyes. He had{n}apparently been bound until that very{n}moment by a powerful art, in a state of{n}hypnosis."
  },
  {
   "id": "s0321_01188",
@@ -525,7 +525,7 @@
    "ヨシュア"
   ],
   "jp": "――その暗黒僧とやらかどうかは断言{n}できないが、不意を衝かれて術をかけ{n}られてしまったようだ。魔法剣士たる{n}侍として、情けない限りだ……",
-  "en": ""
+  "en": "--I cannot say for certain that it was this{n}Dark Priest of yours, but it seems I was{n}taken unawares and put under an art. For a{n}samurai, a magic swordsman, it is utterly{page}shameful..."
  },
  {
   "id": "s0321_01210",
@@ -549,7 +549,7 @@
    "ヨシュア"
   ],
   "jp": "それと……他のみんなは？",
-  "en": ""
+  "en": "And... what of the others?"
  },
  {
   "id": "s0321_0122c",
@@ -573,7 +573,7 @@
    "ヨシュア"
   ],
   "jp": "未だ行方が判らぬと知り、ヨシュアの{n}表情は曇った。はっきりとは口に{n}出さないが、カイのことを気遣って{n}いるのは誰の目にも明らかだった。",
-  "en": ""
+  "en": "Learning that their whereabouts were{n}still unknown, Joshua's face clouded. He{n}did not say it outright, but it was plain to{n}all that he feared for Kai."
  },
  {
   "id": "s0321_012b4",
@@ -597,7 +597,7 @@
    "ヴァイ"
   ],
   "jp": "それにしても、ヨシュアに術をかけた{n}のが暗黒僧ってヤツだとすると、何で{n}命を奪わなかったのかな？",
-  "en": ""
+  "en": "Still, if it was this Dark Priest guy who put{n}an art on Joshua, why didn't he kill him?"
  },
  {
   "id": "s0321_01314",
@@ -621,7 +621,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "判らねえ。何か意図があるに違いねえ{n}んだが……",
-  "en": ""
+  "en": "Beats me. He's gotta be up to something,{n}but..."
  },
  {
   "id": "s0321_01494",
@@ -645,7 +645,7 @@
    ""
   ],
   "jp": "雨中の木道に倒れ伏す、女剣士の姿が{n}あった。",
-  "en": ""
+  "en": "On the boardwalk in the rain, a woman{n}swordsman lay fallen."
  },
  {
   "id": "s0321_014c4",
@@ -669,7 +669,7 @@
    "ヨシュア"
   ],
   "jp": "あれは……カイ！　カイ、しっかり{n}するんだ！",
-  "en": ""
+  "en": "That is... Kai! Kai, hold on!"
  },
  {
   "id": "s0321_014f4",
@@ -693,7 +693,7 @@
    "カイ"
   ],
   "jp": "ん……ヨシュア……？",
-  "en": ""
+  "en": "Mm... Joshua...?"
  },
  {
   "id": "s0321_0150c",
@@ -717,7 +717,7 @@
    "カイ"
   ],
   "jp": "抱き起こされ、カイは薄く目を開けた。{page}日頃、男勝りな言動が目立つカイだけ{n}に、気だるく目覚めた表情は新鮮で、{n}はっとする美貌を気づかせる。特に{n}外傷らしきものは見当たらず、カイも{n}また瞬間的な催眠術にかけられていた{n}ようであった。",
-  "en": ""
+  "en": "Lifted in his arms, Kai faintly opened her{n}eyes.{page}With Kai so often mannish in word and{n}deed, the languid face she woke with{n}came as a surprise, and revealed a{n}startling beauty. There was no sign of any{n}outward wound; it seemed that Kai too{n}had been put under a moment's{n}hypnosis."
  },
  {
   "id": "s0321_015f0",
@@ -741,7 +741,7 @@
    "ヨシュア"
   ],
   "jp": "良かった……無事か……",
-  "en": ""
+  "en": "Thank goodness... You are safe..."
  },
  {
   "id": "s0321_01608",
@@ -765,7 +765,7 @@
    "カイ"
   ],
   "jp": "う……はっ！　だ、大丈夫だ、ひとり{n}で立てるから……",
-  "en": ""
+  "en": "Ugh... Hah! I-I'm fine, I can stand on my{n}own..."
  },
  {
   "id": "s0321_01640",
@@ -789,7 +789,7 @@
    "カイ"
   ],
   "jp": "ヨシュアに抱きかかえられた状況に{n}貌を赤らめ、カイは慌てた様子で身を{n}起こした。",
-  "en": ""
+  "en": "Blushing at finding herself in Joshua's{n}arms, Kai hastily sat up."
  },
  {
   "id": "s0321_01690",
@@ -813,7 +813,7 @@
    "カイ"
   ],
   "jp": "カイも油断していたところを、忍び{n}寄ってきた何者かに術を施された{n}らしい。敵の姿をはっきりと捉える{n}ことはできず、意識を失う寸前、{n}笑みを浮かべた口元からこぼれる{n}白い歯を目撃したのみであった。",
-  "en": ""
+  "en": "Kai too, it seemed, had been caught off{n}guard and put under an art by someone{n}who stole up on her. She could not make{n}out the enemy clearly; all she had seen,{n}just before she lost consciousness, was{n}white teeth showing from a smiling{n}mouth."
  },
  {
   "id": "s0321_01750",
@@ -837,7 +837,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "歯か――暗黒僧め、仮面を外して{n}やがるのか？",
-  "en": ""
+  "en": "Teeth, huh-- So that bastard Dark Priest{n}took off his mask?"
  },
  {
   "id": "s0321_01780",
@@ -861,7 +861,7 @@
    "カイ"
   ],
   "jp": "見間違いでなければだが――",
-  "en": ""
+  "en": "If I didn't see it wrong--"
  },
  {
   "id": "s0321_0179c",
@@ -885,7 +885,7 @@
    "イングヴェイイングヴェイ・フォン・マルムステ"
   ],
   "jp": "油断していたと言え、ヨシュアやカイ{n}の意識を奪うとなれば尋常の使い手{n}ではない。姿を変える術くらい、{n}身につけているかも知れんな……",
-  "en": ""
+  "en": "Even granting they were off guard, to steal{n}the wits of Joshua and Kai is no common{n}skill. He may well have mastered an art of{n}changing his form..."
  },
  {
   "id": "s0321_01820",
@@ -909,7 +909,7 @@
    "ヨシュア"
   ],
   "jp": "雨の中に放置するとは何と無体な……{n}代われるものなら、カイがあずま屋で、{n}俺がここで襲われたなら良かった",
-  "en": ""
+  "en": "How cruel, to leave you lying in the rain... If{n}only it could have been Kai in the arbor, and{n}I who was struck down here."
  },
  {
   "id": "s0321_01888",
@@ -933,7 +933,7 @@
    "カイ"
   ],
   "jp": "ありがとう、ヨシュア……さっきも、{n}助け起こしてくれたお前を振り払う{n}ような真似をして……ごめん",
-  "en": ""
+  "en": "Thank you, Joshua... And earlier, when you{n}helped me up, I shoved you off like that...{n}I'm sorry."
  },
  {
   "id": "s0321_018e8",
@@ -957,7 +957,7 @@
    "ヨシュア"
   ],
   "jp": "何を謝る？　らしくないぞ、カイ",
-  "en": ""
+  "en": "Why apologize? This is not like you, Kai."
  },
  {
   "id": "s0321_01908",
@@ -981,7 +981,7 @@
    "カイ"
   ],
   "jp": "……思い出したんだ。ヨシュアが{n}いつも助けてくれていたこと……",
-  "en": ""
+  "en": "...I remembered. How you, Joshua, were{n}always helping me..."
  },
  {
   "id": "s0321_01948",
@@ -1005,7 +1005,7 @@
    "ヨシュア"
   ],
   "jp": "……そんなこと、当然だろう。侍は{n}いつだって女性や子供を守らなければ{n}ならないのだから……",
-  "en": ""
+  "en": "...That is only natural. A samurai must always{n}protect women and children, after all..."
  },
  {
   "id": "s0321_019a4",
@@ -1029,7 +1029,7 @@
    "カイ"
   ],
   "jp": "俺が女だから――それだけ？",
-  "en": ""
+  "en": "Because I'm a woman-- Is that all?"
  },
  {
   "id": "s0321_019c0",
@@ -1053,7 +1053,7 @@
    "ヨシュア"
   ],
   "jp": "カイ……違う、それは――君が……",
-  "en": ""
+  "en": "Kai... No, that is-- You are..."
  },
  {
   "id": "s0321_019e4",
@@ -1077,7 +1077,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "うっ……心臓が……。先を急ぐぜ！",
-  "en": ""
+  "en": "Ugh... My heart... Let's get a move on!"
  },
  {
   "id": "s0321_01a08",
@@ -1101,7 +1101,7 @@
    "カイ"
   ],
   "jp": "ああ！　シーンたちのことも心配だ。{n}さ、行こう！　ヨシュア",
-  "en": ""
+  "en": "Right! I'm worried about Sean and the others{n}too. Come on, let's go! Joshua."
  },
  {
   "id": "s0321_01a44",
@@ -1125,7 +1125,7 @@
    "ヨシュア"
   ],
   "jp": "君が……その、あれ？",
-  "en": ""
+  "en": "You are... that is, huh?"
  },
  {
   "id": "s0321_01a5c",
@@ -1149,7 +1149,7 @@
    "マカパイン"
   ],
   "jp": "グズ……",
-  "en": ""
+  "en": "Slowpoke..."
  },
  {
   "id": "s0321_01ce4",
@@ -1173,7 +1173,7 @@
    ""
   ],
   "jp": "霧雨の向こうに、抜刀した白刃の{n}煌めきが見えた。",
-  "en": ""
+  "en": "Beyond the drizzle gleamed the white{n}edge of a drawn blade."
  },
  {
   "id": "s0321_01d18",
@@ -1197,7 +1197,7 @@
    ""
   ],
   "jp": "雨の中に、凍りついたように立つのは、{n}魔戦将軍ランであった。剥き出しの肌{n}には細かな傷を無数に負い、滲み出す{n}血が雨に溶けて薄い赤の筋を描く。",
-  "en": ""
+  "en": "Standing as if frozen in the rain was the{n}Sorcerer General Ran. His bare skin bore{n}countless fine cuts, and the blood that{n}seeped from them melted in the rain,{n}tracing thin red lines."
  },
  {
   "id": "s0321_01da8",
@@ -1221,7 +1221,7 @@
    "カイ"
   ],
   "jp": "ランか!?",
-  "en": ""
+  "en": "Is that Ran!?"
  },
  {
   "id": "s0321_01db4",
@@ -1245,7 +1245,7 @@
    "ラン"
   ],
   "jp": "カイ？　いや――そこから動くな！",
-  "en": ""
+  "en": "Kai? No-- Do not move from there!"
  },
  {
   "id": "s0321_01dd8",
@@ -1269,7 +1269,7 @@
    "カイ"
   ],
   "jp": "どういうことだ、ラン!?",
-  "en": ""
+  "en": "What do you mean, Ran!?"
  },
  {
   "id": "s0321_01df0",
@@ -1293,7 +1293,7 @@
    "カイ"
   ],
   "jp": "構えを解かず、ランは一行を見渡した。",
-  "en": ""
+  "en": "Without lowering his guard, Ran looked{n}over the party."
  },
  {
   "id": "s0321_01e18",
@@ -1317,7 +1317,7 @@
    "ラン"
   ],
   "jp": "……正体不明の敵に襲われた。霧の中{n}で何度も切り裂かれ、今この瞬間まで{n}殺気は消えなかった。姿をはっきりと{n}確認することはできなかったが――",
-  "en": ""
+  "en": "...An unknown enemy attacked me. It slashed{n}me again and again in the mist, and its killing{n}intent did not fade until this moment. I could{n}not clearly make out its form, but--"
  },
  {
   "id": "s0321_01ea4",
@@ -1341,7 +1341,7 @@
    "ラン"
   ],
   "jp": "皆の中に敵が紛れ込んでいる可能性が{n}ある。姿や声をそっくりに変え、仲間{n}のふりをしているのかも知れん――",
-  "en": ""
+  "en": "The enemy may have slipped in among you.{n}It may have copied someone's form and{n}voice exactly, and be posing as a{n}comrade--"
  },
  {
   "id": "s0321_01f0c",
@@ -1365,7 +1365,7 @@
    "ヴァイ"
   ],
   "jp": "おいおい、待てよ！　俺たちは今、{n}全員一緒にここに来たんだぜ。お前を{n}襲うことができる奴なんていねえよ！",
-  "en": ""
+  "en": "Whoa, whoa, hang on! We all just got here{n}together, y'know. There's nobody who{n}could've jumped you!"
  },
  {
   "id": "s0321_01f74",
@@ -1389,7 +1389,7 @@
    "ラン"
   ],
   "jp": "……この霧雨の中、全員揃っていると{n}確認できた者がいるのか？　そいつを{n}相手にしていた俺でさえ、この目で{n}捉えることはできなかったのだぞ――",
-  "en": ""
+  "en": "...In this drizzle, can anyone confirm that all{n}were present? Even I, who was fighting it,{n}could not catch it with my own eyes--"
  },
  {
   "id": "s0321_02000",
@@ -1413,7 +1413,7 @@
    "ヴァイ"
   ],
   "jp": "う……そう言われると……",
-  "en": ""
+  "en": "Ugh... When you put it like that..."
  },
  {
   "id": "s0321_0201c",
@@ -1437,7 +1437,7 @@
    "イングヴェイイングヴェイ・フォン・マルムステ"
   ],
   "jp": "暗黒僧は妖術の使い手――我々に気取{n}られることなく、一時的に姿を消した{n}としても不思議はないが……",
-  "en": ""
+  "en": "The Dark Priest is a master of sorcery. It{n}would be no wonder if he vanished for a{n}time without our noticing, but..."
  },
  {
   "id": "s0321_02080",
@@ -1461,7 +1461,7 @@
    "マカパイン"
   ],
   "jp": "そうすると、この湿地で出会った者が、{n}暗黒僧に取って代わられているという{n}疑いが濃いわけか――",
-  "en": ""
+  "en": "In that case, there is good reason to{n}suspect that someone we met in this marsh{n}has been replaced by the Dark Priest--"
  },
  {
   "id": "s0321_020e0",
@@ -1485,7 +1485,7 @@
    "ヴァイ"
   ],
   "jp": "でも、それだったら途中で入れ替わっ{n}たってことも考えられるぜ！{n}現にヨシュアたちだって、後ろから{n}襲われて気絶させられてるんだし……",
-  "en": ""
+  "en": "But then, they could've been swapped along{n}the way too! I mean, Joshua and them got{n}jumped from behind and knocked out..."
  },
  {
   "id": "s0321_02164",
@@ -1509,7 +1509,7 @@
    "ヴァイ"
   ],
   "jp": "重苦しい、息の詰まるような沈黙が{n}その場を支配した。この中に敵が紛れ{n}込んでいるのかも知れない――その{n}恐怖感が黒雲のように沸き上がり、{n}一行を疑心暗鬼に陥れ始めたのだった。{page}霧雨が湿地を静かに叩く音だけが、{n}互いに距離を取って疑わしげな視線を{n}見交わす彼らの間を満たしている。",
-  "en": ""
+  "en": "A heavy, suffocating silence ruled the{n}place. The enemy might be among them--{n}That fear welled up like a black cloud,{n}and began to drive the party into{n}suspicion.{page}Only the sound of the drizzle softly{n}striking the marsh filled the space{n}between them as they drew apart and{n}traded doubtful looks."
  },
  {
   "id": "s0321_02278",
@@ -1533,7 +1533,7 @@
    "ヴァイ"
   ],
   "jp": "静寂を破ったのは、ヨシュアであった。",
-  "en": ""
+  "en": "It was Joshua who broke the silence."
  },
  {
   "id": "s0321_022a0",
@@ -1557,7 +1557,7 @@
    "ヨシュア"
   ],
   "jp": "みんな、落ち着くんだ！　今、我々の{n}心をバラバラにしてはならない！{n}それこそが敵の意図するところ――{n}術中に嵌まってはいけない！",
-  "en": ""
+  "en": "Everyone, calm down! We must not let our{n}hearts be torn apart now! That is exactly{n}what the enemy intends-- We must not fall{n}into his trap!"
  },
  {
   "id": "s0321_02320",
@@ -1581,7 +1581,7 @@
    "カイ"
   ],
   "jp": "――その通りだ。暗黒僧とやらが俺{n}たちを殺さなかったのは、こうして{n}仲間同士が疑い合う状況を作り出す{n}ためだったに違いない",
-  "en": ""
+  "en": "--He's right. This Dark Priest must have{n}spared us to create exactly this: comrades{n}suspecting each other."
  },
  {
   "id": "s0321_0239c",
@@ -1605,7 +1605,7 @@
    "カイ"
   ],
   "jp": "ヨシュアとカイは互いに無防備な背中{n}を相手に預け、全幅の信頼を示し合い{n}ながら語りかけた。仮にどちらかが{n}暗黒僧の化けた敵であり、背後から{n}刺されることになったとしても構わぬ{n}という、死を突き抜けた気持ちがそこ{n}にあった。信じ合うふたりの誠心が、{n}疑心暗鬼に苛まれた一行の心を次第に{n}和らげていく――。",
-  "en": ""
+  "en": "Joshua and Kai each left their unguarded{n}backs to the other, and spoke in a show{n}of complete trust. Even if one were the{n}Dark Priest in disguise, and the other were{n}stabbed from behind, it would not matter:{n}a resolve that had passed beyond death{n}was there. The sincerity of two people{n}who trusted each other gradually{page}eased the hearts of a party tormented{n}by suspicion--."
  },
  {
   "id": "s0321_024c4",
@@ -1629,7 +1629,7 @@
    "カイ"
   ],
   "jp": "ランが、抜刀したままであった剣を{n}鞘に収めた。それを皮切りに、彼らは{n}ぎこちないながらも、過剰な警戒心を{n}解こうと努め始めた。",
-  "en": ""
+  "en": "Ran returned the sword he had kept{n}drawn to its sheath. With that as the{n}start, they began, however awkwardly, to{n}try to let go of their excess of caution."
  },
  {
   "id": "s0321_02544",
@@ -1653,7 +1653,7 @@
    "ラン"
   ],
   "jp": "不安を煽るような言動、済まなかった。{n}確かに我々が疑い合い、力を合わせる{n}ことができなくなれば、それこそ敵の{n}思う壺だろう",
-  "en": ""
+  "en": "Forgive me for my words, which stirred up{n}your unease. If we doubt each other and{n}cannot join our strength, that would indeed{n}play right into the enemy's hands."
  },
  {
   "id": "s0321_025c0",
@@ -1677,7 +1677,7 @@
    "イングヴェイイングヴェイ・フォン・マルムステ"
   ],
   "jp": "逆に、こうした手段を取ったという{n}ことは、暗黒僧は直接我々を壊滅に{n}追い込む手段を持っていないとも{n}考えられるな――",
-  "en": ""
+  "en": "Conversely, his use of such a method{n}suggests that the Dark Priest has no means{n}of destroying us directly--"
  },
  {
   "id": "s0321_02634",
@@ -1701,7 +1701,7 @@
    "マカパイン"
   ],
   "jp": "うむ……一息に殺せるのなら、とうに{n}そうしているはず――我々を同士討ち{n}させる肚なのか",
-  "en": ""
+  "en": "Indeed... Had he the power to kill us at one{n}stroke, he would have done so already. So{n}he means to have us kill one another."
  },
  {
   "id": "s0321_0268c",
@@ -1725,7 +1725,7 @@
    "ヴァイ"
   ],
   "jp": "でも……まだこの中にいる可能性は{n}残ってるんだろ？",
-  "en": ""
+  "en": "But... there's still a chance he's one of us{n}here, right?"
  },
  {
   "id": "s0321_026c0",
@@ -1749,7 +1749,7 @@
    "マカパイン"
   ],
   "jp": "誰かに入れ替わっていても、我々が{n}分裂しない限り仕掛けてはこれない{n}……そういうことだな",
-  "en": ""
+  "en": "Even if he has replaced someone, he cannot{n}make his move unless we split apart... That is{n}the point."
  },
  {
   "id": "s0321_02718",
@@ -1773,7 +1773,7 @@
    "ヴァイ"
   ],
   "jp": "……なるほどね",
-  "en": ""
+  "en": "...Gotcha."
  },
  {
   "id": "s0321_02728",
@@ -1797,7 +1797,7 @@
    "ヨシュア"
   ],
   "jp": "ともかく、先に進もう。Ｄ・Ｓの身体{n}のこともあるし、何よりまだこの地に{n}散らばっている仲間が心配だ",
-  "en": ""
+  "en": "In any case, let us go on. There is D.S.'s{n}condition to think of, and above all I fear{n}for our comrades still scattered across this{n}land."
  },
  {
   "id": "s0321_0278c",
@@ -1821,7 +1821,7 @@
    "カイ"
   ],
   "jp": "そうだ。急ごう！",
-  "en": ""
+  "en": "Right. Let's hurry!"
  },
  {
   "id": "s0321_027a0",
@@ -1845,7 +1845,7 @@
    "ラン"
   ],
   "jp": "侍大将ヨシュアか……結局俺は敵わん{n}のかも知れないな――",
-  "en": ""
+  "en": "Samurai General Joshua, is it... Perhaps in the{n}end I am no match for him--"
  },
  {
   "id": "s0321_027dc",
@@ -1869,7 +1869,7 @@
    "カイ"
   ],
   "jp": "何か言ったか？　ラン？",
-  "en": ""
+  "en": "Did you say something? Ran?"
  },
  {
   "id": "s0321_027f4",
@@ -1893,7 +1893,7 @@
    "ラン"
   ],
   "jp": "いや……あいつになら、誓いを託せる{n}と思ったのさ",
-  "en": ""
+  "en": "No... I was only thinking that I could entrust{n}my vow to him."
  },
  {
   "id": "s0321_02828",
@@ -1941,7 +1941,7 @@
    ""
   ],
   "jp": "あずま屋は、誰もおらぬように見えた。",
-  "en": ""
+  "en": "The arbor seemed empty."
  },
  {
   "id": "s0321_02bd0",
@@ -1965,7 +1965,7 @@
    ""
   ],
   "jp": "次の瞬間、屋根が落とす影の中から、{n}全身を迫り上がらせて影使いボルが{n}出現した。",
-  "en": ""
+  "en": "The next instant, from the shadow cast{n}by the roof, the shadow user Bol rose up,{n}his whole body at once."
  },
  {
   "id": "s0321_02c20",
@@ -1989,7 +1989,7 @@
    "イングヴェイイングヴェイ・フォン・マルムステ"
   ],
   "jp": "ボル！",
-  "en": ""
+  "en": "Bol!"
  },
  {
   "id": "s0321_02c28",
@@ -2013,7 +2013,7 @@
    "ボル"
   ],
   "jp": "おお！　多勢の足音がすると思えば{n}……皆、無事でござったか",
-  "en": ""
+  "en": "Oh! This one heard the footsteps of many...{n}and so you are all safe, forsooth."
  },
  {
   "id": "s0321_02c64",
@@ -2037,7 +2037,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "オメエは、どうしてたんだ？",
-  "en": ""
+  "en": "What've you been up to?"
  },
  {
   "id": "s0321_02c80",
@@ -2061,7 +2061,7 @@
    "ボル"
   ],
   "jp": "それがしでござるか？",
-  "en": ""
+  "en": "This one, good sir?"
  },
  {
   "id": "s0321_02c98",
@@ -2085,7 +2085,7 @@
    "ボル"
   ],
   "jp": "ボルは影を渡り、この危険な地下世界{n}を、仲間の姿を求めて彷徨っていた。{n}木道が連続した影を落とす湿地は、{n}ボルにとっては移動しやすい場所で{n}あったらしい。",
-  "en": ""
+  "en": "Bol had been crossing from shadow to{n}shadow, wandering this dangerous{n}underworld in search of his comrades. A{n}marsh where the boardwalks cast{n}unbroken shadows was, it seemed, easy{n}ground for him to travel."
  },
  {
   "id": "s0321_02d30",
@@ -2109,7 +2109,7 @@
    "ボル"
   ],
   "jp": "湿地の先にあるトンネルを抜けて、{n}ここに移動してきたところでござるよ。{n}一時にこれだけ多くの仲間に会える{n}とは、それがしも僥倖でござったな",
-  "en": ""
+  "en": "This one has just come here through the{n}tunnel beyond the marsh. To meet so many{n}comrades at once is good fortune for this{n}one too, forsooth."
  },
  {
   "id": "s0321_02dbc",
@@ -2133,7 +2133,7 @@
    "イングヴェイイングヴェイ・フォン・マルムステ"
   ],
   "jp": "ううむ……疑うわけではないのだが、{n}床から出てくる様子が、暗黒僧が現れ{n}た時とあまりに似ている――ボルよ。{n}貴公、本当にボルか？",
-  "en": ""
+  "en": "Hmm... I do not mean to doubt you, but the{n}way you came out of the floor is all too like{n}the Dark Priest's appearance-- Bol. Are you{n}truly Bol?"
  },
  {
   "id": "s0321_02e3c",
@@ -2157,7 +2157,7 @@
    "ボル"
   ],
   "jp": "なな？　何を言いだすでござる!?",
-  "en": ""
+  "en": "Wh-wha? What are you saying, good sir!?"
  },
  {
   "id": "s0321_02e5c",
@@ -2181,7 +2181,7 @@
    "マカパイン"
   ],
   "jp": "呆れるクソ真面目だな、イングヴェイ{n}……そんな聞き方で、贋者だと答える{n}ヤツがいるか",
-  "en": ""
+  "en": "What appalling earnestness, Yngwei... Who{n}would answer \"I am an impostor\" to a{n}question like that?"
  },
  {
   "id": "s0321_02eb0",
@@ -2205,7 +2205,7 @@
    "イングヴェイイングヴェイ・フォン・マルムステ"
   ],
   "jp": "む……そうか",
-  "en": ""
+  "en": "Hm... I see."
  },
  {
   "id": "s0321_02ec0",
@@ -2229,7 +2229,7 @@
    "マカパイン"
   ],
   "jp": "私が尋ねよう――ボルよ。貴様が本物{n}なら答えられよう。私の右目に隠され{n}ている秘密とは、何だ？",
-  "en": ""
+  "en": "Allow me to ask-- Bol. If you are the real{n}one, you can answer this. What is the secret{n}hidden in my right eye?"
  },
  {
   "id": "s0321_02f20",
@@ -2253,7 +2253,7 @@
    "ボル"
   ],
   "jp": "マカパインの右目？　ちょ、ちょっと{n}待つでござる！　これを間違えると、{n}それがしは贋者というコトになって{n}しまうのでござるか？",
-  "en": ""
+  "en": "Macalpine's right eye? W-wait a moment,{n}good sir! If this one gets this wrong, does{n}that make this one an impostor, forsooth?"
  },
  {
   "id": "s0321_02fa0",
@@ -2277,7 +2277,7 @@
    "マカパイン"
   ],
   "jp": "そういうことになるな",
-  "en": ""
+  "en": "So it would."
  },
  {
   "id": "s0321_02fb8",
@@ -2301,7 +2301,7 @@
    "ボル"
   ],
   "jp": "ヒィィ……ど、どんな秘密でござった{n}かな……マズイマズイ、まだ蘇って{n}いない記憶があるのでござろうか？",
-  "en": ""
+  "en": "Eeek... Wh-what manner of secret was it,{n}forsooth... Oh no, oh no, might there be{n}memories this one has yet to recover?"
  },
  {
   "id": "s0321_03020",
@@ -2325,7 +2325,7 @@
    "ボル"
   ],
   "jp": "う、うう……ダメでござる。それがし、{n}貴公にそんな秘密を教えられた覚え{n}など――",
-  "en": ""
+  "en": "Uh, uhh... It is no use, forsooth. This one has{n}no memory of you ever telling this one such{n}a secret--"
  },
  {
   "id": "s0321_03070",
@@ -2349,7 +2349,7 @@
    "マカパイン"
   ],
   "jp": "……どうやら本物のボルだ。私の右目{n}など、見たことのある者はおらん",
-  "en": ""
+  "en": "...It seems this is the real Bol. No one has{n}ever seen my right eye."
  },
  {
   "id": "s0321_030b4",
@@ -2373,7 +2373,7 @@
    "ボル"
   ],
   "jp": "あっ！　ひ、ヒドイでござるぅ！",
-  "en": ""
+  "en": "Ah! Th-that is cruel, forsooth!"
  },
  {
   "id": "s0321_030d4",
@@ -2397,7 +2397,7 @@
    "マカパイン"
   ],
   "jp": "お陰で身の潔白が証明されたのだ。{n}感謝されこそすれ、酷くはあるまい？",
-  "en": ""
+  "en": "It has proved your innocence, thanks to me.{n}You should be grateful. Hardly cruel, is it?"
  },
  {
   "id": "s0321_0311c",
@@ -2421,7 +2421,7 @@
    "イングヴェイイングヴェイ・フォン・マルムステ"
   ],
   "jp": "なるほど、うまい……",
-  "en": ""
+  "en": "I see, how clever..."
  },
  {
   "id": "s0321_03134",
@@ -2445,7 +2445,7 @@
    "マカパイン"
   ],
   "jp": "こういうやり方、貴様には生涯無理{n}かも知れないな――もっとも、こんな{n}手に長けていては、今ほど魔戦将軍{n}全員から信頼を受けていないだろうが",
-  "en": ""
+  "en": "You may never manage such methods in all{n}your life-- Though were you skilled at such{n}tricks, you would not have the trust of all{n}the Sorcerer Generals as you do now."
  },
  {
   "id": "s0321_031c0",
@@ -2469,7 +2469,7 @@
    "マカパイン"
   ],
   "jp": "真面目、正直が貴様の取り柄。それで{n}良かろう。私は多少汚くとも、カル様{n}のお役に立たなくてはならぬからな",
-  "en": ""
+  "en": "Earnestness and honesty are your merits.{n}Let that suffice. As for me, I must be of use{n}to Kall-sama, even if somewhat dirtily."
  },
  {
   "id": "s0321_034b8",
@@ -2493,7 +2493,7 @@
    ""
   ],
   "jp": "その出会いに、予兆めいた不穏な{n}気配はあった。",
-  "en": ""
+  "en": "There was an ominous air about that{n}meeting, like a portent."
  },
  {
   "id": "s0321_034e8",
@@ -2517,7 +2517,7 @@
    ""
   ],
   "jp": "シェンの腰に下げられた二本の刀――{n}漆黒の太刀・黒夜叉と、白鞘の脇差・{n}薬師丸が、鞘の内で微かに震え始めた。{n}何かの接近に対して、警報を発するか{n}の如く――。鋼の低く共振する調べが、{n}にわかに降り募り始めた雨音をかえっ{n}て強調するように響く。",
-  "en": ""
+  "en": "The two swords at Schen's waist-- the{n}jet-black long sword Black Yaksha and the{n}white-sheathed short sword{n}Yakushimaru-- began to tremble faintly in{n}their sheaths. As if sounding an alarm at{n}something's approach--. The low resonant{n}hum of the steel rang out, only{n}sharpening the sound of the rain that{page}had suddenly begun to pour."
  },
  {
   "id": "s0321_035d8",
@@ -2541,7 +2541,7 @@
    ""
   ],
   "jp": "そして、宿命を背負うふたりは再び{n}巡り会った。",
-  "en": ""
+  "en": "And so the two who bore their fate met{n}once again."
  },
  {
   "id": "s0321_03608",
@@ -2565,7 +2565,7 @@
    ""
   ],
   "jp": "肌を刺す酸性の雨を浴び、微動だに{n}せず立ち尽くす黒い人影があった。",
-  "en": ""
+  "en": "Bathed in the skin-stinging acid rain, a{n}dark figure stood without moving a hair."
  },
  {
   "id": "s0321_0364c",
@@ -2589,7 +2589,7 @@
    "ジオン"
   ],
   "jp": "雨か――あの夜と同じだな",
-  "en": ""
+  "en": "Rain, is it-- Just like that night."
  },
  {
   "id": "s0321_03668",
@@ -2613,7 +2613,7 @@
    "ジオン"
   ],
   "jp": "それは、ジオンであった。漆黒の鎧{n}ブラック・レネゲイドが強まる雨を{n}弾き、その全身を細かな水飛沫で煙ら{n}せている。皮肉に歪んだ嗤いを口の端{n}に浮かべた貌は、初めて出会った時の{n}彼と同じ人物とは到底思えない、暗い{n}感情に支配された凶相であった。",
-  "en": ""
+  "en": "It was Zion. His jet-black armor, Black{n}Renegade, shed the strengthening rain,{n}and his whole body was veiled in a fine{n}spray. The face with the twisted, ironic{n}sneer at the corner of its mouth could{n}hardly have been the man they first met.{n}It was a fearsome mask ruled by dark{n}feeling."
  },
  {
   "id": "s0321_03758",
@@ -2637,7 +2637,7 @@
    "ジオン"
   ],
   "jp": "予感があったのだろう。シェンは兄と{n}の遭遇に、さして驚いた様子は見せな{n}かった。一行の前に進み出、ジオンと{n}向き合うその表情には、圧し殺した{n}強い感情が――殺意が、はっきりと{n}宿っているのが判る。弟が兄を見る、{n}そんな目ではあり得なかった。",
-  "en": ""
+  "en": "He must have had a premonition, for{n}Schen showed little surprise at meeting{n}his brother. He stepped out before the{n}party and faced Zion, and in his face a{n}strong, stifled feeling-- killing intent--{n}plainly dwelt. These could not be the eyes{n}with which a brother looks at a{n}brother."
  },
  {
   "id": "s0321_03844",
@@ -2661,7 +2661,7 @@
    "シェン"
   ],
   "jp": "決着をつけに来たのか。兄者――いや、{n}魔戦将軍ジオン",
-  "en": ""
+  "en": "Have you come to settle this? Brother-- No,{n}Sorcerer General Zion."
  },
  {
   "id": "s0321_0387c",
@@ -2685,7 +2685,7 @@
    "ジオン"
   ],
   "jp": "相応しい場所ではないか、影流継承者{n}よ……シェン、お前の死に場所にはな",
-  "en": ""
+  "en": "Is this not a fitting place, heir of the{n}Shadow School... Schen, a fitting place for{n}you to die."
  },
  {
   "id": "s0321_038c4",
@@ -2709,7 +2709,7 @@
    "ジオン"
   ],
   "jp": "ふたりの発する奇妙な圧力に、声を{n}発することもできずに見守っていた{n}一行も、ようやくこの兄弟が殺し合い{n}をしようとしていることに気づいた。{page}あれほどまでに庇い合い、互いを気遣{n}っていた仲の良い兄と弟が、である。{n}誰もがその衝撃に改めて言葉を失い、{n}信じられぬ思いでふたりを見つめた。",
-  "en": ""
+  "en": "The party, watching without a word under{n}the strange pressure the two gave off,{n}realized at last that the brothers meant{n}to kill each other.{page}The very brothers who had shielded each{n}other so, and cared so for each other. All{n}of them, struck speechless anew, stared{n}at the pair in disbelief."
  },
  {
   "id": "s0321_039dc",
@@ -2733,7 +2733,7 @@
    "ヨシュア"
   ],
   "jp": "ま、待て、シェン！　ジオン！　何故{n}お前たちが殺し合わねばならんのだ？",
-  "en": ""
+  "en": "W-wait, Schen! Zion! Why must you two kill{n}each other?"
  },
  {
   "id": "s0321_03a24",
@@ -2757,7 +2757,7 @@
    "カイ"
   ],
   "jp": "ヨシュアの言う通りだ！　ふたりとも、{n}敵の術に落ちたのではないのか？",
-  "en": ""
+  "en": "Joshua's right! Did you both fall under the{n}enemy's art?"
  },
  {
   "id": "s0321_03a6c",
@@ -2781,7 +2781,7 @@
    "シェン"
   ],
   "jp": "……操られているわけではない。ただ、{n}俺たちは思い出してしまった――",
-  "en": ""
+  "en": "...No one's controlling us. It's just that we've{n}remembered--"
  },
  {
   "id": "s0321_03ab4",
@@ -2805,7 +2805,7 @@
    "ジオン"
   ],
   "jp": "……教えてやろう。俺たちの――影流{n}の継承を巡る呪わしい経緯をな……",
-  "en": ""
+  "en": "...I shall tell you. The accursed tale of our--{n}of the Shadow School's succession..."
  },
  {
   "id": "s0321_03afc",
@@ -2829,7 +2829,7 @@
    "ジオン"
   ],
   "jp": "礼と忠節を重んじる魔法剣士・侍に{n}より、武力を支えられた王国――その{n}歴史上、数多編み出された剣術の中に{n}あって、影流と呼ばれる異端の流派が{n}存在した。",
-  "en": ""
+  "en": "A kingdom whose might rested on the{n}magic swordsmen called samurai, who{n}prized courtesy and loyalty-- Among the{n}many sword arts devised in its history,{n}there was a heretical school called the{n}Shadow School."
  },
  {
   "id": "s0321_03b94",
@@ -2853,7 +2853,7 @@
    "ジオン"
   ],
   "jp": "中位の魔術師呪文を操る侍にとって、{n}剣技と組み合わせた魔法攻撃は最も{n}基本的で、効果的なコンビネーション{n}となる。だが、影流では一切の呪文の{n}使用を許さず、純粋に剣のみにおいて{n}闘うことが義務付けられていた。",
-  "en": ""
+  "en": "For samurai, who wield mid-rank sorcerer{n}spells, magic attacks joined with sword{n}technique are the most basic and{n}effective combination. But the Shadow{n}School forbade all use of spells, and{n}required its followers to fight by the{n}sword alone."
  },
  {
   "id": "s0321_03c64",
@@ -2877,7 +2877,7 @@
    "ジオン"
   ],
   "jp": "理由はひとつ――影流とは、暗殺を{n}任とする隠密剣法であり、術者の痕跡{n}を残す魔法はその働きにそぐわぬもの{n}であったがためである。為政者の権力{n}を陰で支える暗殺剣――それが血塗ら{n}れた影流の歴史であった。",
-  "en": ""
+  "en": "There was one reason-- The Shadow{n}School was a covert swordsmanship{n}whose charge was assassination, and{n}magic, which leaves traces of its caster,{n}did not suit its work. An assassin's sword,{n}propping up the power of rulers from the{n}shadows-- such was the bloodstained{n}history of the Shadow School."
  },
  {
   "id": "s0321_03d2c",
@@ -2901,7 +2901,7 @@
    "ジオン"
   ],
   "jp": "その陰働き故に、影流は代々王家に{n}取り立てられ、宗家は王国に隠然たる{n}力を持つに至った。宗主は長男に受け{n}継がれ、表には見えぬ絶大な権力を{n}手にする――言わば影流は王国治世の{n}暗部の象徴であり、王家といえども{n}迂闊には手出しできぬ怪物であった。",
-  "en": ""
+  "en": "For that work in the shadows, the Shadow{n}School was favored by the royal house{n}for generations, and its head family came{n}to hold hidden power in the kingdom. The{n}headship passed to the eldest son, who{n}held vast power unseen by the public--{n}The Shadow School was, in a word, the{n}symbol of the kingdom's dark side, a{page}monster that even the royal house could{n}not touch lightly."
  },
  {
   "id": "s0321_03e1c",
@@ -2925,7 +2925,7 @@
    "ジオン"
   ],
   "jp": "故に、影流を統べる者が惰弱であれば、{n}王家は間違いなく家を取り潰すことに{n}なる。影流宗家は常に優秀な世継ぎを{n}――強い雄を欲してきた。それを得る{n}ためならば、侍が守らねばならぬ徳や{n}礼節は何ら拘束力を持たなかった。",
-  "en": ""
+  "en": "Thus, were the one who led the Shadow{n}School a weakling, the royal house would{n}surely destroy the family. The head family{n}always craved a superior heir-- a strong{n}male. To gain one, the virtue and courtesy{n}a samurai must uphold bound them not at{n}all."
  },
  {
   "id": "s0321_03ef0",
@@ -2949,7 +2949,7 @@
    "ジオン"
   ],
   "jp": "そして、惨劇の種は播かれた。",
-  "en": ""
+  "en": "And so the seed of tragedy was sown."
  },
  {
   "id": "s0321_03f10",
@@ -2973,7 +2973,7 @@
    "ジオン"
   ],
   "jp": "ジオンとシェンは、先代影流宗主の{n}息子として誕生した。ジオンは妾腹で{n}あり、正妻の子であるシェンとは異母{n}兄弟であったが、ふたりはともに育て{n}られ、少年期・青年期を影流剣法の{n}修行に明け暮れる日々を送った。",
-  "en": ""
+  "en": "Zion and Schen were born sons of the{n}previous head of the Shadow School. Zion{n}was a concubine's son and half-brother to{n}Schen, child of the lawful wife, but the{n}two were raised together, and spent their{n}boyhood and youth in unbroken training in{n}the Shadow School's swordsmanship."
  },
  {
   "id": "s0321_03fdc",
@@ -2997,7 +2997,7 @@
    "ジオン"
   ],
   "jp": "ジオンは非の打ち所のない青年だった。{n}頭脳は明晰で体格も良く、裏表のない{n}優しい性格の持ち主であった。誰から{n}も好かれ、とりわけ門下の若者たちの{n}信頼が厚かった。剣においても頭角を{n}顕し、少年期の終わりには父をおいて{n}右に出る者はないほどに成長していた。",
-  "en": ""
+  "en": "Zion was a young man beyond reproach.{n}He was keen of mind and strong of build,{n}kind by nature, with nothing to hide.{n}Everyone loved him, and the young men{n}of the school above all put their trust in{n}him. He stood out with the sword as well,{n}and by the end of boyhood none but his{n}father surpassed him."
  },
  {
   "id": "s0321_040d8",
@@ -3021,7 +3021,7 @@
    "ジオン"
   ],
   "jp": "一方のシェンは、母が病弱であった{n}こともあり、幼い頃から大病を繰り{n}返す、ひ弱な印象を与える少年だった。{n}剣の才もジオンに比べれば平凡に見え、{n}ともすれば兄の後ろをついて回る、{n}気の弱い愚弟と陰口を叩かれていた。",
-  "en": ""
+  "en": "Schen, whose mother was sickly, suffered{n}one grave illness after another from{n}childhood, and gave the impression of a{n}frail boy. His talent with the sword{n}seemed ordinary beside Zion's, and behind{n}his back he was called a timid, foolish{n}younger brother, forever trailing after{n}his elder."
  },
  {
   "id": "s0321_041ac",
@@ -3045,7 +3045,7 @@
    "ジオン"
   ],
   "jp": "次期宗主の候補と目されていたのは、{n}当然ながらジオンであった。だが、{n}ジオンは妾腹であるが故にシェンを{n}立てようと常に気を配り、当主継承に{n}関しても身を引く構えを見せていた。{n}それほどまでにジオンは弟を愛し、{n}そんな兄をシェンも心から信奉して{n}いたのだった――。",
-  "en": ""
+  "en": "Zion, naturally, was seen as the likely{n}next head. But being a concubine's son, he{n}always took care to put Schen forward,{n}and showed himself ready to step aside in{n}the matter of succession. So deeply did{n}Zion love his younger brother, and Schen{n}in turn revered such a brother with all his{n}heart--."
  },
  {
   "id": "s0321_042b0",
@@ -3069,7 +3069,7 @@
    "ジオン"
   ],
   "jp": "ジオンには、将来を誓い合った恋人が{n}いた。名はマリエ。宗家の傍流である{n}名門の出自で、父によって引き合わさ{n}れた美しい娘であった。以来、マリエ{n}は頻繁に宗家に出入りし、修行に励む{n}ジオンの傍らに常に身を置くように{n}なっていた。",
-  "en": ""
+  "en": "Zion had a lover, pledged to him for the{n}future. Her name was Marie. She was a{n}beautiful girl of good family, from a{n}branch of the head house, and his father{n}had introduced them. From then on Marie{n}came and went at the head house often,{n}and was always at the side of Zion as he{n}trained."
  },
  {
   "id": "s0321_04390",
@@ -3093,7 +3093,7 @@
    "ジオン"
   ],
   "jp": "良く気がつく、芯の強い武家の娘――{n}父にあてがわれたようで、当初は多少{n}の反発を抱いていたジオンも、次第に{n}マリエへと傾倒していく。ふたりに{n}真実の恋が生まれるまで、さしたる{n}時間はかからなかった。",
-  "en": ""
+  "en": "An attentive, strong-willed daughter of a{n}warrior house-- She seemed foisted on{n}him by his father, and Zion at first felt{n}some resistance, but little by little he{n}came to be devoted to Marie. It took no{n}great time for true love to grow between{n}them."
  },
  {
   "id": "s0321_04454",
@@ -3117,7 +3117,7 @@
    "ジオン"
   ],
   "jp": "ふたりの側にはシェンもいた。マリエ{n}が出入りするようになって以来、父の{n}言いつけで、そうさせられていたのだ。{page}惹かれ合うふたりを見張る役割だと、{n}シェンは思っていた。邪魔者になる{n}つもりはなかったが、当主である父に{n}逆らうことはできない。",
-  "en": ""
+  "en": "Schen too was at their side. Ever since{n}Marie began coming, his father's orders{n}had seen to it.{page}His role, Schen thought, was to keep{n}watch over two people drawn to each{n}other. He had no wish to be in the way,{n}but he could not defy his father, the{n}head of the house."
  },
  {
   "id": "s0321_04540",
@@ -3141,7 +3141,7 @@
    "ジオン"
   ],
   "jp": "だが、マリエと一歳しか違わぬことも{n}あって、当初引け目を感じていた{n}シェンもやがて打ち解け、彼らは常に{n}三人で過ごすようになっていった。",
-  "en": ""
+  "en": "But he and Marie were only a year apart{n}in age, and Schen, at first ill at ease,{n}soon warmed to her; before long the{n}three of them were always together."
  },
  {
   "id": "s0321_045c8",
@@ -3165,7 +3165,7 @@
    "ジオン"
   ],
   "jp": "シェンは、ジオンはもちろん、活発で{n}思慮深く、美しいマリエのことが好き{n}だった。ふたりが祝言を挙げ、この家{n}を継ぐその日を、我が事のように待ち{n}望んでいた。",
-  "en": ""
+  "en": "Schen loved Zion, of course, and he loved{n}Marie too: lively, thoughtful, beautiful. He{n}looked forward to the day they would{n}marry and inherit this house as if it were{n}his own affair."
  },
  {
   "id": "s0321_04664",
@@ -3189,7 +3189,7 @@
    "ジオン"
   ],
   "jp": "だが、全ては策謀であった。家という{n}名の魔性に心を売り渡した父の、人と{n}は思えぬ企みの一環であった。",
-  "en": ""
+  "en": "But it was all a scheme. It was part of an{n}inhuman design by a father who had sold{n}his heart to the demon called the{n}House."
  },
  {
   "id": "s0321_046c8",
@@ -3213,7 +3213,7 @@
    "ジオン"
   ],
   "jp": "いよいよその年の内に婚儀が行われる{n}と思われたある日、ジオンとシェンは{n}父に呼ばれ、奥の座敷に上げられた。{page}一族の主立った顔とともに、そこには{n}マリエの姿もあった。障子越しの光の{n}せいか、マリエの美しい貌は心なしか{n}青ざめて見えた。",
-  "en": ""
+  "en": "One day, when the wedding seemed sure{n}to come within the year, Zion and Schen{n}were called by their father and shown{n}into the inner room.{page}Marie was there with the chief faces of{n}the clan. Perhaps it was the light through{n}the paper screens, but her beautiful face{n}looked somehow pale."
  },
  {
   "id": "s0321_047ac",
@@ -3237,7 +3237,7 @@
    "ジオン"
   ],
   "jp": "「これより仮祝言を行う。マリエと、{n}我が嫡男シェンのな――」",
-  "en": ""
+  "en": "\"We shall now hold a provisional wedding.{n}Of Marie and my heir, Schen--\""
  },
  {
   "id": "s0321_047ec",
@@ -3261,7 +3261,7 @@
    "ジオン"
   ],
   "jp": "兄弟にとってその言葉は、鉄球で頭を{n}さらわれるが如き衝撃であった。父の{n}言い間違いではないのか――そんな{n}考えさえふたりの脳裏を過ぎった。",
-  "en": ""
+  "en": "To the brothers those words were a{n}shock like an iron ball carrying off the{n}head. Had their father misspoken? Even{n}that thought crossed their minds."
  },
  {
   "id": "s0321_04878",
@@ -3285,7 +3285,7 @@
    "ジオン"
   ],
   "jp": "だが、それは覆らなかった。家長たる{n}父は厳酷に言い渡し、異を唱える者も{n}その場にはいなかった。マリエでさえ{n}――。宗家の当主に家の廃絶をちらつ{n}かされ、彼女は否応なくシェンとの{n}婚儀を承諾させられていた。",
-  "en": ""
+  "en": "But it was not overturned. Their father,{n}head of the house, pronounced it sternly,{n}and no one there objected. Not even{n}Marie--. Threatened by the head of the{n}main house with the ruin of her family,{n}she had been forced to consent to marry{n}Schen."
  },
  {
   "id": "s0321_04944",
@@ -3309,7 +3309,7 @@
    "ジオン"
   ],
   "jp": "同時に、ジオンは絶縁を申し渡された。{page}継承者の証であり、これまで帯刀を{n}許されてきた名刀・黒夜叉をも取り{n}上げられ、ジオンは着のみ着のままで{n}放逐された。",
-  "en": ""
+  "en": "At the same moment, Zion was{n}disowned.{page}Stripped even of the famed sword Black{n}Yaksha, the mark of the heir that he had{n}been allowed to wear, Zion was driven out{n}with only the clothes on his back."
  },
  {
   "id": "s0321_049dc",
@@ -3333,7 +3333,7 @@
    "ジオン"
   ],
   "jp": "無論、シェンは抗おうとした。何故、{n}自分が敬愛する兄から恋人を奪い、{n}約束された地位までも簒奪せねばなら{n}ぬのか――だが、父は逆にこう言った。",
-  "en": ""
+  "en": "Schen tried to resist, of course. Why must{n}he take his revered brother's lover, and{n}even usurp the place promised to him--{n}But his father said instead:"
  },
  {
   "id": "s0321_04a6c",
@@ -3357,7 +3357,7 @@
    "ジオン"
   ],
   "jp": "「わしはジオンの絶縁を決して解かぬ。{n}兄を救い、復縁させるには、シェン、{n}お前がマリエと婚儀を執り行い、わし{n}の後を継ぐ他に道はないのだ――」",
-  "en": ""
+  "en": "\"I shall never lift Zion's disownment. To{n}save your brother and restore him,{n}Schen, there is no way but for you to{n}wed Marie and succeed me--\""
  },
  {
   "id": "s0321_04afc",
@@ -3381,7 +3381,7 @@
    "ジオン"
   ],
   "jp": "結局はこの言葉に乗せられ、シェンは{n}マリエとの婚儀を承諾することになる。{n}彼女の家のことも念頭にあった。なに、{n}形だけの祝言を行い、宗主の座に就く{n}なりジオンの絶縁を撤回し、マリエと{n}影流の継承権を兄に返せば良い――{n}そう、シェンは考えた。",
-  "en": ""
+  "en": "In the end these words took him in, and{n}Schen consented to marry Marie. He had{n}her family in mind as well. Why, he would{n}hold a wedding in form only, lift Zion's{n}disownment the moment he took the{n}headship, and return Marie and the right{n}to the Shadow School to his brother-- So{n}Schen reasoned."
  },
  {
   "id": "s0321_04be8",
@@ -3405,7 +3405,7 @@
    "ジオン"
   ],
   "jp": "しかし、婚礼が行われた後も、父は{n}シェンの剣技の未熟を理由に引退する{n}素振りを見せなかった。王国から追放{n}されたジオンの行方はようとして{n}知れず、マリエとの仮初めの生活だけ{n}が過ぎていった。一日も早く影流を{n}継承すべく、シェンは死に物狂いで{n}研鑽を積んだ。",
-  "en": ""
+  "en": "But even after the wedding, his father,{n}citing the immaturity of Schen's{n}swordsmanship, showed no sign of retiring.{n}Zion, banished from the kingdom, could{n}not be traced, and only the makeshift life{n}with Marie went on. To inherit the Shadow{n}School one day sooner, Schen trained as{n}if his life depended on it."
  },
  {
   "id": "s0321_04ce4",
@@ -3429,7 +3429,7 @@
    "ジオン"
   ],
   "jp": "ふと、シェンは気づいた。実の姉にも{n}等しい存在と思っていたマリエに惹か{n}れていることを。そしてまた、マリエ{n}も心優しいシェンを愛し始めていた。{page}ふたりとも、ジオンを忘れたことなど{n}片時もない。しかし、惹かれ合う感情{n}は抑えようもなかった。そのふたりが{n}仮初めの夫婦ではなくなったのは、{n}言わば必然であったのだ。",
-  "en": ""
+  "en": "Suddenly, Schen realized he was drawn to{n}Marie, whom he had thought of as a true{n}elder sister. And Marie, too, had begun to{n}love the tender-hearted Schen.{page}Neither forgot Zion for a moment. But the{n}feeling that drew them together could{n}not be held back. That the two ceased to{n}be a makeshift couple was, in a sense,{n}inevitable."
  },
  {
   "id": "s0321_04e14",
@@ -3453,7 +3453,7 @@
    "ジオン"
   ],
   "jp": "それを境に、シェンの剣技は恐ろしい{n}ほどに冴え始めた。ジオンに負けぬ、{n}マリエに相応しい男となろう――その{n}思いは、シェンが初めて抱いた、兄を{n}越えようとする感情であった。{n}秘められていた才能は、今や凄まじい{n}勢いで花開こうとしていた。",
-  "en": ""
+  "en": "From then on, Schen's swordsmanship{n}began to grow frighteningly keen. He{n}would become a man who would not lose{n}to Zion, a man worthy of Marie-- It was{n}the first feeling Schen had ever held of{n}surpassing his brother. The talent hidden{n}in him was now about to burst into bloom{n}with fearsome force."
  },
  {
   "id": "s0321_04efc",
@@ -3477,7 +3477,7 @@
    "ジオン"
   ],
   "jp": "それこそが、父の狙いであった。",
-  "en": ""
+  "en": "This was precisely his father's aim."
  },
  {
   "id": "s0321_04f1c",
@@ -3501,7 +3501,7 @@
    "ジオン"
   ],
   "jp": "宗主は始めから、シェンの中に眠る{n}天賦の才を見抜いていた。ジオンとて、{n}立派に影流を継げる才があった。妾腹{n}といえども、優れた者であれば問題{n}なく代々の宗主を務めてきている。{n}だが、影流の剣に関しては、シェンが{n}天才であった。",
-  "en": ""
+  "en": "From the start, the head of the school{n}had seen through to the genius sleeping{n}within Schen. Zion too had talent enough{n}to inherit the Shadow School with honor.{n}A concubine's son, if he excelled, had{n}served as head without trouble in past{n}generations. But in the sword of the{n}Shadow School, Schen was the genius."
  },
  {
   "id": "s0321_04ffc",
@@ -3525,7 +3525,7 @@
    "ジオン"
   ],
   "jp": "その眠れる才を引き出し、影流を――{n}“宗家”をより強くするために、父は{n}道に外れた計を案じた。優し過ぎるが{n}故に少年時代から抜きん出ることの{n}なかったシェンを強い雄に変えるべく、{n}ジオンを贄とする策謀を――。",
-  "en": ""
+  "en": "To draw out that sleeping talent, and{n}make the Shadow School-- the \"head{n}family\"-- stronger, the father devised a{n}wicked plan. To turn Schen, who had{n}never stood out as a boy for being too{n}kind, into a strong male, he schemed to{n}make Zion the sacrifice--."
  },
  {
   "id": "s0321_050cc",
@@ -3549,7 +3549,7 @@
    "ジオン"
   ],
   "jp": "ジオンの相手としてマリエを選んだの{n}は、必ずシェンと彼女が互いに惹かれ{n}合うであろうことを、その悪魔じみた{n}嗅覚で嗅ぎつけたからであった。",
-  "en": ""
+  "en": "He had chosen Marie as Zion's partner{n}because his devilish nose had sniffed out{n}that she and Schen would surely be{n}drawn to each other."
  },
  {
   "id": "s0321_05158",
@@ -3573,7 +3573,7 @@
    "ジオン"
   ],
   "jp": "敬愛する兄から婚約者を奪い、結果と{n}してそれが真実となることで、ジオン{n}を踏みつけにした意識が脆弱なシェン{n}の精神を鍛え上げる――あまりにも{n}非情な、人の親とは思えぬ企みだった。{page}だが、その計略は見事、図に当たった{n}ことになる。",
-  "en": ""
+  "en": "Take the fiancee of the brother he{n}revered, and have it turn real: the{n}awareness of having trampled Zion would{n}forge Schen's fragile spirit-- It was a{n}design too merciless to come from any{n}human parent.{page}Yet that plot had hit its mark perfectly."
  },
  {
   "id": "s0321_05238",
@@ -3597,7 +3597,7 @@
    "ジオン"
   ],
   "jp": "そして、惨劇の幕が上がる――。",
-  "en": ""
+  "en": "And so the curtain rose on the{n}tragedy--."
  },
  {
   "id": "s0321_05258",
@@ -3621,7 +3621,7 @@
    "ジオン"
   ],
   "jp": "婚礼から一年近くが過ぎた、その夜。{n}夜半から泣き出した空は、やがて雷鳴{n}を伴う激しい嵐となった。この荒天を{n}突き、影流屋敷へと忍び入る黒い姿が{n}あった。",
-  "en": ""
+  "en": "Close to a year had passed since the{n}wedding. That night, the sky began to{n}weep after midnight, and soon became a{n}violent storm with thunder. Braving this{n}foul weather, a dark figure stole into the{n}Shadow School's mansion."
  },
  {
   "id": "s0321_052f0",
@@ -3645,7 +3645,7 @@
    "ジオン"
   ],
   "jp": "手練れであるはずの見張りは、声を{n}立てることなく斬殺された。黒い影は{n}迷うことなく屋敷内を移動し、宗主の{n}寝所へと向かう。稲妻が閃き、瞬間{n}その姿を闇に浮かび上がらせる。",
-  "en": ""
+  "en": "The sentries, skilled as they should have{n}been, were cut down without a sound. The{n}dark shadow moved through the mansion{n}without hesitation, toward the{n}bedchamber of the head of the school.{n}Lightning flashed, and for an instant{n}picked out the figure from the{n}darkness."
  },
  {
   "id": "s0321_05398",
@@ -3669,7 +3669,7 @@
    "ジオン"
   ],
   "jp": "それは、全てを奪われ、復讐の修羅と{n}化して舞い戻ったジオンであった。{page}狙いは憎き父の首。そして己を裏切り、{n}マリエと夫婦となったシェンの命――。",
-  "en": ""
+  "en": "It was Zion, robbed of everything,{n}returned as a demon of vengeance.{page}His targets: the head of his hated father.{n}And the life of Schen, who had betrayed{n}him and made Marie his wife--."
  },
  {
   "id": "s0321_05428",
@@ -3693,7 +3693,7 @@
    "ジオン"
   ],
   "jp": "手にするのは魔剣・魂喰らい。ジオン{n}の中に育まれた暗い魂に呼応したのか{n}――かつてのＤ・Ｓ四天王ガインの{n}死後、一世紀近くも行方の知れなかっ{n}た魔剣は、放浪するジオンに発見され{n}て現代に蘇ったのだった。",
-  "en": ""
+  "en": "In his hand was the demon sword Soul{n}Eater. Perhaps it answered the dark soul{n}that had grown in Zion-- After the death{n}of Gain, once one of D.S.'s Divine Kings, the{n}demon sword had been lost for nearly a{n}century, until the wandering Zion found it{n}and brought it back to the present."
  },
  {
   "id": "s0321_054f0",
@@ -3717,7 +3717,7 @@
    "ジオン"
   ],
   "jp": "老いたりとは言え、父もさすがは影流{n}宗主であった。近づいてくる殺気を{n}察知し、すでに刀を手にして身構えて{n}いた。刺客がジオンであると知った{n}瞬間も、さしたる驚きは見せなかった。",
-  "en": ""
+  "en": "Old as he was, the father was truly head{n}of the Shadow School. Sensing the killing{n}intent drawing near, he already stood{n}ready, sword in hand. Even on learning{n}that the assassin was Zion, he showed{n}little surprise."
  },
  {
   "id": "s0321_055a0",
@@ -3741,7 +3741,7 @@
    "ジオン"
   ],
   "jp": "真に父が驚愕したのは、ジオンもまた{n}天才であったと知った時だった。影流{n}の、ではない。魔剣を操るため、放浪{n}の中で培った戦士の剣――修行には{n}充分と言えぬ期間のうちに、ジオンは{n}凄まじいまでの殺人剣を体得していた。",
-  "en": ""
+  "en": "What truly astonished the father was{n}learning that Zion too was a genius. Not in{n}the Shadow School. In the warrior's sword{n}he had cultivated on his wanderings to{n}wield the demon sword-- In a span too{n}short for true training, Zion had mastered{n}a killing sword of fearsome power."
  },
  {
   "id": "s0321_05674",
@@ -3765,7 +3765,7 @@
    "ジオン"
   ],
   "jp": "勝てぬと悟り、相討ちを狙った捨て身{n}の斬撃をジオンの着込んだ漆黒の鎧{n}――負の鎧ブラック・レネゲイドに{n}弾かれた瞬間、影流宗主はその妄執{n}もろとも、突き立てられた魔性の刃に{n}魂を吸い尽くされ、絶命した。",
-  "en": ""
+  "en": "Knowing he could not win, he struck out in{n}a desperate blow to die taking his foe{n}with him. Zion's jet-black armor, the{n}negative armor Black Renegade, turned it{n}aside. In that instant the demonic blade{n}plunged into the head of the Shadow{n}School and drank his soul dry, obsessions{n}and all, and he died."
  },
  {
   "id": "s0321_0573c",
@@ -3789,7 +3789,7 @@
    "ジオン"
   ],
   "jp": "豪雨に煙る庭を突っ切り、黒い魔剣士{n}はシェンたちの住まう離れへと向かう。{page}目に映るのは閃く雷光に深まる闇と、{n}網膜に焼き付く赤い残像。それが父の{n}死で昂るジオンの激情をさらに滾らせ、{n}盲目的にさせる。",
-  "en": ""
+  "en": "Crossing the garden veiled in the{n}downpour, the black demon swordsman{n}made for the detached house where{n}Schen and the others lived.{page}In his eyes were only darkness deepened{n}by the flashing lightning, and red{n}afterimages seared on his retinas. They{n}fired Zion's fury, already raised by his{n}father's death, and made him blind."
  },
  {
   "id": "s0321_05804",
@@ -3813,7 +3813,7 @@
    "ジオン"
   ],
   "jp": "傍らの茂みで、刃が白く稲妻を反射{n}した。ジオンは機械的に反応し、魔剣{n}を即座に突き立てる。刃が肉を深く{n}抉る感触に、彼は伏兵の死を確信した。",
-  "en": ""
+  "en": "In a thicket beside him, a blade flashed{n}white with the reflected lightning. Zion{n}reacted like a machine, and at once drove{n}in the demon sword. At the feel of the{n}blade gouging deep into flesh, he was{n}sure of the ambusher's death."
  },
  {
   "id": "s0321_05890",
@@ -3837,7 +3837,7 @@
    "ジオン"
   ],
   "jp": "次に稲妻が疾った瞬間、ジオンの薄笑{n}みは彫像の如くに凍りついた。",
-  "en": ""
+  "en": "The next time the lightning raced, Zion's{n}thin smile froze like a statue's."
  },
  {
   "id": "s0321_058d4",
@@ -3861,7 +3861,7 @@
    "ジオン"
   ],
   "jp": "魂喰らいに胸を貫かれているのは、{n}放浪の間も忘れたことのないマリエで{n}あった。弟と睦まじく暮らしていると{n}聞いた時も、決して恋慕の想いを捨て{n}去ることのできなかった女――その{n}細い指から、家伝の脇差・薬師丸が{n}こぼれ落ちる。",
-  "en": ""
+  "en": "Run through the chest by the Soul Eater{n}was Marie, whom he had never forgotten{n}in all his wanderings. The woman for whom{n}he could not cast aside his longing, even{n}when he heard she lived happily with his{n}brother-- From her slender fingers fell{n}the family heirloom, the short sword{n}Yakushimaru."
  },
  {
   "id": "s0321_059b0",
@@ -3885,7 +3885,7 @@
    "ジオン"
   ],
   "jp": "剣士がジオンであると気づき、マリエ{n}の目はわずかに見開かれた。次いで、{n}苦痛に歪む美しい貌に、幽かに微笑み{n}が浮かぶ。死神の鎌に捕らえられた{n}蒼白な唇が何事かを呟く。雷鳴にかき{n}消されながら、ジオンにはマリエが{n}何と言ったのかが判った。実際には{n}口にできなかった言葉まで、読み取る{n}ことができた。",
-  "en": ""
+  "en": "Realizing the swordsman was Zion, Marie's{n}eyes widened slightly. Then a faint smile{n}rose on her beautiful, pain-twisted face.{n}Pale lips caught in the scythe of death{n}murmured something. Though the thunder{n}drowned it out, Zion knew what Marie said.{n}He could read even the words she could{n}not actually speak."
  },
  {
   "id": "s0321_05ad4",
@@ -3909,7 +3909,7 @@
    "ジオン"
   ],
   "jp": "ご免なさい。{page}これで良かったの。{page}ジオン。今でも愛しているわ。{page}あの人を――シェンを許してあげて。",
-  "en": ""
+  "en": "I am sorry.{page}It is better this way.{page}Zion. I love you still.{page}Forgive him-- Forgive Schen."
  },
  {
   "id": "s0321_05b38",
@@ -3933,7 +3933,7 @@
    "ジオン"
   ],
   "jp": "魂喰らいが短く震え、マリエの魂の{n}最後の一滴を啜り上げた。刃の先で、{n}愛する女は物言わぬ肉塊へと変わった。",
-  "en": ""
+  "en": "The Soul Eater gave a brief shudder, and{n}sipped up the last drop of Marie's soul. On{n}the tip of the blade, the woman he loved{n}became a mute lump of flesh."
  },
  {
   "id": "s0321_05ba4",
@@ -3957,7 +3957,7 @@
    "ジオン"
   ],
   "jp": "絶叫した。ジオンは狂ったように、{n}暗い天に向かって吼えた。泣いている{n}はずだった。だが、降りしきる雨が{n}彼に、己の涙はもはや枯れ果てている{n}かのように感じさせた。",
-  "en": ""
+  "en": "He screamed. Like a madman, Zion howled{n}at the dark heavens. He must have been{n}weeping. But the pouring rain made him{n}feel as if his own tears had long since run{n}dry."
  },
  {
   "id": "s0321_05c44",
@@ -3981,7 +3981,7 @@
    "ジオン"
   ],
   "jp": "過ちとは言え、弟の命を狙った挙げ句{n}に、最愛の女をその手にかけた――{n}そんな鬼畜に涙を流す権利はないのだ。{n}ただ吼えるだけの獣だ。修羅なのだ。{n}菩薩をも殺して、人でいられようはず{n}もない。",
-  "en": ""
+  "en": "Mistake though it was, he had sought his{n}brother's life and at the last struck down{n}the woman he loved most-- Such a brute{n}had no right to shed tears. He was just a{n}beast that howled. A demon. Having killed{n}even a bodhisattva, how could he remain{n}human?"
  },
  {
   "id": "s0321_05d00",
@@ -4005,7 +4005,7 @@
    "ジオン"
   ],
   "jp": "いち早く異変を察し、父の寝所に駆け{n}つけたシェンは、ジオンとは入れ違い{n}の形となった。もはや事切れた父の{n}惨状を目にし、とって返した彼が見た{n}ものは、庭のあずま屋に横たえられた、{n}眠るように安らかな表情の妻マリエの{n}亡骸だった。",
-  "en": ""
+  "en": "Schen, first to sense trouble, had run to{n}his father's bedchamber, and so passed{n}Zion by. Seeing his father lying slain,{n}already dead, he ran back. What he saw{n}was the body of his wife Marie laid in the{n}arbor of the garden, her face as{n}peaceful as if she slept."
  },
  {
   "id": "s0321_05de0",
@@ -4029,7 +4029,7 @@
    "ジオン"
   ],
   "jp": "それを掻き抱き、しかしまだ声も立て{n}られぬシェンの耳に届いたのは、雷鳴{n}をも圧して響き渡る獣の咆哮であった。{page}それで、シェンは全てを理解した。{n}ジオンが戻ってきたのだと。そして、{n}マリエを殺してしまったのだと――。",
-  "en": ""
+  "en": "He clasped her to him, yet could not yet{n}utter a sound. What reached his ears was{n}the howl of a beast, ringing out even{n}over the thunder.{page}With that, Schen understood everything.{n}That Zion had come back. And that he had{n}killed Marie--."
  },
  {
   "id": "s0321_05eb4",
@@ -4053,7 +4053,7 @@
    "ジオン"
   ],
   "jp": "マリエの冷たくなった頬に、点々と{n}血の痕が落ちた。それは、シェンの{n}涙であった。愛する妻と敬愛し続けた{n}兄を失ったこの時、彼もまた人ならぬ{n}夜叉へと変貌していた。",
-  "en": ""
+  "en": "On Marie's cold cheek fell drops of blood.{n}They were Schen's tears. In this moment,{n}having lost his beloved wife and the{n}brother he had revered, he too was{n}changed into an inhuman yaksha."
  },
  {
   "id": "s0321_05f54",
@@ -4077,7 +4077,7 @@
    "ジオン"
   ],
   "jp": "ジオンの血を捧げることを誓い、土砂{n}降りの中、シェンの慟哭はいつまでも{n}続いた。彼方から届くジオンの咆哮が{n}それと溶け合い、惨劇の幕を引く悽愴{n}なハーモニーを奏でる。",
-  "en": ""
+  "en": "Vowing to offer up Zion's blood, Schen{n}wailed on and on in the downpour. Zion's{n}howl, coming from afar, melted into it,{n}and played a harrowing harmony to close{n}the tragedy."
  },
  {
   "id": "s0321_05ff8",
@@ -4101,7 +4101,7 @@
    "ジオン"
   ],
   "jp": "そして――忌まわしき記憶の全てを{n}取り戻した兄弟は、ここに巡り会った{n}のだった。",
-  "en": ""
+  "en": "And so-- the brothers, having recovered{n}all their cursed memories, had met again{n}here."
  },
  {
   "id": "s0321_06048",
@@ -4125,7 +4125,7 @@
    "ジオン"
   ],
   "jp": "兄弟の背負うあまりにも重い宿命に、{n}声を発する者は誰もなかった。",
-  "en": ""
+  "en": "Before the all too heavy fate the{n}brothers bore, none could utter a{n}word."
  },
  {
   "id": "s0321_0608c",
@@ -4149,7 +4149,7 @@
    "シェン"
   ],
   "jp": "薬師丸が貴様の血を欲して震えている{n}――マリエの仇、討たせてもらうぞ",
-  "en": ""
+  "en": "Yakushimaru trembles for your blood-- I'll{n}have my revenge for Marie."
  },
  {
   "id": "s0321_060d4",
@@ -4173,7 +4173,7 @@
    "ジオン"
   ],
   "jp": "お前は俺から何もかもを奪ったのだ。{n}マリエの、心さえも……俺にはお前を{n}殺すしかないのだ、シェン",
-  "en": ""
+  "en": "You took everything from me. Even Marie's{n}heart... I have no choice but to kill you,{n}Schen."
  },
  {
   "id": "s0321_06134",
@@ -4195,7 +4195,7 @@
    "ジオン"
   ],
   "jp": "二人を止めに入りますか？",
-  "en": ""
+  "en": "Step in and stop them?"
  },
  {
   "id": "s0321_06150",
@@ -4219,7 +4219,7 @@
    "ジオン"
   ],
   "jp": "止めねえと……",
-  "en": ""
+  "en": "Gotta stop them..."
  },
  {
   "id": "s0321_06160",
@@ -4243,7 +4243,7 @@
    "ジオン"
   ],
   "jp": "やらせてやれ",
-  "en": ""
+  "en": "Let them fight"
  },
  {
   "id": "s0321_06170",
@@ -4267,7 +4267,7 @@
    "ヴァイ"
   ],
   "jp": "だよな。こりゃ白黒つけさせて{n}やらねえと収まらねえよ",
-  "en": ""
+  "en": "Yeah, I guess. This won't end till they settle{n}it, one way or the other."
  },
  {
   "id": "s0321_061a8",
@@ -4291,7 +4291,7 @@
    "ヴァイ"
   ],
   "jp": "一行が固唾を飲んで見守る中、雨中に{n}対峙するふたりはほぼ同時に抜刀した。",
-  "en": ""
+  "en": "As the party watched with bated breath,{n}the two facing each other in the rain{n}drew their swords almost at the same{n}moment."
  },
  {
   "id": "s0321_061f4",
@@ -4315,7 +4315,7 @@
    "ジオン"
   ],
   "jp": "ゆくぞシェン！　お前が影流継承者に{n}――そしてマリエの夫に選ばれた理由{n}たるその才を俺に示せ！",
-  "en": ""
+  "en": "Come, Schen! Show me the talent for which{n}you were chosen heir to the Shadow{n}School-- and husband to Marie!"
  },
  {
   "id": "s0321_06254",
@@ -4339,7 +4339,7 @@
    "シェン"
   ],
   "jp": "見せてやるとも！　あの世で我が妻に{n}詫びるがいい、ジオン！",
-  "en": ""
+  "en": "I'll show you, all right! Beg my wife's{n}forgiveness in the next world, Zion!"
  },
  {
   "id": "s0321_06290",
@@ -4363,7 +4363,7 @@
    "ジオン"
   ],
   "jp": "フ……強くなった……あの泣き虫の{n}シェンとは思えぬほど……",
-  "en": ""
+  "en": "Heh... You have grown strong... I can{n}scarcely believe it of Schen the crybaby..."
  },
  {
   "id": "s0321_062cc",
@@ -4387,7 +4387,7 @@
    "ジオン"
   ],
   "jp": "ジオンの口元から、血の筋が細く流れ{n}出す。それはみるみる太くなり、顎を{n}伝ってブラック・レネゲイドを赤く{n}染めていく。",
-  "en": ""
+  "en": "A thin thread of blood ran from Zion's{n}mouth. It swiftly thickened, ran down his{n}chin and stained Black Renegade red."
  },
  {
   "id": "s0321_06344",
@@ -4411,7 +4411,7 @@
    "シェン"
   ],
   "jp": "ジオン……兄者！",
-  "en": ""
+  "en": "Zion... Brother!"
  },
  {
   "id": "s0321_06358",
@@ -4435,7 +4435,7 @@
    "ジオン"
   ],
   "jp": "これで、いいのさ……あの日以来、{n}俺にとって生は苦痛だった……いや、{n}マリエの命を奪った瞬間、人間として{n}の俺は死んでいたのだ――",
-  "en": ""
+  "en": "This is as it should be... Since that day, life{n}has been pain to me... No, in the moment I{n}took Marie's life, I died as a human being--"
  },
  {
   "id": "s0321_063dc",
@@ -4459,7 +4459,7 @@
    "ジオン"
   ],
   "jp": "全ては余生だった……カル様の理想に{n}殉ずる想いだけが、俺に人間の真似事{n}をさせてくれた――そんな資格など、{n}俺はとうに失っていたのに……",
-  "en": ""
+  "en": "All the rest was afterlife... Only the wish to{n}die for Kall-sama's ideal let me play at being{n}human-- I who had long since lost the{n}right..."
  },
  {
   "id": "s0321_06464",
@@ -4483,7 +4483,7 @@
    "シェン"
   ],
   "jp": "兄者！　オレは――",
-  "en": ""
+  "en": "Brother! I--"
  },
  {
   "id": "s0321_06478",
@@ -4507,7 +4507,7 @@
    "ジオン"
   ],
   "jp": "兄と呼んでくれるなら、ひとつだけ{n}言っておく……この死は必然なのだ。{n}決して後悔するな……俺の死にとらわ{n}れるな――",
-  "en": ""
+  "en": "If you will call me brother, I shall say one{n}thing only... This death was inevitable. Do not{n}regret it... Do not be bound by my death--"
  },
  {
   "id": "s0321_064ec",
@@ -4531,7 +4531,7 @@
    "ジオン"
   ],
   "jp": "それに、俺はお前の剣では死なぬ――{n}見ていろ！",
-  "en": ""
+  "en": "Besides, I shall not die by your sword--{n}Watch!"
  },
  {
   "id": "s0321_0651c",
@@ -4555,7 +4555,7 @@
    "ジオン"
   ],
   "jp": "言うなり、ジオンは魂喰らいを逆手に{n}持ち換え、止める間もなくその切っ先{n}を己が腹部へと滑り込ませた。黒い刃{n}は背中へと突き抜け、ジオンは大量に{n}吐血して倒れ伏す。",
-  "en": ""
+  "en": "So saying, Zion reversed his grip on the{n}Soul Eater, and before anyone could stop{n}him, slid its point into his own belly. The{n}black blade burst out through his back,{n}and Zion, vomiting blood, fell prostrate."
  },
  {
   "id": "s0321_065bc",
@@ -4579,7 +4579,7 @@
    "シェン"
   ],
   "jp": "兄者ぁ！　何故、こんな……",
-  "en": ""
+  "en": "Brother! Why, why did you..."
  },
  {
   "id": "s0321_065d8",
@@ -4603,7 +4603,7 @@
    "シェン"
   ],
   "jp": "駆け寄ったシェンに、ジオンは薄い{n}笑みを浮かべて静かに呟いた。",
-  "en": ""
+  "en": "As Schen ran to him, Zion murmured{n}quietly with a thin smile."
  },
  {
   "id": "s0321_06618",
@@ -4627,7 +4627,7 @@
    "ジオン"
   ],
   "jp": "最期は、侍として迎えたかった……{n}あの、楽しかった時代を思い出してな{n}――。なあシェン、俺はあの世で、{n}マリエに許してもらえるかな……",
-  "en": ""
+  "en": "I wished to meet my end as a samurai...{n}thinking of those happy days--. Say, Schen,{n}will Marie forgive me in the next world..."
  },
  {
   "id": "s0321_066a0",
@@ -4651,7 +4651,7 @@
    "シェン"
   ],
   "jp": "恨んでなんかいないとも！　マリエは{n}死ぬまで、兄者のことを――",
-  "en": ""
+  "en": "She never hated you! Right up till she died,{n}Marie thought only of you, brother--"
  },
  {
   "id": "s0321_066e0",
@@ -4675,7 +4675,7 @@
    "ジオン"
   ],
   "jp": "フフ……相変わらず優しいな。そこに{n}マリエも惚れたんだろう……さあ、{n}俺は、ゆかねばならん――",
-  "en": ""
+  "en": "Heh heh... Gentle as ever. That must be what{n}won Marie's heart... Now, I must go--"
  },
  {
   "id": "s0321_06740",
@@ -4699,7 +4699,7 @@
    "ジオン"
   ],
   "jp": "最後の力を振り絞って立ち上がると、{n}ジオンは魔剣に貫かれたまま、一歩を{n}踏み出す。",
-  "en": ""
+  "en": "Summoning the last of his strength, Zion{n}rose, and with the demon sword still{n}through him, took one step forward."
  },
  {
   "id": "s0321_06794",
@@ -4723,7 +4723,7 @@
    "シェン"
   ],
   "jp": "何を……？",
-  "en": ""
+  "en": "What are you...?"
  },
  {
   "id": "s0321_067a0",
@@ -4747,7 +4747,7 @@
    "ジオン"
   ],
   "jp": "さらばだ。シェン――",
-  "en": ""
+  "en": "Farewell. Schen--"
  },
  {
   "id": "s0321_067b8",
@@ -4771,7 +4771,7 @@
    "ジオン"
   ],
   "jp": "刹那、信じられぬ迅さで走り出した{n}ジオンは、湿地へと跳躍した。水飛沫{n}が上がり、水面に血の色が広がる。{page}だが、鎧の重さなのか、それとも水草{n}が絡みついたのか、ジオンの骸は二度{n}と浮いてはこなかった。",
-  "en": ""
+  "en": "In an instant, with unbelievable speed,{n}Zion ran and leapt into the marsh. Spray{n}flew up, and the color of blood spread{n}across the surface.{page}But whether from the weight of his armor{n}or the water weeds tangled around him,{n}Zion's corpse never rose again."
  },
  {
   "id": "s0321_0687c",
@@ -4795,7 +4795,7 @@
    "シェン"
   ],
   "jp": "オレは――こんなことがしたかったん{n}じゃない。オレは……オレは！",
-  "en": ""
+  "en": "I-- I didn't want this. I... I!"
  },
  {
   "id": "s0321_068c0",
@@ -4819,7 +4819,7 @@
    "シェン"
   ],
   "jp": "滂沱と涙を流すシェンの目に、もはや{n}妻の仇を憎み続ける夜叉の光は灯って{n}いなかった。悲しき兄弟の結末に、{n}鎮魂の雨は静かに降り続けた。",
-  "en": ""
+  "en": "As tears streamed from his eyes, Schen{n}no longer burned with the light of the{n}yaksha who had gone on hating his wife's{n}killer. On the sad end of the brothers, the{n}requiem rain went on quietly falling."
  },
  {
   "id": "s0321_06948",
@@ -4843,7 +4843,7 @@
    "シェン"
   ],
   "jp": "さ……すがは、兄、者――",
-  "en": ""
+  "en": "Tr... truly, my, brother--"
  },
  {
   "id": "s0321_06964",
@@ -4867,7 +4867,7 @@
    "シェン"
   ],
   "jp": "魂喰らいに深々と抉られ、シェンは{n}ゆっくりと背中から倒れ込んだ。{n}濡れた草地から湿った音が響き、{n}ふたりの死闘の終焉を告げる。",
-  "en": ""
+  "en": "Gouged deep by the Soul Eater, Schen{n}slowly toppled onto his back. A wet sound{n}rose from the soaked grass, and told the{n}end of their deadly struggle."
  },
  {
   "id": "s0321_069e4",
@@ -4891,7 +4891,7 @@
    "ジオン"
   ],
   "jp": "シェン……？　シェーン！",
-  "en": ""
+  "en": "Schen...? Scheeen!"
  },
  {
   "id": "s0321_06a00",
@@ -4915,7 +4915,7 @@
    "ジオン"
   ],
   "jp": "己が思う以上に、魔剣が弟に深傷を{n}与えていたことにジオンは気づいた。{page}駆け寄った彼が見たのは、魂喰らいに{n}生命力を吸われ、急速に命の灯火を{n}弱めつつあるシェンの死相だった。",
-  "en": ""
+  "en": "Zion realized the demon sword had{n}wounded his brother deeper than he had{n}meant.{page}Running to him, he saw the mark of death{n}on Schen's face, his life drained by the{n}Soul Eater, the flame of it rapidly{n}sinking."
  },
  {
   "id": "s0321_06aac",
@@ -4939,7 +4939,7 @@
    "シェン"
   ],
   "jp": "結局、兄者には勝てなかったな……{n}親父はどうして、オレに影流を継がせ{n}たんだろう――兄者はこんなに強い{n}のにな……",
-  "en": ""
+  "en": "Couldn't beat you in the end, brother... I{n}wonder why Father made me heir to the{n}Shadow School-- When you're this strong..."
  },
  {
   "id": "s0321_06b20",
@@ -4963,7 +4963,7 @@
    "シェン"
   ],
   "jp": "マリエの、ことだって……最初は本当{n}に、兄者が復縁さえされれば、別れて{n}返すつもりだったんだ……。マリエは{n}真実、兄さんを愛していた……",
-  "en": ""
+  "en": "And Marie... At first, I really did mean to split{n}up and give her back, if only you were{n}restored... Marie truly loved you, brother..."
  },
  {
   "id": "s0321_06ba8",
@@ -4987,7 +4987,7 @@
    "ジオン"
   ],
   "jp": "もういい！　喋るな！",
-  "en": ""
+  "en": "Enough! Do not speak!"
  },
  {
   "id": "s0321_06bc0",
@@ -5011,7 +5011,7 @@
    "シェン"
   ],
   "jp": "結局……オレが弱かったんだ。親父の{n}言いなりになって、本気でマリエを{n}好きになって……もっと他に、兄さん{n}を救う方法はあったはずなのに――",
-  "en": ""
+  "en": "In the end... I was the weak one. Doing as{n}Father said, falling in love with Marie for{n}real... There must've been some other way{n}to save you, brother--"
  },
  {
   "id": "s0321_06c4c",
@@ -5035,7 +5035,7 @@
    "ジオン"
   ],
   "jp": "シェン……もう……",
-  "en": ""
+  "en": "Schen... Stop..."
  },
  {
   "id": "s0321_06c60",
@@ -5059,7 +5059,7 @@
    "シェン"
   ],
   "jp": "……マリエのことは不可抗力だったと、{n}オレは判っていたんだ。それなのに、{n}全て兄さんのせいにした……楽になれ{n}たから……オレが、弱いから……",
-  "en": ""
+  "en": "...I knew what happened to Marie couldn't be{n}helped. And still I laid it all on you, brother...{n}It was easier... because I'm weak..."
  },
  {
   "id": "s0321_06cec",
@@ -5083,7 +5083,7 @@
    "ジオン"
   ],
   "jp": "弱くなどない！　魔剣の力を借りなけ{n}れば、倒れていたのは俺だ――シェン？",
-  "en": ""
+  "en": "You are not weak! Without the power of the{n}demon sword, it is I who would have fallen--{n}Schen?"
  },
  {
   "id": "s0321_06d38",
@@ -5107,7 +5107,7 @@
    "シェン"
   ],
   "jp": "ああ……マリエが、見える……笑って{n}いるよ……兄さんが死ななくて、よ、{n}かっ、た――",
-  "en": ""
+  "en": "Ah... I can see Marie... She's smiling... I'm so gl,{n}ad, you did, n't die, brother--"
  },
  {
   "id": "s0321_06d8c",
@@ -5131,7 +5131,7 @@
    "シェン"
   ],
   "jp": "シェンの瞳から光が消えた。亡き妻の{n}幻に導かれ、その魂は黄泉路へと就い{n}たのであった――。",
-  "en": ""
+  "en": "The light left Schen's eyes. Led by the{n}vision of his dead wife, his soul set out on{n}the road to the underworld--."
  },
  {
   "id": "s0321_06de8",
@@ -5155,7 +5155,7 @@
    "ジオン"
   ],
   "jp": "シェン……？　おおおお、シェン！",
-  "en": ""
+  "en": "Schen...? Oooh, Schen!"
  },
  {
   "id": "s0321_06e0c",
@@ -5179,7 +5179,7 @@
    "ジオン"
   ],
   "jp": "弟の亡骸を抱き、ジオンは天に慟哭{n}した。修羅道の果て、魔剣士が辿り{n}着いたのはさらなる苦しみの地だった。",
-  "en": ""
+  "en": "Holding his brother's body, Zion wailed to{n}the heavens. At the end of his demon's{n}path, the demon swordsman had arrived{n}at a land of still greater suffering."
  },
  {
   "id": "s0321_06e74",
@@ -5203,7 +5203,7 @@
    "ジオン"
   ],
   "jp": "父を殺し、恋人を殺め、そして今また{n}弟の命をその手で絶った――奪われた{n}全てを自ら消し去ったこの時、あの夜{n}以来初めて、涙を流す自分に気づいた。{n}彼を満たしたのは怨讐を果たした歓喜{n}ではなく、底深い悲しみと悔悟の念{n}のみであった。",
-  "en": ""
+  "en": "He had killed his father, slain his lover,{n}and now with his own hand had ended his{n}brother's life-- Having wiped out himself{n}everything stolen from him, he realized he{n}was shedding tears for the first time{n}since that night. What filled him was not{n}the joy of revenge fulfilled, but only{n}bottomless grief and remorse."
  },
  {
   "id": "s0321_06f58",
@@ -5227,7 +5227,7 @@
    "ヴァイ"
   ],
   "jp": "くそうっ、よくもシェンを！",
-  "en": ""
+  "en": "Damn it, you killed Schen!"
  },
  {
   "id": "s0321_06f74",
@@ -5249,7 +5249,7 @@
    "ヴァイ"
   ],
   "jp": "ヴァイを止めますか？",
-  "en": ""
+  "en": "Stop Vai?"
  },
  {
   "id": "s0321_06f8c",
@@ -5273,7 +5273,7 @@
    "ヴァイ"
   ],
   "jp": "止める",
-  "en": ""
+  "en": "Stop him"
  },
  {
   "id": "s0321_06f94",
@@ -5297,7 +5297,7 @@
    "ヴァイ"
   ],
   "jp": "放っとけ",
-  "en": ""
+  "en": "Leave him be"
  },
  {
   "id": "s0321_06fa0",
@@ -5321,7 +5321,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "よさねえか！　止めなかった以上、{n}俺たちにどうこう口を挟む権利はねえ！",
-  "en": ""
+  "en": "Knock it off! We didn't stop 'em, so we got{n}no right to butt in now!"
  },
  {
   "id": "s0321_06fe8",
@@ -5345,7 +5345,7 @@
    "ヴァイ"
   ],
   "jp": "でもよう……",
-  "en": ""
+  "en": "But still..."
  },
  {
   "id": "s0321_06ff8",
@@ -5369,7 +5369,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "ジオンよ。決着はついたな。だが、{n}勝ったのはテメエじゃねえ。それは{n}判るよな？",
-  "en": ""
+  "en": "Zion. So it's settled. But you ain't the one{n}who won. You get that, right?"
  },
  {
   "id": "s0321_07048",
@@ -5393,7 +5393,7 @@
    "ジオン"
   ],
   "jp": "……ああ。俺の負けだ。これ以上{n}生き恥を晒すくらいなら、いっそ――",
-  "en": ""
+  "en": "...Yes. I have lost. Rather than live on in{n}shame any longer, I would sooner--"
  },
  {
   "id": "s0321_0708c",
@@ -5417,7 +5417,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "バカ野郎っ！",
-  "en": ""
+  "en": "You moron!"
  },
  {
   "id": "s0321_0709c",
@@ -5441,7 +5441,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "魂喰らいを己に突き立てようとする{n}ジオンを一喝し、Ｄ・Ｓは続けた。",
-  "en": ""
+  "en": "With a roar at Zion, who was about to{n}drive the Soul Eater into himself, D.S.{n}went on."
  },
  {
   "id": "s0321_070e0",
@@ -5465,7 +5465,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "ここで死んだら、テメエは永久に弟にゃ{n}勝てねえ！　負け犬のままあの世に{n}行って、合わせる顔があんのかよ！",
-  "en": ""
+  "en": "Die here and you'll never beat your brother!{n}Go to the next world a loser, and what face{n}will you show him!"
  },
  {
   "id": "s0321_07148",
@@ -5513,7 +5513,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "罪だの恥だのと思うなら、生きて償え！{n}シェンのぶんまで生きて、俺とともに{n}戦え！　あの世の恋人と弟に胸を{n}張れるだけの仕事をさせてやらあ！",
-  "en": ""
+  "en": "If you're on about sin and shame, then live{n}and make up for it! Live for Schen's share{n}too, and fight with me! I'll give you work you{n}can hold your head up for in front of{page}your lover and brother!"
  },
  {
   "id": "s0321_071e0",
@@ -5537,7 +5537,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "うなだれたジオンの目に、微かだが{n}光が灯ったように見えた。やがて彼は{n}立ち上がり、苦悩を噛み殺した表情で{n}頷いた。",
-  "en": ""
+  "en": "In the eyes of the downcast Zion, a faint{n}light seemed to kindle. Before long he{n}rose, and nodded, his face holding down{n}his anguish."
  },
  {
   "id": "s0321_07254",
@@ -5561,7 +5561,7 @@
    "ジオン"
   ],
   "jp": "そうだな……ここで自刃しようもの{n}ならシェンとマリエに笑われよう。{n}この手に染みついた血を贖える時まで、{n}己の命を絶つことだけはすまい――",
-  "en": ""
+  "en": "So it is... Were I to take my own life here,{n}Schen and Marie would laugh at me. Until I{n}can atone for the blood soaked into these{n}hands, I shall not end my life--"
  },
  {
   "id": "s0321_072e0",
@@ -5585,7 +5585,7 @@
    "ジオン"
   ],
   "jp": "シェンに代わって、ともにゆこう――。{n}俺たちの兄弟の記憶を弄んだ神々と{n}やらに、復讐の牙を突き立てよう――{n}それが、今の俺の望みだ",
-  "en": ""
+  "en": "In Schen's place, let us go together--. Let{n}us sink the fangs of revenge into these gods{n}who toyed with the memories of my brother{n}and me-- That is what I wish now."
  },
  {
   "id": "s0321_07364",
@@ -5609,7 +5609,7 @@
    "ジオン"
   ],
   "jp": "シェンは草地に埋葬された。墓標の{n}代わりに並べて立てられた黒夜叉と{n}薬師丸が、死後界で再び巡り会う夫婦{n}の姿を思い起こさせた。",
-  "en": ""
+  "en": "Schen was buried in the grass. Black{n}Yaksha and Yakushimaru, set side by side{n}in place of a grave marker, called to mind{n}a husband and wife reunited in the world{n}beyond."
  },
  {
   "id": "s0321_073e4",
@@ -5633,7 +5633,7 @@
    "ジオン"
   ],
   "jp": "シェンよ……俺はゆく。詫びるのは{n}この命が果てた後、あの世でのことと{n}しよう。さらばだ――",
-  "en": ""
+  "en": "Schen... I am going. My apologies I shall make{n}after this life is over, in the next world.{n}Farewell--"
  },
  {
   "id": "s0321_07440",
@@ -5657,7 +5657,7 @@
    "ジオン"
   ],
   "jp": "黙祷し、ジオンは墓標に背を向けた。{n}歩み出す。前に向かって。長き歳月を、{n}修羅に囚われてきた男は今、ようやく{n}人として進む道を見出したのだった。",
-  "en": ""
+  "en": "After a silent prayer, Zion turned his back{n}on the grave marker. He walked. Forward.{n}The man held for long years by the{n}demon's path had at last found a road to{n}walk as a human being."
  },
  {
   "id": "s0321_074d0",
@@ -5681,7 +5681,7 @@
    "ヴァイ"
   ],
   "jp": "どうしてシェンが死ななくちゃなら{n}ないんだよ！{n}ジオン、俺と勝負しやがれ！",
-  "en": ""
+  "en": "Why the hell did Schen have to die! Zion,{n}fight me, damn you!"
  },
  {
   "id": "s0321_0751c",
@@ -5705,7 +5705,7 @@
    "ジオン"
   ],
   "jp": "――吠えなくともいい。{n}すぐに、決着をつけてやる",
-  "en": ""
+  "en": "--No need to bark. I shall settle this at{n}once."
  },
  {
   "id": "s0321_07550",
@@ -5729,7 +5729,7 @@
    "ジオン"
   ],
   "jp": "言い放ち、ジオンは魂喰らいをヴァイ{n}に向けて構えた。魔剣の刀身が、新た{n}な犠牲者の魂を求めて低く震える。",
-  "en": ""
+  "en": "So saying, Zion set the Soul Eater against{n}Vai. The blade of the demon sword{n}trembled low, seeking the soul of a new{n}victim."
  },
  {
   "id": "s0321_075b8",
@@ -5753,7 +5753,7 @@
    "ジオン"
   ],
   "jp": "次の瞬間、目にも止まらぬ迅さで剣を{n}逆手に持ち替えたジオンは、その黒い{n}刃を深々と己の腹部に突き立てていた。{page}薄い笑みを浮かべた口元から、鮮血が{n}大量に溢れ出す。",
-  "en": ""
+  "en": "The next instant, reversing his grip faster{n}than the eye could see, Zion drove the{n}black blade deep into his own belly.{page}From his thinly smiling mouth, fresh blood{n}poured."
  },
  {
   "id": "s0321_07658",
@@ -5777,7 +5777,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "バカな真似を！",
-  "en": ""
+  "en": "You stupid...!"
  },
  {
   "id": "s0321_07668",
@@ -5801,7 +5801,7 @@
    "イングヴェイイングヴェイ・フォン・マルムステ"
   ],
   "jp": "ジオン！",
-  "en": ""
+  "en": "Zion!"
  },
  {
   "id": "s0321_07674",
@@ -5825,7 +5825,7 @@
    "ジオン"
   ],
   "jp": "フ……これでいいのだ。イングヴェイ、{n}カル様のこと、頼んだぞ――",
-  "en": ""
+  "en": "Heh... This is as it should be. Yngwei, I leave{n}Kall-sama to you--"
  },
  {
   "id": "s0321_076b8",
@@ -5849,7 +5849,7 @@
    "ジオン"
   ],
   "jp": "ジオンの目は、すでに焦点を失い{n}始めていた。魔剣を抜き捨て、最後に{n}残された視力で弟の亡骸を目指し、{n}這い寄っていく――。",
-  "en": ""
+  "en": "Zion's eyes had already begun to lose{n}their focus. Casting the demon sword{n}aside, he crawled with the last of his{n}sight toward his brother's body--."
  },
  {
   "id": "s0321_07734",
@@ -5873,7 +5873,7 @@
    "ジオン"
   ],
   "jp": "お前と、マリエに、怒られちまうか{n}……だが、俺にはもう、生きていく{n}ことはできない――復讐心にしがみ{n}ついていた、空っぽの人生なんだ……",
-  "en": ""
+  "en": "You and Marie will be angry with me, I{n}suppose... But I can live no longer-- It was{n}an empty life, clinging to revenge..."
  },
  {
   "id": "s0321_077bc",
@@ -5897,7 +5897,7 @@
    "ジオン"
   ],
   "jp": "俺は神など信じない……だが、もし、{n}俺たちが生まれ変わることがあった{n}なら……戻りたいな。全てが輝いて{n}いた、三人で過ごした、あの頃に――",
-  "en": ""
+  "en": "I do not believe in gods... But if we should{n}ever be born again... I would like to go back.{n}To that time when everything shone, when{n}the three of us were together--"
  },
  {
   "id": "s0321_07848",
@@ -5921,7 +5921,7 @@
    "ジオン"
   ],
   "jp": "その言葉を最後に、力尽きたジオンは{n}シェンの傍らで倒れ伏した。弟の後を{n}追い、修羅の魂はその肉体を離れたの{n}であった。",
-  "en": ""
+  "en": "With those last words, his strength spent,{n}Zion fell beside Schen. Following his{n}brother, the demon's soul left its flesh."
  },
  {
   "id": "s0321_078c0",
@@ -5948,7 +5948,7 @@
    "シェン"
   ],
   "jp": "凄惨な結末に、一行は黙りこくった{n}まま、苦い思いを噛み締めていた。{n}弱まった雨音に、押し殺したシーラの{n}啜り泣きが混じる。",
-  "en": ""
+  "en": "Before the ghastly end, the party stood{n}silent, chewing on a bitter feeling. Into{n}the weakening sound of the rain mingled{n}Sheila's stifled sobs."
  },
  {
   "id": "s0321_0793c",
@@ -5975,7 +5975,7 @@
    "シェン"
   ],
   "jp": "ふたりの亡骸を簡単に埋葬する間も、{n}誰ひとり声を上げる者はなかった。{page}魂喰らいと黒夜叉、そして薬師丸を{n}揃えて湿地へと沈め、一行は重苦しい{n}足取りで進み始めた。誰に向けたもの{n}でもない、暗い怒りが彼らの心を{n}満たしていた――。",
-  "en": ""
+  "en": "Not one raised their voice while they gave{n}the two bodies a simple burial.{page}They sank the Soul Eater, Black Yaksha{n}and Yakushimaru together in the marsh,{n}and set off with heavy steps. A dark{n}anger, aimed at no one, filled their{n}hearts--."
  },
  {
   "id": "s0321_07a1c",
@@ -5999,7 +5999,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "待ちやがれ……うぐ……",
-  "en": ""
+  "en": "Wait, damn it... Ugh..."
  },
  {
   "id": "s0321_07a34",
@@ -6023,7 +6023,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "対峙するふたりの間の、そこだけ帯電{n}したかの如く緊迫する空間に、不整脈{n}の続くＤ・Ｓは身体をねじ込むように{n}して割って入った。凄まじい殺気の渦{n}が、彼の弱った心臓を撃つかに思えた。",
-  "en": ""
+  "en": "Into the charged, tense space between{n}the two, D.S., his heart still skipping,{n}forced his body as if to wedge himself in.{n}The whirlpool of fearsome killing intent{n}seemed about to strike his weakened{n}heart."
  },
  {
   "id": "s0321_07ae8",
@@ -6047,7 +6047,7 @@
    "ジオン"
   ],
   "jp": "邪魔だてするな、Ｄ・Ｓ",
-  "en": ""
+  "en": "Do not interfere, D.S."
  },
  {
   "id": "s0321_07b00",
@@ -6071,7 +6071,7 @@
    "シェン"
   ],
   "jp": "仇討ちを止めると言うなら、オマエ{n}でも容赦しないぞ",
-  "en": ""
+  "en": "If you're gonna stop my revenge, I won't go{n}easy, even on you."
  },
  {
   "id": "s0321_07b34",
@@ -6095,7 +6095,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "けっ……つまらねえコトで兄弟ゲンカ{n}しやがって――",
-  "en": ""
+  "en": "Tch... Having a brothers' spat over some{n}dumb crap--"
  },
  {
   "id": "s0321_07b68",
@@ -6119,7 +6119,7 @@
    "ジオン"
   ],
   "jp": "つまらぬ、だと――？",
-  "en": ""
+  "en": "Dumb, you say--?"
  },
  {
   "id": "s0321_07b80",
@@ -6143,7 +6143,7 @@
    "シェン"
   ],
   "jp": "撤回しろ！　Ｄ・Ｓ！",
-  "en": ""
+  "en": "Take it back! D.S.!"
  },
  {
   "id": "s0321_07b98",
@@ -6167,7 +6167,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "やかましーや！　どうしてもやり合お{n}うってんなら、俺を倒してからにしな。{n}その程度の業に縛られてるテメーらに{n}やられる俺様じゃねーけどよ",
-  "en": ""
+  "en": "Shaddap! If you gotta fight so bad, go{n}through me first. Not that the great me{n}could lose to guys tied up in karma that{n}puny."
  },
  {
   "id": "s0321_07c20",
@@ -6191,7 +6191,7 @@
    "ヨシュア"
   ],
   "jp": "無茶だＤ・Ｓ！　シェンは剣の腕前に{n}限ってなら侍随一の手練れだぞ！",
-  "en": ""
+  "en": "You cannot, D.S.! With a sword alone, Schen{n}is the finest of all the samurai!"
  },
  {
   "id": "s0321_07c64",
@@ -6215,7 +6215,7 @@
    "イングヴェイイングヴェイ・フォン・マルムステ"
   ],
   "jp": "ジオンも、魔剣の扱いにかけては{n}天才的だ。足を止めての勝負では私も{n}太刀打ちできぬほど強い。まして{n}Ｄ・Ｓ、今の身体では――",
-  "en": ""
+  "en": "Zion too is a genius with the demon sword.{n}Standing toe to toe, even I am no match for{n}him. And you, D.S., in your present state--"
  },
  {
   "id": "s0321_07ce0",
@@ -6239,7 +6239,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "小僧どもに多少斬られてヒイヒイゆー{n}ほどヤワじゃねーよ。任しとけ……う",
-  "en": ""
+  "en": "I ain't so soft I'll squeal over a few nicks{n}from a couple of brats. Leave it to me...{n}Ugh."
  },
  {
   "id": "s0321_07d28",
@@ -6263,7 +6263,7 @@
    "ヴァイ"
   ],
   "jp": "よーし、力ずくで止めてくれ、Ｄ・Ｓ！",
-  "en": ""
+  "en": "All right, stop 'em by force, D.S.!"
  },
  {
   "id": "s0321_07d50",
@@ -6287,7 +6287,7 @@
    "ジオン"
   ],
   "jp": "……力ずくだと？　ならば貴様から{n}魔剣の贄にしてくれよう！",
-  "en": ""
+  "en": "...By force, you say? Then I shall make you{n}the demon sword's first offering!"
  },
  {
   "id": "s0321_07d8c",
@@ -6311,7 +6311,7 @@
    "シェン"
   ],
   "jp": "仇討ちは侍にとって最も重んじるもの{n}――Ｄ・Ｓ、許せ！",
-  "en": ""
+  "en": "Revenge means more than anything to a{n}samurai-- D.S., forgive me!"
  },
  {
   "id": "s0321_07dc4",
@@ -6335,7 +6335,7 @@
    "ジオン"
   ],
   "jp": "何故だ!?　何故されるがままで抵抗{n}しない！　魔人と言えど……死ぬぞ",
-  "en": ""
+  "en": "Why!? Why do you take it and not resist!{n}Fiend or no... you will die."
  },
  {
   "id": "s0321_07e08",
@@ -6359,7 +6359,7 @@
    "シェン"
   ],
   "jp": "何かを……伝えようとしているのか？",
-  "en": ""
+  "en": "Is he... trying to tell us something?"
  },
  {
   "id": "s0321_07e2c",
@@ -6383,7 +6383,7 @@
    "シェン"
   ],
   "jp": "無抵抗に病身を晒すＤ・Ｓの気迫に、{n}互いの復讐に滾る兄弟の剣は止まった。",
-  "en": ""
+  "en": "Before the spirit of D.S., baring his sick{n}body without resistance, the swords of{n}the brothers, seething for revenge on{n}each other, came to a stop."
  },
  {
   "id": "s0321_07e78",
@@ -6407,7 +6407,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "……いーコンビネーションじゃねーか{n}……。ぐっ、眩暈がしやがる……少し{n}血を流し過ぎたかよ――",
-  "en": ""
+  "en": "...Nice teamwork you two got there... Gah, I'm{n}getting dizzy... Guess I lost a little too much{n}blood--"
  },
  {
   "id": "s0321_07ed8",
@@ -6431,7 +6431,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "Ｄ・Ｓは膝を突き、そのまま前のめり{n}に倒れそうな身体を精神力で支えた。",
-  "en": ""
+  "en": "D.S. fell to one knee, and held up by{n}willpower alone a body about to pitch{n}forward."
  },
  {
   "id": "s0321_07f20",
@@ -6455,7 +6455,7 @@
    "シェン"
   ],
   "jp": "Ｄ・Ｓ！",
-  "en": ""
+  "en": "D.S.!"
  },
  {
   "id": "s0321_07f2c",
@@ -6479,7 +6479,7 @@
    "ジオン"
   ],
   "jp": "何故そうまでして……俺などのために{n}……",
-  "en": ""
+  "en": "Why go so far... for the likes of me..."
  },
  {
   "id": "s0321_07f58",
@@ -6503,7 +6503,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "へ、へ……記憶を失ってる時は仲が{n}良くて、思い出したら殺し合う――{n}そーいうのはよ、オカシーじゃねえか？",
-  "en": ""
+  "en": "Heh, heh... Best pals when you got no{n}memories, then you kill each other once you{n}remember-- Don't you think that's messed{n}up?"
  },
  {
   "id": "s0321_07fc0",
@@ -6527,7 +6527,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "記憶は生きるための道標かも知れねえ{n}……だがな、それに縛られて望んでも{n}いねえ道を進むってのは馬鹿げてるぜ",
-  "en": ""
+  "en": "Maybe memories are a signpost for living...{n}But it's dumb to get tied down by 'em and{n}walk a road you don't even want."
  },
  {
   "id": "s0321_0802c",
@@ -6551,7 +6551,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "俺なんざ四百年ぶんだぜ？　いちいち{n}こだわってたら身が保たねえ。少しは{n}忘れちまってるほうがいいって、記憶{n}を取り戻してみて思ったぜ",
-  "en": ""
+  "en": "Hell, I got four hundred years' worth! Fuss{n}over every one and I'd never last. Now that{n}I got my memories back, I figure it's better{n}to forget a little."
  },
  {
   "id": "s0321_080b0",
@@ -6575,7 +6575,7 @@
    "ジオン"
   ],
   "jp": "――忘れて良いのだろうか。愛する女{n}を殺した罪を、人間として忘れても{n}良いものなのか？　俺は――",
-  "en": ""
+  "en": "--May I forget? May a human being forget{n}the sin of killing the woman he loved? I--"
  },
  {
   "id": "s0321_08110",
@@ -6599,7 +6599,7 @@
    "シェン"
   ],
   "jp": "兄者……オレは判っていたんだ。{n}辛かったのはオレじゃなく、兄者{n}だってことを――",
-  "en": ""
+  "en": "Brother... I knew. I knew it wasn't me who{n}was hurting, it was you--"
  },
  {
   "id": "s0321_08160",
@@ -6623,7 +6623,7 @@
    "ジオン"
   ],
   "jp": "……シェン",
-  "en": ""
+  "en": "...Schen."
  },
  {
   "id": "s0321_0816c",
@@ -6647,7 +6647,7 @@
    "シェン"
   ],
   "jp": "マリエの仇を討つ……そう考えると{n}楽だった。全てを兄者のせいにできた。{n}オレがマリエを愛したことに、後ろめ{n}たさを感じずに済んだ……",
-  "en": ""
+  "en": "Avenge Marie... Thinking that was easy. I{n}could lay it all on you. I didn't have to feel{n}guilty for loving Marie..."
  },
  {
   "id": "s0321_081f0",
@@ -6671,7 +6671,7 @@
    "シェン"
   ],
   "jp": "婚儀の時、兄者の復縁のことだけを{n}考えたと言えば、それは嘘だ。他にも{n}方法はあったはずなんだ。それなのに{n}オレは、言いなりになって――",
-  "en": ""
+  "en": "If I said all I thought of at the wedding was{n}restoring you, that'd be a lie. There must've{n}been another way. But I just did as I was{n}told--"
  },
  {
   "id": "s0321_08278",
@@ -6695,7 +6695,7 @@
    "ジオン"
   ],
   "jp": "もういい……やめるんだシェン",
-  "en": ""
+  "en": "Enough... Stop this, Schen."
  },
  {
   "id": "s0321_08298",
@@ -6719,7 +6719,7 @@
    "シェン"
   ],
   "jp": "確かに、Ｄ・Ｓの言う通りだった。{n}つまらない仇討ちだ。マリエがあの世{n}で喜ぶはずもないことを、オレは判っ{n}ていたのだから……",
-  "en": ""
+  "en": "D.S. was right. It's a dumb revenge. I knew it{n}couldn't possibly make Marie happy in the{n}next world..."
  },
  {
   "id": "s0321_08314",
@@ -6743,7 +6743,7 @@
    "ジオン"
   ],
   "jp": "――この手でマリエを殺めてしまった{n}時から、お前を殺す理由などなかった。{n}いや、マリエが真実お前を愛した時{n}から、理由などなかったのだ……",
-  "en": ""
+  "en": "--From the time I killed Marie with this hand,{n}I had no reason to kill you. No, from the{n}time Marie truly loved you, there was no{n}reason..."
  },
  {
   "id": "s0321_083a0",
@@ -6767,7 +6767,7 @@
    "ジオン"
   ],
   "jp": "マリエが幸せであれば、それで良かっ{n}たのだ。お前ならきっと、そうできた{n}……",
-  "en": ""
+  "en": "If Marie was happy, that was enough. You{n}surely could have done that..."
  },
  {
   "id": "s0321_083ec",
@@ -6791,7 +6791,7 @@
    "シェン"
   ],
   "jp": "……やり直そう、兄者。俺たちで、{n}マリエを弔い直そう",
-  "en": ""
+  "en": "...Let's start over, brother. Let's mourn{n}Marie again, the two of us."
  },
  {
   "id": "s0321_08424",
@@ -6815,7 +6815,7 @@
    "ジオン"
   ],
   "jp": "そうだな……マリエの命を奪った罪は{n}決して消えない。だが、生きていく{n}方向を変えることはできる。前に――",
-  "en": ""
+  "en": "Yes... The sin of taking Marie's life will never{n}fade. But I can change the way I live.{n}Forward--"
  },
  {
   "id": "s0321_0848c",
@@ -6839,7 +6839,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "キッツイ役回りだったぜ……うう、{n}死んじまいそう",
-  "en": ""
+  "en": "That was one rough part to play... Ugh, I'm{n}gonna die."
  },
  {
   "id": "s0321_084c0",
@@ -6863,7 +6863,7 @@
    "ネイ"
   ],
   "jp": "ああっダーシュの血が止まらないわ！{n}だくだくとか出てる……でも、ステキ{n}だったわ、ダーシュ。ガラ！　ぼーっ{n}と見てないで輸血ゥ！",
-  "en": ""
+  "en": "Ah! Dahsh's blood won't stop! It's gushing and{n}everything... But you were wonderful, Dahsh.{n}Gara! Don't just stand there gawking, give{n}him a transfusion!"
  },
  {
   "id": "s0321_08540",
@@ -6887,7 +6887,7 @@
    "ガラ"
   ],
   "jp": "オレの血ィ？",
-  "en": ""
+  "en": "My blood?"
  },
  {
   "id": "s0321_08550",
@@ -6911,7 +6911,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "や、やめろ……バカになる……それに{n}低級なコイツの血が超高級の俺様に{n}合うワケがねえ。凝固しちまうぅ――",
-  "en": ""
+  "en": "N-no way... I'll go stupid... Besides, this{n}low-class guy's blood could never match the{n}great, ultra-classy me. It'll clot on me--"
  },
  {
   "id": "s0321_085b8",
@@ -6935,7 +6935,7 @@
    "ガラ"
   ],
   "jp": "あっ、テメっ、よーし輸血してやろー{n}じゃねーか！",
-  "en": ""
+  "en": "Oh, you little-- All right, I'll give you a{n}transfusion, you bet!"
  },
  {
   "id": "s0321_085ec",
@@ -6959,7 +6959,7 @@
    "マカパイン"
   ],
   "jp": "つくづく不死身な男だなぁ……",
-  "en": ""
+  "en": "Truly, the man is immortal..."
  },
  {
   "id": "s0321_0860c",
@@ -6983,7 +6983,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "くそっ……ダメだ！　力ずくじゃ抑え{n}られねえ！",
-  "en": ""
+  "en": "Damn it... No good! Can't stop 'em by force!"
  },
  {
   "id": "s0321_0863c",
@@ -7007,7 +7007,7 @@
    "ネイ"
   ],
   "jp": "ダーシュ、しっかり！",
-  "en": ""
+  "en": "Dahsh, hang on!"
  },
  {
   "id": "s0321_08654",
@@ -7031,7 +7031,7 @@
    "ジオン"
   ],
   "jp": "さあ、邪魔者はいなくなった。積年の{n}決着をつけようぞ――",
-  "en": ""
+  "en": "Now, the meddler is gone. Let us settle our{n}long account--"
  },
  {
   "id": "s0321_08690",
@@ -7055,7 +7055,7 @@
    "シェン"
   ],
   "jp": "望むところだ！　貴様の首、マリエの{n}墓前にそなえてくれる！",
-  "en": ""
+  "en": "Bring it on! I'll lay your head on Marie's{n}grave!"
  },
  {
   "id": "s0321_086cc",
@@ -7079,7 +7079,7 @@
    "シェン"
   ],
   "jp": "二本の黒い太刀が交錯した。その刹那、{n}消失したように見えた黒夜叉が漆黒の{n}鎧に弾かれる。",
-  "en": ""
+  "en": "Two black swords crossed. In that instant,{n}Black Yaksha, seeming to vanish, was{n}turned aside by the jet-black armor."
  },
  {
   "id": "s0321_08724",
@@ -7103,7 +7103,7 @@
    "シェン"
   ],
   "jp": "シェンの脇腹から鮮血が迸った。{page}魔剣に深々と抉られ、シェンは転がる{n}ように倒れ込む。黒夜叉が手から飛び、{n}湿った草地に斜めに突き立った。",
-  "en": ""
+  "en": "Fresh blood burst from Schen's side.{page}Gouged deep by the demon sword, Schen{n}rolled and fell. Black Yaksha flew from his{n}hand and stuck at a slant in the wet{n}grass."
  },
  {
   "id": "s0321_087ac",
@@ -7127,7 +7127,7 @@
    "シェン"
   ],
   "jp": "だが、もう一方の手に、すでに薬師丸{n}はなかった。",
-  "en": ""
+  "en": "But in his other hand, there was no longer{n}any Yakushimaru."
  },
  {
   "id": "s0321_087e0",
@@ -7151,7 +7151,7 @@
    "シェン"
   ],
   "jp": "立ち尽くしたままのジオンの口から、{n}大量の血が吐き出された。交錯の瞬間、{n}黒夜叉を囮に繰り出された薬師丸が、{n}ブラック・レネゲイドの装甲の隙間{n}から急所を貫いていたのだった。",
-  "en": ""
+  "en": "From the mouth of Zion, still standing,{n}poured a flood of blood. In the moment{n}they crossed, with Black Yaksha as the{n}decoy, Yakushimaru had shot out and{n}pierced a vital spot through a gap in{n}Black Renegade's armor."
  },
  {
   "id": "s0321_0888c",
@@ -7175,7 +7175,7 @@
    "ジオン"
   ],
   "jp": "フ……強くなった。父御がお前を選ん{n}だ理由、判った気がするわ……ごぶっ",
-  "en": ""
+  "en": "Heh... You have grown strong. I believe I{n}understand why Father chose you... Hrgh."
  },
  {
   "id": "s0321_088d4",
@@ -7199,7 +7199,7 @@
    "ジオン"
   ],
   "jp": "溢れ出る鮮やかな血が、ジオンの言葉{n}を途切れさせた。倒れたシェンに{n}向き直り、魔剣士はゆっくりと、足を{n}引きずって近づいていく――。",
-  "en": ""
+  "en": "The bright blood that welled up cut off{n}Zion's words. Turning toward the fallen{n}Schen, the demon swordsman slowly{n}dragged himself nearer--."
  },
  {
   "id": "s0321_08958",
@@ -7223,7 +7223,7 @@
    "ジオン"
   ],
   "jp": "これで良かったのかも知れん……あの{n}夜から、俺にとって生は苦痛だった。{n}カル様の理想に殉ずることのみが、{n}俺の余生に意味を与えた――",
-  "en": ""
+  "en": "Perhaps this is as it should be... Since that{n}night, life has been pain to me. Only dying{n}for Kall-sama's ideal gave my remaining days{n}meaning--"
  },
  {
   "id": "s0321_089dc",
@@ -7247,7 +7247,7 @@
    "シェン"
   ],
   "jp": "兄者……ジオン兄さん。オレは……{n}こんなことがしたかったんじゃない",
-  "en": ""
+  "en": "Brother... My brother, Zion. I... didn't want{n}this."
  },
  {
   "id": "s0321_08a20",
@@ -7271,7 +7271,7 @@
    "シェン"
   ],
   "jp": "仰向けに倒れたシェンの瞳から、命の{n}灯が急速に消えていく。魂喰らいに{n}斬られた傷は黒く変色し、もはや治癒{n}も不可能なほどに腐敗し始めていた。",
-  "en": ""
+  "en": "From the eyes of Schen, lying on his back,{n}the light of life was rapidly fading. The{n}wound cut by the Soul Eater had turned{n}black, and had begun to rot beyond all{n}healing."
  },
  {
   "id": "s0321_08aac",
@@ -7295,7 +7295,7 @@
    "シェン"
   ],
   "jp": "復讐など、マリエが望むわけがない{n}……。どうしてこんなことになっち{n}まったのかな――オレたちは、昔には{n}戻れなかったのかな……？",
-  "en": ""
+  "en": "Marie could never have wanted revenge...{n}How did it end up like this-- Could we never{n}go back to how things were...?"
  },
  {
   "id": "s0321_08b2c",
@@ -7319,7 +7319,7 @@
    "シェン"
   ],
   "jp": "シェン……どこだ、シェン？",
-  "en": ""
+  "en": "Schen... Where are you, Schen?"
  },
  {
   "id": "s0321_08b48",
@@ -7343,7 +7343,7 @@
    "シェン"
   ],
   "jp": "ジオンはすでに視力を失っていた。{n}おぼつかぬ足取りで、しかし導かれる{n}ように弟のもとへと歩み寄っていく。",
-  "en": ""
+  "en": "Zion had already lost his sight. On{n}unsteady feet, yet as if guided, he walked{n}toward his brother."
  },
  {
   "id": "s0321_08bb0",
@@ -7367,7 +7367,7 @@
    "シェン"
   ],
   "jp": "戻ろう、シェン……あの、楽しかった{n}季節へ……マリエも、待っ、てる――",
-  "en": ""
+  "en": "Let us go back, Schen... To that happy{n}season... Marie is, wait, ing--"
  },
  {
   "id": "s0321_08bf8",
@@ -7391,7 +7391,7 @@
    "シェン"
   ],
   "jp": "ああ、兄さん……見えるよ。マリエも、{n}笑っ、て、る――",
-  "en": ""
+  "en": "Ah, brother... I can see it. Marie's, smil, ing,{n}too--"
  },
  {
   "id": "s0321_08c30",
@@ -7415,7 +7415,7 @@
    "シェン"
   ],
   "jp": "力尽き、倒れ伏したジオンの顔は、{n}測ったようにシェンの傍らにあった。{n}安らかな、救われた笑みを浮かべて、{n}兄弟の魂は同時に、この世界を離れて{n}いったのだった――。",
-  "en": ""
+  "en": "His strength gone, Zion fell prostrate, his{n}face as if by measure at Schen's side.{n}With peaceful, redeemed smiles, the{n}brothers' souls left this world in the same{n}moment--."
  },
  {
   "id": "s0321_0a3dc",
@@ -7439,7 +7439,7 @@
    ""
   ],
   "jp": "霧のように細かな雨が、再び渡り板を{n}進む一行の視界を奪い始めた。",
-  "en": ""
+  "en": "As the party went on along the boards,{n}rain as fine as mist began again to steal{n}their view."
  },
  {
   "id": "s0321_0a420",
@@ -7463,7 +7463,7 @@
    ""
   ],
   "jp": "そして、姿なき襲撃者は再来した。",
-  "en": ""
+  "en": "And the unseen attacker returned."
  },
  {
   "id": "s0321_0a444",
@@ -7496,7 +7496,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "うおっ！",
-  "en": ""
+  "en": "Whoa!"
  },
  {
   "id": "s0321_0a450",
@@ -7529,7 +7529,7 @@
    "ヨシュア"
   ],
   "jp": "ぐうっ！",
-  "en": ""
+  "en": "Guh!"
  },
  {
   "id": "s0321_0a45c",
@@ -7659,7 +7659,7 @@
    "ブラド"
   ],
   "jp": "おごぉっ！",
-  "en": ""
+  "en": "Ogh!"
  },
  {
   "id": "s0321_0a48c",
@@ -7683,7 +7683,7 @@
    "バ・ソリー"
   ],
   "jp": "ウガフグッ！",
-  "en": ""
+  "en": "Ugafgh!"
  },
  {
   "id": "s0321_0a49c",
@@ -7707,7 +7707,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "出やがったか……くそ、もうすぐこの{n}空洞から抜けられそうだってのに……。{n}こんな時に心臓が言うことをききやが{n}らねえ――",
-  "en": ""
+  "en": "So it showed up... Damn, and we're almost{n}out of this hollow... And my heart won't do{n}what it's told, right when--"
  },
  {
   "id": "s0321_0a514",
@@ -7731,7 +7731,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "襲撃が止んだ。そう思った瞬間、{n}何かが近づいてくる足音が響く。",
-  "en": ""
+  "en": "The attacks stopped. In the moment they{n}thought so, the footsteps of something{n}approaching rang out."
  },
  {
   "id": "s0321_0a554",
@@ -7755,7 +7755,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "身構える一行の前に現れたのはヨルグ{n}であった。",
-  "en": ""
+  "en": "Before the party, standing ready, Jorg{n}appeared."
  },
  {
   "id": "s0321_0a584",
@@ -7779,7 +7779,7 @@
    "ヨルグ"
   ],
   "jp": "Ｄ・Ｓ！　おお、ヨシュアも、みんな{n}も、無事か――ん？　どうしたんだ？",
-  "en": ""
+  "en": "D.S.! Ah, Joshua, all of you, you are safe--{n}Hm? What is wrong?"
  },
  {
   "id": "s0321_0a5cc",
@@ -7803,7 +7803,7 @@
    "ヨルグ"
   ],
   "jp": "自分に注がれる猜疑の視線に気づき、{n}ヨルグは狼狽の表情を見せた。",
-  "en": ""
+  "en": "Noticing the suspicious gazes trained on{n}him, Jorg looked flustered."
  },
  {
   "id": "s0321_0a610",
@@ -7827,7 +7827,7 @@
    "ヨルグ"
   ],
   "jp": "さらにはジオンとシェンの死が、一行{n}の心に荒んだ感情を植え付けていた。{page}一度は信頼を取り戻した彼らも、こう{n}もタイミング良く現れたヨルグを受け{n}容れて良いものか――むしろ暗黒僧と{n}疑ってかかるべきではないか、という{n}疑心暗鬼に再び苛まれ始めていた。",
-  "en": ""
+  "en": "On top of this, the deaths of Zion and{n}Schen had planted a savage feeling in the{n}party's hearts.{page}They had regained their trust once, but{n}could they accept Jorg, showing up at so{n}timely a moment? Should they not rather{n}suspect the Dark Priest? They began once{n}more to be tormented by suspicion."
  },
  {
   "id": "s0321_0a704",
@@ -7851,7 +7851,7 @@
    "ヨシュア"
   ],
   "jp": "待て、みんな！　落ち着くんだ",
-  "en": ""
+  "en": "Wait, everyone! Calm down."
  },
  {
   "id": "s0321_0a724",
@@ -7875,7 +7875,7 @@
    "ボル"
   ],
   "jp": "いいや、警戒を解いてはならぬ！",
-  "en": ""
+  "en": "No, do not lower your guard!"
  },
  {
   "id": "s0321_0a744",
@@ -7899,7 +7899,7 @@
    "ヨシュア"
   ],
   "jp": "ボル!?　今は心を合わせて――",
-  "en": ""
+  "en": "Bol!? Right now we must be of one{n}heart--"
  },
  {
   "id": "s0321_0a764",
@@ -7923,7 +7923,7 @@
    "ボル"
   ],
   "jp": "そのように甘いことは言っておれぬ！{n}災いの芽はここにて絶つでござる！",
-  "en": ""
+  "en": "We cannot afford such sweet talk, forsooth!{n}This one shall cut off the bud of disaster{n}right here!"
  },
  {
   "id": "s0321_0a7ac",
@@ -7947,7 +7947,7 @@
    "ボル"
   ],
   "jp": "ボルは射るが如き眼光でヨルグを睨み{n}つけ、そろりと背の剣に手を伸ばした。{n}次の瞬間、彼は踵を返し、背後の人物{n}を指し示した。",
-  "en": ""
+  "en": "Bol glared at Jorg with piercing eyes, and{n}slowly reached for the sword on his back.{n}The next instant, he spun on his heel and{n}pointed at someone behind him."
  },
  {
   "id": "s0321_0a828",
@@ -7971,7 +7971,7 @@
    "ボル"
   ],
   "jp": "贋者は貴様でござる！　ヴァイ！",
-  "en": ""
+  "en": "The impostor is you, forsooth! Vai!"
  },
  {
   "id": "s0321_0a848",
@@ -7995,7 +7995,7 @@
    "ボル"
   ],
   "jp": "ボルから密かに伸びていた影の触手が、{n}驚愕の表情を張り付けたヴァイに絡み{n}ついた。刹那、肉体を包んだ幻影は{n}影に引き剥がされ、暗黒僧の異形が{n}露となる。",
-  "en": ""
+  "en": "Shadow tendrils that had been stretching{n}secretly from Bol wrapped around Vai,{n}whose face was fixed in shock. In a{n}moment, the illusion wrapping the flesh{n}was torn away by the shadow, and the{n}Dark Priest's monstrous form lay bare."
  },
  {
   "id": "s0321_0a8e0",
@@ -8019,7 +8019,7 @@
    "暗黒僧"
   ],
   "jp": "何故だ……この男の姿と言動は、{n}完全に複写していたはずなのに――",
-  "en": ""
+  "en": "Why... I should have copied this man's form{n}and speech perfectly--"
  },
  {
   "id": "s0321_0a924",
@@ -8043,7 +8043,7 @@
    "イングヴェイイングヴェイ・フォン・マルムステ"
   ],
   "jp": "うまくいったな、ボル。影で結界を{n}張り、皆の動きを把握してもらえば、{n}不審な行動はすぐにそれと知れる――{n}先刻、秘密裏に依頼しておいたのだ！",
-  "en": ""
+  "en": "It went well, Bol. With a barrier of shadow{n}marking everyone's movements, any{n}suspicious act would be known at once-- I{n}asked this of you in secret a while ago!"
  },
  {
   "id": "s0321_0a9b0",
@@ -8067,7 +8067,7 @@
    "ボル"
   ],
   "jp": "迂闊に攻撃を仕掛けたのがおぬしの{n}失策よ。影使いに、いかなるまやかし{n}も無駄と知れい！",
-  "en": ""
+  "en": "Your error was attacking so carelessly,{n}good sir. Know that all trickery is useless{n}against a shadow user!"
  },
  {
   "id": "s0321_0aa08",
@@ -8091,7 +8091,7 @@
    "暗黒僧"
   ],
   "jp": "……ここは天晴れと誉めておこう。{n}あと少しで人間の脆さ、無価値さを{n}教えてやれるところであったが――",
-  "en": ""
+  "en": "...I shall praise you here: well done. A little{n}more, and I could have taught you the{n}frailty, the worthlessness of humans--"
  },
  {
   "id": "s0321_0aa6c",
@@ -8115,7 +8115,7 @@
    "暗黒僧"
   ],
   "jp": "まあ良い。どのみちお前たちが辿り{n}着くのは滅びと言う名の絶望だ。{n}今はわずかに余命が延びたことを、{n}喜び合うが良かろう――",
-  "en": ""
+  "en": "No matter. Either way, where you are{n}headed is the despair called ruin. For now{n}you may rejoice together that your{n}remaining lives have been stretched a{page}little--"
  },
  {
   "id": "s0321_0aae8",
@@ -8139,7 +8139,7 @@
    "ボル"
   ],
   "jp": "むっ！　待つでござる！",
-  "en": ""
+  "en": "Hm! Wait, forsooth!"
  },
  {
   "id": "s0321_0ab00",
@@ -8163,7 +8163,7 @@
    "ボル"
   ],
   "jp": "再び絡みつこうとした影よりも迅く、{n}暗黒僧の肉体は木道に沈み込んだ。{n}機械的な声だけが、この地下空洞に{n}響き渡る。",
-  "en": ""
+  "en": "Swifter than the shadow that tried to{n}wrap him again, the Dark Priest's body{n}sank into the boardwalk. Only the{n}mechanical voice rang out through this{n}underground hollow."
  },
  {
   "id": "s0321_0ab74",
@@ -8187,7 +8187,7 @@
    "暗黒僧"
   ],
   "jp": "Ｄ・Ｓ……お前の心臓が鼓動を刻まぬ{n}ようになるまで、もうさほどの時も{n}残されてはおらぬ。黒き龍に食い千切{n}られるさま、見物させてもらうぞ――",
-  "en": ""
+  "en": "D.S.... There is not much time left before{n}your heart stops its beat. I shall enjoy{n}watching you torn apart by the black{n}dragon--"
  },
  {
   "id": "s0321_0ac00",
@@ -8211,7 +8211,7 @@
    "暗黒僧"
   ],
   "jp": "掠れた哄笑とともに、暗黒僧の姿なき{n}気配は遠退いていった。",
-  "en": ""
+  "en": "With hoarse laughter, the unseen{n}presence of the Dark Priest withdrew."
  },
  {
   "id": "s0321_0ac3c",
@@ -8235,7 +8235,7 @@
    "ボル"
   ],
   "jp": "逃したか――",
-  "en": ""
+  "en": "He got away, forsooth--"
  },
  {
   "id": "s0321_0ac4c",
@@ -8259,7 +8259,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "まさかヴァイの野郎に化けていやがっ{n}たとはな……考えて見りゃ、ずいぶん{n}混ぜっ返すようなコトを言って煽って{n}やがった――",
-  "en": ""
+  "en": "Who'd have thought he'd pose as that punk{n}Vai... Come to think of it, he kept saying{n}stuff to stir things up and egg us on--"
  },
  {
   "id": "s0321_0acc4",
@@ -8283,7 +8283,7 @@
    "ヨシュア"
   ],
   "jp": "ある意味、奴の狙いは半ば以上成功{n}したと言える。我々の失ったものは、{n}余りにも大きい……",
-  "en": ""
+  "en": "In a sense, his aim more than half{n}succeeded. What we have lost is all too{n}great..."
  },
  {
   "id": "s0321_0b9f8",
@@ -8307,7 +8307,7 @@
    ""
   ],
   "jp": "湿地を抜け、この大空洞からの出口と{n}なるであろう洞窟の前で、一行は倒れ{n}伏すヴァイを発見した。",
-  "en": ""
+  "en": "Past the marsh, before a cave that must{n}be the exit from this great hollow, the{n}party found Vai lying prostrate."
  },
  {
   "id": "s0321_0ba58",
@@ -8331,7 +8331,7 @@
    "ヨルグ"
   ],
   "jp": "ヴァイ！",
-  "en": ""
+  "en": "Vai!"
  },
  {
   "id": "s0321_0ba64",
@@ -8355,7 +8355,7 @@
    "ヨシュア"
   ],
   "jp": "良かった！　気を失っているだけだ。{n}起きるんだ、ヴァイ！",
-  "en": ""
+  "en": "Thank goodness! He has only fainted. Wake{n}up, Vai!"
  },
  {
   "id": "s0321_0baa0",
@@ -8379,7 +8379,7 @@
    "ヴァイ"
   ],
   "jp": "う……ん？　か、母ちゃん、もう食え{n}ねえよ……ムニャ",
-  "en": ""
+  "en": "Uh... Hm? M-Ma, I can't eat any more...{n}Mmf."
  },
  {
   "id": "s0321_0bad8",
@@ -8403,7 +8403,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "コテコテなリアクションしやがるな。{n}起きねえかこのお気楽バカ！",
-  "en": ""
+  "en": "What a corny reaction. Get up, you carefree{n}moron!"
  },
  {
   "id": "s0321_0bb18",
@@ -8427,7 +8427,7 @@
    "ヴァイ"
   ],
   "jp": "あ痛！　な……はぅ？　ココどこ？",
-  "en": ""
+  "en": "Ow! Wh... huh? Where am I?"
  },
  {
   "id": "s0321_0bb3c",
@@ -8451,7 +8451,7 @@
    "ヴァイ"
   ],
   "jp": "ヴァイは虹ではぐれてから、目覚めて{n}すぐに暗黒僧に拉致されたようだった。{n}変装した自分と鉢合わせせぬよう、{n}ヴァイに深い眠りの術を施したうえで、{n}暗黒僧は一行に潜り込んできたので{n}あった。",
-  "en": ""
+  "en": "Vai, parted from them at the rainbow, had{n}apparently been abducted by the Dark{n}Priest as soon as he woke. So as not to{n}run into his own disguised self, the Dark{n}Priest had put him in a deep sleep and{n}then wormed his way into the party."
  },
  {
   "id": "s0321_0bbf8",
@@ -8475,7 +8475,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "また贋者じゃねーだろうな？",
-  "en": ""
+  "en": "You ain't another impostor, are you?"
  },
  {
   "id": "s0321_0bc14",
@@ -8499,7 +8499,7 @@
    "ボル"
   ],
   "jp": "大丈夫。本物のヴァイでござるよ",
-  "en": ""
+  "en": "It is all right. This is the real Vai, forsooth."
  },
  {
   "id": "s0321_0bc34",
@@ -8523,7 +8523,7 @@
    "マカパイン"
   ],
   "jp": "しかし何故、ここに至って暗黒僧は{n}この小猿の命を取らなかったのか……？",
-  "en": ""
+  "en": "But why, at this stage, did the Dark Priest{n}not take this little monkey's life...?"
  },
  {
   "id": "s0321_0bc7c",
@@ -8547,7 +8547,7 @@
    "ヴァイ"
   ],
   "jp": "コラっ！　誰が小猿だっ！",
-  "en": ""
+  "en": "Hey! Who're you calling a little monkey!"
  },
  {
   "id": "s0321_0bc98",
@@ -8571,7 +8571,7 @@
    "ネイ"
   ],
   "jp": "あれが本来我々の仲間であるとすれば、{n}敵の精神支配に抗っているのかも{n}知れないな……私がダーシュの姿に{n}心を乱されたように――",
-  "en": ""
+  "en": "If that thing was once one of us, perhaps{n}he is fighting the enemy's control over his{n}mind... Just as Dahsh's form shook my own{n}heart--"
  },
  {
   "id": "s0321_0bd18",
@@ -8595,7 +8595,7 @@
    "ガラ"
   ],
   "jp": "なあ、ネイよ。今のヴァイの寝言で{n}思い出したんだけどよ。オレたちって、{n}メシって食ったかな？",
-  "en": ""
+  "en": "Hey, Nei. That thing Vai said in his sleep just{n}reminded me. Have we guys ever had{n}anything to eat?"
  },
  {
   "id": "s0321_0bd74",
@@ -8619,7 +8619,7 @@
    "ネイ"
   ],
   "jp": "ええい、それどこじゃないのッ！",
-  "en": ""
+  "en": "Oh, this is no time for that!"
  },
  {
   "id": "s0321_0bd94",
@@ -8643,7 +8643,7 @@
    "ガラ"
   ],
   "jp": "大事なコトだと思うんだけどなあ",
-  "en": ""
+  "en": "I'd call it pretty important, though."
  },
  {
   "id": "s0321_0bf74",
@@ -8667,6 +8667,6 @@
    "Ｄ・Ｓ"
   ],
   "jp": "戻ってる場合じゃねえ",
-  "en": ""
+  "en": "No time to go back."
  }
 ]

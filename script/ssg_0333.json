@@ -21,7 +21,7 @@
    ""
   ],
   "jp": "火山の内部へ続く通路は、古くに埋も{n}れた地下神殿へと続いていた。火口に{n}匹敵するほどの熱気は、ここに溶岩流{n}が通じていることを示している。ただ、{n}噴き出す汗は暑さによるものなのか、{n}それとも神殿の奥から漂う膨大な妖気{n}に対する冷や汗なのかは判らなかった。",
-  "en": ""
+  "en": "The passage into the volcano led to an{n}underground temple long buried. Heat to{n}match the crater's showed that lava{n}flowed here. But whether the sweat that{n}sprang out came from the heat, or was a{n}cold sweat at the vast demonic air{n}drifting from the temple's depths, none{n}could tell."
  },
  {
   "id": "s0333_00914",
@@ -45,7 +45,7 @@
    "ロス"
   ],
   "jp": "あっ！　みんなーっ！",
-  "en": ""
+  "en": "Ah! Everyoooone!"
  },
  {
   "id": "s0333_0092c",
@@ -69,7 +69,7 @@
    "ヴァイ"
   ],
   "jp": "ロスじゃんか！",
-  "en": ""
+  "en": "Hey, it's Ros!"
  },
  {
   "id": "s0333_0093c",
@@ -93,7 +93,7 @@
    "ロス"
   ],
   "jp": "合流にずいぶん手間取っちゃったわね。{n}もう会えないかと思ってたわよ……あ、{n}ソレ、アタシのハーフプロテクト！{n}見つけてくれたのね！　サンキュ！",
-  "en": ""
+  "en": "It sure took me long enough to find you all.{n}I thought I'd never see you again... Oh, that's{n}my Half Protect! You found it! Thankie!"
  },
  {
   "id": "s0333_009cc",
@@ -117,7 +117,7 @@
    "ロス"
   ],
   "jp": "アタシはと言えば、どーしてもあと{n}ひとつ、探してるお宝が見つからない{n}のよねー。アレさえあればアレがアレ{n}できるんだけどなー……",
-  "en": ""
+  "en": "As for me, there's just one more treasure I{n}can't find anywhere, y'know. If I had that,{n}then that could do that thing..."
  },
  {
   "id": "s0333_00a4c",
@@ -141,7 +141,7 @@
    "ザック"
   ],
   "jp": "何言ってんだ？　オマエは？",
-  "en": ""
+  "en": "What're you talking about, you?"
  },
  {
   "id": "s0333_00a68",
@@ -165,7 +165,7 @@
    "ロス"
   ],
   "jp": "ふふん。コドモにはワカんないイイ{n}コトよん。できてからのお楽しみィ",
-  "en": ""
+  "en": "Hmhm. Something nice that kids wouldn't get.{n}It's a surprise till it's done."
  },
  {
   "id": "s0333_00aac",
@@ -189,7 +189,7 @@
    "イダ"
   ],
   "jp": "恐ろしいっ！",
-  "en": ""
+  "en": "How dreadful!"
  },
  {
   "id": "s0333_00abc",
@@ -213,7 +213,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "何だ？　あのうすらデカイのは、{n}イダじゃねーか",
-  "en": ""
+  "en": "What the? That big lump... Isn't that Ida?"
  },
  {
   "id": "s0333_00aec",
@@ -237,7 +237,7 @@
    "ヴァイ"
   ],
   "jp": "ドンピシャじゃん！",
-  "en": ""
+  "en": "Bull's-eye!"
  },
  {
   "id": "s0333_00b00",
@@ -261,7 +261,7 @@
    "イダ"
   ],
   "jp": "おお、Ｄ・Ｓ！　巡り会えて良かった！",
-  "en": ""
+  "en": "Oh, D.S.! I am so glad to have found you!"
  },
  {
   "id": "s0333_00b28",
@@ -285,7 +285,7 @@
    "イダ"
   ],
   "jp": "虹で離散してから、イダはその精神を{n}妖気の波長に引き寄せられるように、{n}この神殿に迷い込んだようであった。{n}そこで見たものは、強さを美と捉える{n}彼にとってさえ、恐怖に囚われるほど{n}のおぞましい魔物であった。",
-  "en": ""
+  "en": "Since the party scattered at the rainbow,{n}Ida, it seemed, had wandered into this{n}temple, his mind drawn by the wavelength{n}of the demonic air. What he saw there{n}was a creature so foul that even he, who{n}took strength for beauty, was seized with{n}fear."
  },
  {
   "id": "s0333_00bf4",
@@ -309,7 +309,7 @@
    "イダ"
   ],
   "jp": "おお……恐ろしい。一瞬でも、あの{n}ような怪物を美しいと思ったなんて{n}――この先には、行くべきではあり{n}ません！",
-  "en": ""
+  "en": "Oh... How dreadful. That I thought such a{n}monster beautiful, even for an instant-- You{n}must not go any farther!"
  },
  {
   "id": "s0333_00c64",
@@ -333,7 +333,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "どーやらここにゃ、もう仲間もいねえ{n}ようだしな。引き返したって構わねえ{n}んだけどよ",
-  "en": ""
+  "en": "Don't look like any of our guys are here{n}anyway. Fine by me if we just turn back."
  },
  {
   "id": "s0333_00cb8",
@@ -357,7 +357,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "せっかく全快したんだ。腕試ししとく{n}のも悪かねえ――さて、どうすっかな",
-  "en": ""
+  "en": "I'm all healed up, after all. Not a bad time to{n}test my strength-- So, what should I do?"
  },
  {
   "id": "s0333_00d00",
@@ -381,7 +381,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "そうもいかねえ。俺に敵対する神と{n}やらに対抗するには、少しでも力を{n}蓄えなけりゃならねえ。そのためにも、{n}ここの邪神の魔力は必要になる――",
-  "en": ""
+  "en": "Can't do that. To stand up to these gods{n}against me, I gotta build up all the power I{n}can. And for that I need this evil god's{n}magic--"
  },
  {
   "id": "s0333_00d8c",
@@ -405,7 +405,7 @@
    "イダ"
   ],
   "jp": "……仕方ありません。その決意に美を{n}感じた以上、私もお供せねばなります{n}まい。我が召喚術、お役に立てば幸い{n}です",
-  "en": ""
+  "en": "...It cannot be helped. Having sensed beauty{n}in your resolve, I must go with you. I hope{n}my summoning arts may be of use."
  },
  {
   "id": "s0333_01094",
@@ -789,7 +789,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "これまでと同様、太古の邪神の波長に{n}呼び寄せられたのか、召喚士イダが{n}この神殿を護っていた。",
-  "en": ""
+  "en": "As before, perhaps drawn by the{n}wavelength of an ancient evil god, Ida{n}the summoner was guarding this temple."
  },
  {
   "id": "s0333_01608",
@@ -813,7 +813,7 @@
    "イダ"
   ],
   "jp": "いよいよ決着をつける時が来ましたか{n}――。貴方たちの美しさが上か、それ{n}とも私の召喚術が上か、尋常に勝負と{n}参りましょう",
-  "en": ""
+  "en": "So the time has come at last to settle{n}this--. Is your beauty greater, or my{n}summoning art? Let us have a fair{n}contest."
  },
  {
   "id": "s0333_01680",
@@ -837,7 +837,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "いーだろう。テメエが腰を抜かし{n}ちまうような、美しーい闘いっぷりを{n}見せてやろうじゃねーか！　オメーら、{n}テキパキやるぜっ！",
-  "en": ""
+  "en": "Fine. I'll show you a fight so beautiful you'll{n}fall on your butt! Look alive, you guys!"
  },
  {
   "id": "s0333_016fc",
@@ -957,7 +957,7 @@
    "シェラ"
   ],
   "jp": "イダ、貴公まだ記憶が蘇っていない{n}のか？",
-  "en": ""
+  "en": "Ida, have your memories not returned to{n}you yet?"
  },
  {
   "id": "s0333_018e0",
@@ -981,7 +981,7 @@
    "イダ"
   ],
   "jp": "何と？　貴女は私をご存じなのですか？",
-  "en": ""
+  "en": "What is this? Do you know me, my lady?"
  },
  {
   "id": "s0333_01908",
@@ -1005,7 +1005,7 @@
    "イングヴェイイングヴェイ・フォン・マルムステ"
   ],
   "jp": "貴公はそもそも我々の仲間……私を{n}含め、ここにいる者たちに見覚えは{n}ないか？",
-  "en": ""
+  "en": "You were one of us from the start... Do you{n}not recognize those here, myself{n}included?"
  },
  {
   "id": "s0333_01954",
@@ -1029,7 +1029,7 @@
    "イングヴェイイングヴェイ・フォン・マルムステ"
   ],
   "jp": "Ｄ・Ｓたちと話すうち、イダの記憶は{n}急速に蘇っていった。自分が魔戦将軍{n}としてカルに仕えていたこと、そして{n}それより以前、かつての征服戦争の折{n}にはＤ・Ｓの軍勢に属していたことを{n}――。",
-  "en": ""
+  "en": "As he talked with D.S. and the others,{n}Ida's memories quickly returned. That he{n}had served Kall as a Sorcerer General,{n}and before that, in the old war of{n}conquest, had belonged to D.S.'s army--."
  },
  {
   "id": "s0333_01a0c",
@@ -1053,7 +1053,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "オメエみたいに薄らデカイ奴、{n}いたっけかなぁ？",
-  "en": ""
+  "en": "I had a big lump like you around?"
  },
  {
   "id": "s0333_01a3c",
@@ -1077,7 +1077,7 @@
    "イダ"
   ],
   "jp": "貴方が覚えていないのも無理はありま{n}せん。その頃の私はまだ十代の前半、{n}軍団の末端に属していたに過ぎません{n}でしたから……",
-  "en": ""
+  "en": "It is no wonder you do not recall. I was{n}then in my early teens, and no more than{n}the lowest rank of the legion..."
  },
  {
   "id": "s0333_01ab8",
@@ -1101,7 +1101,7 @@
    "イダ"
   ],
   "jp": "幼い頃から召喚が得意で、この体格も{n}あって鬼っ子呼ばわりされていた私は、{n}当時一も二もなく貴方の軍勢に身を{n}投じ、魔獣軍団編成の任を受けました",
-  "en": ""
+  "en": "I had a gift for summoning from a young{n}age, and with this build, I was called a{n}demon child. So I threw myself into your{n}army without a second thought, and was{page}charged with forming the beast legion."
  },
  {
   "id": "s0333_01b48",
@@ -1125,7 +1125,7 @@
    "イダ"
   ],
   "jp": "まだ若かった私は、魔獣召喚の手柄を{n}片っ端から横取りされていたようで、{n}その功を認められた頃には、貴方は{n}すでにこの世の人ではなかったのです",
-  "en": ""
+  "en": "Being young yet, it seems I had every credit{n}for my beast summons snatched away, and{n}by the time my deeds were recognized, you{n}were no longer of this world."
  },
  {
   "id": "s0333_01bd4",
@@ -1149,7 +1149,7 @@
    "イダ"
   ],
   "jp": "放浪の後、再び私は反逆四天王の軍勢{n}と――カル様と出会うことになるの{n}ですが……どうです？　私とカル様の{n}美しい邂逅の経緯も聞きたいですか？",
-  "en": ""
+  "en": "After wandering, I came to meet the Rebel{n}Divine Kings' army and Kall-sama... Well?{n}Would you care to hear the tale of my{n}beautiful meeting with Kall-sama?"
  },
  {
   "id": "s0333_01c60",
@@ -1173,7 +1173,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "聞きたくねーよ！　止める間もなく{n}自分の半生を語りやがって……",
-  "en": ""
+  "en": "No, I wouldn't! Telling your life story before{n}anybody can stop you..."
  },
  {
   "id": "s0333_01ca0",
@@ -1197,7 +1197,7 @@
    "イダ"
   ],
   "jp": "残念ながら、この程度の美しさでは{n}私の心を揺さぶることはできません",
-  "en": ""
+  "en": "I regret that beauty of this degree cannot{n}stir my heart."
  },
  {
   "id": "s0333_01ce4",
@@ -1221,7 +1221,7 @@
    "イダ"
   ],
   "jp": "今回もまたダメでしたね……魔獣は{n}倒せても、戦いに華がなければ私は{n}認めることができません",
-  "en": ""
+  "en": "It was no good this time either... You may{n}slay beasts, but without splendor in the{n}fight, I cannot accept it."
  },
  {
   "id": "s0333_01d40",
@@ -1245,7 +1245,7 @@
    "イダ"
   ],
   "jp": "もはやこの地で出会えることはあり{n}ますまい。せめて貴方たちに御武運と、{n}いくばくかの美が訪れることをお祈り{n}しましょう。では、さらばです――",
-  "en": ""
+  "en": "We are not likely to meet again in this land. I{n}shall at least pray for your fortune in{n}battle, and for some small measure of{n}beauty. Farewell, then--"
  },
  {
   "id": "s0333_01dcc",
@@ -1269,7 +1269,7 @@
    "イダ"
   ],
   "jp": "言い残し、イダの巨体は召喚の魔法陣{n}に消えた。もはやそこに気配はなく、{n}法印の痕に一輪のバラが残されている{n}のみであった。",
-  "en": ""
+  "en": "So saying, Ida's great bulk vanished into{n}the summoning circle. No presence{n}remained, only a single rose left on the{n}mark of the seal."
  },
  {
   "id": "s0333_01e48",
@@ -1293,7 +1293,7 @@
    "イングヴェイイングヴェイ・フォン・マルムステ"
   ],
   "jp": "イダ……行ってしまったか。魔戦将軍{n}としての記憶が戻らぬまま――",
-  "en": ""
+  "en": "Ida... He is gone, then. With his memories of{n}being a Sorcerer General still lost--"
  },
  {
   "id": "s0333_01e8c",
@@ -1317,7 +1317,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "何が悪かったのかなぁ？　俺が闘って{n}るだけでも充分美しいとゆーに",
-  "en": ""
+  "en": "What'd we do wrong? Me just fighting ought{n}to be beautiful enough."
  },
  {
   "id": "s0333_01ed0",
@@ -1341,7 +1341,7 @@
    "ヴァイ"
   ],
   "jp": "その考え方が悪いんじゃーっ！",
-  "en": ""
+  "en": "That's what's wrong with you!"
  },
  {
   "id": "s0333_02404",
@@ -1365,7 +1365,7 @@
    ""
   ],
   "jp": "噴き上がる熱気で揺らめく祭壇から、{n}膨大な地熱をも圧する妖気が発散され{n}ている。",
-  "en": ""
+  "en": "From the altar, wavering in the rising{n}heat, came a demonic air overpowering{n}even the vast heat of the earth."
  },
  {
   "id": "s0333_02454",
@@ -1389,7 +1389,7 @@
    ""
   ],
   "jp": "蜃気楼のような影が、徐々に実体へと{n}変わっていく。太古の時代、恐怖に{n}よって信仰を集め、力を蓄え続けた{n}暴虐の鬼神――その暴風を思わせる{n}肉体が今、愚かなる闖入者の魂を{n}求めて姿を現した。",
-  "en": ""
+  "en": "A mirage-like shadow slowly took solid{n}form. The tyrannical war god of the{n}ancient age, who gathered worship{n}through fear and went on storing{n}power-- That body, like a raging storm,{n}now showed itself, seeking the souls of{n}foolish intruders."
  },
  {
   "id": "s0333_02510",
@@ -1413,7 +1413,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "これで超上位の鬼神どもが三匹、俺の{n}中に魔力ごと封印できたぜ……あとは{n}身体に馴染ませるだけで、こいつらは{n}俺の口代わりになる――ククク",
-  "en": ""
+  "en": "That makes three ultra-high-level war gods{n}sealed in me, magic and all... Once they{n}settle into my body, they'll be a substitute{n}for my mouth-- Heh heh heh."
  },
  {
   "id": "s0333_02598",
@@ -1437,6 +1437,6 @@
    "Ｄ・Ｓ"
   ],
   "jp": "この鬼神、凄え魔力を秘めてやがる。{n}眼を塞いじまえば、“唱える者”と{n}して使えるところだが……何にせよ{n}三匹いねえとしょうがねえな――",
-  "en": ""
+  "en": "This war god's got some serious magic in it.{n}If I blocked its eyes, I could use it as a{n}\"chanter\"... Either way, it's no use without{n}three of 'em--"
  }
 ]

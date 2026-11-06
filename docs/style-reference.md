@@ -34,6 +34,12 @@ Each row names the JP markers and the English that carries them. A line any spea
 | Di-Amon | `私`, `〜ですよ`, `〜なさい`, `ギャワー` | Prissy, vain, over-polite, few contractions; shrieks "Gwaaah!", whines "Do not look!"; `美しい` for his own hideous macho form. D.S. "treads" (`踏み！` = "Tread!") on him. |
 | Ida | `私`, `〜です`, `美しい` | Soft, ceremonious, no contractions; everything is judged by beauty. |
 | Undines | `〜でーす`, `〜ねー`, `ステキ` | Giggly, drawn-out vowels ("cuuute", "Yes!"), simple minds. Speak as a chorus. |
+| Dark Priest | `私`, `お前`, `ふ、ふ、ふ` | Hollow, mechanical, no contractions: "Heh, heh, heh", "I shall". |
+| Abigail | `私`, `〜ですね`, `アビちゃん`, `私としたことが` | Deadpan, over-polite, no contractions; "little Abi", "How unlike me". D.S. calls him eggplant-head (`ナス頭`). |
+| Ichael | `あたし`, `〜わね`, `〜さ` | Seductive, proud, contractions; drops to curt, no contractions, when she pulls rank ("Do not mistake me"). |
+| Octol | `我`, `貴様`, `〜ぬ` | Cold, grandiose old god, no contractions; D.S. calls him octopus (`タコ`). |
+| Kall | `私`, `卿`, `済まない` | Quiet, courteous, apologetic; few contractions ("Forgive me", "Thank you"). |
+| Lars | `俺`, `オマエ`, `〜だろう`, `あぎゃあ` (as the dragon) | Not yet translated: starts in `s0349` (b082). Easy-going prince, D.S.'s rival; never lets him rile him. |
 | Old or formal speakers | `わし`, `じゃ`, `のう`, `〜であろう`, `貴様`, `〜ぬ` | Stiff, archaic: "I shall", "you dare", "boy", "eh?". |
 | Women | `〜わ`, `〜のよ`, `かしら` | "I wonder", "you know", "dear" as fits the character; Nei is commanding, Yoko warm. |
 

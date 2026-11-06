@@ -21,7 +21,7 @@
    ""
   ],
   "jp": "宮殿の、最も奥まった場所と思われる{n}その部屋に、骨と肉で組み上げられた{n}玉座が設えられていた。それと一体と{n}なったかのように、巨大な角を持つ{n}骨の仮面がそこにあった。",
-  "en": ""
+  "en": "In the chamber that seemed the{n}innermost part of the palace, a throne{n}built of bone and flesh had been set up.{n}As if one with it, there was a mask of{n}bone with enormous horns."
  },
  {
   "id": "s0346_008bc",
@@ -45,7 +45,7 @@
    ""
   ],
   "jp": "玉座に深く腰を下ろした暗黒僧は、{n}仮面に穿たれた空洞の眼窩で物憂げに{n}一行を見渡した。",
-  "en": ""
+  "en": "Seated deep in the throne, the Dark{n}Priest looked languidly over the party{n}through the empty eye sockets carved in{n}his mask."
  },
  {
   "id": "s0346_00914",
@@ -69,7 +69,7 @@
    "暗黒僧"
   ],
   "jp": "よもやこの癌臓宮の最奥部まで辿り{n}着こうとはな。さすがは伝説の魔人、{n}地獄の皇太子とまで謳われたＤ・Ｓだ。{n}癌生物どもでは足止めにもならん……",
-  "en": ""
+  "en": "So you have reached the very depths of{n}this Cancer Palace. Truly the legendary{n}fiend, D.S., sung of as the Crown Prince of{n}Hell. The cancer creatures could not even{page}slow you..."
  },
  {
   "id": "s0346_009a4",
@@ -93,7 +93,7 @@
    "暗黒僧"
   ],
   "jp": "ゆらり、と暗黒僧は立ち上がった。",
-  "en": ""
+  "en": "The Dark Priest swayed slowly to his{n}feet."
  },
  {
   "id": "s0346_009c8",
@@ -117,7 +117,7 @@
    "暗黒僧"
   ],
   "jp": "だが、これで本当に、私自らがお前の{n}最期を看取らねばならなくなった――",
-  "en": ""
+  "en": "But now I truly must see you to your end{n}with my own hand--"
  },
  {
   "id": "s0346_00a10",
@@ -141,7 +141,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "ケッ。余裕かましてくれるじゃねーか。{n}その鬱陶しい仮面を外しやがれっ！",
-  "en": ""
+  "en": "Tch. Awful cocky of you. Take off that{n}annoying mask!"
  },
  {
   "id": "s0346_00a58",
@@ -165,7 +165,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "刹那、Ｄ・Ｓから殺気の塊が放射され{n}た。膨大な“気”は物理エネルギーの{n}刃となって空間を駆け、あえて避けよ{n}うとしない暗黒僧を正面から撃つ。と、{n}骨の仮面に縦に亀裂が疾り、それは{n}左右にゆっくりと割れ落ちていく――。",
-  "en": ""
+  "en": "In that instant, a mass of killing intent{n}shot out from D.S. The vast \"force\"{n}became a blade of physical energy and{n}raced through space, and struck full-on{n}the Dark Priest, who did not try to dodge.{n}A crack ran vertically down the bone{n}mask, and it split slowly, falling left and{n}right--."
  },
  {
   "id": "s0346_00b30",
@@ -189,7 +189,7 @@
    "ガラ"
   ],
   "jp": "むっ！　オマエは!?",
-  "en": ""
+  "en": "Hm! You!?"
  },
  {
   "id": "s0346_00b44",
@@ -213,7 +213,7 @@
    "ネイ"
   ],
   "jp": "そうか……やはり……",
-  "en": ""
+  "en": "I see... So it was..."
  },
  {
   "id": "s0346_00b5c",
@@ -237,7 +237,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "そうかよ。思い出したぜ――",
-  "en": ""
+  "en": "Oh, yeah. I remember now--"
  },
  {
   "id": "s0346_00b78",
@@ -261,7 +261,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "仮面の下から現れたのは、凶相を浮か{n}べた男の貌であった。撫でつけた髪を{n}乱し、半目に開いた双眸は狂気の光を{n}宿している。",
-  "en": ""
+  "en": "What appeared from under the mask was{n}the face of a man with a sinister look. His{n}slicked-back hair in disarray, his half-open{n}eyes held the light of madness."
  },
  {
   "id": "s0346_00bf0",
@@ -285,7 +285,7 @@
    "アビゲイル"
   ],
   "jp": "ふははは……すぐに思い出して頂ける{n}とは光栄ですね。そう、暗黒僧とは{n}この私、アビゲイルのことなのですよ{n}――",
-  "en": ""
+  "en": "Hah hah hah... How honored I am that you{n}recall me so soon. Yes, the Dark Priest is{n}none other than I, Abigail--"
  },
  {
   "id": "s0346_00c60",
@@ -309,7 +309,7 @@
    "アビゲイル"
   ],
   "jp": "アビゲイル――予測した通り、暗黒僧{n}の正体はＤ・Ｓ四天王最後のひとりで{n}あった。彼もまたガラやネイと同じく{n}敵の精神支配を受けていることは明白{n}であったが、ふたりとは違って名前を{n}封じられてはおらぬ。記憶も奪われて{n}はいない様子で、彼の精神を拘束して{n}いるのは、これまでとは全く異なる術{n}であるらしかった。",
-  "en": ""
+  "en": "Abigail-- As predicted, the Dark Priest{n}proved to be the last of D.S.'s Divine Kings.{n}Clearly he too, like Gara and Nei, was{n}under the enemy's mind control, but unlike{n}those two his name had not been sealed.{n}Nor did his memories seem to have been{n}stolen; what bound his mind was, it{n}appeared, an art wholly unlike those{page}before."
  },
  {
   "id": "s0346_00d8c",
@@ -333,7 +333,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "アビゲイル！　テメーこの俺様に敵対{n}するつもりかよ！",
-  "en": ""
+  "en": "Abigail! You mean to go against the great{n}me, you bastard!"
  },
  {
   "id": "s0346_00dc4",
@@ -357,7 +357,7 @@
    "アビゲイル"
   ],
   "jp": "貴方に、ではありませんね",
-  "en": ""
+  "en": "Not against you, no."
  },
  {
   "id": "s0346_00de0",
@@ -381,7 +381,7 @@
    "アビゲイル"
   ],
   "jp": "改まった口調で、アビゲイルはその場{n}にいる全員を見渡した。",
-  "en": ""
+  "en": "In a formal tone, Abigail looked around at{n}all those present."
  },
  {
   "id": "s0346_00e1c",
@@ -405,7 +405,7 @@
    "アビゲイル"
   ],
   "jp": "――貴方がた人類と呼ばれる種、全て{n}に対してですよ",
-  "en": ""
+  "en": "--Against all of you, the entire species{n}called humankind."
  },
  {
   "id": "s0346_00e50",
@@ -429,7 +429,7 @@
    "アビゲイル"
   ],
   "jp": "虚神と呼ばれる神々とのコンタクトを{n}通して、私は遅まきながら悟ったの{n}です。この宇宙に人間など必要ないと！",
-  "en": ""
+  "en": "Through contact with the gods called the{n}Hollow Gods, I have realized, belatedly, that{n}this universe has no need for humans!"
  },
  {
   "id": "s0346_00ebc",
@@ -453,7 +453,7 @@
    "アビゲイル"
   ],
   "jp": "貴方の力を手に入れるのは、人類根絶{n}計画への第一歩なのですよＤ・Ｓ。{n}これは私のやり残した仕事、旧世界の{n}罪を清算するただひとつの手術――",
-  "en": ""
+  "en": "Gaining your power is the first step in the{n}plan to exterminate humanity, D.S. This is my{n}unfinished work, the one surgery that{n}settles the sins of the old world--"
  },
  {
   "id": "s0346_00f48",
@@ -477,7 +477,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "そうかアビゲイル……テメエ、かつて{n}のトラウマを衝かれてやがるな！",
-  "en": ""
+  "en": "So that's it, Abigail... They're poking at your{n}old trauma, you bastard!"
  },
  {
   "id": "s0346_00f8c",
@@ -501,7 +501,7 @@
    "アビゲイル"
   ],
   "jp": "ふぁははは――！　人類は滅びるしか、{n}宇宙から消滅するしかないのです！{n}貴方がたは幸せだ。ここで死ねば、{n}滅亡の瞬間を見ずに済むのだから――",
-  "en": ""
+  "en": "Fwahahaha--! Humanity can only perish, can{n}only vanish from the universe! You are the{n}lucky ones. Die here, and you need not see{n}the moment of extinction--"
  },
  {
   "id": "s0346_01018",
@@ -525,7 +525,7 @@
    "アビゲイル"
   ],
   "jp": "あはあああああぁ…神の加護を受けた{n}この私が、破れるなんて……これが、{n}人間の――力？",
-  "en": ""
+  "en": "Ahaaaaaah... That I, blessed with divine{n}protection, should be defeated... Is this the,{n}power, of humans?"
  },
  {
   "id": "s0346_01070",
@@ -549,7 +549,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "やいアビ公！　テメエが良心の呵責と{n}やらに囚われるのは勝手だぁ！　だが、{n}その罪は人類全てを消したって消えや{n}しねえ！",
-  "en": ""
+  "en": "Hey, Abi punk! You wanna get all tied up in{n}your conscience, that's your business! But{n}wiping out the whole human race won't wipe{n}out your sin!"
  },
  {
   "id": "s0346_010e8",
@@ -573,7 +573,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "償おうってんなら、俺のもとに戻れ！{n}それが十賢者どもから離れた、テメエ{n}の結論だったハズだぜ！",
-  "en": ""
+  "en": "If you wanna make up for it, come back to{n}me! That was the conclusion you came to{n}when you left those Ten Sages!"
  },
  {
   "id": "s0346_01148",
@@ -597,7 +597,7 @@
    "アビゲイル"
   ],
   "jp": "う……うう……これは、探していた、{n}答えなのか――？",
-  "en": ""
+  "en": "Ugh... Uhh... Is this, the answer, I was looking{n}for--?"
  },
  {
   "id": "s0346_01180",
@@ -621,7 +621,7 @@
    "アビゲイル"
   ],
   "jp": "暗黒神に仕える僧侶として、Ｄ・Ｓの{n}四天王の一角を担っていたアビゲイル{n}――その正体は、突出した生体技術に{n}よって四百年以上を生きる、旧世界の{n}科学者のひとりであった。",
-  "en": ""
+  "en": "A priest serving the dark god, who held a{n}seat among D.S.'s Divine Kings: Abigail-- He{n}was in truth one of the old world's{n}scientists, who had lived over four{n}hundred years thanks to his outstanding{n}bio-technology."
  },
  {
   "id": "s0346_01228",
@@ -645,7 +645,7 @@
    "アビゲイル"
   ],
   "jp": "かつて繁栄を極めた旧世界の科学文明{n}は、原子力も光子力をも超える無限の{n}エネルギー理論に到達していた。魂の{n}力を源に、無公害の莫大な出力を生み{n}出す霊子エネルギー――この理論の{n}確立に世界は狂喜し、人類は歴史上で{n}最大の栄華を誇る時代に突入した。",
-  "en": ""
+  "en": "The scientific civilization of the old world,{n}at the height of its prosperity, had{n}arrived at a theory of infinite energy{n}surpassing even atomic and photon power.{n}Spirit energy, drawing on the power of{n}the soul, giving vast output free of{n}pollution-- The world rejoiced at this{n}theory, and humankind entered the{page}most glorious age in history."
  },
  {
   "id": "s0346_0131c",
@@ -669,7 +669,7 @@
    "アビゲイル"
   ],
   "jp": "しかし、その理論をもってしても、{n}人の戦いに終止符を打つことはできな{n}かった。霊子力は軍事の分野において{n}最大限に活用され、その結果、人類は{n}生み出してはならない存在を現世に{n}誕生させた。",
-  "en": ""
+  "en": "Yet even that theory could not put an{n}end to human war. Spirit power was put{n}to the greatest use in the military field,{n}and as a result, humankind brought into{n}the world a being that should never have{n}been created."
  },
  {
   "id": "s0346_013d8",
@@ -693,7 +693,7 @@
    "アビゲイル"
   ],
   "jp": "破壊神アンスラサクス――魂の力を糧{n}として半永久的に活動するこの人造神{n}は、核兵器を遥かに超える究極の生体{n}兵器として開発された。",
-  "en": ""
+  "en": "The god of destruction Anthrasax-- This{n}man-made god, active almost forever by{n}feeding on the power of souls, was{n}developed as the ultimate bio-weapon, far{n}beyond nuclear arms."
  },
  {
   "id": "s0346_0145c",
@@ -717,7 +717,7 @@
    "アビゲイル"
   ],
   "jp": "世界を統一する、共栄のための抑止力{n}――しかしその大義名分は、皮肉にも{n}人類滅亡の序曲へと取って代わられた。{page}人工知能を与えられた生体兵器群は{n}反旗を翻し、その圧倒的な破壊能力を{n}もって全人類の根絶を開始したので{n}ある。",
-  "en": ""
+  "en": "A deterrent to unify the world, for{n}shared prosperity-- But that noble cause,{n}ironically, gave way to the prelude to{n}humanity's extinction.{page}The bio-weapons, given artificial{n}intelligence, rose in revolt, and with their{n}overwhelming destructive power began to{n}wipe out all of humankind."
  },
  {
   "id": "s0346_01534",
@@ -741,7 +741,7 @@
    "アビゲイル"
   ],
   "jp": "だが、アンスラサクスの反逆はまだ、{n}次なる破局の幕開けに過ぎなかった。",
-  "en": ""
+  "en": "Yet Anthrasax's revolt was only the{n}opening of the next catastrophe."
  },
  {
   "id": "s0346_0157c",
@@ -765,7 +765,7 @@
    "アビゲイル"
   ],
   "jp": "魂なき虚ろな生体兵器に宿ったのは、{n}有史以来その姿を幾度も目撃されなが{n}ら、科学に存在を否定され続けてきた{n}“天使”の軍団であった。彼らは神の{n}領域を侵す霊子力に到達した人類に{n}対し、破壊神以上の苛烈さをもって{n}攻撃を加えた。",
-  "en": ""
+  "en": "What came to dwell in the soulless, hollow{n}bio-weapons was the host of \"angels\",{n}glimpsed many times throughout history,{n}whose existence science had always{n}denied. They attacked humankind, which{n}had attained the god-trespassing spirit{n}power, with a fury beyond even the god{n}of destruction."
  },
  {
   "id": "s0346_0165c",
@@ -789,7 +789,7 @@
    "アビゲイル"
   ],
   "jp": "続いて生じた、悪魔王サタンの降臨と{n}天使軍団との闘争。それは文字通り、{n}人類を絶滅の縁に追いやる最終戦争の{n}様相を呈した。超存在同士の熾烈な{n}戦いは地軸をも震わせ、地球全土の{n}環境を激変させた。この激闘が終結し、{n}彼らが元の次元へと帰還した時、実に{n}人類の９０パーセント以上が死滅して{n}いたのだった――。",
-  "en": ""
+  "en": "Next came the descent of Satan, king of{n}devils, and his struggle with the angel{n}host. It took on the shape of a final war{n}that literally drove humankind to the{n}brink of extinction. The fierce battle of{n}those beyond being shook even the{n}Earth's axis, and violently changed the{n}environment of the whole planet. When{page}this battle ended and they returned to{n}their own dimensions, over 90 percent of{n}humankind had perished--."
  },
  {
   "id": "s0346_01788",
@@ -813,7 +813,7 @@
    "アビゲイル"
   ],
   "jp": "霊子力理論の構築にあたり、中心と{n}なった十人の科学者グループがいた。{page}大破壊後の世界に生き残った彼らは、{n}再び人類を繁栄させるべく力を奮った。{n}科学者たちはいつしか十賢者と呼ばれ、{n}旧世界の記憶を持たぬ人々に神にも{n}等しい存在として崇められるに至った。",
-  "en": ""
+  "en": "In building the theory of spirit power, a{n}group of ten scientists had stood at the{n}center.{page}Surviving into the world after the great{n}destruction, they strove to make{n}humankind flourish again. The scientists{n}came to be called the Ten Sages, and{n}were worshipped as near to gods by{n}people with no memory of the old{n}world."
  },
  {
   "id": "s0346_01880",
@@ -837,7 +837,7 @@
    "アビゲイル"
   ],
   "jp": "だが、彼らこそが――科学に溺れ、{n}神の怒りを買った十賢者こそが、人類{n}の大半を死に追いやったのだ――。{page}科学者のひとりアビゲイルの脳裏には、{n}常にこの思いがあった。人の魂だけは、{n}科学の力で弄ぶべきではなかった――{n}その慚愧が、いつしか彼を十賢者の{n}立場から離れさせた。",
-  "en": ""
+  "en": "Yet they themselves-- the Ten Sages,{n}drowned in science, who drew the wrath{n}of God-- had driven most of humankind to{n}death--.{page}One of the scientists, Abigail, had this{n}thought always in his mind. The human{n}soul alone should never have been toyed{n}with by the power of science-- That{n}shame in time drew him away from the{n}Ten Sages."
  },
  {
   "id": "s0346_0198c",
@@ -861,7 +861,7 @@
    "アビゲイル"
   ],
   "jp": "アビゲイルが可能性を見出したのは、{n}ある程度の復興を遂げた世界で、魔人{n}と畏れられながら奔放に生きる旧世界{n}の遺児Ｄ・Ｓであった。",
-  "en": ""
+  "en": "Where Abigail found a possibility was in{n}D.S., orphan of the old world, who lived as{n}he pleased, dreaded as a fiend, in a world{n}that had recovered to some degree."
  },
  {
   "id": "s0346_01a10",
@@ -885,7 +885,7 @@
    "アビゲイル"
   ],
   "jp": "Ｄ・Ｓもまた、霊子力理論によって{n}派生した科学の産物であった。破壊神{n}とはコンセプトを全く異にした、人の{n}脳に施された霊的能力のリミッターを{n}外すことで無限の霊子力を生み出そうと{n}する試み――その実験の中でＤ・Ｓ{n}は誕生した。",
-  "en": ""
+  "en": "D.S. too was a product of science, born of{n}spirit power theory. His concept was{n}wholly unlike that of the god of{n}destruction: an attempt to produce{n}infinite spirit power by removing the{n}limiter on spiritual ability set in the human{n}brain. From that experiment D.S. was{n}born."
  },
  {
   "id": "s0346_01af0",
@@ -909,7 +909,7 @@
    "アビゲイル"
   ],
   "jp": "人の男女から生み出されたのではなく、{n}無から合成された完璧な人体――そこ{n}には人類が生まれた時から背負う霊的{n}リミッターは存在しなかった。人類は{n}神に倣い、新たな人間を創造したので{n}ある。汲めども尽きぬ無限の霊子力を{n}生み出す器――それがＤ・Ｓだった。",
-  "en": ""
+  "en": "Not begotten by man and woman, but a{n}perfect human body synthesized from{n}nothing-- In it was no spiritual limiter,{n}such as humans bear from birth.{n}Humankind, following God's example, had{n}created a new human. A vessel producing{n}endless, infinite spirit power-- That was{n}D.S."
  },
  {
   "id": "s0346_01be8",
@@ -933,7 +933,7 @@
    "アビゲイル"
   ],
   "jp": "大破壊後の地上に投げ出されたＤ・Ｓ{n}は、その霊子力を用いて太古の秘術を{n}復活させ、強大無比の魔導師として{n}混沌の世界に一大勢力を築いていた。{n}彼を観察しながら、やがてアビゲイル{n}は新世界の一住人としてＤ・Ｓの軍団{n}に参入することになる。",
-  "en": ""
+  "en": "Thrown out onto the earth after the{n}great destruction, D.S. used that spirit{n}power to revive ancient secret arts, and{n}as a sorcerer without equal built a great{n}force in a chaotic world. Abigail, observing{n}him, in time joined D.S.'s legions as a{n}resident of the new world."
  },
  {
   "id": "s0346_01cd0",
@@ -957,7 +957,7 @@
    "アビゲイル"
   ],
   "jp": "世界は狂った科学者に制御された箱庭{n}ではない。時代を築いていくのは、{n}現実に生きる者たちなのだ――それは{n}旧世界の壊滅以来、アビゲイルが探し{n}求めていた答えであった。",
-  "en": ""
+  "en": "The world was no miniature garden{n}controlled by mad scientists. It is those{n}who truly live who build an age-- That{n}was the answer Abigail had sought since{n}the fall of the old world."
  },
  {
   "id": "s0346_01d74",
@@ -981,7 +981,7 @@
    "アビゲイル"
   ],
   "jp": "Ｄ・Ｓとともにある時、アビゲイルは{n}数十億の人類を死滅させた罪に苛まれ{n}ずに済んだ。それほどまでにＤ・Ｓは{n}自由であり、善も悪も、罪も功も関わ{n}りのない存在だったのだ。霊子力が{n}生み出したひとつの答えがＤ・Ｓなら、{n}それは決して間違いではなかった――{n}そう思えた。",
-  "en": ""
+  "en": "At D.S.'s side, Abigail could go without{n}being tormented by the sin of killing{n}billions. So free was D.S., a being{n}untouched by good or evil, sin or merit. If{n}D.S. was one answer born of spirit power,{n}then it was surely no mistake-- So it{n}seemed to him."
  },
  {
   "id": "s0346_01e78",
@@ -1005,7 +1005,7 @@
    "アビゲイル"
   ],
   "jp": "だが、この世界に呼び込まれた時、{n}アビゲイルはこのトラウマを衝かれた。{page}人類史上、最大の死者を出した責任の{n}一端――Ｄ・Ｓから引き離され、彼は{n}その罪の重さを支える拠り所を失って{n}いた。それを正当化するために、虚神{n}に差し出された救いの綱は“人類は{n}滅亡すべき存在だ”と言う思想だった。",
-  "en": ""
+  "en": "But when he was called into this world,{n}Abigail's trauma was struck.{page}A share of the guilt for the greatest{n}death toll in human history-- Cut off from{n}D.S., he had lost what let him bear the{n}weight of that sin. To justify it, the rope{n}of salvation the Hollow Gods held out was{n}the idea that \"humankind deserves{n}extinction\"."
  },
  {
   "id": "s0346_01f94",
@@ -1029,7 +1029,7 @@
    "アビゲイル"
   ],
   "jp": "引き上げられた後、その縄で縛り上げ{n}られると知りつつも、溺れかけた彼は{n}掴む他に道がなかった。暗黒僧として、{n}虚神に従うしかなかった。",
-  "en": ""
+  "en": "He knew he would be bound by that rope{n}once he was pulled up, but a drowning{n}man had no choice but to grasp it. As the{n}Dark Priest, he could only obey the Hollow{n}Gods."
  },
  {
   "id": "s0346_0201c",
@@ -1053,7 +1053,7 @@
    "アビゲイル"
   ],
   "jp": "そして今、Ｄ・Ｓによってその縛めは{n}解かれた。消えぬ業を背負った旧世界{n}の科学者は、冥界の預言者と呼ばれる{n}四天王アビゲイルへと立ち返ったので{n}ある――。",
-  "en": ""
+  "en": "And now D.S. had undone those bonds. The{n}scientist of the old world, bearing his{n}unfading karma, returned to being Abigail{n}of the Divine Kings, called the Prophet of{n}the Underworld--."
  },
  {
   "id": "s0346_020b4",
@@ -1077,7 +1077,7 @@
    "アビゲイル"
   ],
   "jp": "……仰る通りです。人の滅ぶ滅ばぬは、{n}人間自身が決めること。それがたとえ{n}神であろうと、自由にする権限など{n}ありません――",
-  "en": ""
+  "en": "...You are quite right. Whether humans perish{n}or not is for humans themselves to decide.{n}Be it even a god, none has the right to{n}dispose of them--"
  },
  {
   "id": "s0346_02130",
@@ -1101,7 +1101,7 @@
    "アビゲイル"
   ],
   "jp": "ありがとうＤ・Ｓ。お陰で精神に{n}施された術が解けましたよ",
-  "en": ""
+  "en": "Thank you, D.S. Thanks to you, the art{n}placed on my mind has been undone."
  },
  {
   "id": "s0346_0216c",
@@ -1125,7 +1125,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "世話のかかるナス頭だぜ、テメーは。{n}とっとと四天王の責務を果たしやがれ！",
-  "en": ""
+  "en": "What a pain in the ass you are,{n}eggplant-head. Hurry up and do your duty{n}as one of the Divine Kings!"
  },
  {
   "id": "s0346_021b8",
@@ -1149,7 +1149,7 @@
    "アビゲイル"
   ],
   "jp": "そうさせて頂きましょう――",
-  "en": ""
+  "en": "So I shall--"
  },
  {
   "id": "s0346_021d4",
@@ -1173,7 +1173,7 @@
    "アビゲイル"
   ],
   "jp": "トゥイ・ステッド・イントゥホーム{n}血の聖餐杯よ{n}還らざる怨霊の罪で満ちよ……{n}封獄死霊砲――!!",
-  "en": ""
+  "en": "Twisted Into Home! O holy chalice of blood,{n}be filled with the sins of vengeful spirits{n}that return no more... Sealed Hell Ghost{n}Cannon--!!"
  },
  {
   "id": "s0346_02234",
@@ -1197,7 +1197,7 @@
    "アビゲイル"
   ],
   "jp": "アビゲイルの唱えた呪文が、何も存在{n}しないはずの虚空に放たれた。{page}次の瞬間、高エネルギーを帯びた怨霊{n}の群れは、そこに潜んでいたものに{n}幾重にも巻き付いて、その姿を淡く{n}浮かび上がらせる。",
-  "en": ""
+  "en": "The spell Abigail chanted was loosed into{n}the empty air, where nothing should have{n}been.{page}The next instant, the swarm of vengeful{n}spirits, charged with high energy, wound{n}themselves many times around what{n}lurked there, and its form dimly stood{n}out."
  },
  {
   "id": "s0346_022f0",
@@ -1221,7 +1221,7 @@
    "アビゲイル"
   ],
   "jp": "おおおおおお――！　アビゲイル、{n}裏切りおったな――",
-  "en": ""
+  "en": "Ooooooh--! Abigail, you betrayed me--"
  },
  {
   "id": "s0346_02328",
@@ -1245,7 +1245,7 @@
    "アビゲイル"
   ],
   "jp": "負の爆発エネルギーに晒され、その{n}神は半透明の肉体をわずかに実体化{n}させた。触手めいたものが幾本も蠢き、{n}アビゲイルへの憎悪をもって空間を{n}掻く。",
-  "en": ""
+  "en": "Exposed to the negative explosive energy,{n}the god made its translucent body slightly{n}solid. Things like tentacles writhed in{n}great number, and clawed space in hatred{n}of Abigail."
  },
  {
   "id": "s0346_023b8",
@@ -1269,7 +1269,7 @@
    "アビゲイル"
   ],
   "jp": "私は単に正気を取り戻したまで――{n}古代の神の亡霊などに、裏切り者呼ば{n}わりされるいわれはありませんね",
-  "en": ""
+  "en": "I have merely regained my sanity. I need not{n}be called a traitor by the ghost of some{n}ancient god."
  },
  {
   "id": "s0346_0241c",
@@ -1293,7 +1293,7 @@
    "アビゲイル"
   ],
   "jp": "ぬうう……こうまで予定外となっては、{n}かねてよりの方針に従うよりあるまい{n}――",
-  "en": ""
+  "en": "Nnngh... With matters so far off plan, there{n}is nothing for it but to follow the course{n}long since set--"
  },
  {
   "id": "s0346_0246c",
@@ -1317,7 +1317,7 @@
    "ネイ"
   ],
   "jp": "えっ!?",
-  "en": ""
+  "en": "What!?"
  },
  {
   "id": "s0346_02474",
@@ -1341,7 +1341,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "何だと……オマエは……!?",
-  "en": ""
+  "en": "What the... You...!?"
  },
  {
   "id": "s0346_02490",
@@ -1365,7 +1365,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "仮面の下から現れたのは、暗黒僧の{n}不気味な外観からは想像もつかぬ、{n}この世のものとは思えぬ美貌を持った{n}女の顔であった。",
-  "en": ""
+  "en": "What appeared from under the mask,{n}unimaginable from the Dark Priest's eerie{n}exterior, was the face of a woman of{n}unearthly beauty."
  },
  {
   "id": "s0346_02508",
@@ -1389,7 +1389,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "漆黒の法衣をするりと脱ぎ捨て、女の、{n}肌も露な姿が晒される。わずかな衣服{n}に包まれたその肢体は、豊満かつ完璧{n}なプロポーションを誇っている。",
-  "en": ""
+  "en": "Slipping off the jet-black vestment, the{n}woman showed herself, her skin bared.{n}The limbs wrapped in scant clothing{n}boasted a full and perfect figure."
  },
  {
   "id": "s0346_02594",
@@ -1413,7 +1413,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "長く豊かな水色の髪は、仮面の角の{n}部分に収められていたのか、側頭部{n}から束ねられて二本の角のように貌の{n}左右を飾っていた。その表情は蠱惑的{n}で、挑発するかの如き微笑をたたえて{n}いる。",
-  "en": ""
+  "en": "Her long, rich, pale-blue hair, perhaps{n}stored in the horns of the mask, was{n}bound at the sides of her head, and{n}framed her face left and right like two{n}horns. Her look was bewitching, with a{n}smile that seemed to taunt."
  },
  {
   "id": "s0346_02648",
@@ -1437,7 +1437,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "その場にいる者の中で、この女の貌を{n}知る者は少なかった。驚きを露にした{n}のはＤ・Ｓとネイのふたりのみ――{n}四天王としては古顔のアビゲイルも、{n}わずかに表情を変えたに過ぎない。",
-  "en": ""
+  "en": "Few of those present knew this woman's{n}face. Only D.S. and Nei showed surprise--{n}Even Abigail, a veteran of the Divine Kings,{n}barely changed expression."
  },
  {
   "id": "s0346_026f4",
@@ -1461,7 +1461,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "女の名はイーカル・モンロー。ガイン{n}と同時代にＤ・Ｓ旧四天王の一角を{n}担った女傑であり、その魔力はＤ・Ｓ{n}に比肩するほど強大な魔導師・呪術士{n}であった。",
-  "en": ""
+  "en": "The woman's name was Ichael Monroe. A{n}heroine who held a seat among D.S.'s old{n}Divine Kings in Gain's time, she was a{n}sorcerer and witch whose magic rivaled{n}D.S.'s own."
  },
  {
   "id": "s0346_0278c",
@@ -1485,7 +1485,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "常人では通常持ち得ない、闇の魔人に{n}並ぶ魔力――その秘密は、イーカルの{n}正体にあった。彼女は人間ではない。{n}否、エルフなどの亜人種を含めた上で、{n}彼女は人類ではなかった。",
-  "en": ""
+  "en": "Magic to match the fiend of darkness,{n}beyond any common person-- The secret{n}lay in Ichael's true nature. She was no{n}human being. Indeed, counting even elves{n}and other demi-humans, she was not of{n}humankind."
  },
  {
   "id": "s0346_02834",
@@ -1509,7 +1509,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "魔族――俗に悪魔と呼ばれる、別次元{n}を棲処とする知的生命体――その中{n}でも、人類の生命力を吸収することで{n}能力を成長させていく高位の種族・{n}夢魔。サキュバスと呼称されるこの{n}魔族こそが、イーカルの正体であった。{page}魔界を逐われた彼女は人間界でＤ・Ｓ{n}と相対し、闘争の末、力ずくで配下に{n}取り込まれたのである。",
-  "en": ""
+  "en": "A demon-- a thinking being living in{n}another dimension, commonly called a{n}devil-- Of these, a high-ranking race{n}whose power grows by absorbing human{n}life force: the dream demon. Called a{n}succubus, this demon was Ichael's true{n}nature.{page}Driven out of the demon world, she faced{n}D.S. in the human world, and after a{n}struggle he took her by force as his{n}subordinate."
  },
  {
   "id": "s0346_02960",
@@ -1533,7 +1533,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "だが、このイーカルもすでにこの世の{n}存在ではない。ガインが死に、カル{n}が四天王となった時代――Ｄ・Ｓの{n}軍勢を巻き込んだ巨大な戦乱の中で、{n}彼女は憎悪の対象であった主Ｄ・Ｓを{n}庇い、永遠にも等しいその命を投げ{n}出して彼を救ったのである。四天王の{n}後継者であるアーシェス・ネイに全て{n}を託して――。",
-  "en": ""
+  "en": "But this Ichael too was no longer of this{n}world. In the age when Gain died and Kall{n}became a Divine King-- in a great war{n}that swept up D.S.'s forces-- she shielded{n}her master D.S., the object of her hatred,{n}and gave up a life near eternal to save{n}him. Leaving everything to Arshes Nei, her{n}successor among the Divine Kings--."
  },
  {
   "id": "s0346_02a84",
@@ -1557,7 +1557,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "蝙蝠めいた皮の翼をばさりと開き、{n}イーカルは形の良い唇を艶めかしく{n}吊り上げた。",
-  "en": ""
+  "en": "Spreading her bat-like leather wings with{n}a flap, Ichael curled her shapely lips{n}seductively."
  },
  {
   "id": "s0346_02ad4",
@@ -1581,7 +1581,7 @@
    "イーカル"
   ],
   "jp": "驚いたようね、Ｄ・Ｓ。百年近くも{n}前に死んだはずのあたしがここにいる{n}なんてね。でも、あのガインまでが{n}蘇ったんだから、不思議はないでしょ？",
-  "en": ""
+  "en": "You seem surprised, D.S. To see me here,{n}who died nearly a hundred years ago. But{n}with even that Gain brought back, it's no{n}wonder, is it?"
  },
  {
   "id": "s0346_02b60",
@@ -1605,7 +1605,7 @@
    "ネイ"
   ],
   "jp": "イーカル……どうして貴女がダーシュ{n}の敵なんかに――",
-  "en": ""
+  "en": "Ichael... Why would you ever be the enemy{n}of Dahsh--"
  },
  {
   "id": "s0346_02b98",
@@ -1629,7 +1629,7 @@
    "イーカル"
   ],
   "jp": "考え違いをするな、ネイ。四天王とは{n}言えど、あたしは常にＤ・Ｓの命を{n}狙い続けていた女だ――",
-  "en": ""
+  "en": "Do not mistake me, Nei. One of the Divine{n}Kings though I was, I was a woman always{n}after D.S.'s life--"
  },
  {
   "id": "s0346_02bf4",
@@ -1653,7 +1653,7 @@
    "イーカル"
   ],
   "jp": "あの時命まで落とす羽目になったのは、{n}あくまでその男の首を他の者に獲らせ{n}たくなかっただけ……別に救おうと{n}思ったわけではない",
-  "en": ""
+  "en": "I ended up dying then only because I did not{n}want anyone else to take that man's head...{n}I never meant to save him."
  },
  {
   "id": "s0346_02c74",
@@ -1677,7 +1677,7 @@
    "イーカル"
   ],
   "jp": "虚神とやらの持ちかけてきた復活話に{n}乗ったのも、あたしのこの手でＤ・Ｓ{n}の命を奪える――そう思ったまでさ",
-  "en": ""
+  "en": "I took up these Hollow Gods' offer of{n}resurrection only because I thought I could{n}take D.S.'s life with this hand of mine."
  },
  {
   "id": "s0346_02cdc",
@@ -1728,7 +1728,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "イーカル……オマエもガインのように、{n}その虚神ってヤツの肉体を借りて{n}やがるのか――？",
-  "en": ""
+  "en": "Ichael... Are you borrowing one of those{n}Hollow Gods' bodies too, like Gain--?"
  },
  {
   "id": "s0346_02d3c",
@@ -1752,7 +1752,7 @@
    "イーカル"
   ],
   "jp": "さあ、どうでしょうね。あたしと{n}闘って、確かめてご覧なさい――",
-  "en": ""
+  "en": "Well, who can say? Fight me and find{n}out--"
  },
  {
   "id": "s0346_02d7c",
@@ -1776,7 +1776,7 @@
    "イーカル"
   ],
   "jp": "さすがね、Ｄ・Ｓ……あたしを屈服{n}させた唯一の男……負けたわ",
-  "en": ""
+  "en": "As expected, D.S.... The only man ever to{n}make me yield... I have lost."
  },
  {
   "id": "s0346_02dbc",
@@ -1800,7 +1800,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "イーカル……オマエ、本気じゃあ――",
-  "en": ""
+  "en": "Ichael... You weren't really trying--"
  },
  {
   "id": "s0346_02de0",
@@ -1824,7 +1824,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "腑抜けめが――",
-  "en": ""
+  "en": "You spineless thing--"
  },
  {
   "id": "s0346_02df0",
@@ -1848,7 +1848,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "何もない空間から、殷々たる怒声が{n}轟いた。いや、そこにはすでに何かが{n}存在していた。透明の触手めいたもの{n}がぬるりと、しかし鞭の迅さで脱力{n}したイーカルを打ち据える。",
-  "en": ""
+  "en": "From the empty air thundered a{n}resounding roar of anger. No, something{n}already existed there. A transparent,{n}tentacle-like thing, slippery yet quick as a{n}whip, struck down the limp Ichael."
  },
  {
   "id": "s0346_02e94",
@@ -1872,7 +1872,7 @@
    "イーカル"
   ],
   "jp": "ぐっ！　……オクトール、何を――",
-  "en": ""
+  "en": "Gah! ...Octol, what are you--"
  },
  {
   "id": "s0346_02eb8",
@@ -1896,7 +1896,7 @@
    "イーカル"
   ],
   "jp": "高位魔族も所詮は女か――彷徨う魂に{n}肉を与え給うた恩を忘れ、男への情に{n}溺れるとはな。貴様には神罰を与える。{n}愛する男の前で、醜く崩れて死ね――",
-  "en": ""
+  "en": "Even a high demon is but a woman in the{n}end-- Forgetting the grace of the flesh{n}given your wandering soul, drowning in{n}feeling for a man. I give you divine{page}punishment. Before the man you love,{n}crumble hideously and die--"
  },
  {
   "id": "s0346_02f48",
@@ -1920,7 +1920,7 @@
    "イーカル"
   ],
   "jp": "き……貴様、分解毒を――！",
-  "en": ""
+  "en": "Y... you, the dissolving poison--!"
  },
  {
   "id": "s0346_02f64",
@@ -1944,7 +1944,7 @@
    "イーカル"
   ],
   "jp": "我はこの世界を廃棄する。癌生物に{n}よる汚染は失敗に終わったが、もはや{n}事の収拾は虚神王に任せる他はない。{n}Ｄ・Ｓ――貴様の力は諦めようぞ",
-  "en": ""
+  "en": "I shall discard this world. The pollution by{n}cancer creatures has failed, and now there{n}is nothing for it but to leave the rest to the{n}Hollow God King. D.S.-- I shall give up on{page}your power."
  },
  {
   "id": "s0346_02fec",
@@ -1968,7 +1968,7 @@
    "イーカル"
   ],
   "jp": "透明の触手は薄れ、その存在が別次元{n}へと転移を開始したのが判る。{page}だが、次の瞬間、朧な触手は弾かれた{n}ように震え、先刻よりもはっきりと{n}実体化し始めた。",
-  "en": ""
+  "en": "The transparent tentacle thinned, and it{n}was plain its being had begun to shift to{n}another dimension.{page}But the next instant, the hazy tentacle{n}shook as if flung back, and began to take{n}shape more clearly than before."
  },
  {
   "id": "s0346_03084",
@@ -1992,7 +1992,7 @@
    "イーカル"
   ],
   "jp": "――！　次元障壁が強まっている？{n}まさか虚神王が……{n}これでは、逃げられぬ――",
-  "en": ""
+  "en": "--! The dimensional barrier has{n}strengthened? Could the Hollow God King{n}have... At this rate, I cannot escape--"
  },
  {
   "id": "s0346_030d4",
@@ -2016,7 +2016,7 @@
    "イーカル"
   ],
   "jp": "異次元への転移に失敗したそれは、{n}急速に光の透過性を失い、真の姿を{n}露にしつつあった。多重にぶれた肉色{n}の巨体が、次第にひとつに重なって{n}焦点を合わせていく。",
-  "en": ""
+  "en": "Failing to cross to another dimension, the{n}thing swiftly lost its transparency, and{n}began to show its true form. A{n}flesh-colored bulk, blurred many times{n}over, gradually merged into one and came{n}into focus."
  },
  {
   "id": "s0346_03170",
@@ -2040,7 +2040,7 @@
    "イーカル"
   ],
   "jp": "現れたのは、頭足類を彷彿とさせる{n}グロテスクな怪物であった。全身を{n}包む外套膜は半透明で、内側で脈打つ{n}器官や体液の流れを見て取ることが{n}できる。高い知性の光を宿した双眸が、{n}ぎょろりとＤ・Ｓたちを見据えた。",
-  "en": ""
+  "en": "What appeared was a grotesque monster{n}recalling a cephalopod. The mantle{n}wrapping its whole body was translucent,{n}showing the pulsing organs and flowing{n}fluids within. Eyes holding the light of high{n}intelligence fixed on D.S. and the others{n}with a roll."
  },
  {
   "id": "s0346_03240",
@@ -2064,7 +2064,7 @@
    "イーカル"
   ],
   "jp": "その神が、逃走の失敗に取り乱した{n}のは一瞬に過ぎなかった。即座に抑制{n}を取り戻し、醜悪な神は気怠そうに{n}触手を振った。",
-  "en": ""
+  "en": "The god lost its composure at its failed{n}escape for no more than a moment. At{n}once regaining control, the ugly god{n}waved its tentacles languidly."
  },
  {
   "id": "s0346_032b8",
@@ -2088,7 +2088,7 @@
    "イーカル"
   ],
   "jp": "失策の後始末は自分でつけろという{n}ことか――虚神王も手厳しい。不完全{n}なＤ・Ｓにこのオクトールをぶつける{n}おつもりとは……",
-  "en": ""
+  "en": "So I am to clean up after my own blunder--{n}The Hollow God King is harsh. To think he{n}would pit me, Octol, against an incomplete{n}D.S...."
  },
  {
   "id": "s0346_03334",
@@ -2112,7 +2112,7 @@
    "イーカル"
   ],
   "jp": "あえて無駄な戦いを避けるつもりだっ{n}たが、こうなっては仕方あるまいな。{n}貴様ら全てに病魔の呪いを施し、永劫{n}の苦痛を与えてくれるとしよう――",
-  "en": ""
+  "en": "I had intended to avoid a pointless fight, but{n}now it cannot be helped. I shall lay the{n}curse of disease on you all, and give you{n}eternal pain--"
  },
  {
   "id": "s0346_033c0",
@@ -2136,7 +2136,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "ケッ！　下等な三流神が、吹き上がっ{n}てくれるじゃねーか",
-  "en": ""
+  "en": "Tch! Big talk for a low-class, third-rate{n}god."
  },
  {
   "id": "s0346_033f8",
@@ -2160,7 +2160,7 @@
    "アビゲイル"
   ],
   "jp": "古代に崇められた医療神のなれの果て{n}です。お気をつけて――",
-  "en": ""
+  "en": "He is what has become of a healing god,{n}worshipped in ancient times. Take care--"
  },
  {
   "id": "s0346_03434",
@@ -2184,7 +2184,7 @@
    "アビゲイル"
   ],
   "jp": "馬鹿な……この力……Ｄ・Ｓ、貴様{n}まさか、もう気づいているのか……？{n}この世界のこと……龍のことを!?",
-  "en": ""
+  "en": "Impossible... This power... D.S., could you{n}already have realized...? About this world...{n}About the dragons!?"
  },
  {
   "id": "s0346_03498",
@@ -2208,7 +2208,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "オメエ、舐めすぎだぜ――今の俺の{n}力がどれほどのものなのか、見せて{n}やらあ！",
-  "en": ""
+  "en": "You're taking me way too lightly-- I'll show{n}you just how much power I got now!"
  },
  {
   "id": "s0346_034e4",
@@ -2232,7 +2232,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "大いなる力の三角　六芒五芒{n}光と闇　円盤に満つる月と{n}竜王の英霊に申し上げる！",
-  "en": ""
+  "en": "Triangle of the great power! Hexagram and{n}pentagram, light and darkness! I beseech{n}the moon filling the disc and the heroic{n}spirits of the dragon kings!"
  },
  {
   "id": "s0346_03534",
@@ -2256,7 +2256,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "ふうっ、ふうわああぁぁ――っ！",
-  "en": ""
+  "en": "Fwoo, fwoooah--!"
  },
  {
   "id": "s0346_03554",
@@ -2280,7 +2280,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "Ｄ・Ｓの足下から、目映い光の魔法陣{n}が噴き上がる。凄まじいエネルギーの{n}高まりに、オクトールの眼に恐怖の{n}色がありありと浮かぶ。",
-  "en": ""
+  "en": "From beneath D.S.'s feet burst a dazzling{n}magic circle of light. At the fearsome rise{n}of energy, the color of fear stood out{n}plainly in Octol's eyes."
  },
  {
   "id": "s0346_035d4",
@@ -2304,7 +2304,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "天の理　地の理　人の理{n}力の円錐ディマジオの紋章もちて{n}我に聖なる炎　三頭黄金竜の力{n}与え給え――",
-  "en": ""
+  "en": "Law of heaven, law of earth, cone of human{n}reason! By the crest of DiMaggio, grant me{n}the holy flame, the power of the{n}Three-Headed Golden Dragon--"
  },
  {
   "id": "s0346_03638",
@@ -2328,7 +2328,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "Ｄ・Ｓの背に、魔法陣から召喚された{n}巨大な三ッ首の龍の姿が浮かび上がる。{page}全身を黄金色に輝かせながらも、その{n}首はそれぞれ地龍、翼龍、水龍のもの{n}であると知れる。",
-  "en": ""
+  "en": "At D.S.'s back rose a huge three-headed{n}dragon, summoned from the magic{n}circle.{page}Though its whole body shone golden, its{n}heads could be known as those of the{n}Earth Dragon, the wyvern and the Water{n}Dragon."
  },
  {
   "id": "s0346_036d8",
@@ -2352,7 +2352,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "りゅ、龍の力を制御しているのか？{n}貴様、完全に謎を――龍が秘めた意味{n}を解き明かしたな――！",
-  "en": ""
+  "en": "Y-you control the power of the dragons?{n}You have fully solved the mystery-- You{n}have unraveled what the dragons mean--!"
  },
  {
   "id": "s0346_03734",
@@ -2376,7 +2376,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "ふははは！　当たりめーだ、このタコ！{n}龍とはひとつの力、この世界の背骨を{n}巡る生命の力――そしてそれは俺自身{n}だ！　第四の龍とは、この俺様だ！",
-  "en": ""
+  "en": "Hah hah hah! You bet your ass, you octopus!{n}The dragons are one power, the power of{n}life running through this world's spine-- And{n}that's me! The fourth dragon is the great{page}me!"
  },
  {
   "id": "s0346_037c4",
@@ -2400,7 +2400,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "さあ、オメエの望み通りこの世界から{n}消し去ってやるぜぇ。塵も残さず蒸発{n}しやがれえっ！",
-  "en": ""
+  "en": "All right, I'll wipe you out of this world, just{n}like you wanted. Evaporate, and leave no{n}dust behind!"
  },
  {
   "id": "s0346_0381c",
@@ -2424,7 +2424,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "皇龍破――ッ!!",
-  "en": ""
+  "en": "Imperial Dragon Burst--!!"
  },
  {
   "id": "s0346_0382c",
@@ -2448,7 +2448,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "三匹の龍の頭が、一斉に吐息を放射{n}した。水龍からは限りなく絶対零度に{n}近い極低温のブレス、翼龍は超高電圧{n}を内包した雷のブレスを――そして{n}地龍は炭素を一瞬にダイヤモンドへと{n}変換するほどの、極大の質量を秘めた{n}気化金属のブレスを超圧力で浴びせ{n}かける。",
-  "en": ""
+  "en": "The three dragon heads loosed their{n}breath at once. From the Water Dragon, a{n}breath of extreme cold, near absolute{n}zero; from the wyvern, a breath of{n}lightning holding ultra-high voltage; and{n}the Earth Dragon poured out under{n}super-pressure a breath of vaporized{n}metal, of such colossal mass as to turn{page}carbon to diamond in an instant."
  },
  {
   "id": "s0346_03928",
@@ -2472,7 +2472,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "異なるエネルギー波は互いに威力を{n}増幅させ、神の肉体を構成する物質を{n}完全に分解していく――。",
-  "en": ""
+  "en": "The different waves of energy amplified{n}each other's force, and utterly broke{n}down the matter of the god's body--."
  },
  {
   "id": "s0346_03988",
@@ -2496,7 +2496,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "グゥオオオオォォォォ――",
-  "en": ""
+  "en": "Guoooooooh--"
  },
  {
   "id": "s0346_039a4",
@@ -2520,7 +2520,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "精神体も残しゃしねえぞ！　死ねえっ！",
-  "en": ""
+  "en": "I won't even leave your spirit body! Die!"
  },
  {
   "id": "s0346_039cc",
@@ -2544,7 +2544,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "Ｄ・Ｓの口から迸るのは、アストラル{n}ボディまでを焼き尽くす超熱量の炎で{n}あった。四種類のブレスを同時に浴び、{n}オクトールの存在はその痕跡すら残す{n}ことなく、あらゆる次元から消滅して{n}いく――。",
-  "en": ""
+  "en": "What burst from D.S.'s mouth was flame of{n}super heat that burned even the astral{n}body. Under four kinds of breath at once,{n}Octol's being vanished from every{n}dimension, leaving not a trace--."
  },
  {
   "id": "s0346_03a8c",
@@ -2568,7 +2568,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "こうなることを……予測していたか、{n}虚神王――鏖帝も、トライヴンも……{n}そして狼麒と我も……力を利用した{n}あとは、始末されたほうが良いと――",
-  "en": ""
+  "en": "So you foresaw this... Hollow God King-- The{n}Slaughter Emperor, Trivun... and Loki and I...{n}That it was better to dispose of us once{n}you had used our power--"
  },
  {
   "id": "s0346_03b18",
@@ -2592,7 +2592,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "口惜しや――だが虚神王！　貴様も{n}同じ道を辿る……必ずだ……この力を{n}御すことなど――おおおぉぉぉ……",
-  "en": ""
+  "en": "How galling-- But Hollow God King! You will{n}walk the same road... Surely... To master this{n}power-- Oooooh..."
  },
  {
   "id": "s0346_03b80",
@@ -2616,7 +2616,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "太古の神はＤ・Ｓの予告通り、塵も{n}灰もなく、ただ呪詛だけを遺してその{n}存在を抹消された。役目を終えた龍は{n}輝くエネルギー体に戻り、Ｄ・Ｓの{n}肉体へと帰還していった――。",
-  "en": ""
+  "en": "As D.S. had promised, the ancient god was{n}erased from being with neither dust nor{n}ash, leaving only a curse behind. The{n}dragon, its role done, returned to a{n}shining body of energy and went back into{n}D.S.'s flesh--."
  },
  {
   "id": "s0346_03c28",
@@ -2640,7 +2640,7 @@
    "アビゲイル"
   ],
   "jp": "ご迷惑をおかけしました。この私と{n}したことが――",
-  "en": ""
+  "en": "I have caused you much trouble. How unlike{n}me--"
  },
  {
   "id": "s0346_03c5c",
@@ -2664,7 +2664,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "テメーのソレは聞き飽きたぜ。前にゃ{n}アンスラのヤツにも操られやがったし{n}よお。そもそもそのナス頭がちゃんと{n}働いたコトあんのかぁ？",
-  "en": ""
+  "en": "I'm sick of hearing that from you. You got{n}controlled by Anthra before too. Has that{n}eggplant head of yours ever worked right{n}even once?"
  },
  {
   "id": "s0346_03ce0",
@@ -2688,7 +2688,7 @@
    "アビゲイル"
   ],
   "jp": "う……痛いトコロを……。しかぁし！{n}これからはこのアビちゃんの明晰なる{n}頭脳に期待して下さって結構です！",
-  "en": ""
+  "en": "Ugh... You touch a sore spot... But! From now{n}on, you may look forward to the lucid brain{n}of little Abi!"
  },
  {
   "id": "s0346_03d48",
@@ -2712,7 +2712,7 @@
    "アビゲイル"
   ],
   "jp": "黙らないで突っ込んで下さいよ",
-  "en": ""
+  "en": "Please do not fall silent. Give me a{n}comeback."
  },
  {
   "id": "s0346_03d68",
@@ -2736,7 +2736,7 @@
    "アビゲイル"
   ],
   "jp": "オクトールの打擲を受け、倒れ伏した{n}イーカルにＤ・Ｓが駆け寄る。",
-  "en": ""
+  "en": "D.S. ran to Ichael, who had fallen under{n}Octol's blow."
  },
  {
   "id": "s0346_03dac",
@@ -2760,7 +2760,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "イーカル……オマエは――",
-  "en": ""
+  "en": "Ichael... You--"
  },
  {
   "id": "s0346_03dc8",
@@ -2784,7 +2784,7 @@
    "イーカル"
   ],
   "jp": "みっともない恰好を晒したわね……",
-  "en": ""
+  "en": "What a sorry sight I've made of myself..."
  },
  {
   "id": "s0346_03dec",
@@ -2808,7 +2808,7 @@
    "イーカル"
   ],
   "jp": "イーカルの貌から、急速に生気が失せ{n}ていくのが判る。オクトールに注入{n}された毒素が、彼女の肉体を凄まじい{n}勢いで冒しつつあった。",
-  "en": ""
+  "en": "The life was plainly draining fast from{n}Ichael's face. The toxin Octol had injected{n}was ravaging her body at a fearsome{n}rate."
  },
  {
   "id": "s0346_03e6c",
@@ -2832,7 +2832,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "イーカル！　しっかりしやがれ！{n}まだ俺との決着はついちゃいねえ{n}だろうが――",
-  "en": ""
+  "en": "Ichael! Pull yourself together! We ain't{n}settled things yet, you and me--"
  },
  {
   "id": "s0346_03eb8",
@@ -2856,7 +2856,7 @@
    "イーカル"
   ],
   "jp": "ははっ……ずいぶん優しくなったわね、{n}貴方も……虚神王が手中に収めようと{n}躍起になってる、あのヨーコって娘の{n}せいなのかしら――うっ！",
-  "en": ""
+  "en": "Hah... You've grown awfully gentle too... I{n}wonder if it's that Yoko girl the Hollow God{n}King is so desperate to get his hands on--{n}Ugh!"
  },
  {
   "id": "s0346_03f40",
@@ -2880,7 +2880,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "待ってろ！　今すぐ癒してやる！",
-  "en": ""
+  "en": "Hang on! I'll heal you right now!"
  },
  {
   "id": "s0346_03f60",
@@ -2904,7 +2904,7 @@
    "イーカル"
   ],
   "jp": "無駄よ……今のあたしの身体には、{n}癒しの術は猛毒――",
-  "en": ""
+  "en": "It's no use... To this body of mine now,{n}healing arts are deadly poison--"
  },
  {
   "id": "s0346_03f98",
@@ -2928,7 +2928,7 @@
    "イーカル"
   ],
   "jp": "オクトールが用意したあたしの肉体は、{n}癌龍やこの宮殿にはびこる細胞と同じ、{n}癌生命体……どのみち、長くは生きら{n}れない身体なのよ……",
-  "en": ""
+  "en": "The body Octol prepared for me is a cancer{n}life form, the same as the cancer dragon{n}and the cells overrunning this palace... It{n}wasn't a body that could live long, either{page}way..."
  },
  {
   "id": "s0346_0401c",
@@ -2976,7 +2976,7 @@
    "イーカル"
   ],
   "jp": "でもね……オクトールを恨む気はない{n}わ。こんな形でも、貴方にもう一度{n}逢うことができたんだから――",
-  "en": ""
+  "en": "But you know... I don't hold it against Octol.{n}Even like this, I got to see you one more{n}time--"
  },
  {
   "id": "s0346_04088",
@@ -3000,7 +3000,7 @@
    "イーカル"
   ],
   "jp": "魔族に心なんてものがあるのか、ずっ{n}とあたしにも判らなかった……でも、{n}今なら判る――愛していたわ、貴方を{n}――初めて敗けた、あの時から……",
-  "en": ""
+  "en": "Whether demons even have hearts, I never{n}knew either... But now I do-- I loved you--{n}From that time I first lost..."
  },
  {
   "id": "s0346_04114",
@@ -3024,7 +3024,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "イーカル！",
-  "en": ""
+  "en": "Ichael!"
  },
  {
   "id": "s0346_04120",
@@ -3048,7 +3048,7 @@
    "イーカル"
   ],
   "jp": "こんな身体になってまで蘇ったのも、{n}この一言を伝えたかったがため……{n}これで、思い残すことはないわ――",
-  "en": ""
+  "en": "It was to tell you this one thing that I came{n}back, even in a body like this... Now I have no{n}regrets--"
  },
  {
   "id": "s0346_04188",
@@ -3072,7 +3072,7 @@
    "イーカル"
   ],
   "jp": "……そろそろ分解毒が、あたしの肉を{n}構成する癌細胞を溶解させる――でも、{n}そんな死に方をする気はないわ……{n}離れていて、Ｄ・Ｓ――",
-  "en": ""
+  "en": "...Soon the dissolving poison will melt the{n}cancer cells that make up my flesh-- But I{n}have no intention of dying like that... Stand{n}back, D.S.--"
  },
  {
   "id": "s0346_0420c",
@@ -3096,7 +3096,7 @@
    "イーカル"
   ],
   "jp": "イーカルが仰向けのまま短い詠唱を{n}終えると、その周囲から淡い炎が噴き{n}出した。死滅しつつある肉体を自らの{n}呪文で灼きながら、美しい夢魔は穏や{n}かな微笑みを浮かべた。",
-  "en": ""
+  "en": "Lying on her back, Ichael finished a short{n}chant, and faint flames sprang up around{n}her. Burning her dying flesh with her own{n}spell, the beautiful dream demon wore a{n}gentle smile."
  },
  {
   "id": "s0346_042b0",
@@ -3120,7 +3120,7 @@
    "イーカル"
   ],
   "jp": "……これでもう、魂を迷わせることも{n}なさそう……さようなら、Ｄ・Ｓ……{n}あたしに心を与えた男――",
-  "en": ""
+  "en": "...Now my soul shouldn't lose its way again...{n}Farewell, D.S.... The man who gave me a{n}heart--"
  },
  {
   "id": "s0346_04310",
@@ -3144,7 +3144,7 @@
    "イーカル"
   ],
   "jp": "彼女を包む大地の焔は勢いを強め、{n}その浄めの火の中で、イーカルの魂は{n}静かに天へと――魔族であれ、穏やか{n}なる死後界へと昇っていった。",
-  "en": ""
+  "en": "The flames of the earth that wrapped{n}her grew stronger, and in that purifying{n}fire, Ichael's soul quietly rose to heaven--{n}Demon though she was, to the gentle{n}world beyond."
  },
  {
   "id": "s0346_04398",
@@ -3168,7 +3168,7 @@
    "ネイ"
   ],
   "jp": "私に影響を与え続けた人だったわ……{n}愛し方も、憎み方も――あの時ヴァイ{n}の命を取らなかったのは、あの子が{n}少しダーシュに似ていたから……",
-  "en": ""
+  "en": "She went on influencing me all along... How{n}to love, how to hate-- I spared Vai's life{n}that time because the boy was a little like{n}Dahsh..."
  },
  {
   "id": "s0346_04420",
@@ -3192,7 +3192,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "イーカル……あの頃から変わらねえ、{n}いい女だったぜ。あの世でも強気で、{n}性悪でいろよ――",
-  "en": ""
+  "en": "Ichael... Same as back then, you were one{n}hell of a woman. Stay tough and nasty in{n}the next world too--"
  },
  {
   "id": "s0346_04478",
@@ -3216,7 +3216,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "イーカルとの邂逅が、Ｄ・Ｓの記憶を{n}呼び醒ましたのか――かつて彼を爆炎{n}の征服者と言わしめた強大な呪文が、{n}意識の奥底から蘇っていた。",
-  "en": ""
+  "en": "Perhaps the reunion with Ichael had{n}woken D.S.'s memory-- A mighty spell that{n}had once earned him the name Conqueror{n}of Explosive Flame came back from the{n}depths of his mind."
  },
  {
   "id": "s0346_04500",
@@ -3240,7 +3240,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "イーカルの、贈り物か……いいだろう。{n}この呪文で焼き払った奴らは、オマエ{n}への供物にするぜ――ありがとよ",
-  "en": ""
+  "en": "A gift from Ichael, huh... All right. The ones I{n}burn with this spell will be my offering to{n}you-- Thanks."
  },
  {
   "id": "s0346_04568",
@@ -3264,7 +3264,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "オクトールの死により、癌臓宮の{n}全ての生体構造物が緩やかに崩壊を{n}迎えつつあった。",
-  "en": ""
+  "en": "With Octol's death, all the living{n}structures of the Cancer Palace were{n}slowly starting to collapse."
  },
  {
   "id": "s0346_045bc",
@@ -3288,7 +3288,7 @@
    "ボル"
   ],
   "jp": "この宮殿、長くは保ちそうにないで{n}ござるよ！",
-  "en": ""
+  "en": "This palace will not last much longer,{n}forsooth!"
  },
  {
   "id": "s0346_045ec",
@@ -3312,7 +3312,7 @@
    "ヴァイ"
   ],
   "jp": "でもよ、これからどこに行きゃあ{n}いいんだ？",
-  "en": ""
+  "en": "But, like, where do we go now?"
  },
  {
   "id": "s0346_04618",
@@ -3336,7 +3336,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "決まってんじゃねーか。ヨーコさんの{n}いる場所さ",
-  "en": ""
+  "en": "Isn't it obvious? To where Yoko-san is."
  },
  {
   "id": "s0346_04648",
@@ -3360,7 +3360,7 @@
    "ヴァイ"
   ],
   "jp": "ヨーコの場所ったって……",
-  "en": ""
+  "en": "Where Yoko is, you say, but..."
  },
  {
   "id": "s0346_04664",
@@ -3384,7 +3384,7 @@
    "アビゲイル"
   ],
   "jp": "その様子では、もう全て判っている{n}ようですね、Ｄ・Ｓ",
-  "en": ""
+  "en": "From the look of you, you already{n}understand it all, D.S."
  },
  {
   "id": "s0346_0469c",
@@ -3408,7 +3408,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "ああ。龍は俺の奪われた力――それが{n}判った今、俺は自分の意志で“螺”の{n}道を開くことができる。さらに高次の、{n}精神世界へと――",
-  "en": ""
+  "en": "Yeah. The dragons are my stolen power--{n}Now that I know that, I can open the{n}\"spiral\" road by my own will. To a higher,{n}spirit world--"
  },
  {
   "id": "s0346_0471c",
@@ -3432,7 +3432,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "癌臓宮が加速的に崩壊を開始した。{n}接合材の役割を果たしていた癌細胞が{n}死滅し、無機物の建材が分解して降り{n}注ぎ始める。",
-  "en": ""
+  "en": "The Cancer Palace began to collapse at{n}an accelerating rate. The cancer cells{n}that had served as mortar were dying,{n}and the inorganic building materials began{n}to break up and rain down."
  },
  {
   "id": "s0346_04794",
@@ -3456,7 +3456,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "行くぜ！",
-  "en": ""
+  "en": "Let's go!"
  },
  {
   "id": "s0346_047a0",
@@ -3480,7 +3480,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "Ｄ・Ｓの肉体から、膨大な量のオーラ{n}が噴出する。それは巨大な渦を――{n}螺旋を描いて迸り、目映い金色の光で{n}全員を包み込む。",
-  "en": ""
+  "en": "A vast amount of aura burst out of D.S.'s{n}body. It shot out in a huge whirl-- a{n}spiral-- and wrapped everyone in a{n}dazzling golden light."
  },
  {
   "id": "s0346_0481c",
@@ -3504,7 +3504,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "癌臓宮の分解に伴い、それが寄生して{n}いた巨大な岩塊の、本来の働きが蘇り{n}つつあった。地脈を活性化させ、大地{n}に生命力を送り込む世界の心臓部――{n}それはオーラの描く螺旋に呼応し、{n}エネルギー波を増幅して別の器官へと{n}送り出す。",
-  "en": ""
+  "en": "As the Cancer Palace broke up, the{n}proper function of the huge rock it had{n}parasitized was reviving. The heart of the{n}world, which stirred the earth's veins and{n}sent life force into the land-- It{n}answered the spiral of the aura, amplified{n}the wave of energy and sent it on to{n}another organ."
  },
  {
   "id": "s0346_048f8",
@@ -3528,7 +3528,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "かつて見た、洞窟を塞いでいた奇妙な{n}花状の結界――サルデス器官が、波動{n}を受けて緩やかに、やがて花弁が見て{n}取れぬほどの迅さで回転を開始した。",
-  "en": ""
+  "en": "The strange flower-shaped barrier seen{n}earlier blocking the cave, the Sardis{n}organ, took up the wave and began to{n}rotate, slowly at first, then at last too{n}fast for its petals to be seen."
  },
  {
   "id": "s0346_04988",
@@ -3552,7 +3552,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "そして、“螺”の道は開いた。",
-  "en": ""
+  "en": "And the \"spiral\" road opened."
  },
  {
   "id": "s0346_049a8",
@@ -3576,7 +3576,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "オーラの螺旋が心臓からサルデス器官{n}に向けて撃ち出される。それは高速で{n}回転する器官を通過する瞬間に爆発的{n}に加速され、その先にある闇の渦を{n}中和して高次空間への通路を開く。{n}オーラと一体化した一行は、“螺”の{n}道に導かれ、最後の戦いが待ち受ける{n}地へと飛翔したのであった。",
-  "en": ""
+  "en": "A spiral of aura shot from the heart{n}toward the Sardis organ. Passing through{n}the fast-spinning organ, it was explosively{n}accelerated, neutralized the whirl of{n}darkness beyond, and opened a passage{n}to higher space. At one with the aura, the{n}party, led by the \"spiral\" road, flew to{n}the land where the last battle awaited."
  },
  {
   "id": "s0346_04ab8",
@@ -3600,7 +3600,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "彼らの旅してきた世界は、次元を異に{n}した別世界――そういった類のもの{n}ではなかった。",
-  "en": ""
+  "en": "The world they had journeyed through{n}was not some other world in a different{n}dimension, nor anything of that kind."
  },
  {
   "id": "s0346_04b0c",
@@ -3624,7 +3624,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "Ｄ・Ｓたちの行く手を阻んできた神々{n}の正体は、旧世界の人類の黎明期に、{n}畏怖すべき存在として崇められた古代{n}の大神、戦神の類であった。",
-  "en": ""
+  "en": "The gods who had stood in D.S.'s path{n}were in truth ancient great gods and war{n}gods, worshipped with awe at the dawn of{n}old-world humankind."
  },
  {
   "id": "s0346_04b94",
@@ -3648,7 +3648,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "彼らは高次空間に棲む存在であり、{n}低次元生命体の精神エネルギーを恐怖{n}や崇拝の形で受け取ることによって{n}その力を維持・拡大してきた。{page}糧となるものの多くは系統だった{n}知性を持たぬ動物類の原始的な恐怖で{n}あったが、それでもこれを無数に{n}集める神々の力は、低次元生命体に{n}対して圧倒的な優位を保ってきた。",
-  "en": ""
+  "en": "They were beings of a higher space, and{n}kept and grew their power by receiving{n}the mental energy of lower life forms as{n}fear or worship.{page}Much of that food was the primal fear of{n}animals lacking organized intelligence, yet{n}the gods, gathering this past counting,{n}held an overwhelming edge over lower life{n}forms."
  },
  {
   "id": "s0346_04cbc",
@@ -3672,7 +3672,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "しかし、人類が台頭することによって、{n}彼らは次第に勢力を衰えさせ始めた。",
-  "en": ""
+  "en": "But with the rise of humankind, their{n}power began little by little to wane."
  },
  {
   "id": "s0346_04d08",
@@ -3696,7 +3696,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "否、彼らが衰えたのではなかった。{page}人が“創造神”として崇める、彼ら{n}とは異なる宇宙的存在――天使の軍団{n}を擁し、現実に猿人を「人」に進化{n}せしめた大いなる神が、人類の優れた{n}霊質を信仰を通じて取り込み、その{n}次元における勢力を急速に伸ばし{n}始めたのだ。",
-  "en": ""
+  "en": "No, it was not they who waned.{page}A different cosmic being, worshipped by{n}humans as the \"Creator\"-- the great god{n}with his angel host, who had truly made{n}ape-men evolve into \"humans\"-- took in{n}humankind's fine spirit nature through{n}faith, and began swiftly to grow in power{n}in that dimension."
  },
  {
   "id": "s0346_04e00",
@@ -3720,7 +3720,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "同時に、創造神の権益を護る天使軍団{n}は、既存の信仰に対して徹底的な弾圧{n}を加えた。太古の神々は悪神邪神と{n}して貶められ、彼らを崇める宗教は{n}正義の名の下に滅ぼされた。",
-  "en": ""
+  "en": "At the same time, the angel host,{n}guarding the Creator's interests, brought{n}down thorough oppression on existing{n}faiths. The ancient gods were cast down{n}as evil gods, and the religions worshipping{n}them were destroyed in the name of{n}justice."
  },
  {
   "id": "s0346_04ea4",
@@ -3744,7 +3744,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "かつて大勢力を誇った彼ら旧き神々は{n}人類の記憶から葬り去られ、巨大な{n}信仰の器のみを残した虚ろな存在――{n}即ち“虚神”となって次元の狭間を{n}細々と漂泊することとなったのだった。",
-  "en": ""
+  "en": "These old gods, once proud of their great{n}power, were buried from human memory,{n}leaving only a vast vessel of faith. They{n}became hollow beings-- \"Hollow Gods\"--{n}and came to drift meagerly in the rifts{n}between dimensions."
  },
  {
   "id": "s0346_04f54",
@@ -3768,7 +3768,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "彼らの多くは、失った力の大きさに{n}打ちのめされ、気の遠くなるような{n}歳月の中でアストラルボディまでも{n}痩せ衰えさせ、遂にはその存在を消滅{n}させていった。",
-  "en": ""
+  "en": "Many of them, crushed by the scale of{n}their lost power, wasted away even in{n}astral body over a dizzying span of years,{n}and at last vanished from being."
  },
  {
   "id": "s0346_04fec",
@@ -3792,7 +3792,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "だが、往古の栄華を忘れることなく、{n}反攻の機会を窺う一派がいた。彼らは{n}辛抱強く、永遠の生命を最大限に{n}活かしてただひたすらに待ち続けた。",
-  "en": ""
+  "en": "But there was one faction that never{n}forgot its old glory, and watched for a{n}chance to strike back. They made the{n}most of eternal life, and patiently went{n}on waiting."
  },
  {
   "id": "s0346_05078",
@@ -3816,7 +3816,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "そして彼らは見つけた。底をついた{n}精神エネルギーを満たしてもなお、{n}尽きることなく霊子力を生み出す無限{n}の器を。多層宇宙の覇権を巡る争いに{n}再び参入することができるだけの力を{n}もたらしてくれる存在――Ｄ・Ｓを。",
-  "en": ""
+  "en": "And they found it. An infinite vessel that{n}would go on producing spirit power{n}without end, even after filling their{n}depleted mental energy. The being who{n}could bring them power enough to rejoin{n}the struggle for supremacy over the{n}multiverse-- D.S."
  },
  {
   "id": "s0346_05148",
@@ -3840,7 +3840,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "誕生から四百年、虚神たちは細心の{n}注意を払い、決して悟られぬように{n}Ｄ・Ｓを観察し続けた。息を潜めて{n}待ち続けた。狡猾で用心深い魔人に、{n}隙が生じる一瞬を――。",
-  "en": ""
+  "en": "For four hundred years from his birth,{n}the Hollow Gods took every care, and{n}went on watching D.S. so as never to be{n}noticed. They held their breath and{n}waited. Waited for the one instant when{n}the cunning, wary fiend would slip--."
  },
  {
   "id": "s0346_051e8",
@@ -3864,7 +3864,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "そして、その時はきた。刹那の時間、{n}ナノセコンドにも満たぬわずかな隙を{n}衝き、虚神たちは幾層にも張り巡らさ{n}れた防壁をかいくぐって、Ｄ・Ｓの{n}精神への侵入に成功した。",
-  "en": ""
+  "en": "And that time came. Seizing an opening of{n}less than a nanosecond, the Hollow Gods{n}slipped past walls laid in many layers, and{n}succeeded in invading D.S.'s mind."
  },
  {
   "id": "s0346_0528c",
@@ -3888,7 +3888,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "しかし、Ｄ・Ｓもそれを黙って見て{n}いた訳ではなかった。迎撃が間に合わ{n}ぬと見るや、彼は外敵に対抗すべく、{n}即座に四天王を始めとする仲間たちの{n}精神を自らの裡に召喚した。{page}これに対し、虚神たちは召喚直後の{n}無防備な記憶を消去することで対応を{n}遅らせようと謀った。",
-  "en": ""
+  "en": "But D.S. did not simply look on. Seeing he{n}could not repel them in time, he at once{n}summoned the minds of the Divine Kings{n}and his other comrades into himself, to{n}oppose the invaders.{page}In answer, the Hollow Gods sought to{n}delay their response by erasing their{n}memories in the helpless moment after{n}summoning."
  },
  {
   "id": "s0346_0538c",
@@ -3912,7 +3912,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "電撃の如き応酬の果て、Ｄ・Ｓもまた{n}記憶を奪われ、辛うじて虚神の侵攻{n}から確保した海岸地帯――精神の中枢{n}から最も離れた場所へと追いやられた{n}のだった。",
-  "en": ""
+  "en": "At the end of this lightning exchange, D.S.{n}too was robbed of his memory, and driven{n}back to the coast, a strip barely kept{n}from the Hollow Gods' advance-- the{n}place farthest from the center of his{n}mind."
  },
  {
   "id": "s0346_05424",
@@ -3936,7 +3936,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "一行が降り立ったのは、今までとは{n}その存在自体が根本的に異なる奇怪な{n}空間であった。",
-  "en": ""
+  "en": "The party landed in a weird space,{n}fundamentally unlike anything before in{n}its very being."
  },
  {
   "id": "s0346_05478",
@@ -3960,7 +3960,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "異様な色彩を孕んだ曇天は、台風の{n}直下の如くに、荒野の地平まで届く{n}渦を描いてゆっくりと回転し続けて{n}いる。その渦の中心となる天頂に、{n}巨大な――生物のそれとは思えぬほど{n}巨大な眼がひとつ、神秘的な光を{n}たたえた瞳で下界を見下ろしていた。",
-  "en": ""
+  "en": "Cloudy skies holding strange colors turned{n}slowly, as if under a typhoon, in a whirl{n}reaching to the horizon of the wasteland.{n}At the zenith, the heart of the whirl, a{n}huge eye-- one eye, too huge to belong{n}to any creature-- looked down on the{n}world below, its pupil filled with a mystic{n}light."
  },
  {
   "id": "s0346_05564",
@@ -3984,7 +3984,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "天の瞳に向かって屹立する塔が、荒野{n}の中央に聳えていた。その頂に球状の、{n}卵を思わせる白いドームを載せた高層{n}の塔――それは荒涼とした大地にあっ{n}て、神聖な白亜の輝きを放っている。",
-  "en": ""
+  "en": "A tower stood soaring toward the eye in{n}the sky, at the center of the wasteland.{n}A high tower, topped with a spherical{n}white dome like an egg-- In the bleak land{n}it gave off a sacred, chalk-white gleam."
  },
  {
   "id": "s0346_05618",
@@ -4008,7 +4008,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "その塔を取り囲むように、異形の建造{n}物が荒野にへばりついていた。醜悪な{n}形状の、毒々しく彩られた巨大な城砦{n}である。虚神の砦であることは疑い{n}ようがなかった。",
-  "en": ""
+  "en": "As if to surround the tower, a monstrous{n}structure clung to the wasteland. It was{n}a huge fortress, ugly in form, in poisonous{n}colors. Without doubt, it was the Hollow{n}Gods' stronghold."
  },
  {
   "id": "s0346_056b4",
@@ -4032,7 +4032,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "この地は高次意識界――即ち、Ｄ・Ｓ{n}の精神の中枢に最も近い場所であった。{n}遂に彼らは、“螺”の道を経てここに{n}辿り着いたのだった。",
-  "en": ""
+  "en": "This land was the Higher Consciousness{n}Realm-- the place closest to the center{n}of D.S.'s mind. At last, by way of the{n}\"spiral\" road, they had arrived here."
  },
  {
   "id": "s0346_05738",
@@ -4056,7 +4056,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "――つまりだな、ここは……この世界{n}は、俺の創り出した世界だ",
-  "en": ""
+  "en": "--What I'm saying is, this place... this world is{n}a world I made."
  },
  {
   "id": "s0346_05778",
@@ -4080,7 +4080,7 @@
    "ヴァイ"
   ],
   "jp": "な、何だって!?",
-  "en": ""
+  "en": "Wh-what did you say!?"
  },
  {
   "id": "s0346_05788",
@@ -4104,7 +4104,7 @@
    "イングヴェイイングヴェイ・フォン・マルムステ"
   ],
   "jp": "それは、一体――？",
-  "en": ""
+  "en": "What in the world--?"
  },
  {
   "id": "s0346_0579c",
@@ -4128,7 +4128,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "正確に言えば俺の精神世界――数ある{n}内宇宙のひとつだ。そこに入り込み{n}やがった虚神どもと、俺たちは闘って{n}いるのさ――",
-  "en": ""
+  "en": "To be exact, it's my spirit world-- one of{n}many inner universes. And we're fighting{n}those Hollow Gods who snuck in here--"
  },
  {
   "id": "s0346_05814",
@@ -4152,7 +4152,7 @@
    "ザック"
   ],
   "jp": "ちょ……ちょっと待てよ！　それじゃ、{n}今ここにいる俺たちは、生身じゃない{n}――現実じゃないってコトか!?",
-  "en": ""
+  "en": "H... hang on a sec! So then we're not here in{n}the flesh-- You mean none of this is real!?"
  },
  {
   "id": "s0346_0587c",
@@ -4176,7 +4176,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "いや、その考えは正しくねえ。俺の{n}内宇宙においては、テメーらは紛れも{n}なく現実の存在だ。精神体として召喚{n}され、ここで肉体を得ている――",
-  "en": ""
+  "en": "Nope, that's not the right way to think{n}about it. In my inner universe you guys are{n}real, no question. You were summoned as{n}spirit bodies, and you've got flesh here--"
  },
  {
   "id": "s0346_05904",
@@ -4200,7 +4200,7 @@
    "アビゲイル"
   ],
   "jp": "死んでしまったなら、それはこの世界{n}においての現実の死となる――そう{n}いうことですね、Ｄ・Ｓ",
-  "en": ""
+  "en": "If you die, it will be a real death in this{n}world-- That is the case, D.S.?"
  },
  {
   "id": "s0346_05960",
@@ -4224,7 +4224,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "そうだ。まして虚神どもは本体ごと{n}俺の世界に乗り込んできてやがる。{n}奴らにとっても、命懸けってこった",
-  "en": ""
+  "en": "Right. And what's more, those Hollow Gods{n}came barging into my world, main bodies and{n}all. So it's life or death for them too."
  },
  {
   "id": "s0346_059c4",
@@ -4248,7 +4248,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "だが、奴らはそれなりに上手く、この{n}世界を利用してやがる。現実なら到底{n}建造できねえ自走砦も、ここなら俺の{n}イメージをいじくるだけで生み出せる",
-  "en": ""
+  "en": "But they're pretty damn good at using this{n}world. A walking fort you could never build{n}in reality, here they can whip up just by{n}fiddling with my imagination."
  },
  {
   "id": "s0346_05a54",
@@ -4272,7 +4272,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "樹棺城や氷獄塔――それに癌生物なん{n}てものまで生み出して、精神世界ごと{n}俺を滅ぼそうとしやがった。これは{n}あの大ダコの独断だったようだがよ",
-  "en": ""
+  "en": "Tree-Coffin Castle, Ice Hell Tower-- even{n}cancer creatures. They tried to destroy me,{n}spirit world and all. Though that part looks{n}like that big octopus's own idea."
  },
  {
   "id": "s0346_05ae0",
@@ -4296,7 +4296,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "虚神どもの狙いは俺の力だ。俺の精神{n}の中心部をいじくって、魔力の回路を{n}横取りしようとしていやがる。恐らく{n}はあの、白い塔のてっぺんでな――",
-  "en": ""
+  "en": "What those Hollow Gods want is my power.{n}They're trying to mess with the center of{n}my mind and hijack my magic circuits. Most{n}likely at the top of that white tower--"
  },
  {
   "id": "s0346_05b6c",
@@ -4320,7 +4320,7 @@
    "シーラ"
   ],
   "jp": "ティアもあそこに……？",
-  "en": ""
+  "en": "Is Tia there too...?"
  },
  {
   "id": "s0346_05b84",
@@ -4344,7 +4344,7 @@
    "ヴァイ"
   ],
   "jp": "そうだ！　Ｄ・Ｓ、アンタヨーコまで{n}この世界に召喚したのかよ！",
-  "en": ""
+  "en": "Right! D.S., did you summon Yoko to this{n}world too?"
  },
  {
   "id": "s0346_05bc4",
@@ -4368,7 +4368,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "いや、そんなハズはねえ……どうして{n}ヨーコさんがここにいて、虚神に拉致{n}されているのかは俺にも判らねえ",
-  "en": ""
+  "en": "No, that can't be... I got no idea why{n}Yoko-san's here, or why the Hollow Gods{n}grabbed her."
  },
  {
   "id": "s0346_05c2c",
@@ -4392,7 +4392,7 @@
    "ネイ"
   ],
   "jp": "ダーシュへの切り札にするため、人質{n}として虚神たちが連れ込んだ――？",
-  "en": ""
+  "en": "Did the Hollow Gods bring her in as a{n}hostage, a trump card against you,{n}Dahsh--?"
  },
  {
   "id": "s0346_05c74",
@@ -4416,7 +4416,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "そうとも考えられるが……俺には何か{n}別の理由があるような気がしてなら{n}ねえ――。どうして奴らは俺じゃなく、{n}ヨーコさんを狙いやがったんだ……？",
-  "en": ""
+  "en": "Could be... But I can't shake the feeling{n}there's some other reason--. Why did they{n}go after Yoko-san, not me...?"
  },
  {
   "id": "s0346_05d04",
@@ -4440,7 +4440,7 @@
    "ヴァイ"
   ],
   "jp": "とにかく、あそこへ向かおうぜ。{n}早くヨーコを助けねえと！",
-  "en": ""
+  "en": "Anyway, let's head over there. We gotta{n}hurry and save Yoko!"
  },
  {
   "id": "s0346_05d40",
@@ -4464,7 +4464,7 @@
    "イングヴェイイングヴェイ・フォン・マルムステ"
   ],
   "jp": "むっ？　あ……あれはまさか……！",
-  "en": ""
+  "en": "Hm? Th... that cannot be...!"
  },
  {
   "id": "s0346_05d64",
@@ -4488,7 +4488,7 @@
    "イングヴェイイングヴェイ・フォン・マルムステ"
   ],
   "jp": "威容を誇る砦の近くに、倒れ伏す人影{n}があった。それを認めたイングヴェイ{n}に、尋常ならざる驚愕が疾る。",
-  "en": ""
+  "en": "Near the stately stronghold, a human{n}figure lay prostrate. On seeing it, Yngwei{n}was struck by a shock beyond the{n}ordinary."
  },
  {
   "id": "s0346_05dc8",
@@ -4512,7 +4512,7 @@
    "イングヴェイイングヴェイ・フォン・マルムステ"
   ],
   "jp": "その人物はＤ・Ｓ四天王のひとり――{n}旧四天王ガインによって名を騙られた{n}真の至高王カル＝スであった。",
-  "en": ""
+  "en": "That person was one of D.S.'s Divine{n}Kings-- the true High King Kall-Su, whose{n}name had been stolen by Gain of the old{n}Divine Kings."
  },
  {
   "id": "s0346_05e2c",
@@ -4536,7 +4536,7 @@
    "イングヴェイイングヴェイ・フォン・マルムステ"
   ],
   "jp": "いつの頃よりか歳を取らぬ、少年の{n}如く美しい貌を荒野に這わせ、カルは{n}力尽きたようにそこに横たわっていた。{page}その周囲には激闘の痕を示す、魔力で{n}抉り取られたクレーター状の窪みが{n}広がっている。",
-  "en": ""
+  "en": "His face, boyishly beautiful and for ages{n}unaging, pressed to the wasteland, Kall{n}lay there as if his strength had given{n}out.{page}Around him spread crater-like hollows{n}gouged by magic, the signs of a fierce{n}fight."
  },
  {
   "id": "s0346_05eec",
@@ -4560,7 +4560,7 @@
    "イングヴェイイングヴェイ・フォン・マルムステ"
   ],
   "jp": "カ……カル様なのか？",
-  "en": ""
+  "en": "K... Is that Kall-sama?"
  },
  {
   "id": "s0346_05f04",
@@ -4584,7 +4584,7 @@
    "マカパイン"
   ],
   "jp": "カル様……！",
-  "en": ""
+  "en": "Kall-sama...!"
  },
  {
   "id": "s0346_05f14",
@@ -4608,7 +4608,7 @@
    "シェラ"
   ],
   "jp": "カル様ぁ！",
-  "en": ""
+  "en": "Kall-sama!"
  },
  {
   "id": "s0346_05f20",
@@ -4632,7 +4632,7 @@
    "シェラ"
   ],
   "jp": "熱烈な崇拝者である魔戦将軍たちは、{n}色を失って一斉にカルへと駆け寄った。{page}とりわけ、記憶を失ってさえカルを{n}探し求めたイングヴェイの動揺は{n}凄まじいまでだった。死んだように{n}動かぬカルを前に立ち竦む彼の肩を、{n}Ｄ・Ｓが力強く叩く――。",
-  "en": ""
+  "en": "The Sorcerer Generals, ardent{n}worshippers, went pale and ran to Kall as{n}one.{page}Above all, Yngwei, who had sought Kall{n}even with his memories gone, was terribly{n}shaken. Before the deathly still Kall he{n}stood rooted, and D.S. slapped him hard on{n}the shoulder--."
  },
  {
   "id": "s0346_06008",
@@ -4656,7 +4656,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "安心しろい。死んじゃいねえよ。魔力{n}を限界まで吐き出して、眠っている{n}だけだぜ――シーラ、ヨーコさんの{n}玉を頼まぁ",
-  "en": ""
+  "en": "Relax. He ain't dead. He just spent all his{n}magic and passed out-- Sheila, take care of{n}Yoko-san's orb."
  },
  {
   "id": "s0346_0607c",
@@ -4704,7 +4704,7 @@
    "シーラ"
   ],
   "jp": "Ｄ・Ｓが抱き起こすと、その揺れで{n}カルは薄く目を開いた。",
-  "en": ""
+  "en": "As D.S. lifted him up, the motion made Kall{n}open his eyes faintly."
  },
  {
   "id": "s0346_060c0",
@@ -4728,7 +4728,7 @@
    "カル"
   ],
   "jp": "ダーク……シュナイダ……{n}本物、なの、か？",
-  "en": ""
+  "en": "Dark... Schneider... Are you, real?"
  },
  {
   "id": "s0346_060ec",
@@ -4752,7 +4752,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "何言ってやがる。俺様は俺様だぜ、{n}カルよ",
-  "en": ""
+  "en": "What're you talking about? The great me is{n}the great me, Kall."
  },
  {
   "id": "s0346_06118",
@@ -4776,7 +4776,7 @@
    "カル"
   ],
   "jp": "そうか……ここまで辿り着いてくれた{n}のか……魔戦将軍、卿らも――",
-  "en": ""
+  "en": "I see... So you made it this far... You too,{n}Sorcerer Generals--"
  },
  {
   "id": "s0346_0615c",
@@ -4800,7 +4800,7 @@
    "ラン"
   ],
   "jp": "カル様……よくぞご無事で……",
-  "en": ""
+  "en": "Kall-sama... Thank goodness you are safe..."
  },
  {
   "id": "s0346_0617c",
@@ -4824,7 +4824,7 @@
    "ザック"
   ],
   "jp": "良かったぁ……",
-  "en": ""
+  "en": "Oh, man, what a relief..."
  },
  {
   "id": "s0346_0618c",
@@ -4848,7 +4848,7 @@
    "ブラド"
   ],
   "jp": "うおおーん！　ワシは猛烈に感動して{n}おりまするぅ！",
-  "en": ""
+  "en": "Waaah! I am overcome with fierce{n}emotion!"
  },
  {
   "id": "s0346_061c0",
@@ -4872,7 +4872,7 @@
    "ボル"
   ],
   "jp": "ガルざまぁー、えぐっえぐっ、ぐふぅ",
-  "en": ""
+  "en": "Kall-samaaa, hic, hic, gwuh, forsooth."
  },
  {
   "id": "s0346_061e4",
@@ -4896,7 +4896,7 @@
    "ロス"
   ],
   "jp": "えーい、キッタないわね貴公はもー",
-  "en": ""
+  "en": "Oh, you're just disgusting, you are."
  },
  {
   "id": "s0346_06208",
@@ -4920,7 +4920,7 @@
    "イダ"
   ],
   "jp": "カル様……刃折れ矢尽きたお姿もまた、{n}お美しい――",
-  "en": ""
+  "en": "Kall-sama... Even so, your form, with swords{n}broken and arrows spent, is beautiful--"
  },
  {
   "id": "s0346_0623c",
@@ -4944,7 +4944,7 @@
    "バ・ソリー"
   ],
   "jp": "カル様に早く回復して頂かねばっ！{n}このバ・ソリーの体内より取り出し{n}たる再生蟲をお飲み頂いてぇ――",
-  "en": ""
+  "en": "Kall-sama must recover quick! Drink this, this{n}regeneration bug drawn from the body of{n}Ba Thory--"
  },
  {
   "id": "s0346_062a0",
@@ -4968,7 +4968,7 @@
    "マカパイン"
   ],
   "jp": "やめんかバカもの",
-  "en": ""
+  "en": "Stop that, you idiot."
  },
  {
   "id": "s0346_062b4",
@@ -4992,7 +4992,7 @@
    "サイクス"
   ],
   "jp": "あの猟犬に追われた時も、カル様が{n}私の支えだった……生きておられた。{n}私はそれだけでいい……",
-  "en": ""
+  "en": "When that hound hunted me, Kall-sama was{n}my support... He lives. That is all I need..."
  },
  {
   "id": "s0346_06310",
@@ -5016,7 +5016,7 @@
    "ジオン"
   ],
   "jp": "――この命、捨てずにいて良かった。{n}今一度カル様にお会いできるとは……",
-  "en": ""
+  "en": "--I am glad I did not throw this life away. To{n}meet Kall-sama once more..."
  },
  {
   "id": "s0346_06358",
@@ -5040,7 +5040,7 @@
    "イングヴェイイングヴェイ・フォン・マルムステ"
   ],
   "jp": "カル様……私は、私は――",
-  "en": ""
+  "en": "Kall-sama... I, I--"
  },
  {
   "id": "s0346_06374",
@@ -5064,7 +5064,7 @@
    "カル"
   ],
   "jp": "イングヴェイ……心配をかけたな",
-  "en": ""
+  "en": "Yngwei... I have caused you worry."
  },
  {
   "id": "s0346_06394",
@@ -5088,7 +5088,7 @@
    "イングヴェイイングヴェイ・フォン・マルムステ"
   ],
   "jp": "――勿体ないなお言葉です……カル様{n}さえご無事なら、私など……ううっ",
-  "en": ""
+  "en": "--Such words are too good for me... If only{n}you are safe, Kall-sama, I... ugh."
  },
  {
   "id": "s0346_063dc",
@@ -5112,7 +5112,7 @@
    "カル"
   ],
   "jp": "私は素晴らしい部下たちを――いや、{n}仲間を持った。よくぞ私の果たせなか{n}った役目を――Ｄ・Ｓのサポートを{n}務めてくれた。礼を言うぞ――",
-  "en": ""
+  "en": "I have splendid subordinates-- no, comrades.{n}You have well carried out the duty I could{n}not: supporting D.S. I thank you--"
  },
  {
   "id": "s0346_06464",
@@ -5136,7 +5136,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "おいカル！　テメエいつまで俺様に{n}だっこされてるつもりだぁ！{n}もう癒されてるハズだぜ。さっさと{n}起きやがれ！",
-  "en": ""
+  "en": "Hey, Kall! How long you planning to let the{n}great me cradle you! You oughta be healed{n}by now. Get up already!"
  },
  {
   "id": "s0346_064d0",
@@ -5160,7 +5160,7 @@
    "カル"
   ],
   "jp": "あ……す、済まない",
-  "en": ""
+  "en": "Ah... S-sorry."
  },
  {
   "id": "s0346_064e4",
@@ -5184,7 +5184,7 @@
    "ネイ"
   ],
   "jp": "もーっ！　どおしてああいう役はカル{n}なのよ！　カルキライッ！",
-  "en": ""
+  "en": "Oh, come on! Why does Kall get that role! I{n}hate Kall!"
  },
  {
   "id": "s0346_06524",
@@ -5208,7 +5208,7 @@
    "ガラ"
   ],
   "jp": "カルに妬いてどーするよ",
-  "en": ""
+  "en": "What good's getting jealous of Kall?"
  },
  {
   "id": "s0346_0653c",
@@ -5232,7 +5232,7 @@
    "ガラ"
   ],
   "jp": "ヨーコ玉の癒しによって力を取り戻し{n}たカルは、迅速に状況を語り始めた。",
-  "en": ""
+  "en": "His strength restored by the Yoko orb's{n}healing, Kall quickly began to tell the{n}situation."
  },
  {
   "id": "s0346_06584",
@@ -5256,7 +5256,7 @@
    "ガラ"
   ],
   "jp": "虚神侵攻の折、Ｄ・Ｓの精神世界に{n}召喚されたカルは、自分の置かれた{n}状態と敵の意図を瞬時に理解した。",
-  "en": ""
+  "en": "At the time of the Hollow Gods' invasion,{n}Kall, summoned into D.S.'s spirit world,{n}understood at once the state he was in{n}and the enemy's intent."
  },
  {
   "id": "s0346_065e8",
@@ -5280,7 +5280,7 @@
    "ガラ"
   ],
   "jp": "カルの心には、あまりにも深く、消す{n}ことの叶わぬトラウマが刻まれていた。{page}母殺し――人ならぬ存在の血を引く{n}カルは、生来強大な魔力を持つ呪わし{n}い子供として疎まれ、彼の命を断とう{n}とした母親を無意識に殺してしまった{n}過去を持つ。",
-  "en": ""
+  "en": "Carved into Kall's heart was a trauma far{n}too deep to erase.{page}Matricide-- Kall, of inhuman blood, was{n}shunned from birth as a cursed child with{n}great magic, and in his past he had{n}unconsciously killed the mother who tried{n}to end his life."
  },
  {
   "id": "s0346_066c8",
@@ -5304,7 +5304,7 @@
    "ガラ"
   ],
   "jp": "虚神から見れば、カルは最も精神支配{n}しやすい標的であった。だが、かつて{n}Ｄ・Ｓによりこのトラウマから救われ{n}たカルはもはや惑うことなく、予想外{n}に強靱な意志力をもって洗脳の網を{n}くぐり抜けた。そしてその精神支配の{n}念波を辿り、ただひとり高次意識界へ{n}とシフトしたのであった。",
-  "en": ""
+  "en": "To the Hollow Gods, Kall was the easiest{n}target for mind control. But Kall, once{n}saved from this trauma by D.S., no longer{n}wavered, and with unexpectedly tough{n}willpower slipped through the net of{n}brainwashing. Following the mental waves{n}of that control, he then shifted alone to{n}the Higher Consciousness Realm."
  },
  {
   "id": "s0346_067d8",
@@ -5328,7 +5328,7 @@
    "ガラ"
   ],
   "jp": "そこで彼が見たものは、ヨーコを手中{n}に収めようとするＤ・Ｓ――否、その{n}姿を模した全く別の存在であった。{page}即座にヨーコの守護に回ったカルは、{n}正体不明のその魔力に圧されながらも{n}抵抗を続け、ヨーコが自らの法力で{n}結界を――あの白い塔を築き上げた{n}ところで魔力を使い果たし、ここに{n}力尽きたのだった。",
-  "en": ""
+  "en": "What he saw there was D.S. trying to take{n}Yoko-- no, a wholly different being{n}copying his form.{page}At once Kall moved to guard Yoko, and{n}went on resisting though overwhelmed by{n}that unknown magic. When Yoko built a{n}barrier with her own holy power-- that{n}white tower-- he had spent all his magic,{n}and collapsed here."
  },
  {
   "id": "s0346_068fc",
@@ -5352,7 +5352,7 @@
    "ガラ"
   ],
   "jp": "贋のＤ・Ｓはカルを捨て置き、塔の{n}周辺に巨大な砦を創出した。ヨーコを{n}求め、いずれこの地に到来するで{n}あろうＤ・Ｓの道を阻むために――。",
-  "en": ""
+  "en": "The false D.S. left Kall where he lay, and{n}created a huge stronghold around the{n}tower. In order to block the road of D.S.,{n}who would seek Yoko and in time arrive{n}here--."
  },
  {
   "id": "s0346_06984",
@@ -5376,7 +5376,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "――なるほどな。この高次空間と、{n}俺たちが旅してきた世界とは時の進み{n}方が違うようだ。ここでの一瞬が、{n}あっちでは何日もの時間になる――",
-  "en": ""
+  "en": "--I get it. Time runs differently in this higher{n}space and the world we traveled through. A{n}moment here is days over there--"
  },
  {
   "id": "s0346_06a0c",
@@ -5400,7 +5400,7 @@
    "サイクス"
   ],
   "jp": "恐らくは外の――現実の世界では刹那{n}の刻しか経ってはいないのだろう。{n}我々は一秒にも見たぬ時間の中で{n}闘っているのだ",
-  "en": ""
+  "en": "Most likely outside-- in the real world-- only{n}an instant has gone by. We are fighting{n}within less than a second."
  },
  {
   "id": "s0346_06a80",
@@ -5424,7 +5424,7 @@
    "カル"
   ],
   "jp": "……私の力では彼女を――ティア・{n}ノート・ヨーコを守りきれなかった。{n}済まない、Ｄ・Ｓ……",
-  "en": ""
+  "en": "...My power could not protect her fully-- Tia{n}Noto Yoko. Forgive me, D.S...."
  },
  {
   "id": "s0346_06adc",
@@ -5448,7 +5448,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "ったくぅ、テメエは謝ってばっかだな！{n}聖玉を見ても判る通り、まだヨーコ{n}さんは虚神の手には落ちちゃいねえ。{n}良く食い止めてくれたぜ、カル？",
-  "en": ""
+  "en": "Geez, all you do is apologize! As you can see{n}from the Holy Orb, Yoko-san ain't fallen into{n}the Hollow Gods' hands yet. You held 'em off{n}real good, Kall."
  },
  {
   "id": "s0346_06b68",
@@ -5472,7 +5472,7 @@
    "カル"
   ],
   "jp": "Ｄ・Ｓ……ありがとう",
-  "en": ""
+  "en": "D.S.... Thank you."
  },
  {
   "id": "s0346_06b80",
@@ -5496,7 +5496,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "今度は礼かよ。つくづく真面目で{n}損するタイプだぜ、テメエわ！",
-  "en": ""
+  "en": "Now it's thanks, huh. You really are the type{n}that loses out by being so damn serious!"
  },
  {
   "id": "s0346_06bc0",
@@ -5520,7 +5520,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "さあて、いよいよ敵の本拠地だぜ！{n}待ってろよヨーコさん！　俺の贋者と{n}やらをギッタギタにブチのめしてやる{n}かんな！",
-  "en": ""
+  "en": "All right, the enemy's home base at last!{n}Wait for me, Yoko-san! I'm gonna beat this{n}fake of me to a bloody pulp!"
  },
  {
   "id": "s0346_06c34",
@@ -5544,7 +5544,7 @@
    "カル"
   ],
   "jp": "奴が結界に向かってから、まだそれ{n}ほど時間は経っていない。急げば充分{n}間に合うはずだ――",
-  "en": ""
+  "en": "Not much time has passed since he headed{n}for the barrier. If we hurry, we should make{n}it in plenty of time--"
  },
  {
   "id": "s0346_06c8c",
@@ -5568,7 +5568,7 @@
    "カル"
   ],
   "jp": "奴が結界に向かってからかなり経つ。{n}ヨーコを狙う意図は不明だが、急が{n}ないと危険だぞ――",
-  "en": ""
+  "en": "Much time has passed since he headed for{n}the barrier. I do not know why he seeks{n}Yoko, but if we do not hurry, it will be{n}dangerous--"
  },
  {
   "id": "s0346_06ce4",
@@ -5592,7 +5592,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "よおし！　砦に乗り込むぜ！",
-  "en": ""
+  "en": "All right! Let's storm the stronghold!"
  },
  {
   "id": "s0346_06d00",

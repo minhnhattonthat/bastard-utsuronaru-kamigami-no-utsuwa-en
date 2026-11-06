@@ -21,7 +21,7 @@
    ""
   ],
   "jp": "血路を抜けた先は、これまでとは{n}明らかに異なる大空洞が広がっていた。{page}天蓋を支える大壁面には、巨大な生物{n}の骨を思わせる白い石柱が幾筋も浮き{n}出している。天蓋からは赤い、直径が{n}数十メートルにも及ぶ管状の物体が{n}そこかしこから垂れ下がっている。",
-  "en": ""
+  "en": "Beyond the blood vessel spread a great{n}hollow clearly unlike any before.{page}On the vast walls that held up the{n}canopy, white stone columns stood out in{n}many lines, like the bones of a huge{n}creature. From all over the canopy hung{n}red tubular things tens of meters{n}across."
  },
  {
   "id": "s0342_00908",
@@ -45,7 +45,7 @@
    ""
   ],
   "jp": "その管に吊られる形で、空洞の中央に{n}浮かぶ奇怪な建造物があった。",
-  "en": ""
+  "en": "Suspended by those tubes, a weird{n}construction floated at the center of the{n}hollow."
  },
  {
   "id": "s0342_0094c",
@@ -69,7 +69,7 @@
    ""
   ],
   "jp": "否、それは建物などではなかった。{n}元来この空洞にあったのであろう巨大{n}な岩塊――臓器を彷彿とさせる有機的{n}なフォルムであり、並の城塞を丸ごと{n}包むほどの大きさがある――に、寄生{n}するが如くに繁殖した異物の集合体。",
-  "en": ""
+  "en": "No, it was no building. On a huge lump of{n}rock that had surely been in the hollow{n}from the start-- of an organic form{n}recalling an internal organ, big enough to{n}wrap a whole ordinary fortress-- a mass{n}of foreign matter had bred, as if a{n}parasite."
  },
  {
   "id": "s0342_00a20",
@@ -93,7 +93,7 @@
    ""
   ],
   "jp": "それは黒の館や龍を形作っていた{n}肉腫と、機械的な建材が融合して{n}生み出された悪夢の宮殿であった。{page}生命を蝕む病巣――まさしく、大地に{n}害毒を撒き散らす癌細胞と呼ぶべき{n}代物であったのだ。",
-  "en": ""
+  "en": "It was a palace of nightmare, born of the{n}fusion of mechanical building materials{n}with the tumors that had formed the{n}black mansion and the dragon.{page}A seat of disease eating at life-- It was{n}precisely what one would call a cancer,{n}spreading poison through the earth."
  },
  {
   "id": "s0342_00ad8",
@@ -117,7 +117,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "やっぱりな……あの暗黒僧と、その{n}背後にいる腐れた神には、これ以上は{n}ないってほど似合いの魔宮だぜ――",
-  "en": ""
+  "en": "Thought so... For that Dark Priest and the{n}rotten god behind him, you couldn't ask for{n}a more fitting demon palace--"
  },
  {
   "id": "s0342_00b40",
@@ -141,7 +141,7 @@
    "ネイ"
   ],
   "jp": "ここは一体……？",
-  "en": ""
+  "en": "What is this place...?"
  },
  {
   "id": "s0342_00b54",
@@ -165,7 +165,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "言ったろ。世界の心臓だって……さあ、{n}乗り込むぜ！",
-  "en": ""
+  "en": "Told you. The heart of the world... All right,{n}let's get in there!"
  },
  {
   "id": "s0342_00c74",
@@ -189,7 +189,7 @@
    ""
   ],
   "jp": "その宮殿の内部は、一見無機質な印象{n}を与える建材で構成されていた。だが、{n}細部まで注意を払って観察すると、{n}壁や床の隙間にはびっしりと、例の{n}黒い肉腫細胞が繁殖している。怖気が{n}疾るような、生理的嫌悪感を催す宮殿{n}であった。",
-  "en": ""
+  "en": "The inside of the palace was built of{n}materials that gave at first glance an{n}inorganic impression. But on closer look,{n}the gaps in the walls and floors teemed{n}with those black tumor cells. It was a{n}palace that sent chills through the body,{n}and roused a physical disgust."
  },
  {
   "id": "s0342_00d50",
@@ -213,7 +213,7 @@
    "ダイ"
   ],
   "jp": "美しいぃぃぃぃ！",
-  "en": ""
+  "en": "So beautifuuuul!"
  },
  {
   "id": "s0342_00d64",
@@ -237,7 +237,7 @@
    "ネイ"
   ],
   "jp": "黙んなさい",
-  "en": ""
+  "en": "Be quiet."
  },
  {
   "id": "s0342_00d70",
@@ -261,7 +261,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "あの、黒い館ン時と一緒だぜ……この{n}癌細胞みたいなモンを生み出してる{n}奴がいるんだろう。まずはそいつを{n}潰さなくちゃな――",
-  "en": ""
+  "en": "It's just like that black mansion... There's{n}gotta be something making all this cancer{n}stuff. We gotta crush that first--"
  },
  {
   "id": "s0342_00e88",
@@ -285,7 +285,7 @@
    ""
   ],
   "jp": "そこは宮殿の中心と思しき広間だった。{page}中央に、深い穴が穿たれている。この{n}宮殿の基底部にまで通じているのか、{n}竪穴を吹き抜ける風の音が遥か深淵か{n}ら響いてくる。それはまるで、奈落の{n}底でもがく亡者の呻きの如く聴こえた。",
-  "en": ""
+  "en": "It was a hall that seemed the center of{n}the palace.{page}At its center a deep pit had been sunk.{n}Perhaps it reached the base of the{n}palace, for the sound of wind through the{n}shaft rang up from far in the abyss. It{n}sounded like the moans of the dead{n}writhing at the bottom of hell."
  },
  {
   "id": "s0342_00f60",
@@ -309,7 +309,7 @@
    ""
   ],
   "jp": "その穴から、黒い肉腫が次々と吐き{n}出されていた。天井に届くほど勢い{n}良く、あるものは穴の縁から滲み出す{n}ように――。蠢く癌細胞の集合体は、{n}ここから宮殿の全域へと転移し続けて{n}いるのだった。",
-  "en": ""
+  "en": "From that pit, black tumors spewed one{n}after another. Some shot up hard enough{n}to reach the ceiling, some oozed from the{n}rim--. This writhing mass of cancer cells{n}went on spreading from here to every{n}part of the palace."
  },
  {
   "id": "s0342_0101c",
@@ -333,7 +333,7 @@
    ""
   ],
   "jp": "一行の接近を察したのか、穴の底から{n}何かが這い昇ってくる気配がする。{page}響いてくるのは、柔らかな無数の脚が{n}絶え間なく竪穴の壁を蹴る音だった。",
-  "en": ""
+  "en": "Perhaps sensing the party's approach,{n}something could be felt crawling up from{n}the bottom of the pit.{page}What echoed up was the sound of{n}countless soft legs ceaselessly kicking at{n}the walls of the shaft."
  },
  {
   "id": "s0342_010a8",
@@ -357,7 +357,7 @@
    "ガラ"
   ],
   "jp": "お出でなすったぜ！",
-  "en": ""
+  "en": "Here it comes!"
  },
  {
   "id": "s0342_010bc",
@@ -381,7 +381,7 @@
    "ガラ"
   ],
   "jp": "穴の口から、爆発したかの勢いで飛び{n}出してきたのは、能面のように無表情{n}な女の貌であった。瞼を閉じた、白磁{n}の如き美しい容貌――ただし、張り付{n}いているのは巨大な肉塊の先端だった。",
-  "en": ""
+  "en": "Bursting from the mouth of the pit as if in{n}an explosion was a woman's face, blank as{n}a Noh mask. With closed eyelids and{n}porcelain beauty-- but it was stuck to{n}the tip of a huge lump of flesh."
  },
  {
   "id": "s0342_01170",
@@ -405,7 +405,7 @@
    "ガラ"
   ],
   "jp": "その身体のほとんどを竪穴の中に{n}残したまま、鎌首をもたげて蠢く黒い{n}長大な肉蟲――それが、癌細胞を生み{n}出すものの正体であった。この瞬間も、{n}女の口から黒い肉腫が糸を引いて{n}吐き出される――。",
-  "en": ""
+  "en": "Most of its body still in the shaft, it lifted{n}its head and writhed: a long black flesh{n}worm. Such was the true form of what{n}bore the cancer cells. Even now, black{n}tumors trailed in threads from the{n}woman's mouth--."
  },
  {
   "id": "s0342_01230",
@@ -429,7 +429,7 @@
    "ガラ"
   ],
   "jp": "女の瞼が見開かれた。その双眸は片目{n}だけが青く、もう片側には瞳のない{n}白目だけがあった。",
-  "en": ""
+  "en": "The woman's eyelids opened. Of her two{n}eyes only one was blue; the other was{n}white, without a pupil."
  },
  {
   "id": "s0342_01288",
@@ -453,7 +453,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "呪詛の親玉だ――テメエら、油断すん{n}じゃねえぞ！",
-  "en": ""
+  "en": "It's the big boss of the curse-- You guys,{n}don't let your guard down!"
  },
  {
   "id": "s0342_012bc",
@@ -477,7 +477,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "女の口から身の毛もよだつ断末魔の{n}叫びを迸らせ、奈落の肉蟲は広間に{n}横倒しに絶命した。その肉体を構成{n}する癌細胞は即座に溶け始め、黒い泡{n}となって消滅していく。{page}女の貌を象る肉面だけが、体液で{n}濡れた床の上に残された。",
-  "en": ""
+  "en": "As a hair-raising death scream burst from{n}the woman's mouth, the flesh worm of{n}the abyss fell on its side in the hall and{n}died. The cancer cells of its body at once{n}began to melt, and vanished as black{n}foam.{page}Only the mask of flesh, shaped like the{n}woman's face, remained on the floor wet{n}with fluids."
  },
  {
   "id": "s0342_01394",
@@ -501,7 +501,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "けっ……悪趣味な寄生蟲だぜ。だが、{n}これで心臓の呪詛は消えたはずだ――",
-  "en": ""
+  "en": "Tch... Sick taste in parasites. But that oughta{n}do it for the heart curse--"
  },
  {
   "id": "s0342_013dc",
@@ -525,7 +525,7 @@
    "ヴァイ"
   ],
   "jp": "見ろよ！　ヨーコ球が！",
-  "en": ""
+  "en": "Look! The Yoko orb!"
  },
  {
   "id": "s0342_013f4",
@@ -549,7 +549,7 @@
    "ヴァイ"
   ],
   "jp": "聖玉の表面の曇りが見る間に薄れ、{n}元の鏡の如き輝きを蘇らせていく。{page}それに伴い、ヴァイの掌に力なく{n}転がっていたヨーコ球は、自在に{n}飛び回る浮力を取り戻し始めた。",
-  "en": ""
+  "en": "The clouding on the surface of the Holy{n}Orb swiftly thinned, and its mirror-like{n}gleam came back.{page}With it, the Yoko orb, lying limp in Vai's{n}palm, began to regain the lift that let it{n}fly freely."
  },
  {
   "id": "s0342_01494",
@@ -573,7 +573,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "やったぜ！　ヨーコさん！",
-  "en": ""
+  "en": "All right! Yoko-san!"
  },
  {
   "id": "s0342_014b0",
@@ -597,7 +597,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "周りを旋回するヨーコ球に、Ｄ・Ｓは{n}久しぶりの笑顔を浮かべた。",
-  "en": ""
+  "en": "As the Yoko orb circled around him, D.S.{n}smiled for the first time in a long while."
  },
  {
   "id": "s0342_014f0",
@@ -621,7 +621,7 @@
    "ネイ"
   ],
   "jp": "ダーシュ……私には、あんな顔見せ{n}ないのよね――妬けるけど、しょうが{n}ないのかな",
-  "en": ""
+  "en": "Dahsh... He never shows me a face like{n}that-- It makes me jealous, but I suppose it{n}cannot be helped."
  },
  {
   "id": "s0342_01540",
@@ -645,7 +645,7 @@
    "ガラ"
   ],
   "jp": "しょーがねえしょーがねえ！　あんな{n}鬼畜ヤロウのコトなんざ忘れちまいな{n}って！　ぎゃはははっ！",
-  "en": ""
+  "en": "Can't be helped, can't be helped! Forget{n}about that heartless brute already!{n}Gyahahaha!"
  },
  {
   "id": "s0342_015a0",
@@ -669,7 +669,7 @@
    "ネイ"
   ],
   "jp": "ダーシュのコト、鬼畜とかゆーなっ！",
-  "en": ""
+  "en": "Do not call Dahsh a heartless brute!"
  },
  {
   "id": "s0342_015c4",
@@ -693,7 +693,7 @@
    "ガラ"
   ],
   "jp": "あんぎゃあぁ――っ！　こ、これで{n}オメエが元気になってくれるなら、{n}オレは……ぎぃやああぁぁぁ――っ！{n}で、電圧キツいってばぁぁ――っ！",
-  "en": ""
+  "en": "Ahhgyaaah--! I-if this cheers you up, then{n}I'll... Gyaaaaah--! The v-voltage is too{n}strong--!"
  },
  {
   "id": "s0342_0164c",
@@ -717,7 +717,7 @@
    "ネイ"
   ],
   "jp": "ありがと……ガラ",
-  "en": ""
+  "en": "Thank you... Gara."
  },
  {
   "id": "s0342_01660",
@@ -741,7 +741,7 @@
    "ガラ"
   ],
   "jp": "な、何か言ったか？　あんぎゃああ！{n}も、もうヤメテ――！",
-  "en": ""
+  "en": "D-did you say something? Ahhgyaaah!{n}St-stop it--!"
  },
  {
   "id": "s0342_0169c",
@@ -765,7 +765,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "よーし、これであとは暗黒僧のヤロウ{n}を探し出すだけだぜ。そうすりゃ{n}恐らく、全ての謎は解ける――",
-  "en": ""
+  "en": "All right, now we just gotta hunt down that{n}bastard Dark Priest. Then I bet all the{n}mysteries get solved--"
  },
  {
   "id": "s0342_016fc",
@@ -789,7 +789,7 @@
    "ロス"
   ],
   "jp": "お宝の匂いが……あっ！",
-  "en": ""
+  "en": "I smell treasure... Ah!"
  },
  {
   "id": "s0342_01714",
@@ -813,7 +813,7 @@
    "ロス"
   ],
   "jp": "ロスが残された肉面を除けると、青い{n}眼球と思われたのは、引き込まれそう{n}な深みの碧色をたたえた宝玉である{n}ことが判った。その中心には、爬虫類{n}の瞳孔を思わせる縦長の黒いスリット{n}が内包されている。",
-  "en": ""
+  "en": "When Ros moved the mask of flesh aside,{n}what had seemed a blue eyeball proved{n}to be a gem brimming with a blue-green{n}of bottomless depth. At its center lay a{n}long vertical black slit, like the pupil of a{n}reptile."
  },
  {
   "id": "s0342_017d8",
@@ -837,7 +837,7 @@
    "ロス"
   ],
   "jp": "あったわぁ、アタシの探してたお宝、{n}アビサルピューパルが！　イヤッホウ！",
-  "en": ""
+  "en": "Here it is, the treasure I was looking for,{n}the Abyssal Pupil! Yahoo!"
  },
  {
   "id": "s0342_01824",
@@ -861,7 +861,7 @@
    "ロス"
   ],
   "jp": "ロスは宝玉を大事そうに抱えると、{n}自分の剣であるリビングブレードの{n}付け根にある空洞に嵌め込んだ。それ{n}はピタリと収まり、次いで瞼のような{n}シャッターが瞳を完全に包み込む。{page}そして柄頭のジャックにすでに取り{n}つけてあるケーブルを腕に無造作に{n}巻きつけると、ロスは会心の笑みを{n}浮かべて言った。",
-  "en": ""
+  "en": "Ros took the gem tenderly and set it into{n}a hollow at the base of his sword, the{n}Living Blade. It fit exactly, and an{n}eyelid-like shutter closed fully over the{n}pupil.{page}Then, winding the cable already attached{n}to the pommel's jack carelessly around his{n}arm, Ros smiled in triumph and said:"
  },
  {
   "id": "s0342_01944",
@@ -885,7 +885,7 @@
    "ロス"
   ],
   "jp": "重力剣、完成！　リビングブレードに{n}シナプスケーブル、そしてこの宝玉{n}――“深淵の瞳”が合わさることで、{n}アタシの最強剣が生まれるのよーっ！",
-  "en": ""
+  "en": "Gravity Sword, complete! Living Blade,{n}synapse cable and this gem, the \"Eye of the{n}Abyss\": together they make my ultimate{n}sword!"
  },
  {
   "id": "s0342_019d0",
@@ -909,7 +909,7 @@
    "ロス"
   ],
   "jp": "これからは格段にパワーアップよぅ！{n}みんなもゼヒ、試してみてねェ",
-  "en": ""
+  "en": "From now on I'm way more powerful! You{n}must all give it a try, won't you?"
  },
  {
   "id": "s0342_01a14",
@@ -933,7 +933,7 @@
    "ヴァイ"
   ],
   "jp": "ロス、どっち向いて喋ってんだ？",
-  "en": ""
+  "en": "Ros, who're you talking to?"
  },
  {
   "id": "s0342_01a34",
@@ -957,7 +957,7 @@
    "ロス"
   ],
   "jp": "アラ、アタシとしたコトが説明ゼリフ{n}などを……",
-  "en": ""
+  "en": "Oh my, how unlike me, spouting exposition..."
  },
  {
   "id": "s0342_01a64",
@@ -981,7 +981,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "暗黒僧があとひとりの四天王だったと{n}すりゃ、そりゃ誰なんだっけな……{n}もう思い出せそーなんだが",
-  "en": ""
+  "en": "If the Dark Priest was the last of the Divine{n}Kings, then who was that again... It's right on{n}the tip of my tongue."
  },
  {
   "id": "s0342_01ac4",
@@ -1005,7 +1005,7 @@
    "ガラ"
   ],
   "jp": "うーん？　ヘンな奴だったコタぁ確か{n}だぜ",
-  "en": ""
+  "en": "Hmm? He was definitely one weird guy."
  },
  {
   "id": "s0342_01af0",
@@ -1029,7 +1029,7 @@
    "ネイ"
   ],
   "jp": "うんうん。何て言うかアブないタイプ{n}で、私もダーシュもヒドイ目に遭わさ{n}れたような……",
-  "en": ""
+  "en": "Oh yes. He was a dangerous type, you might{n}say, and I think he put Dahsh and me{n}through something terrible..."
  },
  {
   "id": "s0342_01b48",
@@ -1053,7 +1053,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "お？　オメーらのヒント、いいカンジ{n}だぜ。もう少しで記憶が戻ってきそう{n}な気がしてきた",
-  "en": ""
+  "en": "Ooh? Good hints, you two. I feel like my{n}memory's about to come back."
  },
  {
   "id": "s0342_01ba0",
@@ -1077,7 +1077,7 @@
    "ガラ"
   ],
   "jp": "えーっとな……ナスとかヘチマに似て{n}やがるんだよ、確か",
-  "en": ""
+  "en": "Uhh, let's see... He kinda looks like an{n}eggplant or a loofah, I'm pretty sure."
  },
  {
   "id": "s0342_01bd8",
@@ -1101,7 +1101,7 @@
    "ネイ"
   ],
   "jp": "ふたりっきりになりたくないオトコ{n}ナンバーワン！　私はカルのコト好き{n}じゃなかったけど、それとは根本的に{n}違うイヤーなカンジなのよ",
-  "en": ""
+  "en": "The number one man you never want to be{n}alone with! I never liked Kall either, but this{n}is a fundamentally different kind of ick."
  },
  {
   "id": "s0342_01c5c",
@@ -1149,7 +1149,7 @@
    "ヴァイ"
   ],
   "jp": "アンガス、どした？　ムズかしい顔{n}しちゃって……ん？　何か暑くないか？{n}オマエも汗びっしょりで……わわわ!?",
-  "en": ""
+  "en": "What's up, Angus? That's a hard look on your{n}face... Huh? Is it hot in here? You're soaked{n}in sweat too... Whoa whoa!?"
  },
  {
   "id": "s0342_01cd0",
@@ -1173,7 +1173,7 @@
    "ヨルグ"
   ],
   "jp": "ななな!?",
-  "en": ""
+  "en": "Wh-wh-what!?"
  },
  {
   "id": "s0342_01cdc",
@@ -1197,7 +1197,7 @@
    "シェン"
   ],
   "jp": "ア……アンガスが!?",
-  "en": ""
+  "en": "A... Angus is...!?"
  },
  {
   "id": "s0342_01cf0",
@@ -1221,7 +1221,7 @@
    "シェン"
   ],
   "jp": "高熱を発していたのはアンガス自身で{n}あった。その熱のためなのか、彼の{n}顔の皮膚が急速に溶け崩れ始める。",
-  "en": ""
+  "en": "It was Angus himself giving off the fierce{n}heat. Perhaps because of it, the skin of{n}his face began rapidly to melt and slough{n}away."
  },
  {
   "id": "s0342_01d58",
@@ -1245,7 +1245,7 @@
    "ヨシュア"
   ],
   "jp": "アンガスが……アンガスが溶けていく？{n}うわあ――っ！",
-  "en": ""
+  "en": "Angus is... Angus is melting? Aaaah--!"
  },
  {
   "id": "s0342_01d90",
@@ -1269,7 +1269,7 @@
    "カイ"
   ],
   "jp": "落ちつけヨシュア！　こいつは――",
-  "en": ""
+  "en": "Calm down, Joshua! This is--"
  },
  {
   "id": "s0342_01db4",
@@ -1293,7 +1293,7 @@
    "カイ"
   ],
   "jp": "頭蓋骨の代わりに、溶け落ちた皮膚の{n}下から露出したのは、メタリックな{n}輝きを放つ鋼の骨格であった。{n}鎧が分離して剥がれ、同時にその下の{n}肉体が凄まじい勢いで蒸発していく。",
-  "en": ""
+  "en": "In place of a skull, what came to light{n}beneath the melted skin was a skeleton of{n}steel with a metallic gleam. His armor split{n}and fell away, and at the same time the{n}flesh beneath began to evaporate at a{n}fearsome rate."
  },
  {
   "id": "s0342_01e5c",
@@ -1317,7 +1317,7 @@
    "ガラ"
   ],
   "jp": "おっ、オメエは――",
-  "en": ""
+  "en": "Y-you're--"
  },
  {
   "id": "s0342_01e70",
@@ -1341,7 +1341,7 @@
    "ネイ"
   ],
   "jp": "アビ……",
-  "en": ""
+  "en": "Abi..."
  },
  {
   "id": "s0342_01e7c",
@@ -1365,7 +1365,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "思い出した！　アビゲイルだ！",
-  "en": ""
+  "en": "I remember! It's Abigail!"
  },
  {
   "id": "s0342_01e9c",
@@ -1389,7 +1389,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "三メートルを越えるアンガスの巨体は、{n}今や竹馬の如き機械外骨格の正体を{n}露にしていた。その中にすっぽりと{n}収まっているのは、これもアンガスと{n}変わらぬ無表情をぶら下げた僧形の{n}男であった。",
-  "en": ""
+  "en": "Angus's giant frame, over three meters{n}tall, now showed itself for what it was: a{n}mechanical exoskeleton like a pair of{n}stilts. Snugly fitted inside was a man in a{n}priest's garb, whose face hung as blank as{n}Angus's own."
  },
  {
   "id": "s0342_01f58",
@@ -1413,7 +1413,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "アビゲイルと呼ばれた男はゆっくりと{n}外骨格から降り、驚きのあまり声も{n}ない一同を無表情のまま見渡した。",
-  "en": ""
+  "en": "The man called Abigail slowly climbed{n}down from the exoskeleton, and looked{n}over the party, speechless with surprise,{n}with no expression at all."
  },
  {
   "id": "s0342_01fc0",
@@ -1437,7 +1437,7 @@
    "アビゲイル"
   ],
   "jp": "ヘンでナスでヘチマでアブなくて、{n}しかもふたりきりになりたくない男性{n}ナンバーワンの呼び声高いアビゲイル、{n}遂にそのヴェールを脱いでみました",
-  "en": ""
+  "en": "The weird, eggplant, loofah, dangerous{n}Abigail, hailed as the number one man you{n}never want to be alone with, has at last{n}removed his veil."
  },
  {
   "id": "s0342_0204c",
@@ -1461,7 +1461,7 @@
    "ネイ"
   ],
   "jp": "あ……アビゲイル、それはその……",
-  "en": ""
+  "en": "A... Abigail, that was, um..."
  },
  {
   "id": "s0342_02070",
@@ -1485,7 +1485,7 @@
    "ガラ"
   ],
   "jp": "ジョークだよジョーク！　オレたち{n}四天王ってみんな仲いーもんな？　な？",
-  "en": ""
+  "en": "It was a joke, a joke! All of us Divine Kings{n}get along great, right? Right?"
  },
  {
   "id": "s0342_020b8",
@@ -1509,7 +1509,7 @@
    "アビゲイル"
   ],
   "jp": "別にいいんですよ。ただね、私がいな{n}いトコロではいつもこんな風に言われ{n}ていると思うと、アビちゃんのひ弱な{n}ハートは今にもしぼみそうで……",
-  "en": ""
+  "en": "It is quite all right. It is only that, knowing{n}this is what you always say when I am not{n}around, little Abi's frail heart is about to{n}wilt..."
  },
  {
   "id": "s0342_02144",
@@ -1533,7 +1533,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "ドアホウ！　このナスッ！",
-  "en": ""
+  "en": "You jackass! You eggplant!"
  },
  {
   "id": "s0342_02160",
@@ -1557,7 +1557,7 @@
    "アビゲイル"
   ],
   "jp": "おぐっ！　……イキナリ後ろ頭を蹴り{n}飛ばすとは、最初からトバしますね、{n}Ｄ・Ｓ",
-  "en": ""
+  "en": "Oof! ...Kicking me in the back of the head out{n}of nowhere: you are starting off strong,{n}D.S."
  },
  {
   "id": "s0342_021b0",
@@ -1581,7 +1581,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "テンメエェェ――今の今までアンガス{n}のフリしてやがったのか！　俺たちが{n}超ピンチの時にもっ！",
-  "en": ""
+  "en": "You bastaaard-- All this time you were{n}pretending to be Angus! Even when we were{n}in deep, deep trouble!"
  },
  {
   "id": "s0342_0220c",
@@ -1605,7 +1605,7 @@
    "アビゲイル"
   ],
   "jp": "いかにもその通りです。敵の目を{n}欺くにはまず味方から、と言うでは{n}ありませんか",
-  "en": ""
+  "en": "Precisely so. To deceive your enemies, first{n}deceive your friends, as the saying goes."
  },
  {
   "id": "s0342_0225c",
@@ -1629,7 +1629,7 @@
    "アビゲイル"
   ],
   "jp": "アンガスがロボットだという記憶を{n}皆さん忘れていてくれたので、私も{n}楽になりすますコトができました。{n}敵にとっても私の正体は盲点でしょう",
-  "en": ""
+  "en": "Since you had all forgotten that Angus is a{n}robot, it was easy for me to pose as him. My{n}true identity must be a blind spot for the{n}enemy too."
  },
  {
   "id": "s0342_022e4",
@@ -1653,7 +1653,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "で？　敵も味方も欺いて、何か得る{n}コトはあったのか？",
-  "en": ""
+  "en": "So? You fooled enemies and friends. What'd{n}you get out of it?"
  },
  {
   "id": "s0342_0231c",
@@ -1677,7 +1677,7 @@
    "アビゲイル"
   ],
   "jp": "ええ。今この時、皆さんが驚き呆れて{n}くれた――企みが上手くいったとゆう、{n}これ以上の快感があるでしょうか！{n}いや、ないッ！　あっ!?",
-  "en": ""
+  "en": "Oh, yes. At this very moment, you are all{n}shocked and appalled. What greater{n}pleasure is there than a scheme that went{n}well! There is none! Ah!?"
  },
  {
   "id": "s0342_023a0",
@@ -1701,7 +1701,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "おーいみんな、フクロだフクロぉ！",
-  "en": ""
+  "en": "Hey, everybody, let's gang up on him!"
  },
  {
   "id": "s0342_023c4",
@@ -1725,7 +1725,7 @@
    "ヴァイ"
   ],
   "jp": "この野郎！　アンガスを返せっ！",
-  "en": ""
+  "en": "You bastard! Give Angus back!"
  },
  {
   "id": "s0342_023e4",
@@ -1749,7 +1749,7 @@
    "ネイ"
   ],
   "jp": "このこのこのこのっ！{n}さあ、お前たちもおやり！",
-  "en": ""
+  "en": "Take that, take that, take that! Now, you{n}lot, get in there too!"
  },
  {
   "id": "s0342_02414",
@@ -1773,7 +1773,7 @@
    "カイ"
   ],
   "jp": "はーいネイ様。オラオラオラオラァ！",
-  "en": ""
+  "en": "Yes, Nei-sama. Hah hah hah hah!"
  },
  {
   "id": "s0342_02438",
@@ -1797,7 +1797,7 @@
    "ガラ"
   ],
   "jp": "オレも一発ぐらい入れとくかな……{n}スカッドボンバァーッ！",
-  "en": ""
+  "en": "Guess I'll get a shot in too... Scud{n}Bomberrr!"
  },
  {
   "id": "s0342_02474",
@@ -1821,7 +1821,7 @@
    "アビゲイル"
   ],
   "jp": "ああああああああ――",
-  "en": ""
+  "en": "Aaaaaaaaah--"
  },
  {
   "id": "s0342_0248c",
@@ -1845,7 +1845,7 @@
    "アビゲイル"
   ],
   "jp": "アンガスの正体は、Ｄ・Ｓ四天王の{n}ひとり暗黒僧アビゲイルであった。{page}一行を驚かせるのがアンガスを装った{n}主たる理由であったようだが、変装{n}にはそれ以外にも、もうひとつの{n}理由があった。",
-  "en": ""
+  "en": "Angus's true identity was the Dark Priest{n}Abigail, one of D.S.'s Divine Kings.{page}Startling the party seemed to be his main{n}reason for posing as Angus, but the{n}disguise had another reason as well."
  },
  {
   "id": "s0342_02544",
@@ -1869,7 +1869,7 @@
    "アビゲイル"
   ],
   "jp": "敵――アビゲイルは虚神と呼んだが{n}――は、Ｄ・Ｓの最も信頼できる仲間{n}である四天王を重点的に洗脳し、手駒{n}として利用する戦略を採っていた。",
-  "en": ""
+  "en": "The enemy-- whom Abigail called the{n}Hollow Gods-- had a strategy of{n}brainwashing above all the Divine Kings,{n}D.S.'s most trusted comrades, and using{n}them as pawns."
  },
  {
   "id": "s0342_025d0",
@@ -1893,7 +1893,7 @@
    "アビゲイル"
   ],
   "jp": "それは彼に対しても例外ではなく、{n}アビゲイルもすんでのところで敵方に{n}取り込まれそうになったのだった。{page}これに抗するため、彼は咄嗟に己の{n}人格を封印し、アンガスの殻を被って{n}精神を絡め取る魔力の触手から逃れた{n}のである。",
-  "en": ""
+  "en": "He was no exception, and Abigail himself{n}had come within a hair of being taken into{n}the enemy's camp.{page}To resist this, he had at once sealed away{n}his own character and put on the shell of{n}Angus, and so escaped the tentacles of{n}magic that ensnare the mind."
  },
  {
   "id": "s0342_026a8",
@@ -1917,7 +1917,7 @@
    "ガラ"
   ],
   "jp": "これで四天王は、カルを除いて全員{n}揃ったってワケか",
-  "en": ""
+  "en": "So that means we got all the Divine Kings{n}together now, except for Kall."
  },
  {
   "id": "s0342_026dc",
@@ -1941,7 +1941,7 @@
    "ネイ"
   ],
   "jp": "すると……暗黒僧の正体は一体誰なの{n}だろう？",
-  "en": ""
+  "en": "Then... who could the Dark Priest be?"
  },
  {
   "id": "s0342_0270c",
@@ -1965,7 +1965,7 @@
    "アビゲイル"
   ],
   "jp": "カルとは思えませんからね……それに、{n}敵はかつての四天王ガインまで引っぱ{n}り出してきています。あの仮面の下は、{n}この私にも推測不能です",
-  "en": ""
+  "en": "It hardly seems to be Kall... And the enemy{n}has even dragged out Gain, once of the{n}Divine Kings. What lies under that mask, even{n}I cannot guess."
  },
  {
   "id": "s0342_02794",
@@ -1989,7 +1989,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "ケッ。テメーはいつだって推測不能じゃ{n}ねーか。毎度毎度「迂闊でした。私と{n}したことが」とか抜かしゃあがって！",
-  "en": ""
+  "en": "Tch. Nobody could ever guess you either.{n}Every damn time you go, \"How careless. How{n}unlike me!\""
  },
  {
   "id": "s0342_02800",
@@ -2013,7 +2013,7 @@
    "アビゲイル"
   ],
   "jp": "う……諫言耳が痛いですな",
-  "en": ""
+  "en": "Ugh... Sound advice stings the ear, as they{n}say."
  },
  {
   "id": "s0342_0281c",
@@ -2037,7 +2037,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "とにかくあの野郎の正体は、品のねえ{n}骨頭をひん剥いてみれば判るこった。{n}奴の放つ妖気はもう近い……いくぜ！{n}ヤロウども！",
-  "en": ""
+  "en": "Anyway, we'll know who that guy is when we{n}rip off his tacky bonehead. His demonic air's{n}close now... Let's go! You guys!"
  },
  {
   "id": "s0342_03100",
@@ -2061,6 +2061,6 @@
    "ガラ"
   ],
   "jp": "どうやら閉じ込められちまったみたい{n}だぜ",
-  "en": ""
+  "en": "Looks like we got ourselves locked in."
  }
 ]

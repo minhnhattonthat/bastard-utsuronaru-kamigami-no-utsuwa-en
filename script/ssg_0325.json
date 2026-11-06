@@ -21,7 +21,7 @@
    ""
   ],
   "jp": "一面、鉱物質の壁に覆われたトンネル{n}であった。滲み出してくる液体が、{n}淡く光る壁にぬめりを与えている。",
-  "en": ""
+  "en": "It was a tunnel covered entirely with{n}walls of mineral. Liquid seeping out gave{n}the faintly glowing walls a slimy sheen."
  },
  {
   "id": "s0325_00880",
@@ -45,7 +45,7 @@
    "ガラ"
   ],
   "jp": "まぁた薄っ気味悪いトコロだな",
-  "en": ""
+  "en": "Another creepy place, huh."
  },
  {
   "id": "s0325_008a0",
@@ -69,7 +69,7 @@
    "マカパイン"
   ],
   "jp": "溶解雨よりはいい。あんな雨を浴びて{n}いては、私の妖斬糸まで錆びついて{n}しまう。結構手入れが大変なのだぞ",
-  "en": ""
+  "en": "Better than the dissolving rain. Under such{n}rain even my demon-slash wire would rust.{n}It is quite a chore to maintain, you know."
  },
  {
   "id": "s0325_00908",
@@ -93,7 +93,7 @@
    "ロス"
   ],
   "jp": "今の湿地に比べればマシでしょーが。{n}アゴの割れ目までびしょ濡れだわよ、{n}マッタク！",
-  "en": ""
+  "en": "It beats that marsh, for sure! I'm soaked{n}right down to the cleft in my chin,{n}honestly!"
  },
  {
   "id": "s0325_0095c",
@@ -117,7 +117,7 @@
    "ロス"
   ],
   "jp": "薄暗がりに、白く蠢く小さなものが{n}見えた。それは人型に切られた紙片で{n}あり、壁の水気に張り付いて、微かな{n}風に煽られている。",
-  "en": ""
+  "en": "In the gloom, something small and white{n}stirred. It was a slip of paper cut in{n}human form, stuck to the wet wall and{n}fluttering in a faint breeze."
  },
  {
   "id": "s0325_009d8",
@@ -141,7 +141,7 @@
    "ラン"
   ],
   "jp": "これは……シーンの呪符！",
-  "en": ""
+  "en": "This is... one of Sean's talismans!"
  },
  {
   "id": "s0325_009f4",
@@ -165,7 +165,7 @@
    "ネイ"
   ],
   "jp": "うむ。水を吸ってサインが消え、魔力{n}が霧散してしまっているが、間違い{n}なくシーンの放った式神だろう",
-  "en": ""
+  "en": "Yes. It has soaked up water, its sign is gone{n}and its magic has dispersed, but this is{n}surely a spirit servant cast by Sean."
  },
  {
   "id": "s0325_00a58",
@@ -189,7 +189,7 @@
    "カイ"
   ],
   "jp": "すると、この近くにシーンが――？",
-  "en": ""
+  "en": "Then Sean is somewhere close--?"
  },
  {
   "id": "s0325_00a7c",
@@ -213,7 +213,7 @@
    "ネイ"
   ],
   "jp": "呪符自体はさして傷んでおらん。{n}そう考えていいだろう――",
-  "en": ""
+  "en": "The talisman itself is hardly damaged. I think{n}we may assume so--"
  },
  {
   "id": "s0325_00ab8",
@@ -237,7 +237,7 @@
    "ラン"
   ],
   "jp": "シーン……すぐに見つけだしてやるぞ！",
-  "en": ""
+  "en": "Sean... I will find you soon!"
  },
  {
   "id": "s0325_00c14",
@@ -261,7 +261,7 @@
    "シーン"
   ],
   "jp": "みんな！　兄さんも――！",
-  "en": ""
+  "en": "Everyone! Brother too--!"
  },
  {
   "id": "s0325_00c30",
@@ -285,7 +285,7 @@
    "ラン"
   ],
   "jp": "シーン！　やはりこの洞窟にいたか！",
-  "en": ""
+  "en": "Sean! So you were in this cave!"
  },
  {
   "id": "s0325_00c54",
@@ -309,7 +309,7 @@
    "シーン"
   ],
   "jp": "式神を使ってみんなを探していたんだ{n}けど……でも、代わりにいいものを{n}見つけたわ。ほら――",
-  "en": ""
+  "en": "I was using spirit servants to look for you{n}all... but I found something good instead.{n}Here--"
  },
  {
   "id": "s0325_00cb0",
@@ -333,7 +333,7 @@
    "ラン"
   ],
   "jp": "それは――！",
-  "en": ""
+  "en": "That is--!"
  },
  {
   "id": "s0325_00cc0",
@@ -357,7 +357,7 @@
    "ラン"
   ],
   "jp": "シーンが差し出したのは、細い鋼を{n}幾条も編み込んで作られた長い鞭で{n}あった。決して切断されず、革の如く{n}弾性に富んだその鞭は、内側に熱を{n}宿しているかに淡く輝いていた。",
-  "en": ""
+  "en": "What Sean held out was a long whip{n}woven of many strands of thin steel.{n}Uncuttable, supple as leather, the whip{n}glowed faintly as if it held heat within."
  },
  {
   "id": "s0325_00d68",
@@ -381,7 +381,7 @@
    "ラン"
   ],
   "jp": "俺の……炎の鞭！",
-  "en": ""
+  "en": "My... Flame Whip!"
  },
  {
   "id": "s0325_00d7c",
@@ -405,7 +405,7 @@
    "シーン"
   ],
   "jp": "これがなくちゃ、兄さんの実戦剣法も{n}威力半減でしょ？",
-  "en": ""
+  "en": "Without this, your battle swordsmanship is{n}only half as strong, brother, isn't it?"
  },
  {
   "id": "s0325_00db4",
@@ -429,7 +429,7 @@
    "ラン"
   ],
   "jp": "ありがたい！　これでやっと奥義が{n}完成する……恩に着るぞ、シーン！",
-  "en": ""
+  "en": "Thank you! Now at last my secret technique{n}is complete... I owe you, Sean!"
  },
  {
   "id": "s0325_00df8",
@@ -453,7 +453,7 @@
    "シーン"
   ],
   "jp": "わたしも自分の棍が見つかったしね。{n}でもほんと、合流できて良かった……",
-  "en": ""
+  "en": "I found my own staff too. But really, I'm so{n}glad we found each other..."
  },
  {
   "id": "s0325_00f9c",
@@ -477,7 +477,7 @@
    "ラン"
   ],
   "jp": "シーン……どこにいるのだ？　俺には{n}もう、会えぬような気がしてならん",
-  "en": ""
+  "en": "Sean... Where are you? I cannot shake the{n}feeling that I will never see you again."
  },
  {
   "id": "s0325_01050",
@@ -501,6 +501,6 @@
    "Ｄ・Ｓ"
   ],
   "jp": "後戻りしてる時間はねえ",
-  "en": ""
+  "en": "No time to backtrack."
  }
 ]

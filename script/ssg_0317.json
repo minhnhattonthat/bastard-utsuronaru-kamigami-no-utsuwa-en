@@ -1921,7 +1921,7 @@
    ""
   ],
   "jp": "地面に、巨大な角を持つ獣の頭骨が{n}転がっている。",
-  "en": ""
+  "en": "On the ground lay the skull of a beast{n}with enormous horns."
  },
  {
   "id": "s0317_028d4",
@@ -1945,7 +1945,7 @@
    "ガラ"
   ],
   "jp": "牛の骨か、ありゃ？",
-  "en": ""
+  "en": "That a cow skull over there?"
  },
  {
   "id": "s0317_028e8",
@@ -1969,7 +1969,7 @@
    "ネイ"
   ],
   "jp": "こんなところにそんなモノがいるか。{n}魔族か何かの頭蓋骨だと思うが――",
-  "en": ""
+  "en": "What would such a thing be doing in a place{n}like this? I would say it is the skull of some{n}demon, but--"
  },
  {
   "id": "s0317_02930",
@@ -1993,7 +1993,7 @@
    "ネイ"
   ],
   "jp": "その刹那、骨はふわりと床から{n}浮き上がった。",
-  "en": ""
+  "en": "In that instant, the bone floated softly{n}up from the floor."
  },
  {
   "id": "s0317_02960",
@@ -2017,7 +2017,7 @@
    "ガラ"
   ],
   "jp": "わわわっ!?",
-  "en": ""
+  "en": "Wh-wh-whoa!?"
  },
  {
   "id": "s0317_0296c",
@@ -2041,7 +2041,7 @@
    "ネイ"
   ],
   "jp": "むっ！　……人、か？",
-  "en": ""
+  "en": "Hm! ...A man?"
  },
  {
   "id": "s0317_02984",
@@ -2065,7 +2065,7 @@
    "ネイ"
   ],
   "jp": "浮いたのではなかった。頭骨の下には、{n}黒い法衣にすっぽりと包まれた身体が{n}あった。あたかも実体のない者の如く、{n}骨の仮面を被った怪人は岩盤を透過{n}してそこに現れたのであった。",
-  "en": ""
+  "en": "It had not floated. Beneath the skull was{n}a body swathed entirely in a black{n}vestment. As though it had no substance{n}at all, the masked figure of bone had{n}appeared there by passing through the{n}bedrock."
  },
  {
   "id": "s0317_02a30",
@@ -2089,7 +2089,7 @@
    "ネイ"
   ],
   "jp": "何者かっ！",
-  "en": ""
+  "en": "Who goes there!"
  },
  {
   "id": "s0317_02a3c",
@@ -2113,7 +2113,7 @@
    "暗黒僧"
   ],
   "jp": "ふ、ふ、ふ……",
-  "en": ""
+  "en": "Heh, heh, heh..."
  },
  {
   "id": "s0317_02a4c",
@@ -2137,7 +2137,7 @@
    "暗黒僧"
   ],
   "jp": "仮面に遮られてくぐもっただけでは{n}ない、機械的に操作したような、{n}掠れた声が虚ろに響いた。",
-  "en": ""
+  "en": "It was not merely muffled by the mask. A{n}hoarse voice, as if worked by machinery,{n}echoed hollowly."
  },
  {
   "id": "s0317_02aa8",
@@ -2161,7 +2161,7 @@
    "暗黒僧"
   ],
   "jp": "私の名は、そう……暗黒僧とでも{n}呼んでもらおう。この汚染された地で、{n}お前たちの最期を看取る僧侶だ――",
-  "en": ""
+  "en": "My name... yes, you may call me the Dark{n}Priest. I am the priest who shall see you to{n}your ends in this polluted land--"
  },
  {
   "id": "s0317_02b10",
@@ -2185,7 +2185,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "けっ……縁起でもねえ。どうせテメエ{n}も得体の知れねえ神とやらに操られて{n}やがんだろうが。そのけったいな骨頭{n}を外しやがれ！",
-  "en": ""
+  "en": "Tch... Ain't that a cheery thought. You're{n}just another puppet of some creepy god, I{n}bet. Take off that stupid bonehead of{n}yours!"
  },
  {
   "id": "s0317_02b8c",
@@ -2209,7 +2209,7 @@
    "暗黒僧"
   ],
   "jp": "常人ならとうに死んでいて不思議の{n}ない呪詛を受けながら、よくもそれ{n}だけ活力を残しているものだ。{n}さすがは魔人Ｄ・Ｓ――",
-  "en": ""
+  "en": "Under a curse that should have killed an{n}ordinary man long ago, you have kept so{n}much vigor. Truly the fiend D.S.--"
  },
  {
   "id": "s0317_02c04",
@@ -2233,7 +2233,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "テメエか!?　この俺様に呪いなんぞを{n}かけやがったのは？",
-  "en": ""
+  "en": "It was you!? You're the one who put a curse{n}on the great me?"
  },
  {
   "id": "s0317_02c3c",
@@ -2257,7 +2257,7 @@
    "暗黒僧"
   ],
   "jp": "ふ、ふ……呪詛のひとつを破られる{n}とは思わなんだがな――",
-  "en": ""
+  "en": "Heh, heh... I did not expect one of my curses{n}to be broken--"
  },
  {
   "id": "s0317_02c78",
@@ -2281,7 +2281,7 @@
    "暗黒僧"
   ],
   "jp": "ここから先は私がお相手しよう。やが{n}て、お前たちは何も信じられなくなる。{n}――人間とは滅ぶべき罪深きものだと、{n}その目で確かめるがいい……",
-  "en": ""
+  "en": "From here on, I shall be your opponent. In{n}time you will be unable to believe in{n}anything. --See with your own eyes that{n}humans are sinful creatures, fit only to{page}perish..."
  },
  {
   "id": "s0317_02d04",
@@ -2305,7 +2305,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "テメエ、待ちやがれ――！",
-  "en": ""
+  "en": "You bastard, get back here--!"
  },
  {
   "id": "s0317_02d20",
@@ -2329,7 +2329,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "乾いた笑い声を残し、暗黒僧と名乗る{n}怪人は洞窟の奥の闇に、溶けるように{n}消えていった。",
-  "en": ""
+  "en": "Leaving a dry laugh behind him, the{n}strange figure who called himself the{n}Dark Priest melted away into the darkness{n}at the back of the cave."
  },
  {
   "id": "s0317_02d78",
@@ -2353,7 +2353,7 @@
    "ネイ"
   ],
   "jp": "あれは、記憶から消された我々の仲間{n}なのだろうか――",
-  "en": ""
+  "en": "Could that be one of our comrades, erased{n}from our memories--"
  },
  {
   "id": "s0317_02db0",
@@ -2377,7 +2377,7 @@
    "ガラ"
   ],
   "jp": "直々に相手するってコトは、この先にゃ{n}じっくりと練った罠を用意してあるん{n}だろーぜ",
-  "en": ""
+  "en": "If he's gonna deal with us personally, I bet{n}he's got a nice, slow-cooked trap laid out up{n}ahead."
  },
  {
   "id": "s0317_02e04",
@@ -2401,7 +2401,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "構うかよ！　奴をとっ捕まえて、俺に{n}呪詛なんかかけやがったコトを死ぬ{n}ほど後悔させてやるぜ！　うぐっ！{n}こりゃあ、早くしねえとヤバイか……",
-  "en": ""
+  "en": "Who cares! I'll grab that guy and make him{n}sorry to death he ever put a curse on me!{n}Ugh! Damn, better hurry or I'm in trouble..."
  },
  {
   "id": "s0317_030cc",
@@ -2425,7 +2425,7 @@
    "ガラ"
   ],
   "jp": "館の崩壊に巻き込まれっちまうぞ！",
-  "en": ""
+  "en": "We'll get caught in the mansion's collapse!"
  },
  {
   "id": "s0317_03130",
@@ -2449,6 +2449,6 @@
    "Ｄ・Ｓ"
   ],
   "jp": "こっちじゃねえな",
-  "en": ""
+  "en": "Not this way."
  }
 ]

@@ -21,7 +21,7 @@
    ""
   ],
   "jp": "そこは再び、巨大な地底空洞であった。{page}だが、この地には足下から這い上って{n}くる熱気と、鼻を衝く硫黄の臭気が{n}充満している。天を覆うドームは、{n}大地から噴き上がる溶岩の炎を映して{n}赤く染まっていた。",
-  "en": ""
+  "en": "It was another vast underground{n}hollow.{page}But here heat crept up from underfoot,{n}and the place was thick with the{n}nose-stinging stench of sulfur. The dome{n}above was dyed red by the flames of lava{n}spurting from the earth."
  },
  {
   "id": "s0329_008dc",
@@ -45,7 +45,7 @@
    "ガラ"
   ],
   "jp": "今度は火山地帯かよ。まっ、濡れた{n}カラダを乾かすにゃーちょうどいー{n}ケドな",
-  "en": ""
+  "en": "Volcano country this time, huh. Well, it's just{n}right for drying off."
  },
  {
   "id": "s0329_00928",
@@ -69,7 +69,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "心臓が、疼きやがる……呪詛の源は、{n}近いぜ……",
-  "en": ""
+  "en": "My heart's throbbing, damn it... The source{n}of the curse is close..."
  },
  {
   "id": "s0329_00958",
@@ -93,7 +93,7 @@
    "ネイ"
   ],
   "jp": "ダーシュ！　急がないと……",
-  "en": ""
+  "en": "Dahsh! We have to hurry..."
  },
  {
   "id": "s0329_00a10",
@@ -117,7 +117,7 @@
    ""
   ],
   "jp": "鮮血を思わせる真っ赤な地下水が、{n}一行の立つ渚を洗っていた。血の色を{n}たたえたこの地底湖が、火山地帯を{n}島状にぐるりと囲んでいるようだった。",
-  "en": ""
+  "en": "Red underground water, like fresh blood,{n}washed the shore where the party stood.{n}This blood-colored underground lake{n}seemed to ring the volcanic land like an{n}island."
  },
  {
   "id": "s0329_00a9c",
@@ -141,7 +141,7 @@
    "ヴァイ"
   ],
   "jp": "うへえ……ホントに血みたいだぜ？",
-  "en": ""
+  "en": "Yuck... It really does look like blood,{n}y'know?"
  },
  {
   "id": "s0329_00ac0",
@@ -165,7 +165,7 @@
    "ザック"
   ],
   "jp": "うん。何かドロっとしてるもんな",
-  "en": ""
+  "en": "Yeah. It's kinda gloopy too."
  },
  {
   "id": "s0329_00ae0",
@@ -189,7 +189,7 @@
    "マカパイン"
   ],
   "jp": "湖底からそういった色素成分が湧出{n}しているのだろうが――",
-  "en": ""
+  "en": "No doubt some such pigment is welling up{n}from the lake bed--"
  },
  {
   "id": "s0329_00b1c",
@@ -213,7 +213,7 @@
    "ダイ"
   ],
   "jp": "チョット飲んでみていいデスカー？",
-  "en": ""
+  "en": "May I just drink a liiittle?"
  },
  {
   "id": "s0329_00b40",
@@ -237,7 +237,7 @@
    "ネイ"
   ],
   "jp": "ダイ！　拾い食いはおやめっ！",
-  "en": ""
+  "en": "Di! Stop eating things off the ground!"
  },
  {
   "id": "s0329_00b60",
@@ -261,7 +261,7 @@
    "カイ"
   ],
   "jp": "そーそー。ネイ様のしつけは、そりゃ{n}厳しかったものさ",
-  "en": ""
+  "en": "Yep, yep. Nei-sama's upbringing was strict,{n}all right."
  },
  {
   "id": "s0329_00b98",
@@ -285,7 +285,7 @@
    "カイ"
   ],
   "jp": "青白い肌をした青年が、血の池地獄に{n}かがみ込んでいる。その男は、長く{n}渦を巻いたストローを渚に突っ込んで、{n}血のような湖水をチュウチュウと{n}吸っていた。",
-  "en": ""
+  "en": "A pale-skinned young man crouched at{n}this blood-pool hell. He had thrust a long,{n}spiraling straw into the shore, and was{n}sucking up the bloodlike lake water with a{n}slurp."
  },
  {
   "id": "s0329_00c30",
@@ -309,7 +309,7 @@
    "ダイ"
   ],
   "jp": "まろやかーなノドごしですねぇ。渇き{n}きった五臓六腑に染み渡るよーです。{n}おお……きたきたきたァ！　失った{n}パワーが漲ってきましたよぉぅ！",
-  "en": ""
+  "en": "Such a smooth, mellow finish. It soaks right{n}into my parched innards. Oooh... here it{n}comes, here it comes! My lost power is{n}surging back!"
  },
  {
   "id": "s0329_00cb8",
@@ -333,7 +333,7 @@
    "ラン"
   ],
   "jp": "あれは――!?",
-  "en": ""
+  "en": "That is--!?"
  },
  {
   "id": "s0329_00cc8",
@@ -357,7 +357,7 @@
    "カイ"
   ],
   "jp": "ダイ！",
-  "en": ""
+  "en": "Di!"
  },
  {
   "id": "s0329_00cd0",
@@ -381,7 +381,7 @@
    "カイ"
   ],
   "jp": "恐らくは蝙蝠の形態で虹に入り込み、{n}この地底までやってきたのだろう。{n}その青年は、かつて妖魔たちに魔力を{n}搾り取られ、みじめに下働きをさせら{n}れていた貧弱な美形の吸血鬼ダイで{n}あった。",
-  "en": ""
+  "en": "He had likely entered the rainbow in bat{n}form, and so reached this underground.{n}The young man was Di, the frail and{n}pretty vampire whose magic the demons{n}had once wrung out, and whom they had{n}made a wretched drudge."
  },
  {
   "id": "s0329_00d88",
@@ -405,7 +405,7 @@
    "ダイ"
   ],
   "jp": "おや？　そこにおられるのは鬼道衆の{n}同志――おお、ネイ様もいらっしゃる{n}――それに、私をさんざんいたぶって{n}くれたＤ・Ｓではありませんか",
-  "en": ""
+  "en": "Well? If it is not my comrades of the Kido{n}Corps-- Oh, and Nei-sama as well-- And is{n}that not D.S., who tormented me so?"
  },
  {
   "id": "s0329_00e10",
@@ -429,7 +429,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "そーだっけ？　うっ……不整脈……",
-  "en": ""
+  "en": "Did I? Ugh... Heart's skipping..."
  },
  {
   "id": "s0329_00e34",
@@ -453,7 +453,7 @@
    "ダイ"
   ],
   "jp": "おやおや。ずいぶんと調子が悪そうだ。{n}これは好都合、私の復讐の時が来たと{n}いうコトですかねえぇぇェェ？",
-  "en": ""
+  "en": "Well, well. You seem in very poor shape. How{n}convenient. It would seem the hour of my{n}revenge has come, wouldn't it nowwww?"
  },
  {
   "id": "s0329_00e9c",
@@ -477,7 +477,7 @@
    "ネイ"
   ],
   "jp": "ダーシュに復讐ですって？　ダイ、{n}もういっぺん言ってごらん！",
-  "en": ""
+  "en": "Revenge on Dahsh, you say? Di, say that{n}once more!"
  },
  {
   "id": "s0329_00edc",
@@ -501,7 +501,7 @@
    "ダイ"
   ],
   "jp": "ヒィッ！　……お、脅かしたってダメ{n}ですよネイ様。私はね、もはや母代わ{n}りの貴女すら超えた魔力を身につけた{n}のです！　人間以上、エルフ以上のね！",
-  "en": ""
+  "en": "Eek! ...Y-you cannot frighten me, Nei-sama.{n}For I have now gained magic that surpasses{n}even you, who were as a mother to me!{n}Greater than a human's, greater than an{page}elf's!"
  },
  {
   "id": "s0329_00f6c",
@@ -525,7 +525,7 @@
    "ダイ"
   ],
   "jp": "みーなぎるゥ！　パーワフリャァーッ！",
-  "en": ""
+  "en": "Sur-ging! Pow-er-ful-yaaah!"
  },
  {
   "id": "s0329_00f94",
@@ -549,7 +549,7 @@
    "ダイ"
   ],
   "jp": "雄叫びとともに、天蓋を仰いだダイの{n}喉から赤い水蒸気が噴き上がる。{page}それは霧となってダイの貧弱な肢体に{n}纏わりつき、白い肌に染み込んでいく。{n}内と外から魔力の源を吸収し、その{n}肉体は急激な変化をきたし始めた。",
-  "en": ""
+  "en": "With a war cry, red steam spurted from{n}the throat of Di, who gazed up at the{n}canopy.{page}It became a mist, clung to his frail limbs{n}and soaked into his white skin. Absorbing{n}the source of magic from inside and out,{n}his body began to change violently."
  },
  {
   "id": "s0329_01064",
@@ -573,7 +573,7 @@
    "ダイ"
   ],
   "jp": "肌の薄皮が弾け、剥き出しとなった{n}筋肉繊維が凄まじい速度で紡がれて{n}いく。骨格すらも変化し、身長は見る{n}間に１メートル近くも伸び上がる。{n}それを筋肉の束が何重にも包み込み、{n}新たな肌が瞬時に全身を覆い尽くす。{n}魔力によってもたらされた質量の変化{n}は優に三倍を越えていた。",
-  "en": ""
+  "en": "The thin film of his skin burst, and the{n}bared muscle fibers were spun at a{n}fearsome rate. Even his skeleton changed;{n}in moments he stood nearly a meter{n}taller. Bundle upon bundle of muscle{n}wrapped around it, and new skin at once{n}covered his whole body. The change in{n}mass brought on by the magic was a{page}good three times over."
  },
  {
   "id": "s0329_01170",
@@ -597,7 +597,7 @@
    "ダイ"
   ],
   "jp": "おおおおお――っ！　今ここに、究極{n}の美が復活ゥ！　私を崇めよ！　私は{n}今、世界で一番美しいぃぃぃ！",
-  "en": ""
+  "en": "Ooooooh--! Now, here, ultimate beauty is{n}reborn! Worship me! I am now the most{n}beautiful in the wooooorld!"
  },
  {
   "id": "s0329_011d4",
@@ -621,7 +621,7 @@
    "ダイ"
   ],
   "jp": "そこに誕生したのは、呪術的効果を{n}生む奇怪な刺青に顔面を彩られた、{n}見るもおぞましい筋肉質の巨漢吸血鬼{n}であった。",
-  "en": ""
+  "en": "What was born there was a hideous{n}musclebound giant of a vampire, his face{n}painted with weird tattoos that worked{n}curses."
  },
  {
   "id": "s0329_01248",
@@ -645,7 +645,7 @@
    "ダイ"
   ],
   "jp": "先刻までのはかなげな面影は全く消え{n}去り、闇の眷属特有の邪悪な魔力が{n}全身から放射されている。頭部の骨格{n}も根底から変形し、美形であった容貌{n}は今や暑苦しい大顔面と化していた。{n}赤い地下水が、あたかも乙女の血潮の{n}如き効果を吸血鬼に与えたようだった。",
-  "en": ""
+  "en": "All trace of his former frailty was gone,{n}and the evil magic peculiar to the kin of{n}darkness radiated from his whole body. His{n}very skull had changed from the base,{n}and his once pretty looks were now a{n}huge, stifling face. The red underground{n}water seemed to have worked on the{n}vampire like the blood of maidens."
  },
  {
   "id": "s0329_01340",
@@ -669,7 +669,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "み、醜い……とんでもないバカにしか{n}見えねー……",
-  "en": ""
+  "en": "H-hideous... He just looks like a total{n}moron..."
  },
  {
   "id": "s0329_01374",
@@ -693,7 +693,7 @@
    "ネイ"
   ],
   "jp": "鬼道衆の母として恥ずかしい限りだわ{n}……",
-  "en": ""
+  "en": "As mother of the Kido Corps, I am{n}mortified..."
  },
  {
   "id": "s0329_013a0",
@@ -717,7 +717,7 @@
    "ダイ"
   ],
   "jp": "いきますよおぅ！　復讐の焔が私を{n}より美しく彩るゥ――！",
-  "en": ""
+  "en": "Here I gooo! The flames of revenge paint me{n}yet more beautifully--!"
  },
  {
   "id": "s0329_013dc",
@@ -909,7 +909,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "ち……クソッ、心臓がヤられてるって{n}時に余計な運動させやがって……いー{n}だろ、可愛い娘に免じて青爪邪核呪詛{n}だきゃあカンベンしてやらあ――",
-  "en": ""
+  "en": "Tch... Damn it, making me work extra when{n}my heart's shot... Fine, for my sweet{n}daughter's sake I'll spare you the Blue Nail{n}Evil Core Curse, at least--"
  },
  {
   "id": "s0329_0165c",
@@ -1029,7 +1029,7 @@
    ""
   ],
   "jp": "火口へと続く山道の途中で、不安げに{n}立ち竦むシェラの姿があった。",
-  "en": ""
+  "en": "Partway up the mountain path to the{n}crater, Shella stood rooted, uneasy."
  },
  {
   "id": "s0329_01bbc",
@@ -1053,7 +1053,7 @@
    "イングヴェイイングヴェイ・フォン・マルムステ"
   ],
   "jp": "シェラ！",
-  "en": ""
+  "en": "Shella!"
  },
  {
   "id": "s0329_01bc8",
@@ -1077,7 +1077,7 @@
    "シェラ"
   ],
   "jp": "おお、みんな――会えて良かった……",
-  "en": ""
+  "en": "Oh, all of you-- It is good to meet you..."
  },
  {
   "id": "s0329_01bec",
@@ -1101,7 +1101,7 @@
    "マカパイン"
   ],
   "jp": "どうしたのだ？　酷く憂えた貌をして{n}いるが――？",
-  "en": ""
+  "en": "What is the matter? Your face is terribly{n}troubled--?"
  },
  {
   "id": "s0329_01c20",
@@ -1125,7 +1125,7 @@
    "シェラ"
   ],
   "jp": "……声が聞こえた。この火山島の山頂{n}から、龍の声が――。だが、それは{n}これまでのものとは全く違った……",
-  "en": ""
+  "en": "...I heard a voice. From the peak of this{n}volcanic island, a dragon's voice--. But it{n}was wholly unlike those before..."
  },
  {
   "id": "s0329_01c88",
@@ -1149,7 +1149,7 @@
    "シェラ"
   ],
   "jp": "破壊し、貪ろうとする、ただひたすら{n}凶暴に吠え猛る声……あれが龍のもの{n}であるなら、その龍は――",
-  "en": ""
+  "en": "It would destroy, it would devour; only a{n}voice roaring in savagery... If that belongs{n}to a dragon, then that dragon--"
  },
  {
   "id": "s0329_01ce8",
@@ -1173,7 +1173,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "暗黒僧が言い残した、黒い龍か……？",
-  "en": ""
+  "en": "The black dragon the Dark Priest talked{n}about...?"
  },
  {
   "id": "s0329_01d0c",
@@ -1197,7 +1197,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "その時、山の頂から凄まじい咆哮が{n}轟いた。大地が揺るぎ、まるで噴火が{n}始まるかの如き震動が断続的に一行を{n}襲う。",
-  "en": ""
+  "en": "Then a fearsome roar thundered from the{n}top of the mountain. The earth shook, and{n}a tremor like the start of an eruption{n}struck the party again and again."
  },
  {
   "id": "s0329_01d7c",
@@ -1221,7 +1221,7 @@
    "シェラ"
   ],
   "jp": "何という叫び……“死”を与える悦び{n}を謳っているのか!?",
-  "en": ""
+  "en": "What a cry... Does it sing of the joy of giving{n}\"death\"!?"
  },
  {
   "id": "s0329_01db4",
@@ -1245,7 +1245,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "こいつぁ、万全な体調でお相手したい{n}化け物らしいな。だが、そうも言って{n}られねえ。いよいよ心臓が保ちそうに{n}ねえぜ……",
-  "en": ""
+  "en": "Sounds like a monster I'd rather take on in{n}top shape. But I can't be picky. My heart{n}ain't gonna last much longer..."
  },
  {
   "id": "s0329_01f7c",
@@ -1269,7 +1269,7 @@
    ""
   ],
   "jp": "山の頂には、巨大な噴火口が赤い顎を{n}開いていた。真っ赤に燃えるマグマが{n}渦を巻き、時折火口の縁まで炎を{n}噴き上げてくる。",
-  "en": ""
+  "en": "At the top of the mountain, a huge crater{n}opened its red jaws. Blazing magma{n}swirled, and now and then spat flames up{n}to the rim."
  },
  {
   "id": "s0329_01ff4",
@@ -1293,7 +1293,7 @@
    ""
   ],
   "jp": "そこに、龍はいた。",
-  "en": ""
+  "en": "There was the dragon."
  },
  {
   "id": "s0329_02008",
@@ -1317,7 +1317,7 @@
    ""
   ],
   "jp": "漆黒の巨体を溶岩に沈め、闇色の龍は{n}無機質に輝く双眸でＤ・Ｓを見上げた。{n}その姿は地獄の業火の中に棲む悪魔の{n}王の如くで、見る者に悪夢の光景を{n}想起させる恐怖の波動を纏っている。",
-  "en": ""
+  "en": "Its jet-black bulk sunk in the lava, the{n}darkness-colored dragon looked up at D.S.{n}with eyes of inorganic gleam. It was like a{n}king of devils dwelling in the fires of hell,{n}and it wore a wave of terror that{n}brought scenes of nightmare to the mind{n}of any who saw it."
  },
  {
   "id": "s0329_020b8",
@@ -1341,7 +1341,7 @@
    ""
   ],
   "jp": "黒き龍は火口からゆっくりと身を起こ{n}した。その眼はＤ・Ｓと並び、やがて{n}遥か頭上より見下ろす高さにまで昇っ{n}てゆく。マグマに隠されていたのは、{n}想像を越える長大な巨躯であった。",
-  "en": ""
+  "en": "The black dragon slowly raised itself from{n}the crater. Its eyes drew level with D.S.'s,{n}then climbed until they looked down from{n}far overhead. What the magma had hidden{n}was a huge length of body beyond{n}imagining."
  },
  {
   "id": "s0329_02168",
@@ -1365,7 +1365,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "――確かにこれまでの龍じゃねえ。{n}こいつは敵……俺の生命を貪り喰う{n}邪龍だ――",
-  "en": ""
+  "en": "--This ain't like the other dragons, all right.{n}This one's an enemy... an evil dragon that's{n}chewing up my life--"
  },
  {
   "id": "s0329_021b8",
@@ -1389,7 +1389,7 @@
    "ガラ"
   ],
   "jp": "くるぜ！",
-  "en": ""
+  "en": "Here it comes!"
  },
  {
   "id": "s0329_021c4",
@@ -1413,7 +1413,7 @@
    "ガラ"
   ],
   "jp": "大気を震わす絶叫を残し、漆黒の龍は{n}その巨大な頭部を火口の縁に引っかけ{n}た状態で絶命した。",
-  "en": ""
+  "en": "Leaving a scream that shook the air, the{n}jet-black dragon died with its huge head{n}hung over the rim of the crater."
  },
  {
   "id": "s0329_02220",
@@ -1437,7 +1437,7 @@
    "ガラ"
   ],
   "jp": "黒い鱗が溶け始め、その下にある黒い{n}肉も凄まじい速さで分解し始める。{n}それは以前、黒い館にはびこっていた{n}肉腫と全く同種のものであった。",
-  "en": ""
+  "en": "The black scales began to melt, and the{n}black flesh beneath began to break down{n}at a fearsome speed. It was the very{n}same stuff as the tumors that had{n}overrun the black mansion."
  },
  {
   "id": "s0329_022a8",
@@ -1461,7 +1461,7 @@
    "ガラ"
   ],
   "jp": "ものの数十秒で、巨体は原型を止めぬ{n}ほどに溶け崩れた。黄ばんだ骨格が{n}露出し、やがて自重を支えきれなく{n}なった屍は頭部だけを残して頸骨から{n}千切れ、溶岩流に飲み込まれていった。",
-  "en": ""
+  "en": "In mere tens of seconds, the bulk melted{n}beyond all recognition. A yellowed{n}skeleton lay bare, and at last the corpse,{n}unable to bear its own weight, tore at{n}the neck bone, leaving only the head, and{n}was swallowed by the flow of lava."
  },
  {
   "id": "s0329_02358",
@@ -1485,7 +1485,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "……！　心臓が――",
-  "en": ""
+  "en": "...! My heart--"
  },
  {
   "id": "s0329_0236c",
@@ -1509,7 +1509,7 @@
    "ネイ"
   ],
   "jp": "ダーシュ!?　まさか、限界に――！",
-  "en": ""
+  "en": "Dahsh!? Don't tell me you have reached your{n}limit--!"
  },
  {
   "id": "s0329_02390",
@@ -1533,7 +1533,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "……いや、アーシェス、もう心配いら{n}ねーぜ。たった今、呪詛が消えた――",
-  "en": ""
+  "en": "...Nah, Arshes, you can quit worrying. The{n}curse just went away--"
  },
  {
   "id": "s0329_023d8",
@@ -1557,7 +1557,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "クックック……さあ、哀れに怯え狂っ{n}ていた手下どもよ！　この超絶美形{n}Ｄ・Ｓ様の完全復活を祝え！",
-  "en": ""
+  "en": "Heh heh heh... Now, my pitiful, terror-crazed{n}lackeys! Celebrate the full recovery of the{n}super-gorgeous D.S.-sama!"
  },
  {
   "id": "s0329_02438",
@@ -1581,7 +1581,7 @@
    "ガラ"
   ],
   "jp": "まーた始まりやがった。誰がオメー{n}みたいな虚弱魔導師の手下なんだよ！",
-  "en": ""
+  "en": "There he goes again. Who's a lackey of a{n}sickly mage like you!"
  },
  {
   "id": "s0329_02480",
@@ -1605,7 +1605,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "んだとぉ？　虚弱たあ上等じゃねーか！{n}久々に勝負してやっかぁ？",
-  "en": ""
+  "en": "What was that? Sickly, huh? Now you've{n}done it! Wanna go a round, for old times'{n}sake?"
  },
  {
   "id": "s0329_024c0",
@@ -1629,7 +1629,7 @@
    "ガラ"
   ],
   "jp": "この野郎、ここまでさんざメーワク{n}かけやがったクセに！　元気になった{n}途端にコレかよ！",
-  "en": ""
+  "en": "You bastard, after all the trouble you've{n}given us! The second you feel better, you{n}pull this!"
  },
  {
   "id": "s0329_02518",
@@ -1653,7 +1653,7 @@
    "ネイ"
   ],
   "jp": "そこがステキ……",
-  "en": ""
+  "en": "That is what is so wonderful..."
  },
  {
   "id": "s0329_0252c",
@@ -1677,7 +1677,7 @@
    "ガラ"
   ],
   "jp": "そー思うのはオメエだけだっつーの",
-  "en": ""
+  "en": "Like I said, you're the only one who thinks{n}so."
  },
  {
   "id": "s0329_02550",
@@ -1701,7 +1701,7 @@
    "ヴァイ"
   ],
   "jp": "おいＤ・Ｓ……ヨーコの玉だけど、{n}まだ様子がおかしいぜ？",
-  "en": ""
+  "en": "Hey, D.S.... Yoko's orb still looks kinda off,{n}y'know?"
  },
  {
   "id": "s0329_0258c",
@@ -1749,7 +1749,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "Ｄ・Ｓの肉体を蝕む呪詛は解かれた。{page}だが、ヨーコ玉は変わらず、その表面{n}をくすませたまま力なく震えている。{n}ヨーコ自身を苛んでいるのは、Ｄ・Ｓ{n}のものとは別の呪詛であるらしかった。",
-  "en": ""
+  "en": "The curse that ate at D.S.'s body had{n}been lifted.{page}But the Yoko orb was as it had been, its{n}surface dull, trembling feebly. What{n}tormented Yoko herself was, it seemed, a{n}curse separate from D.S.'s."
  },
  {
   "id": "s0329_02648",
@@ -1773,7 +1773,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "くそっ、一難去ってまだ、か……。{n}のんびりしちゃいられねえ！{n}山の反対側に降りるぜ！",
-  "en": ""
+  "en": "Damn, out of the frying pan and into the{n}fire, huh... We can't take it easy! We're going{n}down the other side of the mountain!"
  },
  {
   "id": "s0329_0269c",
@@ -1797,7 +1797,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "待ってろよヨーコさん……呪いなんざ{n}すぐに解呪してやるからな！",
-  "en": ""
+  "en": "Wait for me, Yoko-san... I'll break that curse{n}for you in no time!"
  },
  {
   "id": "s0329_026dc",
@@ -1821,7 +1821,7 @@
    "シェラ"
   ],
   "jp": "……黒き龍は、肉腫で造られた贋の{n}龍だった――ならばこの地に、真の{n}龍は存在しないのか……？　強い力の{n}うねりは感じられるのに――",
-  "en": ""
+  "en": "...The black dragon was a false dragon, made{n}of tumors-- Then is there no true dragon in{n}this land...? Though I can feel the surge of a{n}mighty power--"
  },
  {
   "id": "s0329_02760",
@@ -1845,7 +1845,7 @@
    "シェラ"
   ],
   "jp": "火口に残された龍の頭蓋の中に、肉腫{n}に取り込まれていたのか、腕に装着{n}すると思われる奇妙なアクセサリーが{n}転がっていた。",
-  "en": ""
+  "en": "Inside the dragon's skull, left behind in{n}the crater, lay an odd accessory{n}apparently made to be worn on the arm.{n}Perhaps the tumors had absorbed it."
  },
  {
   "id": "s0329_027d8",
@@ -1869,7 +1869,7 @@
    "ガラ"
   ],
   "jp": "何だコリャ？",
-  "en": ""
+  "en": "What the hell's this?"
  },
  {
   "id": "s0329_027e8",
@@ -1893,7 +1893,7 @@
    "ネイ"
   ],
   "jp": "何かの増幅器のようね。拾っといて",
-  "en": ""
+  "en": "It looks like some sort of amplifier. Go pick it{n}up."
  },
  {
   "id": "s0329_0280c",
@@ -1917,7 +1917,7 @@
    "ガラ"
   ],
   "jp": "えーっ？　オレがあの口の中に入んの？{n}あ、急に腹痛が……",
-  "en": ""
+  "en": "Whaaat? I gotta go inside that mouth? Oh,{n}my stomach just started to hurt..."
  },
  {
   "id": "s0329_02848",
@@ -1941,7 +1941,7 @@
    "ネイ"
   ],
   "jp": "急ぐわよ！　ホラ、早く！",
-  "en": ""
+  "en": "We are in a hurry! Come on, quickly!"
  },
  {
   "id": "s0329_02864",
@@ -1965,7 +1965,7 @@
    "ガラ"
   ],
   "jp": "へーい……トホホ、この世界にゃ手下{n}の忍者はいねーし、天下のニンジャ{n}マスターが使いっぱしりとは……{n}男って、ツライねえ",
-  "en": ""
+  "en": "Yeah, yeah... Boo hoo, no ninja lackeys in this{n}world, and the great Ninja Master's stuck{n}running errands... Being a man sure is{n}rough."
  },
  {
   "id": "s0329_028dc",
@@ -1989,7 +1989,7 @@
    "ネイ"
   ],
   "jp": "ブツブツ言わない！",
-  "en": ""
+  "en": "No grumbling!"
  },
  {
   "id": "s0329_028f0",
@@ -2013,7 +2013,7 @@
    "ガラ"
   ],
   "jp": "はうっ！　骨に噛まれたぁ！",
-  "en": ""
+  "en": "Yeow! The bone bit me!"
  },
  {
   "id": "s0329_02cd0",
@@ -2037,7 +2037,7 @@
    ""
   ],
   "jp": "見つけにくい脇道を経た火山の中腹に、{n}地下へと誘う入口がひっそりと開いて{n}いた。",
-  "en": ""
+  "en": "Off a hard-to-find side path, halfway up{n}the volcano, an entrance leading{n}underground quietly opened."
  },
  {
   "id": "s0329_02d20",
@@ -2061,7 +2061,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "誰かが最近足を踏み入れた形跡が{n}あるな……",
-  "en": ""
+  "en": "Looks like someone's been in here lately..."
  },
  {
   "id": "s0329_02d4c",
@@ -2085,7 +2085,7 @@
    "ヴァイ"
   ],
   "jp": "探ってみる？　はぐれた仲間がいる{n}かも知れないぜ",
-  "en": ""
+  "en": "Wanna look around? Some of our lost{n}friends might be in there, y'know."
  },
  {
   "id": "s0329_02d80",
@@ -2133,7 +2133,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "感じるぜ……俺の中にいる二匹の神が{n}呼応して吠えてやがる。そうかよ……{n}ここにいやがるのかよ",
-  "en": ""
+  "en": "I can feel it... The two gods inside me are{n}howling back. Is that so... So it's in here,{n}huh."
  },
  {
   "id": "s0329_02e14",
@@ -2157,7 +2157,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "以前迷い込んだ、太古の邪神を祀った{n}神殿と同質のものだな。と、すると、{n}ここにも何かいやがるってコトだ",
-  "en": ""
+  "en": "It's the same kinda thing as that temple to{n}an ancient evil god we wandered into{n}before. Which means there's something here{n}too."
  },
  {
   "id": "s0329_02e7c",
@@ -2181,7 +2181,7 @@
    "ヴァイ"
   ],
   "jp": "そういや、まだイダとはぐれたまんま{n}だな。またこーゆートコに迷い込んで{n}るんじゃねーの？",
-  "en": ""
+  "en": "Come to think of it, we still haven't found{n}Ida. Bet he wandered into one of these{n}places again."
  },
  {
   "id": "s0329_03044",
@@ -2205,7 +2205,7 @@
    ""
   ],
   "jp": "麓の終端にある洞窟の中に、別の火口{n}が開いていた。他にこの火山から{n}通じている場所はなさそうであった。",
-  "en": ""
+  "en": "In a cave at the end of the foothills,{n}another crater opened. Nothing else{n}seemed to lead out of this volcano."
  },
  {
   "id": "s0329_030ac",
@@ -2229,7 +2229,7 @@
    "ガラ"
   ],
   "jp": "行き止まりになっちまったな",
-  "en": ""
+  "en": "Well, that's a dead end."
  },
  {
   "id": "s0329_030c8",
@@ -2253,7 +2253,7 @@
    "ネイ"
   ],
   "jp": "他に道はなさそうだが……まさかこの{n}火口に飛び込むわけにもいかないしな",
-  "en": ""
+  "en": "There seems to be no other road... but we{n}can hardly jump into this crater."
  },
  {
   "id": "s0329_03110",
@@ -2277,7 +2277,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "いや……ここしかねえぜアーシェス",
-  "en": ""
+  "en": "Nope... This is the only way, Arshes."
  },
  {
   "id": "s0329_03134",
@@ -2301,7 +2301,7 @@
    "ネイ"
   ],
   "jp": "ダーシュ？",
-  "en": ""
+  "en": "Dahsh?"
  },
  {
   "id": "s0329_03140",
@@ -2325,7 +2325,7 @@
    "ネイ"
   ],
   "jp": "黒き龍を滅ぼしてから、Ｄ・Ｓの知能{n}――洞察力や、直感めいた思考力は、{n}急激に上昇しつつあった。これまでの{n}龍の解放に伴う変化に似てはいたが、{n}根本の部分でそれは正反対の現象で{n}あった。",
-  "en": ""
+  "en": "Since destroying the black dragon, D.S.'s{n}intelligence-- his insight, his intuitive{n}reasoning-- had been rising sharply. It{n}resembled the changes that came with{n}freeing the dragons so far, but at root it{n}was the opposite phenomenon."
  },
  {
   "id": "s0329_031f8",
@@ -2349,7 +2349,7 @@
    "ネイ"
   ],
   "jp": "地龍や翼龍、そして水龍のエネルギー{n}は、Ｄ・Ｓを細胞レベルで活性化させ{n}る共振を引き起こした。しかし、今回{n}はむしろ、Ｄ・Ｓの身体機能を阻害{n}する病巣が消えたことにより、本来の{n}能力を取り戻したと言うべき変化で{n}あった。",
-  "en": ""
+  "en": "The energy of the Earth Dragon, the{n}wyvern and the Water Dragon had set off{n}a resonance that stirred D.S. at the level{n}of his cells. This time, however, the{n}change was better described as regaining{n}his proper abilities, now that the seat of{n}the disease hindering his body was gone."
  },
  {
   "id": "s0329_032d0",
@@ -2373,7 +2373,7 @@
    "ネイ"
   ],
   "jp": "その、解放されて昂った思考力が、{n}Ｄ・Ｓにある推論を導かせた。",
-  "en": ""
+  "en": "That reasoning power, freed and{n}heightened, led D.S. to a certain theory."
  },
  {
   "id": "s0329_03310",
@@ -2397,7 +2397,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "おぼろげだが、龍の正体が掴めたよう{n}な気がするぜ……この世界の、謎もな{n}――",
-  "en": ""
+  "en": "It's hazy, but I think I've got a grip on what{n}the dragons really are... And the mystery of{n}this world too--"
  },
  {
   "id": "s0329_0335c",
@@ -2421,7 +2421,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "少なくとも、この火口が暗黒僧の隠れ{n}てやがる本拠地への、唯一の侵入口{n}だってこたあ間違いねえ。ここを降りるぜ！",
-  "en": ""
+  "en": "At least there's no doubt this crater's the{n}only way into the base where the Dark{n}Priest is hiding. We're going down!"
  },
  {
   "id": "s0329_033cc",
@@ -2445,7 +2445,7 @@
    "ヴァイ"
   ],
   "jp": "いいー？　無茶だろ、そんな――",
-  "en": ""
+  "en": "Whaaat? No way, you can't--"
  },
  {
   "id": "s0329_033ec",
@@ -2469,7 +2469,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "今の俺に不可能はねーぜ。抑え込まれ{n}ていた炎の力が漲ってきやがる……{n}俺様は人呼んで爆炎の征服者！{n}たかが溶岩流の熱で阻めやしねえ！",
-  "en": ""
+  "en": "Nothing's impossible for me now. The flame{n}power that was held down is surging back...{n}The great me, known as the Conqueror of{n}Explosive Flame! No puny lava heat's{page}gonna stop me!"
  },
  {
   "id": "s0329_03470",
@@ -2493,7 +2493,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "じゃっ！",
-  "en": ""
+  "en": "Hah!"
  },
  {
   "id": "s0329_0347c",
@@ -2517,7 +2517,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "気合い一閃、放出された魔力の帯が、{n}溶岩を割って火口の底を露出させる。{page}そこに、地底へ続くと思しき通路が{n}現れた。魔力が連続して放たれ、渦を{n}巻く溶岩を固定する不可視の障壁と{n}なる。",
-  "en": ""
+  "en": "With a flash of will, a band of released{n}magic split the lava and bared the bottom{n}of the crater.{page}There appeared what seemed a passage{n}leading underground. Magic was released{n}over and over, and became an invisible{n}barrier holding back the swirling lava."
  },
  {
   "id": "s0329_03530",
@@ -2541,7 +2541,7 @@
    "ヴァイ"
   ],
   "jp": "ほえー、凄え……",
-  "en": ""
+  "en": "Whoa, that's insane..."
  },
  {
   "id": "s0329_03544",
@@ -2565,7 +2565,7 @@
    "ネイ"
   ],
   "jp": "ダーシュの魔力が増してきてるわ……{n}これもみんな、あの娘の――ヨーコの、{n}ため……？",
-  "en": ""
+  "en": "Dahsh's magic is growing... Is all this for that{n}girl-- for Yoko...?"
  },
  {
   "id": "s0329_03598",
@@ -2589,7 +2589,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "さあ、今のうちに行くぜ！　遅れっと{n}閉じたマグマに燃やされちまうぞ――",
-  "en": ""
+  "en": "All right, let's go while we can! Lag behind{n}and you'll burn when the magma closes--"
  },
  {
   "id": "s0329_035e0",
@@ -2637,6 +2637,6 @@
    "ラン"
   ],
   "jp": "戻るより、先へ行こう！",
-  "en": ""
+  "en": "Let us go on rather than back!"
  }
 ]

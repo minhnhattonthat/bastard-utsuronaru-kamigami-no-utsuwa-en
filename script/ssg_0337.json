@@ -21,7 +21,7 @@
    ""
   ],
   "jp": "火口から導かれたのは、葉脈めいた{n}紋様の浮き出た壁に囲まれた地中の{n}通路であった。",
-  "en": ""
+  "en": "What the crater led to was an{n}underground passage, walled by leaf-vein{n}patterns standing out on its sides."
  },
  {
   "id": "s0337_0086c",
@@ -45,7 +45,7 @@
    "イングヴェイイングヴェイ・フォン・マルムステ"
   ],
   "jp": "ここは……溶岩は流れ込んでこない{n}のか？",
-  "en": ""
+  "en": "This place... Does the lava not flow in{n}here?"
  },
  {
   "id": "s0337_00898",
@@ -69,7 +69,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "ここはな、血路だ。これまでとは違う{n}流れのルートになってるからな。空気{n}と食い物が別々に、肺と胃に収まるの{n}と似た理由だ……ちと違うがよ",
-  "en": ""
+  "en": "This is a blood vessel. It runs on a different{n}route from before. Same reason air and{n}food go separately to your lungs and{n}stomach... More or less."
  },
  {
   "id": "s0337_00920",
@@ -93,7 +93,7 @@
    "イングヴェイイングヴェイ・フォン・マルムステ"
   ],
   "jp": "血路？　Ｄ・Ｓ！　この世界について{n}記憶でも蘇ったのか？",
-  "en": ""
+  "en": "A blood vessel? D.S.! Have you recovered{n}some memory of this world?"
  },
  {
   "id": "s0337_0095c",
@@ -117,7 +117,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "記憶にあったワケじゃねえが、何と{n}なく成り立ちを掴んだ気がする。{n}俺の考えが正しければ、この道は{n}心臓の呪詛の源に行き着くハズだ",
-  "en": ""
+  "en": "Not from my memory, but I think I've kinda{n}got how it's built. If I'm right, this road{n}should end at the source of the heart{n}curse."
  },
  {
   "id": "s0337_009dc",
@@ -141,7 +141,7 @@
    "ネイ"
   ],
   "jp": "ダーシュの心臓は、もう良くなったん{n}じゃないの？",
-  "en": ""
+  "en": "Is your heart not better now, Dahsh?"
  },
  {
   "id": "s0337_00a10",
@@ -165,7 +165,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "ああ。だがそいつは、あの贋の龍を{n}斃して俺とのリンクを断ったに過ぎ{n}ねえ。黒い龍は、本来の龍の存在を{n}書き換えるためにいやがったんだ……",
-  "en": ""
+  "en": "Yeah. But all that did was cut that fake{n}dragon's link to me by killing it. The black{n}dragon was there to overwrite the real{n}dragon..."
  },
  {
   "id": "s0337_00a98",
@@ -189,7 +189,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "今もヨーコさんを苦しめてる心臓の{n}呪詛はまだ健在だ。そいつが施されて{n}いるのは、文字通りこの世界の心臓部{n}――",
-  "en": ""
+  "en": "The heart curse still hurting Yoko-san is{n}alive and well. And what it's been laid on is,{n}quite literally, the heart of this world--"
  },
  {
   "id": "s0337_00b08",
@@ -213,7 +213,7 @@
    "ヴァイ"
   ],
   "jp": "さっぱり判らねえよう",
-  "en": ""
+  "en": "I don't get it at all."
  },
  {
   "id": "s0337_00b20",
@@ -237,7 +237,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "頭のワリいテメーらが理解できるよう{n}に説明するにゃあ、もう少し時間が{n}必要だ。とにかく今は急いで、{n}呪詛の源を潰さなきゃならねえ",
-  "en": ""
+  "en": "To explain it so dimwits like you can get it,{n}I'd need a little more time. Anyway, right{n}now we gotta hurry and crush the source{n}of the curse."
  },
  {
   "id": "s0337_00ba0",
@@ -261,7 +261,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "突如、凄まじい殺気が接近してきた。{page}血路の先、からではない。それはここ{n}とは違う空間から、急速に迫りつつ{n}あった。",
-  "en": ""
+  "en": "Suddenly, a fearsome killing intent drew{n}near.{page}Not from ahead along the blood vessel. It{n}closed in fast, from a space other than{n}this one."
  },
  {
   "id": "s0337_00c14",
@@ -285,7 +285,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "この気配は――！",
-  "en": ""
+  "en": "This presence--!"
  },
  {
   "id": "s0337_00c28",
@@ -309,7 +309,7 @@
    "サイクス"
   ],
   "jp": "くうっ！",
-  "en": ""
+  "en": "Kuh!"
  },
  {
   "id": "s0337_00c34",
@@ -333,7 +333,7 @@
    "サイクス"
   ],
   "jp": "唐突に空間が破れ、サイクスが転がり{n}出てきた。即座に修復された次元の{n}壁の向こうから、魂を凍てつかせる{n}おぞましい咆哮が洞窟に響き渡る。",
-  "en": ""
+  "en": "Space abruptly tore, and Sykes came{n}rolling out. From beyond the dimensional{n}wall, mended at once, a horrible howl{n}that froze the soul rang through the{n}cave."
  },
  {
   "id": "s0337_00cbc",
@@ -381,7 +381,7 @@
    "サイクス"
   ],
   "jp": "駄目だ……もう振り切れない。奴は、{n}あの猟犬は、進化している――",
-  "en": ""
+  "en": "It is no use... I can no longer shake it off.{n}That thing, that hound, is evolving--"
  },
  {
   "id": "s0337_00d0c",
@@ -405,7 +405,7 @@
    "サイクス"
   ],
   "jp": "サイクスが出現した、今はもうただの{n}虚空となった空間に、みしり、と何か{n}の圧力が生じた。見えない次元の壁が{n}じりじりと押し開かれ、こちら側に{n}飛び出してこようとするものの透明な{n}影が浮かび上がる。サイクスを追い{n}続けた獰猛な妖獣が、遂にこの世界{n}へと実体化しようとしていた。",
-  "en": ""
+  "en": "In the space where Sykes had appeared,{n}now only empty air, a creaking pressure{n}arose. The unseen dimensional wall was{n}forced slowly open, and the transparent{n}shadow of something about to leap{n}through to this side stood out. The savage{n}beast that had hunted Sykes all this while{n}was at last taking solid form in this{page}world."
  },
  {
   "id": "s0337_00e1c",
@@ -429,7 +429,7 @@
    "サイクス"
   ],
   "jp": "済まない……巻き込むつもりはなかっ{n}たのだが、もはや亜空間に留まれる{n}能力の限界に来た……君たちだけでも{n}早くこの場を――そ、それは!?",
-  "en": ""
+  "en": "Forgive me... I never meant to drag you in,{n}but I have reached the limit of my ability to{n}stay in subspace... You at least must leave{n}here quickly-- Wh-what is that!?"
  },
  {
   "id": "s0337_00ea4",
@@ -453,7 +453,7 @@
    "サイクス"
   ],
   "jp": "サイクスの目はガラの腰にぶら下げら{n}れた、黒龍から入手したアクセサリー{n}に釘付けとなった。",
-  "en": ""
+  "en": "Sykes's eyes were riveted to the{n}accessory hanging from Gara's waist, the{n}one taken from the black dragon."
  },
  {
   "id": "s0337_00f00",
@@ -477,7 +477,7 @@
    "サイクス"
   ],
   "jp": "それは私の次元刀ブースター！　あれ{n}ほど探し回ったと言うのに……いや、{n}それどころではない！　早くそれを{n}私に！　それさえあれば――",
-  "en": ""
+  "en": "That is my Dimension Booster! After all my{n}searching... No, this is no time for that!{n}Quickly, give it to me! With that--"
  },
  {
   "id": "s0337_00f84",
@@ -501,7 +501,7 @@
    "ガラ"
   ],
   "jp": "お？　おう、これね",
-  "en": ""
+  "en": "Huh? Oh, right, this."
  },
  {
   "id": "s0337_00f98",
@@ -549,7 +549,7 @@
    "サイクス"
   ],
   "jp": "まさか本当に見つけだしてくれるとは{n}――礼を言うぞ！　これで奴と決着を{n}つけることができる！　力を、貸して{n}もらえるか？",
-  "en": ""
+  "en": "To think you would really find it-- I thank{n}you! Now I can settle with that creature!{n}Will you lend me your strength?"
  },
  {
   "id": "s0337_01050",
@@ -573,7 +573,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "乗りかかった船だ。チョロチョロと{n}こうるさいワンコロとやらを、{n}蹴散らしてやろーじゃねえか！",
-  "en": ""
+  "en": "We're in this far already. Let's go kick this{n}yappy little doggie around, what do you{n}say!"
  },
  {
   "id": "s0337_010ac",
@@ -597,7 +597,7 @@
    "ヴァイ"
   ],
   "jp": "あの透明な影……犬どころじゃないん{n}ですけど……",
-  "en": ""
+  "en": "That see-through shadow... is way more than{n}a dog, though..."
  },
  {
   "id": "s0337_010e0",
@@ -621,7 +621,7 @@
    "サイクス"
   ],
   "jp": "現れるぞ！",
-  "en": ""
+  "en": "Here it comes!"
  },
  {
   "id": "s0337_010ec",
@@ -765,7 +765,7 @@
    "サイクス"
   ],
   "jp": "封殺完了。諸君の奮闘を感謝する",
-  "en": ""
+  "en": "Sealing complete. My thanks for your{n}efforts, gentlemen."
  },
  {
   "id": "s0337_01324",
@@ -789,7 +789,7 @@
    "ヴァイ"
   ],
   "jp": "とんでもねえ化け物だったな",
-  "en": ""
+  "en": "That was one crazy monster."
  },
  {
   "id": "s0337_01340",
@@ -813,7 +813,7 @@
    "イングヴェイイングヴェイ・フォン・マルムステ"
   ],
   "jp": "あんなものに追われていたのか……{n}苦労したな、サイクス",
-  "en": ""
+  "en": "So that is what you were being hunted by...{n}You have had a hard time of it, Sykes."
  },
  {
   "id": "s0337_01378",
@@ -837,7 +837,7 @@
    "サイクス"
   ],
   "jp": "フ……卿らに比べれば、私はただ逃げ{n}回っていただけさ。だがもう、異次元{n}に跳躍することはできん。ここからは{n}一緒に行動し、ともに闘うとしよう",
-  "en": ""
+  "en": "Heh... Beside you gentlemen, I was merely{n}running. But I can no longer leap to other{n}dimensions. From here on, let us travel and{n}fight together."
  },
  {
   "id": "s0337_017f8",
@@ -861,6 +861,6 @@
    "Ｄ・Ｓ"
   ],
   "jp": "溶岩は閉じちまった。もう後戻りは{n}できねえぜ",
-  "en": ""
+  "en": "The lava's closed up. There's no going back{n}now."
  }
 ]
