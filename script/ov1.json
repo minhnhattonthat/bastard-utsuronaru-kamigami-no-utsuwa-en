@@ -4042,7 +4042,7 @@
    "ov1:d:48294"
   ],
   "jp": "[03]%sは、{n}仲間になりたそうに向こうを見ている{page}",
-  "en": "[03]%s looks your way, wanting{n}to join you.{page}"
+  "en": "[03]%s gazes at the other{n}side, wanting to join them.{page}"
  },
  {
   "id": "ov1_04570",
@@ -4054,7 +4054,7 @@
    "ov1:d:48298"
   ],
   "jp": "[03]%sは、{n}自決しようとしている！{page}",
-  "en": "[03]%s is about to kill{n}himself!{page}"
+  "en": "[03]%s is about to commit{n}suicide!{page}"
  },
  {
   "id": "ov1_04590",
@@ -4102,7 +4102,7 @@
    "ov1:d:482a8"
   ],
   "jp": "[03]%sは、{n}腹をかかえて爆笑している{page}",
-  "en": "[03]%s is clutching at the{n}belly, roaring with laughter.{page}"
+  "en": "[03]%s is doubled over, roaring{n}with laughter.{page}"
  },
  {
   "id": "ov1_0461c",
@@ -5656,7 +5656,7 @@
    "ov1:d:48548"
   ],
   "jp": "[02]しかし%sは、{n}己に喝を入れた{page}",
-  "en": "[02]But %s shouted himself{n}back to his senses.{page}"
+  "en": "[02]But %s gave a bracing{n}shout.{page}"
  },
  {
   "id": "ov1_05528",
@@ -6882,7 +6882,7 @@
    "ov1:d:487c4"
   ],
   "jp": "[02]%sは、{n}眼を覚ました{page}",
-  "en": "[02]%s opened both eyes.{page}"
+  "en": "[02]%s woke up.{page}"
  },
  {
   "id": "ov1_060ec",

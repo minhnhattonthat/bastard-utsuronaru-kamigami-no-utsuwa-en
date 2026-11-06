@@ -137,3 +137,19 @@ Minor style notes from the review pass, for one polish pass before release. Phas
 - [ ] ov1_01a6c - 身ごなしが軽やかに flat: "%s's movements grew light."
 - [ ] ov1_01e34 - 無造作に is offhand, not careless: "Offhandedly, fists flew again and again."
 - [ ] ov1_01e58 - のしかからせて awkward: "It bore down with all its weight and clawed over and over!"
+- [ ] ov1_02c58 - "swirling hugely" awkward: "%s's roar set the lake surface churning!"
+- [ ] ov1_038a0 - "blew up hugely with a thought" awkward: "A brand carved in scars exploded at a thought!"
+- [ ] ov1_04b68 - まわりこまれた reads oddly as "got around you": "But the enemy cut you off!"
+- [ ] ov1_057b4 - fragment: "Smiling at an unexpected delicacy!?"
+- [ ] ov1_06188 - "the last of all willpower" dodges a pronoun: "%s's last willpower was spent."
+- [ ] ov1_06c48 - "Contempt is a gap" stiff: "Contempt leaves an opening... give your all!"
+- [ ] ov1_06ea0 - 獅子 proverb lost: "A lion never holds back... no slacking."
+- [ ] ov1_071f0 - Di's drawn-out ましょおうぉぅ flattened: "Behold the power of a true vampiiire!"
+- [ ] ov1_0725c - Di's やっちゃいますよぉ flat: "Frail, so frail! I shall finish youuu!"
+- [ ] ov4_02078 - "the slow gap" awkward: "closed the gap with Kai that had been so slow to narrow."
+- [ ] ov4_02460 - "Never again, in reality." cryptic: "In reality, the tragedy will not repeat."
+- [ ] ov4_03ef0 - 敬愛 is reverence, "beloved" reads romantic: "his revered Kall".
+- [ ] t0386_03e86 - 月食のマント drops the item type for width: `Lunar Eclipse` (17 bytes: "Eclipse Cloak" is taken by 日蝕).
+- [ ] t0388_00486 - 胡蝶 is butterflies, not moths: `Talisman: Flutter` fits 17 bytes.
+- [ ] t0594_00a4c, t0594_019b8 - ジン here is the monster, not Jin the ghost: "Jinn x4", "Jinn x2+Hateful Gia" (encounter labels).
+- [ ] t0697_00d40, t0604_01494 - オージー read as "Orgy": source unclear (ogre-kin?), check the sprite in phase 8.
