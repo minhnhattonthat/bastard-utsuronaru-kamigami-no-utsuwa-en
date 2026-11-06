@@ -48,3 +48,8 @@ Minor style notes from the review pass, for one polish pass before release. Phas
 - [ ] s0170_0369c - ビューテホー loses Di's mangled English: "Ugh... My beeyootiful nail, all blue like this..."
 - [ ] s0170_03b50 - よほど酷い目に is inference, not "whatever": "He must have suffered cruelly indeed, for Di ran off with monstrous speed quite unlike his bulk."
 - [ ] s0170_03dbc - やめるダスー hick slip flattened: "Stop it, I sez!"
+- [ ] s0174_00c80 - Vai says "ain't", D.S.'s marker; his row is "gonna", less crude: "In that case, isn't that woman hiding in the castle over there?"
+- [ ] s0181_017b8 - 騎士であーる drawn out, Blad's pomp flat: "A knight marches on even against the impossible, I saaay!"
+- [ ] s0187_01538 - 漂わせて "drifting with" odd: "Soon a giant form appeared there, beautiful, and giving off an evil scent of death."
+- [ ] s0191_05930 - Jorg gone suave, "you girls" stiff: "Thank you, girls. I feel my confidence welling up somehow."
+- [ ] s0191_020ec - Sheila's ですわね flat: "It seems to be saying you must not fill young people's heads with harmful things, I believe."
