@@ -154,6 +154,27 @@ def check_ssg(stem, rows, old, new, errs):
     # A moved string reuses a freed slot or the tail, so the slots are only checked against old bytes, not for what's there now.
     bad, _ = romdiff.check(old[:end], new[:end], allowed, [])
     errs += [f"{stem}: {x}" for x in bad]
+    for at in SIZE_WORDS:
+        if word(new, at) != word(old, at) + grow:
+            errs.append(f"{stem}: size word {at:#x} is {word(new, at):#x}, want {word(old, at) + grow:#x}")
+    # Every string pair left in the code is one the script file knows, and it leads into the file.
+    refs = {r for e in rows for r in e["refs"]}
+    for at in pairs(old, end):
+        if at not in refs:
+            errs.append(f"{stem}: string pair at {at:#x} is in no script row")
+        elif (word(new, at) & 0xFFFF) + insert.GP_OFF >= len(new):
+            errs.append(f"{stem}: pair at {at:#x} leads past the end")
+
+
+def pairs(d, end):
+    """File offsets of `ori $r,$zero,off` directly followed by `addu $r,$r,$gp` (docs/re/text.md)."""
+    ws = np.frombuffer(d, "<u4", (end - 0x18) // 4, 0x18)
+    out = []
+    for i in np.flatnonzero((ws[:-1] >> 21) == 0x1A0):  # ori rt,$zero,imm
+        r = int(ws[i] >> 16) & 31
+        if int(ws[i + 1]) == (r << 21 | 28 << 16 | r << 11 | 0x21):
+            out.append(0x18 + int(i) * 4)
+    return out
 
 
 def check_tbl(stem, rows, old, new, errs):
@@ -310,6 +331,10 @@ def verify(new_path):
     moved = check_abs(docs, old, new, errs)
     check_stale(moved, old, new, errs)
     check_hook_spans(exe0, errs)
+    hook = engine.assemble()[0]
+    at = engine.HOOK - EXE_BASE
+    if bytes(exe1[at:at + len(hook)]) != hook:
+        errs.append(f"hook and font in the EXE at {at:#x} differ from engine.assemble()")
     return errs
 
 

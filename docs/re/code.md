@@ -53,6 +53,8 @@ Real ending triggers: 5_06 event 1, 6_01 event 10.
 - Encounter 1: the three enemies' current HP sit at 0x801374B0, stride 0x1C0 (u32, 17 at the start). Setting them to 1 makes each die in one hit (`battle_win`). Other encounters not checked.
 - The cheat addresses in `README.md` (`8014E9C8`) look like the same structure family but weren't needed: unverified still.
 - HUD name for Vai is the Latin label `VIE`: check that against the glossary in phase 6.
+- Inventory, in the game state: item ids u16 at +0x3190 (newest first), counts u8 at +0x358E (same positions), size u16 at +0x378E. Found with `tools/debug/ramdiff.py` across `ev_1_09_0006`; poked by `warp.lua ITEMS`, and the list then shows them (`1/486`: 15 of the 501 items never list, not traced why).
+- Battle turn, from a `battle_party` state: first circle opens `Form` (up and down step through the formations), the next reaches `Move`, the next the command list.
 
 ## Flags (for when a scene needs story state)
 Flag objects: seq+0x16C and seq+0x18C, built from entries 8 and 9 (`fdb`); `+0` = storage. The debug viewer labels them `グローバルフラグ` and `システムフラグ` (which is which: **guess**, not traced). A flag id: bits 11+ byte offset, bits 8-10 bit position, bits 0-2 width − 1. Read 80039900, write 80039940. Scripts read seq+0x18C through stub offset 0x50 (80042DA4) and write it through 0x58 (80042DD0). `SETFLAGS` writes that same storage from Lua, verified: `ev_2_11_0005` shows no text without it and shows text with it.

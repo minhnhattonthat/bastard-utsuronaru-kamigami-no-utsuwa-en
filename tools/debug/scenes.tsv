@@ -13,7 +13,10 @@ camp_party	menu	MAP=0 POINT=p001 ENTRY_EVENT=3 MASTER=1	2200 -;6 circle;90 -;6 c
 camp_tactics_party	menu	MAP=0 POINT=p001 ENTRY_EVENT=3 MASTER=1	2200 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;10 start;200 -;6 down;60 -;6 circle;120 -;6 circle;300 -	10588	0	event
 camp_tactics_placed	menu	MAP=0 POINT=p001 ENTRY_EVENT=3 MASTER=1	2200 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;10 start;200 -;6 down;60 -;6 circle;300 -;6 circle;300 -;6 circle;300 -;6 cross;300 -;6 cross;300 -;6 cross;300 -	11992	0	event
 camp_item_list	menu	MAP=0 POINT=p001 ENTRY_EVENT=3 MASTER=1	2200 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;10 start;200 -;6 circle;120 -;6 down;60 -;6 circle;300 -	10588	0	event
+camp_items_all	menu	MAP=0 POINT=p001 ENTRY_EVENT=3 MASTER=1 ITEMS=501 ITEM_COUNT=5	2200 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;10 start;200 -;6 circle;120 -;6 down;60 -;6 circle;300 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -;6 down;24 -	25288	0	event
+camp_chars_all	menu	MAP=0 POINT=p001 ENTRY_EVENT=3 MASTER=1 ALLCHARS=1	2200 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;10 start;200 -;6 right;60 -;6 circle;200 -;6 right;90 -;6 right;90 -;6 right;90 -;6 right;90 -;6 right;90 -;6 right;90 -;6 right;90 -;6 right;90 -;6 right;90 -;6 right;90 -;6 right;90 -;6 right;90 -;6 right;90 -;6 right;90 -;6 right;90 -;6 right;90 -;6 right;90 -;6 right;90 -;6 right;90 -;6 right;90 -;6 right;90 -;6 right;90 -;6 right;90 -;6 right;90 -;6 right;90 -;6 right;90 -;6 right;90 -;6 right;90 -	13050	0	event
 battle_party	battle	MAP=0 POINT=p001 ENTRY_EVENT=3 MASTER=1 BATTLE=1 DEBUG_AT=11992	2200 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;10 start;200 -;6 down;60 -;6 circle;300 -;6 circle;300 -;6 circle;300 -;6 cross;300 -;6 cross;300 -;6 cross;300 -;20 select;10 select+square;900 -	12922	0	event
+battle_forms	battle	MAP=0 POINT=p001 ENTRY_EVENT=3 MASTER=1 BATTLE=1 DEBUG_AT=11992	2200 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;6 circle;90 -;10 start;200 -;6 down;60 -;6 circle;300 -;6 circle;300 -;6 circle;300 -;6 cross;300 -;6 cross;300 -;6 cross;300 -;20 select;10 select+square;930 -;6 circle;120 -;6 down;40 -;6 down;40 -;6 down;40 -;6 down;40 -;6 down;40 -;6 down;40 -;6 down;40 -;6 down;40 -;6 down;40 -;6 down;40 -;6 down;40 -;6 down;40 -;6 down;40 -;6 down;40 -;6 down;40 -;6 down;40 -;6 down;40 -;6 down;40 -;6 down;40 -;6 down;40 -;6 down;40 -;6 down;40 -;6 down;40 -;6 down;40 -;6 down;40 -;6 down;40 -;6 down;40 -;6 down;40 -;6 down;40 -;6 down;40 -;6 down;40 -;6 down;40 -;6 down;40 -;6 down;40 -;6 down;40 -	14688	0	event
 debug_flags	debug	MAP=1 POINT=p001	2200 -;20 select;10 select+r1;300 -	2530	0	map
 debug_stats	debug	MAP=1 POINT=p001	2200 -;20 select;10 select+l1;300 -	2530	0	map
 debug_map_select	debug	MAP=1 POINT=p001	2200 -;20 select;10 select+start;400 -	2630	0	none
@@ -31,6 +34,7 @@ map_1_01	map	MAP=0 POINT=p001 MASTER=1		2100	0	map
 ev_1_01_0003	event	MAP=0 POINT=p001 MASTER=1 EVENT=3 SETFLAGS=0x400:0	2200 -;10 start;10 -	4500	240	event
 ev_1_01_0004	event	MAP=0 POINT=p001 MASTER=1 EVENT=4	2200 -;10 start;10 -	4500	240	event
 ev_1_01_1000	event	MAP=0 POINT=p001 MASTER=1 EVENT=1000 SETFLAGS=0x2:0		4500	240	event
+sweep_1_01	sweep	MAP=0 POINT=p001 MASTER=1 EVENT=3 SWEEP=0010	2200 -;10 start;10 -	21740	30	event
 map_1_02	map	MAP=1 POINT=p001 MASTER=1		2100	0	map
 ev_1_02_0001	event	MAP=1 POINT=p001 MASTER=1 EVENT=1 SETFLAGS=0x1100:0	2200 -;10 start;10 -	4500	240	event
 ev_1_02_0002	event	MAP=1 POINT=p001 MASTER=1 EVENT=2 SETFLAGS=0x1200:0	2200 -;10 start;10 -	4500	240	event
@@ -41,6 +45,7 @@ ev_1_02_0006	event	MAP=1 POINT=p001 MASTER=1 EVENT=6 SETFLAGS=0xf01:0	2200 -;10 
 ev_1_02_0007	event	MAP=1 POINT=p001 MASTER=1 EVENT=7 SETFLAGS=0x1a01:0	2200 -;10 start;10 -	4500	240	event
 ev_1_02_0008	event	MAP=1 POINT=p001 MASTER=1 EVENT=8 SETFLAGS=0x1c00:0	2200 -;10 start;10 -	4500	240	event
 ev_1_02_0009	event	MAP=1 POINT=p001 MASTER=1 EVENT=9 SETFLAGS=0x1801:0	2200 -;10 start;10 -	4500	240	event
+sweep_1_02	sweep	MAP=1 POINT=p001 MASTER=1 EVENT=1 SWEEP=0014	2200 -;10 start;10 -	46700	30	event
 map_1_03	map	MAP=2 POINT=d001 MASTER=1		2100	0	map
 ev_1_03_0001	event	MAP=2 POINT=d001 MASTER=1 EVENT=1 SETFLAGS=0x2500:0	2200 -;10 start;10 -	4500	240	event
 ev_1_03_0003	event	MAP=2 POINT=d001 MASTER=1 EVENT=3	2200 -;10 start;10 -	4500	240	event
@@ -49,9 +54,11 @@ ev_1_03_0006	event	MAP=2 POINT=d001 MASTER=1 EVENT=6 SETFLAGS=0x2b00:0	2200 -;10
 ev_1_03_0007	event	MAP=2 POINT=d001 MASTER=1 EVENT=7	2200 -;10 start;10 -	4500	240	event
 ev_1_03_0008	event	MAP=2 POINT=d001 MASTER=1 EVENT=8 SETFLAGS=0x2e01:0	2200 -;10 start;10 -	4500	240	event
 ev_1_03_0009	event	MAP=2 POINT=d001 MASTER=1 EVENT=9 SETFLAGS=0x3000:0,0x2800:1,0x2900:0	2200 -;10 start;10 -	4500	240	event
+sweep_1_03	sweep	MAP=2 POINT=d001 MASTER=1 EVENT=1 SWEEP=0018	2200 -;10 start;10 -	19100	30	event
 map_1_03_1	map	MAP=3 POINT=d001 MASTER=1		2100	0	map
 ev_1_03_1_0001	event	MAP=3 POINT=d001 MASTER=1 EVENT=1 SETFLAGS=0x3900:0	2200 -;10 start;10 -	4500	240	event
 ev_1_03_1_0002	event	MAP=3 POINT=d001 MASTER=1 EVENT=2	2200 -;10 start;10 -	4500	240	event
+sweep_1_03_1	sweep	MAP=3 POINT=d001 MASTER=1 EVENT=1 SWEEP=0022	2200 -;10 start;10 -	13100	30	event
 map_1_04	map	MAP=4 POINT=c001 MASTER=1		2100	0	map
 ev_1_04_0001	event	MAP=4 POINT=c001 MASTER=1 EVENT=1 SETFLAGS=0x4600:0	2200 -;10 start;10 -	4500	240	event
 ev_1_04_0002	event	MAP=4 POINT=c001 MASTER=1 EVENT=2 SETFLAGS=0x4700:0,0x2c01:2,0x4801:1	2200 -;10 start;10 -	4500	240	event
@@ -63,6 +70,7 @@ ev_1_04_0007	event	MAP=4 POINT=c001 MASTER=1 EVENT=7	2200 -;10 start;10 -	4500	2
 ev_1_04_0008	event	MAP=4 POINT=c001 MASTER=1 EVENT=8	2200 -;10 start;10 -	4500	240	event
 ev_1_04_0009	event	MAP=4 POINT=c001 MASTER=1 EVENT=9	2200 -;10 start;10 -	4500	240	event
 ev_1_04_0010	event	MAP=4 POINT=c001 MASTER=1 EVENT=10 SETFLAGS=0x4801:0	2200 -;10 start;10 -	4500	240	event
+sweep_1_04	sweep	MAP=4 POINT=c001 MASTER=1 EVENT=1 SWEEP=0026	2200 -;10 start;10 -	8300	30	event
 map_1_05	map	MAP=5 POINT=d001 MASTER=1		2100	0	map
 ev_1_05_0001	event	MAP=5 POINT=d001 MASTER=1 EVENT=1 SETFLAGS=0x5800:0	2200 -;10 start;10 -	4500	240	event
 ev_1_05_0002	event	MAP=5 POINT=d001 MASTER=1 EVENT=2 SETFLAGS=0x5900:0	2200 -;10 start;10 -	4500	240	event
@@ -70,6 +78,7 @@ ev_1_05_0003	event	MAP=5 POINT=d001 MASTER=1 EVENT=3 SETFLAGS=0x5b01:0	2200 -;10
 ev_1_05_0004	event	MAP=5 POINT=d001 MASTER=1 EVENT=4	2200 -;10 start;10 -	4500	240	event
 ev_1_05_0005	event	MAP=5 POINT=d001 MASTER=1 EVENT=5 SETFLAGS=0x5a00:0	2200 -;10 start;10 -	4500	240	event
 ev_1_05_0006	event	MAP=5 POINT=d001 MASTER=1 EVENT=6	2200 -;10 start;10 -	4500	240	event
+sweep_1_05	sweep	MAP=5 POINT=d001 MASTER=1 EVENT=1 SWEEP=0030	2200 -;10 start;10 -	28460	30	event
 map_1_06	map	MAP=6 POINT=c001 MASTER=1		2100	0	map
 ev_1_06_0001	event	MAP=6 POINT=c001 MASTER=1 EVENT=1 SETFLAGS=0x6600:0	2200 -;10 start;10 -	4500	240	event
 ev_1_06_0002	event	MAP=6 POINT=c001 MASTER=1 EVENT=2 SETFLAGS=0x6700:0	2200 -;10 start;10 -	4500	240	event
@@ -94,6 +103,7 @@ ev_1_06_0020	event	MAP=6 POINT=c001 MASTER=1 EVENT=20	2200 -;10 start;10 -	4500	
 ev_1_06_0021	event	MAP=6 POINT=c001 MASTER=1 EVENT=21	2200 -;10 start;10 -	4500	240	event
 ev_1_06_0100	event	MAP=6 POINT=c001 MASTER=1 EVENT=100 SETFLAGS=0x7a01:1	2200 -;10 start;10 -	4500	240	event
 ev_1_06_0500	event	MAP=6 POINT=c001 MASTER=1 EVENT=500	2200 -;10 start;10 -	4500	240	event
+sweep_1_06	sweep	MAP=6 POINT=c001 MASTER=1 EVENT=1 SWEEP=0034	2200 -;10 start;10 -	13340	30	event
 map_1_07	map	MAP=7 POINT=d001 MASTER=1		2100	0	map
 ev_1_07_0001	event	MAP=7 POINT=d001 MASTER=1 EVENT=1 SETFLAGS=0x8400:0	2200 -;10 start;10 -	4500	240	event
 ev_1_07_0002	event	MAP=7 POINT=d001 MASTER=1 EVENT=2 SETFLAGS=0x8701:0	2200 -;10 start;10 -	4500	240	event
@@ -107,10 +117,12 @@ ev_1_07_0015	event	MAP=7 POINT=d001 MASTER=1 EVENT=15 SETFLAGS=0x8701:0	2200 -;1
 ev_1_07_1000	event	MAP=7 POINT=d001 MASTER=1 EVENT=1000 SETFLAGS=0x8400:1		4500	240	event
 ev_1_07_0150	event	MAP=7 POINT=d001 MASTER=1 EVENT=150 SETFLAGS=0x8b00:0	2200 -;10 start;10 -	4500	240	event
 ev_1_07_0160	event	MAP=7 POINT=d001 MASTER=1 EVENT=160	2200 -;10 start;10 -	4500	240	event
+sweep_1_07	sweep	MAP=7 POINT=d001 MASTER=1 EVENT=1 SWEEP=0038	2200 -;10 start;10 -	60380	30	event
 map_1_07_1	map	MAP=8 POINT=p001 MASTER=1		2100	0	map
 ev_1_07_1_0001	event	MAP=8 POINT=p001 MASTER=1 EVENT=1	2200 -;10 start;10 -	4500	240	event
 ev_1_07_1_0002	event	MAP=8 POINT=p001 MASTER=1 EVENT=2 SETFLAGS=0x9a00:0	2200 -;10 start;10 -	4500	240	event
 ev_1_07_1_1000	event	MAP=8 POINT=p001 MASTER=1 EVENT=1000		4500	240	event
+sweep_1_07_1	sweep	MAP=8 POINT=p001 MASTER=1 EVENT=1 SWEEP=0042	2200 -;10 start;10 -	28940	30	event
 map_1_09	map	MAP=9 POINT=p001 MASTER=1		2100	0	map
 ev_1_09_0001	event	MAP=9 POINT=p001 MASTER=1 EVENT=1 SETFLAGS=0xa500:0	2200 -;10 start;10 -	4500	240	event
 ev_1_09_0002	event	MAP=9 POINT=p001 MASTER=1 EVENT=2 SETFLAGS=0xa600:0	2200 -;10 start;10 -	4500	240	event
@@ -121,22 +133,27 @@ ev_1_09_0007	event	MAP=9 POINT=p001 MASTER=1 EVENT=7 SETFLAGS=0xa901:0,0x13000:1
 ev_1_09_0008	event	MAP=9 POINT=p001 MASTER=1 EVENT=8 SETFLAGS=0xbb00:1	2200 -;10 start;10 -	4500	240	event
 ev_1_09_1000	event	MAP=9 POINT=p001 MASTER=1 EVENT=1000 SETFLAGS=0x13000:1		4500	240	event
 ev_1_09_0500	event	MAP=9 POINT=p001 MASTER=1 EVENT=500	2200 -;10 start;10 -	4500	240	event
+sweep_1_09	sweep	MAP=9 POINT=p001 MASTER=1 EVENT=1 SWEEP=0046	2200 -;10 start;10 -	12860	30	event
 map_1_10	map	MAP=10 POINT=d001 MASTER=1		2100	0	map
 ev_1_10_0001	event	MAP=10 POINT=d001 MASTER=1 EVENT=1	2200 -;10 start;10 -	4500	240	event
 ev_1_10_0002	event	MAP=10 POINT=d001 MASTER=1 EVENT=2 SETFLAGS=0xba00:0,0xb601:2	2200 -;10 start;10 -	4500	240	event
+sweep_1_10	sweep	MAP=10 POINT=d001 MASTER=1 EVENT=1 SWEEP=0050	2200 -;10 start;10 -	25580	30	event
 map_1_10_1	map	MAP=11 POINT=p001 MASTER=1		2100	0	map
 ev_1_10_1_0001	event	MAP=11 POINT=p001 MASTER=1 EVENT=1	2200 -;10 start;10 -	4500	240	event
 ev_1_10_1_0002	event	MAP=11 POINT=p001 MASTER=1 EVENT=2 SETFLAGS=0xc600:0	2200 -;10 start;10 -	4500	240	event
 ev_1_10_1_1000	event	MAP=11 POINT=p001 MASTER=1 EVENT=1000		4500	240	event
+sweep_1_10_1	sweep	MAP=11 POINT=p001 MASTER=1 EVENT=1 SWEEP=0054	2200 -;10 start;10 -	11180	30	event
 map_1_11	map	MAP=12 POINT=d001 MASTER=1		2100	0	map
 ev_1_11_0001	event	MAP=12 POINT=d001 MASTER=1 EVENT=1 SETFLAGS=0xd000:0	2200 -;10 start;10 -	4500	240	event
 ev_1_11_0002	event	MAP=12 POINT=d001 MASTER=1 EVENT=2 SETFLAGS=0xd100:0	2200 -;10 start;10 -	4500	240	event
 ev_1_11_0004	event	MAP=12 POINT=d001 MASTER=1 EVENT=4	2200 -;10 start;10 -	4500	240	event
 ev_1_11_0005	event	MAP=12 POINT=d001 MASTER=1 EVENT=5 SETFLAGS=0xd400:0	2200 -;10 start;10 -	4500	240	event
 ev_1_11_0006	event	MAP=12 POINT=d001 MASTER=1 EVENT=6	2200 -;10 start;10 -	4500	240	event
+sweep_1_11	sweep	MAP=12 POINT=d001 MASTER=1 EVENT=1 SWEEP=0058	2200 -;10 start;10 -	11660	30	event
 map_1_11_4	map	MAP=13 POINT=d001 MASTER=1		2100	0	map
 ev_1_11_4_0001	event	MAP=13 POINT=d001 MASTER=1 EVENT=1 SETFLAGS=0xdf00:0	2200 -;10 start;10 -	4500	240	event
 ev_1_11_4_0002	event	MAP=13 POINT=d001 MASTER=1 EVENT=2 SETFLAGS=0xe000:0	2200 -;10 start;10 -	4500	240	event
+sweep_1_11_4	sweep	MAP=13 POINT=d001 MASTER=1 EVENT=1 SWEEP=0064	2200 -;10 start;10 -	23660	30	event
 map_1_12	map	MAP=14 POINT=d001 MASTER=1		2100	0	map
 ev_1_12_0001	event	MAP=14 POINT=d001 MASTER=1 EVENT=1 SETFLAGS=0xe900:0	2200 -;10 start;10 -	4500	240	event
 ev_1_12_0002	event	MAP=14 POINT=d001 MASTER=1 EVENT=2	2200 -;10 start;10 -	4500	240	event
@@ -158,6 +175,7 @@ ev_1_12_0017	event	MAP=14 POINT=d001 MASTER=1 EVENT=17	2200 -;10 start;10 -	4500
 ev_1_12_0018	event	MAP=14 POINT=d001 MASTER=1 EVENT=18	2200 -;10 start;10 -	4500	240	event
 ev_1_12_0050	event	MAP=14 POINT=d001 MASTER=1 EVENT=50 SETFLAGS=0xec00:1,0xed00:0	2200 -;10 start;10 -	4500	240	event
 ev_1_12_0500	event	MAP=14 POINT=d001 MASTER=1 EVENT=500	2200 -;10 start;10 -	4500	240	event
+sweep_1_12	sweep	MAP=14 POINT=d001 MASTER=1 EVENT=1 SWEEP=0068	2200 -;10 start;10 -	8060	30	event
 map_1_14	map	MAP=15 POINT=d001 MASTER=1		2100	0	map
 ev_1_14_0001	event	MAP=15 POINT=d001 MASTER=1 EVENT=1 SETFLAGS=0x10400:0	2200 -;10 start;10 -	4500	240	event
 ev_1_14_0003	event	MAP=15 POINT=d001 MASTER=1 EVENT=3 SETFLAGS=0x10601:0	2200 -;10 start;10 -	4500	240	event
@@ -169,6 +187,7 @@ ev_1_14_0008	event	MAP=15 POINT=d001 MASTER=1 EVENT=8	2200 -;10 start;10 -	4500	
 ev_1_14_0009	event	MAP=15 POINT=d001 MASTER=1 EVENT=9	2200 -;10 start;10 -	4500	240	event
 ev_1_14_0010	event	MAP=15 POINT=d001 MASTER=1 EVENT=10	2200 -;10 start;10 -	4500	240	event
 ev_1_14_0011	event	MAP=15 POINT=d001 MASTER=1 EVENT=11	2200 -;10 start;10 -	4500	240	event
+sweep_1_14	sweep	MAP=15 POINT=d001 MASTER=1 EVENT=1 SWEEP=0072	2200 -;10 start;10 -	16700	30	event
 map_1_14_1	map	MAP=16 POINT=p001 MASTER=1		2100	0	map
 ev_1_14_1_0001	event	MAP=16 POINT=p001 MASTER=1 EVENT=1 SETFLAGS=0x11700:0	2200 -;10 start;10 -	4500	240	event
 ev_1_14_1_0002	event	MAP=16 POINT=p001 MASTER=1 EVENT=2 SETFLAGS=0x11800:0	2200 -;10 start;10 -	4500	240	event
@@ -182,6 +201,7 @@ ev_1_14_1_0009	event	MAP=16 POINT=p001 MASTER=1 EVENT=9	2200 -;10 start;10 -	450
 ev_1_14_1_0010	event	MAP=16 POINT=p001 MASTER=1 EVENT=10	2200 -;10 start;10 -	4500	240	event
 ev_1_14_1_0011	event	MAP=16 POINT=p001 MASTER=1 EVENT=11	2200 -;10 start;10 -	4500	240	event
 ev_1_14_1_0012	event	MAP=16 POINT=p001 MASTER=1 EVENT=12	2200 -;10 start;10 -	4500	240	event
+sweep_1_14_1	sweep	MAP=16 POINT=p001 MASTER=1 EVENT=1 SWEEP=0076	2200 -;10 start;10 -	27020	30	event
 map_1_15	map	MAP=17 POINT=d001 MASTER=1		2100	0	map
 ev_1_15_0001	event	MAP=17 POINT=d001 MASTER=1 EVENT=1 SETFLAGS=0x12b00:0	2200 -;10 start;10 -	4500	240	event
 ev_1_15_0002	event	MAP=17 POINT=d001 MASTER=1 EVENT=2 SETFLAGS=0x12c00:0	2200 -;10 start;10 -	4500	240	event
@@ -197,6 +217,7 @@ ev_1_15_0201	event	MAP=17 POINT=d001 MASTER=1 EVENT=201 SETFLAGS=0x13400:0	2200 
 ev_1_15_0300	event	MAP=17 POINT=d001 MASTER=1 EVENT=300	2200 -;10 start;10 -	4500	240	event
 ev_1_15_0301	event	MAP=17 POINT=d001 MASTER=1 EVENT=301 SETFLAGS=0x13400:1	2200 -;10 start;10 -	4500	240	event
 ev_1_15_0500	event	MAP=17 POINT=d001 MASTER=1 EVENT=500	2200 -;10 start;10 -	4500	240	event
+sweep_1_15	sweep	MAP=17 POINT=d001 MASTER=1 EVENT=1 SWEEP=0080	2200 -;10 start;10 -	17900	30	event
 map_1_17	map	MAP=18 POINT=d001 MASTER=1		2100	0	map
 ev_1_17_0001	event	MAP=18 POINT=d001 MASTER=1 EVENT=1 SETFLAGS=0x18a01:0	2200 -;10 start;10 -	4500	240	event
 ev_1_17_0002	event	MAP=18 POINT=d001 MASTER=1 EVENT=2 SETFLAGS=0x13e00:0	2200 -;10 start;10 -	4500	240	event
@@ -208,16 +229,19 @@ ev_1_17_0010	event	MAP=18 POINT=d001 MASTER=1 EVENT=10	2200 -;10 start;10 -	4500
 ev_1_17_0011	event	MAP=18 POINT=d001 MASTER=1 EVENT=11	2200 -;10 start;10 -	4500	240	event
 ev_1_17_0012	event	MAP=18 POINT=d001 MASTER=1 EVENT=12	2200 -;10 start;10 -	4500	240	event
 ev_1_17_0013	event	MAP=18 POINT=d001 MASTER=1 EVENT=13	2200 -;10 start;10 -	4500	240	event
+sweep_1_17	sweep	MAP=18 POINT=d001 MASTER=1 EVENT=1 SWEEP=0084	2200 -;10 start;10 -	8780	30	event
 map_1_18	map	MAP=19 POINT=d001 MASTER=1		2100	0	map
 ev_1_18_0001	event	MAP=19 POINT=d001 MASTER=1 EVENT=1 SETFLAGS=0x14f00:0	2200 -;10 start;10 -	4500	240	event
 ev_1_18_0003	event	MAP=19 POINT=d001 MASTER=1 EVENT=3	2200 -;10 start;10 -	4500	240	event
 ev_1_18_0004	event	MAP=19 POINT=d001 MASTER=1 EVENT=4	2200 -;10 start;10 -	4500	240	event
+sweep_1_18	sweep	MAP=19 POINT=d001 MASTER=1 EVENT=1 SWEEP=0088	2200 -;10 start;10 -	3500	30	event
 map_1_19	map	MAP=20 POINT=d001 MASTER=1		2100	0	map
 ev_1_19_0001	event	MAP=20 POINT=d001 MASTER=1 EVENT=1 SETFLAGS=0x15b00:0	2200 -;10 start;10 -	4500	240	event
 ev_1_19_0002	event	MAP=20 POINT=d001 MASTER=1 EVENT=2 SETFLAGS=0x15c00:0	2200 -;10 start;10 -	4500	240	event
 ev_1_19_0003	event	MAP=20 POINT=d001 MASTER=1 EVENT=3 SETFLAGS=0x15d00:0	2200 -;10 start;10 -	4500	240	event
 ev_1_19_0004	event	MAP=20 POINT=d001 MASTER=1 EVENT=4 SETFLAGS=0x15e00:0	2200 -;10 start;10 -	4500	240	event
 ev_1_19_0005	event	MAP=20 POINT=d001 MASTER=1 EVENT=5	2200 -;10 start;10 -	4500	240	event
+sweep_1_19	sweep	MAP=20 POINT=d001 MASTER=1 EVENT=1 SWEEP=0092	2200 -;10 start;10 -	9980	30	event
 map_1_20	map	MAP=21 POINT=d001 MASTER=1		2100	0	map
 ev_1_20_0001	event	MAP=21 POINT=d001 MASTER=1 EVENT=1 SETFLAGS=0x14f00:0	2200 -;10 start;10 -	4500	240	event
 ev_1_20_0002	event	MAP=21 POINT=d001 MASTER=1 EVENT=2 SETFLAGS=0x16900:0,0x15000:1,0x17d00:1	2200 -;10 start;10 -	4500	240	event
@@ -230,6 +254,7 @@ ev_1_20_0008	event	MAP=21 POINT=d001 MASTER=1 EVENT=8	2200 -;10 start;10 -	4500	
 ev_1_20_0009	event	MAP=21 POINT=d001 MASTER=1 EVENT=9	2200 -;10 start;10 -	4500	240	event
 ev_1_20_0010	event	MAP=21 POINT=d001 MASTER=1 EVENT=10	2200 -;10 start;10 -	4500	240	event
 ev_1_20_0011	event	MAP=21 POINT=d001 MASTER=1 EVENT=11	2200 -;10 start;10 -	4500	240	event
+sweep_1_20	sweep	MAP=21 POINT=d001 MASTER=1 EVENT=1 SWEEP=0096	2200 -;10 start;10 -	8540	30	event
 map_1_21	map	MAP=22 POINT=p001 MASTER=1		2100	0	map
 ev_1_21_0001	event	MAP=22 POINT=p001 MASTER=1 EVENT=1 SETFLAGS=0x14f00:0	2200 -;10 start;10 -	4500	240	event
 ev_1_21_0002	event	MAP=22 POINT=p001 MASTER=1 EVENT=2 SETFLAGS=0x17c00:0	2200 -;10 start;10 -	4500	240	event
@@ -240,6 +265,7 @@ ev_1_21_0006	event	MAP=22 POINT=p001 MASTER=1 EVENT=6	2200 -;10 start;10 -	4500	
 ev_1_21_0007	event	MAP=22 POINT=p001 MASTER=1 EVENT=7	2200 -;10 start;10 -	4500	240	event
 ev_1_21_0008	event	MAP=22 POINT=p001 MASTER=1 EVENT=8 SETFLAGS=0x14f00:0,0x17b00:1	2200 -;10 start;10 -	4500	240	event
 ev_1_21_0500	event	MAP=22 POINT=p001 MASTER=1 EVENT=500	2200 -;10 start;10 -	4500	240	event
+sweep_1_21	sweep	MAP=22 POINT=p001 MASTER=1 EVENT=1 SWEEP=0100	2200 -;10 start;10 -	16460	30	event
 map_1_22	map	MAP=23 POINT=d001 MASTER=1		2100	0	map
 ev_1_22_0001	event	MAP=23 POINT=d001 MASTER=1 EVENT=1 SETFLAGS=0x18a01:0	2200 -;10 start;10 -	4500	240	event
 ev_1_22_0010	event	MAP=23 POINT=d001 MASTER=1 EVENT=10	2200 -;10 start;10 -	4500	240	event
@@ -250,6 +276,7 @@ ev_1_22_0014	event	MAP=23 POINT=d001 MASTER=1 EVENT=14	2200 -;10 start;10 -	4500
 ev_1_22_0015	event	MAP=23 POINT=d001 MASTER=1 EVENT=15	2200 -;10 start;10 -	4500	240	event
 ev_1_22_0016	event	MAP=23 POINT=d001 MASTER=1 EVENT=16	2200 -;10 start;10 -	4500	240	event
 ev_1_22_0017	event	MAP=23 POINT=d001 MASTER=1 EVENT=17	2200 -;10 start;10 -	4500	240	event
+sweep_1_22	sweep	MAP=23 POINT=d001 MASTER=1 EVENT=1 SWEEP=0104	2200 -;10 start;10 -	4700	30	event
 map_1_23	map	MAP=24 POINT=p001 MASTER=1		2100	0	map
 ev_1_23_0001	event	MAP=24 POINT=p001 MASTER=1 EVENT=1 SETFLAGS=0x19c00:0	2200 -;10 start;10 -	4500	240	event
 ev_1_23_0002	event	MAP=24 POINT=p001 MASTER=1 EVENT=2 SETFLAGS=0x19d00:0	2200 -;10 start;10 -	4500	240	event
@@ -259,6 +286,7 @@ ev_1_23_0005	event	MAP=24 POINT=p001 MASTER=1 EVENT=5	2200 -;10 start;10 -	4500	
 ev_1_23_0010	event	MAP=24 POINT=p001 MASTER=1 EVENT=10	2200 -;10 start;10 -	4500	240	event
 ev_1_23_0011	event	MAP=24 POINT=p001 MASTER=1 EVENT=11	2200 -;10 start;10 -	4500	240	event
 ev_1_23_0012	event	MAP=24 POINT=p001 MASTER=1 EVENT=12	2200 -;10 start;10 -	4500	240	event
+sweep_1_23	sweep	MAP=24 POINT=p001 MASTER=1 EVENT=1 SWEEP=0108	2200 -;10 start;10 -	9020	30	event
 map_1_24	map	MAP=25 POINT=p001 MASTER=1		2100	0	map
 ev_1_24_0001	event	MAP=25 POINT=p001 MASTER=1 EVENT=1 SETFLAGS=0x1ae00:0	2200 -;10 start;10 -	4500	240	event
 ev_1_24_0002	event	MAP=25 POINT=p001 MASTER=1 EVENT=2 SETFLAGS=0x1b000:0	2200 -;10 start;10 -	4500	240	event
@@ -270,26 +298,32 @@ ev_1_24_0011	event	MAP=25 POINT=p001 MASTER=1 EVENT=11	2200 -;10 start;10 -	4500
 ev_1_24_0012	event	MAP=25 POINT=p001 MASTER=1 EVENT=12	2200 -;10 start;10 -	4500	240	event
 ev_1_24_0400	event	MAP=25 POINT=p001 MASTER=1 EVENT=400	2200 -;10 start;10 -	4500	240	event
 ev_1_24_0401	event	MAP=25 POINT=p001 MASTER=1 EVENT=401	2200 -;10 start;10 -	4500	240	event
+sweep_1_24	sweep	MAP=25 POINT=p001 MASTER=1 EVENT=1 SWEEP=0114	2200 -;10 start;10 -	13580	30	event
 map_1_24_1	map	MAP=26 POINT=e001 MASTER=1		2100	0	map
 ev_1_24_1_0001	event	MAP=26 POINT=e001 MASTER=1 EVENT=1 SETFLAGS=0x1bc00:0	2200 -;10 start;10 -	4500	240	event
+sweep_1_24_1	sweep	MAP=26 POINT=e001 MASTER=1 EVENT=1 SWEEP=0118	2200 -;10 start;10 -	32780	30	event
 map_2_01	map	MAP=27 POINT=p001 MASTER=1		2100	0	map
 ev_2_01_0002	event	MAP=27 POINT=p001 MASTER=1 EVENT=2 SETFLAGS=0x1c800:0	2200 -;10 start;10 -	4500	240	event
 ev_2_01_1000	event	MAP=27 POINT=p001 MASTER=1 EVENT=1000 SETFLAGS=0x1c700:0		4500	240	event
+sweep_2_01	sweep	MAP=27 POINT=p001 MASTER=1 EVENT=2 SWEEP=0122	2200 -;10 start;10 -	9260	30	event
 map_2_02_1	map	MAP=28 POINT=b001 MASTER=1		2100	0	map
 ev_2_02_1_0002	event	MAP=28 POINT=b001 MASTER=1 EVENT=2	2200 -;10 start;10 -	4500	240	event
 ev_2_02_1_0003	event	MAP=28 POINT=b001 MASTER=1 EVENT=3 SETFLAGS=0x22201:0	2200 -;10 start;10 -	4500	240	event
 ev_2_02_1_0004	event	MAP=28 POINT=b001 MASTER=1 EVENT=4 SETFLAGS=0x22400:0	2200 -;10 start;10 -	4500	240	event
 ev_2_02_1_0010	event	MAP=28 POINT=b001 MASTER=1 EVENT=10 SETFLAGS=0x22201:2,0x1d801:0	2200 -;10 start;10 -	4500	240	event
 ev_2_02_1_1000	event	MAP=28 POINT=b001 MASTER=1 EVENT=1000 SETFLAGS=0x21f00:0		4500	240	event
+sweep_2_02_1	sweep	MAP=28 POINT=b001 MASTER=1 EVENT=2 SWEEP=0126	2200 -;10 start;10 -	19340	30	event
 map_2_02_4	map	MAP=29 POINT=b001 MASTER=1		2100	0	map
 ev_2_02_4_0001	event	MAP=29 POINT=b001 MASTER=1 EVENT=1	2200 -;10 start;10 -	4500	240	event
 ev_2_02_4_0002	event	MAP=29 POINT=b001 MASTER=1 EVENT=2 SETFLAGS=0x22f00:0,0x25d02:0	2200 -;10 start;10 -	4500	240	event
 ev_2_02_4_1000	event	MAP=29 POINT=b001 MASTER=1 EVENT=1000 SETFLAGS=0x23000:0,0x24300:1		4500	240	event
 ev_2_02_4_0111	event	MAP=29 POINT=b001 MASTER=1 EVENT=111	2200 -;10 start;10 -	4500	240	event
+sweep_2_02_4	sweep	MAP=29 POINT=b001 MASTER=1 EVENT=1 SWEEP=0136	2200 -;10 start;10 -	15500	30	event
 map_2_03	map	MAP=30 POINT=c001 MASTER=1		2100	0	map
 ev_2_03_0001	event	MAP=30 POINT=c001 MASTER=1 EVENT=1 SETFLAGS=0x27c00:0	2200 -;10 start;10 -	4500	240	event
 ev_2_03_0002	event	MAP=30 POINT=c001 MASTER=1 EVENT=2 SETFLAGS=0x27d00:0,0x28a01:2	2200 -;10 start;10 -	4500	240	event
 ev_2_03_0003	event	MAP=30 POINT=c001 MASTER=1 EVENT=3 SETFLAGS=0x27e00:0,0x28a01:2	2200 -;10 start;10 -	4500	240	event
+sweep_2_03	sweep	MAP=30 POINT=c001 MASTER=1 EVENT=1 SWEEP=0146	2200 -;10 start;10 -	25340	30	event
 map_2_04	map	MAP=31 POINT=b001 MASTER=1		2100	0	map
 ev_2_04_0001	event	MAP=31 POINT=b001 MASTER=1 EVENT=1	2200 -;10 start;10 -	4500	240	event
 ev_2_04_0002	event	MAP=31 POINT=b001 MASTER=1 EVENT=2 SETFLAGS=0x1d301:0	2200 -;10 start;10 -	4500	240	event
@@ -306,6 +340,7 @@ ev_2_04_0013	event	MAP=31 POINT=b001 MASTER=1 EVENT=13	2200 -;10 start;10 -	4500
 ev_2_04_0100	event	MAP=31 POINT=b001 MASTER=1 EVENT=100 SETFLAGS=0x22201:2,0x1d801:0	2200 -;10 start;10 -	4500	240	event
 ev_2_04_0500	event	MAP=31 POINT=b001 MASTER=1 EVENT=500	2200 -;10 start;10 -	4500	240	event
 ev_2_04_0600	event	MAP=31 POINT=b001 MASTER=1 EVENT=600 SETFLAGS=0x1e000:0	2200 -;10 start;10 -	4500	240	event
+sweep_2_04	sweep	MAP=31 POINT=b001 MASTER=1 EVENT=1 SWEEP=0153	2200 -;10 start;10 -	36860	30	event
 map_2_05	map	MAP=32 POINT=b001 MASTER=1		2100	0	map
 ev_2_05_0001	event	MAP=32 POINT=b001 MASTER=1 EVENT=1	2200 -;10 start;10 -	4500	240	event
 ev_2_05_0002	event	MAP=32 POINT=b001 MASTER=1 EVENT=2 SETFLAGS=0x1ea00:0	2200 -;10 start;10 -	4500	240	event
@@ -315,6 +350,7 @@ ev_2_05_0010	event	MAP=32 POINT=b001 MASTER=1 EVENT=10 SETFLAGS=0x1f200:0	2200 -
 ev_2_05_0011	event	MAP=32 POINT=b001 MASTER=1 EVENT=11 SETFLAGS=0x1f300:0	2200 -;10 start;10 -	4500	240	event
 ev_2_05_0100	event	MAP=32 POINT=b001 MASTER=1 EVENT=100 SETFLAGS=0x21201:2,0x1f000:0,0x1f100:1,0x1ed01:1	2200 -;10 start;10 -	4500	240	event
 ev_2_05_0600	event	MAP=32 POINT=b001 MASTER=1 EVENT=600 SETFLAGS=0x1f400:0	2200 -;10 start;10 -	4500	240	event
+sweep_2_05	sweep	MAP=32 POINT=b001 MASTER=1 EVENT=1 SWEEP=0158	2200 -;10 start;10 -	37340	30	event
 map_2_06	map	MAP=33 POINT=p001 MASTER=1		2100	0	map
 ev_2_06_0001	event	MAP=33 POINT=p001 MASTER=1 EVENT=1 SETFLAGS=0x1fd00:0	2200 -;10 start;10 -	4500	240	event
 ev_2_06_0002	event	MAP=33 POINT=p001 MASTER=1 EVENT=2 SETFLAGS=0x1fe00:0,0x22201:0	2200 -;10 start;10 -	4500	240	event
@@ -325,6 +361,7 @@ ev_2_06_0006	event	MAP=33 POINT=p001 MASTER=1 EVENT=6 SETFLAGS=0x24200:1,0x20400
 ev_2_06_1000	event	MAP=33 POINT=p001 MASTER=1 EVENT=1000 SETFLAGS=0x24200:1		4500	240	event
 ev_2_06_0500	event	MAP=33 POINT=p001 MASTER=1 EVENT=500	2200 -;10 start;10 -	4500	240	event
 ev_2_06_0600	event	MAP=33 POINT=p001 MASTER=1 EVENT=600 SETFLAGS=0x1ff00:0	2200 -;10 start;10 -	4500	240	event
+sweep_2_06	sweep	MAP=33 POINT=p001 MASTER=1 EVENT=1 SWEEP=0163	2200 -;10 start;10 -	15500	30	event
 map_2_07	map	MAP=34 POINT=p001 MASTER=1		2100	0	map
 ev_2_07_0001	event	MAP=34 POINT=p001 MASTER=1 EVENT=1 SETFLAGS=0x25a00:0	2200 -;10 start;10 -	4500	240	event
 ev_2_07_0002	event	MAP=34 POINT=p001 MASTER=1 EVENT=2 SETFLAGS=0x25b00:0	2200 -;10 start;10 -	4500	240	event
@@ -349,6 +386,7 @@ ev_2_07_0100	event	MAP=34 POINT=p001 MASTER=1 EVENT=100	2200 -;10 start;10 -	450
 ev_2_07_0500	event	MAP=34 POINT=p001 MASTER=1 EVENT=500	2200 -;10 start;10 -	4500	240	event
 ev_2_07_0600	event	MAP=34 POINT=p001 MASTER=1 EVENT=600	2200 -;10 start;10 -	4500	240	event
 ev_2_07_0700	event	MAP=34 POINT=p001 MASTER=1 EVENT=700 SETFLAGS=0x27300:0	2200 -;10 start;10 -	4500	240	event
+sweep_2_07	sweep	MAP=34 POINT=p001 MASTER=1 EVENT=1 SWEEP=0170	2200 -;10 start;10 -	49820	30	event
 map_2_08	map	MAP=35 POINT=p001 MASTER=1		2100	0	map
 ev_2_08_0001	event	MAP=35 POINT=p001 MASTER=1 EVENT=1 SETFLAGS=0x20d00:0	2200 -;10 start;10 -	4500	240	event
 ev_2_08_0002	event	MAP=35 POINT=p001 MASTER=1 EVENT=2 SETFLAGS=0x20e00:0	2200 -;10 start;10 -	4500	240	event
@@ -358,6 +396,7 @@ ev_2_08_0100	event	MAP=35 POINT=p001 MASTER=1 EVENT=100	2200 -;10 start;10 -	450
 ev_2_08_0600	event	MAP=35 POINT=p001 MASTER=1 EVENT=600 SETFLAGS=0x21500:0	2200 -;10 start;10 -	4500	240	event
 ev_2_08_0700	event	MAP=35 POINT=p001 MASTER=1 EVENT=700 SETFLAGS=0x27e00:1	2200 -;10 start;10 -	4500	240	event
 ev_2_08_0701	event	MAP=35 POINT=p001 MASTER=1 EVENT=701 SETFLAGS=0x21400:0,0x27e00:1	2200 -;10 start;10 -	4500	240	event
+sweep_2_08	sweep	MAP=35 POINT=p001 MASTER=1 EVENT=1 SWEEP=0174	2200 -;10 start;10 -	18140	30	event
 map_2_09	map	MAP=36 POINT=b001 MASTER=1		2100	0	map
 ev_2_09_0001	event	MAP=36 POINT=b001 MASTER=1 EVENT=1	2200 -;10 start;10 -	4500	240	event
 ev_2_09_0002	event	MAP=36 POINT=b001 MASTER=1 EVENT=2 SETFLAGS=0x28900:0	2200 -;10 start;10 -	4500	240	event
@@ -366,6 +405,7 @@ ev_2_09_0004	event	MAP=36 POINT=b001 MASTER=1 EVENT=4 SETFLAGS=0x28c00:0	2200 -;
 ev_2_09_0010	event	MAP=36 POINT=b001 MASTER=1 EVENT=10	2200 -;10 start;10 -	4500	240	event
 ev_2_09_0011	event	MAP=36 POINT=b001 MASTER=1 EVENT=11	2200 -;10 start;10 -	4500	240	event
 ev_2_09_0500	event	MAP=36 POINT=b001 MASTER=1 EVENT=500	2200 -;10 start;10 -	4500	240	event
+sweep_2_09	sweep	MAP=36 POINT=b001 MASTER=1 EVENT=1 SWEEP=0181	2200 -;10 start;10 -	16940	30	event
 map_2_10	map	MAP=37 POINT=c001 MASTER=1		2100	0	map
 ev_2_10_0001	event	MAP=37 POINT=c001 MASTER=1 EVENT=1 SETFLAGS=0x29700:0	2200 -;10 start;10 -	4500	240	event
 ev_2_10_0002	event	MAP=37 POINT=c001 MASTER=1 EVENT=2 SETFLAGS=0x29801:0	2200 -;10 start;10 -	4500	240	event
@@ -397,6 +437,7 @@ ev_2_10_0113	event	MAP=37 POINT=c001 MASTER=1 EVENT=113 SETFLAGS=0x4e601:3	2200 
 ev_2_10_0114	event	MAP=37 POINT=c001 MASTER=1 EVENT=114 SETFLAGS=0x4e601:3	2200 -;10 start;10 -	4500	240	event
 ev_2_10_0600	event	MAP=37 POINT=c001 MASTER=1 EVENT=600 SETFLAGS=0x2a500:0	2200 -;10 start;10 -	4500	240	event
 ev_2_10_0700	event	MAP=37 POINT=c001 MASTER=1 EVENT=700 SETFLAGS=0x2a600:0	2200 -;10 start;10 -	4500	240	event
+sweep_2_10	sweep	MAP=37 POINT=c001 MASTER=1 EVENT=1 SWEEP=0187	2200 -;10 start;10 -	17420	30	event
 map_2_11	map	MAP=38 POINT=b001 MASTER=1		2100	0	map
 ev_2_11_0001	event	MAP=38 POINT=b001 MASTER=1 EVENT=1 SETFLAGS=0x23b00:0	2200 -;10 start;10 -	4500	240	event
 ev_2_11_0002	event	MAP=38 POINT=b001 MASTER=1 EVENT=2 SETFLAGS=0x23c03:0	2200 -;10 start;10 -	4500	240	event
@@ -414,6 +455,7 @@ ev_2_11_0017	event	MAP=38 POINT=b001 MASTER=1 EVENT=17	2200 -;10 start;10 -	4500
 ev_2_11_0018	event	MAP=38 POINT=b001 MASTER=1 EVENT=18	2200 -;10 start;10 -	4500	240	event
 ev_2_11_0019	event	MAP=38 POINT=b001 MASTER=1 EVENT=19	2200 -;10 start;10 -	4500	240	event
 ev_2_11_0500	event	MAP=38 POINT=b001 MASTER=1 EVENT=500	2200 -;10 start;10 -	4500	240	event
+sweep_2_11	sweep	MAP=38 POINT=b001 MASTER=1 EVENT=1 SWEEP=0191	2200 -;10 start;10 -	64940	30	event
 map_2_13	map	MAP=39 POINT=p001 MASTER=1		2100	0	map
 ev_2_13_0001	event	MAP=39 POINT=p001 MASTER=1 EVENT=1 SETFLAGS=0x2af00:0	2200 -;10 start;10 -	4500	240	event
 ev_2_13_0002	event	MAP=39 POINT=p001 MASTER=1 EVENT=2 SETFLAGS=0x2b000:0	2200 -;10 start;10 -	4500	240	event
@@ -432,6 +474,7 @@ ev_2_13_0018	event	MAP=39 POINT=p001 MASTER=1 EVENT=18	2200 -;10 start;10 -	4500
 ev_2_13_0019	event	MAP=39 POINT=p001 MASTER=1 EVENT=19	2200 -;10 start;10 -	4500	240	event
 ev_2_13_0100	event	MAP=39 POINT=p001 MASTER=1 EVENT=100	2200 -;10 start;10 -	4500	240	event
 ev_2_13_0500	event	MAP=39 POINT=p001 MASTER=1 EVENT=500	2200 -;10 start;10 -	4500	240	event
+sweep_2_13	sweep	MAP=39 POINT=p001 MASTER=1 EVENT=1 SWEEP=0195	2200 -;10 start;10 -	45260	30	event
 map_2_13_1	map	MAP=40 POINT=e001 MASTER=1		2100	0	map
 ev_2_13_1_0001	event	MAP=40 POINT=e001 MASTER=1 EVENT=1 SETFLAGS=0x2ca01:0	2200 -;10 start;10 -	4500	240	event
 ev_2_13_1_0002	event	MAP=40 POINT=e001 MASTER=1 EVENT=2 SETFLAGS=0x2cc00:0	2200 -;10 start;10 -	4500	240	event
@@ -446,8 +489,10 @@ ev_2_13_1_0014	event	MAP=40 POINT=e001 MASTER=1 EVENT=14	2200 -;10 start;10 -	45
 ev_2_13_1_0015	event	MAP=40 POINT=e001 MASTER=1 EVENT=15	2200 -;10 start;10 -	4500	240	event
 ev_2_13_1_0016	event	MAP=40 POINT=e001 MASTER=1 EVENT=16	2200 -;10 start;10 -	4500	240	event
 ev_2_13_1_0500	event	MAP=40 POINT=e001 MASTER=1 EVENT=500	2200 -;10 start;10 -	4500	240	event
+sweep_2_13_1	sweep	MAP=40 POINT=e001 MASTER=1 EVENT=1 SWEEP=0199	2200 -;10 start;10 -	46940	30	event
 map_3_01	map	MAP=41 POINT=p001 MASTER=1		2100	0	map
 ev_3_01_0001	event	MAP=41 POINT=p001 MASTER=1 EVENT=1 SETFLAGS=0x2df00:0	2200 -;10 start;10 -	4500	240	event
+sweep_3_01	sweep	MAP=41 POINT=p001 MASTER=1 EVENT=1 SWEEP=0203	2200 -;10 start;10 -	6140	30	event
 map_3_02	map	MAP=42 POINT=p002 MASTER=1		2100	0	map
 ev_3_02_0001	event	MAP=42 POINT=p002 MASTER=1 EVENT=1 SETFLAGS=0x2e801:0	2200 -;10 start;10 -	4500	240	event
 ev_3_02_0002	event	MAP=42 POINT=p002 MASTER=1 EVENT=2 SETFLAGS=0x2ee01:0	2200 -;10 start;10 -	4500	240	event
@@ -462,6 +507,7 @@ ev_3_02_0100	event	MAP=42 POINT=p002 MASTER=1 EVENT=100 SETFLAGS=0x34d00:1	2200 
 ev_3_02_1000	event	MAP=42 POINT=p002 MASTER=1 EVENT=1000 SETFLAGS=0x3b700:1,0x2f400:1		4500	240	event
 ev_3_02_0101	event	MAP=42 POINT=p002 MASTER=1 EVENT=101	2200 -;10 start;10 -	4500	240	event
 ev_3_02_0500	event	MAP=42 POINT=p002 MASTER=1 EVENT=500	2200 -;10 start;10 -	4500	240	event
+sweep_3_02	sweep	MAP=42 POINT=p002 MASTER=1 EVENT=1 SWEEP=0207	2200 -;10 start;10 -	62540	30	event
 map_3_03	map	MAP=43 POINT=d001 MASTER=1		2100	0	map
 ev_3_03_0001	event	MAP=43 POINT=d001 MASTER=1 EVENT=1 SETFLAGS=0x30200:0	2200 -;10 start;10 -	4500	240	event
 ev_3_03_0002	event	MAP=43 POINT=d001 MASTER=1 EVENT=2	2200 -;10 start;10 -	4500	240	event
@@ -481,6 +527,7 @@ ev_3_03_0020	event	MAP=43 POINT=d001 MASTER=1 EVENT=20	2200 -;10 start;10 -	4500
 ev_3_03_0021	event	MAP=43 POINT=d001 MASTER=1 EVENT=21	2200 -;10 start;10 -	4500	240	event
 ev_3_03_0022	event	MAP=43 POINT=d001 MASTER=1 EVENT=22	2200 -;10 start;10 -	4500	240	event
 ev_3_03_0023	event	MAP=43 POINT=d001 MASTER=1 EVENT=23	2200 -;10 start;10 -	4500	240	event
+sweep_3_03	sweep	MAP=43 POINT=d001 MASTER=1 EVENT=1 SWEEP=0215	2200 -;10 start;10 -	21500	30	event
 map_3_04	map	MAP=44 POINT=d001 MASTER=1		2100	0	map
 ev_3_04_0001	event	MAP=44 POINT=d001 MASTER=1 EVENT=1 SETFLAGS=0x32901:0	2200 -;10 start;10 -	4500	240	event
 ev_3_04_0002	event	MAP=44 POINT=d001 MASTER=1 EVENT=2 SETFLAGS=0x32b01:0	2200 -;10 start;10 -	4500	240	event
@@ -496,6 +543,7 @@ ev_3_04_0600	event	MAP=44 POINT=d001 MASTER=1 EVENT=600 SETFLAGS=0x33500:0	2200 
 ev_3_04_0601	event	MAP=44 POINT=d001 MASTER=1 EVENT=601 SETFLAGS=0x33600:0	2200 -;10 start;10 -	4500	240	event
 ev_3_04_0700	event	MAP=44 POINT=d001 MASTER=1 EVENT=700 SETFLAGS=0x33700:0	2200 -;10 start;10 -	4500	240	event
 ev_3_04_0701	event	MAP=44 POINT=d001 MASTER=1 EVENT=701 SETFLAGS=0x33800:0	2200 -;10 start;10 -	4500	240	event
+sweep_3_04	sweep	MAP=44 POINT=d001 MASTER=1 EVENT=1 SWEEP=0219	2200 -;10 start;10 -	15740	30	event
 map_3_05	map	MAP=45 POINT=c001 MASTER=1		2100	0	map
 ev_3_05_0001	event	MAP=45 POINT=c001 MASTER=1 EVENT=1 SETFLAGS=0x31200:0	2200 -;10 start;10 -	4500	240	event
 ev_3_05_0002	event	MAP=45 POINT=c001 MASTER=1 EVENT=2 SETFLAGS=0x35700:0	2200 -;10 start;10 -	4500	240	event
@@ -503,17 +551,20 @@ ev_3_05_0003	event	MAP=45 POINT=c001 MASTER=1 EVENT=3 SETFLAGS=0x31400:0,0x35800
 ev_3_05_0004	event	MAP=45 POINT=c001 MASTER=1 EVENT=4	2200 -;10 start;10 -	4500	240	event
 ev_3_05_0005	event	MAP=45 POINT=c001 MASTER=1 EVENT=5	2200 -;10 start;10 -	4500	240	event
 ev_3_05_1000	event	MAP=45 POINT=c001 MASTER=1 EVENT=1000 SETFLAGS=0x3b700:1		4500	240	event
+sweep_3_05	sweep	MAP=45 POINT=c001 MASTER=1 EVENT=1 SWEEP=0223	2200 -;10 start;10 -	11900	30	event
 map_3_06	map	MAP=46 POINT=c001 MASTER=1		2100	0	map
 ev_3_06_0001	event	MAP=46 POINT=c001 MASTER=1 EVENT=1 SETFLAGS=0x31d00:0	2200 -;10 start;10 -	4500	240	event
 ev_3_06_0002	event	MAP=46 POINT=c001 MASTER=1 EVENT=2 SETFLAGS=0x31e00:0	2200 -;10 start;10 -	4500	240	event
 ev_3_06_0010	event	MAP=46 POINT=c001 MASTER=1 EVENT=10	2200 -;10 start;10 -	4500	240	event
 ev_3_06_0011	event	MAP=46 POINT=c001 MASTER=1 EVENT=11	2200 -;10 start;10 -	4500	240	event
 ev_3_06_0100	event	MAP=46 POINT=c001 MASTER=1 EVENT=100	2200 -;10 start;10 -	4500	240	event
+sweep_3_06	sweep	MAP=46 POINT=c001 MASTER=1 EVENT=1 SWEEP=0230	2200 -;10 start;10 -	9020	30	event
 map_3_07	map	MAP=47 POINT=p001 MASTER=1		2100	0	map
 ev_3_07_0002	event	MAP=47 POINT=p001 MASTER=1 EVENT=2 SETFLAGS=0x34200:0	2200 -;10 start;10 -	4500	240	event
 ev_3_07_0003	event	MAP=47 POINT=p001 MASTER=1 EVENT=3 SETFLAGS=0x34300:0	2200 -;10 start;10 -	4500	240	event
 ev_3_07_0004	event	MAP=47 POINT=p001 MASTER=1 EVENT=4 SETFLAGS=0x34400:0	2200 -;10 start;10 -	4500	240	event
 ev_3_07_1000	event	MAP=47 POINT=p001 MASTER=1 EVENT=1000 SETFLAGS=0x34100:0		4500	240	event
+sweep_3_07	sweep	MAP=47 POINT=p001 MASTER=1 EVENT=2 SWEEP=0234	2200 -;10 start;10 -	22460	30	event
 map_3_08	map	MAP=48 POINT=e001 MASTER=1		2100	0	map
 ev_3_08_0001	event	MAP=48 POINT=e001 MASTER=1 EVENT=1 SETFLAGS=0x35600:0	2200 -;10 start;10 -	4500	240	event
 ev_3_08_0002	event	MAP=48 POINT=e001 MASTER=1 EVENT=2 SETFLAGS=0x35700:0	2200 -;10 start;10 -	4500	240	event
@@ -522,8 +573,10 @@ ev_3_08_0004	event	MAP=48 POINT=e001 MASTER=1 EVENT=4 SETFLAGS=0x35900:0,0x36e00
 ev_3_08_0005	event	MAP=48 POINT=e001 MASTER=1 EVENT=5 SETFLAGS=0x35a00:0	2200 -;10 start;10 -	4500	240	event
 ev_3_08_0006	event	MAP=48 POINT=e001 MASTER=1 EVENT=6	2200 -;10 start;10 -	4500	240	event
 ev_3_08_1000	event	MAP=48 POINT=e001 MASTER=1 EVENT=1000 SETFLAGS=0x3ad00:1		4500	240	event
+sweep_3_08	sweep	MAP=48 POINT=e001 MASTER=1 EVENT=1 SWEEP=0238	2200 -;10 start;10 -	10220	30	event
 map_3_09	map	MAP=49 POINT=p001 MASTER=1		2100	0	map
 ev_3_09_0001	event	MAP=49 POINT=p001 MASTER=1 EVENT=1 SETFLAGS=0x34d00:0	2200 -;10 start;10 -	4500	240	event
+sweep_3_09	sweep	MAP=49 POINT=p001 MASTER=1 EVENT=1 SWEEP=0256	2200 -;10 start;10 -	4460	30	event
 map_3_10	map	MAP=50 POINT=d001 MASTER=1		2100	0	map
 ev_3_10_0001	event	MAP=50 POINT=d001 MASTER=1 EVENT=1 SETFLAGS=0x3a000:0	2200 -;10 start;10 -	4500	240	event
 ev_3_10_0010	event	MAP=50 POINT=d001 MASTER=1 EVENT=10	2200 -;10 start;10 -	4500	240	event
@@ -544,6 +597,7 @@ ev_3_10_0024	event	MAP=50 POINT=d001 MASTER=1 EVENT=24	2200 -;10 start;10 -	4500
 ev_3_10_0025	event	MAP=50 POINT=d001 MASTER=1 EVENT=25	2200 -;10 start;10 -	4500	240	event
 ev_3_10_0100	event	MAP=50 POINT=d001 MASTER=1 EVENT=100 SETFLAGS=0x3a100:0	2200 -;10 start;10 -	4500	240	event
 ev_3_10_0400	event	MAP=50 POINT=d001 MASTER=1 EVENT=400 SETFLAGS=0x3a200:0	2200 -;10 start;10 -	4500	240	event
+sweep_3_10	sweep	MAP=50 POINT=d001 MASTER=1 EVENT=1 SWEEP=0260	2200 -;10 start;10 -	21980	30	event
 map_3_11	map	MAP=51 POINT=d001 MASTER=1		2100	0	map
 ev_3_11_0010	event	MAP=51 POINT=d001 MASTER=1 EVENT=10	2200 -;10 start;10 -	4500	240	event
 ev_3_11_0011	event	MAP=51 POINT=d001 MASTER=1 EVENT=11	2200 -;10 start;10 -	4500	240	event
@@ -551,12 +605,14 @@ ev_3_11_0012	event	MAP=51 POINT=d001 MASTER=1 EVENT=12	2200 -;10 start;10 -	4500
 ev_3_11_0100	event	MAP=51 POINT=d001 MASTER=1 EVENT=100 SETFLAGS=0x38900:0	2200 -;10 start;10 -	4500	240	event
 ev_3_11_0400	event	MAP=51 POINT=d001 MASTER=1 EVENT=400 SETFLAGS=0x38a00:0	2200 -;10 start;10 -	4500	240	event
 ev_3_11_0500	event	MAP=51 POINT=d001 MASTER=1 EVENT=500	2200 -;10 start;10 -	4500	240	event
+sweep_3_11	sweep	MAP=51 POINT=d001 MASTER=1 EVENT=10 SWEEP=0264	2200 -;10 start;10 -	2540	30	event
 map_3_12	map	MAP=52 POINT=d001 MASTER=1		2100	0	map
 ev_3_12_0001	event	MAP=52 POINT=d001 MASTER=1 EVENT=1 SETFLAGS=0x3ab01:0	2200 -;10 start;10 -	4500	240	event
 ev_3_12_0010	event	MAP=52 POINT=d001 MASTER=1 EVENT=10	2200 -;10 start;10 -	4500	240	event
 ev_3_12_0011	event	MAP=52 POINT=d001 MASTER=1 EVENT=11	2200 -;10 start;10 -	4500	240	event
 ev_3_12_0100	event	MAP=52 POINT=d001 MASTER=1 EVENT=100 SETFLAGS=0x3ad00:0	2200 -;10 start;10 -	4500	240	event
 ev_3_12_0400	event	MAP=52 POINT=d001 MASTER=1 EVENT=400 SETFLAGS=0x3ae00:0	2200 -;10 start;10 -	4500	240	event
+sweep_3_12	sweep	MAP=52 POINT=d001 MASTER=1 EVENT=1 SWEEP=0268	2200 -;10 start;10 -	15980	30	event
 map_3_13	map	MAP=53 POINT=d001 MASTER=1		2100	0	map
 ev_3_13_0001	event	MAP=53 POINT=d001 MASTER=1 EVENT=1 SETFLAGS=0x36d00:0,0x37a00:0	2200 -;10 start;10 -	4500	240	event
 ev_3_13_0010	event	MAP=53 POINT=d001 MASTER=1 EVENT=10	2200 -;10 start;10 -	4500	240	event
@@ -564,6 +620,7 @@ ev_3_13_0011	event	MAP=53 POINT=d001 MASTER=1 EVENT=11	2200 -;10 start;10 -	4500
 ev_3_13_0100	event	MAP=53 POINT=d001 MASTER=1 EVENT=100 SETFLAGS=0x36e00:0,0x37c00:1	2200 -;10 start;10 -	4500	240	event
 ev_3_13_0400	event	MAP=53 POINT=d001 MASTER=1 EVENT=400 SETFLAGS=0x37100:0	2200 -;10 start;10 -	4500	240	event
 ev_3_13_0500	event	MAP=53 POINT=d001 MASTER=1 EVENT=500	2200 -;10 start;10 -	4500	240	event
+sweep_3_13	sweep	MAP=53 POINT=d001 MASTER=1 EVENT=1 SWEEP=0272	2200 -;10 start;10 -	6620	30	event
 map_3_14	map	MAP=54 POINT=d001 MASTER=1		2100	0	map
 ev_3_14_0001	event	MAP=54 POINT=d001 MASTER=1 EVENT=1 SETFLAGS=0x37a00:0,0x36d00:0	2200 -;10 start;10 -	4500	240	event
 ev_3_14_0002	event	MAP=54 POINT=d001 MASTER=1 EVENT=2 SETFLAGS=0x37b00:0	2200 -;10 start;10 -	4500	240	event
@@ -573,12 +630,14 @@ ev_3_14_0012	event	MAP=54 POINT=d001 MASTER=1 EVENT=12	2200 -;10 start;10 -	4500
 ev_3_14_0100	event	MAP=54 POINT=d001 MASTER=1 EVENT=100 SETFLAGS=0x37c00:0,0x36e00:1	2200 -;10 start;10 -	4500	240	event
 ev_3_14_0400	event	MAP=54 POINT=d001 MASTER=1 EVENT=400 SETFLAGS=0x38000:0	2200 -;10 start;10 -	4500	240	event
 ev_3_14_0500	event	MAP=54 POINT=d001 MASTER=1 EVENT=500	2200 -;10 start;10 -	4500	240	event
+sweep_3_14	sweep	MAP=54 POINT=d001 MASTER=1 EVENT=1 SWEEP=0276	2200 -;10 start;10 -	14300	30	event
 map_3_15	map	MAP=55 POINT=d001 MASTER=1		2100	0	map
 ev_3_15_0001	event	MAP=55 POINT=d001 MASTER=1 EVENT=1 SETFLAGS=0x39300:0	2200 -;10 start;10 -	4500	240	event
 ev_3_15_0010	event	MAP=55 POINT=d001 MASTER=1 EVENT=10	2200 -;10 start;10 -	4500	240	event
 ev_3_15_0011	event	MAP=55 POINT=d001 MASTER=1 EVENT=11	2200 -;10 start;10 -	4500	240	event
 ev_3_15_0100	event	MAP=55 POINT=d001 MASTER=1 EVENT=100 SETFLAGS=0x39400:0	2200 -;10 start;10 -	4500	240	event
 ev_3_15_0400	event	MAP=55 POINT=d001 MASTER=1 EVENT=400 SETFLAGS=0x39700:0	2200 -;10 start;10 -	4500	240	event
+sweep_3_15	sweep	MAP=55 POINT=d001 MASTER=1 EVENT=1 SWEEP=0280	2200 -;10 start;10 -	6860	30	event
 map_3_16	map	MAP=56 POINT=d001 MASTER=1		2100	0	map
 ev_3_16_0001	event	MAP=56 POINT=d001 MASTER=1 EVENT=1 SETFLAGS=0x3b700:0	2200 -;10 start;10 -	4500	240	event
 ev_3_16_0010	event	MAP=56 POINT=d001 MASTER=1 EVENT=10	2200 -;10 start;10 -	4500	240	event
@@ -586,6 +645,7 @@ ev_3_16_0011	event	MAP=56 POINT=d001 MASTER=1 EVENT=11	2200 -;10 start;10 -	4500
 ev_3_16_0012	event	MAP=56 POINT=d001 MASTER=1 EVENT=12	2200 -;10 start;10 -	4500	240	event
 ev_3_16_0013	event	MAP=56 POINT=d001 MASTER=1 EVENT=13	2200 -;10 start;10 -	4500	240	event
 ev_3_16_0500	event	MAP=56 POINT=d001 MASTER=1 EVENT=500	2200 -;10 start;10 -	4500	240	event
+sweep_3_16	sweep	MAP=56 POINT=d001 MASTER=1 EVENT=1 SWEEP=0285	2200 -;10 start;10 -	6860	30	event
 map_3_17	map	MAP=57 POINT=c001 MASTER=1		2100	0	map
 ev_3_17_0001	event	MAP=57 POINT=c001 MASTER=1 EVENT=1 SETFLAGS=0x3c300:0	2200 -;10 start;10 -	4500	240	event
 ev_3_17_0002	event	MAP=57 POINT=c001 MASTER=1 EVENT=2 SETFLAGS=0x3c100:0	2200 -;10 start;10 -	4500	240	event
@@ -595,6 +655,7 @@ ev_3_17_0012	event	MAP=57 POINT=c001 MASTER=1 EVENT=12	2200 -;10 start;10 -	4500
 ev_3_17_0013	event	MAP=57 POINT=c001 MASTER=1 EVENT=13	2200 -;10 start;10 -	4500	240	event
 ev_3_17_0014	event	MAP=57 POINT=c001 MASTER=1 EVENT=14	2200 -;10 start;10 -	4500	240	event
 ev_3_17_0500	event	MAP=57 POINT=c001 MASTER=1 EVENT=500	2200 -;10 start;10 -	4500	240	event
+sweep_3_17	sweep	MAP=57 POINT=c001 MASTER=1 EVENT=1 SWEEP=0289	2200 -;10 start;10 -	6620	30	event
 map_3_18	map	MAP=58 POINT=c001 MASTER=1		2100	0	map
 ev_3_18_0001	event	MAP=58 POINT=c001 MASTER=1 EVENT=1 SETFLAGS=0x3d000:0	2200 -;10 start;10 -	4500	240	event
 ev_3_18_0002	event	MAP=58 POINT=c001 MASTER=1 EVENT=2 SETFLAGS=0x3d100:0	2200 -;10 start;10 -	4500	240	event
@@ -605,6 +666,7 @@ ev_3_18_0012	event	MAP=58 POINT=c001 MASTER=1 EVENT=12	2200 -;10 start;10 -	4500
 ev_3_18_0013	event	MAP=58 POINT=c001 MASTER=1 EVENT=13	2200 -;10 start;10 -	4500	240	event
 ev_3_18_0014	event	MAP=58 POINT=c001 MASTER=1 EVENT=14	2200 -;10 start;10 -	4500	240	event
 ev_3_18_0500	event	MAP=58 POINT=c001 MASTER=1 EVENT=500	2200 -;10 start;10 -	4500	240	event
+sweep_3_18	sweep	MAP=58 POINT=c001 MASTER=1 EVENT=1 SWEEP=0293	2200 -;10 start;10 -	10220	30	event
 map_3_19	map	MAP=59 POINT=p001 MASTER=1		2100	0	map
 ev_3_19_0001	event	MAP=59 POINT=p001 MASTER=1 EVENT=1 SETFLAGS=0x3e000:0	2200 -;10 start;10 -	4500	240	event
 ev_3_19_0002	event	MAP=59 POINT=p001 MASTER=1 EVENT=2 SETFLAGS=0x3e100:0	2200 -;10 start;10 -	4500	240	event
@@ -619,6 +681,7 @@ ev_3_19_0015	event	MAP=59 POINT=p001 MASTER=1 EVENT=15	2200 -;10 start;10 -	4500
 ev_3_19_0016	event	MAP=59 POINT=p001 MASTER=1 EVENT=16	2200 -;10 start;10 -	4500	240	event
 ev_3_19_0017	event	MAP=59 POINT=p001 MASTER=1 EVENT=17	2200 -;10 start;10 -	4500	240	event
 ev_3_19_0500	event	MAP=59 POINT=p001 MASTER=1 EVENT=500	2200 -;10 start;10 -	4500	240	event
+sweep_3_19	sweep	MAP=59 POINT=p001 MASTER=1 EVENT=1 SWEEP=0297	2200 -;10 start;10 -	17420	30	event
 map_3_19_1	map	MAP=60 POINT=c001 MASTER=1		2100	0	map
 ev_3_19_1_0001	event	MAP=60 POINT=c001 MASTER=1 EVENT=1 SETFLAGS=0x3f300:0	2200 -;10 start;10 -	4500	240	event
 ev_3_19_1_0002	event	MAP=60 POINT=c001 MASTER=1 EVENT=2 SETFLAGS=0x3f401:0	2200 -;10 start;10 -	4500	240	event
@@ -636,12 +699,15 @@ ev_3_19_1_0602	event	MAP=60 POINT=c001 MASTER=1 EVENT=602 SETFLAGS=0x3ff00:0	220
 ev_3_19_1_0700	event	MAP=60 POINT=c001 MASTER=1 EVENT=700 SETFLAGS=0x40000:0	2200 -;10 start;10 -	4500	240	event
 ev_3_19_1_0701	event	MAP=60 POINT=c001 MASTER=1 EVENT=701 SETFLAGS=0x40100:0	2200 -;10 start;10 -	4500	240	event
 ev_3_19_1_0702	event	MAP=60 POINT=c001 MASTER=1 EVENT=702 SETFLAGS=0x40200:0	2200 -;10 start;10 -	4500	240	event
+sweep_3_19_1	sweep	MAP=60 POINT=c001 MASTER=1 EVENT=1 SWEEP=0301	2200 -;10 start;10 -	20780	30	event
 map_3_20	map	MAP=61 POINT=d001 MASTER=1		2100	0	map
 ev_3_20_0001	event	MAP=61 POINT=d001 MASTER=1 EVENT=1 SETFLAGS=0x40b00:0	2200 -;10 start;10 -	4500	240	event
+sweep_3_20	sweep	MAP=61 POINT=d001 MASTER=1 EVENT=1 SWEEP=0305	2200 -;10 start;10 -	42620	30	event
 map_4_01	map	MAP=62 POINT=p001 MASTER=1		2100	0	map
 ev_4_01_0002	event	MAP=62 POINT=p001 MASTER=1 EVENT=2 SETFLAGS=0x41500:0	2200 -;10 start;10 -	4500	240	event
 ev_4_01_0003	event	MAP=62 POINT=p001 MASTER=1 EVENT=3 SETFLAGS=0x41600:0	2200 -;10 start;10 -	4500	240	event
 ev_4_01_1000	event	MAP=62 POINT=p001 MASTER=1 EVENT=1000 SETFLAGS=0x41400:0		4500	240	event
+sweep_4_01	sweep	MAP=62 POINT=p001 MASTER=1 EVENT=2 SWEEP=0309	2200 -;10 start;10 -	16940	30	event
 map_4_02	map	MAP=63 POINT=p001 MASTER=1		2100	0	map
 ev_4_02_0001	event	MAP=63 POINT=p001 MASTER=1 EVENT=1 SETFLAGS=0x41f00:0	2200 -;10 start;10 -	4500	240	event
 ev_4_02_0002	event	MAP=63 POINT=p001 MASTER=1 EVENT=2 SETFLAGS=0x42000:0	2200 -;10 start;10 -	4500	240	event
@@ -666,6 +732,7 @@ ev_4_02_0601	event	MAP=63 POINT=p001 MASTER=1 EVENT=601 SETFLAGS=0x42d00:0	2200 
 ev_4_02_0602	event	MAP=63 POINT=p001 MASTER=1 EVENT=602 SETFLAGS=0x42e00:0	2200 -;10 start;10 -	4500	240	event
 ev_4_02_0603	event	MAP=63 POINT=p001 MASTER=1 EVENT=603 SETFLAGS=0x42f00:0,0x42900:1,0x42a00:0	2200 -;10 start;10 -	4500	240	event
 ev_4_02_0700	event	MAP=63 POINT=p001 MASTER=1 EVENT=700 SETFLAGS=0x43000:0	2200 -;10 start;10 -	4500	240	event
+sweep_4_02	sweep	MAP=63 POINT=p001 MASTER=1 EVENT=1 SWEEP=0313	2200 -;10 start;10 -	32780	30	event
 map_4_03	map	MAP=64 POINT=p001 MASTER=1		2100	0	map
 ev_4_03_0001	event	MAP=64 POINT=p001 MASTER=1 EVENT=1 SETFLAGS=0x43900:0	2200 -;10 start;10 -	4500	240	event
 ev_4_03_0002	event	MAP=64 POINT=p001 MASTER=1 EVENT=2 SETFLAGS=0x43a00:0	2200 -;10 start;10 -	4500	240	event
@@ -674,6 +741,7 @@ ev_4_03_0004	event	MAP=64 POINT=p001 MASTER=1 EVENT=4 SETFLAGS=0x43c00:0	2200 -;
 ev_4_03_0005	event	MAP=64 POINT=p001 MASTER=1 EVENT=5	2200 -;10 start;10 -	4500	240	event
 ev_4_03_0006	event	MAP=64 POINT=p001 MASTER=1 EVENT=6 SETFLAGS=0x43b00:0	2200 -;10 start;10 -	4500	240	event
 ev_4_03_0500	event	MAP=64 POINT=p001 MASTER=1 EVENT=500	2200 -;10 start;10 -	4500	240	event
+sweep_4_03	sweep	MAP=64 POINT=p001 MASTER=1 EVENT=1 SWEEP=0317	2200 -;10 start;10 -	26780	30	event
 map_4_04	map	MAP=65 POINT=p001 MASTER=1		2100	0	map
 ev_4_04_0001	event	MAP=65 POINT=p001 MASTER=1 EVENT=1 SETFLAGS=0x44500:0	2200 -;10 start;10 -	4500	240	event
 ev_4_04_0002	event	MAP=65 POINT=p001 MASTER=1 EVENT=2 SETFLAGS=0x44600:0	2200 -;10 start;10 -	4500	240	event
@@ -695,11 +763,13 @@ ev_4_04_0106	event	MAP=65 POINT=p001 MASTER=1 EVENT=106	2200 -;10 start;10 -	450
 ev_4_04_0107	event	MAP=65 POINT=p001 MASTER=1 EVENT=107	2200 -;10 start;10 -	4500	240	event
 ev_4_04_0108	event	MAP=65 POINT=p001 MASTER=1 EVENT=108	2200 -;10 start;10 -	4500	240	event
 ev_4_04_0109	event	MAP=65 POINT=p001 MASTER=1 EVENT=109	2200 -;10 start;10 -	4500	240	event
+sweep_4_04	sweep	MAP=65 POINT=p001 MASTER=1 EVENT=1 SWEEP=0321	2200 -;10 start;10 -	88460	30	event
 map_4_05	map	MAP=66 POINT=p001 MASTER=1		2100	0	map
 ev_4_05_0001	event	MAP=66 POINT=p001 MASTER=1 EVENT=1 SETFLAGS=0x45800:0	2200 -;10 start;10 -	4500	240	event
 ev_4_05_0002	event	MAP=66 POINT=p001 MASTER=1 EVENT=2 SETFLAGS=0x45900:0	2200 -;10 start;10 -	4500	240	event
 ev_4_05_0003	event	MAP=66 POINT=p001 MASTER=1 EVENT=3 SETFLAGS=0x45a00:0	2200 -;10 start;10 -	4500	240	event
 ev_4_05_0004	event	MAP=66 POINT=p001 MASTER=1 EVENT=4	2200 -;10 start;10 -	4500	240	event
+sweep_4_05	sweep	MAP=66 POINT=p001 MASTER=1 EVENT=1 SWEEP=0325	2200 -;10 start;10 -	7340	30	event
 map_4_06	map	MAP=67 POINT=p001 MASTER=1		2100	0	map
 ev_4_06_0001	event	MAP=67 POINT=p001 MASTER=1 EVENT=1 SETFLAGS=0x46300:0	2200 -;10 start;10 -	4500	240	event
 ev_4_06_0002	event	MAP=67 POINT=p001 MASTER=1 EVENT=2 SETFLAGS=0x46400:0	2200 -;10 start;10 -	4500	240	event
@@ -715,6 +785,7 @@ ev_4_06_0103	event	MAP=67 POINT=p001 MASTER=1 EVENT=103	2200 -;10 start;10 -	450
 ev_4_06_0104	event	MAP=67 POINT=p001 MASTER=1 EVENT=104	2200 -;10 start;10 -	4500	240	event
 ev_4_06_0105	event	MAP=67 POINT=p001 MASTER=1 EVENT=105	2200 -;10 start;10 -	4500	240	event
 ev_4_06_0500	event	MAP=67 POINT=p001 MASTER=1 EVENT=500	2200 -;10 start;10 -	4500	240	event
+sweep_4_06	sweep	MAP=67 POINT=p001 MASTER=1 EVENT=1 SWEEP=0329	2200 -;10 start;10 -	28460	30	event
 map_4_07	map	MAP=68 POINT=c001 MASTER=1		2100	0	map
 ev_4_07_0001	event	MAP=68 POINT=c001 MASTER=1 EVENT=1 SETFLAGS=0x47101:0	2200 -;10 start;10 -	4500	240	event
 ev_4_07_0002	event	MAP=68 POINT=c001 MASTER=1 EVENT=2 SETFLAGS=0x47301:0	2200 -;10 start;10 -	4500	240	event
@@ -738,9 +809,11 @@ ev_4_07_0025	event	MAP=68 POINT=c001 MASTER=1 EVENT=25	2200 -;10 start;10 -	4500
 ev_4_07_0500	event	MAP=68 POINT=c001 MASTER=1 EVENT=500	2200 -;10 start;10 -	4500	240	event
 ev_4_07_0600	event	MAP=68 POINT=c001 MASTER=1 EVENT=600 SETFLAGS=0x47600:0	2200 -;10 start;10 -	4500	240	event
 ev_4_07_0700	event	MAP=68 POINT=c001 MASTER=1 EVENT=700 SETFLAGS=0x47700:0	2200 -;10 start;10 -	4500	240	event
+sweep_4_07	sweep	MAP=68 POINT=c001 MASTER=1 EVENT=1 SWEEP=0333	2200 -;10 start;10 -	16700	30	event
 map_4_08	map	MAP=69 POINT=p001 MASTER=1		2100	0	map
 ev_4_08_0001	event	MAP=69 POINT=p001 MASTER=1 EVENT=1 SETFLAGS=0x48000:0	2200 -;10 start;10 -	4500	240	event
 ev_4_08_0002	event	MAP=69 POINT=p001 MASTER=1 EVENT=2	2200 -;10 start;10 -	4500	240	event
+sweep_4_08	sweep	MAP=69 POINT=p001 MASTER=1 EVENT=1 SWEEP=0337	2200 -;10 start;10 -	10940	30	event
 map_4_09	map	MAP=70 POINT=p001 MASTER=1		2100	0	map
 ev_4_09_0001	event	MAP=70 POINT=p001 MASTER=1 EVENT=1 SETFLAGS=0x48a00:0	2200 -;10 start;10 -	4500	240	event
 ev_4_09_0002	event	MAP=70 POINT=p001 MASTER=1 EVENT=2 SETFLAGS=0x48b01:0	2200 -;10 start;10 -	4500	240	event
@@ -763,6 +836,7 @@ ev_4_09_0024	event	MAP=70 POINT=p001 MASTER=1 EVENT=24	2200 -;10 start;10 -	4500
 ev_4_09_1000	event	MAP=70 POINT=p001 MASTER=1 EVENT=1000 SETFLAGS=0x48100:0		4500	240	event
 ev_4_09_0600	event	MAP=70 POINT=p001 MASTER=1 EVENT=600 SETFLAGS=0x48d00:0	2200 -;10 start;10 -	4500	240	event
 ev_4_09_0700	event	MAP=70 POINT=p001 MASTER=1 EVENT=700 SETFLAGS=0x48e00:0	2200 -;10 start;10 -	4500	240	event
+sweep_4_09	sweep	MAP=70 POINT=p001 MASTER=1 EVENT=1 SWEEP=0342	2200 -;10 start;10 -	22940	30	event
 map_4_09_1	map	MAP=71 POINT=p001 MASTER=1		2100	0	map
 ev_4_09_1_0001	event	MAP=71 POINT=p001 MASTER=1 EVENT=1 SETFLAGS=0x49700:0	2200 -;10 start;10 -	4500	240	event
 ev_4_09_1_0010	event	MAP=71 POINT=p001 MASTER=1 EVENT=10	2200 -;10 start;10 -	4500	240	event
@@ -772,11 +846,13 @@ ev_4_09_1_0013	event	MAP=71 POINT=p001 MASTER=1 EVENT=13	2200 -;10 start;10 -	45
 ev_4_09_1_0014	event	MAP=71 POINT=p001 MASTER=1 EVENT=14	2200 -;10 start;10 -	4500	240	event
 ev_4_09_1_0015	event	MAP=71 POINT=p001 MASTER=1 EVENT=15	2200 -;10 start;10 -	4500	240	event
 ev_4_09_1_0500	event	MAP=71 POINT=p001 MASTER=1 EVENT=500	2200 -;10 start;10 -	4500	240	event
+sweep_4_09_1	sweep	MAP=71 POINT=p001 MASTER=1 EVENT=1 SWEEP=0346	2200 -;10 start;10 -	58220	30	event
 map_5_02	map	MAP=72 POINT=p001 MASTER=1		2100	0	map
 ev_5_02_0001	event	MAP=72 POINT=p001 MASTER=1 EVENT=1 SETFLAGS=0x4a000:0	2200 -;10 start;10 -	4500	240	event
 ev_5_02_0002	event	MAP=72 POINT=p001 MASTER=1 EVENT=2 SETFLAGS=0x4a101:0	2200 -;10 start;10 -	4500	240	event
 ev_5_02_0003	event	MAP=72 POINT=p001 MASTER=1 EVENT=3	2200 -;10 start;10 -	4500	240	event
 ev_5_02_0100	event	MAP=72 POINT=p001 MASTER=1 EVENT=100	2200 -;10 start;10 -	4500	240	event
+sweep_5_02	sweep	MAP=72 POINT=p001 MASTER=1 EVENT=1 SWEEP=0349	2200 -;10 start;10 -	20780	30	event
 map_5_02_1	map	MAP=73 POINT=d001 MASTER=1		2100	0	map
 ev_5_02_1_0010	event	MAP=73 POINT=d001 MASTER=1 EVENT=10	2200 -;10 start;10 -	4500	240	event
 ev_5_02_1_0011	event	MAP=73 POINT=d001 MASTER=1 EVENT=11	2200 -;10 start;10 -	4500	240	event
@@ -798,6 +874,7 @@ ev_5_02_1_0026	event	MAP=73 POINT=d001 MASTER=1 EVENT=26	2200 -;10 start;10 -	45
 ev_5_02_1_0027	event	MAP=73 POINT=d001 MASTER=1 EVENT=27	2200 -;10 start;10 -	4500	240	event
 ev_5_02_1_0100	event	MAP=73 POINT=d001 MASTER=1 EVENT=100	2200 -;10 start;10 -	4500	240	event
 ev_5_02_1_0500	event	MAP=73 POINT=d001 MASTER=1 EVENT=500	2200 -;10 start;10 -	4500	240	event
+sweep_5_02_1	sweep	MAP=73 POINT=d001 MASTER=1 EVENT=10 SWEEP=0353	2200 -;10 start;10 -	2780	30	event
 map_5_02_2	map	MAP=74 POINT=p001 MASTER=1		2100	0	map
 ev_5_02_2_0001	event	MAP=74 POINT=p001 MASTER=1 EVENT=1 SETFLAGS=0x4ab00:0	2200 -;10 start;10 -	4500	240	event
 ev_5_02_2_0002	event	MAP=74 POINT=p001 MASTER=1 EVENT=2	2200 -;10 start;10 -	4500	240	event
@@ -807,6 +884,7 @@ ev_5_02_2_0011	event	MAP=74 POINT=p001 MASTER=1 EVENT=11	2200 -;10 start;10 -	45
 ev_5_02_2_0100	event	MAP=74 POINT=p001 MASTER=1 EVENT=100	2200 -;10 start;10 -	4500	240	event
 ev_5_02_2_0101	event	MAP=74 POINT=p001 MASTER=1 EVENT=101	2200 -;10 start;10 -	4500	240	event
 ev_5_02_2_0500	event	MAP=74 POINT=p001 MASTER=1 EVENT=500	2200 -;10 start;10 -	4500	240	event
+sweep_5_02_2	sweep	MAP=74 POINT=p001 MASTER=1 EVENT=1 SWEEP=0357	2200 -;10 start;10 -	6620	30	event
 map_5_04	map	MAP=75 POINT=p001 MASTER=1		2100	0	map
 ev_5_04_0001	event	MAP=75 POINT=p001 MASTER=1 EVENT=1 SETFLAGS=0x4b800:0	2200 -;10 start;10 -	4500	240	event
 ev_5_04_0002	event	MAP=75 POINT=p001 MASTER=1 EVENT=2 SETFLAGS=0x4b900:0	2200 -;10 start;10 -	4500	240	event
@@ -819,14 +897,17 @@ ev_5_04_0012	event	MAP=75 POINT=p001 MASTER=1 EVENT=12	2200 -;10 start;10 -	4500
 ev_5_04_0100	event	MAP=75 POINT=p001 MASTER=1 EVENT=100 SETFLAGS=0x4bd00:0,0x29a00:1,0x32d00:1,0x47500:1	2200 -;10 start;10 -	4500	240	event
 ev_5_04_0101	event	MAP=75 POINT=p001 MASTER=1 EVENT=101	2200 -;10 start;10 -	4500	240	event
 ev_5_04_0200	event	MAP=75 POINT=p001 MASTER=1 EVENT=200	2200 -;10 start;10 -	4500	240	event
+sweep_5_04	sweep	MAP=75 POINT=p001 MASTER=1 EVENT=1 SWEEP=0361	2200 -;10 start;10 -	32540	30	event
 map_5_05	map	MAP=76 POINT=p001 MASTER=1		2100	0	map
 ev_5_05_0001	event	MAP=76 POINT=p001 MASTER=1 EVENT=1 SETFLAGS=0x4da00:0	2200 -;10 start;10 -	4500	240	event
 ev_5_05_0002	event	MAP=76 POINT=p001 MASTER=1 EVENT=2 SETFLAGS=0x4db00:0	2200 -;10 start;10 -	4500	240	event
 ev_5_05_0003	event	MAP=76 POINT=p001 MASTER=1 EVENT=3 SETFLAGS=0x4dc00:0	2200 -;10 start;10 -	4500	240	event
 ev_5_05_0004	event	MAP=76 POINT=p001 MASTER=1 EVENT=4 SETFLAGS=0x4dd00:0	2200 -;10 start;10 -	4500	240	event
 ev_5_05_0010	event	MAP=76 POINT=p001 MASTER=1 EVENT=10	2200 -;10 start;10 -	4500	240	event
+sweep_5_05	sweep	MAP=76 POINT=p001 MASTER=1 EVENT=1 SWEEP=0365	2200 -;10 start;10 -	3980	30	event
 map_5_06	map	MAP=77 POINT=p001 MASTER=1		2100	0	map
 ev_5_06_0001	event	MAP=77 POINT=p001 MASTER=1 EVENT=1 SETFLAGS=0x4e601:0	2200 -;10 start;10 -	4500	240	event
+sweep_5_06	sweep	MAP=77 POINT=p001 MASTER=1 EVENT=1 SWEEP=0369	2200 -;10 start;10 -	54860	30	event
 map_6_01	map	MAP=78 POINT=e011 MASTER=1		2100	0	map
 ev_6_01_0001	event	MAP=78 POINT=e011 MASTER=1 EVENT=1	2200 -;10 start;10 -	4500	240	event
 ev_6_01_0002	event	MAP=78 POINT=e011 MASTER=1 EVENT=2 SETFLAGS=0x4f303:1	2200 -;10 start;10 -	4500	240	event
@@ -843,3 +924,4 @@ ev_6_01_0020	event	MAP=78 POINT=e011 MASTER=1 EVENT=20 SETFLAGS=0x4fb00:0	2200 -
 ev_6_01_0030	event	MAP=78 POINT=e011 MASTER=1 EVENT=30 SETFLAGS=0x4fc00:0	2200 -;10 start;10 -	4500	240	event
 ev_6_01_0040	event	MAP=78 POINT=e011 MASTER=1 EVENT=40 SETFLAGS=0x4fd00:0	2200 -;10 start;10 -	4500	240	event
 ev_6_01_0050	event	MAP=78 POINT=e011 MASTER=1 EVENT=50 SETFLAGS=0x4fe00:0	2200 -;10 start;10 -	4500	240	event
+sweep_6_01	sweep	MAP=78 POINT=e011 MASTER=1 EVENT=1 SWEEP=0372	2200 -;10 start;10 -	12860	30	event

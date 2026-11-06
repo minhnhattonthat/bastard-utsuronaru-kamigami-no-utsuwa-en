@@ -89,3 +89,20 @@ def test_script_stub_lookup_finds_the_known_party_join(capsys):
 
     script_calls.main(0x800432F8)
     assert "1_01 003 7" in capsys.readouterr().out
+
+
+@needs_disc
+def test_sweep_lists_every_script_string_and_each_ref_is_an_ori():
+    from gen_scenes import entry
+    if not (ROOT / "work/qa/sweep").exists():
+        pytest.skip("gen_scenes.py not run")
+    total = 0
+    for row in scene_rows():
+        if row["group"] != "sweep":
+            continue
+        ssg = int(re.search(r"SWEEP=(\d+)", row["vars"]).group(1))
+        d = entry(ssg)
+        for ln in (ROOT / f"work/qa/sweep/{ssg:04d}.txt").read_text(encoding="utf-8").splitlines()[1:]:
+            assert struct.unpack_from("<I", d, int(ln.split()[0]))[0] >> 26 == 0x0D, (ssg, ln)  # sweep.lua reads the string's offset from it
+            total += 1
+    assert total == 6332  # every `text` string of the 79 scripts

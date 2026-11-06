@@ -47,11 +47,13 @@ def run(s, cue, state=False):
     name, out = s["name"], OUT / s["name"]
     nowarp = "NOWARP" in s["vars"]
     cmd = [sys.executable, "-X", "utf8", EMU, cue, "--out", str(out), "--frames", s["frames"], "--shot-every",
-           "120" if s["group"] in ("event", "adhoc") else "300", "--sheet", "--timeout", "280"]
+           "120" if s["group"] in ("event", "adhoc") else "300", "--sheet", "--timeout", "1500" if s["group"] == "sweep" else "280"]
     if not nowarp:
         cmd += ["--script", str(Path(__file__).with_name("warp.lua"))] + lua_vars(s["vars"], s["check"])
         if "PINS=" in s["vars"]:
             cmd += ["--script", str(Path(__file__).with_name("pin.lua"))]
+        if "SWEEP=" in s["vars"]:
+            cmd += ["--script", str(Path(__file__).with_name("sweep.lua")), "--var", f"SWEEP_DIR='{(ROOT / 'work/qa/sweep').as_posix()}'"]
     if s["route"]:
         cmd += ["--route-str", s["route"]]
     if int(s["mash"]):

@@ -13,6 +13,7 @@
 --   MASTER=1    clear the debug bit on arrival: Start/Select menus, encounters and no "P1" HUD
 --   DEBUG_AT=n  set the debug bit again at frame n, for routes that use menus first and debug keys after
 --   BATTLE=n    fill the debug "replay battle" arguments; the route then presses select+square. BATTLE2, BATTLE3 too
+--   ITEMS=n     the first n items of table 386 in the inventory, ITEM_COUNT of each; ALLCHARS=1 every character joined
 --   CHECK       'map', 'event', 'battle', 'won', 'lost', 'ending' or 'none': the RAM test behind the log line "WARP ok"
 local ffi = require("ffi")
 local M = ffi.cast("uint8_t*", PCSX.getMemPtr())
@@ -110,6 +111,18 @@ L.on_frame(function(n)
     -- Back to the original code (all but the event swap), so a later return to the title behaves like the real game.
     for i = 1, RESTORE_ON_ARRIVAL do w32(PATCH[i][1], PATCH[i][2]) end
     if MASTER then w32(seq + 0x50C, bit.band(r32(seq + 0x50C), bit.bnot(4))) end
+    if ITEMS then  -- the first ITEMS items of table 386, ITEM_COUNT of each: list u16 at +0x3190, counts u8 at +0x358E, size u16 at +0x378E
+      local gs = r32(0x800A3B48) % 0x200000
+      for i = 0, ITEMS - 1 do
+        M[gs + 0x3190 + i * 2], M[gs + 0x3190 + i * 2 + 1] = i % 256, math.floor(i / 256)
+        M[gs + 0x358E + i] = ITEM_COUNT or 1
+      end
+      M[gs + 0x378E], M[gs + 0x378F] = ITEMS % 256, math.floor(ITEMS / 256)
+    end
+    if ALLCHARS then  -- all 27 character records joined (+0x9C low bit), so the Tactics list and character pages show each
+      local gs = r32(0x800A3B48) % 0x200000
+      for i = 0, 26 do M[gs + 0xF30 + 180 * i + 0x9C] = bit.bor(M[gs + 0xF30 + 180 * i + 0x9C], 1) end
+    end
     -- Debug "replay last battle" key: select+square in the field, with the battle's arguments at seq+0x2F8.
     if BATTLE then
       w32(seq + 0x2F8, BATTLE); w32(seq + 0x2FC, BATTLE2 or 0); w32(seq + 0x300, BATTLE3 or 0)

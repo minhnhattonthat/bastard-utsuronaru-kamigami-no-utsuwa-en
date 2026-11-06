@@ -19,6 +19,12 @@ Add `--state` to keep `work/states/NAME.state`. Regenerate after a rebuild, beca
 
 Warped events have no triggering object, so `warp.lua` skips the chest animation (800C16F0): with an index past the object table it calls through heap garbage, which hung some scenes on the marker build. On the original disc the same read happens to do nothing, but it hangs there too under the debugger. A chest opening is therefore not shown by these scenes.
 
+## Sweep: every script line on screen
+`warp.py all --group sweep --cue build/bastard_marker.cue --probe tools/debug/drawlog.lua` (about 25 minutes at 8 jobs). `sweep.lua` replaces one event's code in RAM with generated print calls, one per string of that map's script, from the lists `gen_scenes.py` writes to `work/qa/sweep/`. So a line behind any branch still prints, through the real printer and the box its `fn` names (a `fn` that is only a hint prints as dialogue; a choice string prints as prompt and options). It proves the line draws, not that play reaches it. `tour_report.py` counts these lines as shown but keeps them out of `tools/windows.json`.
+Run `tour_report.py` over a full set of logs only: it rewrites `windows.json` from whatever logs exist, and a scene re-run without `drawlog.lua` loses its widths (`git diff tools/windows.json`).
+
+`tour_report.py` also writes `build/strings.tsv` and `work/qa/cover/log.txt`, the input of `textcover.py`.
+
 ## Scene list
 `scenes.tsv` (from `gen_scenes.py`): title and real boot path, every menu, debug screens, battles (start, commands, win, loss, boss, with party), all movies and ending branches, all 79 maps with their title cards, and every script event of every map.
 

@@ -5,6 +5,7 @@ Map table: EXE RAM 0x8009BFA4, 79 records of 64 bytes (docs/re/code.md).
 evt record: u32 w0 (x:9, z:9, y:7, top 4 bits = extra bytes after the 8-byte head), u32 w1 (letter:8, number:10, ...).
 """
 import glob
+import json
 import struct
 from pathlib import Path
 
@@ -174,8 +175,17 @@ def special_scenes():
         scene("camp_tactics_placed", "menu", join + " MASTER=1", placed, check="event"),
         scene("camp_item_list", "menu", join + " MASTER=1", through + ";10 start;200 -;6 circle;120 -;6 down;60 -;6 circle;300 -",
               check="event"),
+        # Every item, poked into the inventory (warp.lua ITEMS), and the list scrolled past each name and description.
+        scene("camp_items_all", "menu", join + " MASTER=1 ITEMS=501 ITEM_COUNT=5",
+              through + ";10 start;200 -;6 circle;120 -;6 down;60 -;6 circle;300 -" + ";6 down;24 -" * 490, check="event"),
+        # Every character joined (warp.lua ALLCHARS): the Self page's portrait strip, right steps through them.
+        scene("camp_chars_all", "menu", join + " MASTER=1 ALLCHARS=1",
+              through + ";10 start;200 -;6 right;60 -;6 circle;200 -" + ";6 right;90 -" * 28, check="event"),
         scene("battle_party", "battle", join + f" MASTER=1 BATTLE=1 DEBUG_AT={placed_at}", placed + ";20 select;10 select+square;900 -",
               check="event"),
+        # The Form command's list: each formation's name and description, down steps through them.
+        scene("battle_forms", "battle", join + f" MASTER=1 BATTLE=1 DEBUG_AT={placed_at}",
+              placed + ";20 select;10 select+square;930 -;6 circle;120 -" + ";6 down;40 -" * 35, check="event"),
         # Debug screens the release never shows; they prove the debug bit and hold the flag editor.
         scene("debug_flags", "debug", w, FIELD + ";20 select;10 select+r1;300 -", check="map"),
         scene("debug_stats", "debug", w, FIELD + ";20 select;10 select+l1;300 -", check="map"),
@@ -203,6 +213,25 @@ def special_scenes():
     return s
 
 
+SWEEP_KIND = {560: "n", 624: "d", 672: "c"}  # `fn` of a string -> sweep.lua's call; a fn that is only a hint (`text.md`) shows as dialogue
+
+
+def sweep_scene(mid, here, ssg, codes):
+    """One scene that prints every script string of a map (sweep.lua), and its list in work/qa/sweep/."""
+    rows = json.loads((ROOT / f"script/ssg_{ssg:04d}.json").read_text(encoding="utf-8"))
+    lines = []
+    for e in rows:
+        if e["kind"] == "text" and e["refs"]:
+            kind = next((SWEEP_KIND[f] for f in e.get("fn", []) if f in SWEEP_KIND), "d")
+            who = e["speaker"][0] if e.get("speaker") else -1
+            lines.append(f"{e['refs'][0]} {kind} {who}")
+    ev = min(n for n in codes if n != 1000)
+    out = ROOT / "work/qa/sweep"
+    out.mkdir(parents=True, exist_ok=True)
+    (out / f"{ssg:04d}.txt").write_text("\n".join([str(codes[ev][1])] + lines) + "\n", encoding="utf-8")
+    return scene(f"sweep_{mid}", "sweep", here + f" MASTER=1 EVENT={ev} SWEEP={ssg:04d}", FIELD + ";10 start;10 -", 2300 + len(lines) * 240, 30, "event")
+
+
 def main():
     exe = (ROOT / "work/disc/SLPS_005.42").read_bytes()
     point_rows = ["map\tid\tname\tdsg\tssg\tpoint\tx\tz\ty"]
@@ -223,6 +252,7 @@ def main():
             flags = f" SETFLAGS={need}" if need else ""
             # mash = twice warp.py's event shot interval, so every text box gets a shot before the press clears it
             scenes.append(scene(f"ev_{mid}_{ev:04d}", "event", here + f" MASTER=1 EVENT={ev}" + flags, route, 4500, 240, "event"))
+        scenes.append(sweep_scene(mid, here, ssg, codes))
     (HERE / "maps.tsv").write_text("\n".join(point_rows) + "\n", encoding="utf-8")
     rows = ["\t".join(COLUMNS)] + ["\t".join(s) for s in scenes]
     (HERE / "scenes.tsv").write_text("\n".join(rows) + "\n", encoding="utf-8")
