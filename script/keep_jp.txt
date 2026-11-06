@@ -1,0 +1,60 @@
+# id reason: lines that stay Japanese on purpose. Anything else with an empty en fails the check.
+t0392_00004 developer map label, never drawn in game
+t0392_00030 developer map label, never drawn in game
+t0392_0005c developer map label, never drawn in game
+t0392_00088 developer map label, never drawn in game
+t0392_000b4 developer map label, never drawn in game
+t0392_000e0 developer map label, never drawn in game
+t0392_0010c developer map label, never drawn in game
+t0392_00138 developer map label, never drawn in game
+t0392_00164 developer map label, never drawn in game
+t0392_00190 developer map label, never drawn in game
+t0392_001bc developer map label, never drawn in game
+t0392_001e8 developer map label, never drawn in game
+t0392_00214 developer map label, never drawn in game
+t0392_00240 developer map label, never drawn in game
+t0392_0026c developer map label, never drawn in game
+t0392_00298 developer map label, never drawn in game
+t0392_002c4 developer map label, never drawn in game
+t0392_002f0 developer map label, never drawn in game
+t0392_0031c developer map label, never drawn in game
+t0392_00348 developer map label, never drawn in game
+t0392_00374 developer map label, never drawn in game
+t0392_003a0 developer map label, never drawn in game
+t0392_003cc developer map label, never drawn in game
+t0392_003f8 developer map label, never drawn in game
+t0392_00424 developer map label, never drawn in game
+t0392_00450 developer map label, never drawn in game
+t0392_0047c developer map label, never drawn in game
+t0392_004a8 developer map label, never drawn in game
+t0392_004d4 developer map label, never drawn in game
+t0392_00500 developer map label, never drawn in game
+t0392_0052c developer map label, never drawn in game
+t0392_00558 developer map label, never drawn in game
+t0392_00584 developer map label, never drawn in game
+t0392_005b0 developer map label, never drawn in game
+t0392_005dc developer map label, never drawn in game
+t0392_00608 developer map label, never drawn in game
+t0392_00634 developer map label, never drawn in game
+t0392_00660 developer map label, never drawn in game
+t0392_0068c developer map label, never drawn in game
+t0392_006b8 developer map label, never drawn in game
+t0392_006e4 developer map label, never drawn in game
+t0392_00710 developer map label, never drawn in game
+t0392_0073c developer map label, never drawn in game
+t0392_00768 developer map label, never drawn in game
+t0392_00794 developer map label, never drawn in game
+t0392_007c0 developer map label, never drawn in game
+t0392_007ec developer map label, never drawn in game
+t0392_00818 developer map label, never drawn in game
+t0392_00844 developer map label, never drawn in game
+t0392_00870 developer map label, never drawn in game
+exe_01134 arrow mark
+exe_01160 cursor mark
+exe_01164 cursor mark
+ov1_087a4 cursor mark
+ov1_00f08 multiply sign before a count, same width as the number column
+ov1_00f10 full-width spaces position a cursor mark
+ov1_00f1c full-width spaces position a cursor mark
+ov1_011cc full-width spaces, blanks a label
+ov1_0436c full-width space, blanks a label

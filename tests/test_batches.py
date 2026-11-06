@@ -42,3 +42,11 @@ def test_shipped_english_passes():
     entries, terms = batches.index(), batches.glossary()
     bad = [(i, p) for i, e in entries.items() if e.get("en") for p in batches.problems(e, e["en"], terms)]
     assert not bad, bad[:20]
+    blank = [i for i, e in entries.items() if batches.needs_english(e)]
+    assert not blank, blank[:20]
+
+
+def test_keep_list_names_real_untranslated_lines_with_a_reason():
+    entries = batches.index()
+    for i, why in batches.KEEP_JP.items():
+        assert why and i in entries and not entries[i].get("en"), i

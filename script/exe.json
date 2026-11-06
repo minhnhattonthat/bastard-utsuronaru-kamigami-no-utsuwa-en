@@ -7335,6 +7335,18 @@
   "en": "An old, large machete stained{n}with what looks like blood."
  },
  {
+  "id": "exe_24fd0",
+  "off": 151504,
+  "term": "00",
+  "max": 48,
+  "kind": "text",
+  "refs": [
+   "exe:d:94ea0"
+  ],
+  "jp": "三男神の風の呪力が封じられた{n}緑色に輝く結晶体｡",
+  "en": "A green, shining crystal sealing the wind{n}curse of the Three Male Gods."
+ },
+ {
   "id": "exe_25000",
   "off": 151552,
   "term": "00",
@@ -7716,7 +7728,7 @@
    "exe:d:94f20"
   ],
   "jp": "？？？",
-  "en": ""
+  "en": "???"
  },
  {
   "id": "exe_25438",

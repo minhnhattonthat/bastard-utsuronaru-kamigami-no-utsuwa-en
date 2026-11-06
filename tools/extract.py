@@ -84,6 +84,9 @@ def has_double(raw):
     return False
 
 
+HALF_STOP = 0xA1  # half-width `｡`: ends the Wind Crystal description (exe_24fd0)
+
+
 def looks_text(raw):
     """Pointer targets in code or data can decode as SJIS by chance: real text has no lone high byte and at least one
     double-byte character. Low bytes stay allowed: battle messages open with a control byte (01..08)."""
@@ -92,6 +95,8 @@ def looks_text(raw):
         if sjis_pair(raw, i):
             dbl += 1
             i += 2
+        elif raw[i] == HALF_STOP and i == len(raw) - 1 and dbl:
+            i += 1
         elif raw[i] >= 0x7F or (raw[i] < 0x20 and raw[i] not in (0x0A, 0x0B, 0x0C) and dbl):
             return False  # the low bytes only open a message
         else:
@@ -313,6 +318,8 @@ def text_runs(d, ranges=None, ends=(0, 0x0C)):
                     j += 1
                 else:
                     break
+            if cnt and d[j] == HALF_STOP and d[j + 1] in ends:
+                j += 1
             if cnt >= 2 and d[j] in ends and (kana or cnt >= 3):
                 out.append((i, j))
                 i = j + 1

@@ -196,6 +196,22 @@ def test_save_list_keeps_row_1_as_ascii_and_widens_only_the_rest():
     assert uc.reg_read(M.UC_MIPS_REG_A0) == dst + 24 and uc.reg_read(M.UC_MIPS_REG_A1) == src + 24
 
 
+@pytest.mark.parametrize("qa", [False, True])
+def test_hook_code_honours_the_r3000_load_delay(qa):
+    # The dynarec and unicorn give a load's result to the next instruction; a real R3000 and the interpreter do not.
+    import capstone
+
+    blob, syms = engine.assemble(qa=qa)
+    md = capstone.Cs(capstone.CS_ARCH_MIPS, capstone.CS_MODE_MIPS32 + capstone.CS_MODE_LITTLE_ENDIAN)
+    code = list(md.disasm(blob[:syms["font"] - engine.HOOK], engine.HOOK))
+    assert len(code) * 4 == syms["font"] - engine.HOOK
+    loads = {"lb", "lbu", "lh", "lhu", "lw", "lwl", "lwr"}
+    # Any mention counts: an instruction that only overwrites the target is not worth telling apart here.
+    bad = [f"{a.address:x}: {a.mnemonic} {a.op_str}; {b.mnemonic} {b.op_str}" for a, b in zip(code, code[1:])
+           if a.mnemonic in loads and a.op_str.split(",")[0] in b.op_str]
+    assert not bad, bad
+
+
 def test_rebuilt_script_ends_every_string_on_its_own_nul():
     import json
 

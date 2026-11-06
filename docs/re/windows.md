@@ -11,7 +11,7 @@ Measured in game on stress builds: `build.py --marker --qa FILE.json` with a rul
 | Dialogue, portrait box | 624 | 228 | 4 | 216 on line 4 (arrow) | 38-char ruler x 4 |
 | Choice | 672 | 240 (window grows with the text; it wraps onto itself near 256 px and runs off screen) | 1 | - | 60-char ruler in `QUESTION`; budget set under the fault |
 
-The tour logged some `fn 624` strings in a 216 box and some `fn 560` in 228 (`fn` is a hint: `text.md`). A line takes the smaller budget if it ever shows in both: use `tools/windows.json`.
+`fn` is a hint (`text.md`): the box a line was seen in is in `tools/windows.json`, which now has no `fn 624` line in a 216 box and no `fn 560` line in 228. A line takes the smaller budget if it ever shows in both.
 
 ## Battle (`ov1`)
 | Box | px | Lines | Evidence |
@@ -43,14 +43,14 @@ Field messages (`exe_012f0 宝箱は開かない`), map names (`exe_00974`), par
 - Table 386/388 names: 17 bytes + NUL (`_write_fixed` refuses 18). Table 393 name 19, description 63. Table 382 short 11; long is up to 31, field by field (`insert._field_room`), not the 36 `max` says.
 - Enemy names, `label` tables 551-736: **19 bytes** + NUL in a 20-byte field. Some Japanese names fill all 20 with no NUL and the next field follows at once; the build always writes a NUL and never touches that field.
 - Ending blurbs, `ov4`: 199 bytes each, fixed slots, 228 px.
-- Script strings can grow: they move to the end of `prg`, 64 KB from `$gp`, and the build refuses more. The game loads that much: entry 321, the largest, padded from 50,056 to 65,164 bytes (`tools/debug/ssg_stress.py`) ran `map_4_04`, `ev_4_04_0001` and `ev_4_04_0003`, its strings on screen. The ring holding queued text is cols x rows x 4 bytes (narration 648; dialogue 304 in a 228 px box, 288 in a 216 px one; cols = px / 12). **Measured** on `ev_1_01_0003` with `build.py --qa`: the string's bytes count, its closing `0C` too, and past the ring only the tail survives (length mod 304: 620 bytes showed the last 12, a 304-byte one showed nothing and skipped its wait). 288 and 302 bytes showed every page. `batches.RING` caps narration at 640 and dialogue at 288; the longest dialogue is 220.
+- Script strings can grow: they move to the end of `prg`, 64 KB from `$gp`, and the build refuses more. The game loads that much: entry 321, the largest, padded from 50,056 to 65,164 bytes (`tools/debug/ssg_stress.py`) ran `map_4_04`, `ev_4_04_0001` and `ev_4_04_0003`, its strings on screen. The ring holding queued text is cols x rows x 4 bytes (narration 648; dialogue 304 in a 228 px box, 288 in a 216 px one; cols = px / 12). **Measured** on `ev_1_01_0003` with `build.py --qa`: the string's bytes count, its closing `0C` too, and past the ring only the tail survives (length mod 304: 620 bytes showed the last 12, a 304-byte one showed nothing and skipped its wait). 288 bytes showed every page; 302 lost text on page 2. `batches.RING` caps narration at 640 and dialogue at 288; the longest dialogue is 220.
 - **Stack buffers.** These strings are expanded by sprintf into a fixed buffer on the stack; past its end they overwrite the saved registers and the return address. `insert.FORMAT_ROOM` holds the limits and the build refuses more; `tools/debug/fmt_sites.py` lists every sprintf in the EXE. Battle text (`80052E88`) uses a 4 KB work area, and the menu printer (`80049ED4`) has 128 bytes and an assert, so neither needs a limit beyond its box.
 
 | String | Buffer | Literal text, tokens not counted | Longest argument |
 |---|---|---|---|
 | `exe_00920` item and count | 56 | 36 | item name 17 + count 2 |
 | `exe_00938` item | 56 | 38 | item name 17 |
-| `exe_00894`, `exe_008dc` go to, leave | 48 | 17 | map name 30 (every map name is capped at 30 bytes) |
+| `exe_00894`, `exe_008dc` go to, leave | 48 | 17 | map name 23 (`insert.MAP_NAME_ROOM`: the save list's column) |
 | `exe_008a8`, `exe_008c4` warp, go on | 48 | 47 | - |
 | `exe_012d0` joined the party | 32 | 11 | character name 20: **guess**, which name field it reads is not traced, so `%s joined the party!` (18) is out unless names stay under 13 bytes |
 

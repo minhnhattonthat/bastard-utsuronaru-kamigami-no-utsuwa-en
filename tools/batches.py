@@ -48,16 +48,17 @@ def docs():
         yield path, json.loads(path.read_text(encoding="utf-8"))
 
 
-def is_mark(jp):
-    """Arrows, dots and blanks: nothing to translate."""
-    plain = TOKEN.sub("", jp)
-    return not re.search(r"[0-9A-Za-z０-９Ａ-Ｚａ-ｚ぀-ヿ一-鿿]", plain)
+def keep_jp():
+    """{id: reason} from script/keep_jp.txt: the only player-side lines allowed to stay Japanese."""
+    lines = (ln.partition(" ") for ln in (SCRIPT / "keep_jp.txt").read_text(encoding="utf-8").splitlines() if ln.strip() and ln[0] != "#")
+    return {i: why.strip() for i, _, why in lines}
+
+
+KEEP_JP = keep_jp()
 
 
 def needs_english(e):
-    if e["kind"] not in ("text", "label") or e["id"].startswith("t0392") or is_mark(e["jp"]):
-        return False
-    return not e.get("en")
+    return e["kind"] in ("text", "label") and e["id"] not in KEEP_JP and not e.get("en")
 
 
 def box(e):

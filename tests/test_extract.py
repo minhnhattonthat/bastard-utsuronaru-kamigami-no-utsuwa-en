@@ -1,5 +1,6 @@
 """Phase 4: every extracted string re-encodes to the original bytes, and no Japanese text is left outside script/."""
 import json
+import struct
 import sys
 from pathlib import Path
 
@@ -69,6 +70,18 @@ def test_no_japanese_text_is_left_uncovered():
     noise = {("exe", 0xFBC3), ("exe", 0x11DD9)}
     left = [x for x in X.leftovers() if (x[0], x[1]) not in noise]
     assert not left, left[:20]
+
+
+@need_disc
+def test_every_item_description_pointer_has_an_entry(src):
+    d = X.EXE.read_bytes()
+    have = {e["off"] for e in src["exe"][2]}
+    missed = []
+    for i in range(750):  # table 0x94808, one description per item
+        o = struct.unpack_from("<I", d, 0x94808 + i * 4)[0] - X.EXE_BASE
+        if 0 <= o < len(d) and o not in have and X.has_double(d[o:X.span(d, o, (0,))]):
+            missed.append((i, hex(o)))
+    assert not missed, missed
 
 
 @need_disc

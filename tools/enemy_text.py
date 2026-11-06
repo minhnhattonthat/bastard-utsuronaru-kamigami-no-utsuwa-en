@@ -50,7 +50,7 @@ def main():
     terms = batches.glossary()
     new, left = {}, []
     for e in batches.index().values():
-        if e["kind"] != "label" or e["id"].startswith("t0392") or batches.is_mark(e["jp"]):
+        if e["kind"] != "label" or e["id"] in batches.KEEP_JP:
             continue
         en = label(e["jp"], names)
         if not en or batches.problems(e, en, []):

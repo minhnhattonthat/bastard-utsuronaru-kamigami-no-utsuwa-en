@@ -301,6 +301,7 @@ listname:
     move  $t0, $zero
 listloop:
     lbu   $t1, 0($a1)
+    nop
     sb    $t1, 0($a0)
     addiu $a1, $a1, 1
     addiu $t0, $t0, 1
@@ -312,7 +313,7 @@ listloop:
     jr    $at
     nop
 """
-LISTNAME_WORDS = 12  # instructions in listname, the last thing in ASM
+LISTNAME_WORDS = 13  # instructions in listname, the last thing in ASM
 
 
 def assemble(addr=HOOK, qa=False):

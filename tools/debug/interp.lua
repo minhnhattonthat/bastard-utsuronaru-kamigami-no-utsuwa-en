@@ -1,0 +1,2 @@
+-- warp.py --probe tools/debug/interp.lua: run under the interpreter (it honours load delays, the dynarec hides them).
+-- warp.py adds --debugger for any probe naming L.on_exec, as this comment does.
