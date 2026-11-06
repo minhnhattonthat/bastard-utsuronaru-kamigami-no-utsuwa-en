@@ -45,7 +45,7 @@
    ""
   ],
   "jp": "湖の半ばで途切れた橋の突端に、湖面{n}に立ち上る霧を纏ってイングヴェイが{n}佇んでいた。謎めいた湖水を見つめる{n}彼の表情は沈み、恐らくはその記憶に{n}かかった霧の向こうにいる、主の安否{n}を気遣って苦悩しているようであった。",
-  "en": "At the tip of a bridge broken off halfway{n}across the lake stood Yngwei, wrapped in{n}the mist rising from the water. His face{n}was sunk in gloom as he gazed at the{n}mysterious lake, and he seemed{n}tormented by fear for his lord, who was{n}perhaps beyond the mist that clouded his{n}memory."
+  "en": "At the tip of a bridge broken off halfway{n}across the lake stood Yngwei, wrapped in{n}the mist rising from the water. His face{n}was sunk in gloom as he gazed at the{n}mysterious lake, and he seemed{n}tormented by fear for his liege, who was{n}perhaps beyond the mist that clouded his{n}memory."
  },
  {
   "id": "s0163_00a48",
@@ -141,7 +141,7 @@
    "イングヴェイイングヴェイ・フォン・マルムステ"
   ],
   "jp": "どうやらイングヴェイも、樹海の要所{n}に設えられた堅固な門に、主の探索を{n}阻まれているようだった。囚われの{n}シェンに己の主の姿を投影したのか、{n}憔悴するジオンに同情した目を向ける。",
-  "en": "It seemed that Yngwei, too, had been{n}barred in the search for his lord by the{n}sturdy gates set at key points of the sea{n}of trees. Perhaps seeing his own lord in{n}the captive Schen, he turned a{n}sympathetic eye on the haggard Zion."
+  "en": "It seemed that Yngwei, too, had been{n}barred in the search for his liege by the{n}sturdy gates set at key points of the sea{n}of trees. Perhaps seeing his own liege in{n}the captive Schen, he turned a{n}sympathetic eye on the haggard Zion."
  },
  {
   "id": "s0163_00b9c",
@@ -433,7 +433,7 @@
    ""
   ],
   "jp": "水藻に覆われながら、それは決して{n}水没した城の残骸などではなかった。{n}今もって何者かが棲む、水中にあって{n}魔法の結界に守られた城砦――それが、{n}湖面に幻影の如くに映り込んでいた{n}謎の城の正体であった。",
-  "en": "Though covered in water weed, it was by{n}no means the wreck of a sunken castle. It{n}was a fortress still inhabited by someone,{n}kept under water by a magic{n}barrier--that was the true form of the{n}mysterious castle that had shown in the{n}lake's surface like an illusion."
+  "en": "Though covered in water weed, it was by{n}no means the wreck of a sunken castle. It{n}was a fortress still inhabited by someone,{n}shielded under the water by a magic{n}barrier--that was the true form of the{n}mysterious castle that had shown in the{n}lake's surface like an illusion."
  },
  {
   "id": "s0163_01250",
