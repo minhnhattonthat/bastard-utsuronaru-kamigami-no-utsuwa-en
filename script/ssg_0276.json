@@ -21,7 +21,7 @@
    ""
   ],
   "jp": "宮殿の内部は、奇妙に息苦しい波動に{n}満たされていた。可聴域外を不協和音{n}が流れているような、調律の狂った{n}音波――そんな波動が、エーテルを{n}通じて全身を幽かに震わせている。",
-  "en": ""
+  "en": "The inside of the palace was filled with{n}oddly stifling waves. Off-key sound, like{n}dissonance flowing beyond hearing, faintly{n}shook their whole bodies through the{n}ether."
  },
  {
   "id": "s0276_008c4",
@@ -45,7 +45,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "何かがおかしい――そんな感じだぜ",
-  "en": ""
+  "en": "Something's off here. That's how it feels."
  },
  {
   "id": "s0276_008e8",
@@ -69,7 +69,7 @@
    "シェラ"
   ],
   "jp": "自然の均衡が狂っている……地表で{n}オーロラに感じたものに似ているな",
-  "en": ""
+  "en": "The balance of nature is deranged... It is{n}similar to what I felt from the aurora on{n}the surface."
  },
  {
   "id": "s0276_009c0",
@@ -93,7 +93,7 @@
    "シーン"
   ],
   "jp": "誰かいる……兄さん!?",
-  "en": ""
+  "en": "Someone's there... Brother!?"
  },
  {
   "id": "s0276_009d8",
@@ -117,7 +117,7 @@
    "ラン"
   ],
   "jp": "シーンか……",
-  "en": ""
+  "en": "Sean..."
  },
  {
   "id": "s0276_009e8",
@@ -141,7 +141,7 @@
    "ラン"
   ],
   "jp": "現れたのは、魔戦将軍の中でも最も{n}純粋に武器を用いた白兵戦闘に秀でた{n}戦士ランであった。その目的は明らか{n}に、この地の探索を始めたＤ・Ｓたち{n}の抹殺である。忠誠を誓った至高王と、{n}短い間ながらもともに戦った仲間――{n}そして実の妹との間に挟まれ、ランの{n}端正な貌は苦悩に翳った。",
-  "en": ""
+  "en": "Who appeared was Ran, the warrior who{n}among all the Sorcerer Generals excelled{n}most purely at hand-to-hand fighting with{n}weapons. His aim was clearly to slay D.S.{n}and the others, who had begun to search{n}this place. Caught between the High King{n}he had sworn to, his comrades of a short{n}time, and his own sister, Ran's fine face{page}was clouded with anguish."
  },
  {
   "id": "s0276_00af8",
@@ -165,7 +165,7 @@
    "シーン"
   ],
   "jp": "やめて兄さん！　もう操られている{n}わけじゃないんでしょう!?",
-  "en": ""
+  "en": "Stop it, brother! You're not being controlled{n}anymore, are you!?"
  },
  {
   "id": "s0276_00b34",
@@ -189,7 +189,7 @@
    "ラン"
   ],
   "jp": "そう……もはや黒騎士ではない。だが、{n}俺は自分の意志でカル様に従う。{n}ネイ様のもとを去った後、俺の{n}生き甲斐はカル様とともにあった――",
-  "en": ""
+  "en": "No... I am no longer the Black Knight. But I{n}follow Kall-sama of my own will. After I left{n}Nei-sama, I found my reason to live with{n}Kall-sama--"
  },
  {
   "id": "s0276_00bbc",
@@ -213,7 +213,7 @@
    "ラン"
   ],
   "jp": "その命とあらば、抗うわけにはゆかぬ。{n}それがたとえ――妹と刃を交えること{n}になっても！",
-  "en": ""
+  "en": "If that is his order, I cannot resist. Even if{n}it means crossing swords with my sister!"
  },
  {
   "id": "s0276_00c14",
@@ -261,7 +261,7 @@
    "ラン"
   ],
   "jp": "く……太刀筋が鈍い。俺はまだ迷って{n}いるのか……？",
-  "en": ""
+  "en": "Ngh... My sword is dull. Do I still waver...?"
  },
  {
   "id": "s0276_00c54",
@@ -285,7 +285,7 @@
    "シーン"
   ],
   "jp": "兄さんお願い……カイだって、兄さん{n}を止めようと追っていったのよ",
-  "en": ""
+  "en": "Brother, please... Even Kai went after you to{n}stop you."
  },
  {
   "id": "s0276_00c98",
@@ -309,7 +309,7 @@
    "ラン"
   ],
   "jp": "何!?　カイが――",
-  "en": ""
+  "en": "What!? Kai--"
  },
  {
   "id": "s0276_00cac",
@@ -333,7 +333,7 @@
    "シーン"
   ],
   "jp": "間違いに気がついて……カル＝スは{n}正気じゃない。本当は判っているんで{n}しょう？",
-  "en": ""
+  "en": "Realize your mistake... Kall-Su isn't in his{n}right mind. You really know that, don't{n}you?"
  },
  {
   "id": "s0276_00cfc",
@@ -357,7 +357,7 @@
    "ラン"
   ],
   "jp": "……いや。カル様の理想を信じ、数多{n}の戦いを貫いてきた俺だ。これだけは{n}曲げることはできん――この刃の下に{n}倒れていった者たちのためにも！",
-  "en": ""
+  "en": "...No. I have believed in Kall-sama's ideal, and{n}carried it through countless battles. That is{n}one thing I cannot bend. For the sake of{n}those who fell under this blade, too!"
  },
  {
   "id": "s0276_00d88",
@@ -382,7 +382,7 @@
    "ラン"
   ],
   "jp": "ここは退かせてもらう、Ｄ・Ｓよ。{n}次に遭う時は、迷いなき太刀にて{n}臨ませてもらおう――",
-  "en": ""
+  "en": "I shall withdraw for now, D.S. Next time we{n}meet, I shall face you with an unwavering{n}sword--"
  },
  {
   "id": "s0276_00de0",
@@ -406,7 +406,7 @@
    "シーン"
   ],
   "jp": "ラン！　兄さん……",
-  "en": ""
+  "en": "Ran! Brother..."
  },
  {
   "id": "s0276_00df4",
@@ -430,7 +430,7 @@
    "カイ"
   ],
   "jp": "……！　この気配は、ランか!?",
-  "en": ""
+  "en": "...! I know this presence. Ran!?"
  },
  {
   "id": "s0276_00e14",
@@ -454,7 +454,7 @@
    "ラン"
   ],
   "jp": "カイ……やはり、こうして向かい合う{n}ことになってしまったか――",
-  "en": ""
+  "en": "Kai... So we have ended up facing each other{n}after all--"
  },
  {
   "id": "s0276_00e54",
@@ -478,7 +478,7 @@
    "ラン"
   ],
   "jp": "現れたのは、魔戦将軍の中でも最も{n}純粋に武器を用いた白兵戦闘に秀でた{n}戦士ランであった。その目的は明らか{n}に、この地の探索を始めたＤ・Ｓたち{n}の抹殺である。忠誠を誓った至高王と、{n}短い間ながらもともに戦った仲間――{n}そして幼なじみのカイとの間に挟まれ、{n}ランの端正な貌は苦悩に翳った。",
-  "en": ""
+  "en": "Who appeared was Ran, the warrior who{n}among all the Sorcerer Generals excelled{n}most purely at hand-to-hand fighting with{n}weapons. His aim was clearly to slay D.S.{n}and the others, who had begun to search{n}this place. Caught between the High King{n}he had sworn to, his comrades of a short{n}time, and his childhood friend Kai, Ran's{page}fine face was clouded with anguish."
  },
  {
   "id": "s0276_00f6c",
@@ -502,7 +502,7 @@
    "ラン"
   ],
   "jp": "できることなら、お前にはここにいて{n}欲しくはなかった……あの日立てた{n}誓いを破りたくはなかった",
-  "en": ""
+  "en": "If I could have had my way, I would not{n}have had you here... I did not want to break{n}the oath I made that day."
  },
  {
   "id": "s0276_00fcc",
@@ -526,7 +526,7 @@
    "カイ"
   ],
   "jp": "何故俺たちが戦わねばならん!?{n}カル＝スの命令はそんなにも重いのか？",
-  "en": ""
+  "en": "Why do we have to fight!? Is Kall-Su's order{n}that heavy?"
  },
  {
   "id": "s0276_01010",
@@ -550,7 +550,7 @@
    "ラン"
   ],
   "jp": "……そうだ。鬼道衆を去ってから、俺{n}の生き甲斐はあのお方とともにあった。{n}ネイ様は母の温もりを与えてくれたが、{n}カル様は理想を与えてくれたのだ――",
-  "en": ""
+  "en": "...It is. After I left the Kido Corps, I found{n}my reason to live with that lord. Nei-sama{n}gave me a mother's warmth, but Kall-sama{n}gave me an ideal--"
  },
  {
   "id": "s0276_010a4",
@@ -574,7 +574,7 @@
    "ラン"
   ],
   "jp": "そのカル様の命に抗うことはできぬ。{n}それがたとえカイ――お前と刃を{n}交えることになろうとも！",
-  "en": ""
+  "en": "I cannot resist Kall-sama's order. Even if it{n}means crossing swords with you, Kai!"
  },
  {
   "id": "s0276_01100",
@@ -598,7 +598,7 @@
    "カイ"
   ],
   "jp": "くっ！",
-  "en": ""
+  "en": "Ngh!"
  },
  {
   "id": "s0276_01108",
@@ -622,7 +622,7 @@
    "ヨシュア"
   ],
   "jp": "危ない！　カイ！",
-  "en": ""
+  "en": "Look out! Kai!"
  },
  {
   "id": "s0276_0111c",
@@ -646,7 +646,7 @@
    "ラン"
   ],
   "jp": "く……太刀筋が鈍い。俺はまだ迷って{n}いるのか――？　あの日の誓いを……",
-  "en": ""
+  "en": "Ngh... My sword is dull. Do I still waver--?{n}The oath I made that day..."
  },
  {
   "id": "s0276_01164",
@@ -670,7 +670,7 @@
    "ヨシュア"
   ],
   "jp": "ラン！　もうよすんだ！　カル＝スが{n}正気ではないと、貴様にも判っている{n}のだろう!?",
-  "en": ""
+  "en": "Ran! Enough! You too must know that Kall-Su{n}is not in his right mind!"
  },
  {
   "id": "s0276_011b8",
@@ -694,7 +694,7 @@
    "ラン"
   ],
   "jp": "ヨシュアか。フ……そうか。もう{n}誓いは他の男が果たしてくれるのかも{n}知れないな――",
-  "en": ""
+  "en": "Joshua. Heh... I see. Perhaps another man will{n}fulfill my oath now--"
  },
  {
   "id": "s0276_0120c",
@@ -742,7 +742,7 @@
    "カイ"
   ],
   "jp": "シーンもお前を連れ戻そうと追って{n}いったのだぞ！　目を覚ませ、ラン！",
-  "en": ""
+  "en": "Sean's gone after you to bring you back too!{n}Wake up, Ran!"
  },
  {
   "id": "s0276_0125c",
@@ -766,7 +766,7 @@
    "ラン"
   ],
   "jp": "シーンが……くっ、この兄を許せ……",
-  "en": ""
+  "en": "Sean too... Ngh, forgive your brother..."
  },
  {
   "id": "s0276_01280",
@@ -790,7 +790,7 @@
    "ラン"
   ],
   "jp": "だが、引き返すことはできん。理想を{n}信じた戦いの中で、この刃の下に{n}散っていった者たちのためにも！",
-  "en": ""
+  "en": "But I cannot turn back. For the sake of{n}those who fell under this blade, in battles{n}fought for an ideal I believed in!"
  },
  {
   "id": "s0276_012e4",
@@ -814,7 +814,7 @@
    "カイ"
   ],
   "jp": "ラン！　ばかやろう……何でだよ……",
-  "en": ""
+  "en": "Ran! You idiot... Why..."
  },
  {
   "id": "s0276_01308",
@@ -862,7 +862,7 @@
    ""
   ],
   "jp": "幽かな震動が続き、止まった。{page}木星宮は正しい座標へと移動した。",
-  "en": ""
+  "en": "A faint tremor went on, then stopped.{page}The Jupiter Palace had moved to its{n}proper coordinates."
  },
  {
   "id": "s0276_01778",
@@ -911,7 +911,7 @@
    ""
   ],
   "jp": "そこには巨大なレバーを始めとする、{n}原始的な操作盤が据え付けられていた。",
-  "en": ""
+  "en": "Fitted there was a primitive control panel,{n}with a huge lever among other things."
  },
  {
   "id": "s0276_017cc",
@@ -935,7 +935,7 @@
    "ヴァイ"
   ],
   "jp": "アンタ、操作できんの？",
-  "en": ""
+  "en": "You know how to work that?"
  },
  {
   "id": "s0276_017e4",
@@ -959,7 +959,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "ふん。目ぇつぶっててもできらあ。{n}天才様に不可能はないのだ",
-  "en": ""
+  "en": "Hmph. I could do it with my eyes closed.{n}Nothing's impossible for a genius."
  },
  {
   "id": "s0276_01820",
@@ -983,7 +983,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "Ｄ・Ｓは安全装置らしきものを外し、{n}淀みない手つきで次々とレバーを{n}倒していく。操作した経験があるかの{n}如き、流れるような手際であった。",
-  "en": ""
+  "en": "D.S. undid what looked like a safety device{n}and pulled down one lever after another{n}with sure hands. His flowing skill looked as{n}though he had worked it before."
  },
  {
   "id": "s0276_018a8",
@@ -1007,7 +1007,7 @@
    "ヨルグ"
   ],
   "jp": "ほう。凄いな、Ｄ・Ｓ",
-  "en": ""
+  "en": "Oh. Impressive, D.S."
  },
  {
   "id": "s0276_018c0",
@@ -1031,7 +1031,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "ハッハッハーッ！　超絶美形は何でも{n}できる！　それがこの世の普遍の法則{n}なのだ……にしても、俺どうして判る{n}んだろ？　思ってたより複雑なのにな",
-  "en": ""
+  "en": "Hah hah hah! A super-gorgeous guy can do{n}anything! That's the universal law of this{n}world... Still, how the hell do I know this? It's{n}more complex than I thought."
  },
  {
   "id": "s0276_01950",
@@ -1055,7 +1055,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "最後のレバーが倒され、短い沈黙が{n}流れた。と、宮殿の基部らしき辺り{n}から低い振動音が響き、やがて微震が{n}足下から這い上ってきた。",
-  "en": ""
+  "en": "The last lever went down, and a short{n}silence fell. Then a low vibration sounded{n}from what seemed to be the palace's{n}base, and soon a faint tremor crept up{n}from underfoot."
  },
  {
   "id": "s0276_019d0",
@@ -1079,7 +1079,7 @@
    "ヴァイ"
   ],
   "jp": "壊しちまったんじゃねーの？",
-  "en": ""
+  "en": "Didn't you just break it?"
  },
  {
   "id": "s0276_019ec",
@@ -1103,7 +1103,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "いや、ちゃんとメカニズムが作動して{n}いる音だぜ。俺様に失敗はない！",
-  "en": ""
+  "en": "Nah, that's the sound of the mechanism{n}working right. The great me never fails!"
  },
  {
   "id": "s0276_01a30",
@@ -1127,7 +1127,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "ガコン！　という重い響きを立てて、{n}しばらく続いた振動は止まった。",
-  "en": ""
+  "en": "Gakon! With a heavy noise, the vibration{n}that had gone on for a while came to a{n}stop."
  },
  {
   "id": "s0276_01a74",
@@ -1151,7 +1151,7 @@
    "ボル"
   ],
   "jp": "止まったようでござるな",
-  "en": ""
+  "en": "It seems to have stopped, forsooth."
  },
  {
   "id": "s0276_01a8c",
@@ -1175,7 +1175,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "何か起きたとも……ん？",
-  "en": ""
+  "en": "Doesn't look like anything happened... hm?"
  },
  {
   "id": "s0276_01aa4",
@@ -1199,7 +1199,7 @@
    "シェラ"
   ],
   "jp": "判るか、Ｄ・Ｓ？　宮殿に満ちていた{n}違和感が消えている……狂いが調律{n}されたような……",
-  "en": ""
+  "en": "Can you tell, D.S.? The strange feeling that{n}filled the palace is gone... as if the discord{n}had been put back in tune..."
  },
  {
   "id": "s0276_01afc",
@@ -1223,6 +1223,6 @@
    "ヨルグ"
   ],
   "jp": "外に出てみよう",
-  "en": ""
+  "en": "Let us go outside."
  }
 ]

@@ -21,7 +21,7 @@
    ""
   ],
   "jp": "凄まじい闘気を放射する人影がそこに{n}いた。",
-  "en": ""
+  "en": "A figure stood there, radiating a terrific{n}fighting spirit."
  },
  {
   "id": "s0301_00844",
@@ -45,7 +45,7 @@
    "ザック"
   ],
   "jp": "やっぱり強いんだな、アンタら。{n}魔戦将軍が雁首揃えてるのに、{n}ここまで昇ってくるなんてな",
-  "en": ""
+  "en": "You guys sure are strong. To climb all the{n}way up here, with all the Sorcerer Generals{n}lined up against you."
  },
  {
   "id": "s0301_0089c",
@@ -69,7 +69,7 @@
    "ボル"
   ],
   "jp": "ザック！　もう止すでござる！　あの{n}お方はカル様であってカル様ではない！{n}我々の手で、正気を取り戻さねば――",
-  "en": ""
+  "en": "Zakk! Stop this, forsooth! That lord is{n}Kall-sama, yet not Kall-sama! We must{n}restore him to his senses with our own{n}hands--"
  },
  {
   "id": "s0301_00908",
@@ -93,7 +93,7 @@
    "ザック"
   ],
   "jp": "……ダメだ。戦う前から折れるなんて、{n}武道家の面子にかけてできない。{n}この拳が砕けるまで、俺はカル様から{n}任されたこの場所を守る！",
-  "en": ""
+  "en": "...No way. Giving in before a fight, on my{n}honor as a martial artist, I can't do that. Till{n}these fists shatter, I'm gonna guard the{n}spot Kall-sama trusted me with!"
  },
  {
   "id": "s0301_0098c",
@@ -117,7 +117,7 @@
    "ヴァイ"
   ],
   "jp": "ザック！　無事だったのか？{n}オマエも魔戦将軍なのかよ!?",
-  "en": ""
+  "en": "Zakk! You okay? You're a Sorcerer General{n}too!?"
  },
  {
   "id": "s0301_009c4",
@@ -141,7 +141,7 @@
    "ザック"
   ],
   "jp": "そうだ。ずいぶんいろんなことを{n}思い出したよ。俺は昔、カル様に命を{n}救われたんだ……だからその命、{n}ここで使っても悔いはない！",
-  "en": ""
+  "en": "Yeah. I've remembered a whole lot of stuff.{n}A long time ago, Kall-sama saved my life... So{n}I got no regrets about using it here!"
  },
  {
   "id": "s0301_00a44",
@@ -165,7 +165,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "ザック……オマエも魔戦将軍か",
-  "en": ""
+  "en": "Zakk... So you're a Sorcerer General too."
  },
  {
   "id": "s0301_00a64",
@@ -189,7 +189,7 @@
    "ザック"
   ],
   "jp": "久しぶりだな、Ｄ・Ｓ。アンタにも{n}救われた命だが、俺はカル様のために{n}使わなくちゃならない。カル様がいな{n}かったなら、今の俺はないんだ――",
-  "en": ""
+  "en": "Long time no see, D.S. You saved my life too,{n}but I gotta use it for Kall-sama. If it{n}weren't for Kall-sama, I wouldn't be who I{n}am--"
  },
  {
   "id": "s0301_00af0",
@@ -213,7 +213,7 @@
    "ヴァイ"
   ],
   "jp": "ザック！　それがお前の見定めた正義{n}なのかよ!?",
-  "en": ""
+  "en": "Zakk! Is that what you've decided is{n}right!?"
  },
  {
   "id": "s0301_00b20",
@@ -237,7 +237,7 @@
    "ザック"
   ],
   "jp": "ヴァイ……こんな形じゃなく、戦えれ{n}ば良かったな。だが、俺は魔戦将軍{n}なんだ――行くぜ！",
-  "en": ""
+  "en": "Vai... Wish we could've fought some other{n}way. But I'm a Sorcerer General-- Here I{n}come!"
  },
  {
   "id": "s0301_00b78",
@@ -261,7 +261,7 @@
    "ザック"
   ],
   "jp": "く……あの時より、ずっと強い！{n}だけど俺は退かない！　この命を燃や{n}し尽くすまで、ここを死守するんだ！",
-  "en": ""
+  "en": "Ngh... You're way stronger than back then!{n}But I ain't backing down! Till I burn up my{n}whole life, I'm guarding this place to the{n}death!"
  },
  {
   "id": "s0301_00be0",
@@ -285,7 +285,7 @@
    "ヴァイ"
   ],
   "jp": "ザック――",
-  "en": ""
+  "en": "Zakk--"
  },
  {
   "id": "s0301_00bec",
@@ -309,7 +309,7 @@
    "ヴァイ"
   ],
   "jp": "その時だった。突如頭上で撃鉄が起き{n}るような音が響き、続いて無数の刃が{n}一行とザックの戦場に降り注いだ。",
-  "en": ""
+  "en": "It was then. Suddenly overhead there{n}came a sound like a hammer being cocked,{n}and then countless blades rained down on{n}the field where the party and Zakk{n}fought."
  },
  {
   "id": "s0301_00c54",
@@ -333,7 +333,7 @@
    "ザック"
   ],
   "jp": "うわああ――！",
-  "en": ""
+  "en": "Waaaaah--!"
  },
  {
   "id": "s0301_00c64",
@@ -357,7 +357,7 @@
    "ヴァイ"
   ],
   "jp": "危ねえっ！",
-  "en": ""
+  "en": "Look out!"
  },
  {
   "id": "s0301_00c70",
@@ -381,7 +381,7 @@
    "ヴァイ"
   ],
   "jp": "傷を負って避け切れぬザックを、飛び{n}込んだヴァイがすんでのところで罠の{n}外へと連れ出した。それがなければ、{n}ザックは刃の雨をまともに浴び、人間{n}と判らぬほどに寸断されていただろう。",
-  "en": ""
+  "en": "Zakk, wounded and unable to dodge, was{n}dragged clear of the trap in the nick of{n}time by Vai, leaping in. But for that, Zakk{n}would have taken the rain of blades full{n}on, cut into pieces no one could have{n}known for human."
  },
  {
   "id": "s0301_00d24",
@@ -405,7 +405,7 @@
    "ザック"
   ],
   "jp": "こ……こんな罠が、カル様が俺に守れ{n}と命令した場所に……俺を見殺しに？{n}ウソだ！　そんな……",
-  "en": ""
+  "en": "A... a trap like this, in the place Kall-sama{n}told me to guard... He left me to die? No{n}way! That can't..."
  },
  {
   "id": "s0301_00d80",
@@ -429,7 +429,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "こいつはお前が敗れた時の保険だぜ。{n}役に立たない部下もろとも、あわよく{n}ば俺たちまで片付けようって肚だな",
-  "en": ""
+  "en": "This was insurance in case you lost. He{n}wanted to dispose of his useless men, and us{n}too if he got lucky."
  },
  {
   "id": "s0301_00de8",
@@ -453,7 +453,7 @@
    "ザック"
   ],
   "jp": "カル様がそんなことをするなんて……{n}ウソだ！　ウソだ！　ウソだ……",
-  "en": ""
+  "en": "Kall-sama wouldn't do that... No way! No way!{n}No way..."
  },
  {
   "id": "s0301_00e2c",
@@ -477,7 +477,7 @@
    "ヴァイ"
   ],
   "jp": "いくら昔救われた命だって、こんな風{n}に使われる覚えはねえだろが！{n}義理に囚われないで、何が正しいのか{n}自分で考えろよ、ザック！",
-  "en": ""
+  "en": "Saved your life or not, you don't owe it to{n}anybody to be used like this! Quit being a{n}slave to duty and think for yourself about{n}what's right, Zakk!"
  },
  {
   "id": "s0301_00eac",
@@ -501,7 +501,7 @@
    "ザック"
   ],
   "jp": "……正気のカル様が、こんな非道を{n}するはずがない。俺の正義は……カル{n}様にこんな真似をさせたヤツをブチ{n}のめすコトだ！　それが俺の恩返しだ！",
-  "en": ""
+  "en": "...Kall-sama in his right mind would never do{n}something this rotten. My justice is... to{n}pound whoever made Kall-sama do this!{n}That's how I repay him!"
  },
  {
   "id": "s0301_00f38",
@@ -525,7 +525,7 @@
    "ヴァイ"
   ],
   "jp": "イイぞ！　そうじゃなきゃウソだぜ！",
-  "en": ""
+  "en": "That's it! Now that's more like it!"
  },
  {
   "id": "s0301_01268",
@@ -549,7 +549,7 @@
    ""
   ],
   "jp": "仁王像の如く、完全武装の巨大な{n}騎士がそこに立ち塞がっていた。",
-  "en": ""
+  "en": "Like a temple guardian statue, a huge{n}knight in full armor stood blocking the{n}way."
  },
  {
   "id": "s0301_012a8",
@@ -573,7 +573,7 @@
    "ブラド"
   ],
   "jp": "遂に騎士の修行の成果を見せる時が{n}来たようだな――",
-  "en": ""
+  "en": "At last the time has come to show the fruits{n}of my knightly training--"
  },
  {
   "id": "s0301_012dc",
@@ -597,7 +597,7 @@
    "ブラド"
   ],
   "jp": "この場所は何としても死守しなければ{n}ならん。カル様に仕える騎士として、{n}貴様らとて手加減はせんぞ！",
-  "en": ""
+  "en": "This place must be held to the death, no{n}matter what. As a knight in Kall-sama's{n}service, I shall show you no mercy!"
  },
  {
   "id": "s0301_01340",
@@ -621,7 +621,7 @@
    "ヴァイ"
   ],
   "jp": "おいおい、ブラドのオッサンまで{n}カル＝スの配下だったのかよ？",
-  "en": ""
+  "en": "Hey, hey, so old man Blad's one of Kall-Su's{n}men too?"
  },
  {
   "id": "s0301_01380",
@@ -645,7 +645,7 @@
    "ブラド"
   ],
   "jp": "ええい！　ワシはまだ二十代じゃあ！{n}オッサンなどと呼ばれる歳ではないっ！",
-  "en": ""
+  "en": "Silence! I am still in my twenties! I am not of{n}an age to be called old man!"
  },
  {
   "id": "s0301_013cc",
@@ -669,7 +669,7 @@
    "ブラド"
   ],
   "jp": "さあ、どちらが騎士として相応しく{n}生きてきたか、勝負だ！　Ｄ・Ｓよ！",
-  "en": ""
+  "en": "Now, let us see which of us has lived more{n}worthily as a knight, D.S.!"
  },
  {
   "id": "s0301_01414",
@@ -693,7 +693,7 @@
    "ブラド"
   ],
   "jp": "ぬうう？　ワシが敗れるとは!?{n}修行が……修行が足りぬと言うのか？",
-  "en": ""
+  "en": "Hrrm? I, defeated!? Is my training... is my{n}training lacking?"
  },
  {
   "id": "s0301_01458",
@@ -717,7 +717,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "その通り、修行が足りねえ！　盲目的{n}に主に従うだけなら誰でもできる！{n}違うか？　ブラド",
-  "en": ""
+  "en": "That's right, your training's lacking! Anybody{n}can follow a master blindly! Am I wrong?{n}Blad."
  },
  {
   "id": "s0301_014b0",
@@ -741,7 +741,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "騎士の修行は正しき道を見極めるため{n}にあーる！　忠誠を誓うばかりでは、{n}真の騎士道にはほど遠いぜ！",
-  "en": ""
+  "en": "Knightly training is for telling the right road{n}from the wrong! Swearing loyalty ain't{n}enough, you're a long way off from true{n}chivalry!"
  },
  {
   "id": "s0301_01514",
@@ -765,7 +765,7 @@
    "ヴァイ"
   ],
   "jp": "アンタの口から、よもやそんな言葉が{n}出ようとは……",
-  "en": ""
+  "en": "I never thought I'd hear those words from{n}you..."
  },
  {
   "id": "s0301_01548",
@@ -789,7 +789,7 @@
    "ブラド"
   ],
   "jp": "うおおお！　全てにおいて負けたわぁ！",
-  "en": ""
+  "en": "Uoooh! I have lost in every respect!"
  },
  {
   "id": "s0301_01570",
@@ -813,7 +813,7 @@
    "ブラド"
   ],
   "jp": "貴様こそ真の騎士だ、Ｄ・Ｓ！　かく{n}も正しく騎士の在りようを説かれては、{n}ワシも貴様に従う他ない――ともに{n}行き、カル様の真意を質す！",
-  "en": ""
+  "en": "You are the true knight, D.S.! With the way{n}of the knight so rightly preached, I can but{n}follow you. Let us go together, and ask{n}Kall-sama his true intent!"
  },
  {
   "id": "s0301_015f8",
@@ -837,7 +837,7 @@
    "ブラド"
   ],
   "jp": "行け、Ｄ・Ｓよ。カル様が間違って{n}おられるのなら、貴様がその道を正し、{n}導いてくれい――",
-  "en": ""
+  "en": "Go on, D.S. If Kall-sama is mistaken, you must{n}set him right, and guide him--"
  },
  {
   "id": "s0301_01650",
@@ -861,7 +861,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "オメエは、どうするつもりだ？",
-  "en": ""
+  "en": "What are you gonna do?"
  },
  {
   "id": "s0301_01670",
@@ -885,7 +885,7 @@
    "ブラド"
   ],
   "jp": "一から修行のやり直しじゃい。いつの{n}日かまた、こことは違う場所で会える{n}ことを神に祈っておるわ。その時には、{n}貴様に負けぬ真の騎士となってみせる！",
-  "en": ""
+  "en": "Begin my training anew, from the start. I{n}pray to God that we may someday meet{n}again, elsewhere than here. By then I shall{n}be a true knight, your equal!"
  },
  {
   "id": "s0301_01704",
@@ -909,7 +909,7 @@
    "ブラド"
   ],
   "jp": "さらばだ！{n}カル様を、よろしく頼む――",
-  "en": ""
+  "en": "Farewell! I entrust Kall-sama to you--"
  },
  {
   "id": "s0301_0172c",
@@ -933,7 +933,7 @@
    "ブラド"
   ],
   "jp": "ブラドは再び修行の旅へ赴くべく、{n}巨体を揺らして氷獄塔を降りていった。",
-  "en": ""
+  "en": "To set out on his journey of training once{n}more, Blad went down from the Ice Hell{n}Tower, his huge body swaying."
  },
  {
   "id": "s0301_019e8",
@@ -957,7 +957,7 @@
    ""
   ],
   "jp": "Ｄ・Ｓ一行は、氷獄塔の最上層と思し{n}きフロアに到達していた。塔頂への{n}出口が近いらしく、高空の冷たい空気{n}と、風が鳴る音が幽かに感じられる。",
-  "en": ""
+  "en": "D.S. and the party had reached what{n}appeared to be the top floor of the Ice{n}Hell Tower. The exit to the summit seemed{n}close, for they could faintly sense the{n}cold air of the high sky and the sound of{n}wind."
  },
  {
   "id": "s0301_01a74",
@@ -981,7 +981,7 @@
    ""
   ],
   "jp": "そこに、イングヴェイがいた。至高王{n}麾下の魔戦将軍最後のひとりとして、{n}カル＝スを守り抜く決死の覚悟を{n}秘めた表情であった。",
-  "en": ""
+  "en": "There stood Yngwei. As the last of the{n}Sorcerer Generals under the High King, his{n}face held a deadly resolve to defend{n}Kall-Su to the end."
  },
  {
   "id": "s0301_01af0",
@@ -1005,7 +1005,7 @@
    "シェラ"
   ],
   "jp": "イングヴェイ！　剣を引いてくれ！{n}我々の話を聞いてくれ！",
-  "en": ""
+  "en": "Yngwei! Put up your sword! Hear us out!"
  },
  {
   "id": "s0301_01b2c",
@@ -1029,7 +1029,7 @@
    "イングヴェイイングヴェイ・フォン・マルムステ"
   ],
   "jp": "……カル様のもとに身を置いてから、{n}私の人生は始まったと言って良い。{n}それまでの私は、国家に正当化された{n}殺人を行う理想も夢もない人間だった",
-  "en": ""
+  "en": "...You may say my life began when I joined{n}Kall-sama. Until then I was a man with no{n}ideals or dreams, committing murder made{n}legal by the state."
  },
  {
   "id": "s0301_01bb8",
@@ -1053,7 +1053,7 @@
    "イングヴェイイングヴェイ・フォン・マルムステ"
   ],
   "jp": "カル様は私の主君であり、親でもある。{n}今やそのカル様をお守りできるのは私{n}ひとりだ。ならばここで命を賭すこと{n}に何の躊躇いがあろうか――",
-  "en": ""
+  "en": "Kall-sama is my lord, and a father to me as{n}well. Now I alone can protect that{n}Kall-sama. Then how could I hesitate to{n}stake my life here--"
  },
  {
   "id": "s0301_01c40",
@@ -1077,7 +1077,7 @@
    "イングヴェイイングヴェイ・フォン・マルムステ"
   ],
   "jp": "行くぞＤ・Ｓ！　至高王の命により、{n}貴方を討つ！",
-  "en": ""
+  "en": "Here I come, D.S.! By order of the High King,{n}I shall strike you down!"
  },
  {
   "id": "s0301_01c74",
@@ -1101,7 +1101,7 @@
    "シェラ"
   ],
   "jp": "やめて――",
-  "en": ""
+  "en": "Stop it--"
  },
  {
   "id": "s0301_01c80",
@@ -1125,7 +1125,7 @@
    "イングヴェイイングヴェイ・フォン・マルムステ"
   ],
   "jp": "ぐふっ……まだだ。私がお守りせねば{n}……カル様をお守りせねば！",
-  "en": ""
+  "en": "Ugh... Not yet. I must protect him... I must{n}protect Kall-sama!"
  },
  {
   "id": "s0301_01cc0",
@@ -1173,7 +1173,7 @@
    "シェラ"
   ],
   "jp": "よろめきながら立ち上がる騎士を、{n}シェラが駆け寄って支えようとする。{n}それを振り払い、荒れた呼吸で剣を{n}構えるイングヴェイの姿は、気高く、{n}そして無惨であった。",
-  "en": ""
+  "en": "Shella ran to the knight, staggering to his{n}feet, and tried to hold him up. Shaking her{n}off, with ragged breath, he raised his{n}sword, and the sight of Yngwei was noble,{n}and pitiful."
  },
  {
   "id": "s0301_01d70",
@@ -1197,7 +1197,7 @@
    "マカパイン"
   ],
   "jp": "イングヴェイ……貴様が話を聞いて{n}くれるなら、このマカパイン、首を{n}落とされてやっても良い――",
-  "en": ""
+  "en": "Yngwei... If it would make you listen, I,{n}Macalpine, would let you take my head--"
  },
  {
   "id": "s0301_01dd0",
@@ -1221,7 +1221,7 @@
    "イングヴェイイングヴェイ・フォン・マルムステ"
   ],
   "jp": "……！　貴公――",
-  "en": ""
+  "en": "...! Sir--"
  },
  {
   "id": "s0301_01de4",
@@ -1245,7 +1245,7 @@
    "マカパイン"
   ],
   "jp": "意外に思うのも無理はあるまいな。{n}魔戦将軍の中で反目し合っていた――{n}いや、一方的に貴様を敵視していた{n}私がこんなことを言い出すのは――",
-  "en": ""
+  "en": "No wonder you are surprised. For me to say{n}such a thing: we were at odds among the{n}Sorcerer Generals. No, I alone looked on you{n}as an enemy--"
  },
  {
   "id": "s0301_01e6c",
@@ -1269,7 +1269,7 @@
    "マカパイン"
   ],
   "jp": "だが、命を賭ける価値は充分にある。{n}私は貴様に、こんなところで死んで{n}欲しくはないのだ",
-  "en": ""
+  "en": "But it is well worth staking my life. I do not{n}want you to die in a place like this."
  },
  {
   "id": "s0301_01ec4",
@@ -1317,7 +1317,7 @@
    "マカパイン"
   ],
   "jp": "他の魔戦将軍とて同じだろう。貴様は{n}常にカル様の――正しきカル様の側に{n}仕えていてもらいたいのだ。貴様も{n}本当は、気づいているのだろう？",
-  "en": ""
+  "en": "It must be the same for the other Sorcerer{n}Generals. We want you always at Kall-sama's{n}side, the true Kall-sama. Surely you too{n}have really noticed?"
  },
  {
   "id": "s0301_01f54",
@@ -1339,7 +1339,7 @@
    "イングヴェイイングヴェイ・フォン・マルムステ"
   ],
   "jp": "……良かろう。ならば卿らが至高王の{n}もとを去った理由、聞かせてもらおう{n}――",
-  "en": ""
+  "en": "...Very well. Then let me hear why you left{n}the High King--"
  },
  {
   "id": "s0301_01fa0",
@@ -1363,7 +1363,7 @@
    "イングヴェイイングヴェイ・フォン・マルムステ"
   ],
   "jp": "だが、さしものイングヴェイも、魔戦{n}将軍の多くがＤ・Ｓについた現状に、{n}少なからず動揺している様子であった。",
-  "en": ""
+  "en": "Yet even Yngwei seemed not a little{n}shaken at seeing so many Sorcerer{n}Generals now on D.S.'s side."
  },
  {
   "id": "s0301_0200c",
@@ -1387,7 +1387,7 @@
    "イングヴェイイングヴェイ・フォン・マルムステ"
   ],
   "jp": "卿ら……卿らもカル様に絶対の忠誠を{n}誓った魔戦将軍のはず。それが何故、{n}こうも反旗を翻したのか……",
-  "en": ""
+  "en": "You... you too were Sorcerer Generals, who{n}swore absolute loyalty to Kall-sama. Why{n}have you turned against him so?"
  },
  {
   "id": "s0301_02070",
@@ -1411,7 +1411,7 @@
    "ラン"
   ],
   "jp": "カル様は正気ではない。イングヴェイ、{n}それはお前も判っているはずだ――",
-  "en": ""
+  "en": "Kall-sama is not in his right mind. Yngwei, you{n}must know that--"
  },
  {
   "id": "s0301_020b8",
@@ -1435,7 +1435,7 @@
    "ラン"
   ],
   "jp": "魔戦将軍たちは、Ｄ・Ｓに従った経緯{n}をイングヴェイに告げた。彼の表情{n}には、慈悲深く聡明であったカルとは{n}思えぬ至高王の所業への、衝撃と苦悩{n}の色がありありと浮かぶ。彼自身も、{n}今の至高王に対して忠誠を貫くことに{n}微かな疑問を抱いていたのだろう――。{page}ほどなく、彼の手は剣の柄から離れた。",
-  "en": ""
+  "en": "The Sorcerer Generals told Yngwei how{n}they had come to follow D.S. His face{n}plainly showed shock and anguish at the{n}High King's deeds, so unlike the merciful,{n}wise Kall. He himself had perhaps held{n}faint doubts about keeping his loyalty to{n}the High King as he was now--{page}Before long, his hand left the hilt of his{n}sword."
  },
  {
   "id": "s0301_021d4",
@@ -1459,7 +1459,7 @@
    "イングヴェイイングヴェイ・フォン・マルムステ"
   ],
   "jp": "――騎士と呼ばれながら、私のして{n}いることはただの人殺しだった……。{n}あの亡国の日、カル様にお会いする{n}までは――",
-  "en": ""
+  "en": "--Though I was called a knight, what I did{n}was nothing but murder... Until that day my{n}country fell, when I met Kall-sama--"
  },
  {
   "id": "s0301_02248",
@@ -1483,7 +1483,7 @@
    "イングヴェイイングヴェイ・フォン・マルムステ"
   ],
   "jp": "イングヴェイはとある国の騎士階級に{n}ある男であった。出自正しき彼は騎士{n}を継ぐ者として幼い頃から訓練を受け、{n}正式に叙位されてからは、諸国に並ぶ{n}ものなしと称された剣の腕もあって、{n}瞬く間に騎士団の要職へと抜擢された。{n}はた目には順風満帆の、将来を約束{n}された人生であった――。",
-  "en": ""
+  "en": "Yngwei was a man of the knightly class of{n}a certain country. Of good birth, he had{n}trained from childhood to inherit the rank{n}of knight, and once formally dubbed, his{n}swordsmanship, said to be unrivaled in any{n}land, swiftly raised him to high office in{n}the order of knights. To all eyes it was a{n}life of smooth sailing, with a future{page}assured--"
  },
  {
   "id": "s0301_0235c",
@@ -1507,7 +1507,7 @@
    "イングヴェイイングヴェイ・フォン・マルムステ"
   ],
   "jp": "だが、イングヴェイは現実を見つめる{n}目を持っていた。国を治めるのはひと{n}握りの特権階級であり、酷税のほとん{n}どは王侯貴族の華やかな暮らしのため{n}に濫費される。民衆は貧しく、領土{n}拡大のために引き起こされる戦乱が、{n}さらにその生活を圧迫する。",
-  "en": ""
+  "en": "But Yngwei had eyes to see the truth. A{n}handful of the privileged ruled the land,{n}and most of the cruel taxes went to{n}waste on the showy lives of kings and{n}nobles. The people were poor, and wars{n}waged to expand the realm pressed them{n}further still."
  },
  {
   "id": "s0301_02448",
@@ -1531,7 +1531,7 @@
    "イングヴェイイングヴェイ・フォン・マルムステ"
   ],
   "jp": "道端では孤児が飢えて死に、城では{n}戦勝を祝う宴が夜毎開かれる。しかも{n}その戦の功労者は自分なのだ。腐敗し、{n}肥えた貴族をなおも太らせ、貧しき{n}民を痩せ衰えさせる罪深き王権の{n}守護者――。",
-  "en": ""
+  "en": "Orphans starved by the roadside while{n}feasts in honor of victory were held{n}nightly at the castle. And the hero of{n}those wars was he himself. A guardian of{n}sinful royal power, fattening the rotten,{n}bloated nobles still more and wasting the{n}poor to skin and bone--"
  },
  {
   "id": "s0301_02500",
@@ -1555,7 +1555,7 @@
    "イングヴェイイングヴェイ・フォン・マルムステ"
   ],
   "jp": "懊悩しながらも、イングヴェイは従う{n}以外になかった。騎士階級の王族への{n}忠誠は絶対であり、家柄や縁故が様々{n}な形で彼を縛り付けた。",
-  "en": ""
+  "en": "Anguished though he was, Yngwei had no{n}choice but to obey. The loyalty of the{n}knightly class to the royal house was{n}absolute, and family and connections{n}bound him in many ways."
  },
  {
   "id": "s0301_02584",
@@ -1579,7 +1579,7 @@
    "イングヴェイイングヴェイ・フォン・マルムステ"
   ],
   "jp": "仮にその刃をもって王権を覆したとて{n}何になろう？　国は侵略され、民を{n}さらに過酷な状況へと追い込むだけ{n}ではないか――そう自分の良心に言い{n}聞かせながら、それが言い訳である{n}ことも承知していた。イングヴェイは{n}忠義と正義の狭間で、擦り潰されそう{n}になって生きていた。",
-  "en": ""
+  "en": "What if his blade did topple the crown?{n}The land would be invaded, and that{n}would only drive the people into still{n}harsher straits. So he told his conscience,{n}even as he knew it for an excuse. Yngwei{n}lived on, all but ground down between{n}loyalty and justice."
  },
  {
   "id": "s0301_0268c",
@@ -1603,7 +1603,7 @@
    "イングヴェイイングヴェイ・フォン・マルムステ"
   ],
   "jp": "人生が、劇的に変わる日を迎えた。{page}皮肉にもそれは、腐敗した王権の{n}終焉の日であった。",
-  "en": ""
+  "en": "Then came the day his life dramatically{n}changed.{page}Ironically, it was the day the corrupt{n}royal house met its end."
  },
  {
   "id": "s0301_026e0",
@@ -1627,7 +1627,7 @@
    "イングヴェイイングヴェイ・フォン・マルムステ"
   ],
   "jp": "魔導士カル＝ス率いる反逆軍の侵略に、{n}王国は瞬く間に滅ぼされた。完全に{n}統制されたカルの軍隊は庶民に対して{n}一切の略奪、暴行を行わず、堕落しき{n}った支配階級を徹底的に断罪した。{page}国家の機能はカルの手腕によってすぐ{n}さま改善され、民は新たな、そして{n}真の支配者を熱狂的に迎え入れた。",
-  "en": ""
+  "en": "Invaded by the rebel army led by the{n}sorcerer Kall-Su, the kingdom fell in an{n}instant. Kall's fully disciplined army did no{n}plunder or violence to the common folk,{n}and passed thorough sentence on the{n}utterly debased ruling class.{page}The workings of the state swiftly{n}improved under Kall's skill, and the people{n}welcomed their new, true ruler with{n}fervor."
  },
  {
   "id": "s0301_027f4",
@@ -1651,7 +1651,7 @@
    "イングヴェイイングヴェイ・フォン・マルムステ"
   ],
   "jp": "戦にすらならなかった。少数を除いて{n}腐敗した貴族中心の騎士団はものの{n}数分で壊滅していた。",
-  "en": ""
+  "en": "It was not even a war. The order of{n}knights, made up of corrupt nobles but{n}for a few, was destroyed in mere{n}minutes."
  },
  {
   "id": "s0301_02850",
@@ -1675,7 +1675,7 @@
    "イングヴェイイングヴェイ・フォン・マルムステ"
   ],
   "jp": "イングヴェイはカル＝スと相対し、{n}完膚無きまでに敗北した。戦いの中で{n}思想、胆力、実行力――そのいずれに{n}おいても器の違いを思い知らされた{n}彼は自ら命を断とうとした。新しい、{n}イングヴェイが夢想した国はカルに{n}任せればよい。支配階級の一端を{n}担っていた自分は、王権とともに最期{n}の時を迎えるべきだ――そう思った。",
-  "en": ""
+  "en": "Yngwei faced Kall-Su and was utterly{n}defeated. In that battle he was made to{n}see the difference in their caliber, in{n}ideals, in courage, in the power to act,{n}and he tried to take his own life. The new{n}land Yngwei had dreamed of could be left{n}to Kall. He himself, who had played a part{n}in the ruling class, should meet his end{page}with the crown. So he thought."
  },
  {
   "id": "s0301_02984",
@@ -1699,7 +1699,7 @@
    "イングヴェイイングヴェイ・フォン・マルムステ"
   ],
   "jp": "だが、己に向けた刃はカルによって{n}弾かれた。なおも舌を噛み切ろうと{n}するイングヴェイに新たな王は言った。",
-  "en": ""
+  "en": "But Kall struck away the blade he had{n}turned on himself. As Yngwei still tried to{n}bite through his own tongue, the new king{n}spoke."
  },
  {
   "id": "s0301_029ec",
@@ -1723,7 +1723,7 @@
    "イングヴェイイングヴェイ・フォン・マルムステ"
   ],
   "jp": "「捨てた命なら、理想の実現のために{n}私に預けろ。私が目指す平等な世界は{n}まだまだ遠い。私にはお前のように、{n}正しき夢を見る人間が必要なのだ――」",
-  "en": ""
+  "en": "\"If you have thrown your life away,{n}entrust it to me for the sake of an ideal.{n}The equal world I aim for is still far off. I{n}need men like you, who dream true{n}dreams--\""
  },
  {
   "id": "s0301_02a7c",
@@ -1747,7 +1747,7 @@
    "イングヴェイイングヴェイ・フォン・マルムステ"
   ],
   "jp": "この時、正しくイングヴェイは蘇った。{page}ようやく巡り会えた。真に剣を捧げる{n}べき主君に――。腐敗した汚泥の中で{n}窒息しかけていた騎士は、初めて清浄{n}な世界への綱を得た。何があっても{n}この命綱を放すまい――そう誓った。",
-  "en": ""
+  "en": "In that moment Yngwei truly came back{n}to life.{page}At last he had found a lord worthy of his{n}sword. A knight who had been choking in{n}rotten mire had for the first time grasped{n}a rope to a clean world. Whatever{n}happened, he would not let go of this{n}lifeline. So he swore."
  },
  {
   "id": "s0301_02b50",
@@ -1771,7 +1771,7 @@
    "イングヴェイイングヴェイ・フォン・マルムステ"
   ],
   "jp": "――カル様は、私に正義を貫かせて{n}くれると約束した。ならば、今こそ{n}それを貫こう。Ｄ・Ｓ、私を導いて{n}くれ……",
-  "en": ""
+  "en": "--Kall-sama promised that I could carry my{n}justice through. Then now is when I shall.{n}D.S., guide me..."
  },
  {
   "id": "s0301_02bc0",
@@ -1795,7 +1795,7 @@
    "シェラ"
   ],
   "jp": "イングヴェイ……",
-  "en": ""
+  "en": "Yngwei..."
  },
  {
   "id": "s0301_02bd4",
@@ -1819,7 +1819,7 @@
    "イングヴェイイングヴェイ・フォン・マルムステ"
   ],
   "jp": "シェラ……世話をかけた。確かめよう。{n}俺たちの信じた理想を――",
-  "en": ""
+  "en": "Shella... I am sorry for the trouble. Let us{n}see for ourselves, the ideal we believed{n}in--"
  },
  {
   "id": "s0301_02c14",
@@ -1843,6 +1843,6 @@
    "シェラ"
   ],
   "jp": "ええ……ええ！",
-  "en": ""
+  "en": "Yes... yes!"
  }
 ]

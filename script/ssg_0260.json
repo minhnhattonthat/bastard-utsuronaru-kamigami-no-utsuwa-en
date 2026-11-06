@@ -1134,7 +1134,7 @@
    "ラン"
   ],
   "jp": "あわや、カイを袈裟に斬り下ろして{n}いたであろう斬撃は、大剣の刃とカイ{n}の間に身を滑り込ませたヨシュアに{n}受け止められた。だが、咄嗟に態勢が{n}整わず、辛うじて刀の峰で受けた斬撃{n}の勢いを殺し切ることはできなかった。",
-  "en": ""
+  "en": "The slash that would have cut Kai down{n}from shoulder to hip was stopped by{n}Joshua, who slid his body between her{n}and the great sword's blade. But he had{n}no time to set himself, and barely{n}catching it on the back of his sword, he{n}could not kill the force of the blow."
  },
  {
   "id": "s0260_01618",
@@ -1158,7 +1158,7 @@
    "ラン"
   ],
   "jp": "致命傷ではないものの、ヨシュアの{n}肩口に内向きの刃が食い込み、{n}浅からぬ傷を生じさせる。鮮血が迸り、{n}整った貌に苦痛の表情が疾った。",
-  "en": ""
+  "en": "Though not a mortal wound, the{n}inward-turned blade bit into Joshua's{n}shoulder and opened no shallow gash.{n}Fresh blood spurted, and a look of pain{n}crossed his fine features."
  },
  {
   "id": "s0260_0169c",
@@ -1182,7 +1182,7 @@
    "ヨシュア"
   ],
   "jp": "くうっ――",
-  "en": ""
+  "en": "Ngh--"
  },
  {
   "id": "s0260_016a8",
@@ -1206,7 +1206,7 @@
    "カイ"
   ],
   "jp": "！　ヨシュア！　ヨシュアっ！",
-  "en": ""
+  "en": "! Joshua! Joshua!"
  },
  {
   "id": "s0260_016c8",
@@ -1230,7 +1230,7 @@
    "ヨシュア"
   ],
   "jp": "大……丈、夫だ……自分の刀で傷を、{n}受けるなど、わ、笑い種だな……くっ！",
-  "en": ""
+  "en": "I am... all, right... Wounded by my own sword,{n}wh-what a laughingstock... ngh!"
  },
  {
   "id": "s0260_01714",
@@ -1254,7 +1254,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "早いとこヨーコさんの呪文で治療しろ！",
-  "en": ""
+  "en": "Quick, heal him with Yoko-san's spell!"
  },
  {
   "id": "s0260_0173c",
@@ -1278,7 +1278,7 @@
    "ヴァイ"
   ],
   "jp": "がってん！",
-  "en": ""
+  "en": "You got it!"
  },
  {
   "id": "s0260_01748",
@@ -1302,7 +1302,7 @@
    "ヴァイ"
   ],
   "jp": "茫然と立ち尽くすランの手から、{n}剣が音を立てて落ちた。",
-  "en": ""
+  "en": "As Ran stood stunned, the sword fell from{n}his hand with a clatter."
  },
  {
   "id": "s0260_01780",
@@ -1326,7 +1326,7 @@
    "ラン"
   ],
   "jp": "俺は……カイを殺してしまうところ{n}だったのか？　俺は……俺は誓いを{n}破って――？",
-  "en": ""
+  "en": "I... I nearly killed Kai? I... I broke my{n}oath--?"
  },
  {
   "id": "s0260_017d0",
@@ -1350,7 +1350,7 @@
    "シーン"
   ],
   "jp": "兄さん……",
-  "en": ""
+  "en": "Brother..."
  },
  {
   "id": "s0260_017dc",
@@ -1374,7 +1374,7 @@
    "ヨシュア"
   ],
   "jp": "いや……貴様はまだ、誓いを破った{n}ワケではあるまい……",
-  "en": ""
+  "en": "No... you have not broken your oath yet..."
  },
  {
   "id": "s0260_01814",
@@ -1398,7 +1398,7 @@
    "ヨシュア"
   ],
   "jp": "魔法の治癒を受けながら、ヨシュアが{n}苦痛を噛み殺して呟いた。",
-  "en": ""
+  "en": "As the healing magic took hold, Joshua{n}choked back his pain and murmured."
  },
  {
   "id": "s0260_01854",
@@ -1422,7 +1422,7 @@
    "ヨシュア"
   ],
   "jp": "単独で行動した折、行き会ったネイ殿{n}に聞いた――。貴様はカイと戦わねば{n}ならぬことを怖れ、家族にも等しい{n}鬼道衆を捨てたのだろう？",
-  "en": ""
+  "en": "When I was off on my own, I met Nei-dono,{n}and she told me-- You feared you would{n}have to fight Kai, and that is why you{n}abandoned the Kido Corps, as dear to you{page}as family. Is that not so?"
  },
  {
   "id": "s0260_018d8",
@@ -1446,7 +1446,7 @@
    "カイ"
   ],
   "jp": "……何？　どういうことだ、{n}ヨシュア!?",
-  "en": ""
+  "en": "...What? What does that mean, Joshua!?"
  },
  {
   "id": "s0260_01900",
@@ -1470,7 +1470,7 @@
    "ラン"
   ],
   "jp": "かつてネイに拾われ、鬼道衆として{n}育てられた戦災孤児の三人――カイ、{n}シーン、そしてラン。彼らは訓練を{n}重ねるうちに非凡な戦いの才能を示し、{n}とりわけカイとランは剣の達者として、{n}鬼道衆でも一、二を争う腕前にまで{n}成長していった。",
-  "en": ""
+  "en": "Three war orphans were once taken in by{n}Nei and raised in the Kido Corps: Kai, Sean,{n}and Ran. As they trained they showed{n}rare talent in battle, and Kai and Ran{n}above all grew into master swordsmen,{n}the first and second of the Kido Corps."
  },
  {
   "id": "s0260_019e4",
@@ -1494,7 +1494,7 @@
    "ラン"
   ],
   "jp": "カイはネイの手ほどきを受け、正統と{n}呼ばれる破裏拳流剣法を学んだ。一方{n}ランは独自の才で我流の剣を磨き、{n}実戦に即した何にも染まらぬ太刀筋を{n}作り上げていた。",
-  "en": ""
+  "en": "Kai, taught by Nei's own hand, learned the{n}orthodox style of swordsmanship called{n}the Hariken School. Ran, for his part,{n}honed a self-taught sword by his own{n}gifts, and shaped a manner of fighting{n}made for real battle, stained by no{n}school."
  },
  {
   "id": "s0260_01a80",
@@ -1518,7 +1518,7 @@
    "ラン"
   ],
   "jp": "訓練の模擬戦において、ふたりの勝負{n}は常に互角であった。だが、本気で{n}挑むカイに対し、ランは余力を残し{n}つつも決してそれを出し切らぬ戦い方{n}であるように見えた。",
-  "en": ""
+  "en": "In practice bouts, the two were always{n}evenly matched. But where Kai gave it her{n}all, Ran seemed to fight with strength in{n}reserve, and never to let it all out."
  },
  {
   "id": "s0260_01b20",
@@ -1542,7 +1542,7 @@
    "ラン"
   ],
   "jp": "当時、腕力に劣る女であることに激し{n}いコンプレックスを抱いていたカイは、{n}ランを負かして鬼道衆一の剣士の座に{n}就くことに異常なまでのこだわりを{n}見せていた。それまでの家庭環境も{n}あったのだろう。弱い女に対し、{n}カイは憎悪に近い感情を抱いていた。{n}故に、強い母親である雷帝ネイを{n}崇拝し、畏敬していたのだ。",
-  "en": ""
+  "en": "At that time Kai suffered a fierce{n}complex over being a woman, weaker in{n}the arm, and she showed an almost{n}abnormal fixation on beating Ran to{n}become the finest swordsman of the Kido{n}Corps. Her childhood home may have{n}played a part. She felt something close to{n}hatred for weak women. So she{page}worshipped and revered Nei, the Thunder{n}Empress, her strong mother."
  },
  {
   "id": "s0260_01c4c",
@@ -1566,7 +1566,7 @@
    "ラン"
   ],
   "jp": "同じ村に育ち、同じ幼少時代を過ごし{n}てきたランには、カイの心が手に取る{n}ように判っていた。そのまま平和な村{n}で成長すれば、いつかは添い遂げて{n}夫婦となっていたかも知れぬふたり。{n}だが、過酷な運命に翻弄されたカイは、{n}剣によってのみその存在を支えている{n}悲しき女闘士となってしまった。",
-  "en": ""
+  "en": "Ran, raised in the same village, sharing{n}the same childhood, could read Kai's heart{n}like a book. Had they grown up in that{n}peaceful village, they might one day have{n}married and lived out their lives together.{n}But tossed about by a cruel fate, Kai had{n}become a sad woman warrior, whose{n}existence rested on the sword alone."
  },
  {
   "id": "s0260_01d64",
@@ -1590,7 +1590,7 @@
    "ラン"
   ],
   "jp": "そのカイを剣で負かしてしまったなら、{n}彼女の危ういバランスは崩壊するかも{n}知れぬ――それを恐れたランは、常に{n}本来の力を抑えて相手をし続けてきた。",
-  "en": ""
+  "en": "If he beat Kai with the sword, her fragile{n}balance might collapse. Fearing that, Ran{n}had always held back his true strength{n}when facing her."
  },
  {
   "id": "s0260_01df8",
@@ -1614,7 +1614,7 @@
    "ラン"
   ],
   "jp": "しかし、カイの腕に磨きがかかるに{n}つれ、ランも真剣に立ち会わねばなら{n}ぬようになってきた。互角と見せる{n}ためには、己に相当の余力がなければ{n}ならぬ。カイの剣技が成長したことで、{n}ランは次第に勝ってしまわなければ{n}ならぬ局面に追い込まれ始めた。",
-  "en": ""
+  "en": "But as Kai's skill grew sharper, Ran too{n}had to meet her in earnest. To seem an{n}even match, he had to hold considerable{n}strength in reserve. As her swordsmanship{n}grew, Ran was gradually driven to the{n}point where he could not help but win."
  },
  {
   "id": "s0260_01ee8",
@@ -1638,7 +1638,7 @@
    "ラン"
   ],
   "jp": "同じ鬼道衆である以上、模擬戦の{n}立ち合いは避けられぬ。次の勝負では、{n}必ずカイを打ち負かす結果となる――",
-  "en": ""
+  "en": "So long as they were both of the Kido{n}Corps, practice bouts could not be{n}avoided. The next time they fought, he{n}would surely beat Kai--"
  },
  {
   "id": "s0260_01f50",
@@ -1662,7 +1662,7 @@
    "ラン"
   ],
   "jp": "それを直感したランは、苦悩の末に{n}鬼道衆を抜ける決心を固めた。{n}唯一本心を明かしたネイは咎めもせず、{n}本来勝手な離反を許されぬ鬼道衆の{n}掟を曲げて送り出してくれた。{page}彼が傭兵として放浪の末、カル＝スの{n}理想に剣を投じたのは、これより{n}数年後のことであった――。",
-  "en": ""
+  "en": "Sensing this, Ran, after much anguish,{n}resolved to leave the Kido Corps. Nei, the{n}only one to whom he told his true heart,{n}did not reproach him, and bending the{n}rule of the Kido Corps that forbade{n}leaving at will, she sent him on his way.{page}After wandering as a mercenary, he gave{n}his sword to Kall-Su's ideal some years{n}after that--"
  },
  {
   "id": "s0260_02050",
@@ -1686,7 +1686,7 @@
    "カイ"
   ],
   "jp": "俺の……ために？",
-  "en": ""
+  "en": "For... my sake?"
  },
  {
   "id": "s0260_02064",
@@ -1710,7 +1710,7 @@
    "ヨシュア"
   ],
   "jp": "――貴様は誓ったのだろう。荒野に{n}焼け出されたカイとシーンを守るのは{n}自分だと。それ故、カイに勝ち、生き{n}る柱を奪うことはできなかった……",
-  "en": ""
+  "en": "--You swore it, did you not? That you would{n}protect Kai and Sean, burned out of their{n}home into the wastelands. That is why you{n}could not beat Kai and rob her of what{page}she lived for..."
  },
  {
   "id": "s0260_020f0",
@@ -1734,7 +1734,7 @@
    "ヨシュア"
   ],
   "jp": "ならば、今その誓いを果たすんだ！{n}このまま何者かに操られたカル＝スに{n}従い、幼き日の想いを裏切るいわれ{n}などないはずだ！",
-  "en": ""
+  "en": "Then fulfill that oath now! You have no{n}cause to betray the feelings of your{n}childhood by obeying Kall-Su, a puppet of{n}someone unknown!"
  },
  {
   "id": "s0260_02168",
@@ -1758,7 +1758,7 @@
    "ラン"
   ],
   "jp": "……貴公には大きな借りができたな。{n}俺は誓いを守ろう。そして今一度、{n}カル様を御前で見定めるとしよう",
-  "en": ""
+  "en": "...I owe you a great debt, sir. I shall keep my{n}oath. And I shall once more judge Kall-sama{n}in his presence."
  },
  {
   "id": "s0260_021cc",
@@ -1782,7 +1782,7 @@
    "シーン"
   ],
   "jp": "兄さん、良かった！",
-  "en": ""
+  "en": "Brother, I'm so glad!"
  },
  {
   "id": "s0260_021e0",
@@ -1806,7 +1806,7 @@
    "カイ"
   ],
   "jp": "ラン……俺のためだったのか。{n}俺のせいでお前はネイ様のもとを……{n}俺は、俺は――！",
-  "en": ""
+  "en": "Ran... It was for me. Because of me you left{n}Nei-sama... I, I--!"
  },
  {
   "id": "s0260_02234",
@@ -1830,7 +1830,7 @@
    "ラン"
   ],
   "jp": "謝らなければならんのは俺だ……もう{n}少しで俺は許されぬ罪を犯すところ{n}だった。ヨシュアがいなかったら――",
-  "en": ""
+  "en": "I am the one who must apologize... I very{n}nearly committed an unforgivable sin. If not{n}for Joshua--"
  },
  {
   "id": "s0260_0229c",
@@ -1854,7 +1854,7 @@
    "ラン"
   ],
   "jp": "涙を浮かべるカイの肩を、ランが{n}そっと抱き寄せる姿から、癒えた傷を{n}軽くさすりながらヨシュアは静かに{n}視線を外した。",
-  "en": ""
+  "en": "As Ran gently drew the tearful Kai to him{n}by the shoulder, Joshua, lightly rubbing{n}his healed wound, quietly looked away."
  },
  {
   "id": "s0260_02310",
@@ -1878,7 +1878,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "ったく、人がいいヤロウだぜヨシュア{n}はよ！　何も恋敵にお膳立てしてやる{n}こたぁねーじゃねえか。かばって傷を{n}受けたんだから断然有利なのによ",
-  "en": ""
+  "en": "Damn, that Joshua's too nice for his own{n}good! He didn't need to set things up for his{n}rival in love. He got hurt protecting her, he{n}had a huge advantage!"
  },
  {
   "id": "s0260_0239c",
@@ -1902,7 +1902,7 @@
    "ヴァイ"
   ],
   "jp": "それがヨシュアのいいところ。アンタ{n}も、俺とヨーコの仲を応援してみない？",
-  "en": ""
+  "en": "That's what's great about Joshua. Hey, how{n}about you root for me and Yoko too?"
  },
  {
   "id": "s0260_023e8",
@@ -1926,7 +1926,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "アホウ！　ヨーコさんと俺の愛に割り{n}込もうとするヤツぁ、考えつく限りの{n}卑劣な罠で陥れ、色情狂の腐れアタマ{n}とゆー立場に追い込んでくれるわ！",
-  "en": ""
+  "en": "Moron! Anybody trying to butt in on the love{n}between Yoko-san and me, I'll trap in every{n}dirty way I can think of, and leave 'em a{n}rotten-headed sex maniac!"
  },
  {
   "id": "s0260_02474",
@@ -1950,7 +1950,7 @@
    "ヴァイ"
   ],
   "jp": "ひー、アンタいートコなし！",
-  "en": ""
+  "en": "Eek, you got no good side at all!"
  },
  {
   "id": "s0260_02e0c",
@@ -1974,7 +1974,7 @@
    ""
   ],
   "jp": "幽かな震動が続き、止まった。{page}水星宮は正しい座標へと移動した。",
-  "en": ""
+  "en": "A faint tremor went on, then stopped.{page}The Mercury Palace had moved to its{n}proper coordinates."
  },
  {
   "id": "s0260_02e4c",

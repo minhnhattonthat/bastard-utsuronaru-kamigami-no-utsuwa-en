@@ -21,7 +21,7 @@
    "シェン"
   ],
   "jp": "はっ！　あ……兄者か!?",
-  "en": ""
+  "en": "Ah! B... brother!?"
  },
  {
   "id": "s0280_00830",
@@ -45,7 +45,7 @@
    "ジオン"
   ],
   "jp": "シェン――無事だったか",
-  "en": ""
+  "en": "Schen-- So you are safe."
  },
  {
   "id": "s0280_00848",
@@ -69,7 +69,7 @@
    "ジオン"
   ],
   "jp": "現れたのは、暗黒洞に飲まれたまま{n}行方知れずとなっていた剣士ジオンで{n}あった。",
-  "en": ""
+  "en": "Who appeared was the swordsman Zion,{n}lost since the dark hole swallowed him."
  },
  {
   "id": "s0280_00898",
@@ -93,7 +93,7 @@
    "ジオン"
   ],
   "jp": "ジオンは異次元のトンネルから導かれ、{n}この地下都市遺跡へと実体化したよう{n}であった。",
-  "en": ""
+  "en": "It seemed Zion had been led through a{n}tunnel in another dimension, and had{n}materialized in these underground city{n}ruins."
  },
  {
   "id": "s0280_008ec",
@@ -117,7 +117,7 @@
    "ジオン"
   ],
   "jp": "話を聞くうち、ジオンとＤ・Ｓたちの{n}間では、時間の感覚に大きなずれが{n}生じていることが判った。{page}彼にとってはあれから経過したのは{n}ほんの数時間に過ぎず、明らかに{n}異次元とこの世界の時の進行に差が{n}あることを示していた。",
-  "en": ""
+  "en": "As they talked, it became clear that Zion{n}and D.S.'s party had a large gap in their{n}sense of time.{page}For him only a few hours had passed since{n}then, which plainly showed a difference in{n}the flow of time between that dimension{n}and this world."
  },
  {
   "id": "s0280_009c4",
@@ -141,7 +141,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "異次元じゃあ時間の進み方が違うのか{n}……待てよ。それともこの世界が――？",
-  "en": ""
+  "en": "Does time run differently in another{n}dimension... Hang on. Or is this world--?"
  },
  {
   "id": "s0280_00a10",
@@ -165,7 +165,7 @@
    "シェン"
   ],
   "jp": "兄者？　どうかしたのか？{n}さっきからどうも態度がおかしいぞ。{n}もっと再会を喜んでくれてもいいはず{n}なのに――",
-  "en": ""
+  "en": "Brother? What's wrong? You've been acting{n}strangely. You should be happier about{n}seeing me again--"
  },
  {
   "id": "s0280_00a7c",
@@ -189,7 +189,7 @@
    "ジオン"
   ],
   "jp": "――異次元に飛ばされたショックで、{n}少し記憶が戻ってな。少々混乱して{n}いるだけだ",
-  "en": ""
+  "en": "--The shock of being thrown into another{n}dimension brought back some of my memory.{n}I am simply a little confused."
  },
  {
   "id": "s0280_00acc",
@@ -213,7 +213,7 @@
    "ジオン"
   ],
   "jp": "……あのまま俺が異次元に留まり、{n}お前が俺より早く齢を重ねていけば、{n}いつかはお前が俺の兄になるのかな",
-  "en": ""
+  "en": "...If I had stayed in that other dimension,{n}and you had aged faster than I, you might{n}someday have become my elder brother."
  },
  {
   "id": "s0280_00b34",
@@ -237,7 +237,7 @@
    "シェン"
   ],
   "jp": "？　兄者、何を言っているのだ？",
-  "en": ""
+  "en": "? Brother, what are you saying?"
  },
  {
   "id": "s0280_00b54",
@@ -261,7 +261,7 @@
    "ジオン"
   ],
   "jp": "お前が兄で、俺が弟なら良かったと、{n}そう思ったのさ――いや、済まない。{n}おかしなことを思い出したものでな",
-  "en": ""
+  "en": "I was thinking how good it would be, if you{n}were the elder and I the younger-- No,{n}forgive me. An odd thing came to mind."
  },
  {
   "id": "s0280_00bbc",
@@ -309,7 +309,7 @@
    "ジオン"
   ],
   "jp": "そうだシェン。お前にこれを渡して{n}おこう",
-  "en": ""
+  "en": "Yes, Schen. Let me give you this."
  },
  {
   "id": "s0280_00bf0",
@@ -333,7 +333,7 @@
    "シェン"
   ],
   "jp": "それは黒夜叉――！　どうしてそんな{n}大切な刀を俺に？　代々影流に伝えら{n}れてきた名刀ではないか",
-  "en": ""
+  "en": "That's the Black Yaksha--! Why give me such{n}a precious sword? It's a fine sword, handed{n}down through the generations of the{n}Shadow School."
  },
  {
   "id": "s0280_00c50",
@@ -357,7 +357,7 @@
    "ジオン"
   ],
   "jp": "記憶が戻ってきて以来、手に馴染まな{n}くなってな。それにこの刀は、俺より{n}お前に相応しいものらしい。ククク、{n}何かの間違いで、俺が持っていたのさ",
-  "en": ""
+  "en": "Ever since my memory came back, it has not{n}felt right in my hand. And this sword, it{n}seems, is better suited to you than to me.{n}Heh heh heh, it was by some mistake that{page}I had it."
  },
  {
   "id": "s0280_00ce0",
@@ -381,7 +381,7 @@
    "シェン"
   ],
   "jp": "兄者――？",
-  "en": ""
+  "en": "Brother--?"
  },
  {
   "id": "s0280_00cec",
@@ -405,7 +405,7 @@
    "シェン"
   ],
   "jp": "何を思い出したのか――ジオンの表情{n}には暗い翳りと、口元に浮かぶ歪んだ{n}笑みが纏わりつくようになっていた。{page}兄の変化に対し、シェンは戸惑う{n}ばかりで、蘇ったその記憶を問う{n}こともできずにいた。",
-  "en": ""
+  "en": "What had he remembered? A dark shadow{n}now clung to Zion's face, and a crooked{n}smile to his lips.{page}Schen could only be bewildered at his{n}brother's change, unable to ask what had{n}come back to him."
  },
  {
   "id": "s0280_00dac",
@@ -453,7 +453,7 @@
    ""
   ],
   "jp": "幽かな震動が続き、止まった。{page}土星宮は正しい座標へと移動した。",
-  "en": ""
+  "en": "A faint tremor went on, then stopped.{page}The Saturn Palace had moved to its{n}proper coordinates."
  },
  {
   "id": "s0280_010b4",

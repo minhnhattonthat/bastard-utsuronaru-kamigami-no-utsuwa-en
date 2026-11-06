@@ -21,7 +21,7 @@
    ""
   ],
   "jp": "それはまさしく、氷柱の内側に掘り{n}抜かれた巨大な塔であった。この膨大{n}な質量を天空に支えているのが、山頂{n}にかかる氷の橋だけではあり得ない。{n}恐らくは強大な浮遊の魔力が、氷獄塔{n}全体を包み込んでいるのだろう。",
-  "en": ""
+  "en": "It was indeed a huge tower hollowed out{n}of the inside of a pillar of ice. This{n}enormous mass could not be held up in{n}the sky by the ice bridge on the summits{n}alone. A mighty floating magic must surely{n}wrap the whole of the Ice Hell Tower."
  },
  {
   "id": "s0297_008e8",
@@ -45,7 +45,7 @@
    "ヴァイ"
   ],
   "jp": "……で、その魔力がなくなるとどう{n}なるワケ？",
-  "en": ""
+  "en": "...So what happens if that magic goes{n}away?"
  },
  {
   "id": "s0297_00918",
@@ -69,7 +69,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "数分もしないうちに塔は地上に落下を{n}始めるだろうな",
-  "en": ""
+  "en": "In a matter of minutes the tower would{n}start falling to earth."
  },
  {
   "id": "s0297_0094c",
@@ -93,7 +93,7 @@
    "シェラ"
   ],
   "jp": "！　真下には氷漬けの水龍が――もし{n}封印された状態でこの巨大な氷柱を{n}受ければ、いかな水龍といえども……。{n}やはり先に封印を解く方法を――",
-  "en": ""
+  "en": "! Directly below is the frozen Water{n}Dragon-- If it takes this huge ice pillar while{n}still sealed, even a Water Dragon would... We{n}must first find a way to break the seal--"
  },
  {
   "id": "s0297_009d8",
@@ -117,7 +117,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "大丈夫だって。たぶんこの塔を落下{n}させるってのがカルの――いや、敵の{n}切り札なんだろうが、こっちはそれを{n}逆手に取ってやらあ。ま、見てなって",
-  "en": ""
+  "en": "Relax. Dropping this tower's probably Kall's--{n}no, the enemy's trump card, but I'll turn it{n}back on 'em. Just you watch."
  },
  {
   "id": "s0297_00b18",
@@ -141,7 +141,7 @@
    "ロス"
   ],
   "jp": "ハーイ、みんな！　おひさー！",
-  "en": ""
+  "en": "Hiii, everybody! Long time no see!"
  },
  {
   "id": "s0297_00b38",
@@ -165,7 +165,7 @@
    "カイ"
   ],
   "jp": "出たなオカマ将軍！",
-  "en": ""
+  "en": "Here comes the queen general!"
  },
  {
   "id": "s0297_00b4c",
@@ -189,7 +189,7 @@
    "ロス"
   ],
   "jp": "アンタ、相っ変わらず失礼ねっ。ソレ{n}じゃあ一生オトコなんてできないわよ！",
-  "en": ""
+  "en": "You're as rude as ever, aren't you. At that{n}rate you'll never get yourself a man!"
  },
  {
   "id": "s0297_00b98",
@@ -213,7 +213,7 @@
    "ヨシュア"
   ],
   "jp": "そんなことはないっ！",
-  "en": ""
+  "en": "That is not so!"
  },
  {
   "id": "s0297_00bb0",
@@ -237,7 +237,7 @@
    "ラン"
   ],
   "jp": "訂正しろっ！",
-  "en": ""
+  "en": "Take that back!"
  },
  {
   "id": "s0297_00bc0",
@@ -261,7 +261,7 @@
    "ロス"
   ],
   "jp": "あらあ……意外とモテモテ。口惜しー！",
-  "en": ""
+  "en": "Oh my... How popular you are, to my surprise.{n}How annoying!"
  },
  {
   "id": "s0297_00be8",
@@ -285,7 +285,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "ったく緊迫感のねえヤツだな。{n}オメエも俺たちを食い止めろって{n}命令されてるんだろうが",
-  "en": ""
+  "en": "Damn, you got no sense of tension at all.{n}You're under orders to stop us too, aren't{n}you?"
  },
  {
   "id": "s0297_00c3c",
@@ -309,7 +309,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "ここで現れたってコトは、オメエも{n}魔戦将軍のひとりだったってことか、{n}ロスよ？　俺たちを食い止めろって{n}命令されてるワケか",
-  "en": ""
+  "en": "Showing up here means you were one of the{n}Sorcerer Generals too, huh, Ros? So you've{n}got orders to stop us."
  },
  {
   "id": "s0297_00cb8",
@@ -333,7 +333,7 @@
    "ロス"
   ],
   "jp": "まあね。でもアタシは、そんなに{n}乗り気じゃないのよねー",
-  "en": ""
+  "en": "Well, yes. But I'm not all that keen on it, you{n}know."
  },
  {
   "id": "s0297_00cf0",
@@ -357,7 +357,7 @@
    "カイ"
   ],
   "jp": "？　戦う気がないってことか？",
-  "en": ""
+  "en": "? You mean you don't want to fight?"
  },
  {
   "id": "s0297_00d10",
@@ -381,7 +381,7 @@
    "ロス"
   ],
   "jp": "だってカル様――っていうか至高王は、{n}どう見たって誰かに操られてるカンジ{n}じゃない？　アタシ、こう見えても{n}魔戦将軍きってのリアリストなのよ",
-  "en": ""
+  "en": "Well, Kall-sama, or rather the High King, sure{n}looks like he's being worked by someone,{n}doesn't he? I may not look it, but I'm the{n}biggest realist among the Sorcerer{page}Generals."
  },
  {
   "id": "s0297_00d9c",
@@ -405,7 +405,7 @@
    "ロス"
   ],
   "jp": "その至高王の命令に従ったところで、{n}カル様に忠誠を尽くしたことには{n}ならないでしょ？",
-  "en": ""
+  "en": "Following the High King's orders wouldn't be{n}any loyalty to Kall-sama, would it?"
  },
  {
   "id": "s0297_00df0",
@@ -429,7 +429,7 @@
    "ヴァイ"
   ],
   "jp": "じゃ、俺たちの側についてくれるのか？",
-  "en": ""
+  "en": "So you're coming over to our side?"
  },
  {
   "id": "s0297_00e18",
@@ -453,7 +453,7 @@
    "ロス"
   ],
   "jp": "それもいいんだけど……ね？　アンタ{n}たち、ひとつアタシと戦ってみない？",
-  "en": ""
+  "en": "That would be nice, but... you know? How{n}about you all have a little fight with me?"
  },
  {
   "id": "s0297_00e60",
@@ -477,7 +477,7 @@
    "ヴァイ"
   ],
   "jp": "へ？　何で？",
-  "en": ""
+  "en": "Huh? Why?"
  },
  {
   "id": "s0297_00e70",
@@ -501,7 +501,7 @@
    "ロス"
   ],
   "jp": "実はＤ・Ｓといっぺん戦ってみたかっ{n}たのよ。勝っても負けてもうらみっこ{n}なしってコトでね。アタシたちがやり{n}合える機会って、もうないかもよ？",
-  "en": ""
+  "en": "The truth is, I've always wanted to fight D.S.{n}once. No hard feelings, win or lose. We may{n}never get another chance, you know?"
  },
  {
   "id": "s0297_00efc",
@@ -523,7 +523,7 @@
    "ロス"
   ],
   "jp": "ロスと戦いますか？",
-  "en": ""
+  "en": "Fight Ros?"
  },
  {
   "id": "s0297_00f10",
@@ -547,7 +547,7 @@
    "ロス"
   ],
   "jp": "やってみるか",
-  "en": ""
+  "en": "Let's do it."
  },
  {
   "id": "s0297_00f20",
@@ -595,7 +595,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "確かに、一度手合わせしてみるのも{n}悪くねえ。やってみるかよ",
-  "en": ""
+  "en": "Sure, a bout might not be so bad. Let's do{n}it."
  },
  {
   "id": "s0297_00f68",
@@ -619,7 +619,7 @@
    "ロス"
   ],
   "jp": "そうこなくっちゃ！　さあ、イイ男の{n}戦いぶり、見せてもらうわよっ！",
-  "en": ""
+  "en": "That's the spirit! Now, show me how a hunk{n}fights!"
  },
  {
   "id": "s0297_00fac",
@@ -643,7 +643,7 @@
    "ロス"
   ],
   "jp": "ふう……さっすがぁ！　戦ってみて{n}ハッキリ判ったわ。これならアタシの{n}命も預けられる……改めてヨロシクッ！",
-  "en": ""
+  "en": "Whew... Just what I'd expect! Fighting you{n}made it perfectly clear. I can trust you with{n}my life... So, here's to us, all over again!"
  },
  {
   "id": "s0297_01018",
@@ -667,7 +667,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "今は戦力を温存してえからな。オメエ{n}の腕は以前一緒に戦って判ってる。{n}無傷じゃすまねえだろうし、腕試しは{n}パスだ",
-  "en": ""
+  "en": "I wanna save our strength right now. I know{n}how good you are from fighting with you{n}before. We wouldn't come out unscathed, so{n}I'll pass on the test."
  },
  {
   "id": "s0297_01088",
@@ -691,7 +691,7 @@
    "ロス"
   ],
   "jp": "そう？　残念だけど、ま、いいわ。{n}それじゃあ至高王の目を覚ましに{n}行きましょうか！",
-  "en": ""
+  "en": "Really? What a shame, but oh well. Then{n}shall we go wake up the High King!"
  },
  {
   "id": "s0297_010dc",
@@ -715,7 +715,7 @@
    "ロス"
   ],
   "jp": "あっ！　それアタシのリビングブレード{n}じゃない？　ワァオ！　手に入れてきて{n}くれるなんて、最高！",
-  "en": ""
+  "en": "Oh! Isn't that my Living Blade? Wow! You{n}brought it for me, you're the best!"
  },
  {
   "id": "s0297_0113c",
@@ -739,7 +739,7 @@
    "ロス"
   ],
   "jp": "さってと……このシナプスケーブルを{n}剣の柄に接続して――オッケー！",
-  "en": ""
+  "en": "Now then... I hook up this synapse cable to{n}the hilt of the sword and-- Okay!"
  },
  {
   "id": "s0297_01180",
@@ -763,7 +763,7 @@
    "ヴァイ"
   ],
   "jp": "そのケーブルって、湖の底の幻影城で{n}見つけたお宝？",
-  "en": ""
+  "en": "That cable, is that the treasure you found{n}in the Phantom Castle at the bottom of the{n}lake?"
  },
  {
   "id": "s0297_011b4",
@@ -787,7 +787,7 @@
    "ロス"
   ],
   "jp": "そ。何て言ってもこの剣がなくっちゃ{n}使いものにならないからねー。{n}助かったわあ！",
-  "en": ""
+  "en": "Right. It's no use at all without this sword,{n}after all. You saved me!"
  },
  {
   "id": "s0297_01554",
@@ -811,7 +811,7 @@
    "バ・ソリー"
   ],
   "jp": "ここから先は通さぬぞぉ！　カル様{n}から授かった魔法のドリンクでパワー{n}アップ！　不死身の男バ・ソリー様{n}見参んん！",
-  "en": ""
+  "en": "You shall not pass! Powered up by a magic{n}drink bestowed by Kall-sama! The immortal{n}man, the great Ba Thory-sama, has{n}arriiived!"
  },
  {
   "id": "s0297_015c8",
@@ -835,7 +835,7 @@
    "ヴァイ"
   ],
   "jp": "うわ……しぶといのが出やがった",
-  "en": ""
+  "en": "Oh man... that tough one showed up."
  },
  {
   "id": "s0297_015e8",
@@ -859,7 +859,7 @@
    "バ・ソリー"
   ],
   "jp": "オマエらには俺様の蟲ちゃんを見つけ{n}てもらった恩がある……だがしかぁし！{n}カル様のもとで蟲の楽園を建設する{n}夢は捨てられぬぅ！　許せぃ！",
-  "en": ""
+  "en": "I owe you lot for finding my bug-chan...{n}Howeverrrr! I cannot give up my dream of{n}building a bug paradise under Kall-sama!{n}Forgive me!"
  },
  {
   "id": "s0297_01670",
@@ -883,7 +883,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "あんまり許したくねえ理由だなぁ",
-  "en": ""
+  "en": "Not much of a reason to forgive you."
  },
  {
   "id": "s0297_01690",
@@ -907,7 +907,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "バ・ソリーの肉体は、その体内に{n}大量に飼育する再生蟲によって、{n}どんな傷でも瞬時に修復していく――{n}だがこの時、蟲たちの機能に重大な{n}障害が発生していた。",
-  "en": ""
+  "en": "The regenerating bugs Ba Thory bred in{n}great numbers within him mended any{n}wound in his flesh in an instant. But now a{n}grave fault had arisen in the bugs'{n}workings."
  },
  {
   "id": "s0297_01728",
@@ -931,7 +931,7 @@
    "バ・ソリー"
   ],
   "jp": "うおお！　な、どうしたコトだぁ？{n}む、蟲たちが死んでいくぅ……あああ！{n}身体が再生しないよぉぉぉぅ！",
-  "en": ""
+  "en": "Uooh! Wh-what's this? M-my bugs are dying...{n}aaah! My body won't regenerate!"
  },
  {
   "id": "s0297_0178c",
@@ -955,7 +955,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "いけねえ！　手当してやれ！",
-  "en": ""
+  "en": "Oh no! Treat him!"
  },
  {
   "id": "s0297_017a8",
@@ -979,7 +979,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "常人と同様に苦しむバ・ソリーに、{n}迅速に魔法の癒しが施される。危ない{n}ところで死にかけた蟲使いの生命力は{n}上向きに転じ、ほどなく生き残った{n}再生蟲がその肉体の修復を終えた。",
-  "en": ""
+  "en": "To Ba Thory, suffering like any ordinary{n}man, magic healing was quickly given. In{n}the nick of time the dying bug tamer's life{n}force took a turn upward, and before{n}long the surviving regenerating bugs had{n}finished mending his flesh."
  },
  {
   "id": "s0297_01854",
@@ -1003,7 +1003,7 @@
    "バ・ソリー"
   ],
   "jp": "何故だ……まさか、カル様から頂戴{n}したあのクスリが――!?",
-  "en": ""
+  "en": "Why... Could it be that medicine Kall-sama{n}gave me--!?"
  },
  {
   "id": "s0297_01890",
@@ -1027,7 +1027,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "一時的にオメエの能力を高める{n}劇薬だったんだろうな。その結果、{n}間接的にそれを吸収した再生蟲どもは{n}死んじまったんだろう――",
-  "en": ""
+  "en": "Probably a powerful drug that boosts your{n}powers for a while. In the end, the{n}regenerating bugs that absorbed it{n}secondhand died off--"
  },
  {
   "id": "s0297_0190c",
@@ -1051,7 +1051,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "蟲にしてみりゃ、殺虫剤を飲まされた{n}ようなもんだな",
-  "en": ""
+  "en": "For the bugs, it was like drinking bug{n}spray."
  },
  {
   "id": "s0297_01940",
@@ -1075,7 +1075,7 @@
    "バ・ソリー"
   ],
   "jp": "うう……馬鹿なぁ。許してくれぇ、{n}俺様の可愛い蟲たちよ！",
-  "en": ""
+  "en": "Ooh... Impossible. Forgive me, my adorable{n}bugs!"
  },
  {
   "id": "s0297_0197c",
@@ -1099,7 +1099,7 @@
    "バ・ソリー"
   ],
   "jp": "沼沢地方に住み、蟲との共生を余儀{n}なくされた辺境の部族――その中から{n}生まれたのが、積極的に蟲を寄生させ、{n}その能力を利用して身体機能を高める{n}術を身につけた“蟲使い”と呼ばれる{n}者たちであった。",
-  "en": ""
+  "en": "In the marshlands lived a frontier tribe{n}forced to live alongside bugs. From among{n}them came those called \"bug tamers\",{n}who mastered the art of deliberately{n}taking in bugs as parasites and using their{n}powers to heighten the body's{n}functions."
  },
  {
   "id": "s0297_01a40",
@@ -1123,7 +1123,7 @@
    "バ・ソリー"
   ],
   "jp": "その蟲使いの中にあっても、常識に{n}外れた尋常ならざる数の蟲を身体に{n}飼う男――それがバ・ソリーであった。{page}彼にとって蟲たちは人間よりもずっと{n}心を通わせることのできる愛すべき{n}生物であり、その偏愛ぶりは一族から{n}も放逐されるほどであった。",
-  "en": ""
+  "en": "Even among the bug tamers, one man{n}kept bugs in numbers beyond all common{n}sense: that was Ba Thory.{page}To him the bugs were lovable creatures,{n}far easier to feel close to than humans,{n}and so extreme was his love that his own{n}clan cast him out."
  },
  {
   "id": "s0297_01b2c",
@@ -1147,7 +1147,7 @@
    "バ・ソリー"
   ],
   "jp": "当然ながらバ・ソリーは孤独であった。{page}彼の思い描く夢――多くの人間に、{n}ただ醜いという理由だけで忌み嫌われ{n}る蟲たちが、駆除されることなく安心{n}して繁殖できる楽園の建設に、理解を{n}示す者などいるはずもなかった。",
-  "en": ""
+  "en": "Ba Thory was alone, as was only{n}natural.{page}No one could ever sympathize with his{n}dream: a paradise where bugs, loathed by{n}so many humans merely for being ugly,{n}could breed in safety and never be{n}exterminated."
  },
  {
   "id": "s0297_01bfc",
@@ -1171,7 +1171,7 @@
    "バ・ソリー"
   ],
   "jp": "だが、カル＝スだけは違った。戦場で{n}すら蔑まれる蟲使いの技能に敬意を{n}払うと同時に、バ・ソリーの夢に対し{n}ても理解を示した唯一の人間であった。",
-  "en": ""
+  "en": "But Kall-Su alone was different. He{n}honored the skills of the bug tamer,{n}despised even on the battlefield, and he{n}was the only human who showed{n}understanding of Ba Thory's dream."
  },
  {
   "id": "s0297_01c8c",
@@ -1195,7 +1195,7 @@
    "バ・ソリー"
   ],
   "jp": "“人は夢を見なければならぬ。私は{n}全ての者が平等で、飢えることもなく、{n}夢を実現できる世界を創造したい――”",
-  "en": ""
+  "en": "\"Man must dream. I wish to create a{n}world where all are equal, none go{n}hungry, and dreams may be realized--\""
  },
  {
   "id": "s0297_01cf8",
@@ -1219,7 +1219,7 @@
    "バ・ソリー"
   ],
   "jp": "その言葉に、バ・ソリーは心酔した。{n}人間の言葉に初めて心を打たれた。{page}蟲しか愛せなかった彼にとって、{n}カルは初めて敬愛し、忠誠を捧げる{n}ことのできる人物であったのだ――。",
-  "en": ""
+  "en": "Those words filled Ba Thory with{n}adoration. For the first time, a human's{n}words had touched his heart.{page}To one who could love only bugs, Kall was{n}the first person he could revere and{n}pledge his loyalty to--"
  },
  {
   "id": "s0297_01da0",
@@ -1243,7 +1243,7 @@
    "バ・ソリー"
   ],
   "jp": "……違う！　カル様は蟲に対しても、{n}決してこんな無道な仕打ちはなされぬ！{n}こんなのは、カル様ではない――",
-  "en": ""
+  "en": "...No! Kall-sama would never do so vile a{n}thing, even to bugs! This is not{n}Kall-sama--"
  },
  {
   "id": "s0297_01e08",
@@ -1267,7 +1267,7 @@
    "バ・ソリー"
   ],
   "jp": "――俺様も一緒に行く！　カル様に{n}正気に戻って頂かねば、蟲の楽園建設{n}の夢は実現できぬ！",
-  "en": ""
+  "en": "--The great me is going with you! Unless{n}Kall-sama regains his senses, my dream of{n}building a bug paradise can never come{n}true!"
  },
  {
   "id": "s0297_01e60",
@@ -1291,7 +1291,7 @@
    "ヴァイ"
   ],
   "jp": "なるべく、俺んちのそばでは実現して{n}欲しくないんですケド……",
-  "en": ""
+  "en": "If you could make it not come true near my{n}house, that'd be great..."
  },
  {
   "id": "s0297_01ea0",
@@ -1315,7 +1315,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "おう。これ、オメエのだよな",
-  "en": ""
+  "en": "Hey. This is yours, right?"
  },
  {
   "id": "s0297_01ebc",
@@ -1339,7 +1339,7 @@
    "バ・ソリー"
   ],
   "jp": "そ、それは変蟲ちゃん！　可愛い蟲を{n}またも見つけてくれるとは、やはり{n}俺様の見込んだ男よ！",
-  "en": ""
+  "en": "Th-that's my strange bug-chan! You found{n}my adorable bug again! You are just the man{n}I took you for!"
  },
  {
   "id": "s0297_01f18",
@@ -1363,7 +1363,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "ったく、調子いいヤロウだな",
-  "en": ""
+  "en": "Damn, you're a slick one."
  },
  {
   "id": "s0297_01f34",
@@ -1387,7 +1387,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "三匹目の蟲を吸収したバ・ソリーの{n}肉体に、目には見えぬ変化が起こり{n}始めていた。",
-  "en": ""
+  "en": "Having absorbed the third bug, Ba Thory's{n}body began to undergo an unseen{n}change."
  },
  {
   "id": "s0297_01f84",
@@ -1411,7 +1411,7 @@
    "バ・ソリー"
   ],
   "jp": "おお……奇蟲珍蟲変蟲が渾然一体に{n}絡まり合って、俺様のカラダを内側{n}からヒートアップさせるううぅぅ……。{n}ああ、カ・イ・感……",
-  "en": ""
+  "en": "Oh ho... Odd bugs, rare bugs and strange{n}bugs twine together as one, heating up the{n}great me's body from withiiin... Ahh, such{n}ple-a-sure..."
  },
  {
   "id": "s0297_02004",
@@ -1435,7 +1435,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "何言ってやがんだオメーわ!?　ついに{n}脳味噌まで蟲がわきやがったか？",
-  "en": ""
+  "en": "What the hell are you saying!? Did bugs{n}finally get into your brain?"
  },
  {
   "id": "s0297_02048",
@@ -1459,7 +1459,7 @@
    "バ・ソリー"
   ],
   "jp": "ふうう……これで蟲たちの肉体修復{n}能力は格段にパワーアップしたずおぉ。{n}従ってこのバ・ソリー様はますます{n}不死身になったのだはあぁぁ",
-  "en": ""
+  "en": "Whew... Now my bugs' power to mend the{n}body has been vastly enhanced. So the{n}great Ba Thory-sama is more immortal than{n}ever, hahhh!"
  },
  {
   "id": "s0297_020cc",
@@ -1483,7 +1483,7 @@
    "ヴァイ"
   ],
   "jp": "ホント、人間離れしたオッサンだなあ",
-  "en": ""
+  "en": "Seriously, this old coot's barely human."
  },
  {
   "id": "s0297_024d0",
@@ -1507,6 +1507,6 @@
    "Ｄ・Ｓ"
   ],
   "jp": "もう後戻りはできねえな",
-  "en": ""
+  "en": "No going back now."
  }
 ]

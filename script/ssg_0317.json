@@ -21,7 +21,7 @@
    ""
   ],
   "jp": "館が崩れ落ちる中、一行は魔神の背後{n}に隠されていた通路から裏側の出口に{n}抜け、辛くも脱出した。大量の塵埃が{n}もうもうと立ちこめる洞窟を逃げ去る{n}ように走り抜けて辿り着いたのは、{n}先刻の洞窟よりも狭く、岩質も違う{n}坑道らしき通路であった。",
-  "en": ""
+  "en": "As the mansion came down, the party{n}slipped out through a passage hidden{n}behind the demon god to a back exit, and{n}barely escaped. They fled through a cave{n}thick with billowing dust, and what they{n}reached was a passage like a mine tunnel,{n}narrower than the last cave, its rock of{n}another kind."
  },
  {
   "id": "s0317_00900",
@@ -45,7 +45,7 @@
    ""
   ],
   "jp": "定期的に通り抜ける風が虚ろな響きを{n}奏でている。入口を塞いでいた館が{n}崩壊したことで、空気の流れが活性化{n}したようであった。",
-  "en": ""
+  "en": "A wind passing through at regular{n}intervals made a hollow sound. With the{n}mansion that had blocked the entrance{n}gone, the air seemed to flow more{n}freely."
  },
  {
   "id": "s0317_0097c",
@@ -69,7 +69,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "む……ん？　肺の痛みは治まったみて{n}えだぜ。楽に息ができるようになった",
-  "en": ""
+  "en": "Mm... huh? The pain in my lungs seems to{n}have stopped. I can breathe easy."
  },
  {
   "id": "s0317_009c4",
@@ -93,7 +93,7 @@
    "ネイ"
   ],
   "jp": "良かった！　ダーシュの治癒能力が{n}機能し始めたのかしら？",
-  "en": ""
+  "en": "Thank goodness! Have your healing powers{n}started working, Dahsh?"
  },
  {
   "id": "s0317_00a00",
@@ -117,7 +117,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "いや、相変わらず心臓は様子がおかし{n}いようだぜ……痛みは遮断しているが、{n}脈拍が一定じゃねえ。呪詛を無効化{n}したワケじゃなさそうだ",
-  "en": ""
+  "en": "Nah, my heart's still acting weird... I've shut{n}off the pain, but my pulse is all over the{n}place. Doesn't look like the curse got{n}canceled."
  },
  {
   "id": "s0317_00a84",
@@ -141,7 +141,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "たぶん、今の化け物は肺の呪詛を司っ{n}てやがったんだろう。どんな因果関係{n}があったのかは判らねえが、心臓への{n}呪詛も同じように解かなきゃならねえ",
-  "en": ""
+  "en": "That monster just now probably ran the{n}curse on my lungs. No idea how it's all{n}connected, but the curse on my heart's{n}gotta be broken the same way."
  },
  {
   "id": "s0317_00b14",
@@ -165,7 +165,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "それでも、戦うこたぁできそうだぜ。{n}まるっきり本調子とはいかねえが――",
-  "en": ""
+  "en": "Still, I can fight. Not at my best by a long{n}shot, but--"
  },
  {
   "id": "s0317_00b5c",
@@ -189,7 +189,7 @@
    "ガラ"
   ],
   "jp": "ま、オメエはゆっくりしてなって。{n}うっ！　ボクの心臓が……とか言われ{n}るとコッチの心臓にも悪りいからよ",
-  "en": ""
+  "en": "Just take it easy, pal. If you go \"Urk, my{n}poor heart...\" on us, it's bad for my heart{n}too."
  },
  {
   "id": "s0317_00bc4",
@@ -213,7 +213,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "んだぁ？　このゴリラ野郎！　テメー{n}がもっとしっかりしてりゃ俺様は鼻歌{n}混じりでのんびりできるのによ！{n}四天王ならビッとしろ、ビッと！",
-  "en": ""
+  "en": "What the hell? You gorilla bastard! If you{n}were doing your job, the great me could be{n}humming a tune and taking it easy! You're{n}one of the Divine Kings, so shape up,{page}shape up!"
  },
  {
   "id": "s0317_00c4c",
@@ -237,7 +237,7 @@
    "ガラ"
   ],
   "jp": "ガギグゴ……せっかく人が優しー言葉{n}をかけてやりゃあ――ブッ殺すぅ！",
-  "en": ""
+  "en": "Grrrgh... Here I go being nice to you, and--{n}I'll kill you!"
  },
  {
   "id": "s0317_00c94",
@@ -261,7 +261,7 @@
    "ネイ"
   ],
   "jp": "ガラ！　ダーシュは病人なのよ！",
-  "en": ""
+  "en": "Gara! Dahsh is a sick man!"
  },
  {
   "id": "s0317_00cb4",
@@ -285,7 +285,7 @@
    "ガラ"
   ],
   "jp": "だってオメエ、このヤロウが……",
-  "en": ""
+  "en": "But c'mon, this bastard..."
  },
  {
   "id": "s0317_00cd4",
@@ -309,7 +309,7 @@
    "ネイ"
   ],
   "jp": "それにしても、四天王か……私とガラ、{n}そしてカル――あとひとりの名が思い{n}出せんな。まだ封じられている記憶が{n}あると言うことか……",
-  "en": ""
+  "en": "Still, the Divine Kings... Gara and I, and Kall... I{n}cannot recall the name of the last one. So{n}some of my memory must still be sealed..."
  },
  {
   "id": "s0317_00d58",
@@ -333,7 +333,7 @@
    "ネイ"
   ],
   "jp": "まさかこの地にも、これまでの我々の{n}ように操られた四天王が……？",
-  "en": ""
+  "en": "Could there be in this land too one of the{n}Divine Kings, controlled as we were...?"
  },
  {
   "id": "s0317_00d9c",
@@ -357,7 +357,7 @@
    "ガラ"
   ],
   "jp": "人の話を聞けって！　ネイってば！",
-  "en": ""
+  "en": "Listen to me, would ya! Nei!"
  },
  {
   "id": "s0317_00dc0",
@@ -381,7 +381,7 @@
    "ネイ"
   ],
   "jp": "うるさいっ！　今、重要な考え中！{n}シビれてなさいっ！",
-  "en": ""
+  "en": "Shut up! I'm thinking about something{n}important! Have a shock!"
  },
  {
   "id": "s0317_00df8",
@@ -405,7 +405,7 @@
    "ガラ"
   ],
   "jp": "あんぎゃあああ！　みんな、オレって{n}大事にされてる？　うぎゃあ――っ！",
-  "en": ""
+  "en": "Angyaaaah! Everybody, do you think I get{n}treated nice? Ugyaaah--!"
  },
  {
   "id": "s0317_00e40",
@@ -429,7 +429,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "さっきはガインが化けて出やがった{n}からな。敵もどんな手を使ってくるか{n}読めたもんじゃねーや",
-  "en": ""
+  "en": "Gain just came back from the dead on us,{n}after all. There's no telling what tricks the{n}enemy's gonna pull."
  },
  {
   "id": "s0317_00e9c",
@@ -477,7 +477,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "そーいやオメエのことだけ、何だか{n}記憶がハッキリしねえんだよな。{n}重要なコト、忘れてねーかな？",
-  "en": ""
+  "en": "Come to think of it, you're the only one I{n}can't remember clearly. Am I forgetting{n}something important?"
  },
  {
   "id": "s0317_00f04",
@@ -501,7 +501,7 @@
    "アンガス"
   ],
   "jp": "……（ぶん、ぶん）",
-  "en": ""
+  "en": "...(shake, shake)"
  },
  {
   "id": "s0317_00f18",
@@ -525,7 +525,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "忘れてない？　あっそー。うーん？",
-  "en": ""
+  "en": "I'm not? Oh, okay. Hmm?"
  },
  {
   "id": "s0317_00f3c",
@@ -549,7 +549,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "とにかく、この通路を先に進もう。{n}このままじゃ、俺の心臓はそう長くは{n}保ちそうにねえ。早く、呪詛の源を{n}見つけねえと……",
-  "en": ""
+  "en": "Anyway, let's go on along this passage. Like{n}this, my heart won't last too long. Gotta find{n}the source of the curse, quick..."
  },
  {
   "id": "s0317_00fb4",
@@ -573,7 +573,7 @@
    "ブラド"
   ],
   "jp": "おお！　真の騎士よ！",
-  "en": ""
+  "en": "Oh! True knight!"
  },
  {
   "id": "s0317_00fcc",
@@ -597,7 +597,7 @@
    "ザック"
   ],
   "jp": "ブラドじゃんか！",
-  "en": ""
+  "en": "It's Blad!"
  },
  {
   "id": "s0317_00fe0",
@@ -621,7 +621,7 @@
    "ブラド"
   ],
   "jp": "おう、ザックか！{n}貴公も無事で何よりだわ！",
-  "en": ""
+  "en": "Ah, Zakk! I am glad to see you safe as well,{n}sir!"
  },
  {
   "id": "s0317_0100c",
@@ -645,7 +645,7 @@
    "ブラド"
   ],
   "jp": "この洞窟で目覚めたブラドは、仲間の{n}消息を求めて歩き回っていたらしい。{n}例によってまた迷っており、洞窟の{n}構造を把握してはいないようであった。",
-  "en": ""
+  "en": "Waking in this cave, Blad had apparently{n}been walking around in search of news of{n}his comrades. As usual he was lost again,{n}and had no grasp of the layout of the{n}cave."
  },
  {
   "id": "s0317_0109c",
@@ -669,7 +669,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "ま、自主的に俺たちと合流できただけ、{n}オメエも進歩したかな",
-  "en": ""
+  "en": "Well, you managed to find us on your own,{n}so I guess you've made progress."
  },
  {
   "id": "s0317_010d8",
@@ -693,7 +693,7 @@
    "ザック"
   ],
   "jp": "進化じゃないのぉ",
-  "en": ""
+  "en": "More like evolved."
  },
  {
   "id": "s0317_010ec",
@@ -717,7 +717,7 @@
    "ブラド"
   ],
   "jp": "どういう意味かな？　貴公？",
-  "en": ""
+  "en": "What do you mean by that, sir?"
  },
  {
   "id": "s0317_01108",
@@ -741,7 +741,7 @@
    "ザック"
   ],
   "jp": "だってオマエ、人類とは思えないほど{n}デカいんだもん",
-  "en": ""
+  "en": "Well, I mean, you're so huge you don't even{n}look human."
  },
  {
   "id": "s0317_0113c",
@@ -765,7 +765,7 @@
    "ブラド"
   ],
   "jp": "ぬううっ！　この礼儀を知らぬ小童め！{n}貴様も少しは騎士道精神を学べぃ！",
-  "en": ""
+  "en": "Hrrm! You ill-mannered brat! You might learn{n}something of the spirit of chivalry!"
  },
  {
   "id": "s0317_01184",
@@ -789,7 +789,7 @@
    "ザック"
   ],
   "jp": "やだね。俺は格闘家だもん",
-  "en": ""
+  "en": "No way. I'm a brawler."
  },
  {
   "id": "s0317_011a0",
@@ -813,7 +813,7 @@
    "ブラド"
   ],
   "jp": "うぎぐぎ……成敗してくれるぅ！",
-  "en": ""
+  "en": "Grrrgh... I shall smite you!"
  },
  {
   "id": "s0317_011c0",
@@ -837,7 +837,7 @@
    "ザック"
   ],
   "jp": "おっ！　やるか!?",
-  "en": ""
+  "en": "Oh! Wanna go!?"
  },
  {
   "id": "s0317_011d4",
@@ -861,7 +861,7 @@
    "ガラ"
   ],
   "jp": "おいおい、止めなくていーのかよ？",
-  "en": ""
+  "en": "Hey, hey, shouldn't we stop 'em?"
  },
  {
   "id": "s0317_011f8",
@@ -885,7 +885,7 @@
    "イングヴェイイングヴェイ・フォン・マルムステ"
   ],
   "jp": "あのふたりは昔からああだったからな。{n}ああしてじゃれ合って、年齢差を{n}埋めているのだろう",
-  "en": ""
+  "en": "Those two have always been like that. They{n}horse around like that to close the gap in{n}their ages."
  },
  {
   "id": "s0317_01250",
@@ -909,7 +909,7 @@
    "ガラ"
   ],
   "jp": "ふーん……ザックが若いのは判ると{n}して、あのオッサンは幾つぐらいなの？",
-  "en": ""
+  "en": "Huh... Zakk's young, I get that, but how old's{n}the old man?"
  },
  {
   "id": "s0317_01298",
@@ -933,7 +933,7 @@
    "イングヴェイイングヴェイ・フォン・マルムステ"
   ],
   "jp": "二十代後半だと思ったが――",
-  "en": ""
+  "en": "In his late twenties, I believe--"
  },
  {
   "id": "s0317_012b4",
@@ -957,7 +957,7 @@
    "ガラ"
   ],
   "jp": "ウソォ？{n}オレより年上かと思ってたのに……",
-  "en": ""
+  "en": "No way! I thought he was older than me..."
  },
  {
   "id": "s0317_012e0",
@@ -981,7 +981,7 @@
    "ネイ"
   ],
   "jp": "アンタだって、忍者の秘法だか何だか{n}で全然年を取らないじゃない。初めて{n}会った時からン十年、見かけも中身も{n}成長してないわよ",
-  "en": ""
+  "en": "You don't age at all either, with that ninja{n}secret art or whatever. Decades since we{n}met, and you haven't grown up inside or{n}out."
  },
  {
   "id": "s0317_0135c",
@@ -1005,7 +1005,7 @@
    "ガラ"
   ],
   "jp": "あっ、ヒデぇ！　オメーだってそーじゃ{n}ねーか！",
-  "en": ""
+  "en": "Hey, that's harsh! You're the same way!"
  },
  {
   "id": "s0317_0138c",
@@ -1029,7 +1029,7 @@
    "ネイ"
   ],
   "jp": "私はハーフエルフだもの、しょうが{n}ないでしょ",
-  "en": ""
+  "en": "I'm a half-elf, I can't help it."
  },
  {
   "id": "s0317_013bc",
@@ -1053,7 +1053,7 @@
    "ロス"
   ],
   "jp": "Ｄ・Ｓと言い、四天王とかってそんな{n}人ばっかりなのよねえ",
-  "en": ""
+  "en": "What with D.S. and all, you Divine Kings are{n}all like that, aren't you."
  },
  {
   "id": "s0317_018d4",
@@ -1077,7 +1077,7 @@
    ""
   ],
   "jp": "そこで、洞窟は二手に分かれていた。{n}風が流れてくるのは右手の道で、左の{n}道は大きく湾曲してもときた方角に{n}近い方向に向かっている。",
-  "en": ""
+  "en": "There the cave split in two. The wind{n}came from the right-hand path, while the{n}left curved wide and ran back near the{n}way they had come."
  },
  {
   "id": "s0317_01958",
@@ -1101,7 +1101,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "……風の流れてくるほうに向かおう",
-  "en": ""
+  "en": "...Let's head where the wind's coming from."
  },
  {
   "id": "s0317_0197c",
@@ -1125,7 +1125,7 @@
    "ネイ"
   ],
   "jp": "それが妥当ね",
-  "en": ""
+  "en": "That seems right."
  },
  {
   "id": "s0317_01a10",
@@ -1149,7 +1149,7 @@
    ""
   ],
   "jp": "この洞窟の終端は、結界とも何らかの{n}器官ともつかぬ怪物体によって遮られ{n}ていた。",
-  "en": ""
+  "en": "The end of this cave was blocked by a{n}monstrous object, whether barrier or{n}organ they could not tell."
  },
  {
   "id": "s0317_01a60",
@@ -1173,7 +1173,7 @@
    ""
   ],
   "jp": "それは通路の径とほぼ等しい大きさの、{n}円形の物体であった。それを構成する{n}のは、半透明で弾力のある無数の花弁{n}らしきものである。それはちょうど、{n}大輪の花を真下から見たような形を{n}していた。奇妙にも空気は通り抜けて{n}くるらしく、風に合わせて花弁が微か{n}に揺れている。",
-  "en": ""
+  "en": "It was a round object of about the same{n}size as the passage, made up of countless{n}translucent, elastic things like petals. It{n}was shaped just like a great flower seen{n}from directly below. Strangely, the air{n}seemed to pass through it, and the petals{n}swayed faintly with the wind."
  },
  {
   "id": "s0317_01b68",
@@ -1197,7 +1197,7 @@
    "ガラ"
   ],
   "jp": "何だこりゃあ？　ゼリーみたいだな",
-  "en": ""
+  "en": "What the hell is this? It's like jelly."
  },
  {
   "id": "s0317_01b8c",
@@ -1221,7 +1221,7 @@
    "ネイ"
   ],
   "jp": "柔らかそうだが、剣などは受けつけ{n}ないようだぞ",
-  "en": ""
+  "en": "It looks soft, but it seems to resist swords{n}and the like."
  },
  {
   "id": "s0317_01bbc",
@@ -1245,7 +1245,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "どいてろ……一発呪文をブチかまして{n}やるぜ。これ以上モタついてるワケにゃ{n}いかねえ――",
-  "en": ""
+  "en": "Stand back... I'll blast it with a spell. I can't{n}afford to dawdle any longer--"
  },
  {
   "id": "s0317_01c14",
@@ -1270,7 +1270,7 @@
    "サイクス"
   ],
   "jp": "待て！　Ｄ・Ｓ！",
-  "en": ""
+  "en": "Wait! D.S.!"
  },
  {
   "id": "s0317_01c28",
@@ -1294,7 +1294,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "――？　サイクスか？　何で止める？",
-  "en": ""
+  "en": "--? Sykes? Why stop me?"
  },
  {
   "id": "s0317_01c4c",
@@ -1318,7 +1318,7 @@
    "サイクス"
   ],
   "jp": "その物体を良く透かし見てみるといい。{n}通路の向こう側は、ただの洞窟では{n}ないぞ",
-  "en": ""
+  "en": "Look carefully through that object,{n}gentlemen. What lies beyond the passage is{n}no mere cave."
  },
  {
   "id": "s0317_01c9c",
@@ -1345,7 +1345,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "半透明の花弁を通して注意深く観察{n}すると、確かに大輪の向こうにある{n}洞窟は、尋常のものではない奇怪な{n}闇が渦を巻いていた。亜空間、あるい{n}は高次空間へと繋がる通路が口を開い{n}ているのだった。たとえこの器官を{n}破壊しようと、そのまま先に進むこと{n}はできそうにない。",
-  "en": ""
+  "en": "Observing closely through the translucent{n}petals, they saw that the cave beyond{n}the great flower was indeed no ordinary{n}one: a bizarre darkness swirled there. A{n}passage to subspace, or to a higher{n}space, stood open. Even if they destroyed{n}this organ, it seemed they could not{n}simply go on."
  },
  {
   "id": "s0317_01da0",
@@ -1369,7 +1369,7 @@
    "サイクス"
   ],
   "jp": "この半透明の物質は、恐らくその先の{n}空間を越えるための加速器官だ。破壊{n}してしまうと、取り返しのつかない{n}ことになるかも知れん――",
-  "en": ""
+  "en": "This translucent substance is most likely an{n}accelerator organ for crossing the space{n}beyond. Destroy it and it may be beyond{n}repair--"
  },
  {
   "id": "s0317_01e24",
@@ -1393,7 +1393,7 @@
    "サイクス"
   ],
   "jp": "もっとも、そうやすやすと破壊できる{n}ものとも思えないが。呪文を無駄に{n}使うのも、君の本意ではあるまい？",
-  "en": ""
+  "en": "Not that it seems so easily destroyed. Nor{n}do you wish to waste a spell, surely?"
  },
  {
   "id": "s0317_01e8c",
@@ -1417,7 +1417,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "少々アセってるんでな。だが、そう{n}すっとどうやってこの器官とやらを{n}動かしたらいいんだ？",
-  "en": ""
+  "en": "I'm a little rushed here. But then how the{n}hell am I supposed to work this organ{n}thing?"
  },
  {
   "id": "s0317_01ee4",
@@ -1441,7 +1441,7 @@
    "サイクス"
   ],
   "jp": "この器官、私にはあの龍が開く“螺”{n}の道に関わるものだと睨んでいる。{n}だが、どのみちここに手がかりは{n}なさそうだな――",
-  "en": ""
+  "en": "This organ, I suspect, has to do with the{n}\"spiral\" road that the dragons open. But in{n}any case, there seems to be no clue{n}here--"
  },
  {
   "id": "s0317_01f5c",
@@ -1465,7 +1465,7 @@
    "サイクス"
   ],
   "jp": "少し戻ったところにある分岐から、{n}別の方角を探ってみるのが賢明だろう",
-  "en": ""
+  "en": "It would be wise to try the other way, at{n}the fork a little way back."
  },
  {
   "id": "s0317_01fa4",
@@ -1489,7 +1489,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "合流したばっかだってのに、相変わら{n}ずテキパキしてやがんな",
-  "en": ""
+  "en": "You just joined us, and you're as brisk as{n}ever."
  },
  {
   "id": "s0317_01fe0",
@@ -1513,7 +1513,7 @@
    "サイクス"
   ],
   "jp": "この世界の謎を解き明かそうとする{n}欲求が、私を衝き動かす力の源なのだ。{n}全てを解明したい。少しでも早く――",
-  "en": ""
+  "en": "The urge to unravel the riddle of this world{n}is the source of what drives me. I want to{n}explain everything, as soon as I can--"
  },
  {
   "id": "s0317_0204c",
@@ -1537,7 +1537,7 @@
    "サイクス"
   ],
   "jp": "その時、Ｄ・Ｓと物体の間に、次元の{n}裂け目が現れた。",
-  "en": ""
+  "en": "Just then, a dimensional rift appeared{n}between D.S. and the object."
  },
  {
   "id": "s0317_02084",
@@ -1561,7 +1561,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "サイクスか！",
-  "en": ""
+  "en": "Sykes!"
  },
  {
   "id": "s0317_02094",
@@ -1585,7 +1585,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "いつも通り迅速に、サイクスが亜空間{n}から飛び出してきた。",
-  "en": ""
+  "en": "As swiftly as ever, Sykes jumped out of{n}subspace."
  },
  {
   "id": "s0317_020d0",
@@ -1609,7 +1609,7 @@
    "サイクス"
   ],
   "jp": "Ｄ・Ｓ、この器官の先にあるのはただ{n}の通路ではない。良く透かし見てみる{n}といい",
-  "en": ""
+  "en": "D.S., what lies beyond this organ is no mere{n}passage. Look carefully through it."
  },
  {
   "id": "s0317_02120",
@@ -1657,7 +1657,7 @@
    "サイクス"
   ],
   "jp": "私が移動している亜空間とは別の、{n}より高次の空間へと繋がる次元通路だ。{n}そのままでは、私も侵入することは{n}できない",
-  "en": ""
+  "en": "It is a dimensional passage leading not to{n}the subspace I travel in, but to a higher{n}space. As it is, even I cannot enter."
  },
  {
   "id": "s0317_0219c",
@@ -1681,7 +1681,7 @@
    "サイクス"
   ],
   "jp": "この物体は、恐らくは高次空間への{n}障壁を越えるための加速器官だろう。{n}私は龍の開く“螺”の道に関わるもの{n}と推察しているのだが――",
-  "en": ""
+  "en": "This object is most likely an accelerator{n}organ for crossing the barrier to the higher{n}space. I surmise it has to do with the \"spiral\"{n}road that the dragons open--"
  },
  {
   "id": "s0317_02220",
@@ -1705,7 +1705,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "“螺”の道に？",
-  "en": ""
+  "en": "The \"spiral\" road?"
  },
  {
   "id": "s0317_02230",
@@ -1729,7 +1729,7 @@
    "サイクス"
   ],
   "jp": "これまでも、君たちは龍を解放する{n}ことで、無意識に同様の器官を活性化{n}し、より高次の空間へとシフトして{n}いるようだ",
-  "en": ""
+  "en": "It seems that by freeing the dragons so far,{n}you have unknowingly activated similar{n}organs, and shifted to ever higher spaces."
  },
  {
   "id": "s0317_022a4",
@@ -1753,7 +1753,7 @@
    "サイクス"
   ],
   "jp": "私もそれに引きずられ、お陰で危うい{n}ところで猟犬の追跡を撒いてこれたの{n}だが……そろそろ限界が近づいてきた",
-  "en": ""
+  "en": "I have been dragged along with you, which{n}let me narrowly shake off the hound's{n}pursuit... but I am nearing my limit."
  },
  {
   "id": "s0317_02310",
@@ -1777,7 +1777,7 @@
    "サイクス"
   ],
   "jp": "奴の追跡能力は、私の次元跳躍能力を{n}遥かに上回っている。このままでは{n}早晩、あの怪物に捕捉されてしまう{n}だろう……むっ？　予想より早い！",
-  "en": ""
+  "en": "Its tracking far exceeds my power of{n}dimensional leaping. At this rate that{n}monster will catch me sooner or later... Hm?{n}Sooner than I expected!"
  },
  {
   "id": "s0317_02398",
@@ -1801,7 +1801,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "サイクス！",
-  "en": ""
+  "en": "Sykes!"
  },
  {
   "id": "s0317_023a4",
@@ -1825,7 +1825,7 @@
    "サイクス"
   ],
   "jp": "私は君たちに賭ける他ない。この世界{n}のどこかに埋もれている、私の能力を{n}増幅する装置を見つけだしてくれ。{n}頼んだぞ――",
-  "en": ""
+  "en": "I have no choice but to bet on you,{n}gentlemen. Find the device, buried{n}somewhere in this world, that amplifies my{n}power. I am counting on you--"
  },
  {
   "id": "s0317_0241c",
@@ -1849,7 +1849,7 @@
    "サイクス"
   ],
   "jp": "言い残し、高まる猟犬の殺気を引き{n}連れて、サイクスは次元の穴に逃げ{n}込んでいった。",
-  "en": ""
+  "en": "With those words, drawing the rising{n}bloodlust of the hound after him, Sykes{n}fled into the dimensional hole."
  },
  {
   "id": "s0317_02470",
@@ -1873,7 +1873,7 @@
    "イングヴェイイングヴェイ・フォン・マルムステ"
   ],
   "jp": "サイクス……相当に追い詰められて{n}いるようだ",
-  "en": ""
+  "en": "Sykes... He seems to be in a very tight{n}corner."
  },
  {
   "id": "s0317_024a0",
@@ -1897,7 +1897,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "ここにはもう手がかりはなさそうだ。{n}あの分岐の、もう一方に急ぐぜ！{n}サイクスのためにもな",
-  "en": ""
+  "en": "Looks like there's no more clues here. Let's{n}hurry to the other side of that fork! For{n}Sykes's sake too."
  },
  {
   "id": "s0317_028a0",

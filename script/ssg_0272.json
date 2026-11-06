@@ -21,7 +21,7 @@
    ""
   ],
   "jp": "宮殿の内部は、奇妙に息苦しい波動に{n}満たされていた。可聴域外を不協和音{n}が流れているような、調律の狂った{n}音波――そんな波動が、エーテルを{n}通じて全身を幽かに震わせている。",
-  "en": ""
+  "en": "The inside of the palace was filled with{n}oddly stifling waves. Off-key sound, like{n}dissonance flowing beyond hearing, faintly{n}shook their whole bodies through the{n}ether."
  },
  {
   "id": "s0272_008c4",
@@ -45,7 +45,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "何かがおかしい――そんな感じだぜ",
-  "en": ""
+  "en": "Something's off here. That's how it feels."
  },
  {
   "id": "s0272_008e8",
@@ -69,7 +69,7 @@
    "シェラ"
   ],
   "jp": "自然の均衡が狂っている……地表で{n}オーロラに感じたものに似ているな",
-  "en": ""
+  "en": "The balance of nature is deranged... It is{n}similar to what I felt from the aurora on{n}the surface."
  },
  {
   "id": "s0272_009c0",
@@ -93,7 +93,7 @@
    ""
   ],
   "jp": "幽かな震動が続き、止まった。{page}火星宮は正しい座標へと移動した。",
-  "en": ""
+  "en": "A faint tremor went on, then stopped.{page}The Mars Palace had moved to its proper{n}coordinates."
  },
  {
   "id": "s0272_00a00",
@@ -142,7 +142,7 @@
    ""
   ],
   "jp": "そこには巨大なレバーを始めとする、{n}原始的な操作盤が据え付けられていた。",
-  "en": ""
+  "en": "Fitted there was a primitive control panel,{n}with a huge lever among other things."
  },
  {
   "id": "s0272_00a54",
@@ -166,7 +166,7 @@
    "ヴァイ"
   ],
   "jp": "アンタ、操作できんの？",
-  "en": ""
+  "en": "You know how to work that?"
  },
  {
   "id": "s0272_00a6c",
@@ -190,7 +190,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "ふん。目ぇつぶっててもできらあ。{n}天才様に不可能はないのだ",
-  "en": ""
+  "en": "Hmph. I could do it with my eyes closed.{n}Nothing's impossible for a genius."
  },
  {
   "id": "s0272_00aa8",
@@ -214,7 +214,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "Ｄ・Ｓは安全装置らしきものを外し、{n}淀みない手つきで次々とレバーを{n}倒していく。操作した経験があるかの{n}如き、流れるような手際であった。",
-  "en": ""
+  "en": "D.S. undid what looked like a safety device{n}and pulled down one lever after another{n}with sure hands. His flowing skill looked as{n}though he had worked it before."
  },
  {
   "id": "s0272_00b30",
@@ -238,7 +238,7 @@
    "ヨルグ"
   ],
   "jp": "ほう。凄いな、Ｄ・Ｓ",
-  "en": ""
+  "en": "Oh. Impressive, D.S."
  },
  {
   "id": "s0272_00b48",
@@ -262,7 +262,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "ハッハッハーッ！　超絶美形は何でも{n}できる！　それがこの世の普遍の法則{n}なのだ……にしても、俺どうして判る{n}んだろ？　思ってたより複雑なのにな",
-  "en": ""
+  "en": "Hah hah hah! A super-gorgeous guy can do{n}anything! That's the universal law of this{n}world... Still, how the hell do I know this? It's{n}more complex than I thought."
  },
  {
   "id": "s0272_00bd8",
@@ -286,7 +286,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "最後のレバーが倒され、短い沈黙が{n}流れた。と、宮殿の基部らしき辺り{n}から低い振動音が響き、やがて微震が{n}足下から這い上ってきた。",
-  "en": ""
+  "en": "The last lever went down, and a short{n}silence fell. Then a low vibration sounded{n}from what seemed to be the palace's{n}base, and soon a faint tremor crept up{n}from underfoot."
  },
  {
   "id": "s0272_00c58",
@@ -310,7 +310,7 @@
    "ヴァイ"
   ],
   "jp": "壊しちまったんじゃねーの？",
-  "en": ""
+  "en": "Didn't you just break it?"
  },
  {
   "id": "s0272_00c74",
@@ -334,7 +334,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "いや、ちゃんとメカニズムが作動して{n}いる音だぜ。俺様に失敗はない！",
-  "en": ""
+  "en": "Nah, that's the sound of the mechanism{n}working right. The great me never fails!"
  },
  {
   "id": "s0272_00cb8",
@@ -358,7 +358,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "ガコン！　という重い響きを立てて、{n}しばらく続いた振動は止まった。",
-  "en": ""
+  "en": "Gakon! With a heavy noise, the vibration{n}that had gone on for a while came to a{n}stop."
  },
  {
   "id": "s0272_00cfc",
@@ -382,7 +382,7 @@
    "ボル"
   ],
   "jp": "止まったようでござるな",
-  "en": ""
+  "en": "It seems to have stopped, forsooth."
  },
  {
   "id": "s0272_00d14",
@@ -406,7 +406,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "何か起きたとも……ん？",
-  "en": ""
+  "en": "Doesn't look like anything happened... hm?"
  },
  {
   "id": "s0272_00d2c",
@@ -430,7 +430,7 @@
    "シェラ"
   ],
   "jp": "判るか、Ｄ・Ｓ？　宮殿に満ちていた{n}違和感が消えている……狂いが調律{n}されたような……",
-  "en": ""
+  "en": "Can you tell, D.S.? The strange feeling that{n}filled the palace is gone... as if the discord{n}had been put back in tune..."
  },
  {
   "id": "s0272_00d84",
@@ -454,6 +454,6 @@
    "ヨルグ"
   ],
   "jp": "外に出てみよう",
-  "en": ""
+  "en": "Let us go outside."
  }
 ]

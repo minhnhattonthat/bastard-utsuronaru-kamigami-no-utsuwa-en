@@ -21,7 +21,7 @@
    ""
   ],
   "jp": "氷獄塔の頂は、巨大な円形闘技場の{n}如き空間だった。青く澄んだ空には{n}大きな虹が架かり、磨き上げられた{n}氷の床がそれらを映して目映く輝く。",
-  "en": ""
+  "en": "The top of the Ice Hell Tower was a{n}space like a huge circular arena. A great{n}rainbow spanned the clear blue sky, and{n}the polished floor of ice mirrored it and{n}shone dazzlingly."
  },
  {
   "id": "s0305_008a0",
@@ -45,7 +45,7 @@
    ""
   ],
   "jp": "大気は薄く、冷たい。地表から数千{n}メートルの高空で、風は地平の彼方で{n}唸っているかに遠く響く――。",
-  "en": ""
+  "en": "The air was thin and cold. High in the sky,{n}thousands of meters above the earth, the{n}wind echoed far off, as if it howled{n}beyond the horizon--"
  },
  {
   "id": "s0305_00904",
@@ -69,7 +69,7 @@
    ""
   ],
   "jp": "コロシアムの中央に、至高王はいた。{page}この限りなく天に近い高みから、{n}四方を睥睨している風であった。{n}仮面から覗いた口元に薄く笑みを{n}浮かべ、彼はＤ・Ｓ一行に向き直った。",
-  "en": ""
+  "en": "In the center of the coliseum stood the{n}High King.{page}He seemed to be looking down on all sides{n}from this height, so near to heaven. With{n}a faint smile on the lips below his mask, he{n}turned to face D.S. and the party."
  },
  {
   "id": "s0305_009ac",
@@ -93,7 +93,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "やい、カル！　テメエまだ思い出さ{n}ねえのか？　何に取っ憑かれてるのか{n}知らねえが、これ以上俺様の邪魔を{n}すっと承知しねーぞ！",
-  "en": ""
+  "en": "Hey, Kall! You still don't remember? I don't{n}know what's got hold of you, but get in the{n}great me's way any more and you're dead{n}meat!"
  },
  {
   "id": "s0305_00a28",
@@ -117,7 +117,7 @@
    "至高王"
   ],
   "jp": "フッ……憑かれているだと。魔戦将軍、{n}卿らもそのような戯言を真に受けて{n}私に刃向かうのか？　イングヴェイ？{n}ラン？",
-  "en": ""
+  "en": "Heh... Got hold of me, you say. Sorcerer{n}Generals, do you too take such nonsense{n}seriously and raise your blades against me?{n}Yngwei? Ran?"
  },
  {
   "id": "s0305_00a9c",
@@ -141,7 +141,7 @@
    "ラン"
   ],
   "jp": "し、しかしカル様――",
-  "en": ""
+  "en": "B-but Kall-sama--"
  },
  {
   "id": "s0305_00ab4",
@@ -165,7 +165,7 @@
    "イングヴェイイングヴェイ・フォン・マルムステ"
   ],
   "jp": "我々は……真実が知りたいのです！",
-  "en": ""
+  "en": "We... wish to know the truth!"
  },
  {
   "id": "s0305_00ad8",
@@ -189,7 +189,7 @@
    "至高王"
   ],
   "jp": "卿らの忠誠とはそんなものか……{n}失望したぞ。良かろう。ならばそこで{n}私とＤ・Ｓ、どちらが正しいのかを{n}見定めるがいい――",
-  "en": ""
+  "en": "Is that the extent of your loyalty... I am{n}disappointed. Very well. Then stand there{n}and judge which is right, D.S. or I--"
  },
  {
   "id": "s0305_00b50",
@@ -213,7 +213,7 @@
    "ラン"
   ],
   "jp": "カル様……単に憑かれているようにも{n}見えない。何かお考えが――？",
-  "en": ""
+  "en": "Kall-sama... He does not look merely{n}possessed. Does he have something in{n}mind--?"
  },
  {
   "id": "s0305_00b94",
@@ -237,7 +237,7 @@
    "イングヴェイイングヴェイ・フォン・マルムステ"
   ],
   "jp": "済まぬＤ・Ｓ……我々はやはりカル様{n}に刃は向けられぬ",
-  "en": ""
+  "en": "Forgive me, D.S.... We cannot turn our blades{n}on Kall-sama after all."
  },
  {
   "id": "s0305_00bcc",
@@ -261,7 +261,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "仕方ねえ。魔戦将軍抜きで戦うって{n}ことになるか",
-  "en": ""
+  "en": "Can't be helped. Guess we fight without the{n}Sorcerer Generals."
  },
  {
   "id": "s0305_00bfc",
@@ -285,7 +285,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "思い出させてやるぜ、カル！{n}テメエは俺のモンだってな！",
-  "en": ""
+  "en": "I'll make you remember, Kall! That you're{n}mine!"
  },
  {
   "id": "s0305_00c34",
@@ -309,7 +309,7 @@
    "至高王"
   ],
   "jp": "笑止！　ここで氷の塵となれ、Ｄ・Ｓ！",
-  "en": ""
+  "en": "Absurd! Turn to ice dust here, D.S.!"
  },
  {
   "id": "s0305_00c5c",
@@ -333,7 +333,7 @@
    "至高王"
   ],
   "jp": "やはり魔人、手強いな……久しぶりで{n}遊び過ぎたか。そろそろ本気でいくと{n}しようか",
-  "en": ""
+  "en": "A demon indeed, and a hard foe... Perhaps I{n}played too long, after so much time. It is{n}about time I got serious."
  },
  {
   "id": "s0305_00cac",
@@ -357,7 +357,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "くそっ！　ヤロウまだ余力を残して{n}いやがる……",
-  "en": ""
+  "en": "Damn! The bastard's still got something{n}left..."
  },
  {
   "id": "s0305_00cdc",
@@ -381,7 +381,7 @@
    "ヴァイ"
   ],
   "jp": "押され気味だぜ！　魔戦将軍がいない{n}のが厳しいな――",
-  "en": ""
+  "en": "We're getting pushed back! It's tough{n}without the Sorcerer Generals--"
  },
  {
   "id": "s0305_00d14",
@@ -405,7 +405,7 @@
    "イングヴェイイングヴェイ・フォン・マルムステ"
   ],
   "jp": "……このままでは！　私はどうすれば{n}いいのか……？",
-  "en": ""
+  "en": "...At this rate! What am I to do...?"
  },
  {
   "id": "s0305_00d48",
@@ -429,7 +429,7 @@
    "イングヴェイイングヴェイ・フォン・マルムステ"
   ],
   "jp": "その刹那、凄まじい雷撃の束が数条、{n}蒼天から至高王めがけて降り注いだ。{page}虚を衝かれた至高王は稲妻の直撃を{n}受け、発火した衣服が全身を炎に包む。",
-  "en": ""
+  "en": "At that moment, several bolts of terrific{n}lightning fell from the blue sky upon the{n}High King.{page}Taken off guard, the High King took a{n}direct hit, and his clothes caught fire,{n}wrapping his whole body in flames."
  },
  {
   "id": "s0305_00dd8",
@@ -453,7 +453,7 @@
    "イングヴェイイングヴェイ・フォン・マルムステ"
   ],
   "jp": "ああっ!?　カル様ぁ――！",
-  "en": ""
+  "en": "Aah!? Kall-samaaa--!"
  },
  {
   "id": "s0305_00df4",
@@ -477,7 +477,7 @@
    "イングヴェイイングヴェイ・フォン・マルムステ"
   ],
   "jp": "安心しろイングヴェイ。奴は――あの{n}至高王と名乗る男はカル＝スなどでは{n}ない！",
-  "en": ""
+  "en": "Be at ease, Yngwei. He-- that man who calls{n}himself the High King is no Kall-Su!"
  },
  {
   "id": "s0305_00e44",
@@ -501,7 +501,7 @@
    "イングヴェイイングヴェイ・フォン・マルムステ"
   ],
   "jp": "あ、貴女は……雷帝アーシェス・ネイ！",
-  "en": ""
+  "en": "Y-you are... Arshes Nei, the Thunder{n}Empress!"
  },
  {
   "id": "s0305_00e6c",
@@ -525,7 +525,7 @@
    "イングヴェイイングヴェイ・フォン・マルムステ"
   ],
   "jp": "長い髪をなびかせ、颯爽と現れたのは{n}単独で至高王の近辺を探るべく一行を{n}離れていたネイであった。",
-  "en": ""
+  "en": "With her long hair flying, the one who{n}dashingly appeared was Nei, who had left{n}the party to scout around the High King{n}alone."
  },
  {
   "id": "s0305_00ecc",
@@ -549,7 +549,7 @@
    "ネイ"
   ],
   "jp": "ただいまダーシュ。いいタイミング{n}だったかしら？",
-  "en": ""
+  "en": "I'm back, Dahsh. Was my timing good?"
  },
  {
   "id": "s0305_00f00",
@@ -573,7 +573,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "アーシェス！　さすが俺の可愛い娘{n}だぜ。ご褒美にこうだっ！",
-  "en": ""
+  "en": "Arshes! That's my sweet little girl. Here's{n}your reward!"
  },
  {
   "id": "s0305_00f3c",
@@ -597,7 +597,7 @@
    "ネイ"
   ],
   "jp": "あああっ……そこはダメェ",
-  "en": ""
+  "en": "Ahhh... not there."
  },
  {
   "id": "s0305_00f58",
@@ -621,7 +621,7 @@
    "ヴァイ"
   ],
   "jp": "んなコトやってる場合かあーっ！",
-  "en": ""
+  "en": "Is this really the time for that!"
  },
  {
   "id": "s0305_00f78",
@@ -645,7 +645,7 @@
    "カイ"
   ],
   "jp": "ネイ様！　よくぞご無事で……ううっ",
-  "en": ""
+  "en": "Nei-sama! Thank goodness you're safe...{n}ugh."
  },
  {
   "id": "s0305_00f9c",
@@ -669,7 +669,7 @@
    "シーン"
   ],
   "jp": "ネイ様ぁ！",
-  "en": ""
+  "en": "Nei-sama!"
  },
  {
   "id": "s0305_00fa8",
@@ -693,7 +693,7 @@
    "ネイ"
   ],
   "jp": "お前たちもよくダーシュを支えてくれ{n}たな……だが、再会を祝うのは後だ",
-  "en": ""
+  "en": "You have all supported Dahsh so well... But{n}let us save our reunion for later."
  },
  {
   "id": "s0305_00ff0",
@@ -717,7 +717,7 @@
    "ラン"
   ],
   "jp": "ネイ様――至高王がカル様ではない{n}とは、一体……？",
-  "en": ""
+  "en": "Nei-sama-- That the High King is not{n}Kall-sama, what does that mean...?"
  },
  {
   "id": "s0305_01024",
@@ -741,7 +741,7 @@
    "ネイ"
   ],
   "jp": "うむ。あの男はカルに化けて魔戦将軍{n}を離反させ、うまくすれば我々が同士{n}討ちするように仕向けていたのだ――",
-  "en": ""
+  "en": "Mm. That man disguised himself as Kall to{n}turn the Sorcerer Generals against us, and{n}with luck drive us to fight among{n}ourselves--"
  },
  {
   "id": "s0305_01090",
@@ -765,7 +765,7 @@
    "イングヴェイイングヴェイ・フォン・マルムステ"
   ],
   "jp": "そんな！　そんなことが――",
-  "en": ""
+  "en": "No! Can that be--"
  },
  {
   "id": "s0305_010ac",
@@ -789,7 +789,7 @@
    "ネイ"
   ],
   "jp": "奴の名はガイン・エスペランザ。この{n}名前に聞き覚えあるわよね、ダーシュ？",
-  "en": ""
+  "en": "His name is Gain Esperanza. You remember{n}that name, don't you, Dahsh?"
  },
  {
   "id": "s0305_010f8",
@@ -813,7 +813,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "ガイン……あいつが？　だがどうして{n}――",
-  "en": ""
+  "en": "Gain... that guy? But how the hell--"
  },
  {
   "id": "s0305_01124",
@@ -837,7 +837,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "ガイン・エスペランザ――その男の{n}名は、Ｄ・Ｓの記憶を百年近くも{n}さかのぼらせる……。",
-  "en": ""
+  "en": "Gain Esperanza. That man's name took{n}D.S.'s memory back nearly a hundred{n}years..."
  },
  {
   "id": "s0305_0117c",
@@ -861,7 +861,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "Ｄ・Ｓに付き従う四天王――それは{n}誕生以来四百年にわたるＤ・Ｓの{n}人生の中で、その一時代において{n}最強の配下四人に与えられる一種の{n}称号であった。",
-  "en": ""
+  "en": "The Divine Kings who follow D.S. were a{n}kind of title, given to the four strongest{n}under him in each era of his four hundred{n}years of life."
  },
  {
   "id": "s0305_0120c",
@@ -885,7 +885,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "ある者は年老いて死に、またある者は{n}過去に幾度となく行われた苛烈な戦い{n}の中で命を落としていった。そうした{n}穴は新たに選出された実力者によって{n}埋められ、Ｄ・Ｓ四天王の座は代替わ{n}りしていくのである。",
-  "en": ""
+  "en": "Some grew old and died, while others lost{n}their lives in the fierce battles of the{n}past. Each gap was filled by a newly{n}chosen power, and the seats of D.S.'s{n}Divine Kings were passed down."
  },
  {
   "id": "s0305_012d4",
@@ -909,7 +909,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "百年ほど前の時代。この当時は、現在{n}四天王と称される者はひとりとして{n}その座に就いてはいなかった。最も{n}普通の人間に近いガラはまだ世に誕生{n}しておらず、ハーフエルフのネイは{n}まだ幼い少女であった。そしてカルも、{n}Ｄ・Ｓに拾われたばかりで、未だその{n}非凡な魔法の才能を開花させては{n}いなかった――。",
-  "en": ""
+  "en": "It was about a hundred years ago. In that{n}era, not one of those now called Divine{n}Kings held the title. Gara, the nearest to{n}an ordinary human, had not yet been{n}born, and the half-elf Nei was still a little{n}girl. And Kall, newly taken in by D.S., had{n}not yet let his rare gift for magic{n}flower--"
  },
  {
   "id": "s0305_013f8",
@@ -933,7 +933,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "その時代、配下最強の四人の一角を{n}担う魔剣士に、ガインの名はあった。{page}当時の四天王はＤ・Ｓにとって仲間と{n}呼べる存在ではなく、むしろ力によっ{n}てねじ伏せられた者たち――即ち、{n}隙さえあればいつでもＤ・Ｓの寝首を{n}掻いて不思議のない連中であった。",
-  "en": ""
+  "en": "In that era, among the four strongest{n}under him, there was a demon swordsman{n}by the name of Gain.{page}The Divine Kings of the time were not{n}ones D.S. could call comrades, but those{n}he had beaten down by force: that is,{n}men who would slit his throat in his sleep{n}at the slightest chance."
  },
  {
   "id": "s0305_014e8",
@@ -957,7 +957,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "とりわけこのガインは、Ｄ・Ｓから{n}支配者の座を奪い取ることに異常な{n}までの執念を燃やしていた。性情は{n}極めて残忍であり、歴代四天王の中で{n}も飛び抜けて悪の素養が強い男だった。",
-  "en": ""
+  "en": "This Gain above all burned with an almost{n}abnormal obsession to take D.S.'s seat as{n}ruler. He was deeply cruel by nature, a{n}man whose bent for evil stood out even{n}among all the Divine Kings who ever{n}lived."
  },
  {
   "id": "s0305_01594",
@@ -981,7 +981,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "この頃、Ｄ・Ｓにとってある転機と{n}なる戦いがあった。魔力を打ち消す{n}秘密の隠された大陸で、その力の多く{n}を失ったＤ・Ｓは重傷を負い、再生も{n}ままならずに生死の境を彷徨うことと{n}なったのだ。",
-  "en": ""
+  "en": "At that time, there came a battle that{n}would prove a turning point for D.S. On a{n}continent that held the secret of{n}canceling magic, he lost much of his{n}power and was gravely wounded, drifting{n}between life and death, unable even to{n}regenerate."
  },
  {
   "id": "s0305_01650",
@@ -1005,7 +1005,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "これを好機と見たガインは四天王軍を{n}離脱し、単身Ｄ・Ｓのもとへ向かった。{page}目的は暗殺である。圧倒的魔力と不死{n}性で君臨してきた魔人も、魔力の源が{n}枯渇した土地で恐れる必要はない。{n}ガインの必殺の剣をもってすれば、{n}半死半生のＤ・Ｓにとどめをさすこと{n}など造作もないはずであった――。",
-  "en": ""
+  "en": "Seeing his chance, Gain left the army of{n}the Divine Kings and set out alone for{n}D.S.{page}His aim was assassination. There was no{n}need to fear the demon, who reigned by{n}overwhelming magic and immortality, in a{n}land where the source of magic had run{n}dry. With Gain's deadly sword, finishing off{n}the half-dead D.S. should have been no{n}trouble at all--"
  },
  {
   "id": "s0305_01768",
@@ -1029,7 +1029,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "だが、支配者の座へと続く道行き半ば{n}でガインは死んだ。裏切りを察知し、{n}待ち伏せていたカルとの戦いに敗れた{n}のである。",
-  "en": ""
+  "en": "But Gain died midway along the road to{n}the ruler's seat, defeated in battle by{n}Kall, who had sensed the betrayal and lay{n}in wait."
  },
  {
   "id": "s0305_017e0",
@@ -1053,7 +1053,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "当時のカル＝スは少年であったが、{n}正面から四天王ガインとぶつかり、{n}裏切り者を粛正した。",
-  "en": ""
+  "en": "Kall-Su, a boy at the time, met Gain, one{n}of the Divine Kings, head-on, and put{n}down the traitor."
  },
  {
   "id": "s0305_01838",
@@ -1077,7 +1077,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "その功績と、爆発的に開花した魔法の{n}才を認められ、この後カルはガインの{n}席に代わる形で四天王に名を連ねる{n}ことになったのであった――",
-  "en": ""
+  "en": "Recognized for that feat and for his{n}suddenly flowering talent for magic, Kall{n}afterward took Gain's place and joined{n}the ranks of the Divine Kings--"
  },
  {
   "id": "s0305_018bc",
@@ -1101,7 +1101,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "百年も昔にくたばったはずのガインが、{n}どうしてこんなところに出てきやがる？",
-  "en": ""
+  "en": "Why the hell would Gain, who croaked a{n}hundred years ago, turn up in a place like{n}this?"
  },
  {
   "id": "s0305_01908",
@@ -1125,7 +1125,7 @@
    "ネイ"
   ],
   "jp": "支配者への妄執が捨てられず、長い{n}年月を彷徨い続けた忌まわしい亡霊よ。{n}それが私たちの敵の力を借りて、この{n}世界に肉を得た――",
-  "en": ""
+  "en": "He's an accursed ghost who couldn't give up{n}his obsession with the throne, and wandered{n}through the long years. With our enemies'{n}help he has gained flesh in this world--"
  },
  {
   "id": "s0305_01988",
@@ -1149,7 +1149,7 @@
    "ネイ"
   ],
   "jp": "ククク……バレちまったかよ",
-  "en": ""
+  "en": "Heh heh heh... So you found me out."
  },
  {
   "id": "s0305_019a4",
@@ -1173,7 +1173,7 @@
    "ネイ"
   ],
   "jp": "ネイの雷撃によって黒焦げとなった{n}至高王の骸がむくりと起き上がった。{page}次の瞬間、全身を覆っていた炭化部分{n}が弾け、中から全く無傷の男が姿を{n}現した。",
-  "en": ""
+  "en": "The High King's corpse, charred black by{n}Nei's lightning, slowly sat up.{page}The next moment the blackened husk over{n}his whole body burst, and from within{n}appeared a man wholly unharmed."
  },
  {
   "id": "s0305_01a38",
@@ -1197,7 +1197,7 @@
    "ネイ"
   ],
   "jp": "燃えるような赤の髪。欲望に憑かれた{n}ぎらつく双眸。そして、戦いを飾る{n}フェイスペイントの如くに、顔中に{n}施された色鮮やかな刺青――それは{n}輝く鉄球を埋め込んだ腕や胸にも彫り{n}込まれている。",
-  "en": ""
+  "en": "Hair of burning red. Eyes glaring,{n}possessed by greed. And across his whole{n}face, like paint adorning a warrior, vivid{n}tattoos, also carved on his arms and{n}chest, where shining iron balls were{n}embedded."
  },
  {
   "id": "s0305_01af4",
@@ -1221,7 +1221,7 @@
    "ネイ"
   ],
   "jp": "それはまさしく、Ｄ・Ｓの記憶の奥底{n}から蘇った過去の亡霊――ガイン・{n}エスペランザであった。",
-  "en": ""
+  "en": "It was indeed a ghost of the past, risen{n}from the depths of D.S.'s memory: Gain{n}Esperanza."
  },
  {
   "id": "s0305_01b50",
@@ -1245,7 +1245,7 @@
    "ネイ"
   ],
   "jp": "くっ――あれしきの雷撃で倒せるとは{n}思わないが、無傷とは……",
-  "en": ""
+  "en": "Ngh-- I didn't think that much lightning{n}would finish him, but not a scratch..."
  },
  {
   "id": "s0305_01b90",
@@ -1269,7 +1269,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "ガイン……何を迷って出てきやがった",
-  "en": ""
+  "en": "Gain... What the hell made you crawl back{n}out?"
  },
  {
   "id": "s0305_01bb4",
@@ -1293,7 +1293,7 @@
    "ガイン"
   ],
   "jp": "フハハハ！　長いこと待ってたんだぜ。{n}カルのガキや、テメエに復讐してやる{n}機会をよ！　迷ったなんて、言って{n}欲しくはねえなあ",
-  "en": ""
+  "en": "Fwah hah hah! I've been waiting a long time.{n}For a chance to take revenge on Kall the{n}brat, and on you! Don't call it crawling{n}back."
  },
  {
   "id": "s0305_01c30",
@@ -1317,7 +1317,7 @@
    "ガイン"
   ],
   "jp": "百年も彷徨って、やっと実体を手に{n}入れたんだ。Ｄ・Ｓ、テメエを殺して、{n}この肉体を永遠に俺のものにしてやる！{n}俺が全ての支配者になるんだよ！",
-  "en": ""
+  "en": "I wandered a hundred years, and finally got{n}a real body. D.S., I'll kill you and make this{n}flesh mine forever! I'm gonna rule{n}everything!"
  },
  {
   "id": "s0305_01cbc",
@@ -1341,7 +1341,7 @@
    "イングヴェイイングヴェイ・フォン・マルムステ"
   ],
   "jp": "貴様……よくもカル様の名を騙り、{n}我々魔戦将軍をたばかってくれたな。{n}言え！　カル様はどこにいる!?",
-  "en": ""
+  "en": "You... How dare you take Kall-sama's name{n}and deceive us Sorcerer Generals. Speak!{n}Where is Kall-sama!?"
  },
  {
   "id": "s0305_01d20",
@@ -1365,7 +1365,7 @@
    "ガイン"
   ],
   "jp": "騒ぐな、雑魚が。カルのガキは今頃、{n}どことも知れぬ空間でくたばってる{n}だろうぜ。虚神王の手にかかってなあ！",
-  "en": ""
+  "en": "Quiet, small fry. Kall the brat's dead by now{n}in some unknown space. At the hands of the{n}Hollow God King!"
  },
  {
   "id": "s0305_01d8c",
@@ -1389,7 +1389,7 @@
    "ガイン"
   ],
   "jp": "ククク……いい気味だ。俺は忘れちゃ{n}いねえ。油断していたとは言え、あの{n}ガキの呪文で腕を千切られ、氷の魔剣{n}で頭を貫かれた痛みをよう――",
-  "en": ""
+  "en": "Heh heh heh... Serves him right. I haven't{n}forgotten. Off guard or not, that brat's{n}spell tore off my arm, and his ice sword{n}stabbed through my head. I remember{page}that pain--"
  },
  {
   "id": "s0305_01e14",
@@ -1413,7 +1413,7 @@
    "ガイン"
   ],
   "jp": "テメエらは全員、同じ目に遭わせて{n}やる。ククク……テメエらのヒィヒィ{n}泣き喚く大合唱が聴こえてくるよう{n}だぜ",
-  "en": ""
+  "en": "I'll do the same to all of you. Heh heh heh... I{n}can already hear the chorus of you lot{n}squealing and bawling."
  },
  {
   "id": "s0305_01e80",
@@ -1437,7 +1437,7 @@
    "ネイ"
   ],
   "jp": "相変わらずの最低野郎ね、アンタは",
-  "en": ""
+  "en": "Still the lowest of the low, aren't you."
  },
  {
   "id": "s0305_01ea4",
@@ -1461,7 +1461,7 @@
    "ガイン"
   ],
   "jp": "ネイか……テメエはちょうど良く育っ{n}たじゃねえか。Ｄ・Ｓを片づけてから、{n}たっぷりと可愛がってやるぜぇ",
-  "en": ""
+  "en": "Nei... You grew up just right, didn't you. Once{n}I've taken care of D.S., I'll show you a real{n}good time."
  },
  {
   "id": "s0305_01f0c",
@@ -1485,7 +1485,7 @@
    "ネイ"
   ],
   "jp": "下劣な……私を見るな！",
-  "en": ""
+  "en": "You filth... Don't look at me!"
  },
  {
   "id": "s0305_01f24",
@@ -1509,7 +1509,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "ガイン……テメエ、殺すぞ――",
-  "en": ""
+  "en": "Gain... You bastard, I'll kill you--"
  },
  {
   "id": "s0305_01f44",
@@ -1533,7 +1533,7 @@
    "ガイン"
   ],
   "jp": "フハハ！　やってみな！　俺はあの頃{n}とは違うぜ。今のテメエに勝てるワケ{n}がねえ！　そら、昔の魔王っぷりを{n}見せてみなよ――",
-  "en": ""
+  "en": "Fwah hah! Go ahead and try! I ain't what I{n}was back then. You can't beat me as you{n}are now! Come on, show me that old Demon{n}King act--"
  },
  {
   "id": "s0305_01fc0",
@@ -1557,7 +1557,7 @@
    "ガイン"
   ],
   "jp": "やはり魔人Ｄ・Ｓ、手強いな……久し{n}ぶりでチョイと遊び過ぎたようだぜ。{n}そろそろこの剣を使うとしようか――",
-  "en": ""
+  "en": "D.S. the demon's a tough one, sure enough...{n}Guess I played around a little too long, it's{n}been a while. About time I used this{n}sword--"
  },
  {
   "id": "s0305_0202c",
@@ -1581,7 +1581,7 @@
    "ガイン"
   ],
   "jp": "ガインが取り出したのは、艶やかな{n}漆黒の刀身を持つ巨大な両刃剣だった。{page}黒い鋼の付け根には、地獄の獣の瞳を{n}想起させる大粒の紅玉が埋め込まれ、{n}その周りを甲殻類の背を思わせる蛇腹{n}状の鍔が囲んでいる。獰悪な魔剣士に{n}似合いの、禍々しき大剣であった。",
-  "en": ""
+  "en": "What Gain drew was a huge double-edged{n}sword with a gleaming jet-black blade.{page}At the base of the black steel was set a{n}large ruby, recalling the eye of a hellish{n}beast, ringed by a bellows-like guard{n}resembling a crustacean's back. A sinister{n}great sword, fit for a savage demon{n}swordsman."
  },
  {
   "id": "s0305_02120",
@@ -1605,7 +1605,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "あの剣――くたばる前のガインが{n}使ってた魔剣か？　だったらヤベえぜ",
-  "en": ""
+  "en": "That sword-- the demon sword Gain used{n}before he croaked? Then we're in trouble."
  },
  {
   "id": "s0305_02164",
@@ -1629,7 +1629,7 @@
    "ヨルグ"
   ],
   "jp": "凄まじいまでの剣格だぞ……あの、{n}ムラサメ・ブレードに勝るとも劣らぬ{n}――",
-  "en": ""
+  "en": "A blade of terrific quality... The equal of{n}that Murasame Blade, if not more--"
  },
  {
   "id": "s0305_021b0",
@@ -1653,7 +1653,7 @@
    "ジオン"
   ],
   "jp": "あれは……まさか、そんな――!?",
-  "en": ""
+  "en": "That is... it cannot be--!?"
  },
  {
   "id": "s0305_021d0",
@@ -1677,7 +1677,7 @@
    "シェン"
   ],
   "jp": "どうした兄者？",
-  "en": ""
+  "en": "What's wrong, brother?"
  },
  {
   "id": "s0305_021e0",
@@ -1701,7 +1701,7 @@
    "ジオン"
   ],
   "jp": "あの剣……俺は知っている……あれは{n}魂喰らい――",
-  "en": ""
+  "en": "That sword... I know it... It is the Soul{n}Eater--"
  },
  {
   "id": "s0305_02214",
@@ -1725,7 +1725,7 @@
    "ガイン"
   ],
   "jp": "さあ死ね！　黒い断頭台――ッ！",
-  "en": ""
+  "en": "Now die! Black Guillotine--!"
  },
  {
   "id": "s0305_02234",
@@ -1749,7 +1749,7 @@
    "ガイン"
   ],
   "jp": "ガインの手にした魔剣が一閃し、そこ{n}から巨大な刃状のエネルギーが撃ち{n}出された。魔力の凝縮された刃が、{n}衝撃波を伴って一行に襲いかかる――。",
-  "en": ""
+  "en": "The demon sword in Gain's hand flashed,{n}and a huge blade of energy shot from it.{n}The blade of condensed magic bore down{n}on the party with a shockwave--"
  },
  {
   "id": "s0305_022c0",
@@ -1773,7 +1773,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "マズイぜ！　魔法障壁じゃ防ぎ切れ{n}ねえ――",
-  "en": ""
+  "en": "Damn! A magic barrier won't stop it--"
  },
  {
   "id": "s0305_022ec",
@@ -1797,7 +1797,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "魔神剣!!",
-  "en": ""
+  "en": "Demon Sword!!"
  },
  {
   "id": "s0305_022f8",
@@ -1821,7 +1821,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "黒い衝撃波が迫った、その瞬間――{n}もうひとつの衝撃波がそれと正面から{n}ぶつかり、黒い断頭台のエネルギーを{n}相殺した。",
-  "en": ""
+  "en": "As the black shockwave closed in, in that{n}moment another shockwave met it{n}head-on, and canceled the energy of the{n}Black Guillotine."
  },
  {
   "id": "s0305_0236c",
@@ -1845,7 +1845,7 @@
    "ガイン"
   ],
   "jp": "何っ!?",
-  "en": ""
+  "en": "What!?"
  },
  {
   "id": "s0305_02374",
@@ -1869,7 +1869,7 @@
    "ネイ"
   ],
   "jp": "お、オマエは――",
-  "en": ""
+  "en": "Y-you--"
  },
  {
   "id": "s0305_02388",
@@ -1893,7 +1893,7 @@
    "ネイ"
   ],
   "jp": "そこに現れたのは、かつて鬼忍将と{n}して操られ、妖刀ムラサメを使いこな{n}すべくひとり修行に旅立った男――{n}ニンジャマスター・ガラであった",
-  "en": ""
+  "en": "Who appeared there was the man once{n}worked as the High Ninja, who had set off{n}alone to train in mastering the cursed{n}Murasame: Ninja Master Gara."
  },
  {
   "id": "s0305_02410",
@@ -1917,7 +1917,7 @@
    "ガラ"
   ],
   "jp": "いよっ。アブねえとこだったな",
-  "en": ""
+  "en": "Yo. That was a close one."
  },
  {
   "id": "s0305_02430",
@@ -1941,7 +1941,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "ガラ！",
-  "en": ""
+  "en": "Gara!"
  },
  {
   "id": "s0305_02438",
@@ -1965,7 +1965,7 @@
    "ガラ"
   ],
   "jp": "へへっ。お待たせしちゃったかあ？{n}やっぱしオレがいないとダメかね。{n}よお、ネイもいたのかよ？",
-  "en": ""
+  "en": "Heh heh. Keep you waiting? I guess you guys{n}are useless without me. Hey, Nei, you here{n}too?"
  },
  {
   "id": "s0305_02494",
@@ -1989,7 +1989,7 @@
    "ネイ"
   ],
   "jp": "ガラ！　今まで何してたのよー！",
-  "en": ""
+  "en": "Gara! Where the hell have you been!"
  },
  {
   "id": "s0305_024b4",
@@ -2013,7 +2013,7 @@
    "ガラ"
   ],
   "jp": "大体話は聞いた。あんなクソ野郎が{n}四天王だったなんざ恥さらしもいー{n}トコだぜ。オレが来たからにはもう{n}安心だ。ブチのめしてやろーぜ",
-  "en": ""
+  "en": "I heard most of it. For a piece of crap like{n}that to have been one of the Divine Kings,{n}that's a damn disgrace. Now that I'm here{n}you're safe. Let's pound him."
  },
  {
   "id": "s0305_02538",
@@ -2037,7 +2037,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "……ガラ。テメエ今までずっと{n}隠れてただろ？",
-  "en": ""
+  "en": "...Gara. You've been hiding this whole time,{n}haven't you?"
  },
  {
   "id": "s0305_02568",
@@ -2061,7 +2061,7 @@
    "ガラ"
   ],
   "jp": "エ……ななな何で!?",
-  "en": ""
+  "en": "Wh... wh-wh-why!?"
  },
  {
   "id": "s0305_0257c",
@@ -2085,7 +2085,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "やっぱそうかよ！　やけにタイミング{n}良く出てきやがったと思ったら、影で{n}カッコ良く飛び出す機会を窺ってたな",
-  "en": ""
+  "en": "I knew it! You showed up at way too good a{n}time. You were hiding, waiting for a chance{n}to jump out and look cool."
  },
  {
   "id": "s0305_025e8",
@@ -2109,7 +2109,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "大方アーシェスに出番をさらわれて、{n}そのデカイ図体で息をひそめてやがっ{n}たんだろ！　このカッコつけのバカ{n}ゴリラめ！",
-  "en": ""
+  "en": "I bet Arshes stole your big moment, so{n}you've been holding your breath with that{n}huge body of yours! You vain idiot gorilla!"
  },
  {
   "id": "s0305_0265c",
@@ -2133,7 +2133,7 @@
    "ネイ"
   ],
   "jp": "……ガーラー",
-  "en": ""
+  "en": "...Gaaa-raaa."
  },
  {
   "id": "s0305_0266c",
@@ -2157,7 +2157,7 @@
    "ガラ"
   ],
   "jp": "い、イヤだってその……久びさの登場{n}なんだぜ？　ネイの後からそっと出て{n}くるのって恥ずかしーじゃねーかよ",
-  "en": ""
+  "en": "W-well, y'see... This was my big comeback!{n}Sneaking out after Nei would be{n}embarrassing, wouldn't it?"
  },
  {
   "id": "s0305_026d4",
@@ -2181,7 +2181,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "だからテメーはバカだってんだ！{n}バカバカバカバカバカ！　ゴリラ！",
-  "en": ""
+  "en": "That's why you're an idiot! Idiot idiot idiot{n}idiot idiot! Gorilla!"
  },
  {
   "id": "s0305_02718",
@@ -2205,7 +2205,7 @@
    "ガラ"
   ],
   "jp": "うぐぐ……せっかく助けてやったって{n}のに、この、この……",
-  "en": ""
+  "en": "Ugugu... Here I go and save you, and you,{n}you..."
  },
  {
   "id": "s0305_02754",
@@ -2229,7 +2229,7 @@
    "ガイン"
   ],
   "jp": "ケッ！　若僧の忍者がひとり増えた{n}ところでどうなるモンかよ！　テメエ{n}もこの魂喰らいの餌にしてやるぜ",
-  "en": ""
+  "en": "Hah! What's one more punk ninja gonna do!{n}I'll feed you to this Soul Eater too."
  },
  {
   "id": "s0305_027b8",
@@ -2253,7 +2253,7 @@
    "ガラ"
   ],
   "jp": "へっ、ポンコツが――現役四天王が{n}どれほどのモンか、試してみるかい！",
-  "en": ""
+  "en": "Heh, you old wreck-- Wanna see what a{n}current Divine King can really do?"
  },
  {
   "id": "s0305_02800",
@@ -2277,7 +2277,7 @@
    "ガラ"
   ],
   "jp": "魔剣“魂喰らい”が弾かれ、床に{n}突き立った。続けて魔剣士ガインが、{n}どう、とくずおれる。",
-  "en": ""
+  "en": "The demon sword Soul Eater was knocked{n}away, and stuck into the floor. Then the{n}demon swordsman Gain crumpled with a{n}thud."
  },
  {
   "id": "s0305_02858",
@@ -2301,7 +2301,7 @@
    "ガイン"
   ],
   "jp": "ぐふうっ！　バカな……こんな奴らに、{n}このガイン様が……う!?",
-  "en": ""
+  "en": "Ugh! Impossible... to these guys, the great{n}Gain-sama... ugh!?"
  },
  {
   "id": "s0305_02898",
@@ -2325,7 +2325,7 @@
    "ガイン"
   ],
   "jp": "地に顔を擦りつけたガインが、突如{n}激しくのたうち始めた。",
-  "en": ""
+  "en": "His face pressed to the ground, Gain{n}suddenly began to writhe violently."
  },
  {
   "id": "s0305_028d4",
@@ -2349,7 +2349,7 @@
    "ガイン"
   ],
   "jp": "ああ……やめろぉ……俺から身体を、{n}肉体を取り上げないでくれえぇ――",
-  "en": ""
+  "en": "Ahh... stop it... don't take my body, my flesh{n}away from me--"
  },
  {
   "id": "s0305_0291c",
@@ -2373,7 +2373,7 @@
    "ガイン"
   ],
   "jp": "見る間に、ガインの身体から靄のよう{n}な物体が立ち上り始める。半透明の{n}それは、この男の霊体であった。実体{n}を得る依り代となっていた肉体から、{n}強制的に追われているように見える。",
-  "en": ""
+  "en": "Before their eyes, a haze-like matter{n}began to rise from Gain's body. That{n}translucent thing was the man's spirit{n}body. It looked as if it were being forced{n}out of the flesh that had served as the{n}vessel giving him substance."
  },
  {
   "id": "s0305_029cc",
@@ -2397,7 +2397,7 @@
    "ガイン"
   ],
   "jp": "代わりに、氷の床から染み出すように{n}現れた陽炎の如き影が、ガインのもの{n}であった肉体に入り込んでいく。{page}獣の容貌を持つ青白い幻影――それは{n}地下遺跡の塔で一行を襲った、あの{n}思念体であった。",
-  "en": ""
+  "en": "In its place, a shadow like a heat haze,{n}seeping up out of the icy floor, entered{n}the flesh that had been Gain's.{page}A pale phantom with the face of a beast:{n}it was that thought-body that had{n}attacked the party in the tower of the{n}underground ruins."
  },
  {
   "id": "s0305_02a88",
@@ -2421,7 +2421,7 @@
    "ガイン"
   ],
   "jp": "思念体が宿るにつれ、もはやガイン{n}とも見えぬ肉体に急激な変化が訪れた。{page}それはもとの数倍――否、数十倍の{n}質量に膨れ上がり、獣人化するように{n}ゴキゴキと骨格を成長、変形させて{n}いく。肉が骨をまんべんなく覆い、{n}凄まじい速さで体毛が伸びていく――。",
-  "en": ""
+  "en": "As the thought-body settled in, the flesh,{n}no longer looking anything like Gain,{n}rapidly changed.{page}It swelled to several times-- no, tens of{n}times its former mass, its bones growing{n}and warping with loud cracks, as if it{n}were turning into a beast-man. Flesh{n}wholly covered the bones, and body hair{n}grew at terrific speed--"
  },
  {
   "id": "s0305_02b7c",
@@ -2445,7 +2445,7 @@
    "ガイン"
   ],
   "jp": "狼を思わせる容貌の、巨大な半獣神が{n}そこにいた。実体化と同時に全身を{n}覆った衣服は、この魔神が人間に近い{n}嗜好を持っていることを示している。{n}巨大な剣を手に、それは吼えるように{n}嗤った。",
-  "en": ""
+  "en": "There stood a huge half-beast god with a{n}wolfish face. The clothes that covered his{n}whole body as he took form showed that{n}this demon god had tastes near to a{n}human's. Huge sword in hand, it laughed as{n}if howling."
  },
  {
   "id": "s0305_02c34",
@@ -2469,7 +2469,7 @@
    "ガイン"
   ],
   "jp": "亡霊などには任せておけぬな。所詮は{n}人間、私の貸し与えた肉体をろくに{n}使いこなせぬようではな――",
-  "en": ""
+  "en": "This cannot be left to a mere ghost. A{n}human after all, who could not properly{n}master the flesh I lent him--"
  },
  {
   "id": "s0305_02c94",
@@ -2493,7 +2493,7 @@
    "ガイン"
   ],
   "jp": "この狼麒の策をことごとくしくじる{n}凡愚めが。貴様のような役立たずは、{n}己の魔剣に吸われてしまうがいいわ。{n}それ、餌になるがいい――",
-  "en": ""
+  "en": "A dullard, who bungled every scheme of{n}mine, of Loki's. A useless thing like you may{n}as well be drunk up by your own demon{n}sword. There, be its food--"
  },
  {
   "id": "s0305_02d18",
@@ -2517,7 +2517,7 @@
    "ガイン"
   ],
   "jp": "獣神――狼麒と名乗る巨神は、まだ{n}肉に未練を残して纏わりつくガインの{n}亡霊を掌で払い、魂喰らいの方向へと{n}漂わせた。と、魔剣の紅玉が輝き始め、{n}蛇腹状の鍔が自動的に開く。まるで{n}紅玉が強大な引力を発しているかの{n}如く、ガインの霊体は急速に吸い寄せ{n}られていった。",
-  "en": ""
+  "en": "The beast god, the giant who named{n}himself Loki, brushed away with his palm{n}the ghost of Gain, who still clung to the{n}flesh, and sent it drifting toward the Soul{n}Eater. Then the demon sword's ruby{n}began to glow, and the bellows-like guard{n}opened by itself. As though the ruby gave{n}off a mighty pull, Gain's spirit body was{page}swiftly drawn in."
  },
  {
   "id": "s0305_02e1c",
@@ -2541,7 +2541,7 @@
    "ガイン"
   ],
   "jp": "ぎゃああああ――！　イヤだ、イヤだ、{n}こいつには、喰われたくないぃぃ――",
-  "en": ""
+  "en": "Gyaaaah--! No, no, I don't want this thing to{n}eat me--"
  },
  {
   "id": "s0305_02e68",
@@ -2565,7 +2565,7 @@
    "ガイン"
   ],
   "jp": "無惨な叫びを残し、ガインの亡霊は{n}紅玉へと余さず吸い込まれていった。{page}魔剣の瞳は咀嚼するように数回点滅し、{n}やがて鍔は再び紅玉を囲んで閉じた。",
-  "en": ""
+  "en": "Leaving a pitiful cry, Gain's ghost was{n}sucked whole into the ruby.{page}The demon sword's eye flashed several{n}times as if chewing, and at last the guard{n}closed around the ruby again."
  },
  {
   "id": "s0305_02ef8",
@@ -2589,7 +2589,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "テメエが裏で糸を引いていたヤロウか。{n}狼麒とか言ったな。ツケはまとめて{n}テメエに払ってもらうぜ――",
-  "en": ""
+  "en": "So you're the bastard pulling the strings.{n}Loki, was it? You're paying off the whole{n}tab--"
  },
  {
   "id": "s0305_02f5c",
@@ -2613,7 +2613,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "ふはははは――。貴様たちの戦闘力は{n}すでに見定めてあるわ。余りある勝算{n}があるからこそ、こうして私が出向い{n}たと何故判らぬ――愚昧よな、Ｄ・Ｓ",
-  "en": ""
+  "en": "Fwah hah hah hah-- I have already gauged{n}your fighting strength. Why do you not see{n}that I have come because I have more than{n}enough chance of victory? How dull you{page}are, D.S."
  },
  {
   "id": "s0305_02fec",
@@ -2637,7 +2637,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "あの時本気で俺たちを潰さなかった{n}こと、今から後悔することになるぜえ",
-  "en": ""
+  "en": "You're gonna regret not crushing us for real{n}back then."
  },
  {
   "id": "s0305_03034",
@@ -2661,7 +2661,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "違う……あの時とはまるで……貴様は{n}こんなにも力を……おおお",
-  "en": ""
+  "en": "Not... Not at all like before... You have this{n}much power... ohhh."
  },
  {
   "id": "s0305_03074",
@@ -2685,7 +2685,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "さーあ、今とどめをくれてやるぜえ！",
-  "en": ""
+  "en": "All right, now I'm gonna finish you!"
  },
  {
   "id": "s0305_03098",
@@ -2709,7 +2709,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "ま、待て！　この氷獄塔を宙に支えて{n}いるのはこの私の魔力だ！{n}私を殺したなら、直下に封じた水龍も{n}死ぬことになるのだぞ――",
-  "en": ""
+  "en": "W-wait! It is my magic that holds this Ice{n}Hell Tower in the air! If you kill me, the{n}Water Dragon sealed directly below will die{n}as well--"
  },
  {
   "id": "s0305_03114",
@@ -2733,7 +2733,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "そー言うと思ったぜ。だがなあ、{n}だったらこの塔ごとブチ壊しちまえば{n}いーだけの話だぜ！",
-  "en": ""
+  "en": "Knew you'd say that. But hey, then all I{n}gotta do is smash the whole tower along{n}with you!"
  },
  {
   "id": "s0305_0316c",
@@ -2757,7 +2757,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "後悔するんなら今のうちだぜ。今から{n}テメエは考えることも喚くこともでき{n}ねえ、無の世界へと旅立つんだからな",
-  "en": ""
+  "en": "If you're gonna have regrets, have 'em now.{n}From here on you're off to a world of{n}nothing, where you can't think and can't{n}scream."
  },
  {
   "id": "s0305_031d8",
@@ -2781,7 +2781,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "地下の塔で得た魔力の全てをお見舞い{n}してやるぜえ――行くぞあああ！",
-  "en": ""
+  "en": "I'm giving you all the magic I got from the{n}underground tower-- Here we goooo!"
  },
  {
   "id": "s0305_0321c",
@@ -2805,7 +2805,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "暗黒よ!!　闇よ――!!{n}負界の混沌より禁断の黒炎を呼び覚ま{n}せええっ!!",
-  "en": ""
+  "en": "O darkness!! O shadow--!! From the chaos of{n}the negative world, call forth the forbidden{n}black flame!!"
  },
  {
   "id": "s0305_03260",
@@ -2829,7 +2829,7 @@
    "ネイ"
   ],
   "jp": "ダーシュ！　そ、その呪文は――",
-  "en": ""
+  "en": "Dahsh! Th-that spell is--"
  },
  {
   "id": "s0305_03280",
@@ -2853,7 +2853,7 @@
    "ガラ"
   ],
   "jp": "うほおっ！　キタな長いヤツが！",
-  "en": ""
+  "en": "Whoa! Here comes the long one!"
  },
  {
   "id": "s0305_032a0",
@@ -2877,7 +2877,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "パーラ・ノードイ・フォーモー{n}ブルール・ネーイ・ヴァセ・イー{n}ダー・イー・エイター・ナール",
-  "en": ""
+  "en": "Para Noid Fomo Blur Ney Va Se Ida Y Eter{n}Nal"
  },
  {
   "id": "s0305_032fc",
@@ -2901,7 +2901,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "アイドール・ヘーヴン・ン・ヘイル{n}イアイアンンマ――",
-  "en": ""
+  "en": "Idol Heaven N Hell Iron Ma--"
  },
  {
   "id": "s0305_03334",
@@ -2925,7 +2925,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "ダイオミ・ギーザ・オージ!!{n}さあ覚悟はできたかよ！　行くぜええ！",
-  "en": ""
+  "en": "Dio Mi Geezer Ozzy!! Now then, made your{n}peace yet! Here it comes!"
  },
  {
   "id": "s0305_03378",
@@ -2949,7 +2949,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "や、やめろおおううぅ――",
-  "en": ""
+  "en": "N-nooooo--"
  },
  {
   "id": "s0305_03394",
@@ -2973,7 +2973,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "死黒核爆烈地獄!!",
-  "en": ""
+  "en": "Black Death Nuclear Hell!!"
  },
  {
   "id": "s0305_033a8",
@@ -2997,7 +2997,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "長い詠唱の間に高められた魔力が解放{n}され、氷のコロシアムの中心に倒れた{n}狼麒の周囲に球状の魔法障壁が発生{n}する。次の瞬間、その内部に凄まじい{n}熱量を持つ黒い炎が噴き上がった。",
-  "en": ""
+  "en": "The magic raised during the long chant{n}was released, and a sphere of magic{n}barrier formed around Loki, collapsed at{n}the center of the icy coliseum. The next{n}instant, a black flame of terrific heat{n}erupted within it."
  },
  {
   "id": "s0305_03454",
@@ -3021,7 +3021,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "結界内に複数の空間を転移させ、原子{n}を重ね合わせることで発生した爆発{n}エネルギーが超高熱の負の炎を生み{n}出したのである。瞬間的に数億度にも{n}達する熱量が、狼麒の肉体から思念体{n}――アストラルボディに至るまでを{n}完全に灼き尽くしていく。",
-  "en": ""
+  "en": "By teleporting multiple spaces within the{n}barrier and superimposing their atoms, the{n}resulting explosive energy produced a{n}negative flame of extreme heat. Heat{n}reaching hundreds of millions of degrees{n}in an instant burned Loki away, from his{n}flesh to his thought-body, his very astral{n}body."
  },
  {
   "id": "s0305_0353c",
@@ -3045,7 +3045,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "私までが……死ぬ？　神を凌ぐこの力{n}――そうか、最初から分け合う気など{n}なかったのだな……虚神王……愚者は、{n}わ、た、し、か――",
-  "en": ""
+  "en": "Even I... die? This power, greater than a{n}god's-- I see, you never meant to share it{n}from the start... Hollow God King... The fool...{n}was... I--"
  },
  {
   "id": "s0305_035bc",
@@ -3069,7 +3069,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "狼麒の存在を灰も残さず焼き滅ぼした{n}黒炎は、その熱を保ったまま氷の床を{n}溶解させ、重力に従って凄まじい速度{n}で沈降を開始した。氷獄塔の中心を{n}貫いて、触れるもの全てを瞬時に蒸発{n}させ、ほぼ自由落下に近い速度で落ち{n}ていく――。",
-  "en": ""
+  "en": "The black flame burned away Loki's very{n}existence without leaving ash, then,{n}keeping its heat, melted the icy floor and{n}began to sink with gravity at terrific{n}speed. Piercing the center of the Ice Hell{n}Tower, evaporating all it touched in an{n}instant, it fell at nearly the speed of free{n}fall--"
  },
  {
   "id": "s0305_0369c",
@@ -3093,7 +3093,7 @@
    "ガラ"
   ],
   "jp": "うへー。何だよオイ、塔を溶かしなが{n}らどんどん潜っていっちまってるぞ！",
-  "en": ""
+  "en": "Whoa. What the hell, it's melting the tower{n}and digging right on down!"
  },
  {
   "id": "s0305_036e4",
@@ -3117,7 +3117,7 @@
    "ネイ"
   ],
   "jp": "おかしいな……死黒核爆烈地獄は対象{n}を焼滅した後、余剰エネルギーを転用{n}して高熱塊を別次元へと飛ばしてしま{n}うはず――ダーシュ、何か考えが？",
-  "en": ""
+  "en": "Strange... After burning up its target, the{n}Black Death Nuclear Hell should use its{n}surplus energy to send the mass of heat off{n}to another dimension-- Dahsh, do you{page}have something in mind?"
  },
  {
   "id": "s0305_03770",
@@ -3141,7 +3141,7 @@
    "イングヴェイイングヴェイ・フォン・マルムステ"
   ],
   "jp": "カル様はいずこにおられるのか……む？{n}そう言えばガインの魔剣はどこに――？",
-  "en": ""
+  "en": "Where can Kall-sama be... Hm? Come to think{n}of it, where is Gain's demon sword--?"
  },
  {
   "id": "s0305_037bc",
@@ -3165,7 +3165,7 @@
    "ジオン"
   ],
   "jp": "魂喰らい――何故俺がこんな魔剣を{n}知っている？　いや、俺はこいつを{n}使っていた……いつから？　俺は{n}影流の剣士……ではないのか……？",
-  "en": ""
+  "en": "Soul Eater-- Why do I know such a demon{n}sword? No, I used it... Since when? I am a{n}swordsman of the Shadow School... am I{n}not...?"
  },
  {
   "id": "s0305_03840",
@@ -3189,7 +3189,7 @@
    "シェン"
   ],
   "jp": "兄者――その魔剣を手にした姿……{n}ううっ、頭が割れそうだ……何かを{n}思い出しそうな……マリエ？　誰の、{n}名前――？",
-  "en": ""
+  "en": "Brother-- You, holding that demon sword...{n}Ugh, my head's splitting... I almost remember{n}something... Marie? Whose name is that--?"
  },
  {
   "id": "s0305_038b4",
@@ -3213,7 +3213,7 @@
    "シェン"
   ],
   "jp": "突如、激しい震動が一行を襲った。{n}氷獄塔全体が揺れ動き、氷の闘技場に{n}巨大な亀裂が疾る。立っていられぬ{n}ほどの烈震に、黒炎が穿った大穴を{n}呆然と見守っていた一行から悲鳴が{n}あがる。",
-  "en": ""
+  "en": "Suddenly a violent tremor struck the{n}party. The whole Ice Hell Tower shook,{n}and a huge crack raced across the icy{n}arena. In a quake too fierce to stand in,{n}screams rose from the party as they{n}stared dumbly at the great hole bored by{n}the black flame."
  },
  {
   "id": "s0305_03968",
@@ -3237,7 +3237,7 @@
    "ザック"
   ],
   "jp": "わわっ！　なななな何だ!?",
-  "en": ""
+  "en": "Whoa! Wh-wh-what the hell!?"
  },
  {
   "id": "s0305_03984",
@@ -3261,7 +3261,7 @@
    "カイ"
   ],
   "jp": "まさか……氷獄塔が崩壊するのか!?{n}今の呪文の熱で、氷が脆く……？",
-  "en": ""
+  "en": "Could it be... the Ice Hell Tower is{n}collapsing!? That spell's heat has made the{n}ice brittle...?"
  },
  {
   "id": "s0305_039c8",
@@ -3285,7 +3285,7 @@
    "ヴァイ"
   ],
   "jp": "げええ!?　ちょっと待てよオイ！{n}Ｄ・Ｓ、ホントにそうなのか？",
-  "en": ""
+  "en": "Geeeh!? Hey, hang on a sec! D.S., is that{n}really true?"
  },
  {
   "id": "s0305_03a08",
@@ -3309,7 +3309,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "あーっはっはっはあ！　ホントもウソ{n}もねー！　現にこうやってブッ壊れ{n}始めたじゃねえか！　計算通り！{n}ゲラゲラゲラゲラ！　ぎゃははーっ！",
-  "en": ""
+  "en": "Ah hah hah hah! Never mind true or not! It's{n}falling apart right before your eyes! Right{n}on schedule! Cackle cackle cackle! Gyah hah{n}hah!"
  },
  {
   "id": "s0305_03a90",
@@ -3333,7 +3333,7 @@
    "ヴァイ"
   ],
   "jp": "何の計算だよ！　のんきに笑ってる{n}場合じゃ……うわあっ!?",
-  "en": ""
+  "en": "What schedule! This is no time for laughing it{n}off... whoaaa!?"
  },
  {
   "id": "s0305_03acc",
@@ -3357,7 +3357,7 @@
    "ヴァイ"
   ],
   "jp": "崩壊と同時に、氷獄塔は落下を開始{n}した。狼麒の死により、塔を支えて{n}いた浮遊の魔力が消滅し始めたので{n}あった。",
-  "en": ""
+  "en": "Even as it collapsed, the Ice Hell Tower{n}began to fall. With Loki's death, the{n}floating magic that held up the tower had{n}begun to die away."
  },
  {
   "id": "s0305_03b3c",
@@ -3381,7 +3381,7 @@
    "ヴァイ"
   ],
   "jp": "死黒核爆烈地獄の火球は、遂に塔の{n}最下層を突破し、直下の永久氷河へと{n}落下した。凄まじい熱量は衰えること{n}なく、やがて落下地点を中心に熱が{n}伝播し始める。あたかも水滴が起こし{n}た波紋の如く、それは同心円上に広が{n}って凍土を瞬時に溶かしていった――。",
-  "en": ""
+  "en": "The fireball of the Black Death Nuclear{n}Hell at last broke through the tower's{n}lowest level and fell into the eternal{n}glacier directly below. Its terrific heat{n}undiminished, it soon began to spread{n}outward from where it fell. Like ripples{n}from a drop of water, it spread in{n}concentric rings, instantly melting the{page}frozen earth--"
  },
  {
   "id": "s0305_03c30",
@@ -3405,7 +3405,7 @@
    "ヴァイ"
   ],
   "jp": "氷河からなおも沈降した高熱塊は、{n}凍結した水龍の竪穴に達した。それが{n}頭上に降り注いだ瞬間、龍は目覚めた。{page}火球がその身体に宿り、氷と化して{n}いた水の肉体に流動性を取り戻して{n}いく。封印は解かれ、水龍はその全身{n}を波打たせた。",
-  "en": ""
+  "en": "The hot mass sank on through the glacier{n}and reached the shaft of the frozen{n}Water Dragon. The instant it rained down{n}on its head, the dragon awoke.{page}The fireball settled in its body and gave{n}the water flesh that had become ice its{n}flow again. The seal was undone, and the{n}Water Dragon rippled along its whole{n}length."
  },
  {
   "id": "s0305_03d10",
@@ -3429,7 +3429,7 @@
    "ヴァイ"
   ],
   "jp": "水龍に命を吹き込んだ火球は熱量を{n}凍結の封印と相殺し、手に入れた時と{n}同じ、赤く輝く魔力球へと戻っていた。{page}その光に向かい、竪穴の深淵から急速{n}に浮上する巨大な影があった。",
-  "en": ""
+  "en": "The fireball that had breathed life into{n}the Water Dragon spent its heat against{n}the frozen seal, and became once more{n}the red shining sphere of magic it was{n}when found.{page}Toward its light, a huge shadow rose{n}swiftly from the depths of the shaft."
  },
  {
   "id": "s0305_03dbc",
@@ -3453,7 +3453,7 @@
    "ヴァイ"
   ],
   "jp": "それは、巨獣であった。竪穴の底は{n}エーテルの海と繋がっていたのだろう。{n}赤い光を求め、巨獣は口を大きく{n}広げて垂直に上昇してくる。そして、{n}水龍ごとその体内に包み込んだ――。",
-  "en": ""
+  "en": "It was the great beast. The bottom of{n}the shaft must have joined the sea of{n}ether. Seeking the red light, the great{n}beast came straight up with its mouth{n}wide open, and wrapped it inside its body,{n}Water Dragon and all--"
  },
  {
   "id": "s0305_03e68",
@@ -3477,7 +3477,7 @@
    "ヴァイ"
   ],
   "jp": "その刹那、巨獣の肉体は急激にその{n}形態を変化させ始めた。体表は透き{n}通り、細長く、より巨大になった{n}水龍の姿へと――。",
-  "en": ""
+  "en": "In that moment, the great beast's flesh{n}began a sudden change of form. Its skin{n}turned clear, and it took on the slender{n}and still more huge form of the Water{n}Dragon--"
  },
  {
   "id": "s0305_03ee0",
@@ -3501,7 +3501,7 @@
    "ヴァイ"
   ],
   "jp": "巨獣は、水龍から分かたれた存在で{n}あった。凍結した水龍は知性、巨獣は{n}知性を失った暴風の如き力、そして{n}魔力球は龍の生命の力――それらが{n}ひとつに融合し、水龍は真の姿を取り{n}戻した。巨獣が赤い光に反応を示して{n}いたのは、わずかに残る知性と、元の{n}姿に戻らんとする本能によるもので{n}あったのだ。",
-  "en": ""
+  "en": "The great beast was a being split off{n}from the Water Dragon. The frozen Water{n}Dragon was its intellect, the great beast{n}its storm-like power stripped of intellect,{n}and the sphere of magic the dragon's life{n}force. Merged into one, these restored{n}the Water Dragon to its true form. The{n}great beast had reacted to the red{page}light out of a scrap of remaining{n}intelligence, and out of an instinct to{n}return to its original form."
  },
  {
   "id": "s0305_04000",
@@ -3525,7 +3525,7 @@
    "ヴァイ"
   ],
   "jp": "直後、凄まじいエネルギーを漲らせた{n}水龍は、螺旋を描いて上昇を開始した。{page}崩壊し、砕けながら落下する氷獄塔を{n}巻き、膨大な、命ある激流が天へと{n}昇っていく――。",
-  "en": ""
+  "en": "Right after, the Water Dragon, brimming{n}with terrific energy, spiraled upward.{page}Winding around the Ice Hell Tower as it{n}collapsed and fell in pieces, a vast and{n}living torrent rose into the heavens--"
  },
  {
   "id": "s0305_040a0",
@@ -3549,7 +3549,7 @@
    "ヴァイ"
   ],
   "jp": "偽りの地表を覆う雪原は、今や完全に{n}融解していた。現れたエーテルの海は{n}大気に溶け、真の大地が白日のもとに{n}晒される。険しき雪と氷の双子山も、{n}緑なすなだらかな地肌を剥き出しに{n}していた。狼麒の魔力によって隠蔽{n}された大地は、その本来の姿をここに{n}取り戻したのである。",
-  "en": ""
+  "en": "The snowfield covering the false surface{n}had by now wholly melted. The sea of{n}ether thus revealed dissolved into the air,{n}and the true earth lay bare in the light{n}of day. Even the twin mountains of harsh{n}snow and ice showed their gentle green{n}flanks. The land hidden by Loki's magic had{n}here regained its true form."
  },
  {
   "id": "s0305_041a8",
@@ -3573,7 +3573,7 @@
    "ヴァイ"
   ],
   "jp": "氷のコロシアムが崩れ去る直前、一行{n}は復活した水龍の渦にひとり残らず{n}取り込まれた。龍の描く螺旋は高く{n}天に昇り、Ｄ・Ｓたちを乗せたまま{n}空に架かる虹へと吸い込まれていく。{page}水飛沫の航跡を遥かな蒼弓に残し、{n}水龍は虹に沿って地平線へと消えて{n}いった――。",
-  "en": ""
+  "en": "Just before the icy coliseum collapsed,{n}the party, to the last one, were caught{n}up in the revived Water Dragon's whirl.{n}The spiral it drew rose high into the{n}heavens and, carrying D.S. and the others,{n}was drawn into the rainbow that spanned{n}the sky.{page}Leaving a wake of water spray across the{n}far blue vault, the Water Dragon followed{n}the rainbow and vanished over the{n}horizon--"
  },
  {
   "id": "s0305_042a4",
@@ -3597,7 +3597,7 @@
    "ヴァイ"
   ],
   "jp": "虹の光に包まれて、Ｄ・Ｓは夢を見た。",
-  "en": ""
+  "en": "Wrapped in the rainbow's light, D.S.{n}dreamed."
  },
  {
   "id": "s0305_042cc",
@@ -3621,7 +3621,7 @@
    "ヴァイ"
   ],
   "jp": "否、それは夢ではなかった。これまで{n}の龍と同じく、水龍の復活に伴って{n}惹き起こされた能力の増幅――その{n}強烈な高揚感に包まれながら、Ｄ・Ｓ{n}は失われた記憶の断片を急速に取り{n}戻しつつあった。記憶の中の映像が{n}めくるめく迅さで次々と現れ、意識の{n}表層を駆け抜けていく。",
-  "en": ""
+  "en": "No, it was no dream. As with the other{n}dragons, the Water Dragon's revival had{n}brought on a heightening of his powers.{n}Wrapped in that fierce elation, D.S. was{n}swiftly regaining fragments of his lost{n}memory. Images from memory appeared{n}one after another at dizzying speed,{n}racing over the surface of his mind."
  },
  {
   "id": "s0305_043d4",
@@ -3645,7 +3645,7 @@
    "ヴァイ"
   ],
   "jp": "誕生して四百年、Ｄ・Ｓの送ってきた{n}人生は戦いの連続であった。初めて{n}目覚めた時、そこはすでに死闘のただ{n}中であった。旧世界が滅び、当時の{n}人類の大半が死んだ黙示録の戦い――。",
-  "en": ""
+  "en": "Four hundred years since his birth, and{n}the life D.S. had led was one battle after{n}another. When he first awoke, he was{n}already in the midst of a death struggle:{n}the battle of the apocalypse, in which the{n}old world perished and most of the{n}humans of that time died."
  },
  {
   "id": "s0305_04484",
@@ -3669,7 +3669,7 @@
    "ヴァイ"
   ],
   "jp": "やがて古き魔法が復活し、急激に変化{n}した世界に魔物が跋扈する暗黒と暴力{n}の時代。旧世界のテクノロジーにより{n}無限に近い魔力を生得していたＤ・Ｓ{n}は、その圧倒的な能力と闘いを好む{n}性癖から、伝説の魔人と畏怖される{n}存在となっていた。",
-  "en": ""
+  "en": "Then came an era of darkness and{n}violence, when ancient magic returned{n}and monsters roamed a world suddenly{n}changed. Born with near-limitless magic{n}through the technology of the old world,{n}D.S. became a being feared as the{n}legendary demon, for his overwhelming{n}power and his love of battle."
  },
  {
   "id": "s0305_04568",
@@ -3693,7 +3693,7 @@
    "ヴァイ"
   ],
   "jp": "溢れ出す魔力に活性化された肉体は{n}決して老いず、余りある時が退屈を{n}呼び、彼を血臭漂う戦場へと導いた。",
-  "en": ""
+  "en": "His flesh, quickened by overflowing magic,{n}never aged, and a surplus of time brought{n}on boredom, leading him to battlefields{n}heavy with the smell of blood."
  },
  {
   "id": "s0305_045d0",
@@ -3717,7 +3717,7 @@
    "ヴァイ"
   ],
   "jp": "ある時、彼は気づいた。自分には生ま{n}れつき欠落しているある種の感情が{n}あることを。哀れみや悲しみ、涙――{n}そして愛と呼ばれる不可思議なもの。",
-  "en": ""
+  "en": "One day he realized that there were{n}certain feelings he had lacked from birth.{n}Pity and sorrow, tears, and that strange{n}thing called love."
  },
  {
   "id": "s0305_0465c",
@@ -3741,7 +3741,7 @@
    "ヴァイ"
   ],
   "jp": "多くの人間たちが愛のために闘い、{n}死んでいく姿をＤ・Ｓは見てきた。{page}だが、それらしき感情を模倣しようと{n}しても、何故彼らが無謀で、くだらぬ{n}死を晒していくのかを理解することは{n}できなかった。",
-  "en": ""
+  "en": "D.S. had seen many humans fight and die{n}for love.{page}But though he tried to imitate such{n}feelings, he could not understand why{n}they exposed themselves to reckless,{n}worthless deaths."
  },
  {
   "id": "s0305_04718",
@@ -3765,7 +3765,7 @@
    "ヴァイ"
   ],
   "jp": "いつしか、Ｄ・Ｓはその感情を渇望{n}するようになっていった。世に生まれ{n}出た時から、分かたれ、隠された自ら{n}の半身――それを求め、彼は大軍団を{n}率いて征服戦争を起こした。しかし、{n}戦の半ばにしてＤ・Ｓは斃れ、復活の{n}日まで、かりそめの死を迎えることと{n}なった――。",
-  "en": ""
+  "en": "In time, D.S. came to crave those feelings.{n}Seeking the other half of himself, severed{n}and hidden since the moment he came into{n}the world, he led a great army and began{n}a war of conquest. But halfway through{n}the war D.S. fell, and met a false death{n}that would last until the day of his{n}revival--"
  },
  {
   "id": "s0305_0481c",
@@ -3789,7 +3789,7 @@
    "ヴァイ"
   ],
   "jp": "激戦での死を予感し、あらかじめ転生{n}の儀式を施していたＤ・Ｓは、しかし{n}ルーシェという名の赤子の内に封印{n}されて生まれる。強力な封印を破る{n}ことはできず、Ｄ・Ｓは初めて――{n}自分の意志ではないにせよ――闘争{n}から隔離された十五年をルーシェの{n}中で過ごすことになった。",
-  "en": ""
+  "en": "Foreseeing his death in fierce battle, D.S.{n}had prepared a rite of reincarnation in{n}advance, yet he was born sealed inside a{n}baby named Lucien. Unable to break the{n}mighty seal, D.S., for the first time,{n}though not by his own will, spent fifteen{n}years inside Lucien, cut off from strife."
  },
  {
   "id": "s0305_04924",
@@ -3813,7 +3813,7 @@
    "ヴァイ"
   ],
   "jp": "その少年時代、Ｄ・Ｓは出会う。{page}ティア・ノート・ヨーコに。",
-  "en": ""
+  "en": "In that boyhood, D.S. met her.{page}Tia Noto Yoko."
  },
  {
   "id": "s0305_04960",
@@ -3837,7 +3837,7 @@
    "ヴァイ"
   ],
   "jp": "ヨーコは、一言で表すなら完全に限り{n}なく近い少女であった。完全ではない、{n}とは劣るところがあるという意味では{n}ない。完成されたものはもはやそれ{n}以上先に進むことはない。ヨーコは{n}不完全であるが故に常に成長し、その{n}魅力を増していく。そして決して、{n}完璧にまとまることはないのだ。",
-  "en": ""
+  "en": "Yoko, in a word, was a girl endlessly close{n}to perfect. That she was not perfect did{n}not mean she fell short in anything. A{n}finished thing can go no further. Being{n}imperfect, Yoko always grew, and her{n}charm always increased. And she would{n}never be neatly complete."
  },
  {
   "id": "s0305_04a74",
@@ -3861,7 +3861,7 @@
    "ヴァイ"
   ],
   "jp": "成長すればしただけ、完全であるため{n}のポテンシャルはより高くなる。彼女{n}は永遠に成長し続ける、いつかは世界{n}で最高の女性となる少女であった。",
-  "en": ""
+  "en": "The more she grew, the higher rose her{n}potential for perfection. She was a girl{n}who would grow forever, who would{n}someday be the finest woman in the{n}world."
  },
  {
   "id": "s0305_04b00",
@@ -3885,7 +3885,7 @@
    "ヴァイ"
   ],
   "jp": "ともに育てられた彼女は、天涯孤独の{n}ルーシェにとって姉のように強く、{n}母のように優しく、恋人のように温か{n}い存在だった。そのルーシェの想いが{n}影に封じられたＤ・Ｓの人格に融合{n}したのか、それともヨーコという鍵が{n}Ｄ・Ｓの中の欠落した感情の扉を開い{n}たのかは判らない。だが、彼は見つけ{n}たのだ。求め続けたものを。",
-  "en": ""
+  "en": "Raised with him, she was to the orphaned{n}Lucien strong as a sister, gentle as a{n}mother, warm as a lover. Whether Lucien's{n}love merged with the personality of D.S.,{n}sealed in the shadows, or Yoko was the{n}key that opened the door to the feelings{n}D.S. lacked, no one knows. But he had{n}found it. What he had sought for so{page}long."
  },
  {
   "id": "s0305_04c30",
@@ -3909,7 +3909,7 @@
    "ヴァイ"
   ],
   "jp": "愛を。",
-  "en": ""
+  "en": "Love."
  },
  {
   "id": "s0305_04c38",
@@ -3933,7 +3933,7 @@
    "ヴァイ"
   ],
   "jp": "封印から解き放たれて後、旧世界の{n}遺物・破壊神アンスラサクス復活を{n}巡る闘いの中で、ヨーコは世界を――{n}そしてＤ・Ｓを守るためにその命を{n}投げ出した。その時、死したヨーコを{n}蘇生させるため、Ｄ・Ｓは迷いなく{n}自らの魂を分け与えた。以後、ふたり{n}は魂の一部を共有する関係となった。",
-  "en": ""
+  "en": "After he was freed from the seal, in the{n}battle over the revival of the god of{n}destruction Anthrasax, relic of the old{n}world, Yoko threw away her life to{n}protect the world, and D.S. To revive the{n}dead Yoko, D.S. did not hesitate to give{n}her a share of his own soul. From then on,{n}the two shared a part of their souls."
  },
  {
   "id": "s0305_04d4c",
@@ -3957,7 +3957,7 @@
    "ヴァイ"
   ],
   "jp": "誕生して以来、渇望してきたものの{n}答えがヨーコであった。ヨーコの命を{n}贖えるなら、Ｄ・Ｓは世界すらも捨て{n}去る――彼にとってヨーコへの愛は、{n}己の死をも厭わぬこの世で唯一大切な{n}ものであったのだ。",
-  "en": ""
+  "en": "The answer to what he had craved since{n}birth was Yoko. To redeem Yoko's life, D.S.{n}would throw away the world itself. His{n}love for Yoko was the one precious thing{n}in this world, for which he would not{n}shrink even from his own death."
  },
  {
   "id": "s0305_04e10",
@@ -3981,7 +3981,7 @@
    "ヴァイ"
   ],
   "jp": "失われていたヨーコの記憶が、途轍も{n}ない速度で蘇っていく。ヨーコと過ご{n}した日々が、ヨーコの様々な姿が、{n}一瞬に数百コマが流れる映像として{n}脳裏に氾濫する。最後に、深海とも{n}虚空とも知れぬ漆黒の世界に浮かぶ{n}ヨーコの裸身が見え、やがて視界は{n}虹色の光の奔流に埋め尽くされた。",
-  "en": ""
+  "en": "Lost memories of Yoko came back at{n}staggering speed. Days spent with Yoko,{n}Yoko in all her forms, flooded his mind in{n}images flowing hundreds of frames to the{n}moment. At the last he saw Yoko's naked{n}body floating in a jet-black world,{n}whether deep sea or empty sky, he could{n}not tell, and then his sight was filled by{page}a torrent of rainbow light."
  },
  {
   "id": "s0305_04f20",
@@ -4005,7 +4005,7 @@
    "ヴァイ"
   ],
   "jp": "意識がブラックアウトする寸前、{n}Ｄ・Ｓは誓った。",
-  "en": ""
+  "en": "Just before his mind blacked out, D.S.{n}swore."
  },
  {
   "id": "s0305_04f54",
@@ -4029,7 +4029,7 @@
    "ヴァイ"
   ],
   "jp": "“ヨーコさん――絶対に取り戻すぜ。{n}敵が神でも悪魔でも、必ずだ――”",
-  "en": ""
+  "en": "\"Yoko-san-- I'm getting you back, no{n}matter what. Gods or devils, I don't care,{n}I swear it--\""
  },
  {
   "id": "s0305_04f9c",

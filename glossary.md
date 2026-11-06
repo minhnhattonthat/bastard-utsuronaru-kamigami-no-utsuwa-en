@@ -82,6 +82,14 @@ Title cards carry the developers' own English subtitles (for example 忘却の�
 | 連続技 | Chain | | a linked attack | |
 | 四天王 | Divine Kings | | official | |
 | 魔戦将軍 | Sorcerer Generals / Sorcerer General | | official | |
+| 破裏拳流 | Hariken School | | Kai's sword style | |
+| 狼麒 | Loki | | the wolf-headed god; ロキ's kanji form | Wolf Qilin |
+| 虚神 | Hollow God | | echoes the game title 虚ろなる神々 | False God |
+| 虚神王 | Hollow God King | | | False God King |
+| 魂喰らい | Soul Eater | | Gain's and later Zion's sword | |
+| 魔神剣 | Demon Sword | | skill-table spelling | |
+| 黒い断頭台 | Black Guillotine | | skill-table spelling | |
+| 死黒核爆烈地獄 | Black Death Nuclear Hell | | chant ends: Dio Mi Geezer Ozzy | |
 | 雷帝 | Thunder Empress | | Nei's title | |
 | 巨獣 | great beast / Great Beast | | swims under the snowfield | |
 | 魔紅玉 | Demon Ruby | | | |

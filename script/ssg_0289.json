@@ -21,7 +21,7 @@
    ""
   ],
   "jp": "山と山とを繋ぐ巨大な氷の橋も、{n}それの威容の前では小さな吊り橋の{n}ように見える。",
-  "en": ""
+  "en": "Even the huge ice bridge linking mountain{n}to mountain looked like a small rope{n}bridge before that majestic sight."
  },
  {
   "id": "s0289_00868",
@@ -45,7 +45,7 @@
    ""
   ],
   "jp": "眼前に、氷獄塔が聳えていた。橋に{n}支えられる形で、遥か高空までそそり{n}立つ雄大な氷の柱――それは青空を{n}背景に、輝く光の塔のように煌めいて{n}いた。恐らくはこの塔自体が地下遺跡{n}からエネルギーを受け取り、巨大な{n}プリズムとして魔のオーロラを発生{n}させていたのだろう。",
-  "en": ""
+  "en": "Before their eyes rose the Ice Hell Tower.{n}Supported by the bridge, a mighty pillar{n}of ice soared high into the sky, glittering{n}like a tower of light against the blue. No{n}doubt the tower itself took energy from{n}the underground ruins, and acted as a{n}giant prism to make the demon aurora."
  },
  {
   "id": "s0289_0096c",
@@ -69,7 +69,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "いよいよカルの本拠地かよ",
-  "en": ""
+  "en": "So this is Kall's home base at last."
  },
  {
   "id": "s0289_00988",
@@ -95,7 +95,7 @@
    "マカパイン"
   ],
   "jp": "塔では他の魔戦将軍が待ち構えている{n}だろう。ここからが正念場だぞ。特に{n}イングヴェイは手強い――",
-  "en": ""
+  "en": "Other Sorcerer Generals will be waiting in{n}the tower. This is the critical moment.{n}Yngwei in particular will be a hard foe--"
  },
  {
   "id": "s0289_009e8",
@@ -121,7 +121,7 @@
    "ラン"
   ],
   "jp": "できるなら戦いたくはない相手だな",
-  "en": ""
+  "en": "He is one I would rather not fight, if I can{n}help it."
  },
  {
   "id": "s0289_00a0c",
@@ -147,7 +147,7 @@
    "シェラ"
   ],
   "jp": "イングヴェイ……目を覚ましてくれ",
-  "en": ""
+  "en": "Yngwei... Please, wake up."
  },
  {
   "id": "s0289_00b14",
@@ -171,7 +171,7 @@
    ""
   ],
   "jp": "氷の橋上に、ひとりの男が佇んでいた。",
-  "en": ""
+  "en": "On the ice bridge stood a lone man."
  },
  {
   "id": "s0289_00b3c",
@@ -219,7 +219,7 @@
    "マカパイン"
   ],
   "jp": "……遂にここまで来てしまったか。{n}貴様と再び戦うことなど、あって{n}欲しくはなかったが――",
-  "en": ""
+  "en": "...So you have finally come this far. I had{n}hoped I would not have to fight you{n}again--"
  },
  {
   "id": "s0289_00ba8",
@@ -243,7 +243,7 @@
    "マカパイン"
   ],
   "jp": "私は魔戦将軍、その責務は果たさねば{n}ならぬ。最後の勝負だ、Ｄ・Ｓ",
-  "en": ""
+  "en": "I am a Sorcerer General, and I must carry{n}out my duty. This is the final match, D.S."
  },
  {
   "id": "s0289_00bec",
@@ -267,7 +267,7 @@
    "ヨルグ"
   ],
   "jp": "マカパイン！",
-  "en": ""
+  "en": "Macalpine!"
  },
  {
   "id": "s0289_00bfc",
@@ -291,7 +291,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "よせ、ヨルグ。あいつも考え抜いての{n}ことだ。受けて立つぜ！",
-  "en": ""
+  "en": "Knock it off, Jorg. He's thought this through.{n}I'll take him on!"
  },
  {
   "id": "s0289_00c38",
@@ -315,7 +315,7 @@
    "マカパイン"
   ],
   "jp": "それでこそＤ・Ｓ！　私の好敵手に{n}相応しき男！　ゆくぞ！",
-  "en": ""
+  "en": "Spoken like D.S.! A man worthy to be my rival!{n}Here I come!"
  },
  {
   "id": "s0289_00c74",
@@ -339,7 +339,7 @@
    "マカパイン"
   ],
   "jp": "カル様がため……その大義をもって{n}しても勝てぬか――フフ、主が傀儡で{n}あれば、大義もまた魂なき操り人形の{n}如し……",
-  "en": ""
+  "en": "For Kall-sama's sake... and yet even that{n}great cause cannot win it-- Heh heh, if the{n}master is a puppet, the great cause too is{n}but a marionette without a soul..."
  },
  {
   "id": "s0289_00ce8",
@@ -363,7 +363,7 @@
    "ヨシュア"
   ],
   "jp": "マカパインよ。本当の大義とは、その{n}主に正気を取り戻させることであろう？{n}今一度、我々に力を貸してくれ",
-  "en": ""
+  "en": "Macalpine. The true great cause is to bring{n}your lord back to his senses, is it not? Lend{n}us your strength once more."
  },
  {
   "id": "s0289_00d50",
@@ -387,7 +387,7 @@
    "マカパイン"
   ],
   "jp": "辛いことを言う……私は侍とは違うが、{n}恥というものは知っているつもりだぞ",
-  "en": ""
+  "en": "You say harsh things... I am no samurai, but I{n}do know something of shame."
  },
  {
   "id": "s0289_00d9c",
@@ -411,7 +411,7 @@
    "ヨシュア"
   ],
   "jp": "恥じ入るのは、己が正しいと思う道に{n}踏み出せなかった時にこそだ。正しき{n}大義――正義に身を置く限り、貴様は{n}決して恥知らずなどではない！",
-  "en": ""
+  "en": "One should feel shame only when one{n}cannot step onto the path one believes is{n}right. So long as you stand with the just{n}cause, with justice, you are no shameless{page}man!"
  },
  {
   "id": "s0289_00e24",
@@ -435,6 +435,6 @@
    "マカパイン"
   ],
   "jp": "……侍大将の説法に心を動かされると{n}はなあ、魔戦将軍マカパインもやきが{n}回ったものだ。Ｄ・Ｓ、恥を捨てて{n}頼もう。ともに、カル様のもとへ――",
-  "en": ""
+  "en": "...To be moved by a Samurai General's{n}sermon. The Sorcerer General Macalpine has{n}slipped indeed. D.S., I cast off my shame and{n}ask you. Together, to Kall-sama--"
  }
 ]

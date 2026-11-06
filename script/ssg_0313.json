@@ -21,7 +21,7 @@
    ""
   ],
   "jp": "館の内部は、奇妙に美しく整えられて{n}いた。床には精緻な柄を織り込んだ{n}絨毯が敷き詰められ、黒一色の外見{n}とは対照的な色彩をたたえている。",
-  "en": ""
+  "en": "Inside, the mansion was oddly and{n}beautifully kept. Laid across the floor{n}were carpets woven with fine patterns,{n}full of color in contrast to its all-black{n}exterior."
  },
  {
   "id": "s0313_008a0",
@@ -45,7 +45,7 @@
    ""
   ],
   "jp": "だが、注意深く観察すれば、その柔ら{n}かな床は織物などではないことに気づ{n}くだろう。それは細かな、あまりにも{n}微細な突起の集合物であり、洞窟に{n}繁殖している黒い肉腫と同種のもので{n}あった。柔らかな肉の突起を踏みつけ{n}る、吐き気を催すような感触が足下{n}から這い上ってくる。",
-  "en": ""
+  "en": "But careful observation would show that{n}the soft floor was no woven cloth. It was{n}a mass of tiny, all too tiny bumps, the{n}same kind of thing as the black tumors{n}growing in the cave. The nauseating feel{n}of treading on soft bumps of flesh crept{n}up from underfoot."
  },
  {
   "id": "s0313_009a8",
@@ -69,7 +69,7 @@
    "ガラ"
   ],
   "jp": "オレ、こーゆーの苦手なんだよなあ。{n}ウエッ、オレまで調子悪くなりそ",
-  "en": ""
+  "en": "I can't stand this kinda thing. Bleh, I'm gonna{n}get sick too."
  },
  {
   "id": "s0313_009ec",
@@ -93,7 +93,7 @@
    "ネイ"
   ],
   "jp": "イヤな気配のする館だな……これは{n}腐臭？　いや、違う……死を直前に{n}した者の臭い――“死”そのものの{n}臭気だ――",
-  "en": ""
+  "en": "This mansion has a foul presence... Is this{n}the stench of rot? No... It is the smell of{n}one on the brink of death. The stench of{n}\"death\" itself--"
  },
  {
   "id": "s0313_00afc",
@@ -117,7 +117,7 @@
    "バ・ソリー"
   ],
   "jp": "ええい！　何なんどわあぁこの館わぁ！",
-  "en": ""
+  "en": "Argh! What the hell is this mansion!"
  },
  {
   "id": "s0313_00b24",
@@ -141,7 +141,7 @@
    "マカパイン"
   ],
   "jp": "おお！　バ・ソリー！　貴様ここに{n}いたのか！",
-  "en": ""
+  "en": "Oh! Ba Thory! So you were here!"
  },
  {
   "id": "s0313_00b54",
@@ -165,7 +165,7 @@
    "バ・ソリー"
   ],
   "jp": "あお？　マカパインではないかあ！",
-  "en": ""
+  "en": "Ah? Is that not Macalpine!"
  },
  {
   "id": "s0313_00b78",
@@ -189,7 +189,7 @@
    "バ・ソリー"
   ],
   "jp": "バ・ソリーは蟲たちを使い、この館を{n}探ろうとしていたらしい。だが、体内{n}から放たれた蟲は、床の柔突起に阻ま{n}れてろくに身動きが取れない。何匹か{n}はそのまま床に飲まれ、どうやら消化{n}されてしまったようであった。",
-  "en": ""
+  "en": "Ba Thory had apparently been trying to{n}explore this mansion with his bugs. But the{n}bugs he released from his body could{n}hardly move, blocked by the soft bumps{n}on the floor. Several had been swallowed{n}by the floor, and seemed to have been{n}digested."
  },
  {
   "id": "s0313_00c48",
@@ -213,7 +213,7 @@
    "バ・ソリー"
   ],
   "jp": "ううう……俺様の蟲がァ、蟲がァ",
-  "en": ""
+  "en": "Ooh... my bugs, my bugs..."
  },
  {
   "id": "s0313_00c68",
@@ -237,7 +237,7 @@
    "ガラ"
   ],
   "jp": "おーおー可哀想にね",
-  "en": ""
+  "en": "Oh, you poor thing."
  },
  {
   "id": "s0313_00c7c",
@@ -261,7 +261,7 @@
    "バ・ソリー"
   ],
   "jp": "貴様、全然同情しとらんだろ!?",
-  "en": ""
+  "en": "You have no sympathy at all, do you!?"
  },
  {
   "id": "s0313_00c9c",
@@ -285,7 +285,7 @@
    "ロス"
   ],
   "jp": "こういうグロいトコは貴公が得意そう{n}だと思ってたんだけどねー。アタシ{n}みたいに根が高級だとなじめないわぁ",
-  "en": ""
+  "en": "I'd have thought a gross place like this{n}would be your specialty, sir. For someone as{n}refined at heart as me, it just doesn't sit{n}right."
  },
  {
   "id": "s0313_00d04",
@@ -309,7 +309,7 @@
    "バ・ソリー"
   ],
   "jp": "それじゃ俺様は低級かい！　おにょれ、{n}そのうち貴様が寝ているうちに、蟲の{n}卵を飲ませてやるっ！",
-  "en": ""
+  "en": "So the great me is low-class, is that it!{n}Curses, one day while you sleep I'll make you{n}swallow bug eggs!"
  },
  {
   "id": "s0313_00d64",
@@ -333,7 +333,7 @@
    "ロス"
   ],
   "jp": "……想像しただけで気絶しそう。いく{n}らでもアヤまるからそれだけはヤメテ",
-  "en": ""
+  "en": "...The very thought makes me want to faint.{n}I'll apologize as much as you like, just not{n}that."
  },
  {
   "id": "s0313_00f48",
@@ -357,7 +357,7 @@
    ""
   ],
   "jp": "床の模様とは別に、そこに活発に蠢く{n}癌細胞の群れがあった。一行に微かな{n}反応を見せたが、あまりにも群体が{n}小さいため通過の障害にはなり得ない。{page}ただ、細胞は倍々に、急激な速度で{n}分裂増殖を繰り返しつつあった。",
-  "en": ""
+  "en": "Apart from the pattern on the floor, a{n}swarm of cancer cells was stirring{n}actively there. It showed a faint response{n}to the party, but the colony was too{n}small to block their way.{page}The cells, however, were splitting and{n}multiplying over and over, doubling at a{n}furious rate."
  },
  {
   "id": "s0313_01018",
@@ -381,7 +381,7 @@
    ""
   ],
   "jp": "柱の間で蠢動する癌細胞の群体は、{n}今や一帯の床を覆い尽くすほどに成長{n}を遂げていた。接近する獲物の気配を{n}嗅ぎつけ、それは迅速に盛り上がり、{n}番兵の実体を顕し始めた。",
-  "en": ""
+  "en": "The colony of cancer cells writhing{n}between the pillars had by now grown to{n}cover the whole floor of the area.{n}Scenting the approach of prey, it swiftly{n}rose up, and began to take the form of a{n}sentry."
  },
  {
   "id": "s0313_01158",
@@ -405,7 +405,7 @@
    ""
   ],
   "jp": "開かれた宝箱の前で、ひとり佇む侍の{n}姿があった。",
-  "en": ""
+  "en": "Before an open chest stood a lone{n}samurai."
  },
  {
   "id": "s0313_0118c",
@@ -429,7 +429,7 @@
    ""
   ],
   "jp": "シェンであった。その箱から取り出し{n}たのであろう、脇差を手にその刀身を{n}食い入るように見つめている。{page}もの静かなシェンの貌に、錯覚か、{n}鬼神の激しい憤怒の相が浮かんでいる{n}ように見えた。",
-  "en": ""
+  "en": "It was Schen. He held a short sword,{n}doubtless taken from that chest, and{n}stared hard at its blade.{page}On Schen's quiet face, was it an illusion,{n}there seemed to be the fierce wrath of a{n}fiend."
  },
  {
   "id": "s0313_01244",
@@ -453,7 +453,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "……シェン？",
-  "en": ""
+  "en": "...Schen?"
  },
  {
   "id": "s0313_01254",
@@ -477,7 +477,7 @@
    "シェン"
   ],
   "jp": "！　ああ、Ｄ・Ｓ……無事か",
-  "en": ""
+  "en": "! Ah, D.S.... You're all right."
  },
  {
   "id": "s0313_01270",
@@ -501,7 +501,7 @@
    "シェン"
   ],
   "jp": "夢から覚めたように――そしてその{n}内容をＤ・Ｓに覗かれてしまったと{n}感じているかに、シェンは慌てた様子{n}で脇差を鞘に収めた。その腰には兄・{n}ジオンから受け渡された黒夜叉と、{n}白鞘の脇差が下げられている。",
-  "en": ""
+  "en": "As if waking from a dream, and as if he{n}felt D.S. had glimpsed what was in it,{n}Schen hastily sheathed the short sword.{n}At his waist hung the Black Yaksha his{n}brother Zion had given him, and a{n}white-sheathed short sword."
  },
  {
   "id": "s0313_01338",
@@ -525,7 +525,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "あんまり、無事じゃ、ねえな……。{n}オメエ、兄貴はどうした？",
-  "en": ""
+  "en": "Not all that... all right, no... What about your{n}brother?"
  },
  {
   "id": "s0313_01374",
@@ -549,7 +549,7 @@
    "シェン"
   ],
   "jp": "――そちらとも一緒ではなかったか{n}……オレは虹の中ではぐれてしまった。{n}いや……オレを避けて、姿をくらませ{n}たのかも知れんな――",
-  "en": ""
+  "en": "--He wasn't with you either... I got{n}separated from him in the rainbow. No... He{n}may have avoided me and gone into{n}hiding--"
  },
  {
   "id": "s0313_013f4",
@@ -573,7 +573,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "……？　どういう意味だ？",
-  "en": ""
+  "en": "...? What's that supposed to mean?"
  },
  {
   "id": "s0313_01410",
@@ -597,7 +597,7 @@
    "シェン"
   ],
   "jp": "……いや、気にしないでくれ",
-  "en": ""
+  "en": "...No, never mind."
  },
  {
   "id": "s0313_0142c",
@@ -621,7 +621,7 @@
    "シェン"
   ],
   "jp": "それ以上、シェンは何も語ろうとは{n}しなかった。ただ、ジオンのことを{n}問われた瞬間、幽かだがあの鬼相が{n}シェンの貌を過ぎったように思えた。",
-  "en": ""
+  "en": "Schen would say no more. But the instant{n}Zion's name was asked of him, faintly, that{n}fiend's look seemed to cross his face."
  },
  {
   "id": "s0313_0160c",
@@ -645,7 +645,7 @@
    "ダイ"
   ],
   "jp": "おおお――っ！　美しいーっ！　心の{n}琴線を掻き鳴らすこのセンス！　足下{n}から伝わる総毛立つような肉の感触！{n}素晴らしいぃぃぃ!!",
-  "en": ""
+  "en": "Ohhhh--! How beautiful! This taste that{n}strums the strings of the heart! This{n}hair-raising feel of flesh from underfoot!{n}Magnificennnt!!"
  },
  {
   "id": "s0313_0168c",
@@ -669,7 +669,7 @@
    "ダイ"
   ],
   "jp": "大袈裟な身振りで、ひとりこの奇怪な{n}館を讃える筋肉の塊がいた。ダイの{n}ねじくれた美的感覚には、生理的に{n}嫌悪感を催すこの建物こそ、至高の{n}美に値するものであるらしかった。",
-  "en": ""
+  "en": "With grand gestures, a lump of muscle{n}stood alone in praise of this bizarre{n}mansion. To Di's warped sense of beauty,{n}this physically revolting building seemed{n}worthy of the highest beauty."
  },
  {
   "id": "s0313_01734",
@@ -693,7 +693,7 @@
    "ダイ"
   ],
   "jp": "思わず頬ずりしたくなりますねェェ！{n}柔突起、サイコー!!",
-  "en": ""
+  "en": "It makes me want to rub my cheek against{n}it! Soft bumps, the very best!!"
  },
  {
   "id": "s0313_0176c",
@@ -717,7 +717,7 @@
    "ネイ"
   ],
   "jp": "やかましいっ！",
-  "en": ""
+  "en": "Shut up!"
  },
  {
   "id": "s0313_0177c",
@@ -741,7 +741,7 @@
    "ダイ"
   ],
   "jp": "はぐっ!?　あ、ネイ様ぁ？",
-  "en": ""
+  "en": "Hagh!? Ah, Nei-sama?"
  },
  {
   "id": "s0313_01798",
@@ -765,7 +765,7 @@
    "ネイ"
   ],
   "jp": "相変わらず美的感覚のズレた子だね、{n}オマエは！　それなりに可愛い子供{n}だったのに、いつの間にやら醜い筋肉{n}ダルマになって！　うーっ、天誅！",
-  "en": ""
+  "en": "You and your warped sense of beauty, same{n}as ever! You were a fairly cute child, and{n}now look at you, an ugly muscle-bound{n}barrel! Grr, divine punishment!"
  },
  {
   "id": "s0313_01824",
@@ -789,7 +789,7 @@
    "ダイ"
   ],
   "jp": "あぎゃあああ――！",
-  "en": ""
+  "en": "Agyaaaah--!"
  },
  {
   "id": "s0313_01838",
@@ -813,7 +813,7 @@
    "ダイ"
   ],
   "jp": "……ふうぅー",
-  "en": ""
+  "en": "...Whew."
  },
  {
   "id": "s0313_01848",
@@ -837,7 +837,7 @@
    "ネイ"
   ],
   "jp": "何っ？　私の雷撃からもう回復する{n}なんて!?",
-  "en": ""
+  "en": "What? Recovered from my lightning{n}already!?"
  },
  {
   "id": "s0313_01874",
@@ -861,7 +861,7 @@
    "ダイ"
   ],
   "jp": "効きませんねぇネイ様。私はもはや、{n}母代わりである貴女を超えたのです！{n}魔雷妃であった貴女に奪われた以上の{n}闇の魔力を取り戻したのですよぉぉ！",
-  "en": ""
+  "en": "That had no effect, Nei-sama. I have now{n}surpassed you, who were as a mother to me!{n}I have regained more dark magic than you{n}stole from me as the Demon Thunder{page}Queen!"
  },
  {
   "id": "s0313_01904",
@@ -885,7 +885,7 @@
    "ダイ"
   ],
   "jp": "凄まじい妖気の噴出が、ダイの蝙蝠{n}マントを羽根の如くに膨らませる。{n}巨体をわずかに浮き上がらせ、ダイは{n}激しく哄笑した。",
-  "en": ""
+  "en": "A terrific burst of eerie aura swelled Di's{n}bat cape like wings. His huge body rising a{n}little, Di laughed uproariously."
  },
  {
   "id": "s0313_0197c",
@@ -909,7 +909,7 @@
    "ダイ"
   ],
   "jp": "ふははははは！　見ればＤ・Ｓは{n}ずいぶんと具合が悪そーではありま{n}せんか？　これは大変な好都合！{n}わははははは――",
-  "en": ""
+  "en": "Fwah hah hah hah hah! I see that D.S. looks{n}quite unwell, does he not? How extremely{n}convenient! Wah hah hah hah hah--"
  },
  {
   "id": "s0313_019f0",
@@ -933,7 +933,7 @@
    "ダイ"
   ],
   "jp": "私ももう思い出しちゃいましたよ。{n}以前アナタに邪悪な呪いをかけられ、{n}ヒドい目に遭わされたことをねぇ。{n}今こそが復讐の、千載一遇のチャンス！",
-  "en": ""
+  "en": "I too have remembered everything. How you{n}once laid an evil curse on me, and treated{n}me so terribly. Now is the chance of a{n}lifetime for my revenge!"
  },
  {
   "id": "s0313_01a7c",
@@ -957,7 +957,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "そう言えば思い出したぜ。昔、この{n}世界に放り込まれる以前、テメーには{n}青爪邪核呪詛を施したハズ……だが、{n}どうしてその印がねえんだ？",
-  "en": ""
+  "en": "Come to think of it, that reminds me. Long{n}ago, before I got thrown into this world, I{n}put the Blue Nail Evil Core Curse on you...{n}But how come the mark's gone?"
  },
  {
   "id": "s0313_01b00",
@@ -981,7 +981,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "アレは絶対に解けねえ呪いだってのに{n}……",
-  "en": ""
+  "en": "That curse can't ever be broken..."
  },
  {
   "id": "s0313_01b2c",
@@ -1005,7 +1005,7 @@
    "ダイ"
   ],
   "jp": "ははは――！　服従する必要がなくな{n}った今、高貴なる私の取るべき道は{n}復讐だ！　支配者たる私を青爪などで{n}辱めた罪ィ、その身体で思い知れェェ！",
-  "en": ""
+  "en": "Ha ha ha--! I no longer need to obey, so the{n}path for one as noble as I is revenge! For{n}the crime of shaming a ruler like me with a{n}blue nail, you shall suffer in the flesh!"
  },
  {
   "id": "s0313_01bbc",
@@ -1029,7 +1029,7 @@
    "ダイ"
   ],
   "jp": "はぐう……私が負けるなんて、あり{n}得ないコトですよぉ。これは、夢？",
-  "en": ""
+  "en": "Hagh... For me to lose is simply not possible.{n}Is this a dream?"
  },
  {
   "id": "s0313_01c00",
@@ -1053,7 +1053,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "やい……人が調子悪りい時に、言い{n}たい放題吹いてくれやがったなあ……",
-  "en": ""
+  "en": "Hey... You sure said whatever you felt like{n}while I was feeling lousy..."
  },
  {
   "id": "s0313_01c48",
@@ -1077,7 +1077,7 @@
    "ダイ"
   ],
   "jp": "はああ……わっ、判りましたよ。もう{n}以前のコトは水に流してあげましょう！{n}だからまた呪いをかけるなんて真似は{n}やめるのです！　ね？",
-  "en": ""
+  "en": "Hahh... F-fine, I understand. Let us wash{n}away all that happened before! So you must{n}not lay a curse on me again! All right?"
  },
  {
   "id": "s0313_01ccc",
@@ -1101,7 +1101,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "ね？　じゃねーだろうが！",
-  "en": ""
+  "en": "\"All right?\" my ass!"
  },
  {
   "id": "s0313_01ce8",
@@ -1125,7 +1125,7 @@
    "ダイ"
   ],
   "jp": "ぎゃああっ！　そ、ソコを踏むのも{n}やめなさい！",
-  "en": ""
+  "en": "Gyaaah! A-and do not tread on that spot!"
  },
  {
   "id": "s0313_01d18",
@@ -1149,7 +1149,7 @@
    "ネイ"
   ],
   "jp": "ねえダーシュ、もう許してやって。{n}私が拾った頃から、この子は素直に{n}謝れないタチなのよ。育て損なったの{n}は私にも責任があるわ。だから――",
-  "en": ""
+  "en": "Say, Dahsh, please forgive him. Ever since I{n}took him in, this child has never been able to{n}apologize properly. I share the blame for{n}raising him badly. So--"
  },
  {
   "id": "s0313_01da0",
@@ -1173,7 +1173,7 @@
    "ダイ"
   ],
   "jp": "ネ……ネイ様ぁ",
-  "en": ""
+  "en": "N... Nei-sama..."
  },
  {
   "id": "s0313_01db0",
@@ -1197,7 +1197,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "ち……クソッ、また苦しくなってきや{n}がった。いーだろ、可愛い娘に免じて{n}青爪邪核呪詛だきゃあカンベンして{n}やらあ――",
-  "en": ""
+  "en": "Tch... damn, it's starting to hurt again. Fine.{n}For my sweet little girl's sake, I'll spare you{n}the Blue Nail Evil Core Curse--"
  },
  {
   "id": "s0313_01e24",
@@ -1221,7 +1221,7 @@
    "ネイ"
   ],
   "jp": "ありがとう、ダーシュ！　……ダイ？{n}これからはダーシュに感謝して、心を{n}入れ替えて働くのだ。いいな？",
-  "en": ""
+  "en": "Thank you, Dahsh! ...Di? From now on you will{n}be grateful to Dahsh, mend your ways and{n}work. Understood?"
  },
  {
   "id": "s0313_01e88",
@@ -1245,7 +1245,7 @@
    "ダイ"
   ],
   "jp": "しかたありませんね",
-  "en": ""
+  "en": "I suppose there is no helping it."
  },
  {
   "id": "s0313_01e9c",
@@ -1269,7 +1269,7 @@
    "ネイ"
   ],
   "jp": "ダーシュ、やっぱりやっちゃって",
-  "en": ""
+  "en": "Dahsh, go ahead and do it after all."
  },
  {
   "id": "s0313_01ebc",
@@ -1291,7 +1291,7 @@
    "ダイ"
   ],
   "jp": "あああ、ハイィ！　喜んで、お供を{n}させて戴きますですぅ……",
-  "en": ""
+  "en": "Ahhh, yes! I shall gladly accompany you, of{n}course..."
  },
  {
   "id": "s0313_01ef8",
@@ -1315,7 +1315,7 @@
    "ダイ"
   ],
   "jp": "ダイも、他の仲間の手がかりを得ては{n}いないようだった。どうやらここで{n}グロテスクな館に見惚れっ放しだった{n}らしい。",
-  "en": ""
+  "en": "Di had no lead on the other comrades{n}either. It seemed he had been standing{n}here all this time, enchanted by the{n}grotesque mansion."
  },
  {
   "id": "s0313_01f6c",
@@ -1339,7 +1339,7 @@
    "ネイ"
   ],
   "jp": "ダーシュが苦しんでるぶん、オマエが{n}ちゃんと働くんだぞ。いいわね？",
-  "en": ""
+  "en": "While Dahsh suffers, you will do your share{n}of work. Understood?"
  },
  {
   "id": "s0313_01fb0",
@@ -1363,7 +1363,7 @@
    "ダイ"
   ],
   "jp": "ハイハイ。幾らＤ・Ｓが弱ってても、{n}この青爪の効力がある限り逆らえませ{n}んからねェ。好きなよーに、奴隷の{n}よーにコキ使えばいーじゃないですか",
-  "en": ""
+  "en": "Yes, yes. However weak D.S. may be, I{n}cannot defy him so long as this blue nail{n}holds. Go ahead, work me like a slave, as you{n}please."
  },
  {
   "id": "s0313_0203c",
@@ -1387,7 +1387,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "ホントに、イイんだなぁ？　俺様が{n}考えるドレイのよーに扱って？",
-  "en": ""
+  "en": "You really mean that? Treat you like a{n}slave, the way the great me thinks of{n}one?"
  },
  {
   "id": "s0313_0207c",
@@ -1411,7 +1411,7 @@
    "ダイ"
   ],
   "jp": "……やはり、奴隷というのは言い過ぎ{n}でしたね。我々は仲間！　そう、仲間{n}なのですね！　この私、皆さんのタメ、{n}頑張る所存ですよぉぉ",
-  "en": ""
+  "en": "...On reflection, slave was going too far. We{n}are comrades! Yes, comrades! I, for one,{n}intend to do my very best for you all."
  },
  {
   "id": "s0313_02100",
@@ -1435,7 +1435,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "俺にウソをついても、爪が赤くなるん{n}だよなあ",
-  "en": ""
+  "en": "Lie to me and the nail turns red too,{n}y'know."
  },
  {
   "id": "s0313_02130",
@@ -1459,7 +1459,7 @@
    "ダイ"
   ],
   "jp": "へああっ!?　ウソウソウソウソ{n}ウソォ！",
-  "en": ""
+  "en": "Heahh!? Just kidding just kidding just kidding{n}just kidding!"
  },
  {
   "id": "s0313_02158",
@@ -1483,7 +1483,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "……ワカりやすい奴",
-  "en": ""
+  "en": "...Easy to read."
  },
  {
   "id": "s0313_0216c",
@@ -1507,7 +1507,7 @@
    "ダイ"
   ],
   "jp": "ヒィィ……今こそ反撃のチャンスなの{n}ですが、今度はネイ様が……やっぱり{n}子供よりオトコを取るのでしょーね。{n}児童虐待ですよ……ブツブツ",
-  "en": ""
+  "en": "Eeek... Now would be my chance to strike{n}back, but this time Nei-sama... She chooses{n}her man over her child, I suppose. This is{n}child abuse... mutter mutter."
  },
  {
   "id": "s0313_021f4",
@@ -1531,7 +1531,7 @@
    "ネイ"
   ],
   "jp": "バカでかい図体になって何が児童だ！{n}……しかし、私がダーシュの娘である{n}ように、オマエは私の息子だ。頼りに{n}しているぞ――",
-  "en": ""
+  "en": "What child, with that idiotically huge body!{n}...But just as I am Dahsh's daughter, you are{n}my son. I am counting on you--"
  },
  {
   "id": "s0313_02270",
@@ -1555,7 +1555,7 @@
    "ダイ"
   ],
   "jp": "ハイッ、ネイ様！　でも、そーなると{n}私はＤ・Ｓの孫ってコトになりません？",
-  "en": ""
+  "en": "Yes, Nei-sama! But in that case, would that{n}not make me D.S.'s grandson?"
  },
  {
   "id": "s0313_022bc",
@@ -1579,7 +1579,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "うっ……病状が悪化しそうな事実だぜ",
-  "en": ""
+  "en": "Urk... That fact might make me sicker."
  },
  {
   "id": "s0313_027f8",
@@ -1603,7 +1603,7 @@
    "イングヴェイイングヴェイ・フォン・マルムステ"
   ],
   "jp": "Ｄ・Ｓ！　皆も――！",
-  "en": ""
+  "en": "D.S.! Everyone--!"
  },
  {
   "id": "s0313_02810",
@@ -1627,7 +1627,7 @@
    "ガラ"
   ],
   "jp": "おう、イングヴェイじゃねーか！",
-  "en": ""
+  "en": "Hey, it's Yngwei!"
  },
  {
   "id": "s0313_02830",
@@ -1651,7 +1651,7 @@
    "マカパイン"
   ],
   "jp": "ありがたい！　魔戦将軍の筆頭と{n}ここで巡り会えるとは――",
-  "en": ""
+  "en": "How welcome! To meet the foremost of the{n}Sorcerer Generals here--"
  },
  {
   "id": "s0313_0286c",
@@ -1675,7 +1675,7 @@
    "マカパイン"
   ],
   "jp": "一行はイングヴェイと短く情報を交換{n}した。やはり状況は同じようなもので、{n}虹突入時にはぐれ、この館の近くで{n}意識を取り戻したらしい。",
-  "en": ""
+  "en": "The party briefly exchanged news with{n}Yngwei. His situation was much the same:{n}separated upon entering the rainbow, he{n}had come to near this mansion."
  },
  {
   "id": "s0313_028f0",
@@ -1699,7 +1699,7 @@
    "イングヴェイイングヴェイ・フォン・マルムステ"
   ],
   "jp": "残念ながら他の仲間たちの消息は掴め{n}ていない。洞窟にも館にもいないと{n}すれば、館が塞いでいるその先に{n}跳ばされたと考えるべきだろう――",
-  "en": ""
+  "en": "Sadly, I have no news of the other{n}comrades. If they are in neither the cave{n}nor the mansion, we must assume they were{n}sent beyond what this mansion blocks--"
  },
  {
   "id": "s0313_02978",
@@ -1723,7 +1723,7 @@
    "イングヴェイイングヴェイ・フォン・マルムステ"
   ],
   "jp": "Ｄ・Ｓが変調を来した今、ここにいる{n}我々が力を合わせてこの館を突破{n}しなければならん。カル様の行方も{n}心配だが、今はこちらが先決――",
-  "en": ""
+  "en": "With D.S. unwell, those of us here must join{n}forces to break through this mansion.{n}Kall-sama's whereabouts worry me, but this{n}comes first--"
  },
  {
   "id": "s0313_029fc",
@@ -1747,7 +1747,7 @@
    "マカパイン"
   ],
   "jp": "うむ。あのガインと狼麒には我々魔戦{n}将軍の忠誠を利用されてしまった。{n}今一時、カル様への想いを殺して団結{n}しなければな――",
-  "en": ""
+  "en": "Mm. That Gain and Loki used the loyalty of{n}us Sorcerer Generals. For the moment, we{n}must smother our feelings for Kall-sama and{n}unite--"
  },
  {
   "id": "s0313_02a78",
@@ -1771,7 +1771,7 @@
    "イングヴェイイングヴェイ・フォン・マルムステ"
   ],
   "jp": "マカパイン……貴公、少し変わったか？",
-  "en": ""
+  "en": "Macalpine... Sir, have you changed{n}somewhat?"
  },
  {
   "id": "s0313_02aa0",
@@ -1795,7 +1795,7 @@
    "マカパイン"
   ],
   "jp": "ん？　……そうだな。以前の私なら、{n}魔戦将軍筆頭と呼ばれ、カル様の信頼{n}篤い貴様に対して、反発こそすれ同調{n}することなどなかったが――",
-  "en": ""
+  "en": "Hm? ...Perhaps. The man I was would have{n}only opposed you, called the foremost of{n}the Sorcerer Generals and trusted by{n}Kall-sama, never sided with you--"
  },
  {
   "id": "s0313_02b28",
@@ -1819,7 +1819,7 @@
    "マカパイン"
   ],
   "jp": "学んだ、ということか。つまらぬ意地{n}よりも、もっと重要な張りどころが{n}あるということをな。Ｄ・Ｓと幾度も{n}闘い、ようやくそれが判った……",
-  "en": ""
+  "en": "I have learned, I suppose. That there are{n}things more worth standing firm on than{n}petty pride. I finally understood it after{n}fighting D.S. so many times..."
  },
  {
   "id": "s0313_02bb0",
@@ -1843,7 +1843,7 @@
    "マカパイン"
   ],
   "jp": "らしくないか？　イングヴェイ？",
-  "en": ""
+  "en": "Not like me? Yngwei?"
  },
  {
   "id": "s0313_02bd0",
@@ -1867,7 +1867,7 @@
    "イングヴェイイングヴェイ・フォン・マルムステ"
   ],
   "jp": "いや……我々魔戦将軍が皆そのように{n}考えることができれば、我々はもっと{n}カル様のお役に立てただろう。そして{n}それは、これからでも遅くはない",
-  "en": ""
+  "en": "No... If all of us Sorcerer Generals could{n}think that way, we would have been of more{n}use to Kall-sama. And it is not too late, even{n}now."
  },
  {
   "id": "s0313_02c5c",
@@ -1891,7 +1891,7 @@
    "マカパイン"
   ],
   "jp": "そうだな――",
-  "en": ""
+  "en": "Indeed--"
  },
  {
   "id": "s0313_02c6c",
@@ -1915,7 +1915,7 @@
    "シェン"
   ],
   "jp": "――イングヴェイ、ひとつ訊かせて{n}欲しい。兄者は……いや、ジオンは{n}魔戦将軍だったのか？",
-  "en": ""
+  "en": "--Yngwei, let me ask you one thing. Was my{n}brother... no, was Zion a Sorcerer{n}General?"
  },
  {
   "id": "s0313_02cc4",
@@ -1939,7 +1939,7 @@
    "イングヴェイイングヴェイ・フォン・マルムステ"
   ],
   "jp": "？　ああ、その通りだが。そう言えば、{n}それを思い出したのはこの地に来て{n}からだな。氷獄塔では、ジオンが我々{n}の仲間だと気づかなかった――",
-  "en": ""
+  "en": "? Yes, that is so. Though now that you{n}mention it, I remembered that only after{n}coming to this place. At the Ice Hell Tower I{n}did not realize Zion was one of us--"
  },
  {
   "id": "s0313_02d4c",
@@ -1963,7 +1963,7 @@
    "イングヴェイイングヴェイ・フォン・マルムステ"
   ],
   "jp": "ジオンも、魔戦将軍であることを忘れ{n}ていたのだろうが――他の者が皆、{n}至高王の姿を見た時点で思い出して{n}いたのに……何故だろう？",
-  "en": ""
+  "en": "Zion too must have forgotten he was a{n}Sorcerer General-- though the others all{n}remembered on seeing the High King... I{n}wonder why."
  },
  {
   "id": "s0313_02dcc",
@@ -1987,7 +1987,7 @@
    "シェン"
   ],
   "jp": "忘れていたほうが良い記憶もある……{n}だからだろう",
-  "en": ""
+  "en": "Some memories are better forgotten... That's{n}why, I guess."
  },
  {
   "id": "s0313_02e00",
@@ -2011,7 +2011,7 @@
    "イングヴェイイングヴェイ・フォン・マルムステ"
   ],
   "jp": "シェン？　どうした、恐い貌をして？",
-  "en": ""
+  "en": "Schen? What is the matter? That frightening{n}look?"
  },
  {
   "id": "s0313_02e24",
@@ -2035,7 +2035,7 @@
    "シェン"
   ],
   "jp": "……何でもない。つかぬことを訊いた",
-  "en": ""
+  "en": "...It's nothing. Sorry to ask you such a{n}thing."
  },
  {
   "id": "s0313_02e48",
@@ -2059,7 +2059,7 @@
    "シェン"
   ],
   "jp": "イングヴェイはこの小部屋で癌細胞の{n}番兵と戦い、鍵を入手していた。",
-  "en": ""
+  "en": "In this small room Yngwei had fought a{n}sentry of cancer cells and obtained a{n}key."
  },
  {
   "id": "s0313_02e8c",
@@ -2083,7 +2083,7 @@
    "ガラ"
   ],
   "jp": "この館のどこかで使う鍵だろうな。{n}探して回る手間が省けたぜ",
-  "en": ""
+  "en": "Must be a key for someplace in this mansion.{n}Saves us the trouble of searching around."
  },
  {
   "id": "s0313_03144",
@@ -2109,7 +2109,7 @@
    ""
   ],
   "jp": "館の最奥部と思われる大広間は、その{n}中心部を底なしの広い溝が囲み、外周{n}から切り取られたようになっていた。",
-  "en": ""
+  "en": "The great hall, seemingly the deepest{n}part of the mansion, had a wide{n}bottomless trench around its center,{n}cutting it off from the outer part."
  },
  {
   "id": "s0313_031b0",
@@ -2135,7 +2135,7 @@
    ""
   ],
   "jp": "部屋の中央に、巨大な釜が見える。{page}釜からはぐつぐつと湯気が立ち昇り、{n}時折黒いものが吹きこぼれるように{n}その縁から流れ落ちる。",
-  "en": ""
+  "en": "In the middle of the room they could see{n}a huge cauldron.{page}Steam rose from it in bubbling plumes, and{n}now and then something black boiled over{n}and ran down its rim."
  },
  {
   "id": "s0313_03230",
@@ -2161,7 +2161,7 @@
    ""
   ],
   "jp": "それは、洞窟にはびこる黒肉腫だった。{page}肉腫は蠕動しながら溝へゆっくりと{n}移動し、そのまま次々と落下していく。{n}恐らくは溝の底から洞窟へと通じる{n}排出孔があり、そこから肉腫が外に{n}送り出されているのだろう。",
-  "en": ""
+  "en": "It was the black tumors that infested the{n}cave.{page}The tumors slowly writhed their way to{n}the trench, and fell in, one after another.{n}No doubt at the bottom of the trench{n}was a drain leading to the cave, by which{n}the tumors were sent out."
  },
  {
   "id": "s0313_032fc",
@@ -2187,7 +2187,7 @@
    "ネイ"
   ],
   "jp": "“死”の臭いの塊だ……あれこそが、{n}この館の中枢部であるに違いない",
-  "en": ""
+  "en": "A mass of the smell of \"death\"... That must{n}be the heart of this mansion."
  },
  {
   "id": "s0313_03340",
@@ -2213,7 +2213,7 @@
    "ガラ"
   ],
   "jp": "こっからじゃチョイと渡れそうにねえ{n}な。真ン中の扉から入ってこねえとよ",
-  "en": ""
+  "en": "Doesn't look like we can get across from{n}here. We gotta come in through the middle{n}door."
  },
  {
   "id": "s0313_03520",
@@ -2239,7 +2239,7 @@
    ""
   ],
   "jp": "再び、作動音が響いた。それに続いて、{n}広間の中央の扉が重々しい音を立てて{n}開く。",
-  "en": ""
+  "en": "Again an operating sound rang out.{n}Following it, the door in the center of the{n}hall opened with a heavy sound."
  },
  {
   "id": "s0313_03570",
@@ -2265,7 +2265,7 @@
    "ネイ"
   ],
   "jp": "やはりな……これであの大釜に辿り{n}着ける。頑張って、ダーシュ！",
-  "en": ""
+  "en": "Just as I thought... Now we can reach that{n}great cauldron. Hang in there, Dahsh!"
  },
  {
   "id": "s0313_035b0",
@@ -2291,7 +2291,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "ああ……ぐうぅ……いよいよ肺が{n}限界に近づいてきやがった……",
-  "en": ""
+  "en": "Yeah... ngh... My lungs are getting close to{n}their limit..."
  },
  {
   "id": "s0313_035f0",
@@ -2317,7 +2317,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "宝箱の蓋と連動して、どこかでカチリ{n}と仕掛けが作動した。",
-  "en": ""
+  "en": "Linked to the chest's lid, a device{n}somewhere clicked into action."
  },
  {
   "id": "s0313_0362c",
@@ -2343,7 +2343,7 @@
    "ガラ"
   ],
   "jp": "何か、音がしたぞ？",
-  "en": ""
+  "en": "Hey, I heard something."
  },
  {
   "id": "s0313_03640",
@@ -2369,7 +2369,7 @@
    "ネイ"
   ],
   "jp": "うむ……反対側も調べてみよう",
-  "en": ""
+  "en": "Mm... Let us check the other side as well."
  },
  {
   "id": "s0313_03880",
@@ -2393,7 +2393,7 @@
    ""
   ],
   "jp": "正面に大釜が湯気を噴き上げていた。{n}その蠢く水蒸気が、まるで薄嗤いを{n}浮かべる悪魔の貌のように見える――。",
-  "en": ""
+  "en": "Straight ahead the great cauldron{n}spouted steam. That writhing vapor looked{n}just like the face of a devil, wearing a{n}thin smile--"
  },
  {
   "id": "s0313_038ec",
@@ -2417,7 +2417,7 @@
    ""
   ],
   "jp": "否、それは現実に嗤ったのだ。大釜を{n}抱きかかえるように、胡座をかいた{n}奇怪な悪魔がそこに実体化を始めて{n}いた。腹部に肉腫を生み出す釜を持つ、{n}おぞましい魔神がそこにいたのだった。",
-  "en": ""
+  "en": "No, it really had smiled. Hugging the{n}cauldron, a grotesque devil sat{n}cross-legged, starting to take form. There{n}was the hideous demon god, the cauldron{n}that bore tumors in its belly."
  },
  {
   "id": "s0313_0399c",
@@ -2441,7 +2441,7 @@
    ""
   ],
   "jp": "双眸が不気味に輝き、開いた顎から{n}剛槍の穂先の如き牙が剥き出される。{page}その口から啖った生物を体内に吸収し、{n}黒い肉腫として腹部から生み出す病巣{n}のような魔物――。新たな肉の原料を{n}前にし、魔神は歓喜の吼え声をあげて{n}巨体を震わせた。",
-  "en": ""
+  "en": "Its eyes shone eerily, and its open jaws{n}bared fangs like heads of stout spears.{page}A disease-like monster that absorbed the{n}living things it devoured, and bore them{n}from its belly as black tumors. Before the{n}raw material of new flesh, the demon god{n}shook its huge body with a howl of{n}delight."
  },
  {
   "id": "s0313_03a80",
@@ -2465,7 +2465,7 @@
    "ガラ"
   ],
   "jp": "うっ！　Ｄ・Ｓに続いてオレもハラの{n}具合が……",
-  "en": ""
+  "en": "Urk! My gut's going bad too, after D.S...."
  },
  {
   "id": "s0313_03ab0",
@@ -2489,7 +2489,7 @@
    "ネイ"
   ],
   "jp": "コラ！　ガラ！　アンタがビビって{n}どうするの！　魔神剣出しなさいよ、{n}ホラ！",
-  "en": ""
+  "en": "Hey! Gara! What are you doing getting{n}scared! Get out your Demon Sword, come{n}on!"
  },
  {
   "id": "s0313_03afc",
@@ -2513,7 +2513,7 @@
    "ガラ"
   ],
   "jp": "えーっ、やっぱオレぇ？",
-  "en": ""
+  "en": "Huh? It has to be me?"
  },
  {
   "id": "s0313_03b14",
@@ -2537,7 +2537,7 @@
    "イングヴェイイングヴェイ・フォン・マルムステ"
   ],
   "jp": "しかし、何という化け物なのだ……。{n}Ｄ・Ｓの容態が悪いだけで、我々の{n}士気がこうも低下するとは――",
-  "en": ""
+  "en": "But what a monster this is... With D.S. unwell,{n}how far our spirits have fallen--"
  },
  {
   "id": "s0313_03b78",
@@ -2561,7 +2561,7 @@
    "マカパイン"
   ],
   "jp": "このまま戦ってはまずいかも知れんが{n}……選択できる状況ではないな。{n}奴が来るぞ！",
-  "en": ""
+  "en": "Fighting like this may be unwise... but we{n}have no choice in the matter. Here it{n}comes!"
  },
  {
   "id": "s0313_03bc8",
@@ -2585,7 +2585,7 @@
    "マカパイン"
   ],
   "jp": "その時、背後から一陣の風が{n}飛び込んできた。",
-  "en": ""
+  "en": "Just then, a gust of wind flew in from{n}behind them."
  },
  {
   "id": "s0313_03bf8",
@@ -2609,7 +2609,7 @@
    "ザック"
   ],
   "jp": "メテオ・ドライヴァー!!",
-  "en": ""
+  "en": "Meteor Driver!!"
  },
  {
   "id": "s0313_03c10",
@@ -2633,7 +2633,7 @@
    "ザック"
   ],
   "jp": "闘気を纏って突進するザックの拳が、{n}魔神の下顎を抉った。数本の牙が{n}へし折れ、悪魔は苦悶と怒りの咆哮を{n}轟かせる。",
-  "en": ""
+  "en": "Charging in clad in fighting spirit, Zakk{n}gouged the demon god's lower jaw with{n}his fist. Several fangs snapped off, and{n}the devil roared in agony and rage."
  },
  {
   "id": "s0313_03c84",
@@ -2657,7 +2657,7 @@
    "イングヴェイイングヴェイ・フォン・マルムステ"
   ],
   "jp": "ザック！",
-  "en": ""
+  "en": "Zakk!"
  },
  {
   "id": "s0313_03c90",
@@ -2681,7 +2681,7 @@
    "ザック"
   ],
   "jp": "へへっ！　魔戦将軍の切り込み隊長{n}見参！　イングヴェイ、ムズカしー{n}コト言って策を考えるより、ここ一番{n}の思い切りだぜ！",
-  "en": ""
+  "en": "Heh heh! The Sorcerer Generals' lead{n}attacker has arrived! Yngwei, forget all that{n}complicated strategy stuff, what counts is{n}going all out when it counts!"
  },
  {
   "id": "s0313_03d08",
@@ -2705,7 +2705,7 @@
    "ザック"
   ],
   "jp": "俺たちが死力を尽くせばこんな奴ァ{n}目じゃねえぜ！　一人が一軍に匹敵{n}すると言われた魔戦将軍の力、見せて{n}やろうぜ！",
-  "en": ""
+  "en": "If we give it everything we got, this guy's{n}nothing! They say one Sorcerer General's a{n}match for a whole army. Let's show 'em!"
  },
  {
   "id": "s0313_03d7c",
@@ -2729,7 +2729,7 @@
    "イングヴェイイングヴェイ・フォン・マルムステ"
   ],
   "jp": "その通りだったな……よし！",
-  "en": ""
+  "en": "You are right... Very well!"
  },
  {
   "id": "s0313_03d98",
@@ -2753,7 +2753,7 @@
    "ガラ"
   ],
   "jp": "みんな元気出てきたなっ！　おーし、{n}いくぜいっ！",
-  "en": ""
+  "en": "Everybody's perking up! All right, let's go!"
  },
  {
   "id": "s0313_03dcc",
@@ -2777,7 +2777,7 @@
    "ネイ"
   ],
   "jp": "調子いいんだから……",
-  "en": ""
+  "en": "So full of yourselves..."
  },
  {
   "id": "s0313_03de4",
@@ -2801,7 +2801,7 @@
    "ネイ"
   ],
   "jp": "魔神の動きが止まった。大釜にひびが{n}生じ、それが瞬時に全身に広がると、{n}悪魔は凄まじい絶叫を残して粉々に{n}砕け散った。",
-  "en": ""
+  "en": "The demon god stopped moving. A crack{n}formed in the great cauldron and in an{n}instant spread over its whole body, and{n}with a terrific scream the devil shattered{n}to pieces."
  },
  {
   "id": "s0313_03e5c",
@@ -2825,7 +2825,7 @@
    "ザック"
   ],
   "jp": "やったぜ！",
-  "en": ""
+  "en": "We did it!"
  },
  {
   "id": "s0313_03e68",
@@ -2849,7 +2849,7 @@
    "ザック"
   ],
   "jp": "この魔神が本体であったのか――釜{n}からこぼれた黒い肉腫も、急速に溶け{n}崩れ、消滅を開始した。恐らく洞窟に{n}繁殖したものも、同じ運命を辿って{n}いるのだろう。",
-  "en": ""
+  "en": "Was this demon god the source? The black{n}tumors spilled from the cauldron swiftly{n}began to melt, crumble and vanish. No{n}doubt those growing in the cave were{n}meeting the same fate."
  },
  {
   "id": "s0313_03f00",
@@ -2873,7 +2873,7 @@
    "ザック"
   ],
   "jp": "同時に、館全体が激しく鳴動し始めた。{page}この建物を構成する建材の大部分が{n}魔神から発生した生きた細胞部品で{n}あり、主を失った今、それらは接合{n}する力をなくして崩壊、死滅を始めた{n}のである。",
-  "en": ""
+  "en": "At the same time, the whole mansion{n}began to rumble violently.{page}Most of the materials of this building{n}were living cell parts born of the demon{n}god, and now that they had lost their{n}master they lost the power to hold{n}together, and began to fall apart and{n}die."
  },
  {
   "id": "s0313_03fb8",
@@ -2897,7 +2897,7 @@
    "ガラ"
   ],
   "jp": "ヤベえ！　ここは崩れるぜ！",
-  "en": ""
+  "en": "Oh crap! This place is coming down!"
  },
  {
   "id": "s0313_03fd4",
@@ -2921,7 +2921,7 @@
    "ネイ"
   ],
   "jp": "この先が館の裏口に通じているようだ。{n}急ぐぞ！　ホラ、ガラ！　ちゃんと{n}ダーシュを支えて！",
-  "en": ""
+  "en": "It seems this way leads to the back door of{n}the mansion. Hurry! Come on, Gara! Hold{n}Dahsh up properly!"
  },
  {
   "id": "s0313_04030",
@@ -2945,7 +2945,7 @@
    "ガラ"
   ],
   "jp": "へいへい。ちったあオレも大事に{n}されたいねェ",
-  "en": ""
+  "en": "Yeah, yeah. I wish I got treated nice once in{n}a while."
  },
  {
   "id": "s0313_04060",
@@ -2969,7 +2969,7 @@
    "ネイ"
   ],
   "jp": "ダーシュの次ぐらいにはしてるわよ。{n}さ、早く！",
-  "en": ""
+  "en": "I do treat you nice, right after Dahsh. Come{n}on, quick!"
  },
  {
   "id": "s0313_04090",
@@ -2993,7 +2993,7 @@
    "ガラ"
   ],
   "jp": "え？　ソレって……",
-  "en": ""
+  "en": "Huh? Does that mean..."
  },
  {
   "id": "s0313_040a4",
@@ -3017,7 +3017,7 @@
    "ネイ"
   ],
   "jp": "はーやーくー！",
-  "en": ""
+  "en": "Hur-ry-up!"
  },
  {
   "id": "s0313_040b4",
@@ -3041,7 +3041,7 @@
    "ガラ"
   ],
   "jp": "おうよ！　へへっ、我ながら単純だね",
-  "en": ""
+  "en": "You got it! Heh heh, I'm a simple guy, if I do{n}say so."
  },
  {
   "id": "s0313_040d8",
@@ -3089,6 +3089,6 @@
    "ガラ"
   ],
   "jp": "グズグズしてっとヤベエぜ、Ｄ・Ｓ！",
-  "en": ""
+  "en": "We better not dawdle, D.S.!"
  }
 ]
