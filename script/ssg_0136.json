@@ -21,7 +21,7 @@
    ""
   ],
   "jp": "龍樹へと続くであろう洞窟の入口は、{n}呪力で封印された扉によって堅く閉ざ{n}されていた。錠を外す鍵がない限り、{n}こじ開けることもできそうにない。",
-  "en": ""
+  "en": "The entrance to the cave, which must{n}surely lead to the Dragon Tree, was shut{n}tight by a door sealed with a curse.{n}Without a key to the lock, it looked as if it{n}could not be forced."
  },
  {
   "id": "s0136_00928",
@@ -45,7 +45,7 @@
    ""
   ],
   "jp": "干涸らびた蝙蝠の屍が、見上げた枝に{n}ぶら下がっていた。良く見るとその口{n}に、イヤリングらしき装飾品を咥えて{n}いる。",
-  "en": ""
+  "en": "The withered corpse of a bat hung from a{n}branch overhead. Looking closely, it held{n}in its mouth an ornament that looked like{n}an earring."
  },
  {
   "id": "s0136_0099c",
@@ -69,7 +69,7 @@
    ""
   ],
   "jp": "Ｄ・Ｓの視線が最後の一押しとなった{n}のか、風化した脚が千切れて蝙蝠は{n}落下した。それを受け止め、Ｄ・Ｓは{n}イヤリングを取り外した。",
-  "en": ""
+  "en": "As if D.S.'s gaze were the final push, the{n}weathered leg snapped and the bat fell.{n}D.S. caught it and removed the earring."
  },
  {
   "id": "s0136_00a20",
@@ -93,7 +93,7 @@
    ""
   ],
   "jp": "満月をあしらった、円形の水晶の装飾{n}が金の金具にぶら下がっている。水晶{n}の中は空洞であり、青白く輝く液体で{n}満たされていた。",
-  "en": ""
+  "en": "A round crystal ornament shaped like a{n}full moon hung from a gold fitting. The{n}crystal was hollow, and filled with a pale,{n}glowing liquid."
  },
  {
   "id": "s0136_00b40",
@@ -117,7 +117,7 @@
    "カイ"
   ],
   "jp": "――実はあれから少し記憶が蘇った。{n}俺と同じくこの森に目覚めた仲間の、{n}関わりについてだ……むっ！",
-  "en": ""
+  "en": "--In truth, a little of my memory has come{n}back since then. About how I'm tied to the{n}companions who woke in this forest with{n}me... Hm!"
  },
  {
   "id": "s0136_00ba4",
@@ -141,7 +141,7 @@
    "カイ"
   ],
   "jp": "樹海の小道に足を踏み入れた途端、{n}黒い疾風が襲いかかってきた。カイ{n}同様、湖の異変を察してやってきた{n}黒騎士ランである。",
-  "en": ""
+  "en": "The moment they set foot on the forest{n}path, a black gale struck at them. It was{n}Ran the Black Knight, who like Kai had{n}sensed trouble at the lake."
  },
  {
   "id": "s0136_00c1c",
@@ -165,7 +165,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "黒騎士か。しつっこいな",
-  "en": ""
+  "en": "The Black Knight, huh? You don't give up."
  },
  {
   "id": "s0136_00c34",
@@ -189,7 +189,7 @@
    "ラン"
   ],
   "jp": "そろそろ決着をつけてやるぞ",
-  "en": ""
+  "en": "It's about time I finished this."
  },
  {
   "id": "s0136_00c50",
@@ -213,7 +213,7 @@
    "カイ"
   ],
   "jp": "待て！",
-  "en": ""
+  "en": "Wait!"
  },
  {
   "id": "s0136_00c58",
@@ -237,7 +237,7 @@
    "カイ"
   ],
   "jp": "ランとの間に入るように、シーンと{n}カイがＤ・Ｓたちの前に回り込んだ。",
-  "en": ""
+  "en": "Sean and Kai moved around in front of{n}D.S. and his party, as if to come between{n}them and Ran."
  },
  {
   "id": "s0136_00ca0",
@@ -261,7 +261,7 @@
    "ラン"
   ],
   "jp": "オマエたちか。魔雷妃様への反逆者{n}どもめ――",
-  "en": ""
+  "en": "You two. Traitors to the Demon Thunder{n}Queen-sama--"
  },
  {
   "id": "s0136_00cd0",
@@ -285,7 +285,7 @@
    "カイ"
   ],
   "jp": "目を覚ませ、ラン！　お前は操られて{n}いるのだ！",
-  "en": ""
+  "en": "Wake up, Ran! You're being controlled!"
  },
  {
   "id": "s0136_00d00",
@@ -309,7 +309,7 @@
    "シーン"
   ],
   "jp": "そうよ！　その呪縛を解き放たなけ{n}れば――",
-  "en": ""
+  "en": "That's right! You have to break that{n}spell--"
  },
  {
   "id": "s0136_00d2c",
@@ -333,7 +333,7 @@
    "ラン"
   ],
   "jp": "うるさいっ！",
-  "en": ""
+  "en": "Shut up!"
  },
  {
   "id": "s0136_00d3c",
@@ -357,7 +357,7 @@
    "ラン"
   ],
   "jp": "狂気を宿した目で、ランは会話を拒否{n}するように斬撃を繰り出した。大剣の{n}鈍さを感じさせぬ突風の如き太刀が、{n}矢継ぎ早にカイに襲いかかる。カイも{n}その長剣を見事に振るい、一合、二合{n}と互角に打ち合う。黒騎士の剛剣に{n}全く引けを取らぬ、凄まじいまでの{n}剣技であった。",
-  "en": ""
+  "en": "With madness in his eyes, Ran swung his{n}blade as if to refuse all talk. Strokes like{n}a gust of wind, with none of a{n}greatsword's sluggishness, assailed Kai in{n}quick succession. Kai too swung her{n}longsword superbly, trading blow after{n}blow on even terms. It was a fearsome{n}swordsmanship that yielded nothing to{page}the Black Knight's mighty blade."
  },
  {
   "id": "s0136_00e40",
@@ -381,7 +381,7 @@
    "ラン"
   ],
   "jp": "刃を押し返され、黒騎士が体勢を崩す。{page}だが、それはランの誘いであった。{n}カイが勝敗を決する一撃を放とうと{n}した刹那、打ち合いながらその位置{n}まで移動していたランは、視線をちら{n}とも向けることなく、その腕を蛇の{n}迅さで伸ばしてシーンを掴み、瞬時に{n}楯としてカイの動きを封じていた。",
-  "en": ""
+  "en": "His blade pushed back, the Black Knight{n}lost his balance.{page}But it was Ran's bait. In the instant Kai{n}loosed the decisive blow, Ran, who had{n}moved into that spot as they fought,{n}without so much as a glance, shot out his{n}arm with a snake's speed, grabbed Sean,{n}and in that moment used her as a shield{n}to pin Kai's movements."
  },
  {
   "id": "s0136_00f54",
@@ -405,7 +405,7 @@
    "シーン"
   ],
   "jp": "あっ",
-  "en": ""
+  "en": "Ah!"
  },
  {
   "id": "s0136_00f5c",
@@ -429,7 +429,7 @@
    "カイ"
   ],
   "jp": "くっ……卑怯な！",
-  "en": ""
+  "en": "Ngh... You coward!"
  },
  {
   "id": "s0136_00f70",
@@ -453,7 +453,7 @@
    "ラン"
   ],
   "jp": "魔雷妃様の命であれば、すべての{n}行為は正当なのだ。さあ、全員武器を{n}捨てるがいい！",
-  "en": ""
+  "en": "At the Demon Thunder Queen-sama's{n}command, every act is justified. Now, all of{n}you, throw down your weapons!"
  },
  {
   "id": "s0136_00fc4",
@@ -477,7 +477,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "それでどうするんだ？　代わりに{n}俺たち全員が大人しくテメエに斬られ{n}てやるってのか？　そんな脅しが通る{n}ほど甘かあねーぜ",
-  "en": ""
+  "en": "And then what? We all just stand there{n}quietly while you cut us down in her place?{n}I ain't soft enough to fall for a threat like{n}that."
  },
  {
   "id": "s0136_0103c",
@@ -501,7 +501,7 @@
    "ラン"
   ],
   "jp": "フン。ならばこの女を貴様らの目の{n}前で殺すまで。まずはひとり――",
-  "en": ""
+  "en": "Hmph. Then I'll simply kill this woman before{n}your eyes. First, one--"
  },
  {
   "id": "s0136_01080",
@@ -525,7 +525,7 @@
    "カイ"
   ],
   "jp": "やめろ！　ラン、お前はそんな戦い方{n}を良しとする男ではなかったはずだ！{n}それにシーンは……",
-  "en": ""
+  "en": "Stop! Ran, you were never the kind of man{n}who approved of fighting like that! And{n}besides, Sean..."
  },
  {
   "id": "s0136_010dc",
@@ -549,7 +549,7 @@
    "カイ"
   ],
   "jp": "シーンはお前の血を分けた実の妹{n}なのだぞ！",
-  "en": ""
+  "en": "Sean is your own flesh and blood! Your{n}sister!"
  },
  {
   "id": "s0136_01108",
@@ -573,7 +573,7 @@
    "ラン"
   ],
   "jp": "な……に？",
-  "en": ""
+  "en": "Wh... What?"
  },
  {
   "id": "s0136_01114",
@@ -597,7 +597,7 @@
    "シーン"
   ],
   "jp": "ええっ!?",
-  "en": ""
+  "en": "Whaaat!?"
  },
  {
   "id": "s0136_01120",
@@ -621,7 +621,7 @@
    "カイ"
   ],
   "jp": "シーン自身まだ記憶が戻っていない{n}ようだが、俺は記憶を取り戻した。{n}お前とシーンは兄妹であり、俺たちは{n}“鬼道衆”の仲間であるはず！",
-  "en": ""
+  "en": "Sean doesn't seem to have her memory back{n}yet, but I've regained mine. You and Sean{n}are brother and sister, and we're all{n}comrades of the Kido Corps!"
  },
  {
   "id": "s0136_011a4",
@@ -645,7 +645,7 @@
    "シーン"
   ],
   "jp": "鬼道衆……そうだわ。私たち四人が{n}この森に目覚めたのは偶然じゃない！{n}血よりも深い絆で結ばれた、鬼道衆の{n}仲間であったからこそ――",
-  "en": ""
+  "en": "The Kido Corps... That's right. It's no accident{n}that we four awoke in this forest! It's{n}because we're comrades of the Kido Corps,{n}bound by ties deeper than blood--"
  },
  {
   "id": "s0136_01228",
@@ -669,7 +669,7 @@
    "ラン"
   ],
   "jp": "う……鬼道衆……違う、俺は……魔、{n}魔戦将……ぐ……ん、魔雷妃様に{n}仕える……？　う、ぐおおお――！",
-  "en": ""
+  "en": "Ugh... Kido Corps... No, I... S-Sorcerer Gen...{n}ugh... -eral, serving the Demon Thunder{n}Queen-sama...? Ugh, gwaaagh--!"
  },
  {
   "id": "s0136_0128c",
@@ -693,7 +693,7 @@
    "ラン"
   ],
   "jp": "カイとシーンの言葉が引き金となり、{n}記憶を失ったまま洗脳されたランの{n}脳裏に激しいフラッシュバックが生じ{n}始めていた。精神への拘束と、蘇る{n}記憶との狭間で、半ば惑乱状態に{n}追い込まれたランが絶叫する。",
-  "en": ""
+  "en": "Set off by Kai and Sean's words, violent{n}flashbacks began in the mind of Ran,{n}brainwashed without his memory. Trapped{n}between the bonds on his mind and his{n}returning memory, half driven to delirium,{n}Ran screamed."
  },
  {
   "id": "s0136_01354",
@@ -717,7 +717,7 @@
    "シーン"
   ],
   "jp": "きゃああっ！",
-  "en": ""
+  "en": "Eeeek!"
  },
  {
   "id": "s0136_01364",
@@ -741,7 +741,7 @@
    "シーン"
   ],
   "jp": "人質に取ったシーンを乱暴に突き放し、{n}あたかもこの場から離れれば精神を{n}苛む苦痛から逃れられるとでも言う{n}ように、ランは脱兎の如く森の奥へと{n}走り去る。",
-  "en": ""
+  "en": "Roughly shoving away his hostage Sean,{n}Ran fled like a startled rabbit into the{n}depths of the forest, as if by leaving this{n}place he could escape the pain tearing at{n}his mind."
  },
  {
   "id": "s0136_013fc",
@@ -765,7 +765,7 @@
    "カイ"
   ],
   "jp": "ラン！　戻れ！",
-  "en": ""
+  "en": "Ran! Come back!"
  },
  {
   "id": "s0136_0140c",
@@ -789,7 +789,7 @@
    "シーン"
   ],
   "jp": "ラン……兄さん……",
-  "en": ""
+  "en": "Ran... Brother..."
  },
  {
   "id": "s0136_01420",
@@ -813,7 +813,7 @@
    "シーン"
   ],
   "jp": "黒い鎧が樹影に飲み込まれ、ランの{n}姿は樹海に消えた。彼方から苦悩の{n}雄叫びがこだまし、それもやがて{n}遠ざかっていった。",
-  "en": ""
+  "en": "His black armor swallowed by the shadow{n}of the trees, Ran's figure vanished into{n}the sea of trees. A howl of anguish{n}echoed from the distance, and at last{n}that too faded away."
  },
  {
   "id": "s0136_01498",
@@ -837,7 +837,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "どうやら、オマエらの言葉で洗脳が{n}解け始めてるぜ。だが、まだ施された{n}術のほうが強いようだな",
-  "en": ""
+  "en": "Looks like your words started to break the{n}brainwashing. But the spell on him's still{n}stronger."
  },
  {
   "id": "s0136_014f4",
@@ -861,7 +861,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "あれだけ強力に拘束してるってことは、{n}どこかに洗脳を維持し続けるための{n}念波の発生源があるはずだが……",
-  "en": ""
+  "en": "A hold that strong means there's gotta be a{n}source of mind waves somewhere keeping up{n}the brainwashing..."
  },
  {
   "id": "s0136_0155c",
@@ -885,7 +885,7 @@
    "カイ"
   ],
   "jp": "それを止めなければ、ランを完全に{n}正気に戻すことはできないというわけ{n}か……",
-  "en": ""
+  "en": "So unless we stop it, we can't bring Ran{n}fully back to his senses..."
  },
  {
   "id": "s0136_015a8",
@@ -909,7 +909,7 @@
    "ヴァイ"
   ],
   "jp": "ところでさ、鬼道衆って何なんだ？",
-  "en": ""
+  "en": "By the way, what's this Kido Corps thing?"
  },
  {
   "id": "s0136_015cc",
@@ -933,7 +933,7 @@
    "カイ"
   ],
   "jp": "……うむ。それはこれから語る、{n}俺たちの目的にも関わってくる――",
-  "en": ""
+  "en": "...Well. That's tied to our purpose too, which{n}I'm about to tell you--"
  },
  {
   "id": "s0136_01610",
@@ -957,7 +957,7 @@
    "カイ"
   ],
   "jp": "カイとシーン、そしてランは、かつて{n}戦で故郷を失った戦災孤児であった。{page}鋼と暴力の掟が支配する荒野において、{n}幼く力なき三人を待つ運命は逃れよう{n}のない死である。だが、彼らは救い{n}上げられた。",
-  "en": ""
+  "en": "Kai, Sean and Ran were war orphans who{n}had once lost their homeland to war.{page}In a wasteland ruled by the law of steel{n}and violence, the fate awaiting three{n}small, powerless children was inescapable{n}death. But they were picked up and{n}saved."
  },
  {
   "id": "s0136_016d0",
@@ -981,7 +981,7 @@
    "カイ"
   ],
   "jp": "三人を救った人物は、彼らのような{n}戦災孤児を集めて特殊な訓練を施し、{n}鬼道衆と呼ばれる精鋭部隊を育て上げ{n}ていた。",
-  "en": ""
+  "en": "The person who saved the three gathered{n}war orphans like them, gave them special{n}training and raised an elite force called{n}the Kido Corps."
  },
  {
   "id": "s0136_01744",
@@ -1005,7 +1005,7 @@
    "カイ"
   ],
   "jp": "常人の枠を超える剣技、魔力、あるい{n}は秘術を備えるべく行われる修練は{n}苛烈を極めたが、死の顎から救われた{n}彼らにとっては鬼道衆の一員となる{n}ことが唯一の生きる術であり、望み{n}でもあった。三人はいつしか孤児たち{n}の中でも最も優れた戦闘能力を持つ、{n}精鋭中の精鋭に成長していった。",
-  "en": ""
+  "en": "Their training, meant to give them{n}swordsmanship, magic power or secret{n}arts beyond the reach of common men,{n}was harsh in the extreme. Yet for those{n}saved from the jaws of death, joining the{n}Kido Corps was the only way to live, and{n}their one hope. In time the three grew{n}into the elite of the elite, the finest{page}fighters among the orphans."
  },
  {
   "id": "s0136_01854",
@@ -1029,7 +1029,7 @@
    "カイ"
   ],
   "jp": "鬼道衆を束ねる人物は、厳しい支配者{n}であると同時に孤児たち全ての親でも{n}あった。鬼道衆に連なることは彼らの{n}誇りであり、その忠誠と団結は肉親の{n}絆よりも深いものとなっていた。",
-  "en": ""
+  "en": "The leader of the Kido Corps was a stern{n}ruler, and at once a parent to all the{n}orphans. To belong to the Kido Corps was{n}their pride, and their loyalty and unity{n}ran deeper than ties of blood."
  },
  {
   "id": "s0136_01900",
@@ -1053,7 +1053,7 @@
    "カイ"
   ],
   "jp": "――俺たちにとってそのお方は、{n}親代わりと言うよりもカリスマに近い。{n}それ故にこれまでは考えもよらなかっ{n}たのだが……",
-  "en": ""
+  "en": "--To us, that person was less a substitute{n}parent than a figure of charisma. So until{n}now, I never once thought..."
  },
  {
   "id": "s0136_01978",
@@ -1077,7 +1077,7 @@
    "カイ"
   ],
   "jp": "俺の記憶に少しだけ蘇ったそのお方の{n}面影は――魔雷妃に似ているのだ。{n}だが！　俺たち鬼道衆の仕える主は、{n}断じてあのような邪悪ではない！",
-  "en": ""
+  "en": "The image of that person that has come{n}back to my memory, just a little-- resembles{n}the Demon Thunder Queen. But! The lord we{n}of the Kido Corps serve is no such evil{page}being, I swear it!"
  },
  {
   "id": "s0136_01a00",
@@ -1101,7 +1101,7 @@
    "シーン"
   ],
   "jp": "カイ……",
-  "en": ""
+  "en": "Kai..."
  },
  {
   "id": "s0136_01a0c",
@@ -1125,7 +1125,7 @@
    "カイ"
   ],
   "jp": "ランがあそこまで盲従しているのも、{n}もしかしたら魔雷妃が本当に主だから{n}なのかも知れない。そうであれば、{n}俺たちはまさしく反逆者となる――",
-  "en": ""
+  "en": "Maybe Ran's blind obedience is because the{n}Demon Thunder Queen truly is our lord. If{n}so, then we are rebels indeed--"
  },
  {
   "id": "s0136_01a98",
@@ -1149,7 +1149,7 @@
    "カイ"
   ],
   "jp": "だからこそ、確かめたいのだ！　俺の{n}記憶にあるあの方の姿が真実なのか、{n}それとも魔雷妃が本来の主なのかを！{n}それが、俺が樹棺城を目指す理由だ",
-  "en": ""
+  "en": "That's exactly why I want to confirm it! Is{n}that person in my memory real, or is the{n}Demon Thunder Queen the true lord! That's{n}why I'm heading for the Tree-Coffin{page}Castle."
  },
  {
   "id": "s0136_01b24",
@@ -1173,7 +1173,7 @@
    "シーン"
   ],
   "jp": "わたしも同じ……カイほど記憶が{n}戻ってはいないけれど、多分カイの{n}言うことは正しいと思う。樹棺城で、{n}それが確かめられるなら――",
-  "en": ""
+  "en": "Same for me... My memory hasn't come back{n}as much as Kai's, but I think she's probably{n}right. If we can confirm it at the{n}Tree-Coffin Castle--"
  },
  {
   "id": "s0136_01ba4",
@@ -1197,7 +1197,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "判った。一緒に樹棺城を目指すと{n}しようぜ",
-  "en": ""
+  "en": "All right. Let's head for the Tree-Coffin{n}Castle together."
  },
  {
   "id": "s0136_01bd0",
@@ -1221,7 +1221,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "情報を整理した一行は、ランの精神を{n}支配する催眠念波は、ヴァイの精神に{n}変調を来す馬頭石像の森が源ではない{n}かとの結論に達した。また、水妖の湖{n}が堰き止められた影響により、シーン{n}が城を目撃したもうひとつの湖の水位{n}に変化が生じた可能性もあった。",
-  "en": ""
+  "en": "After sorting through what they knew,{n}the party concluded that the hypnotic{n}mind waves ruling Ran might come from{n}the forest of horse-headed statues,{n}which unsettled Vai's mind. Also, the{n}damming of the water spirits' lake might{n}have changed the water level of the{n}other lake, where Sean had seen the{page}castle."
  },
  {
   "id": "s0136_01cc4",
@@ -1245,7 +1245,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "湖か馬頭の森か……どっちに向かった{n}もんかな",
-  "en": ""
+  "en": "The lake or the horse-head forest... Which{n}way should we go?"
  },
  {
   "id": "s0136_02208",
@@ -1269,7 +1269,7 @@
    "シーン"
   ],
   "jp": "やっぱり、ダイのことが気になるわ。{n}湖のほうを先に調べましょうよ",
-  "en": ""
+  "en": "I'm worried about Di after all. Let's look into{n}the lake first."
  },
  {
   "id": "s0136_0224c",
@@ -1293,7 +1293,7 @@
    "ラン"
   ],
   "jp": "先に湖底の城を調べ尽くすべきだろう。{n}シーンをさらったという妖魔とやらが{n}気になる……",
-  "en": ""
+  "en": "We should search the castle at the bottom{n}of the lake thoroughly first. This demon who{n}took Sean bothers me..."
  },
  {
   "id": "s0136_022a4",
@@ -1317,6 +1317,6 @@
    "ラン"
   ],
   "jp": "龍樹へと続くであろう森の小径は、{n}呪力で封印された扉によって堅く閉ざ{n}されていた。錠を外す鍵がない限り、{n}こじ開けることもできそうにない。",
-  "en": ""
+  "en": "The forest path that must surely lead to{n}the Dragon Tree was shut tight by a door{n}sealed with a curse. Without a key to the{n}lock, it looked as if it could not be{n}forced."
  }
 ]

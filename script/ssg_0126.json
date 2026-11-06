@@ -21,7 +21,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "う、うおお……",
-  "en": ""
+  "en": "Wh-Whoa..."
  },
  {
   "id": "s0126_00828",
@@ -45,7 +45,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "解放された門を抜けて目に入ったのは、{n}天高く聳える巨大な緑の塊であった。{page}樹海の中央に位置するそれは、あまり{n}に並外れた大きさであるが故に、初め{n}は森が山となって隆起しているとしか{n}見えなかった。",
-  "en": ""
+  "en": "Passing through the open gate, they saw{n}a giant green mass towering high into the{n}sky.{page}It stood at the center of the sea of{n}trees, and so far beyond normal was its{n}size that at first it looked simply like the{n}forest rising up into a mountain."
  },
  {
   "id": "s0126_008ec",
@@ -69,7 +69,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "それは、木であった。たった一本で{n}ありながら、森全体を包み込むほどの{n}太さの幹を持つ巨木――それが樹海の{n}臍に当たる位置から、緑の奔流と{n}なって空に伸びているのである。",
-  "en": ""
+  "en": "It was a tree. A single giant tree, its{n}trunk so thick it could wrap the entire{n}forest. From the very navel of the sea of{n}trees it stretched into the sky, a torrent{n}of green."
  },
  {
   "id": "s0126_00994",
@@ -93,7 +93,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "疑うことなく、その巨木こそが龍樹で{n}あった。",
-  "en": ""
+  "en": "Without a doubt, this giant tree was the{n}Dragon Tree."
  },
  {
   "id": "s0126_009c4",
@@ -117,7 +117,7 @@
    "ヴァイ"
   ],
   "jp": "で、でけえ……あれが木かよ……",
-  "en": ""
+  "en": "Th-That's huge... That's a tree...?"
  },
  {
   "id": "s0126_009e4",
@@ -141,7 +141,7 @@
    "シェラ"
   ],
   "jp": "あそこに龍が囚われているのか……",
-  "en": ""
+  "en": "So the dragon is imprisoned there..."
  },
  {
   "id": "s0126_00a08",
@@ -165,7 +165,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "あそこに、シェラの歌ってた龍が{n}囚われてやがるのか……それにしても、{n}常軌を逸したスケールだぜ",
-  "en": ""
+  "en": "So that's where the dragon Shella sang{n}about is imprisoned... Still, that's a crazy{n}scale."
  },
  {
   "id": "s0126_00a68",
@@ -189,7 +189,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "あの龍樹にも行かなきゃならねえが、{n}この辺りからは辿り着けそうにねえな",
-  "en": ""
+  "en": "We've gotta go to that Dragon Tree too, but{n}it doesn't look like we can get there from{n}around here."
  },
  {
   "id": "s0126_00bc4",
@@ -216,7 +216,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "門には樫の根がびっしりと絡みつき、{n}扉を厳重に封印している。",
-  "en": ""
+  "en": "Oak roots clung thickly around the gate,{n}sealing its doors tight."
  },
  {
   "id": "s0126_00c04",
@@ -240,7 +240,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "また樫かよ。この根を何とかできねえ{n}とここは通れそうにねえ",
-  "en": ""
+  "en": "Oak again. Doesn't look like we can get{n}through here unless we deal with these{n}roots."
  },
  {
   "id": "s0126_00c40",
@@ -264,7 +264,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "宿り木の短刀を近づけると、樫の根は{n}怯えたように震え、いとも簡単に{n}千切れて門を解放した。",
-  "en": ""
+  "en": "When he brought the mistletoe dagger{n}close, the oak roots trembled as if afraid,{n}snapped apart with ease and released the{n}gate."
  },
  {
   "id": "s0126_00d74",
@@ -288,7 +288,7 @@
    ""
   ],
   "jp": "誰だ！　貴様ら!?",
-  "en": ""
+  "en": "Who's there! Who are you people!?"
  },
  {
   "id": "s0126_00d88",
@@ -312,7 +312,7 @@
    ""
   ],
   "jp": "Ｄ・Ｓたちの気配に振り返ったのは、{n}勇ましい出で立ちの女剣士であった。{page}両手で扱わなければならぬほど長大な{n}剣を腰に佩き、即座に抜刀の構えを{n}取った身のこなしを見れば、女らしく{n}丸みを帯びたプロポーションからは{n}想像もつかぬ、鍛え上げられた戦士の{n}肉体を有していることが窺い知れる。",
-  "en": ""
+  "en": "The one who turned toward the presence{n}of D.S. and his party was a bold-looking{n}woman swordsman.{page}She wore at her hip a sword so long it{n}had to be wielded in both hands, and from{n}how she readied herself to draw, one{n}could tell she had a warrior's hardened{n}body, far beyond what her soft, feminine{n}curves suggested."
  },
  {
   "id": "s0126_00ea0",
@@ -336,7 +336,7 @@
    ""
   ],
   "jp": "女らしく着飾れば、求愛する男が引き{n}も切らぬほどに美しい娘になるだろう。{page}だが、山猫を思わせるその瞳には、{n}決して飼い慣らせぬ気高さと、男を{n}寄せ付けぬ野生の獰猛さが強い輝きと{n}なって現れていた。",
-  "en": ""
+  "en": "Dressed up like a lady, she would surely{n}have made so beautiful a girl that suitors{n}would never cease to come.{page}But in those eyes, so like a wildcat's,{n}shone a proud spirit that could never be{n}tamed, and a wild ferocity that let no{n}man near."
  },
  {
   "id": "s0126_00f64",
@@ -360,7 +360,7 @@
    "カイ"
   ],
   "jp": "魔雷妃の手の者か？　無勢といえども{n}このカイ・ハーン、決して退かぬ！{n}命の惜しくない者からかかってくるが{n}いい！",
-  "en": ""
+  "en": "Are you the Demon Thunder Queen's people?{n}Outnumbered or not, I, Kai Harn, will never{n}back down! Whoever doesn't value his life,{n}come at me!"
  },
  {
   "id": "s0126_00fd4",
@@ -384,7 +384,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "待て待て。その魔雷妃ってのは誰の{n}コトだ？　俺たちは超絶美形Ｄ・Ｓ様{n}と、その他どーでもいい下僕たちだ。{n}誰の手の者でもねーぜ",
-  "en": ""
+  "en": "Whoa, whoa. Who's this Demon Thunder{n}Queen? We're the super-gorgeous D.S.-sama,{n}and his other worthless servants. We ain't{n}nobody's people."
  },
  {
   "id": "s0126_01054",
@@ -408,7 +408,7 @@
    "ヴァイ"
   ],
   "jp": "どーでもいいたあ何だ！　大体いつ{n}俺たちが下僕になったよ！　おい、{n}聞いてんのかよ！",
-  "en": ""
+  "en": "What do you mean worthless! And since{n}when are we your servants! Hey, are you{n}listening!"
  },
  {
   "id": "s0126_010a8",
@@ -432,7 +432,7 @@
    "カイ"
   ],
   "jp": "……どうやら本当のようだな。で、{n}その超絶美形とやらはドコにいるのだ？",
-  "en": ""
+  "en": "...You appear to be telling the truth. So{n}where is this super-gorgeous person?"
  },
  {
   "id": "s0126_010f0",
@@ -456,7 +456,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "……やい女、オメエの目は節穴か？{n}それともオトコを見る目がネエのか？{n}この俺様の他に、この世に超絶美形と{n}称される男が存在するワケねーだろ！",
-  "en": ""
+  "en": "...Hey, woman, are your eyes just holes in{n}your head? Or do you have no eye for men?{n}There's no man in this world who could be{n}called super-gorgeous besides the great{page}me!"
  },
  {
   "id": "s0126_0117c",
@@ -480,7 +480,7 @@
    "カイ"
   ],
   "jp": "オマエが？　バカじゃなかろか",
-  "en": ""
+  "en": "You? What are you, stupid?"
  },
  {
   "id": "s0126_0119c",
@@ -504,7 +504,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "こ……このアマぁ",
-  "en": ""
+  "en": "Wh... Why you little bitch."
  },
  {
   "id": "s0126_011b0",
@@ -528,7 +528,7 @@
    "ヴァイ"
   ],
   "jp": "いーぞ。もっと言ってやれ",
-  "en": ""
+  "en": "Yeah. Give him more of that."
  },
  {
   "id": "s0126_011cc",
@@ -552,7 +552,7 @@
    "ヨルグ"
   ],
   "jp": "――それで、魔雷妃と言うのは？",
-  "en": ""
+  "en": "--So who is the Demon Thunder Queen?"
  },
  {
   "id": "s0126_011ec",
@@ -576,7 +576,7 @@
    "カイ"
   ],
   "jp": "あの魔女を知らずに、良くもこの森を{n}歩き回れたものだな。樹海に潜む{n}魔性の類は、ほとんどが魔雷妃の{n}手下であると言うのに――",
-  "en": ""
+  "en": "How did you manage to walk around this{n}forest without knowing that witch? Nearly{n}every demon lurking in this sea of trees is{n}one of the Demon Thunder Queen's{page}minions--"
  },
  {
   "id": "s0126_01268",
@@ -600,7 +600,7 @@
    "カイ"
   ],
   "jp": "魔雷妃は、森の北に聳える樹棺城に{n}棲む残忍な魔女だ。幻術を用い、雷を{n}操り、恐怖でこの森を支配している{n}ダークエルフのハーフさ",
-  "en": ""
+  "en": "The Demon Thunder Queen is a cruel witch{n}who lives in the Tree-Coffin Castle, towering{n}at the forest's north. She's a half dark elf{n}who rules this forest through fear, using{page}illusions and controlling lightning."
  },
  {
   "id": "s0126_012e8",
@@ -624,7 +624,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "その女なら会ったぜ。肩にデカイ鴉{n}を乗せた奴だろ？　王鴉とか名乗る{n}化け物に変身しやがったが、チョイと{n}ヒネってやったら城に逃げちまったぜ",
-  "en": ""
+  "en": "I've met that woman. Had a big raven on her{n}shoulder, right? She turned into a monster{n}that called itself King Raven, but I gave it a{n}little twist and it ran off to its castle."
  },
  {
   "id": "s0126_01374",
@@ -648,7 +648,7 @@
    "カイ"
   ],
   "jp": "あの、三妖魅の一角をか!?　オマエ{n}たちは一体――",
-  "en": ""
+  "en": "One of the Three Fiends!? Who in the world{n}are you people--"
  },
  {
   "id": "s0126_013a8",
@@ -672,7 +672,7 @@
    "カイ"
   ],
   "jp": "カイの話によれば、魔雷妃は三体の{n}異なる幻体を用いて森を監視している{n}らしい。そのそれぞれには王鴉を始め{n}とした妖魔の類が憑き、事があれば{n}冷酷無情に敵対者を処断すると言う。",
-  "en": ""
+  "en": "According to Kai, the Demon Thunder{n}Queen watched over the forest using{n}three different phantom bodies. Each was{n}inhabited by King Raven or a similar{n}demon, which would coldly and mercilessly{n}dispose of any foe if the need arose."
  },
  {
   "id": "s0126_01454",
@@ -696,7 +696,7 @@
    "カイ"
   ],
   "jp": "カイ自身はやはり記憶を失ったままで、{n}三人の仲間とともにこの地に目覚めた。{page}その直後に魔雷妃の使いが幾度か現れ、{n}配下に下れとの誘いを受けたが、カイ{n}ともうひとりの仲間は本能的にこれを{n}拒んだ。魔雷妃の背景に、従い得ぬ{n}邪悪の匂いを感じ取ったからだ。",
-  "en": ""
+  "en": "Kai herself remained without her memory,{n}and had awoken in this land with three{n}companions.{page}Soon after, the Demon Thunder Queen's{n}messengers appeared several times,{n}urging them to serve her, but Kai and one{n}other instinctively refused. For they{n}sensed in the queen's background the{n}smell of an evil they could not follow."
  },
  {
   "id": "s0126_0154c",
@@ -720,7 +720,7 @@
    "カイ"
   ],
   "jp": "しかし、残るふたりはカイたちの制止{n}も聞かず、魅入られたように樹海の奥{n}へと消えていった。拒絶したカイたち{n}は反逆者として魔雷妃の幻体と配下の{n}魔物に追撃され、森を逃げ惑いながら{n}も何とか九死に一生を得た。そして{n}ここに態勢を立て直し、反攻の機を{n}窺っていたのだった。",
-  "en": ""
+  "en": "But the other two, ignoring Kai's attempts{n}to stop them, disappeared into the depths{n}of the forest as if bewitched. Those who{n}refused were hunted as rebels by the{n}Demon Thunder Queen's phantom bodies{n}and monster servants, and fled about the{n}forest, barely escaping with their lives.{n}Here they had regrouped, waiting for a{page}chance to strike back."
  },
  {
   "id": "s0126_01654",
@@ -744,7 +744,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "その、魔雷妃の軍門に下った奴って{n}のは、ランって野郎じゃねえのか？",
-  "en": ""
+  "en": "This one who joined up with the Demon{n}Thunder Queen, is it a guy named Ran?"
  },
  {
   "id": "s0126_01698",
@@ -768,7 +768,7 @@
    "カイ"
   ],
   "jp": "！　ランに会ったのか!?",
-  "en": ""
+  "en": "! You've met Ran!?"
  },
  {
   "id": "s0126_016b0",
@@ -792,7 +792,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "黒騎士とか名乗って、何度か襲いかか{n}ってきやがった。何かに操られてる{n}みてえだったな。目つきが尋常じゃ{n}なかったし――",
-  "en": ""
+  "en": "Calls himself the Black Knight. Jumped us a{n}few times, damn him. Looked like something{n}had hold of him. His eyes weren't normal,{n}either--"
  },
  {
   "id": "s0126_01728",
@@ -816,7 +816,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "反逆者――たぶんオメエのコトだろう{n}が、それも狩り出す役目を負ってる{n}らしいぜ",
-  "en": ""
+  "en": "Looks like he's got the job of hunting down{n}a rebel, too. Most likely that means you."
  },
  {
   "id": "s0126_01778",
@@ -840,7 +840,7 @@
    "カイ"
   ],
   "jp": "ランが……。そうか",
-  "en": ""
+  "en": "Ran has... I see."
  },
  {
   "id": "s0126_0178c",
@@ -864,7 +864,7 @@
    "ヴァイ"
   ],
   "jp": "それで、アンタのもうひとりの仲間{n}ってのは？",
-  "en": ""
+  "en": "So who's your other companion?"
  },
  {
   "id": "s0126_017bc",
@@ -888,7 +888,7 @@
    "カイ"
   ],
   "jp": "あるものを探しに出ている。ここで{n}落ち合うことになっているのだが……{n}幾ら何でも遅いな――",
-  "en": ""
+  "en": "Off searching for something. We were{n}supposed to meet here... But this is too{n}long--"
  },
  {
   "id": "s0126_01818",
@@ -912,7 +912,7 @@
    "カイ"
   ],
   "jp": "その時、一羽の白い鳩が森の彼方から{n}飛来した。酷く傷ついており、脚には{n}短刀のようなものを掴んでいる。鳩は{n}カイの腕に舞い降りると、ほころびた{n}かに弾けてぼろぼろの紙片に変じた。{page}式神と呼ばれる、魔力を封じた呪符を{n}使い魔として使役したものであった。",
-  "en": ""
+  "en": "Just then, a single white dove flew in{n}from the far side of the forest. It was{n}badly wounded, and clutched something{n}like a dagger in its feet. The dove alighted{n}on Kai's arm, burst as if splitting apart,{n}and turned into a tattered scrap of{n}paper.{page}It was what they called a shikigami, a{n}spell charm sealed with magic and{n}employed as a familiar."
  },
  {
   "id": "s0126_01910",
@@ -936,7 +936,7 @@
    "カイ"
   ],
   "jp": "これはシーンの……何!?",
-  "en": ""
+  "en": "This is Sean's... What!?"
  },
  {
   "id": "s0126_01928",
@@ -960,7 +960,7 @@
    "カイ"
   ],
   "jp": "紙片に記された文に視線を走らせた{n}カイの顔色が変わった。",
-  "en": ""
+  "en": "As Kai's gaze ran over the writing on the{n}scrap of paper, her color changed."
  },
  {
   "id": "s0126_01964",
@@ -984,7 +984,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "どうした？",
-  "en": ""
+  "en": "What's up?"
  },
  {
   "id": "s0126_01970",
@@ -1008,7 +1008,7 @@
    "カイ"
   ],
   "jp": "……シーンが――仲間が魔雷妃の{n}手の者に捕らえられたようだ。そこの{n}森を越えた場所にある湖に連れ去られ、{n}魔性の生け贄に捧げられるらしい――",
-  "en": ""
+  "en": "...Sean-- It seems my companion's been{n}captured by the Demon Thunder Queen's{n}people. Taken to a lake past that forest{n}there, to be offered as a sacrifice to a{page}demon--"
  },
  {
   "id": "s0126_019fc",
@@ -1032,7 +1032,7 @@
    "カイ"
   ],
   "jp": "わずかに沈思黙考し、やがて意を{n}決したようにカイは顔を上げた。",
-  "en": ""
+  "en": "Kai sat in silent thought for a moment,{n}then raised her head as if she had made{n}up her mind."
  },
  {
   "id": "s0126_01a3c",
@@ -1056,7 +1056,7 @@
    "カイ"
   ],
   "jp": "本来なら出会ったばかりの、男の手{n}など借りようとは思わぬのだが……{n}頼む！　どうかシーンを救い出しては{n}くれまいか？",
-  "en": ""
+  "en": "I'd never normally borrow the help of men I{n}just met... But please! Won't you save Sean{n}for me?"
  },
  {
   "id": "s0126_01ab0",
@@ -1080,7 +1080,7 @@
    "カイ"
   ],
   "jp": "湖上の島に囚われたシーンを救出する{n}には、湖に棲む水妖の助けを借りねば{n}ならん。だが、奴らは女の俺とは{n}口を利こうともしないのだ――",
-  "en": ""
+  "en": "To save Sean, held on an island in the lake,{n}you need the help of the water spirits living{n}there. But they won't even speak to me,{n}because I'm a woman--"
  },
  {
   "id": "s0126_01b34",
@@ -1104,7 +1104,7 @@
    "ヴァイ"
   ],
   "jp": "だけどよ、湖のある森ってのは、{n}そこの樫の根が縛ってる門の先にある{n}んだろ？　俺たちも樫の根を何とか{n}してえんだが、どうにも――",
-  "en": ""
+  "en": "But the forest with the lake's beyond that{n}gate tied up with oak roots, right? We{n}wanna do something about those oak roots{n}too, but we just can't--"
  },
  {
   "id": "s0126_01bb4",
@@ -1128,7 +1128,7 @@
    "カイ"
   ],
   "jp": "しかも、その湖がある森へと続く道は、{n}樫の根によって縛られた扉に塞がれて{n}いる。だが、これには――",
-  "en": ""
+  "en": "On top of that, the road to the forest with{n}the lake is blocked by a door bound with oak{n}roots. But for this--"
  },
  {
   "id": "s0126_01c18",
@@ -1152,7 +1152,7 @@
    "カイ"
   ],
   "jp": "このヤドリギで作った短刀がある。{n}宿り木に寄生されるのを畏れて、樫の{n}根にかけられた呪力は霧散するハズだ",
-  "en": ""
+  "en": "I have this dagger made of mistletoe.{n}Fearing to be fed on by mistletoe, the curse{n}on the oak roots should scatter."
  },
  {
   "id": "s0126_01c80",
@@ -1176,7 +1176,7 @@
    "カイ"
   ],
   "jp": "シーンはあの根の結界を破るために{n}宿り木を探していたのだが、それが{n}このような形で役立とうとは……",
-  "en": ""
+  "en": "Sean was searching for mistletoe to break{n}that barrier of roots, and now it's come to{n}be of use like this..."
  },
  {
   "id": "s0126_01ce4",
@@ -1200,7 +1200,7 @@
    "カイ"
   ],
   "jp": "木を削って作られた刃は、通常の切断{n}能力はないように思えた。しかし、{n}ドルイド僧に神聖視される宿り木の{n}持つ力は、樫の根を断つ魔力の刃と{n}なって木製の短刀に不思議な輝きを{n}与えていた。",
-  "en": ""
+  "en": "The blade, carved from wood, seemed to{n}have no ordinary power to cut. Yet the{n}power of mistletoe, held sacred by druids,{n}became a magic blade to sever oak roots,{n}lending the wooden dagger a strange{n}glow."
  },
  {
   "id": "s0126_01d9c",
@@ -1224,7 +1224,7 @@
    "シェラ"
   ],
   "jp": "素晴らしい宿り木だ。これならあの{n}樫の呪力も間違いなく打ち破れる",
-  "en": ""
+  "en": "What wonderful mistletoe. This will surely{n}break the curse of that oak."
  },
  {
   "id": "s0126_01de0",
@@ -1248,7 +1248,7 @@
    "シェラ"
   ],
   "jp": "素晴らしい宿り木だ。これなら樫を{n}媒体とする呪力は間違いなく打ち{n}破れるだろう",
-  "en": ""
+  "en": "What wonderful mistletoe. This would surely{n}break a curse working through oak."
  },
  {
   "id": "s0126_01e30",
@@ -1272,7 +1272,7 @@
    "ジオン"
   ],
   "jp": "――ならば、その短刀でシェンを、{n}あの樫の牢獄から助けることもできる{n}のだな!?　だったらシェンのほうが{n}先だ！　アイツを助けてやってくれ！",
-  "en": ""
+  "en": "--Then that dagger can save Schen from{n}that oak prison!? In that case, Schen comes{n}first! Please save him!"
  },
  {
   "id": "s0126_01ebc",
@@ -1294,7 +1294,7 @@
    "ジオン"
   ],
   "jp": "どなたを先に救出しますか？",
-  "en": ""
+  "en": "Who should be saved first?"
  },
  {
   "id": "s0126_01ed8",
@@ -1318,7 +1318,7 @@
    "ジオン"
   ],
   "jp": "カイの仲間",
-  "en": ""
+  "en": "Kai's companion"
  },
  {
   "id": "s0126_01ee4",
@@ -1366,7 +1366,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "短刀だけ受け取って、この女の仲間{n}を助けねえワケにゃいかねえだろう。{n}生け贄にもされそうだって言うし、{n}先に湖の化け物を片づけちまおう",
-  "en": ""
+  "en": "I can't take the dagger and not save this{n}woman's friend. They're talking about a{n}sacrifice, too. Let's take out the lake{n}monster first."
  },
  {
   "id": "s0126_01f74",
@@ -1390,7 +1390,7 @@
    "ジオン"
   ],
   "jp": "し、しかしシェンが……ええい、{n}もう頼まん！　俺がひとりでシェンを{n}助けてやるんだ！",
-  "en": ""
+  "en": "B-But Schen... Curse it, I ask no more! I will{n}save Schen by myself!"
  },
  {
   "id": "s0126_01fc8",
@@ -1414,7 +1414,7 @@
    "ジオン"
   ],
   "jp": "叫ぶや否や、ジオンは目にも止まらぬ{n}迅さで宿り木の短刀を奪い取り、{n}止める間もなく樫の牢獄に向かって{n}走り去っていった。",
-  "en": ""
+  "en": "As soon as he shouted, Zion snatched the{n}mistletoe dagger at blinding speed, and{n}before they could stop him he ran off{n}toward the oak prison."
  },
  {
   "id": "s0126_02040",
@@ -1438,7 +1438,7 @@
    "カイ"
   ],
   "jp": "何ということだ――",
-  "en": ""
+  "en": "For crying out loud--"
  },
  {
   "id": "s0126_02054",
@@ -1462,7 +1462,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "仕方ねえな。俺たちはジオンを追う！{n}その後で水妖の湖に助けに向かうぜ",
-  "en": ""
+  "en": "Can't be helped. We'll chase Zion! After that,{n}we'll go to the water spirits' lake to help."
  },
  {
   "id": "s0126_0209c",
@@ -1486,7 +1486,7 @@
    "カイ"
   ],
   "jp": "よろしく頼む。俺は何か他の方法を{n}探してみる。別の宿り木が見つかれば{n}いいのだが――",
-  "en": ""
+  "en": "Do that for me. I'll look for some other way.{n}If only I could find other mistletoe--"
  },
  {
   "id": "s0126_020f0",
@@ -1561,7 +1561,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "実は俺たちの仲間も樫の牢屋にとっ{n}捕まっちまってる。あの王鴉とやらが{n}言うには、そいつも長くは放って{n}おけねえらしい",
-  "en": ""
+  "en": "The truth is, a comrade of ours got caught{n}in an oak prison too. According to that King{n}Raven guy, we can't leave him there long."
  },
  {
   "id": "s0126_02174",
@@ -1585,7 +1585,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "シェンが捕まってからずいぶん経っち{n}まった。済まねえが、そっちを先に{n}片づけさせてもらいてえ。弟のことで、{n}そこのジオンは気が気じゃねえんだ",
-  "en": ""
+  "en": "It's been a long while since Schen got{n}caught. Sorry, but I want to take care of{n}that first. Zion over there's beside himself{n}about his little brother."
  },
  {
   "id": "s0126_02200",
@@ -1609,7 +1609,7 @@
    "ジオン"
   ],
   "jp": "……勝手を言って済まん。だが、{n}シェンがなぶり殺されるようなことが{n}あったら、俺は……",
-  "en": ""
+  "en": "...Forgive my selfishness. But if Schen were{n}to be tortured to death, I..."
  },
  {
   "id": "s0126_02258",
@@ -1633,7 +1633,7 @@
    "カイ"
   ],
   "jp": "……事情は判った。ならば先にその{n}弟を助けるがいい。あの王鴉を退けた{n}オマエたちだ。牢さえ開けばさほど{n}手間取ることもあるまいが――",
-  "en": ""
+  "en": "...I understand. Then save his brother first.{n}You drove off that King Raven. Once the{n}prison's open, it shouldn't take much{n}trouble."
  },
  {
   "id": "s0126_022dc",
@@ -1657,7 +1657,7 @@
    "ジオン"
   ],
   "jp": "かたじけない――恩に着るぞ！",
-  "en": ""
+  "en": "I am obliged to you-- I owe you!"
  },
  {
   "id": "s0126_022fc",
@@ -1681,7 +1681,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "シェンを助けたら、すぐにオメエの{n}仲間を助けに向かうぜ！",
-  "en": ""
+  "en": "Once Schen's safe, we'll go save your friend{n}right away!"
  },
  {
   "id": "s0126_02338",
@@ -1705,7 +1705,7 @@
    "カイ"
   ],
   "jp": "――頼んだぞ。俺はそれまで、何か{n}別の方法を探してみる",
-  "en": ""
+  "en": "--I'm counting on you. Until then, I'll look for{n}some other way."
  },
  {
   "id": "s0126_029ec",
@@ -1729,7 +1729,7 @@
    ""
   ],
   "jp": "湖の妖魔テウターテスから手に入れた{n}鍵により、ビクともしなかった堅固な{n}門はいとも簡単に錠の戒めから解放{n}された。",
-  "en": ""
+  "en": "With the key obtained from the lake{n}demon Teutates, the sturdy gate that{n}had not budged was released from its{n}lock with the greatest ease."
  },
  {
   "id": "s0126_02adc",
@@ -1753,6 +1753,6 @@
    "ジオン"
   ],
   "jp": "シェンが捕まってるのはそっちじゃ{n}ない！　急いでくれＤ・Ｓ！",
-  "en": ""
+  "en": "That is not where Schen is caught! Hurry,{n}D.S.!"
  }
 ]

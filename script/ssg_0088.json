@@ -21,7 +21,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "どうやら、今のヤツが幻術を操って{n}いたようだぜ",
-  "en": ""
+  "en": "Looks like that last guy was the one working{n}the illusions."
  },
  {
   "id": "s0088_00848",
@@ -45,7 +45,7 @@
    "ボル"
   ],
   "jp": "では、それがしがあの場所で正気を{n}失うこともござらぬな",
-  "en": ""
+  "en": "Then this one shall no longer lose his wits in{n}that place, forsooth."
  },
  {
   "id": "s0088_00880",
@@ -69,7 +69,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "白昼夢も消えてるはずだ。“夢”と{n}“影”って記されたブロックに戻るぜ",
-  "en": ""
+  "en": "The daydream should be gone too. We're{n}heading back to the blocks marked \"Dream\"{n}and \"Shadow\"."
  },
  {
   "id": "s0088_008c8",
@@ -93,7 +93,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "その前にクリスタルを法印でくくって{n}おかねえとな",
-  "en": ""
+  "en": "But first I gotta bind the crystal with my{n}seal."
  },
  {
   "id": "s0088_008fc",
@@ -117,6 +117,6 @@
    "Ｄ・Ｓ"
   ],
   "jp": "以前のものと同様に、水晶の放つ{n}輝きは目映い白へと変化した。",
-  "en": ""
+  "en": "As with the others, the crystal's glow{n}changed to a dazzling white."
  }
 ]

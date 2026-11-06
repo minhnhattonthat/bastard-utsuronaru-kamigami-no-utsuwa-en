@@ -21,7 +21,7 @@
    ""
   ],
   "jp": "空間転送による五感の揺れが収まると、{n}そこはすでに自走砦内部に巡らされた{n}通路であることが判った。内壁や床は{n}甲虫の外骨格のような材質で構築され、{n}そこに機械的な部品が融合している。",
-  "en": ""
+  "en": "When the swaying of the senses from the{n}spatial transfer settled, they found{n}themselves already in the passages that{n}ran through the walking fort. The inner{n}walls and floors were built of a stuff like{n}a beetle's shell, fused with mechanical{n}parts."
  },
  {
   "id": "s0114_008cc",
@@ -45,7 +45,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "ずいぶんと有機的だな。この自走砦{n}ってのは生体兵器の一種か。霊子炉を{n}自前で備えてるってことは、原子力を{n}越える超破壊兵器も内蔵してやがんな",
-  "en": ""
+  "en": "Pretty organic, ain't it. So this walking fort's{n}a kind of living weapon. And since it's got its{n}own spirit reactor, it's packing some{n}super-destructive weapon beyond nuclear{page}power, too."
  },
  {
   "id": "s0114_00958",
@@ -69,7 +69,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "……鬼忍将の奴、いや、アイツの裏に{n}いるヤロウは、破界門を開いてこれを{n}異次元に運び出そうとしてやがるって{n}のか――",
-  "en": ""
+  "en": "...So the High Ninja -- no, the bastard behind{n}him -- means to open the World-Breaker{n}Gate and haul this thing off to another{n}dimension--"
  },
  {
   "id": "s0114_009cc",
@@ -93,7 +93,7 @@
    "サイクス"
   ],
   "jp": "そこは我々の元いた世界であるかも{n}知れないのだが……こんな物騒な砦を{n}持ち出させるわけにはいかんな",
-  "en": ""
+  "en": "That may be the very world we came from...{n}We can hardly let them carry off so{n}dangerous a fort."
  },
  {
   "id": "s0114_00a30",
@@ -117,7 +117,7 @@
    "イングヴェイイングヴェイ・フォン・マルムステ"
   ],
   "jp": "破界門が開ききれば、シーラ姫の命に{n}かかわる。姫が私の探す主であるなら{n}このイングヴェイ、命に代えても{n}お守りせねばならん！",
-  "en": ""
+  "en": "If the World-Breaker Gate opens fully,{n}Princess Sheila's life will be at stake. If she{n}is the mistress I seek, then I, Yngwei, must{n}protect her with my life!"
  },
  {
   "id": "s0114_00b80",
@@ -141,7 +141,7 @@
    ""
   ],
   "jp": "その一帯には、砦を警護する守護者の{n}屍が散乱していた。いずれも、なまな{n}かな腕前でそうは斬れぬ、鮮やかな{n}切断面を晒している。見覚えのある{n}剣の冴えであった。",
-  "en": ""
+  "en": "The corpses of the fort's guardians lay{n}scattered about the area. Each one{n}showed a clean cut that no ordinary skill{n}could make. It was the keen work of a{n}blade they had seen before."
  },
  {
   "id": "s0114_00c1c",
@@ -165,7 +165,7 @@
    ""
   ],
   "jp": "刃を手に、息を整えてこちらを振り{n}向く人影があった。長い髪が、薄暗い{n}照明の下でふわりと広がる。",
-  "en": ""
+  "en": "There stood a figure, blade in hand, who{n}caught his breath and turned toward{n}them. Long hair spread softly under the{n}dim light."
  },
  {
   "id": "s0114_00c7c",
@@ -189,7 +189,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "――イングヴェイか？",
-  "en": ""
+  "en": "--Yngwei?"
  },
  {
   "id": "s0114_00c94",
@@ -213,7 +213,7 @@
    "イングヴェイイングヴェイ・フォン・マルムステ"
   ],
   "jp": "その声は――Ｄ・Ｓ！　無事に{n}ここまで辿り着かれたか",
-  "en": ""
+  "en": "That voice-- D.S.! You have made it here{n}safely."
  },
  {
   "id": "s0114_00ccc",
@@ -237,7 +237,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "オメエもうまく自走砦に入り込んで{n}いたようだな。こっちは遅れたお陰で{n}ずいぶんと苦労させられたぜ",
-  "en": ""
+  "en": "Looks like you got into the walking fort too.{n}Being late cost us a hell of a lot of{n}trouble."
  },
  {
   "id": "s0114_00d2c",
@@ -261,7 +261,7 @@
    "イングヴェイイングヴェイ・フォン・マルムステ"
   ],
   "jp": "うむ……だが、こちらも手詰まりに{n}なってしまった。通路の隔壁が幾つか{n}閉ざされたままで、私にはそれ以上{n}探索しようがない",
-  "en": ""
+  "en": "Yes... But I have reached a dead end.{n}Several bulkheads in the passage remain{n}shut, and I can search no further."
  },
  {
   "id": "s0114_00da4",
@@ -285,7 +285,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "そこの隔壁もか。おーし、まかせろ。{n}この砦の中のエネルギーの流れは、{n}ある程度まで俺の制御下にある。隔壁{n}のロックを外すぐらい造作もねえ",
-  "en": ""
+  "en": "That bulkhead too, huh? All right, leave it to{n}me. The energy flow in this fort's under my{n}control, up to a point. Popping a bulkhead{n}lock's a piece of cake."
  },
  {
   "id": "s0114_00e2c",
@@ -309,7 +309,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "Ｄ・Ｓの念に呼応し、外部の水晶群が{n}力のバランスを変えてエネルギー流を{n}操作する。隔壁を固定していた電子錠{n}は瞬時に無力化された。",
-  "en": ""
+  "en": "In answer to D.S.'s will, the crystals{n}outside shifted their balance of power,{n}steering the energy flow. The electronic{n}locks holding the bulkhead were{n}neutralized in an instant."
  },
  {
   "id": "s0114_00fcc",
@@ -333,7 +333,7 @@
    ""
   ],
   "jp": "その区画は、強烈なエネルギーの収斂{n}で生じる重苦しい気圧と、ブンブンと{n}短く周波数を上下させる唸りとに支配{n}されていた。",
-  "en": ""
+  "en": "The section was ruled by the heavy{n}pressure of intense energy converging,{n}and by a hum whose pitch rose and fell in{n}short bursts."
  },
  {
   "id": "s0114_01044",
@@ -357,7 +357,7 @@
    ""
   ],
   "jp": "この繭のような物体こそが、霊子炉と{n}呼ばれるエネルギー出力装置であった。{n}自走砦の中核とも言える機関であり、{n}カルデラ上空を覆うほどに巨大な次元{n}の穴を穿つだけの膨大なエネルギーを{n}搾り出し続けている。",
-  "en": ""
+  "en": "This cocoon-like object was the energy{n}generator called the spirit reactor. It{n}could be called the core of the walking{n}fort, and it went on wringing out the vast{n}energy needed to bore a dimensional hole{n}big enough to cover the sky above the{n}caldera."
  },
  {
   "id": "s0114_0110c",
@@ -381,7 +381,7 @@
    ""
   ],
   "jp": "そして、その触媒となっているのが、{n}半ば繭に埋め込まれるように囚われた{n}シーラであった。本来、魂の秘めた{n}根元的な力である霊子エネルギーを、{n}霊媒として優れた資質を持つシーラを{n}核として集め、増幅するのがこの動力{n}システムの原理であった。",
-  "en": ""
+  "en": "And held half-embedded in the cocoon as{n}its catalyst was Sheila. Spirit energy was{n}the root power hidden in the soul; this{n}power system worked by gathering and{n}amplifying it, with Sheila and her superb{n}gifts as a medium as its core."
  },
  {
   "id": "s0114_011f8",
@@ -405,7 +405,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "くそっ、ひでえ真似しやがって。{n}破界門を開くために効率を重視して{n}やがる。これじゃ使い捨てだぜ！",
-  "en": ""
+  "en": "Damn it, what a vile stunt. All they care{n}about is the efficiency of opening the{n}World-Breaker Gate. She's just disposable to{n}them!"
  },
  {
   "id": "s0114_01258",
@@ -429,7 +429,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "おい、俺が霊子炉の運転機能を低下{n}させる。そのうちに早いとこシーラを{n}引き剥がせ！　ぐずぐずしてると{n}手遅れになっちまうぜ",
-  "en": ""
+  "en": "Hey, I'll lower the spirit reactor's operating{n}power. Meanwhile, peel Sheila off of it,{n}quick! Dawdle and it'll be too late."
  },
  {
   "id": "s0114_012d4",
@@ -453,7 +453,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "Ｄ・Ｓが臨界運転を続ける霊子炉に{n}エネルギー干渉し、出力を下げようと{n}したその時――。",
-  "en": ""
+  "en": "Just as D.S. reached with his energy into{n}the spirit reactor, running at critical,{n}trying to lower its output--."
  },
  {
   "id": "s0114_0132c",
@@ -477,7 +477,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "この動力炉の見張りであるらしき、{n}巨大な影が繭の内側から滑り出して{n}きた。",
-  "en": ""
+  "en": "A huge shadow, apparently the reactor's{n}watchman, slid out from inside the{n}cocoon."
  },
  {
   "id": "s0114_01378",
@@ -501,7 +501,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "シーラ！　シーラ、無事か!?",
-  "en": ""
+  "en": "Sheila! Sheila, you all right!?"
  },
  {
   "id": "s0114_01394",
@@ -525,7 +525,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "霊子炉から解放されたシーラは、その{n}魂の全てを吸い尽くされたかの如くに{n}何の反応も見せなかった。だが、{n}転がり出たヨーコ球がその胸元に触れ、{n}数秒明滅するうちに、シーラの瞳に{n}少しずつ生気が蘇ってきた。",
-  "en": ""
+  "en": "Freed from the spirit reactor, Sheila{n}showed no response, as though her whole{n}soul had been sucked dry. But when the{n}Yoko orb rolled out, touched her breast{n}and blinked for a few seconds, life slowly{n}returned to Sheila's eyes."
  },
  {
   "id": "s0114_0145c",
@@ -549,7 +549,7 @@
    "シーラ"
   ],
   "jp": "誰……ティア？　ティア・ノート・{n}ヨーコなのですか……？",
-  "en": ""
+  "en": "Who... Tia? Is that you, Tia Noto Yoko...?"
  },
  {
   "id": "s0114_01498",
@@ -573,7 +573,7 @@
    "シーラ"
   ],
   "jp": "霊子炉の触媒として狂わされた魂の{n}波長が、ヨーコ球との同調で自らの{n}リズムを取り戻し始めていた。{page}幸い肉体に傷はなく、素肌にへばり{n}つく有機質の粘膜を取り除くうち、{n}シーラの体力は歩ける程度には回復{n}した様子だった。",
-  "en": ""
+  "en": "The wavelength of her soul, driven mad{n}as a spirit reactor catalyst, began to{n}recover its own rhythm in tune with the{n}Yoko orb.{page}Her body was fortunately unhurt, and as{n}they removed the organic slime clinging to{n}her skin, Sheila's strength seemed to{n}return enough to walk."
  },
  {
   "id": "s0114_0156c",
@@ -597,7 +597,7 @@
    "シーラ"
   ],
   "jp": "同時に、シーラは失った記憶の一部を{n}取り戻していた。自分がかつてＤ・Ｓ{n}と短い冒険の旅をし、そしてその身を{n}狙う邪悪な力から守られたことを――。{page}それらは断片的であったが、Ｄ・Ｓに{n}とってもシーラとの関わりを思い出す{n}充分な手助けとなった。",
-  "en": ""
+  "en": "At the same time, Sheila regained part of{n}her lost memory. That she had once gone{n}on a brief adventure with D.S., and that{n}he had protected her from the evil{n}forces who were after her--.{page}These were only fragments, but they{n}were help enough for D.S. to recall his{n}own ties to Sheila."
  },
  {
   "id": "s0114_01658",
@@ -621,7 +621,7 @@
    "シーラ"
   ],
   "jp": "……本当に助けにきて頂けるなんて、{n}Ｄ・Ｓ、あなたはやはり……うっ",
-  "en": ""
+  "en": "...You truly did come to save me. D.S., you{n}really are... Ugh."
  },
  {
   "id": "s0114_0169c",
@@ -645,7 +645,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "無理するんじゃねー。もうちょっと{n}遅れてたらヤバかったんだぜ。霊質を{n}全部吸い出されて、破界門の生け贄に{n}なってたトコだ",
-  "en": ""
+  "en": "Don't push it. A little later and it would've{n}been bad. They'd have sucked out all your{n}spirit, and made you a sacrifice to the{n}World-Breaker Gate."
  },
  {
   "id": "s0114_01714",
@@ -669,7 +669,7 @@
    "イングヴェイイングヴェイ・フォン・マルムステ"
   ],
   "jp": "シーラ姫……貴女は私の思い描いた{n}通り、慈愛に満ちた素晴らしい女性で{n}あるようだ。だが……",
-  "en": ""
+  "en": "Princess Sheila... You are indeed the{n}wonderful, compassionate woman I imagined.{n}But..."
  },
  {
   "id": "s0114_01770",
@@ -693,7 +693,7 @@
    "イングヴェイイングヴェイ・フォン・マルムステ"
   ],
   "jp": "蘇った記憶をお聞かせ頂いた限り、{n}残念なことに貴女は、我が剣を捧げた{n}主ではないようだ",
-  "en": ""
+  "en": "From the memories you have shared, I{n}regret to say that you do not appear to be{n}the mistress to whom I pledged my sword."
  },
  {
   "id": "s0114_017c8",
@@ -717,7 +717,7 @@
    "イングヴェイイングヴェイ・フォン・マルムステ"
   ],
   "jp": "しかし、もし私に誓いを立てた主が{n}未だなくば、必ずシーラ姫、貴女に{n}この剣を捧げていたでしょう",
-  "en": ""
+  "en": "Yet if I had no mistress who holds my oath,{n}Princess Sheila, I would surely have pledged{n}this sword to you."
  },
  {
   "id": "s0114_01828",
@@ -741,7 +741,7 @@
    "シーラ"
   ],
   "jp": "私などに過分な……ありがとう、{n}イングヴェイ。この上なく光栄に{n}思いますわ",
-  "en": ""
+  "en": "That is far more than I deserve... Thank you,{n}Yngwei. I am honored beyond measure."
  },
  {
   "id": "s0114_01874",
@@ -765,7 +765,7 @@
    "ヴァイ"
   ],
   "jp": "俺も俺も……ってイテテ！　耳が、{n}耳がチギレるって！",
-  "en": ""
+  "en": "Me too, me too... Ow ow ow! My ear, you're{n}ripping my ear off!"
  },
  {
   "id": "s0114_018ac",
@@ -789,7 +789,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "俺様の従者が図に乗るんじゃねえ。{n}そもそもテメエはシーラのこと悪く{n}言ってやがったじゃねーか",
-  "en": ""
+  "en": "Don't get cocky, you're the great me's{n}servant. Besides, you bastard, you were{n}badmouthing Sheila yourself."
  },
  {
   "id": "s0114_01908",
@@ -813,7 +813,7 @@
    "ヴァイ"
   ],
   "jp": "あっ、それナイショだって！　……{n}ゴメンな、俺あん時誤解してて――",
-  "en": ""
+  "en": "Ah, that was supposed to be a secret!{n}...Sorry, I had you all wrong back then--"
  },
  {
   "id": "s0114_0194c",
@@ -837,7 +837,7 @@
    "シーラ"
   ],
   "jp": "いいのです。私のほうこそ、鬼忍将を{n}油断させるためとはいえ、あのような{n}態度をとってしまって……",
-  "en": ""
+  "en": "It is quite all right. I am the one who{n}behaved so, though it was only to put the{n}High Ninja off his guard..."
  },
  {
   "id": "s0114_019ac",
@@ -861,7 +861,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "残るはその鬼忍将か。どこに隠れて{n}いやがるんだか",
-  "en": ""
+  "en": "That leaves the High Ninja. Where the hell's{n}he hiding?"
  },
  {
   "id": "s0114_019e0",
@@ -885,7 +885,7 @@
    "イングヴェイイングヴェイ・フォン・マルムステ"
   ],
   "jp": "もう一カ所、封鎖されている隔壁が{n}あったな",
-  "en": ""
+  "en": "There was one more sealed bulkhead."
  },
  {
   "id": "s0114_01a0c",
@@ -909,7 +909,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "主動力の霊子炉が停止した今、この{n}砦で俺の自由にならねえ隔壁はねえ。{n}よーし、ケリつけに向かうぜ！",
-  "en": ""
+  "en": "With the main spirit reactor shut down,{n}there's no bulkhead in this fort I can't push{n}around. All right, let's go settle this!"
  },
  {
   "id": "s0114_01d4c",
@@ -933,7 +933,7 @@
    "シーラ"
   ],
   "jp": "Ｄ・Ｓ……実は私、他にも思い出した{n}ことがあるのです",
-  "en": ""
+  "en": "D.S.... In truth, there is something else I have{n}recalled."
  },
  {
   "id": "s0114_01d84",
@@ -957,7 +957,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "？　何だ？",
-  "en": ""
+  "en": "? What?"
  },
  {
   "id": "s0114_01d90",
@@ -981,7 +981,7 @@
    "シーラ"
   ],
   "jp": "鬼忍将のことです。雰囲気こそ違い{n}ますが、私の記憶の中にはあなたと{n}ともに戦ってくれた、良く似た人物の{n}姿があるのです",
-  "en": ""
+  "en": "It concerns the High Ninja. His air is{n}different, but I recall someone much like{n}him, who fought alongside you."
  },
  {
   "id": "s0114_01e08",
@@ -1005,7 +1005,7 @@
    "シーラ"
   ],
   "jp": "大きな体で、右目の横に傷のある、{n}無骨だけど優しかった忍者が……でも、{n}どうしても名前が思い出せない。そこ{n}だけ記憶が削り取られたように――",
-  "en": ""
+  "en": "A ninja with a big body, and a scar beside his{n}right eye, rough, yet kind... But I cannot{n}recall his name, try as I may. As if only that{n}part of my memory were scraped away--"
  },
  {
   "id": "s0114_01e94",
@@ -1029,7 +1029,7 @@
    "シーラ"
   ],
   "jp": "それから霊子炉で私を見張っていた、{n}蟲のような影がいましたね。囚われて{n}いる間、あの影は時折、何かを囁いて{n}いるようでした",
-  "en": ""
+  "en": "And there was that insect-like shadow that{n}watched over me in the spirit reactor. While{n}I was held captive, it seemed to whisper{n}something now and then."
  },
  {
   "id": "s0114_01f10",
@@ -1053,7 +1053,7 @@
    "シーラ"
   ],
   "jp": "別の場所にいる、鬼忍将に向かって{n}……",
-  "en": ""
+  "en": "To the High Ninja, in another place..."
  },
  {
   "id": "s0114_01f38",
@@ -1077,7 +1077,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "あの、逃げやがった影か。ただの{n}見張りとも思えねえ、とらえどころの{n}ねえ妙な気配を発してやがったが……",
-  "en": ""
+  "en": "That shadow that got away, huh? I didn't{n}take it for any mere watchman, with that{n}weird, slippery aura it gave off..."
  },
  {
   "id": "s0114_01fa0",
@@ -1101,7 +1101,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "それと、鬼忍将か――。ええい、{n}考えても仕方がねえ！　目の前でツラ{n}突き合わせりゃ、忘れちまった記憶も{n}思い出せるだろ",
-  "en": ""
+  "en": "And the High Ninja--. Oh, hell, no use thinking{n}about it! Once we're face to face, the{n}memory I've lost will come back."
  },
  {
   "id": "s0114_02018",
@@ -1125,6 +1125,6 @@
    "Ｄ・Ｓ"
   ],
   "jp": "奴はたぶん、俺を待ち構えてるハズ{n}だぜ。霊子炉が止まった今、破界門を{n}開くためには俺の制御する六水晶の{n}エネルギーを奪うしかねえからな",
-  "en": ""
+  "en": "He's most likely waiting for me. With the{n}spirit reactor stopped, the only way to open{n}the World-Breaker Gate is to take the{n}energy of the six crystals I control."
  }
 ]

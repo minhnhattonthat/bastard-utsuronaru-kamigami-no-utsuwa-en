@@ -23,6 +23,14 @@ Each row names the JP markers and the English that carries them. A line any spea
 | Ros | `アタシ`, `〜わよ`, `アンタ`, `バッハハーイ` | Camp and breezy: "Oh my", "toodle-oo", "Buh-bye-bye!". Says he's no queen (オカマ), just refined. |
 | Shella | `私`, `〜だ`, `〜ない` | Grave, poetic, a little stiff; a bard in men's clothes. |
 | Ba Thory | `俺様`, `貴公`, `うふっ` | Blustering, spitting, stammers when flustered ("Cuh-cuh-cocky"); turns coy when flattered ("Ufu"). |
+| Zion | `俺`, `貴殿`, `〜ぬ` | Grave, courteous, no contractions; flares up over his brother. |
+| Schen | `オレ`, `兄者` | Gentle, wounded, contractions; `兄者` = "brother". |
+| Jin (ghost) | `オレ`, `アンタ`, in “” | Earnest young ninja, contractions, always in double quotes. Calls Yoko "Yoko-dono". |
+| Gara | `オレ`, `オメエ`, `〜ねえ`, `〜だぜ` | Rough, good-natured, D.S.'s equal in insults. High Ninja voice is separate (see above). D.S. calls him "lackey" (`舎弟`). |
+| Slaughter Emperor | `ワシ`, `貴様`, `〜ぬ` | Grandiose old god, no contractions, "I shall". |
+| Kai | `俺`, `オマエ`, `〜のだ` | Blunt woman warrior, proud; contractions fine; never swoons. |
+| Sean | `わたし`, `〜わ` | Young, warm, plain; `兄さん` = "brother". |
+| Ran | `俺`, `貴様`, `魔雷妃様` | Cold, curt; brainwashed, "Demon Thunder Queen-sama". |
 | Old or formal speakers | `わし`, `じゃ`, `のう`, `〜であろう`, `貴様`, `〜ぬ` | Stiff, archaic: "I shall", "you dare", "boy", "eh?". |
 | Women | `〜わ`, `〜のよ`, `かしら` | "I wonder", "you know", "dear" as fits the character; Nei is commanding, Yoko warm. |
 

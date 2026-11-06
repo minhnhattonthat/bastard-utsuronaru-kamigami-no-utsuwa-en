@@ -21,7 +21,7 @@
    ""
   ],
   "jp": "龍樹の根本へと続くと思われた洞窟を{n}抜けると、そこは樹幹の内側に存在{n}していた巨大な空洞であった。{page}空洞はその天まで続くかに思われる{n}梢まで龍樹を縦に貫いており、遥か{n}上空から自然光が静かに降り注いで{n}いる。龍樹の直上に雨雲がかかって{n}いるのか、光はか細く、薄暗い。",
-  "en": ""
+  "en": "Coming out of the cave they had taken{n}for the way to the Dragon Tree's roots,{n}they found themselves in a giant hollow{n}inside its trunk.{page}The hollow pierced the Dragon Tree{n}lengthwise up to its treetop, seeming to{n}reach the very sky, and natural light fell{n}quietly from far above. Perhaps rain{n}clouds hung directly over the Dragon{n}Tree, for the light was thin and dim."
  },
  {
   "id": "s0146_00920",
@@ -45,7 +45,7 @@
    ""
   ],
   "jp": "その地は、巨木の内部に繁った森で{n}あった。龍樹の空洞はあまりに巨大で、{n}堆積した土にいつしか木々が芽吹き、{n}そのまま大きな森へと成長したので{n}あろう。",
-  "en": ""
+  "en": "It was a forest grown lush inside a giant{n}tree. The Dragon Tree's hollow was so{n}vast that trees must have sprouted in{n}the piled earth, growing into a great{n}forest."
  },
  {
   "id": "s0146_009b4",
@@ -69,7 +69,7 @@
    ""
   ],
   "jp": "そして――。{page}見上げた空に、巨大な影が覆い被さっ{n}ていた。風を孕み、天空を駆けるため{n}の雄々しき巨翼。尾は古代の鳥の祖の{n}ように鮮やかな羽根に包まれ、その{n}首は空を渡る風を読み取るが如くに{n}長く伸ばされている。",
-  "en": ""
+  "en": "And then--.{page}A huge shadow loomed in the sky{n}overhead. Mighty giant wings, to take the{n}wind and race through the heavens. Its{n}tail was wrapped in vivid feathers, like the{n}ancestor of ancient birds, and its neck{n}stretched long, as if reading the winds{n}crossing the sky."
  },
  {
   "id": "s0146_00a84",
@@ -93,7 +93,7 @@
    ""
   ],
   "jp": "紛うことなく、翼龍であった。だが、{n}それは今や空を駆けることはない。{page}内側を囲む樹壁から伸びた無数の蔦が{n}龍を絡め取り、縛り上げ、締め付けて{n}その全身を空中に拘束しているのだ。{n}それは龍の骸であり、無惨に吊られた{n}処刑の光景のようであった。",
-  "en": ""
+  "en": "It was a wyvern without a doubt. But it{n}would never again race through the{n}sky.{page}Countless vines stretching from the{n}surrounding walls of the tree tangled,{n}bound and squeezed the dragon, holding{n}its entire body in midair. It was the{n}dragon's corpse, and looked like the cruel{n}scene of a hanged criminal."
  },
  {
   "id": "s0146_00b70",
@@ -117,7 +117,7 @@
    "シェラ"
   ],
   "jp": "酷い……苦痛の声が聞こえてきたのも{n}無理からぬ姿だ――",
-  "en": ""
+  "en": "How horrible... No wonder I heard cries of{n}pain--"
  },
  {
   "id": "s0146_00ba8",
@@ -141,7 +141,7 @@
    "ヴァイ"
   ],
   "jp": "酷え……晒しものにされてんのかよ",
-  "en": ""
+  "en": "That's awful... They've got it on display?"
  },
  {
   "id": "s0146_00bcc",
@@ -165,7 +165,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "囚われの龍を解放すると言っても、{n}生きちゃいねえようだな……これも{n}魔雷妃……いや、あの妖魔どもの仕業{n}なのか――",
-  "en": ""
+  "en": "We were supposed to free the captive{n}dragon, but it doesn't look alive... Is this the{n}work of the Demon Thunder Queen... no, of{n}those demons--"
  },
  {
   "id": "s0146_00c40",
@@ -189,7 +189,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "その通りよ！",
-  "en": ""
+  "en": "That's right!"
  },
  {
   "id": "s0146_00c50",
@@ -213,7 +213,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "荒々しい胴間声が、巨大な空間に殷々{n}と響き渡った。と、蔦が絡んだ辺りの{n}樹壁に変化が顕れる。逞しい腕が生え、{n}次いで首、胴と、まるで木の中を同化{n}して泳いでいるかの如く、巨漢の妖魔{n}が樹壁を抜けて躍り出してくる。{page}それはＤ・Ｓたちの眼前に落下し、{n}凄まじい地響きを立てて着地した。",
-  "en": ""
+  "en": "A rough, booming voice echoed around the{n}giant space. Then a change appeared in{n}the wall of the tree where the vines{n}were tangled. A brawny arm grew out,{n}then a neck and torso, and as if swimming{n}through the wood and merged with it, a{n}huge demon came dancing out through{n}the wall.{page}It dropped before the eyes of D.S. and his{n}party, landing with a terrific rumble."
  },
  {
   "id": "s0146_00d64",
@@ -237,7 +237,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "全身に蔦を絡ませた、獣の如き闘気を{n}発散する妖魔であった。その獰猛な{n}容貌からは、これまでの妖魔が備えて{n}いたわずかな気品も感じ取れない。{page}だが、その瞳が宿す酷薄で嗜虐的な{n}光は、間違いなくテウターテスと同じ{n}種類のものであった。",
-  "en": ""
+  "en": "It was a demon with vines tangled all{n}over its body, giving off a beastly fighting{n}spirit. Its ferocious features held none of{n}the slight dignity of the demons they had{n}met so far.{page}But the cruel, sadistic light in its eyes was{n}surely of the same kind as Teutates's."
  },
  {
   "id": "s0146_00e48",
@@ -261,7 +261,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "三男神の一匹だな。翼龍を吊してる{n}蔦は、テメエが操ってやがるのか",
-  "en": ""
+  "en": "So you're one of the Three Male Gods. And{n}you're the bastard working the vines that{n}hang the wyvern."
  },
  {
   "id": "s0146_00e8c",
@@ -285,7 +285,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "ヒヒヒ……そうだともよ。兄者たちの{n}司る力では封印に不向きでなあ。{n}このエスス様が引き受けたのよ――",
-  "en": ""
+  "en": "Hee hee hee... That's right. My big brothers'{n}powers ain't suited to sealing. So the great{n}Esus-sama took on the job--"
  },
  {
   "id": "s0146_00ef0",
@@ -309,7 +309,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "もう心臓を抜かれてたからなあ。{n}さして手応えのないつまらねえ仕事{n}だったぜ。退屈でな、ついつい余分に{n}龍を縛り上げちまった",
-  "en": ""
+  "en": "Its heart was already pulled out. Dull, easy{n}work. I got so bored, I went and tied the{n}dragon up a bit extra."
  },
  {
   "id": "s0146_00f6c",

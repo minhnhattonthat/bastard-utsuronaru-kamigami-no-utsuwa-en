@@ -21,7 +21,7 @@
    ""
   ],
   "jp": "Ｄ・Ｓが低く詠唱し、水晶の周囲に{n}指先で複雑な印を描く。と、結晶の{n}放つ光が収束し、それは純白の輝き{n}へと変化した。",
-  "en": ""
+  "en": "D.S. chanted in a low voice and traced a{n}complex seal around the crystal with his{n}fingertip. The light it gave off drew{n}together and changed to a pure white{n}glow."
  },
  {
   "id": "s0104_0088c",
@@ -45,7 +45,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "残るはひとつ！",
-  "en": ""
+  "en": "One left!"
  },
  {
   "id": "s0104_0089c",
@@ -69,7 +69,7 @@
    "アンガス"
   ],
   "jp": "……ピッ！",
-  "en": ""
+  "en": "...Beep!"
  },
  {
   "id": "s0104_008a8",
@@ -93,7 +93,7 @@
    "アンガス"
   ],
   "jp": "……（にいっ）",
-  "en": ""
+  "en": "...(grin)"
  },
  {
   "id": "s0104_008b8",
@@ -117,7 +117,7 @@
    "ヴァイ"
   ],
   "jp": "おおっ、アンガス！　やっと気が{n}ついたのかよお！　心配したぜ",
-  "en": ""
+  "en": "Whoa, Angus! You finally came to! I was{n}worried, y'know."
  },
  {
   "id": "s0104_008f8",
@@ -165,7 +165,7 @@
    "ヨルグ"
   ],
   "jp": "うむっ。いつものアンガスだ",
-  "en": ""
+  "en": "Yes. It is the same old Angus."
  },
  {
   "id": "s0104_0091c",
@@ -189,7 +189,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "電気でおかしくなるなんざ、メカ{n}みてえなヤロウだなあ……",
-  "en": ""
+  "en": "Going haywire from electricity... The guy's{n}like a machine..."
  },
  {
   "id": "s0104_00958",
@@ -213,7 +213,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "五番目の水晶が白に変化した瞬間、{n}砦のどこかに流出していたエネルギー{n}が遮断された気配がした。",
-  "en": ""
+  "en": "The moment the fifth crystal turned{n}white, he sensed the energy that had{n}been flowing off somewhere in the fort{n}being cut off."
  },
  {
   "id": "s0104_009b8",
@@ -237,6 +237,6 @@
    "Ｄ・Ｓ"
   ],
   "jp": "このクリスタルもどこかのトラップに{n}使われていたようだな。これで残るは{n}ひとつ！",
-  "en": ""
+  "en": "Looks like this crystal was powering a trap{n}somewhere too. Now there's one left!"
  }
 ]

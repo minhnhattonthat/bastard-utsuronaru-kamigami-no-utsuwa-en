@@ -21,7 +21,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "一枚岩を掘り抜いた洞窟か――。{n}この岩塊全体に通路が張り巡らされて{n}いるようだな",
-  "en": ""
+  "en": "A cave dug through solid rock--. Looks like{n}tunnels run all through this entire rock."
  },
  {
   "id": "s0108_00868",
@@ -45,7 +45,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "そこにいるのは何奴！",
-  "en": ""
+  "en": "Who goes there!"
  },
  {
   "id": "s0108_00880",
@@ -69,7 +69,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "むっ！",
-  "en": ""
+  "en": "Whoa!"
  },
  {
   "id": "s0108_00888",
@@ -93,7 +93,7 @@
    "ヨルグ"
   ],
   "jp": "敵か!?",
-  "en": ""
+  "en": "An enemy!?"
  },
  {
   "id": "s0108_00890",
@@ -117,7 +117,7 @@
    "ヨルグ"
   ],
   "jp": "洞窟の暗がりから、影が身を起こした。{n}全身濡れそぼったその男は、かつて{n}まみえたことのある人物であった。",
-  "en": ""
+  "en": "A shadow rose from the darkness of the{n}cave. The man, soaked from head to toe,{n}was someone they had met before."
  },
  {
   "id": "s0108_008f8",
@@ -141,7 +141,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "オメエ確か、ボルとかいう影使いじゃ{n}ねえか",
-  "en": ""
+  "en": "You're that shadow user, Bol or whatever,{n}aren't you?"
  },
  {
   "id": "s0108_00924",
@@ -165,7 +165,7 @@
    "ボル"
   ],
   "jp": "？　何故その名前を？　おぬし、{n}それがしを知っているのでござるか!?",
-  "en": ""
+  "en": "? How do you know that name? Good sir, do{n}you know this one, forsooth!?"
  },
  {
   "id": "s0108_00968",
@@ -189,7 +189,7 @@
    "ヴァイ"
   ],
   "jp": "あ！　海辺の船で襲いかかってきて、{n}そのまま逃げてったヤツだ！",
-  "en": ""
+  "en": "Ah! It's the guy who jumped us on the ship{n}by the sea, then ran off!"
  },
  {
   "id": "s0108_009a8",
@@ -213,7 +213,7 @@
    "ボル"
   ],
   "jp": "なんと！　それがしはそんな真似を{n}しでかしていたでござるか！",
-  "en": ""
+  "en": "What! This one committed such an act,{n}forsooth!"
  },
  {
   "id": "s0108_009e8",
@@ -237,7 +237,7 @@
    "ボル"
   ],
   "jp": "影使いボル・ギル・ボルは、竜船で{n}目覚めた直後の闘いを明確には覚えて{n}いないようであった。ただ、追われて{n}いるような焦燥と恐怖に苛まれ、落ち{n}着きを取り戻した時には、出鱈目に{n}影を渡り続けたため、自分がどこから{n}逃げてきたのかも判らない状況だった。",
-  "en": ""
+  "en": "The shadow user Bol Gil Bol seemed not to{n}remember clearly the battle just after he{n}woke on the Dragon Ship. He had been{n}tormented only by the fear and dread of{n}being hunted, and by the time he calmed{n}down, he had crossed so many shadows at{n}random that he did not even know where{n}he had fled from."
  },
  {
   "id": "s0108_00adc",
@@ -261,7 +261,7 @@
    "ボル"
   ],
   "jp": "その後、峡谷付近を彷徨い歩くうち、{n}突然流れてきた水に呑まれ、影を渡り{n}ながら破壊された鬼哭関跡を抜け、{n}ほうほうのていでこの場所まで辿り{n}着いたという。",
-  "en": ""
+  "en": "After that, he said, while wandering near{n}the gorge, he was swallowed by a sudden{n}flood, and crossed from shadow to{n}shadow through the ruins of the{n}shattered Ogre Wail Gate, barely reaching{n}this place alive."
  },
  {
   "id": "s0108_00b74",
@@ -285,7 +285,7 @@
    "ボル"
   ],
   "jp": "竜船での遭遇の状況を聞くに及び、{n}ボルは非礼を詫び、同行を申し出た。{n}おぼろげながら闘いの記憶が蘇り、{n}Ｄ・Ｓたちが命を奪わぬよう手加減{n}していたことを悟った様子だった。",
-  "en": ""
+  "en": "Upon hearing how they had met on the{n}Dragon Ship, Bol apologized for his{n}rudeness and offered to travel with them.{n}A hazy memory of the battle had{n}returned, and he seemed to realize that{n}D.S. and the others had held back so as{n}not to kill him."
  },
  {
   "id": "s0108_00c1c",
@@ -309,7 +309,7 @@
    "ボル"
   ],
   "jp": "今はかように濡れネズミの情けない{n}姿でござるが、それがし、必ずお役に{n}立ってみせるでござる。何卒、ご恩を{n}返す機会をくだされ！",
-  "en": ""
+  "en": "Now this one is a wretched sight, a drowned{n}rat as you see, but this one shall surely{n}prove useful, forsooth. Please, good sirs,{n}grant this one a chance to repay your{page}kindness!"
  },
  {
   "id": "s0108_00c9c",
@@ -333,7 +333,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "そーゆー暑苦しーのは苦手なんだよ。{n}ついてきたきゃ勝手にしろい。オメエ{n}以外はたいがいそんなヤツばっかだぜ",
-  "en": ""
+  "en": "I can't stand that sweaty, earnest stuff.{n}Follow us if you want. Everyone here but{n}you is pretty much that kind of guy{n}anyway."
  },
  {
   "id": "s0108_00d08",
@@ -357,7 +357,7 @@
    "ヴァイ"
   ],
   "jp": "来る者は拒まずってコト",
-  "en": ""
+  "en": "He means nobody gets turned away."
  },
  {
   "id": "s0108_00d20",
@@ -381,7 +381,7 @@
    "ボル"
   ],
   "jp": "かたじけない！",
-  "en": ""
+  "en": "This one is obliged, forsooth!"
  },
  {
   "id": "s0108_00ef0",
@@ -405,7 +405,7 @@
    ""
   ],
   "jp": "巨大岩塊の中心と思しき、大きな広間{n}だった。見上げても天井は見通せず、{n}ただ暗い竪穴が遥か上まで続いている。",
-  "en": ""
+  "en": "It was a great hall, apparently the{n}center of the giant rock. Looking up, they{n}could not make out a ceiling. A dark shaft{n}simply went on, far above."
  },
  {
   "id": "s0108_00f5c",
@@ -429,7 +429,7 @@
    ""
   ],
   "jp": "広間中央の転送機は、動力が通じて{n}いないのか、作動する様子もなく{n}沈黙を保っている。",
-  "en": ""
+  "en": "The transporter in the middle of the hall{n}stayed silent with no sign of working,{n}perhaps because no power reached it."
  },
  {
   "id": "s0108_00fb0",
@@ -453,7 +453,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "これが自走砦――天守閣への転送機{n}だな。機能は死んじゃいねえようだが、{n}動力を他に回されてんのか？",
-  "en": ""
+  "en": "So this is the transporter to the walking{n}fort -- to the keep. Its functions ain't dead,{n}but is the power being routed somewhere{n}else?"
  },
  {
   "id": "s0108_01090",
@@ -477,7 +477,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "……ははあ、幻術が施された気配が{n}しやがるぜ",
-  "en": ""
+  "en": "...Ah-ha, I smell an illusion here."
  },
  {
   "id": "s0108_010c0",
@@ -501,7 +501,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "バカめ！　同じような手が三度も{n}通用すると思ってやがんのかっ！",
-  "en": ""
+  "en": "Idiots! You think the same kind of trick's{n}gonna work on me three times!?"
  },
  {
   "id": "s0108_01100",
@@ -525,7 +525,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "Ｄ・Ｓが魔力を放射すると、“幻”の{n}文字を記した扉が揺らぎ、消滅した。{n}その背後から、すでにロックの外れた{n}本物の隔壁が現れる。",
-  "en": ""
+  "en": "When D.S. released his magic power, the{n}door marked \"Illusion\" wavered and{n}vanished. From behind it appeared the{n}real bulkhead, its lock already released."
  },
  {
   "id": "s0108_01180",
@@ -549,7 +549,7 @@
    "ボル"
   ],
   "jp": "これは……!?",
-  "en": ""
+  "en": "What is this...!?"
  },
  {
   "id": "s0108_01190",
@@ -573,7 +573,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "隔壁の幻で本物を隠してやがった。{n}どうやら俺たちに幻影を送ってくる{n}ヤツは、この岩洞に隠れていやがる{n}ようだぜ",
-  "en": ""
+  "en": "The real one was hidden by an illusion of a{n}bulkhead. Looks like whoever's sending us{n}these illusions is hiding in this rock cave."
  },
  {
   "id": "s0108_012f4",
@@ -597,7 +597,7 @@
    ""
   ],
   "jp": "破界門から干渉を受けているのか、{n}大気は少しずつ波長を変えて振動し、{n}上に続く竪穴はそれを反響させて{n}調律の狂った楽器のように奇怪な{n}音色を奏でていた。",
-  "en": ""
+  "en": "Perhaps under interference from the{n}World-Breaker Gate, the air shook in{n}slowly shifting waves, and the shaft{n}leading up echoed them with a strange{n}tone, like an instrument out of tune."
  },
  {
   "id": "s0108_0138c",
@@ -621,7 +621,7 @@
    ""
   ],
   "jp": "Ｄ・Ｓが印を結ぶと、各所の水晶が{n}反応して転送機に動力が蘇る。",
-  "en": ""
+  "en": "When D.S. formed the seal, the crystals{n}everywhere responded, and power{n}returned to the transporter."
  },
  {
   "id": "s0108_013cc",
@@ -645,7 +645,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "シーラ、待ってろ！",
-  "en": ""
+  "en": "Sheila, hang on!"
  },
  {
   "id": "s0108_013e0",
@@ -693,6 +693,6 @@
    "Ｄ・Ｓ"
   ],
   "jp": "引き返してるヒマはなさそうだ",
-  "en": ""
+  "en": "Looks like there's no time to turn back."
  }
 ]

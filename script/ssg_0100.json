@@ -21,7 +21,7 @@
    "ボル"
   ],
   "jp": "ぐうわああああっ――！",
-  "en": ""
+  "en": "Gwaaaaaagh--!"
  },
  {
   "id": "s0100_00830",
@@ -45,7 +45,7 @@
    "ヴァイ"
   ],
   "jp": "おい！　どうしたオッサン？",
-  "en": ""
+  "en": "Hey! What's wrong, old man?"
  },
  {
   "id": "s0100_0084c",
@@ -69,7 +69,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "こりゃ、竜船の時と一緒か――？",
-  "en": ""
+  "en": "It's just like on the Dragon Ship--?"
  },
  {
   "id": "s0100_0086c",
@@ -93,7 +93,7 @@
    "ボル"
   ],
   "jp": "やめろ、やめてくれ……ぐうう",
-  "en": ""
+  "en": "Stop, please stop... Nnngh."
  },
  {
   "id": "s0100_0088c",
@@ -117,7 +117,7 @@
    "ボル"
   ],
   "jp": "頭を抱え、脂汗を浮かべてボルは{n}うずくまった。他の者には感じ取れぬ{n}何かが、この剛直な武人に耐え難い{n}恐怖を感じさせているらしい。",
-  "en": ""
+  "en": "Clutching his head, greasy sweat on his{n}brow, Bol crouched down. Something the{n}others could not sense seemed to fill this{n}stalwart warrior with unbearable{n}terror."
  },
  {
   "id": "s0100_00910",
@@ -141,7 +141,7 @@
    "ボル"
   ],
   "jp": "と、前方の空間に巨大な影が生じた。{page}蠢く生きた闇とも言うべきその空間は、{n}絶えず形を変化させながら行く手を{n}塞いでいた。触手のように伸縮する{n}影が、その危険性を本能に訴えてくる。",
-  "en": ""
+  "en": "Then a huge shadow arose in the space{n}ahead.{page}That space, which one might call a{n}writhing, living darkness, barred the way,{n}ever changing its shape. Shadows that{n}stretched and shrank like tentacles spoke{n}to the instincts of their danger."
  },
  {
   "id": "s0100_009c0",
@@ -165,7 +165,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "強行突破……って具合にはいきそうに{n}ねえな。あの影、影使いの能力なら{n}探ることもできそうだが……肝心の{n}ボルがこれじゃあ――",
-  "en": ""
+  "en": "We can't exactly bust through by force... A{n}shadow user's power could probe that{n}shadow, but... with Bol like this--"
  },
  {
   "id": "s0100_00a3c",
@@ -189,7 +189,7 @@
    "ヴァイ"
   ],
   "jp": "ここからいったん離れようぜ！{n}ボルが泡吹きやがった！",
-  "en": ""
+  "en": "Let's get away from here for now! Bol's{n}foaming at the mouth!"
  },
  {
   "id": "s0100_00a74",
@@ -213,7 +213,7 @@
    "ボル"
   ],
   "jp": "うう……はっ!?",
-  "en": ""
+  "en": "Nngh... Hah!?"
  },
  {
   "id": "s0100_00a84",
@@ -237,7 +237,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "正気に戻ったか。オメエ、あそこで{n}何を感じたんだ？",
-  "en": ""
+  "en": "You've come to your senses. What the hell{n}did you feel back there?"
  },
  {
   "id": "s0100_00ab8",
@@ -261,7 +261,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "ボルを襲ったのは強烈な恐怖の記憶で{n}あるらしかった。五感は暗闇に絡め{n}取られ、圧し包む無数の殺意がボルの{n}命を絶とうと襲いくる。船で目覚めて{n}以来、ボルを苦しめてきた焦燥感が{n}具現化したかのような、抵抗できぬ{n}恐怖が彼を苛んでいたようであった。",
-  "en": ""
+  "en": "It seemed Bol had been struck by a{n}memory of intense terror. His five senses{n}tangled in darkness, countless killing{n}intents closed in to end his life.{n}Irresistible fear had tormented him, as{n}though the dread that had plagued him{n}ever since waking on the ship had taken{n}form."
  },
  {
   "id": "s0100_00ba8",
@@ -285,7 +285,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "その幻覚とあの影に何か関係があるの{n}かも知れねえが、影使い本人が正気を{n}失っちまうんじゃ調べようもねえ。{n}先に他を当たるぜ",
-  "en": ""
+  "en": "That illusion may have something to do with{n}that shadow, but there's no checking it{n}when the shadow user himself goes off his{n}rocker. Let's try somewhere else first."
  },
  {
   "id": "s0100_00da4",
@@ -309,7 +309,7 @@
    ""
   ],
   "jp": "ボルを襲う幻影は消えたが、あの闇の{n}集合体はまだそこにわだかまっていた。",
-  "en": ""
+  "en": "The illusion that had struck Bol was gone,{n}but that mass of darkness still lingered{n}there."
  },
  {
   "id": "s0100_00df0",
@@ -333,7 +333,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "この影は幻覚の類じゃねえってこと{n}だな。ボル、影使いの能力でこれが{n}何だか判るか？",
-  "en": ""
+  "en": "So this shadow's no illusion, then. Bol, can{n}your shadow user power tell what it is?"
  },
  {
   "id": "s0100_00e44",
@@ -357,7 +357,7 @@
    "ボル"
   ],
   "jp": "調べてみるでござる",
-  "en": ""
+  "en": "This one shall look into it, forsooth."
  },
  {
   "id": "s0100_00e58",
@@ -381,7 +381,7 @@
    "ボル"
   ],
   "jp": "ボルの足下の影が伸び、暗黒空間に{n}探査の触手を潜り込ませる。同質の{n}影の侵入に、蠢く闇は刺激された{n}様子もなくただ変形を繰り返している。{page}一秒、二秒……閉じられていたボルの{n}目が突如見開かれた。額に汗が浮かび、{n}その口から恐怖の呻きが漏れる。{page}しかしボルは持ちこたえ、即座に影を{n}引き戻した。",
-  "en": ""
+  "en": "The shadow at Bol's feet stretched out,{n}slipping a probing tentacle into the dark{n}space. The writhing darkness, unstirred by{n}the entry of a shadow of its own kind,{n}merely went on changing shape.{page}One second, two... Bol's closed eyes{n}suddenly flew open. Sweat broke out on{n}his brow, and a moan of terror escaped{n}his lips.{page}Yet Bol held firm and at once drew his{n}shadow back."
  },
  {
   "id": "s0100_00f78",
@@ -405,7 +405,7 @@
    "ボル"
   ],
   "jp": "はあっ、はあっ……判ったでござる、{n}この影の正体が――！",
-  "en": ""
+  "en": "Hah, hah... This one knows it now, what this{n}shadow truly is--!"
  },
  {
   "id": "s0100_00fb4",
@@ -429,7 +429,7 @@
    "ボル"
   ],
   "jp": "その時、巨大な影はにわかに激しく{n}蠢き始めた。輪郭が急速に変形し、{n}人型――それも見上げるほどの巨人の{n}シルエットを形作る。闇色の顔の中に{n}双眸の光が宿り、裂け上がった口から{n}怨嗟の叫びが沸き起こった。{page}影の魔神――それは一瞬に実体化し、{n}地響きを立てて前に踏み出してきた。",
-  "en": ""
+  "en": "Just then, the huge shadow suddenly{n}began to writhe violently. Its outline{n}rapidly changed, forming a human shape{n}-- the silhouette of a towering giant. Eyes{n}lit in its face of darkness, and a cry of{n}bitter hatred rose from its split mouth.{page}The shadow demon took on solid form in{n}an instant, and stepped forward with an{n}earthshaking tread."
  },
  {
   "id": "s0100_010c4",
@@ -453,7 +453,7 @@
    "ボル"
   ],
   "jp": "魔神の狙いはそれがしでござる！{n}おのおのがた、お逃げくだされい！",
-  "en": ""
+  "en": "The demon is after this one! All of you, flee,{n}good sirs!"
  },
  {
   "id": "s0100_01108",
@@ -477,7 +477,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "バカ言ってんじゃねえ！　実体なら{n}戦いようもあらあ！　一秒でカタぁ{n}つけてやる！",
-  "en": ""
+  "en": "Don't talk stupid! If it's solid, I can fight it!{n}I'll settle this in one second!"
  },
  {
   "id": "s0100_01158",
@@ -501,7 +501,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "飛び散った魔神の肉体は再び影に戻り、{n}磁石に引き寄せられる砂鉄のように{n}ボルの足下へと集まっていく。そして{n}迎えるボルの影に融合し、一片残らず{n}吸収されてしまった。",
-  "en": ""
+  "en": "The demon's scattered flesh turned back{n}into shadow and gathered at Bol's feet,{n}like iron filings drawn to a magnet. It{n}fused with Bol's waiting shadow, and was{n}absorbed down to the last scrap."
  },
  {
   "id": "s0100_011fc",
@@ -549,7 +549,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "こりゃあ、どういうワケだ？",
-  "en": ""
+  "en": "What the hell's going on?"
  },
  {
   "id": "s0100_01220",
@@ -573,7 +573,7 @@
    "ボル"
   ],
   "jp": "この影の魔神は、それがしの中から{n}生まれたものでござる――",
-  "en": ""
+  "en": "That shadow demon was born from within{n}this one, forsooth--"
  },
  {
   "id": "s0100_0125c",
@@ -597,7 +597,7 @@
    "ヴァイ"
   ],
   "jp": "じゃ、ヒゲのお母さん？",
-  "en": ""
+  "en": "So, what, Beardy's its mommy?"
  },
  {
   "id": "s0100_01274",
@@ -621,7 +621,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "だあってろ！　アホウ",
-  "en": ""
+  "en": "Shut up! You moron."
  },
  {
   "id": "s0100_0128c",
@@ -645,7 +645,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "ボルは影を走査した際に、ある程度の{n}記憶を取り戻していた。",
-  "en": ""
+  "en": "In probing the shadow, Bol had regained{n}some of his memory."
  },
  {
   "id": "s0100_012c8",
@@ -669,7 +669,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "操影術とは、人里離れた地に隠れ住む{n}一族に密かに受け継がれてきた特殊な{n}技能であった。戦局すらも左右する{n}諜報能力ゆえに、一族は代々その力を{n}外の世界には出さず、里の者の多くは{n}極めて閉鎖的な社会で一生を終えた。",
-  "en": ""
+  "en": "Shadow manipulation was a special skill{n}handed down in secret by a clan living{n}hidden in a remote land. Because its{n}powers of espionage could sway the{n}course of a war, the clan had for{n}generations kept that power from the{n}outside world, and most of the villagers{n}ended their lives in a tightly closed{page}society."
  },
  {
   "id": "s0100_0139c",
@@ -693,7 +693,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "しかしボルはこの因習を嫌った。力を{n}大きな舞台で活かさずして、何のため{n}の修行であるのか？　やがてボルは{n}禁を破り、里を抜けて一族を捨てた。",
-  "en": ""
+  "en": "But Bol hated these old ways. If power{n}was not put to use on a greater stage,{n}then what was his training for? In time{n}Bol broke the law, fled the village and{n}abandoned his clan."
  },
  {
   "id": "s0100_01428",
@@ -717,7 +717,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "だが、一族は掟を破る脱走者を許さな{n}かった。ボルを抹殺すべく次々と刺客{n}が送り出され、彼は生き延びるために{n}かつての仲間との殺し合いを余儀なく{n}された。長い逃亡生活の果て、ボルの{n}手はともに修行した影使いたちの血に{n}まみれた。",
-  "en": ""
+  "en": "But the clan did not forgive a runaway{n}who broke its rules. Assassin after{n}assassin was sent to wipe him out, and to{n}survive he was forced to kill his former{n}comrades. After long years on the run,{n}Bol's hands were soaked in the blood of{n}the shadow users he had trained{n}alongside."
  },
  {
   "id": "s0100_01508",
@@ -741,7 +741,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "同時に、ボルの影使いとしての力は{n}増大していった。倒した刺客の操る{n}影霊は自然、その場に生き残った{n}ボルの影に宿る。数え切れぬ友の{n}返り血が、史上最強の影使いを造り{n}上げていったのだ。",
-  "en": ""
+  "en": "At the same time, Bol's power as a shadow{n}user grew. The shadow spirits worked by{n}each slain assassin naturally came to{n}dwell in the shadow of Bol, who alone{n}survived. The blood of countless friends{n}built the strongest shadow user in{n}history."
  },
  {
   "id": "s0100_015c0",
@@ -765,7 +765,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "しかし、己の支配する影が強大になる{n}度、彼の心は慚愧に震えた。里を抜け{n}たのは生きる道を探すため。他者の{n}生きる道を閉じるためではなかった。",
-  "en": ""
+  "en": "But each time the shadows he commanded{n}grew mightier, his heart trembled with{n}shame. He had left the village to find a{n}way to live. Not to close that way to{n}others."
  },
  {
   "id": "s0100_0164c",
@@ -789,7 +789,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "そうした念が蓄積したのだろうか。{n}この地に放り出され、かつて抜け忍と{n}して追われ続けた強迫観念に憑かれた{n}ボルから剥離した影霊は、彼の恐怖を{n}反映して刺客たちの怨念と化した。{page}そして“影”の性質を持つこの岩洞の{n}エネルギー源に引き寄せられ、ボルの{n}訪れを待ち続けていたのだった。",
-  "en": ""
+  "en": "Perhaps such feelings had piled up. Cast{n}out into this land, Bol was haunted by the{n}obsession of his days hunted as a{n}runaway ninja, and the shadow spirits{n}that peeled away from him turned,{n}reflecting his fear, into the grudges of{n}those assassins.{page}Drawn to this rock cave's energy source{n}with its \"shadow\" nature, they had been{n}awaiting Bol's coming."
  },
  {
   "id": "s0100_01760",
@@ -813,7 +813,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "ボルを苦しめた幻覚は、言わば己の{n}記憶の鏡像であった。",
-  "en": ""
+  "en": "The illusion that had tormented Bol was,{n}in a sense, the mirror image of his own{n}memory."
  },
  {
   "id": "s0100_01798",
@@ -837,7 +837,7 @@
    "ボル"
   ],
   "jp": "――思い出さなければ良かった。{n}記憶を失ったままでいられたなら、{n}どれだけ楽だったことか！",
-  "en": ""
+  "en": "--I should never have remembered. How{n}much easier it would have been, had this{n}one stayed without memories!"
  },
  {
   "id": "s0100_017f4",
@@ -861,7 +861,7 @@
    "ボル"
   ],
   "jp": "それがしの手は血に染まっている！{n}それがしの足下には、無数の友の屍が{n}踏みつけにされているのでござる！",
-  "en": ""
+  "en": "This one's hands are stained with blood!{n}Beneath this one's feet lie the trampled{n}corpses of countless friends, forsooth!"
  },
  {
   "id": "s0100_0185c",
@@ -885,7 +885,7 @@
    "ボル"
   ],
   "jp": "ああ――そして影霊は、またも我が{n}身に宿って……この世界で目覚める前、{n}それがしはどのようにしてこの記憶に{n}耐えていたのでござろう？",
-  "en": ""
+  "en": "Ah-- And now the shadow spirits dwell in this{n}body once more... Before awakening in this{n}world, how did this one ever bear this{n}memory?"
  },
  {
   "id": "s0100_018e0",
@@ -909,7 +909,7 @@
    "ボル"
   ],
   "jp": "このまま命を絶ってしまいたい……{n}それがしなど、あのまま影の魔神に{n}殺されてしまえば良かったでござる！",
-  "en": ""
+  "en": "This one would rather end his life here and{n}now... This one should have let that shadow{n}demon kill him, forsooth!"
  },
  {
   "id": "s0100_01948",
@@ -933,7 +933,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "小僧ぉっ！　歯ぁ食い縛れぇ！",
-  "en": ""
+  "en": "Boooy! Grit your teeth!"
  },
  {
   "id": "s0100_01968",
@@ -957,7 +957,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "Ｄ・Ｓの拳が、ボルの頬に炸裂した。{n}遠慮仮借のない一撃が、ボルをコマの{n}ように回転させながら吹っ飛ばす。",
-  "en": ""
+  "en": "D.S.'s fist exploded on Bol's cheek. The{n}merciless blow sent Bol flying, spinning like{n}a top."
  },
  {
   "id": "s0100_019d0",
@@ -981,7 +981,7 @@
    "ボル"
   ],
   "jp": "はぐぐぅ……何するでござる",
-  "en": ""
+  "en": "Hgggh... What was that for, forsooth?"
  },
  {
   "id": "s0100_019ec",
@@ -1005,7 +1005,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "目が覚めたか！　いかついヒゲ面の{n}クセしやがってメソメソメソメソ！{n}人間ってのはなあ、生きていくために{n}努力しなきゃあならねえんだ",
-  "en": ""
+  "en": "You awake now!? Mug like a scowling hairy{n}brute, and all you do is whine and whine!{n}Listen up, people gotta work at it, just to{n}go on living."
  },
  {
   "id": "s0100_01a70",
@@ -1029,7 +1029,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "テメエは自分の力を役立てたくて、{n}バカらしい掟に縛られた里を出たんだ{n}ろーが！　その時に決めてるんだよ、{n}テメエは！",
-  "en": ""
+  "en": "You left that village and its stupid rules{n}because you wanted to put your power to{n}use! You decided right then, you bastard!"
  },
  {
   "id": "s0100_01ae4",
@@ -1053,7 +1053,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "掟なんかより、自分の思ってることが{n}大事だってなあ。いーじゃねえか、{n}それで。だったら生き延びて、その{n}力を活かさねーでどうする！",
-  "en": ""
+  "en": "That what you thought mattered more than{n}some rules. And what's wrong with that! So{n}why the hell wouldn't you live on and use{n}that power!"
  },
  {
   "id": "s0100_01b68",
@@ -1101,7 +1101,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "刺客にされた奴らだって、覚悟を{n}決めてオメエを追ってきたんだろーが。{n}そうやって生きよう、死のうって決め{n}てんだ。それでオメエを恨むかよ？",
-  "en": ""
+  "en": "The guys they made into assassins came{n}after you with their minds made up, too.{n}They chose to live that way and die that{n}way. You think they'd hate you for it?"
  },
  {
   "id": "s0100_01c00",
@@ -1125,7 +1125,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "恨むとすりゃ、テメエが今みたいな{n}弱音を吐いた時だ。死ねば良かったと{n}思うくらいなら、討たれてくれりゃ{n}いーじゃねーかってな！",
-  "en": ""
+  "en": "If they hate you for anything, it's for{n}whining like you just did. \"If you wish you{n}were dead, you could've just let us kill{n}you!\""
  },
  {
   "id": "s0100_01c80",
@@ -1149,7 +1149,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "忘れんな！　テメエが選んだ道を{n}進んでいる限り、死んでいった奴らも{n}意味があったんだってことをよ――",
-  "en": ""
+  "en": "Don't forget it! As long as you keep walking{n}the road you chose, those guys didn't die{n}for nothing--"
  },
  {
   "id": "s0100_01ce4",
@@ -1173,7 +1173,7 @@
    "ボル"
   ],
   "jp": "うお……うおおーん！",
-  "en": ""
+  "en": "Waugh... Waaaaah!"
  },
  {
   "id": "s0100_01cfc",
@@ -1197,7 +1197,7 @@
    "ボル"
   ],
   "jp": "ボルの目から、滝のような涙が止めど{n}なく溢れ出す。Ｄ・Ｓの言葉に打たれ{n}ての男泣きであり、またそれは、拭う{n}ことのできなかった罪の意識を洗い{n}流す浄罪の涙でもあった。影使いボル{n}・ギル・ボルはここに、生きる意志を{n}取り戻したのだった。",
-  "en": ""
+  "en": "Tears gushed from Bol's eyes like a{n}waterfall, without end. They were a man's{n}tears, wrung from him by D.S.'s words, and{n}tears of absolution, washing away a guilt{n}he could never wipe clean. Here, the{n}shadow user Bol Gil Bol recovered the will{n}to live."
  },
  {
   "id": "s0100_01de4",
@@ -1221,7 +1221,7 @@
    "ヴァイ"
   ],
   "jp": "いいとこあるじゃん。ちょっとは{n}見直したぜ、Ｄ・Ｓ",
-  "en": ""
+  "en": "You've got your good side. I think a little{n}better of you now, D.S."
  },
  {
   "id": "s0100_01e18",
@@ -1245,7 +1245,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "ケッ……こんなトコで時間食っちゃ{n}いられねえからよ。オラ、キタネエ面{n}拭いて、とっとと行くぜ！",
-  "en": ""
+  "en": "Tch... I just can't waste any time here. Come{n}on, wipe that filthy face and let's get{n}moving!"
  },
  {
   "id": "s0100_01e78",
@@ -1269,7 +1269,7 @@
    "ボル"
   ],
   "jp": "ヒック、ズズッ……そう言えば、{n}それがしは形こそ違え、以前にも{n}こうやって誰かに生きる意味を与えて{n}もらった覚えがござる……ズズ",
-  "en": ""
+  "en": "*Hic, sniff*... Come to think of it, this one{n}recalls someone giving him a reason to live{n}like this once before, in another way,{n}forsooth... *Sniff*"
  },
  {
   "id": "s0100_01ef8",
@@ -1293,7 +1293,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "へっ、そいつもヒマだったんだろ",
-  "en": ""
+  "en": "Heh, guess that guy had time to kill too."
  },
  {
   "id": "s0100_02514",
@@ -1317,7 +1317,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "これで四つ目だぜ。エネルギーの{n}流れはほぼ把握できるようになって{n}きたぜ……へへ、隔壁のロックは{n}全て解除されてるな",
-  "en": ""
+  "en": "That makes four. I can pretty much read{n}the flow of energy now... Heh heh, all the{n}bulkhead locks are released."
  },
  {
   "id": "s0100_02588",
@@ -1341,7 +1341,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "残りのブロックへ急げ！",
-  "en": ""
+  "en": "Hurry to the remaining blocks!"
  },
  {
   "id": "s0100_025a0",
@@ -1365,7 +1365,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "三番目のクリスタルも。Ｄ・Ｓの描く{n}法印の中で静かに色を失い、無垢なる{n}白色へと変わっていった。",
-  "en": ""
+  "en": "The third crystal, too, quietly lost its{n}color within the seal D.S. traced, turning a{n}pure white."
  },
  {
   "id": "s0100_02600",
@@ -1389,7 +1389,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "これでよし。次のブロックに急ぐぜ",
-  "en": ""
+  "en": "That does it. Let's hurry to the next{n}block."
  },
  {
   "id": "s0100_02844",
@@ -1413,6 +1413,6 @@
    "Ｄ・Ｓ"
   ],
   "jp": "ここから先はまたボルがおかしく{n}なっちまうな。まだ先にゃ進めねえ",
-  "en": ""
+  "en": "Past here, Bol's gonna go nuts again. We{n}can't go on yet."
  }
 ]

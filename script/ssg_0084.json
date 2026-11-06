@@ -21,7 +21,7 @@
    ""
   ],
   "jp": "左右に設置された柱の間に、目に{n}見えない凄まじい力場をＤ・Ｓは{n}感じ取っていた。",
-  "en": ""
+  "en": "Between the pillars set left and right, D.S.{n}sensed a terrible, invisible force field."
  },
  {
   "id": "s0084_00868",
@@ -45,7 +45,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "テメエら、これ以上進むんじゃねえ",
-  "en": ""
+  "en": "You punks, don't go any further."
  },
  {
   "id": "s0084_0088c",
@@ -69,7 +69,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "小石を拾い、前方に放る。瞬間、柱の{n}間に巨大な電光が疾り、小石は空中で{n}蒸発した。それが人間であったなら、{n}瞬時に黒焦げの肉塊と化すだけの、{n}超高圧電流がそこに流れていた。",
-  "en": ""
+  "en": "He picked up a pebble and tossed it ahead.{n}In that instant a huge bolt raced{n}between the pillars, and the pebble{n}vaporized in midair. Ultra-high-voltage{n}current ran there, enough to turn a man{n}instantly into a charred lump of meat."
  },
  {
   "id": "s0084_00938",
@@ -93,7 +93,7 @@
    "ヴァイ"
   ],
   "jp": "ふええ……",
-  "en": ""
+  "en": "Whoaaa..."
  },
  {
   "id": "s0084_00944",
@@ -117,7 +117,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "残りのクリスタルがここに電力を{n}供給してやがら。仕方ねえ。この上は{n}後回しだ",
-  "en": ""
+  "en": "The remaining crystals are feeding power to{n}this place. Can't be helped. We'll come back{n}up here later."
  },
  {
   "id": "s0084_00990",
@@ -141,7 +141,7 @@
    "アンガス"
   ],
   "jp": "……ガッ、ピー、ガガガッ！",
-  "en": ""
+  "en": "...Gah, beep, gagagah!"
  },
  {
   "id": "s0084_009ac",
@@ -165,7 +165,7 @@
    "アンガス"
   ],
   "jp": "突然アンガスが白目を剥き、動かなく{n}なった。全身が硬直し、時折痙攣が{n}疾り抜ける。",
-  "en": ""
+  "en": "Suddenly Angus's eyes rolled back and he{n}stopped moving. His whole body stiffened,{n}with spasms running through it now and{n}then."
  },
  {
   "id": "s0084_00a00",
@@ -189,7 +189,7 @@
    "ヴァイ"
   ],
   "jp": "わーっ、アンガス!?　どうしたっ！",
-  "en": ""
+  "en": "Whoa, Angus!? What's wrong!"
  },
  {
   "id": "s0084_00a24",
@@ -213,7 +213,7 @@
    "ヨルグ"
   ],
   "jp": "いかん！　ヴァイ、そっちを持て！",
-  "en": ""
+  "en": "This is bad! Vai, take that side!"
  },
  {
   "id": "s0084_00a48",
@@ -237,7 +237,7 @@
    "ヴァイ"
   ],
   "jp": "うお重てええ！　何食ったらこんな{n}重くなれるんだ！",
-  "en": ""
+  "en": "Whoa, he's heavy! What do you eat to get{n}this heavy!"
  },
  {
   "id": "s0084_00a7c",
@@ -261,7 +261,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "電気に当てられたのか？　ショック{n}状態みたいだな",
-  "en": ""
+  "en": "The electricity get to him? Looks like he's in{n}shock."
  },
  {
   "id": "s0084_00ab0",
@@ -285,7 +285,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "ここはまだ高電圧が生きてやがるな。{n}他に回るぜ",
-  "en": ""
+  "en": "The high voltage is still live here. We'll go{n}around."
  },
  {
   "id": "s0084_00c8c",
@@ -309,7 +309,7 @@
    ""
   ],
   "jp": "最後の水晶がＤ・Ｓの法印で括られて{n}白く輝いた瞬間、岩洞に満ちていた{n}エネルギーの緊張がふっと途切れた。",
-  "en": ""
+  "en": "The moment the last crystal, bound by{n}D.S.'s seal, shone white, the tense energy{n}filling the rock cave suddenly broke."
  },
  {
   "id": "s0084_00cf4",
@@ -333,7 +333,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "霊子炉を増幅する機能が切れたぜ",
-  "en": ""
+  "en": "The function that boosts the spirit reactor{n}is cut off."
  },
  {
   "id": "s0084_00d14",
@@ -357,7 +357,7 @@
    "ヴァイ"
   ],
   "jp": "じゃあ、破界門も閉じんのか？",
-  "en": ""
+  "en": "So the World-Breaker Gate's gonna close?"
  },
  {
   "id": "s0084_00d34",
@@ -381,7 +381,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "いや、進行は遅くなってるだろうが{n}あそこまで開いてればあとはメインの{n}霊子炉だけでも充分だ。早くシーラを{n}助け出さなきゃならねえ",
-  "en": ""
+  "en": "No. It'll have slowed down, but it's open that{n}far, so now the main spirit reactor alone is{n}enough. We gotta hurry and save Sheila."
  },
  {
   "id": "s0084_00db4",
@@ -405,7 +405,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "もう、岩洞のエネルギーは俺の手の{n}中だ。転送機を作動させて、天守閣に{n}乗り込むぜ！",
-  "en": ""
+  "en": "The energy of this rock cave's in my hands{n}now. I'll start up the transporter, and we'll{n}storm the keep!"
  },
  {
   "id": "s0084_00ed4",
@@ -429,7 +429,7 @@
    "ヴァイ"
   ],
   "jp": "おい！　水の中に宝箱があるぜ！",
-  "en": ""
+  "en": "Hey! There's a treasure chest in the{n}water!"
  },
  {
   "id": "s0084_00ef4",
@@ -453,7 +453,7 @@
    "ヨルグ"
   ],
   "jp": "しかし、潜って取るわけにもいかんな",
-  "en": ""
+  "en": "But we can hardly dive in and get it."
  },
  {
   "id": "s0084_00f18",
@@ -477,7 +477,7 @@
    "ヴァイ"
   ],
   "jp": "ああいうのに限って、いいお宝が{n}隠されてたりするんだよな",
-  "en": ""
+  "en": "It's always stuff like that with the good{n}treasure hidden inside, y'know."
  },
  {
   "id": "s0084_00f54",
@@ -501,7 +501,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "コイツまでロスみたいになってきや{n}がった。やれやれだぜ",
-  "en": ""
+  "en": "Now even this guy's turning into Ros. For{n}crying out loud."
  },
  {
   "id": "s0084_01048",
@@ -525,7 +525,7 @@
    ""
   ],
   "jp": "扉が閉まると、背後から水音が勢い{n}良く響いた。小部屋は再び注水された{n}ようだった。",
-  "en": ""
+  "en": "When the door closed, the sound of{n}rushing water echoed from behind. The{n}small room appeared to have been{n}flooded again."
  },
  {
   "id": "s0084_01140",
@@ -549,7 +549,7 @@
    ""
   ],
   "jp": "扉が開いた時、宝箱との間を阻んで{n}いた水は完全に引いていた。",
-  "en": ""
+  "en": "When the door opened, the water that{n}had stood between them and the{n}treasure chest had completely drained{n}away."
  },
  {
   "id": "s0084_01180",
@@ -573,7 +573,7 @@
    "ヴァイ"
   ],
   "jp": "やりぃ！　謎は全て解けた",
-  "en": ""
+  "en": "Yes! All mysteries are solved!"
  },
  {
   "id": "s0084_0119c",
@@ -597,7 +597,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "扉を開けただけだろが。強いて言う{n}ならこの場所を見つけた俺様がエライ",
-  "en": ""
+  "en": "All you did was open a door. If anybody gets{n}credit, it's the great me, for finding this{n}place."
  },
  {
   "id": "s0084_011e4",
@@ -621,7 +621,7 @@
    "ヨルグ"
   ],
   "jp": "どっちもどっちだよ……案外似た者{n}同士なのか？　このふたり？",
-  "en": ""
+  "en": "You are as bad as each other... Are these{n}two more alike than they seem?"
  },
  {
   "id": "s0084_012c0",
@@ -645,6 +645,6 @@
    ""
   ],
   "jp": "扉を開こうとすると、その奥で仕掛け{n}が作動する音が聴こえた。続いて、{n}ごぼごぼと水が排出されていく音が{n}聴こえてきた。",
-  "en": ""
+  "en": "As he tried to open the door, the sound{n}of a mechanism starting up came from{n}behind it. Then came the gurgling sound of{n}water draining away."
  }
 ]

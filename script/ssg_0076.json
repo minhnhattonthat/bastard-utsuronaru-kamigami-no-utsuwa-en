@@ -21,7 +21,7 @@
    ""
   ],
   "jp": "転送された先は、塔の基底部のようで{n}あった。静けさに満ちた通路に、時折{n}漏電した微電流がパチリと弾ける音が{n}反響する。",
-  "en": ""
+  "en": "The place they were sent to appeared to{n}be the base of the tower. Through the{n}passage, steeped in silence, echoed the{n}occasional crackle of a faint current{n}leaking out."
  },
  {
   "id": "s0076_00890",
@@ -45,7 +45,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "雷神塔に大した電力消費の仕掛けが{n}見当たらねえところを見ると、塔自体{n}はただの蓄電設備のようだぜ。ここ{n}から先に電力を供給するための、な",
-  "en": ""
+  "en": "Seeing as there's no big power-hungry gear{n}in the Thunder God Tower, the tower itself{n}looks like just a power storage facility. For{n}feeding power to whatever's ahead of{page}here, that is."
  },
  {
   "id": "s0076_00918",
@@ -69,7 +69,7 @@
    "ロス"
   ],
   "jp": "いろいろ秘密がありそうね。お宝も{n}いっぱいだといーケド",
-  "en": ""
+  "en": "Seems there are all sorts of secrets.{n}Hopefully loads of treasure too."
  },
  {
   "id": "s0076_00950",
@@ -93,7 +93,7 @@
    "ヴァイ"
   ],
   "jp": "それどこじゃないだろーが。いいか、{n}俺たちはなあ……何だっけ？",
-  "en": ""
+  "en": "This is no time for that. Listen, we're here{n}to... What was it again?"
  },
  {
   "id": "s0076_00990",
@@ -117,7 +117,7 @@
    "ヨルグ"
   ],
   "jp": "地龍の封印を解くんだろ！　それを{n}忘れてどうする",
-  "en": ""
+  "en": "To break the Earth Dragon's seal! How do{n}you forget that?"
  },
  {
   "id": "s0076_009c4",
@@ -141,7 +141,7 @@
    "ヴァイ"
   ],
   "jp": "そーだったそーだった。そう言えば{n}ヨルグ、お前にはこんな風に良く突っ{n}込まれてたような気がするなあ",
-  "en": ""
+  "en": "Oh yeah, oh yeah. Come to think of it, Jorg,{n}I feel like you used to correct me like this{n}all the time."
  },
  {
   "id": "s0076_00a28",
@@ -165,7 +165,7 @@
    "ヨルグ"
   ],
   "jp": "うむ……思い直せば俺は昔、あの{n}マカパインに酷い目に遭わされた{n}覚えがある。少しずつ記憶が蘇って{n}きつつあるのか？",
-  "en": ""
+  "en": "Yes... Thinking back, I recall that Macalpine{n}once did me a terrible turn. Are my{n}memories coming back little by little?"
  },
  {
   "id": "s0076_00a9c",
@@ -189,7 +189,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "考えてみりゃあ、ここにいるのは{n}大なり小なり記憶を失くした健忘者{n}ばかりか。ぎゃはは、そんなのが群れ{n}なしてるってのもマヌケだぜ",
-  "en": ""
+  "en": "Come to think of it, everyone here's an{n}amnesiac who's lost their memory, more or{n}less. Gyahaha, what a bunch of morons,{n}herding together like that."
  },
  {
   "id": "s0076_00b1c",
@@ -213,7 +213,7 @@
    "ヴァイ"
   ],
   "jp": "笑ってる場合かーっ！　アンタが{n}その群れを引っ張ってんだろが！",
-  "en": ""
+  "en": "This is no time to laugh! You're the one{n}leading the herd!"
  },
  {
   "id": "s0076_00c70",
@@ -237,7 +237,7 @@
    "サイクス"
   ],
   "jp": "……Ｄ・Ｓ。ひとつ気になることが{n}ある",
-  "en": ""
+  "en": "...D.S. There is one thing that concerns me."
  },
  {
   "id": "s0076_00c98",
@@ -261,7 +261,7 @@
    "サイクス"
   ],
   "jp": "私はこの世界に目覚めてから、次元{n}跳躍能力を使ってあちこち飛び回って{n}みた。おかげで人より多少の知識を{n}得ることができたわけだが――",
-  "en": ""
+  "en": "Since awakening in this world, I have flown{n}here and there using my power of{n}dimensional leaping. Thanks to that,{n}gentlemen, I have gained a bit more{page}knowledge than most, but--"
  },
  {
   "id": "s0076_00d1c",
@@ -285,7 +285,7 @@
    "サイクス"
   ],
   "jp": "ここまで諸君らと行動をともにして、{n}ずっと引っかかってきた疑問が明確に{n}なってきたよ",
-  "en": ""
+  "en": "Traveling with you this far, a question that{n}has long nagged at me has become clear."
  },
  {
   "id": "s0076_00d70",
@@ -309,7 +309,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "何だ。もったいぶるなよ",
-  "en": ""
+  "en": "What is it? Quit stringing it out."
  },
  {
   "id": "s0076_00d88",
@@ -333,7 +333,7 @@
    "サイクス"
   ],
   "jp": "その前にひとつ確認したい。諸君は{n}これまでにこの世界の住人――つまり{n}人間やエルフなどの人類種に出会って{n}いるかね？",
-  "en": ""
+  "en": "Allow me one point of confirmation first.{n}Gentlemen, have you met any inhabitants of{n}this world so far -- that is, humans, elves or{n}other such races?"
  },
  {
   "id": "s0076_00dfc",
@@ -357,7 +357,7 @@
    "ヴァイ"
   ],
   "jp": "俺たちとか、あとマカパインのヤツ{n}とか？",
-  "en": ""
+  "en": "Like us, or that Macalpine guy?"
  },
  {
   "id": "s0076_00e28",
@@ -381,7 +381,7 @@
    "サイクス"
   ],
   "jp": "いや、そうではなく、この地に生活{n}する人間だ。マカパインやザックも、{n}どうやら我々同様記憶があやふやな{n}ままこの世界に放り出されたクチだ",
-  "en": ""
+  "en": "No, not that. I mean humans who live on this{n}land. Macalpine and Zakk appear to be cast{n}into this world with hazy memories, just as{n}we were."
  },
  {
   "id": "s0076_00eb0",
@@ -405,7 +405,7 @@
    "サイクス"
   ],
   "jp": "鬼忍将率いる忍軍にしても、あろう{n}ことか中身はゴブリンなどの亜人種{n}だった。私の推察するところ、どうも{n}この世界には人間はいないらしい",
-  "en": ""
+  "en": "As for the ninja army under the High Ninja,{n}of all things, what was inside them was{n}goblins and other such demi-humans. In{n}brief, as I surmise it, this world seems to{page}have no humans at all."
  },
  {
   "id": "s0076_00f38",
@@ -429,7 +429,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "大胆に決めつけるじゃねえか。元々{n}この世界にいて、記憶を消された奴が{n}この中にもいる可能性があるだろう？",
-  "en": ""
+  "en": "That's a bold call. There could be people{n}here who were in this world all along and{n}had their memories wiped, right?"
  },
  {
   "id": "s0076_00fa0",
@@ -453,7 +453,7 @@
    "サイクス"
   ],
   "jp": "私もそう考えていた。だが、話を{n}聞くうちに私はある確証を得た。即ち、{n}我々は皆、記憶を失う前に何らかの{n}関わりを持つ者同士である、と",
-  "en": ""
+  "en": "So I thought too. But as I listened to you{n}all, I arrived at a certain conviction. Namely,{n}that we are all people with some connection{n}to one another, from before we lost our{page}memories."
  },
  {
   "id": "s0076_01024",
@@ -477,7 +477,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "！　……なるほど。言われてみりゃ{n}そんな記憶は微かにある",
-  "en": ""
+  "en": "!? ...I get it. Now that you say so, I faintly{n}remember something like that."
  },
  {
   "id": "s0076_01060",
@@ -501,7 +501,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "ヨシュアも似たようなこと言って{n}やがったな。仲間が力となるために{n}この地にやってきた、とか――",
-  "en": ""
+  "en": "Joshua said something similar, damn him.{n}That comrades came to this land to lend{n}their strength, or something--"
  },
  {
   "id": "s0076_010c0",
@@ -525,7 +525,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "だが、誰がそんな真似を？",
-  "en": ""
+  "en": "But who the hell would pull a stunt like{n}that?"
  },
  {
   "id": "s0076_010dc",
@@ -549,7 +549,7 @@
    "サイクス"
   ],
   "jp": "今は私もここまでしか推測できん。{n}しかし、そう考えるともうひとつ、{n}気になる疑問が浮かび上がってくる",
-  "en": ""
+  "en": "For now, this is as far as I can surmise. But{n}with that in mind, one more question arises{n}to concern us."
  },
  {
   "id": "s0076_01140",
@@ -597,7 +597,7 @@
    "サイクス"
   ],
   "jp": "この世界にいる人間が全て我々の{n}係累であると仮説を立てたとしよう。{n}ならば鬼忍将はどうか？　例外的な{n}存在か、それとも――",
-  "en": ""
+  "en": "Let us posit that every human in this world{n}is related to us. Then what of the High{n}Ninja? Is he an exception, or else--"
  },
  {
   "id": "s0076_011c0",
@@ -621,7 +621,7 @@
    "サイクス"
   ],
   "jp": "彼も我々と関わりのある者なのか？{n}背後にいる魔性が操っているのなら、{n}その可能性は十分にある",
-  "en": ""
+  "en": "Is he too one with a tie to us? If the{n}demons behind him are pulling his strings,{n}that is quite possible."
  },
  {
   "id": "s0076_0121c",
@@ -645,7 +645,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "あのうすらデカイ鬼ゴリラがか？{n}……ゴリラ？　うーん……",
-  "en": ""
+  "en": "That big dumb ogre gorilla? ...Gorilla?{n}Hmmm..."
  },
  {
   "id": "s0076_01258",
@@ -669,7 +669,7 @@
    "ヴァイ"
   ],
   "jp": "なあＤ・Ｓ。俺、ひとつ気になる{n}コトがあんだよな",
-  "en": ""
+  "en": "Hey, D.S. There's one thing bugging me."
  },
  {
   "id": "s0076_0128c",
@@ -693,7 +693,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "あ？　怒らないから言ってみろ",
-  "en": ""
+  "en": "Huh? I won't get mad, so spit it out."
  },
  {
   "id": "s0076_012ac",
@@ -717,7 +717,7 @@
    "ヴァイ"
   ],
   "jp": "どうして俺が怒られにゃならん！{n}……あのな、ひょっとしてここにいる{n}メンバーは皆、記憶を失う前に面識が{n}あったんじゃねーかな？",
-  "en": ""
+  "en": "Why would you get mad at me! ...See, maybe{n}everyone here already knew each other{n}before losing our memories, y'know?"
  },
  {
   "id": "s0076_0132c",
@@ -741,7 +741,7 @@
    "ヴァイ"
   ],
   "jp": "それだけじゃなくあのマカパインや{n}ザック、それにブラドとか、出会った{n}奴らはどいつも前から知ってるような{n}気がしてならねえんだよ",
-  "en": ""
+  "en": "And not just us. That Macalpine, Zakk, Blad,{n}everyone we've run into... I can't shake the{n}feeling I've known them from before."
  },
  {
   "id": "s0076_013ac",
@@ -765,7 +765,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "ふん……言われて見りゃそうだな。{n}シーラにしても、初めて会った気が{n}しねえもんな",
-  "en": ""
+  "en": "Hmph... Now that you mention it, yeah. Even{n}Sheila, it didn't feel like the first time I'd{n}met her."
  },
  {
   "id": "s0076_013fc",
@@ -789,7 +789,7 @@
    "イングヴェイイングヴェイ・フォン・マルムステ"
   ],
   "jp": "うむ。私もそうだ。彼女が我が主で{n}ある可能性は捨て切れぬ",
-  "en": ""
+  "en": "Yes. It is the same for me. I cannot rule out{n}that she may be my mistress."
  },
  {
   "id": "s0076_01438",
@@ -813,7 +813,7 @@
    "シェン"
   ],
   "jp": "兄者……どうもあの蟲使い――バ・{n}ソリーとか言ったか、奴を見ると三途{n}の川辺の花畑とやらが思い起こされて{n}ならん。傷による錯覚か……？",
-  "en": ""
+  "en": "Brother... Somehow, when I see that bug{n}tamer -- Ba Thory, was it? -- I can't help{n}picturing the field of flowers on the bank of{n}the River of Death. An illusion from my{page}wound...?"
  },
  {
   "id": "s0076_014c0",
@@ -837,7 +837,7 @@
    "ジオン"
   ],
   "jp": "臨死体験か？　傷のせいで記憶が{n}蘇ったとも考えられるが、それでは{n}お前とあの男が命のやり取りを……？{n}許せん！　俺が叩き斬って――",
-  "en": ""
+  "en": "A near-death experience? It may be your{n}wound has stirred your memory, but then{n}you and that man once fought to the{n}death...? Unforgivable! I will cut him d--"
  },
  {
   "id": "s0076_01544",
@@ -861,7 +861,7 @@
    "シェン"
   ],
   "jp": "いや、兄者、やめてくれ、ホントに！{n}オレを思ってくれるのはありがたいが、{n}ただの気のせいで人を殺めることに{n}なっては！　兄者ってば！",
-  "en": ""
+  "en": "No, brother, stop, I mean it! I appreciate the{n}thought, but you can't go killing someone{n}over a mere feeling! Brother, come on!"
  },
  {
   "id": "s0076_015c8",
@@ -885,7 +885,7 @@
    "ロス"
   ],
   "jp": "でもアイツ、斬られたくらいじゃ{n}死なないわよ。それにしてもアンタら、{n}仲のいい兄弟よね。その割にあんまり{n}似てないケド",
-  "en": ""
+  "en": "But that guy won't die from a little slashing.{n}You two sure are close brothers, though.{n}Not that you look much alike."
  },
  {
   "id": "s0076_01640",
@@ -909,7 +909,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "……待てよ",
-  "en": ""
+  "en": "...Wait a minute."
  },
  {
   "id": "s0076_0164c",
@@ -933,7 +933,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "と、この時、Ｄ・Ｓの脳裏で一枚の{n}扉がわずかに開いた。ヴァイの言葉に{n}触発されたその意識は、これまで漠然{n}と感じていた幾つかの事柄を手繰り、{n}紡ぎ合わせてひとつの答えを導き出す。",
-  "en": ""
+  "en": "Just then, a door in D.S.'s mind opened{n}slightly. Stirred by Vai's words, his{n}thoughts drew together several things he{n}had vaguely sensed until now, and spun{n}them into a single answer."
  },
  {
   "id": "s0076_016fc",
@@ -957,7 +957,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "おい、テメエら。誰でもいい、人間{n}らしき敵と戦った、あるいは遭ったっ{n}て奴はいるか？　ただしヴァイの言う、{n}見知った奴らのコトじゃねえ",
-  "en": ""
+  "en": "Hey, you punks. Anybody at all. Who's fought,{n}or even met, an enemy that looked human?{n}And I don't mean the people Vai's talking{n}about, the ones we seem to know."
  },
  {
   "id": "s0076_01784",
@@ -981,7 +981,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "つまり、この世界の住人だと思われる{n}人類にだ",
-  "en": ""
+  "en": "I mean people who seem to actually live in{n}this world."
  },
  {
   "id": "s0076_017b4",
@@ -1005,7 +1005,7 @@
    "ロス"
   ],
   "jp": "人類……って言うと人間かエルフ？{n}んー、見ないわね。ヒューマノイドは{n}亜人種どもがせいぜい",
-  "en": ""
+  "en": "People... You mean humans or elves? Mmm,{n}haven't seen any. For humanoids,{n}demi-humans are about all there is."
  },
  {
   "id": "s0076_01810",
@@ -1029,7 +1029,7 @@
    "イングヴェイイングヴェイ・フォン・マルムステ"
   ],
   "jp": "忍者たちも、中身は亜人種だった。{n}マカパインたちを除くなら、敵対する{n}人間に出会った記憶はないな",
-  "en": ""
+  "en": "The ninjas, too, were demi-humans inside.{n}Apart from Macalpine and his companion, I{n}recall meeting no human foe."
  },
  {
   "id": "s0076_01870",
@@ -1053,7 +1053,7 @@
    "ヴァイ"
   ],
   "jp": "忍者もゴブリンやら何やらの亜人種{n}だったしな。そう言やあ人間と戦った{n}覚えはねえや",
-  "en": ""
+  "en": "Yeah, the ninjas were goblins and whatever.{n}Now that you mention it, I don't remember{n}fighting any humans."
  },
  {
   "id": "s0076_018c4",
@@ -1077,7 +1077,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "……他の奴もそうか。やっぱりな",
-  "en": ""
+  "en": "...Same for the rest of you, huh? Thought{n}so."
  },
  {
   "id": "s0076_018e4",
@@ -1101,7 +1101,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "どうやらこの世界にゃ、俺たち――{n}記憶を失う前に何らかの関わりがある{n}同士を除いて、人類はいねえようだ",
-  "en": ""
+  "en": "Looks like there are no people in this world{n}besides us -- folks with some tie to each{n}other from before we lost our memories."
  },
  {
   "id": "s0076_0194c",
@@ -1125,7 +1125,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "サイクスの奴も言ってたが、ここは{n}次元的・空間的に孤立した世界らしい。{n}そこにいる人間は、放り込まれた{n}俺たちの係累だけってこった",
-  "en": ""
+  "en": "Like Sykes said, this place seems to be a{n}world cut off in space and between{n}dimensions. The only humans here are the kin{n}of us who got tossed in."
  },
  {
   "id": "s0076_019d0",
@@ -1149,7 +1149,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "まだ予測の段階だがな。少なくとも{n}この地域には、ひとりとして土着の{n}人類は存在しねえと考えていいだろう",
-  "en": ""
+  "en": "It's still just a guess, mind you. But in this{n}region at least, we can figure there's not{n}one single native person."
  },
  {
   "id": "s0076_01a38",
@@ -1173,7 +1173,7 @@
    "ヨルグ"
   ],
   "jp": "……記憶を奪い、同士討ちを誘って{n}いるのか？　俺たちをこの地に導いた{n}何者かが？",
-  "en": ""
+  "en": "...They steal our memories to lure us into{n}killing each other? Whoever led us to this{n}land?"
  },
  {
   "id": "s0076_01a88",
@@ -1197,7 +1197,7 @@
    "ヴァイ"
   ],
   "jp": "そうとも限らねえんじゃねーの？{n}結局俺たちはパーティを組んでる{n}ワケだし……",
-  "en": ""
+  "en": "That's not for sure, y'know? We ended up{n}forming a party, after all..."
  },
  {
   "id": "s0076_01ad4",
@@ -1221,7 +1221,7 @@
    "ヨルグ"
   ],
   "jp": "だが、だとすればひとつ引っかかる。{n}鬼忍将……並外れた巨漢だが、奴は{n}間違いなく人間のはずだ",
-  "en": ""
+  "en": "But in that case, one thing bothers me. The{n}High Ninja... He is an extraordinary giant, but{n}he must surely be human."
  },
  {
   "id": "s0076_01b30",
@@ -1245,7 +1245,7 @@
    "ヴァイ"
   ],
   "jp": "デカいっていやブラドのほうが人間の{n}域を外れてるけどな",
-  "en": ""
+  "en": "If we're talking big, Blad's more out of the{n}human range."
  },
  {
   "id": "s0076_01b68",
@@ -1269,7 +1269,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "鬼忍将か……あの鬼ゴリラは例外{n}なのか、それとも奴も俺たちに何か{n}関わりがありやがるのか……ゴリラ？{n}うーん……思い出せねえな",
-  "en": ""
+  "en": "The High Ninja, huh... Is that ogre gorilla an{n}exception, or has that bastard got some tie{n}to us too... Gorilla? Hmmm... Can't{n}remember."
  },
  {
   "id": "s0076_020a8",
@@ -1293,7 +1293,7 @@
    ""
   ],
   "jp": "その部屋は、奇妙に温度が低く感じ{n}られた。物理的な冷気ではなく、肌が{n}粟だって初めて寒さに気づくような、{n}異質な寒気が室内を支配している。",
-  "en": ""
+  "en": "The room felt strangely cold. It was no{n}physical chill. An alien cold ruled the{n}chamber, the sort one noticed only once{n}the skin had risen in goosebumps."
  },
  {
   "id": "s0076_02134",
@@ -1317,7 +1317,7 @@
    "ヴァイ"
   ],
   "jp": "さっみーな、ココは！",
-  "en": ""
+  "en": "It's freezing in here!"
  },
  {
   "id": "s0076_0214c",
@@ -1341,7 +1341,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "気ィつけろ。霊的な温度変化だぜ。{n}かなり強力な霊障が生じてやがる。{n}物理攻撃を受けつけねえタイプの霊にゃ{n}オメエの馬鹿力は利かねえぞ",
-  "en": ""
+  "en": "Watch it. That's a spiritual temperature{n}change. There's some serious spirit{n}disturbance here. And that dumb strength{n}of yours won't work on a ghost that{page}shrugs off physical attacks."
  },
  {
   "id": "s0076_021d0",
@@ -1365,7 +1365,7 @@
    "ヴァイ"
   ],
   "jp": "えっ、敵か!?",
-  "en": ""
+  "en": "What, an enemy!?"
  },
  {
   "id": "s0076_021e0",
@@ -1389,7 +1389,7 @@
    "シェラ"
   ],
   "jp": "ああっ……哀しい旋律が響いてくる。{n}亡霊の……永遠に止むことのない悲哀{n}の思惟がこの部屋に渦を巻いている！",
-  "en": ""
+  "en": "Ah... A sorrowful melody rings out. A{n}phantom's... endless thoughts of grief swirl{n}within this room!"
  },
  {
   "id": "s0076_0224c",
@@ -1413,7 +1413,7 @@
    "シェラ"
   ],
   "jp": "部屋の中心に、冷気が目に見えるほど{n}白く凝り固まっていく。それは緩慢に{n}人型を取り始め、最後には凄まじい{n}速さで細部を造形し、半実体化した。",
-  "en": ""
+  "en": "In the middle of the room, the chill{n}gathered until it was visibly white. Slowly{n}it began to take human form, and at last,{n}with terrible speed, it shaped its finer{n}details and half took on substance."
  },
  {
   "id": "s0076_022d8",
@@ -1437,7 +1437,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "テメエは……！",
-  "en": ""
+  "en": "You're...!"
  },
  {
   "id": "s0076_022e8",
@@ -1461,7 +1461,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "姿を現したのは異風の忍び装束に身を{n}包んだ若い男であった。線は細いが{n}鍛え抜かれた肉体は、剃刀の冴えを{n}思わせる。生前は疑うことなく手練れ{n}だったであろう青年忍者の霊体である。{page}生真面目そうな、その端正な顔立ちは、{n}紛れもなく先刻、Ｄ・Ｓを導くべく{n}ヨーコ球に宿った亡霊の容貌であった。",
-  "en": ""
+  "en": "The figure that appeared was a young{n}man in foreign ninja garb. His slender but{n}finely honed body called to mind the keen{n}edge of a razor. It was the spirit of a{n}young ninja who had doubtless been a{n}master in life.{page}That earnest, handsome face was{n}unmistakably that of the phantom who{n}had just possessed the Yoko orb to guide{n}D.S."
  },
  {
   "id": "s0076_02404",
@@ -1485,7 +1485,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "テメエはさっき、ヨーコさんの球に{n}憑依したヤロウだな。人のオンナに{n}断りもなく失礼な真似しやがって！",
-  "en": ""
+  "en": "You're the bastard who just possessed{n}Yoko-san's orb. Pulling a rude stunt like that{n}on a man's woman without asking!"
  },
  {
   "id": "s0076_02468",
@@ -1509,7 +1509,7 @@
    "ヴァイ"
   ],
   "jp": "毎度のツッコミだけど、誰がアンタの{n}オンナなんじゃ！",
-  "en": ""
+  "en": "I say this every time, but since when is she{n}your woman!"
  },
  {
   "id": "s0076_024a0",
@@ -1533,7 +1533,7 @@
    "ジン"
   ],
   "jp": "“生身を持たず、この部屋に封じ込め{n}られているオレには、ああする他に{n}地下の侵入方法を伝える術がなかった。{n}その聖玉の女性に心より謝罪したい”",
-  "en": ""
+  "en": "\"I have no body, and I'm sealed in this room.{n}That was the only way I could show you the{n}way underground. I apologize from my heart{n}to the woman of that Holy Orb.\""
  },
  {
   "id": "s0076_02530",
@@ -1557,7 +1557,7 @@
    "ジン"
   ],
   "jp": "ヨーコ球が青く穏やかに明滅した。{n}この霊に制御を奪われたことに対し、{n}何らわだかまりはないという意志表示{n}であった。",
-  "en": ""
+  "en": "The Yoko orb blinked a calm blue. It was a{n}sign that she bore no grudge for having{n}her control taken by this spirit."
  },
  {
   "id": "s0076_025a4",
@@ -1581,7 +1581,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "チェッ、つまんねーの。あーゆー{n}コト俺がやったら怒るんだぜ",
-  "en": ""
+  "en": "Tch, no fun. If I did that kind of stuff, she'd{n}get mad at me."
  },
  {
   "id": "s0076_025e0",
@@ -1605,7 +1605,7 @@
    "ヴァイ"
   ],
   "jp": "でも、この亡霊は悪いヤツじゃなさ{n}そうだよな。ちゃんと謝ったし",
-  "en": ""
+  "en": "But this ghost doesn't seem like a bad guy.{n}He apologized and everything."
  },
  {
   "id": "s0076_02620",
@@ -1629,7 +1629,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "アメえ！　亡霊ってヤツは油断させ{n}といて取り殺すなんてこた日常茶飯！{n}まして地縛霊の頭ン中は怨念でパンク{n}寸前！　助けて百太郎ってなもんだ",
-  "en": ""
+  "en": "Naive! Getting you off guard and then{n}haunting you to death is all in a day's work{n}for a ghost! And a ghost bound to one spot{n}has a head ready to burst with grudges!{page}Who ya gonna call, right!"
  },
  {
   "id": "s0076_026ac",
@@ -1653,7 +1653,7 @@
    "ヴァイ"
   ],
   "jp": "あーあ、ヘソ曲げてやがるよ",
-  "en": ""
+  "en": "Aw, man. He's sulking."
  },
  {
   "id": "s0076_026c8",
@@ -1677,7 +1677,7 @@
    "シェラ"
   ],
   "jp": "霊との交信は専門ではないが……{n}私には悪い気配や妄念は感じ取れない。{n}あるのは友を思う、哀惜に満ちた想念{n}だけ……",
-  "en": ""
+  "en": "Communing with spirits is not my art... yet I{n}sense no evil presence or delusion here.{n}There is only a sorrowful longing for a{n}friend..."
  },
  {
   "id": "s0076_0273c",
@@ -1701,7 +1701,7 @@
    "ジン"
   ],
   "jp": "“アンタたちを害する意図はない。{n}信じてもらうしかないが……頼む！{n}オレの話を聞いてもらえないか？”",
-  "en": ""
+  "en": "\"I don't intend you any harm. You'll just{n}have to believe me... Please! Won't you hear{n}me out?\""
  },
  {
   "id": "s0076_027a0",
@@ -1725,7 +1725,7 @@
    "ジン"
   ],
   "jp": "“この場所でずっと待っていたが、{n}アンタたち以外の人間は一度も塔に{n}やってこなかったんだ。頼む！”",
-  "en": ""
+  "en": "\"I've waited here all this time, and no{n}humans but you have ever come to the{n}tower. Please!\""
  },
  {
   "id": "s0076_02804",
@@ -1749,7 +1749,7 @@
    "ヴァイ"
   ],
   "jp": "聞くだけ聞いてやろうぜ。ホラ、{n}あんまりすねてるとヨーコ球もイラ{n}イラしてきたぞ",
-  "en": ""
+  "en": "Let's at least hear him out. Look, keep{n}sulking and the Yoko orb's gonna get{n}annoyed too."
  },
  {
   "id": "s0076_02854",
@@ -1773,7 +1773,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "（ギクッ！）ま、まあ話ぐらいは{n}聞こうじゃねえか。それで憑かれる{n}ワケでもなし。で、テメエは誰だ？{n}ここで誰ぞに殺されたか？",
-  "en": ""
+  "en": "(Gulp!) W-Well, I guess the great me can{n}hear him out. It's not like that'll get me{n}haunted. So who the hell are you?{n}Somebody kill you here?"
  },
  {
   "id": "s0076_028d0",
@@ -1797,7 +1797,7 @@
    "ジン"
   ],
   "jp": "“ありがたい！　オレの名はジン。{n}ジン・シモンだ。死んでからもう、{n}ずいぶんと経つ。だが、本来は地縛霊{n}ではなかった――”",
-  "en": ""
+  "en": "\"Thank you! My name is Jin. Jin Simon. It's{n}been a very long time since I died. But I{n}wasn't originally bound to a place--\""
  },
  {
   "id": "s0076_0294c",
@@ -1821,7 +1821,7 @@
    "ジン"
   ],
   "jp": "“オレはずっと、ある刀に宿ってその{n}持ち主を見守ってきた。普段は眠って{n}いるようなもんだった。恨みを残して{n}死んだわけではなかったし……”",
-  "en": ""
+  "en": "\"All this time I lived on inside a certain{n}sword, watching over its owner. Mostly I{n}was as good as asleep. I didn't die with a{n}grudge, after all...\""
  },
  {
   "id": "s0076_029d8",
@@ -1845,7 +1845,7 @@
    "ジン"
   ],
   "jp": "“そもそもこんな風に半実体化すること{n}なんてできなかった。それがどうだ！{n}目を覚ましてみたら見知らぬ世界に{n}いて、しかも刀から引き離されていた”",
-  "en": ""
+  "en": "\"To begin with, I could never take half-solid{n}form like this. And then look! I woke up in a{n}strange world, torn from my sword.\""
  },
  {
   "id": "s0076_02a68",
@@ -1869,7 +1869,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "コイツは、物を媒介にこの世界に{n}引っ張られたクチか……",
-  "en": ""
+  "en": "So this guy got dragged into this world{n}through an object..."
  },
  {
   "id": "s0076_02aa0",
@@ -1893,7 +1893,7 @@
    "ジン"
   ],
   "jp": "“長年宿り続けた刀だけに、離れて{n}いてもその様子は伝わってくる。{n}あろうことか刀は持ち主の元さえ離れ、{n}邪な封印として悪用されているんだ！”",
-  "en": ""
+  "en": "\"I lived inside that sword for so many years{n}that I can sense it even from afar. And of{n}all things, the sword has left even its{n}owner's side, and it's being misused as an{page}evil seal!\""
  },
  {
   "id": "s0076_02b2c",
@@ -1917,7 +1917,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "その持ち主ってのは、誰だ？",
-  "en": ""
+  "en": "And who's this owner?"
  },
  {
   "id": "s0076_02b48",
@@ -1941,7 +1941,7 @@
    "ジン"
   ],
   "jp": "“それが……刀から離されてしまった{n}せいか、記憶から名前がぽっかりと{n}抜け落ちていて……オレの大切な友で{n}あったはずなのに！”",
-  "en": ""
+  "en": "\"That's just it... Maybe because I was torn{n}from the sword, his name has dropped clean{n}out of my memory... And he must have been{n}my dear friend!\""
  },
  {
   "id": "s0076_02bc8",
@@ -1965,7 +1965,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "オメエも記憶をいじくられたのかも{n}知れねえな。しかし刀……刀か",
-  "en": ""
+  "en": "Maybe your memory got messed with too.{n}But a sword... a sword, huh?"
  },
  {
   "id": "s0076_02c08",
@@ -1989,7 +1989,7 @@
    "シェラ"
   ],
   "jp": "Ｄ・Ｓ。もしやと思うのだが、その{n}刀とは龍を封じている“鋼”ではない{n}だろうか？",
-  "en": ""
+  "en": "D.S. I do wonder -- might that sword be the{n}\"steel\" that seals the dragon?"
  },
  {
   "id": "s0076_02c58",
@@ -2013,7 +2013,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "あり得るな。亡霊が宿る刀ってのも、{n}妖気漂う鋼って話に符合する。それに{n}地龍が封印されてる場所も、この塔の{n}近辺が臭そうだしな",
-  "en": ""
+  "en": "Could be. A sword with a ghost in it fits the{n}story about steel that reeks of demon{n}energy. And the place where the Earth{n}Dragon's sealed smells like it's around this{page}tower, too."
  },
  {
   "id": "s0076_02cd8",
@@ -2037,7 +2037,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "そう言やシェラが言い残してったな。{n}電気と、それから妖気漂う鋼が地龍を{n}封じていると……鋼ってのは、その刀{n}のことかも知れねえ",
-  "en": ""
+  "en": "Come to think of it, Shella told us.{n}Electricity, and steel that reeks of demon{n}energy, are what seal the Earth Dragon...{n}This steel might be that sword."
  },
  {
   "id": "s0076_02d58",
@@ -2061,7 +2061,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "おいオメエ、その刀はどこにある？{n}ここから遠いのか、近いのか？",
-  "en": ""
+  "en": "Hey, you. Where's this sword? Is it far from{n}here, or close?"
  },
  {
   "id": "s0076_02d98",
@@ -2085,7 +2085,7 @@
    "ジン"
   ],
   "jp": "“近いはずだ。オレを遠くまで引き{n}離すことはできなかったらしい”",
-  "en": ""
+  "en": "\"It must be close. It seems they couldn't{n}take me far from it.\""
  },
  {
   "id": "s0076_02ddc",
@@ -2109,7 +2109,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "いよーし、それじゃひとつ封印を{n}ブチ砕きにいくか。幽霊君、貴重な{n}情報をありがとう！　サラバ！",
-  "en": ""
+  "en": "All riiight, let's go smash us a seal. Thanks{n}for the valuable tip, Mister Ghost!{n}Farewell!"
  },
  {
   "id": "s0076_02e3c",
@@ -2133,7 +2133,7 @@
    "ジン"
   ],
   "jp": "“待ってくれ！　オレも一緒に連れて{n}いってくれ！”",
-  "en": ""
+  "en": "\"Wait! Take me with you!\""
  },
  {
   "id": "s0076_02e70",
@@ -2157,7 +2157,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "えーっ？",
-  "en": ""
+  "en": "Whaaat?"
  },
  {
   "id": "s0076_02e7c",
@@ -2181,7 +2181,7 @@
    "ジン"
   ],
   "jp": "“刀もだが、友のことが気になる。{n}それに、そもそもが妖刀の異名を取る{n}刀だ。オレが戻らない限り、封印から{n}外せないかも知れないぞ”",
-  "en": ""
+  "en": "\"I care about the sword, but I'm also{n}worried about my friend. Besides, that{n}sword's known as a cursed blade. Unless I{n}return to it, it may not come out of the{page}seal.\""
  },
  {
   "id": "s0076_02f00",
@@ -2205,7 +2205,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "でも、オメエはこの空間に縛られて{n}いるんだろ？　連れていこうったって{n}無理じゃねえのか？",
-  "en": ""
+  "en": "But you're bound to this space, right? How{n}the hell could we take you along?"
  },
  {
   "id": "s0076_02f58",
@@ -2229,7 +2229,7 @@
    "ジン"
   ],
   "jp": "“それは……その、聖玉の力を借りれ{n}ば何とかなる。つまり、ここでオレが{n}直接その球に宿れば、一緒にこの部屋{n}から抜け出せるはずなんだ”",
-  "en": ""
+  "en": "\"Well... with the power of that Holy Orb it{n}can be done. In other words, if I inhabit{n}that orb directly right here, I should be{n}able to leave this room with you.\""
  },
  {
   "id": "s0076_02fe0",
@@ -2253,7 +2253,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "……やい、まーた俺様のヨーコさん{n}に乗っかろうってのか、テメエわ？",
-  "en": ""
+  "en": "...Hey, you're looking to climb on top of the{n}great me's Yoko-san again, are you, you{n}bastard?"
  },
  {
   "id": "s0076_03024",
@@ -2277,7 +2277,7 @@
    "ジン"
   ],
   "jp": "“いや、今度は制御を奪うようなこと{n}は……ただ、しばらく球に同居させて{n}もらうだけで……”",
-  "en": ""
+  "en": "\"No, this time I wouldn't take control... I'd{n}just share the orb with her for a while...\""
  },
  {
   "id": "s0076_03080",
@@ -2301,7 +2301,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "ダメダメダメッ！　絶対ヤダね！{n}ヨーコさんと同衾なんて許さんもんね！{n}その純白無垢のキャンバスに足跡を{n}刻むのはこの俺、ダーク・シュ……",
-  "en": ""
+  "en": "No no no! No way in hell! I will not allow you{n}to bed down with Yoko-san! The one to{n}leave his footprints on that pure white{n}canvas is me, Dark Schn..."
  },
  {
   "id": "s0076_03108",
@@ -2325,7 +2325,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "赤熱したかに染まったヨーコ球が、{n}勢い良くＤ・Ｓの顔面に食い込んだ。{n}そしてそのまま亡霊のそばに漂って{n}いくと、青く輝いて宙に停止した。",
-  "en": ""
+  "en": "The Yoko orb, flushed as if red-hot, sank{n}into D.S.'s face with great force. It then{n}drifted to the phantom's side, glowed blue{n}and stopped in midair."
  },
  {
   "id": "s0076_03190",
@@ -2349,7 +2349,7 @@
    "ジン"
   ],
   "jp": "“憑依を許してくれるのか……恩に{n}着る！　ヨーコ殿と申されるのか。{n}決して無礼は働かん。この聖玉の一部{n}を借り、その時を待つとしよう！”",
-  "en": ""
+  "en": "\"You'll permit me to possess it... I'm in your{n}debt! You are Yoko-dono, then? I will never{n}be rude to you. I'll borrow a part of this{n}Holy Orb and await my time!\""
  },
  {
   "id": "s0076_03218",
@@ -2373,7 +2373,7 @@
    "ジン"
   ],
   "jp": "現れた時とは逆に、ジンの姿は一瞬に{n}ディティールを失い、白い煙と化して{n}ヨーコ球のメタリックな表面の一点に{n}吸い込まれていく。銀色のさざ波が{n}生じ、やがてジンの亡霊は残らず球の{n}中に消え去った。",
-  "en": ""
+  "en": "In reverse of his arrival, Jin's figure lost{n}its detail in an instant, turned to white{n}smoke and was drawn into a single point{n}on the Yoko orb's metallic surface. Silver{n}ripples spread, and soon Jin's phantom{n}had vanished wholly within the orb."
  },
  {
   "id": "s0076_032d8",
@@ -2397,7 +2397,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "あ！　クッソーっ！　何かすっげー{n}悔しい！　ヨーコさんのバカ！",
-  "en": ""
+  "en": "Ah! Damn it! This really pisses me off!{n}Yoko-san, you dummy!"
  },
  {
   "id": "s0076_03318",
@@ -2421,7 +2421,7 @@
    "ヴァイ"
   ],
   "jp": "駄々ってもしょうがないだろ。{n}ホント、ヨーコのコトになるとガキ{n}だよな、アンタは！",
-  "en": ""
+  "en": "Throwing a tantrum won't help. Seriously,{n}you turn into a little kid when it comes to{n}Yoko!"
  },
  {
   "id": "s0076_0336c",
@@ -2445,7 +2445,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "呼び捨てにすんなーっ！　あーもう、{n}仕方ねえ！　その刀とやらを探して、{n}早いところジンのヤツをひっぺがして{n}やらあ！",
-  "en": ""
+  "en": "Don't you drop the -san! Argh, fine! We'll find{n}that sword and peel that guy Jin off her,{n}fast!"
  },
  {
   "id": "s0076_03928",
@@ -2469,6 +2469,6 @@
    ""
   ],
   "jp": "全身に微細な電流を疾らせ、守護者は{n}迅速に侵入者を認識した。風の機神と{n}対になるであろう巨体は、やはり奇怪{n}な仏像を思わせる。塔に蓄積された{n}電力をふんだんに帯びたその姿は、{n}まさしく怒れる雷神そのものであった。",
-  "en": ""
+  "en": "Fine currents racing through its body, the{n}guardian swiftly recognized the intruders.{n}The giant form, surely the twin of the{n}wind's machine god, called to mind{n}another grotesque Buddhist statue.{n}Brimming with power stored in the tower,{n}it was the very image of the wrathful{n}thunder god."
  }
 ]
