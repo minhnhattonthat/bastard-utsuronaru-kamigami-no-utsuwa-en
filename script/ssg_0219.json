@@ -21,7 +21,7 @@
    ""
   ],
   "jp": "氷の亀裂から導かれたのは、古くに{n}封印されたのであろう神殿であった。{page}これまでとは全く異質な、そして{n}強い妖気がこの建造物の奥深くから{n}漂ってくる――",
-  "en": ""
+  "en": "What the crack in the ice led them to was{n}a temple, doubtless sealed long ago.{page}Something utterly unlike anything so far,{n}a strong eerie aura, drifted from deep{n}inside the building--"
  },
  {
   "id": "s0219_008ac",
@@ -45,7 +45,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "おかしな場所に迷い込んじまったな。{n}ここは氷結湖とは関係なさそうだぜ",
-  "en": ""
+  "en": "We wandered into a weird place. This doesn't{n}look like it's got anything to do with the{n}Frozen Lake."
  },
  {
   "id": "s0219_008f4",
@@ -69,7 +69,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "樹海にあった女神の神殿と同質のもの{n}だな。と、すると、ここにも太古の{n}魔神の類が祀られてるってワケだ",
-  "en": ""
+  "en": "It's the same kind of thing as the goddess's{n}temple in the forest. Which means some{n}ancient demon god's worshipped here too."
  },
  {
   "id": "s0219_00958",
@@ -93,7 +93,7 @@
    "イダ"
   ],
   "jp": "この妖気――私が仕えていた女神と{n}同等か、それ以上の力を有している{n}ようですね。強きものは、それだけで{n}美しい……楽しみです",
-  "en": ""
+  "en": "This aura-- it seems to hold power equal to{n}the goddess I served, or greater. A strong{n}thing is beautiful for that alone... I look{n}forward to it."
  },
  {
   "id": "s0219_009d4",
@@ -117,7 +117,7 @@
    "ヴァイ"
   ],
   "jp": "アンタ、ホンット変わってるねぇ",
-  "en": ""
+  "en": "You really are a weird one, y'know."
  },
  {
   "id": "s0219_009f4",
@@ -141,7 +141,7 @@
    "ヨシュア"
   ],
   "jp": "……Ｄ・Ｓ。あなたがこの神殿を探索{n}するなら、その間に俺は別行動を{n}取らせてもらいたいんだが――",
-  "en": ""
+  "en": "...D.S. While you explore this temple, I would{n}like leave to act separately--"
  },
  {
   "id": "s0219_00a54",
@@ -165,7 +165,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "例の、オメエの使命ってヤツ？",
-  "en": ""
+  "en": "That mission of yours again?"
  },
  {
   "id": "s0219_00a74",
@@ -189,7 +189,7 @@
    "ヨシュア"
   ],
   "jp": "ま……まあ、そう言うことになるか",
-  "en": ""
+  "en": "W... well, you could put it that way."
  },
  {
   "id": "s0219_00a98",
@@ -213,7 +213,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "……ハッハーン。そうか、ヨシュア、{n}判っちまったぞ",
-  "en": ""
+  "en": "...Ah-haaa. I get it, Joshua, I see right{n}through you."
  },
  {
   "id": "s0219_00acc",
@@ -237,7 +237,7 @@
    "ヨシュア"
   ],
   "jp": "な、何をだ？　別に俺は――",
-  "en": ""
+  "en": "Wh-what do you mean? I am not--"
  },
  {
   "id": "s0219_00ae8",
@@ -261,7 +261,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "ランを追っかけてったカイが心配なん{n}だろ？　あのふたり、何かいわくあり{n}そうだもんな。しっかしヨシュアくん{n}も男の子だねー。",
-  "en": ""
+  "en": "You're worried about Kai, who ran off after{n}Ran, right? Those two sure seem to have{n}some history. Damn, Joshua-kun, you really{n}are a boy after all."
  },
  {
   "id": "s0219_00b64",
@@ -285,7 +285,7 @@
    "ヨシュア"
   ],
   "jp": "ばっバカなっ！　この非常時にそんな{n}コトを気にしては……いないとは……{n}（ゴニョゴニョ）",
-  "en": ""
+  "en": "D-d-don't be absurd! In such an emergency,{n}I would never be concerned about... not{n}that I am not... (mumble mumble)"
  },
  {
   "id": "s0219_00bbc",
@@ -309,7 +309,7 @@
    "シーン"
   ],
   "jp": "そうなの!?　うーん、確かにヨシュア{n}とカイってお似合いだけど、兄さんも{n}……どうなのかな",
-  "en": ""
+  "en": "Is that so!? Hmm, Joshua and Kai would make{n}a good couple, sure, but my brother too... I{n}wonder."
  },
  {
   "id": "s0219_00c14",
@@ -333,7 +333,7 @@
    "ヨシュア"
   ],
   "jp": "どうなのだ？",
-  "en": ""
+  "en": "You wonder what?"
  },
  {
   "id": "s0219_00c24",
@@ -357,7 +357,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "やっぱ気にしてんじゃねーか。いーぜ。{n}行ってこいよ",
-  "en": ""
+  "en": "So you are worried. Fine. Go on."
  },
  {
   "id": "s0219_00c58",
@@ -381,7 +381,7 @@
    "ヨシュア"
   ],
   "jp": "かたじけない。では、後で会おう――",
-  "en": ""
+  "en": "I am obliged to you. Then we will meet{n}later--"
  },
  {
   "id": "s0219_00c7c",
@@ -405,7 +405,7 @@
    "ヨルグ"
   ],
   "jp": "ヨシュアが恋か……フ、寂しいな",
-  "en": ""
+  "en": "Joshua in love... Heh, it makes me lonely."
  },
  {
   "id": "s0219_00c9c",
@@ -429,7 +429,7 @@
    "ヴァイ"
   ],
   "jp": "ヨルグ……それ友情と違うゾ。ヤバい",
-  "en": ""
+  "en": "Jorg... That ain't friendship talking. That's{n}dangerous."
  },
  {
   "id": "s0219_00f0c",
@@ -453,7 +453,7 @@
    ""
   ],
   "jp": "その玄室の中央に、大きな人影が{n}立ちはだかっていた。",
-  "en": ""
+  "en": "In the middle of that burial chamber a{n}large figure stood blocking the way."
  },
  {
   "id": "s0219_00f44",
@@ -645,7 +645,7 @@
    "シェラ"
   ],
   "jp": "召喚士!?",
-  "en": ""
+  "en": "The summoner!?"
  },
  {
   "id": "s0219_01240",
@@ -693,7 +693,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "見覚えのある大男が、そこに立ち{n}はだかっていた。",
-  "en": ""
+  "en": "A big man they had seen before stood{n}there, blocking the way."
  },
  {
   "id": "s0219_012c4",
@@ -717,7 +717,7 @@
    "イダ"
   ],
   "jp": "またお会いしましたね",
-  "en": ""
+  "en": "We meet again."
  },
  {
   "id": "s0219_012dc",
@@ -741,7 +741,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "テメエ、イダとか言ったな？",
-  "en": ""
+  "en": "You bastard, Ida, wasn't it?"
  },
  {
   "id": "s0219_012f8",
@@ -765,7 +765,7 @@
    "イダ"
   ],
   "jp": "覚えて戴き光栄です。すでに知らない{n}間柄ではありませんが、今や私はこの{n}神殿の主の下僕――その命に従い、{n}侵入者を排除しなくてはなりません",
-  "en": ""
+  "en": "I am honored that you remember. We are no{n}strangers, but I am now a servant of this{n}temple's master. By that command, I must{n}remove all intruders."
  },
  {
   "id": "s0219_01384",
@@ -789,7 +789,7 @@
    "イダ"
   ],
   "jp": "悲しいことですが、またもや我々は{n}敵同士……それでは私の魔獣たちと{n}戦って頂きましょうか！",
-  "en": ""
+  "en": "It is sad, but once again we are enemies...{n}Now then, I shall have you fight my magic{n}beasts!"
  },
  {
   "id": "s0219_013e0",
@@ -813,7 +813,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "またか……上等だ！　今度こそ美しい{n}戦いってのをテメエの瞼に焼き付けて{n}やるぜ！",
-  "en": ""
+  "en": "Again... Bring it on! This time I'll burn a{n}beautiful battle into your damn eyelids!"
  },
  {
   "id": "s0219_01430",
@@ -933,7 +933,7 @@
    "イダ"
   ],
   "jp": "女神の神殿から逃走したイダは、この{n}神殿に強制的に実体化させられていた。{n}どうやらここに棲む神が、己の手足と{n}なる従者としてイダを召喚したようで{n}あった。その魔神の力強さを美と{n}捉えたイダは、ここで再び守護者を{n}務めていたらしい。",
-  "en": ""
+  "en": "Having fled the goddess's temple, Ida had{n}been forcibly made flesh in this one. It{n}seemed the god living here had summoned{n}Ida as a follower, to be its hands and{n}feet. Taking that demon god's might for{n}beauty, Ida had once again served as{n}guardian here."
  },
  {
   "id": "s0219_016cc",
@@ -957,7 +957,7 @@
    "イダ"
   ],
   "jp": "Ｄ・Ｓたちと話すうち、イダの記憶は{n}急速に蘇っていった。{page}この男もまた、カルに従う魔戦将軍の{n}ひとりであった。だが、至高王の話を{n}聞いても、イダに動揺した様子は{n}見られなかった",
-  "en": ""
+  "en": "As he talked with D.S. and the others,{n}Ida's memory swiftly returned.{page}This man too was one of the Sorcerer{n}Generals who served Kall. Yet even on{n}hearing about the High King, Ida showed{n}no sign of being shaken."
  },
  {
   "id": "s0219_0177c",
@@ -1005,7 +1005,7 @@
    "イダ"
   ],
   "jp": "ならば今、正義はＤ・Ｓ、貴方に従う{n}ことにあります。カル様への忠誠を{n}捨てたわけではありませんが、貴方と{n}ともに進みましょう――",
-  "en": ""
+  "en": "Then for now, justice lies in following you,{n}D.S. I have not cast off my loyalty to{n}Kall-sama, but let us go on together--"
  },
  {
   "id": "s0219_01858",
@@ -1029,7 +1029,7 @@
    "イダ"
   ],
   "jp": "どうも貴方たちの戦いぶりは美しく{n}ありませんね。私の魔獣をまたも{n}退けた実力は評価しますが……",
-  "en": ""
+  "en": "I am afraid your manner of fighting is not{n}beautiful. Though I give you credit for{n}driving off my magic beasts once more..."
  },
  {
   "id": "s0219_018b8",
@@ -1053,7 +1053,7 @@
    "イダ"
   ],
   "jp": "今回も撤退を余儀なくされたようです。{n}次に遭うことがあれば、私ももう少し{n}マシな魔獣を用意するとしましょう",
-  "en": ""
+  "en": "It seems I am forced to retreat this time as{n}well. If we meet again, I shall prepare a{n}somewhat better magic beast."
  },
  {
   "id": "s0219_01924",
@@ -1077,7 +1077,7 @@
    "イダ"
   ],
   "jp": "イダの姿は、再び足下の魔法陣に{n}吸い込まれて消えた。",
-  "en": ""
+  "en": "Ida's form was again drawn into the magic{n}circle at his feet, and vanished."
  },
  {
   "id": "s0219_0195c",
@@ -1102,7 +1102,7 @@
    "シェラ"
   ],
   "jp": "ま、待て！　……行ってしまったか。{n}イダ……あの男もまた、魔戦将軍――？",
-  "en": ""
+  "en": "W-wait! ...He is gone. Ida... that man too, a{n}Sorcerer General--?"
  },
  {
   "id": "s0219_019a8",
@@ -1126,7 +1126,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "二度もあんなこと言われると腹立つぜ。{n}次は必ず、美しく魔獣を片づけて度肝{n}を抜いてやる！　見てやがれ――",
-  "en": ""
+  "en": "Hearing that twice really pisses me off. Next{n}time I'll dispose of those magic beasts{n}beautifully, and knock your socks off! Just{n}you watch--"
  },
  {
   "id": "s0219_01a10",
@@ -1294,7 +1294,7 @@
    ""
   ],
   "jp": "祭壇から、この神殿全体を支配する{n}妖気が強烈に放射されている。",
-  "en": ""
+  "en": "From the altar the eerie aura that ruled{n}the whole temple radiated fiercely."
  },
  {
   "id": "s0219_02078",
@@ -1318,7 +1318,7 @@
    ""
   ],
   "jp": "何かが姿を現した。巨大な獣の姿と、{n}悪魔の如き顔を持つ太古の悪神――。{page}殺戮と破壊によってのみその存在を{n}誇示し続けた魔神が、新たな生け贄を{n}前に歓喜と憎悪の咆哮を轟かせた。",
-  "en": ""
+  "en": "Something took shape: an ancient evil god{n}with the form of a huge beast and a{n}devil's face.{page}The demon god, who had proclaimed his{n}existence through nothing but slaughter{n}and destruction, roared with joy and{n}hatred before his new sacrifices."
  },
  {
   "id": "s0219_02124",
@@ -1342,6 +1342,6 @@
    "Ｄ・Ｓ"
   ],
   "jp": "ククク……こいつの眼も塞いで、魔力{n}ごと俺の肉体に封印しちまおう――。{n}フフフ、あと一匹見つけりゃいい。{n}凄えモンが見られるぜえ――",
-  "en": ""
+  "en": "Heh heh heh... I'll seal up this one's eyes too,{n}and lock him in my body, magic and all-- Heh{n}heh heh, just one more to go. Then you'll{n}see something amazing--"
  }
 ]

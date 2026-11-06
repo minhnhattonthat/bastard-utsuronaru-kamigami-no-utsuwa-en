@@ -21,7 +21,7 @@
    ""
   ],
   "jp": "遺跡は、中心に聳える塔から放射状に{n}伸びた十本の回廊と、その先に位置{n}する五つの宮殿によって構成されて{n}いた。宮殿は回廊をひとつおきに、{n}五芒星の頂点を描くように配置されて{n}いる。それ以外の桟橋は、いずれも{n}到着した場所と同じ、虚無の暗黒空間{n}で終わっていた。",
-  "en": ""
+  "en": "The ruins were made up of ten corridors{n}reaching out from the tower at their{n}center, and of five palaces at the ends{n}of them. The palaces stood at every{n}other corridor, forming the points of a{n}five-pointed star. Each of the other piers{n}ended, like the one where they had{n}arrived, in a void of darkness."
  },
  {
   "id": "s0238_00a68",
@@ -45,7 +45,7 @@
    ""
   ],
   "jp": "中央の塔にも、地下へと続くらしき{n}入口がある。しかし今は結界が張られ{n}ているのか、侵入することはできない{n}ようであった。宮殿の幾つかも、同じ{n}種類の結界に阻まれている。",
-  "en": ""
+  "en": "The central tower also had an entrance{n}apparently leading underground. But for{n}now it appeared to be sealed by a{n}barrier, for they could not get in. Several{n}of the palaces were blocked by the same{n}kind of barrier."
  },
  {
   "id": "s0238_00b10",
@@ -69,7 +69,7 @@
    ""
   ],
   "jp": "塔の壁面に、この遺跡を表している{n}らしき図形が刻まれていた。{page}中心と円周の十ヶ所に同じ大きさの{n}窪みがあり、そこに五つの宮殿と、{n}塔を示すそれぞれ異なる色の宝石が{n}嵌め込まれている。",
-  "en": ""
+  "en": "On the tower wall was carved a figure{n}that seemed to represent these ruins.{page}There were hollows of equal size at the{n}center and at ten places around the{n}circle, and in them were set gems of{n}different colors, marking the five palaces{n}and the tower."
  },
  {
   "id": "s0238_00bc4",
@@ -93,7 +93,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "こいつは何を表してやがるんだ……？{n}ボル、オメエ何か聞いてねえか？",
-  "en": ""
+  "en": "What the hell is this supposed to mean...?{n}Bol, you hear anything about it?"
  },
  {
   "id": "s0238_00c08",
@@ -117,7 +117,7 @@
    "ボル"
   ],
   "jp": "いや……カル様は我々にほとんど何も{n}語ることなく、必要な時に呼び出して{n}命令を与えるのみでござった。この{n}遺跡のことは、それがしは何ら……",
-  "en": ""
+  "en": "No... Kall-sama told us next to nothing, and{n}only summoned us to give orders when{n}needed, forsooth. Of these ruins this one{n}knows nothing..."
  },
  {
   "id": "s0238_00c94",
@@ -141,7 +141,7 @@
    "ボル"
   ],
   "jp": "ただ、この地にも魔戦将軍が送り込ま{n}れているはずでござる。巨獣を使わず{n}とも、地下世界と地表を自由に行き来{n}する手段はあったようでござった",
-  "en": ""
+  "en": "Still, Sorcerer Generals should have been{n}sent to this place too, forsooth. It seems{n}there was a way to pass freely between{n}the underworld and the surface, without{page}using the great beast."
  },
  {
   "id": "s0238_00d20",
@@ -165,7 +165,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "つまり、この遺跡はカルの手が加え{n}られているってこったな。とりあえず、{n}入れる宮殿から探索してみるか。{n}何か判るかも知れねえ――",
-  "en": ""
+  "en": "So Kall's been messing with these ruins.{n}Anyway, let's search the palaces we can get{n}into. Might learn something--"
  },
  {
   "id": "s0238_00e84",
@@ -189,7 +189,7 @@
    ""
   ],
   "jp": "五つの宮殿を並べ替えたせいなのか、{n}中央の塔の入口から結界が消えている。",
-  "en": ""
+  "en": "Whether because the five palaces had{n}been rearranged or not, the barrier had{n}vanished from the entrance to the{n}central tower."
  },
  {
   "id": "s0238_00ed0",
@@ -213,7 +213,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "……ここは空間が歪曲してやがる。{n}本来の塔じゃなく、別の建造物への{n}通路が空間に割り込んでるのか？",
-  "en": ""
+  "en": "...The space here's warped. Instead of the{n}real tower, is there a passage to some{n}other building butting into space?"
  },
  {
   "id": "s0238_00f34",
@@ -237,7 +237,7 @@
    "ヴァイ"
   ],
   "jp": "どうすんの？",
-  "en": ""
+  "en": "What do we do?"
  },
  {
   "id": "s0238_00f44",
@@ -261,7 +261,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "他の五宮の並びから判断すりゃあ、{n}それがたぶん最後の宮殿になるんだろ。{n}構うこたあねえ。行くぜ！",
-  "en": ""
+  "en": "Going by the order of the other five{n}palaces, that's probably the last palace.{n}Who cares. Let's go!"
  },
  {
   "id": "s0238_01040",
@@ -285,7 +285,7 @@
    "シェラ"
   ],
   "jp": "地下遺跡に完全な静寂が戻った……。{n}もうここに用はなさそうだな",
-  "en": ""
+  "en": "Complete silence has returned to the{n}underground ruins... We seem to have no{n}further business here."
  },
  {
   "id": "s0238_01080",
@@ -309,7 +309,7 @@
    "ヴァイ"
   ],
   "jp": "でも、どうやって地表に戻るんだ？",
-  "en": ""
+  "en": "But how do we get back to the surface?"
  },
  {
   "id": "s0238_010a4",
@@ -333,7 +333,7 @@
    "ラン"
   ],
   "jp": "俺が使った、至高王下賜の乗用生物が{n}いる。それに乗ればエーテルの海を{n}浮上できる",
-  "en": ""
+  "en": "There is the riding creature granted by the{n}High King that I used. Riding it, we can rise{n}through the sea of ether."
  },
  {
   "id": "s0238_010f4",
@@ -357,7 +357,7 @@
    "シーン"
   ],
   "jp": "わたしもそれを拝借して、ここまで{n}降りてきたのよね。良く慣れていたわ",
-  "en": ""
+  "en": "I borrowed one too, to come down here. It{n}was very tame."
  },
  {
   "id": "s0238_0113c",
@@ -381,7 +381,7 @@
    "カイ"
   ],
   "jp": "俺たちが使ったのもそれだ。{n}良く馴らされていて助かったぞ",
-  "en": ""
+  "en": "That's what we used. Lucky for us it was so{n}well trained."
  },
  {
   "id": "s0238_01178",
@@ -405,7 +405,7 @@
    "ヨシュア"
   ],
   "jp": "あれなら、この程度の人数なら一度に{n}運んでくれるだろう",
-  "en": ""
+  "en": "It should carry this many of us all at{n}once."
  },
  {
   "id": "s0238_011b0",
@@ -429,7 +429,7 @@
    "ヨシュア"
   ],
   "jp": "ランが合図を送ると、上空を旋回して{n}いたのか、一匹の巨大なエイのような{n}生物がゆっくりと降下してきた。{page}十メートル近い大きさであったが、{n}性質は極めておとなしいらしい。{n}全員を背に乗せて、それはエーテルの{n}海をふわりと泳ぎ始めた。",
-  "en": ""
+  "en": "When Ran gave a signal, a creature like a{n}huge ray, perhaps circling overhead,{n}slowly came down.{page}Nearly ten meters long, it seemed to be{n}of a very gentle nature. With all of them{n}on its back, it began to swim softly{n}through the sea of ether."
  },
  {
   "id": "s0238_01294",
@@ -453,7 +453,7 @@
    "ヨシュア"
   ],
   "jp": "浮上の途中、彼方を巨獣が泳いでいる{n}姿が見えた。それは次第に遠くなり、{n}遥か海底に消えていった――。",
-  "en": ""
+  "en": "On the way up they saw the great beast{n}swimming in the distance. It grew{n}gradually smaller, and vanished far away{n}on the sea floor--"
  },
  {
   "id": "s0238_012f8",
@@ -525,7 +525,7 @@
    ""
   ],
   "jp": "そこは明らかに、入った時とは違う{n}回廊の出口であった。{page}先刻までは暗黒空間に通じていた回廊{n}――即ち、宮殿それ自体がこの遺跡の{n}中で位置を変えたのである。",
-  "en": ""
+  "en": "This was clearly a different corridor exit{n}from the one they had entered by.{page}It was a corridor that until moments ago{n}led to the dark void: that is, the palace{n}itself had changed position within the{n}ruins."
  },
  {
   "id": "s0238_01534",
@@ -549,7 +549,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "……そうか！　この遺跡の仕組みが{n}判ってきたぜ",
-  "en": ""
+  "en": "...I get it! I'm figuring out how these ruins{n}work."
  },
  {
   "id": "s0238_01564",
@@ -573,7 +573,7 @@
    "シェン"
   ],
   "jp": "どういうことだ？",
-  "en": ""
+  "en": "What do you mean?"
  },
  {
   "id": "s0238_01578",
@@ -597,7 +597,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "ここは天体の運行を模して造られた{n}建造物群だ。恐らくは黄道の並びを{n}なぞってたんだろうが、それが移動さ{n}せられて機能を狂わされてやがる――",
-  "en": ""
+  "en": "These buildings were made to imitate the{n}movement of the heavens. They probably{n}followed the order of the zodiac, but{n}they've been moved around and their{page}function's screwed up--"
  },
  {
   "id": "s0238_01604",
@@ -621,7 +621,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "さっきの違和感はそのせいだろう。{n}今の宮殿を動かしたことで、ひとつは{n}正しい位置に納まったってワケだ。",
-  "en": ""
+  "en": "That's why it felt off before. Moving that{n}palace just now put one of 'em in the right{n}position."
  },
  {
   "id": "s0238_0166c",
@@ -645,7 +645,7 @@
    "ヴァイ"
   ],
   "jp": "じゃあ、宮殿を全部正しい位置まで{n}並び替えれば……どうなんの？",
-  "en": ""
+  "en": "So if we put all the palaces in the right{n}positions... what happens?"
  },
  {
   "id": "s0238_016ac",
@@ -669,7 +669,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "カルの奴にとって面白くねえことが{n}起きるんだろうぜ。たぶん、俺たちに{n}とっちゃ利になるこった",
-  "en": ""
+  "en": "Something Kall ain't gonna enjoy, I bet.{n}Probably good for us."
  },
  {
   "id": "s0238_01708",
@@ -693,7 +693,7 @@
    "シェラ"
   ],
   "jp": "その推測は間違いではあるまい。あの{n}宮殿が元の位置に納まった時、嫌な{n}波動は確実に消えていた……ねじ曲げ{n}られた自然の理が回復したようだった",
-  "en": ""
+  "en": "I doubt that guess is wrong. When that{n}palace settled in its original position, the{n}unpleasant waves definitely disappeared... It{n}was as if the twisted law of nature had{page}been restored."
  },
  {
   "id": "s0238_01794",
@@ -717,7 +717,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "よーし。今の宮殿が動いたぶん、また{n}そこに移動できる宮殿ができたはずだ。{n}片っ端から並べ直してやるぜ！",
-  "en": ""
+  "en": "All right. With that palace moved, there{n}should be room for another palace to move{n}in. I'll put 'em all back in line, one after{n}another!"
  },
  {
   "id": "s0238_01934",
@@ -741,7 +741,7 @@
    ""
   ],
   "jp": "遺跡中央の塔には、著しい変化が{n}現れていた。",
-  "en": ""
+  "en": "A striking change had come over the{n}tower at the center of the ruins."
  },
  {
   "id": "s0238_01964",
@@ -765,7 +765,7 @@
    ""
   ],
   "jp": "壁面の図形は、移動させた六つの宮殿{n}を示す宝石が六芒星の頂点を描き、{n}その中心には太陽を思わせるシンボル{n}が目映く輝いていた。塔の上には光の{n}柱が垂直に伸び、強いエネルギーが{n}内部から漏れているのが判る。",
-  "en": ""
+  "en": "On the figure on the wall, the gems{n}marking the six moved palaces formed the{n}points of a six-pointed star, and at its{n}center a symbol like the sun shone{n}dazzlingly. A pillar of light rose straight{n}up from the top of the tower, showing{n}strong energy leaking from inside."
  },
  {
   "id": "s0238_01a30",
@@ -789,7 +789,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "今度は、ちゃんとこの塔に繋がってる{n}みたいだな",
-  "en": ""
+  "en": "Looks like it's really connected to this tower{n}this time."
  },
  {
   "id": "s0238_01a60",
@@ -813,7 +813,7 @@
    "シェラ"
   ],
   "jp": "凄まじい力を感じる……この力こそが、{n}水龍の示そうとした秘密――？",
-  "en": ""
+  "en": "I sense a terrific power... Is this power the{n}secret the Water Dragon tried to point{n}to--?"
  },
  {
   "id": "s0238_01b40",
@@ -837,6 +837,6 @@
    ""
   ],
   "jp": "目には見えぬ結界によって阻まれている",
-  "en": ""
+  "en": "An unseen barrier blocked the way."
  }
 ]

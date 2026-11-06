@@ -21,7 +21,7 @@
    ""
   ],
   "jp": "再び、ランがそこにいた。思い詰めた{n}表情には、この戦いに死を賭して臨む{n}決心が窺える。至高王の使命を全う{n}することが仲間――そしてカイの命を{n}奪う結果となるなら、その後で己の命{n}をも断とうという悽愴な覚悟であった。",
-  "en": ""
+  "en": "Once again, Ran stood there. His haggard{n}face showed his resolve to face this fight{n}with death at stake. If carrying out the{n}High King's mission meant taking the lives{n}of his comrades, and of Kai, he would{n}afterward end his own life as well: such{n}was his grim resolve."
  },
  {
   "id": "s0260_008ec",
@@ -48,7 +48,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "それ故、もはやその太刀筋に乱れは{n}ない。このひとときを修羅として{n}生きる、死人の剣がそこにあった。",
-  "en": ""
+  "en": "So his sword strokes no longer wavered.{n}There was the sword of a dead man, living{n}this moment as a fiend of war."
  },
  {
   "id": "s0260_00950",
@@ -73,7 +73,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "バカ野郎め。くだらねえことに縛られ{n}やがって――",
-  "en": ""
+  "en": "You damn idiot. Tying yourself up over{n}nonsense like that--"
  },
  {
   "id": "s0260_00984",
@@ -97,7 +97,7 @@
    "カイ"
   ],
   "jp": "ラン……もう戻れないのか",
-  "en": ""
+  "en": "Ran... Can't you come back?"
  },
  {
   "id": "s0260_009a0",
@@ -121,7 +121,7 @@
    "ラン"
   ],
   "jp": "戻れない……俺はカル様とともに、{n}前に進んでゆくしかないのだ！",
-  "en": ""
+  "en": "I cannot... I have no choice but to go{n}forward with Kall-sama!"
  },
  {
   "id": "s0260_009e0",
@@ -146,7 +146,7 @@
    "ラン"
   ],
   "jp": "く……まだだ。まだ負けられんのだ！",
-  "en": ""
+  "en": "Ngh... Not yet. I cannot lose yet!"
  },
  {
   "id": "s0260_00a04",
@@ -171,7 +171,7 @@
    "シェラ"
   ],
   "jp": "ラン……これ以上は死ぬぞ！",
-  "en": ""
+  "en": "Ran... You will die if you keep on!"
  },
  {
   "id": "s0260_00a20",
@@ -196,7 +196,7 @@
    "ラン"
   ],
   "jp": "構わぬ！　カル様のためなら、{n}俺の命などここで果てても――",
-  "en": ""
+  "en": "I do not care! For Kall-sama, even if my life{n}ends here--"
  },
  {
   "id": "s0260_00a5c",
@@ -221,7 +221,7 @@
    "ラン"
   ],
   "jp": "ランが死力を振り絞って身を起こし、{n}捨て身の攻撃に出ようとした、{n}その刹那――。",
-  "en": ""
+  "en": "At the moment when Ran summoned the{n}last of his strength, rose and prepared to{n}launch a desperate attack--"
  },
  {
   "id": "s0260_00aac",
@@ -245,7 +245,7 @@
    "シーン"
   ],
   "jp": "やめて――っ!!",
-  "en": ""
+  "en": "Stop it--!!"
  },
  {
   "id": "s0260_00abc",
@@ -269,7 +269,7 @@
    "シーン"
   ],
   "jp": "飛び込んできたのは、ランを追って{n}一行から離れたシーンであった。実の{n}兄の前に立ちはだかり、両手を広げて{n}それ以上の戦いを制止しようとして{n}いる。そこにはランを想う肉親の、{n}揺るぎようのない献身の姿があった。",
-  "en": ""
+  "en": "The one who leapt in was Sean, who had{n}left the party to chase Ran. She stood{n}before her own brother with both arms{n}spread, trying to stop any further{n}fighting. It was the unshakable devotion{n}of one who loved Ran as blood kin."
  },
  {
   "id": "s0260_00b8c",
@@ -293,7 +293,7 @@
    "シーン"
   ],
   "jp": "兄さん、バカなことはやめて！{n}どうしても戦いを続けるなら、{n}わたしを殺してからにして！",
-  "en": ""
+  "en": "Brother, stop this foolishness! If you must{n}keep on fighting, kill me first!"
  },
  {
   "id": "s0260_00be4",
@@ -317,7 +317,7 @@
    "カイ"
   ],
   "jp": "シーン！",
-  "en": ""
+  "en": "Sean!"
  },
  {
   "id": "s0260_00bf0",
@@ -341,7 +341,7 @@
    "ラン"
   ],
   "jp": "何を言うんだ……シーン。そこを……{n}そこをどけ！",
-  "en": ""
+  "en": "What are you saying... Sean. Move... get out{n}of the way!"
  },
  {
   "id": "s0260_00c24",
@@ -365,7 +365,7 @@
    "シーン"
   ],
   "jp": "どかないわ！　幼い頃兄さんは約束{n}してくれた。孤児になって、カイと{n}三人で荒野を彷徨っていた時、{n}わたしたちを守ってくれるって――",
-  "en": ""
+  "en": "I won't! When we were little you made me a{n}promise. When we were orphans, wandering{n}the wastelands, we three with Kai, you said{n}you would protect us--"
  },
  {
   "id": "s0260_00ca8",
@@ -389,7 +389,7 @@
    "シーン"
   ],
   "jp": "それは本当だったわ。ろくに武器も{n}ないのに、兄さんは猛獣や追い剥ぎを{n}傷だらけになって追い払ってくれた",
-  "en": ""
+  "en": "And you did. With hardly any weapons, you{n}drove off wild beasts and robbers, and got{n}covered with wounds."
  },
  {
   "id": "s0260_00d10",
@@ -413,7 +413,7 @@
    "シーン"
   ],
   "jp": "ネイ様に拾われるまでに、兄さんが{n}いなかったら何度死んでいたか{n}判らない。だったら、兄さんを救う{n}ためにわたしはここで死ぬわ！",
-  "en": ""
+  "en": "Before Nei-sama took us in, I don't know how{n}many times I would have died without you.{n}So to save you, brother, I'll die here!"
  },
  {
   "id": "s0260_00d90",
@@ -437,7 +437,7 @@
    "ラン"
   ],
   "jp": "……馬鹿な",
-  "en": ""
+  "en": "...Don't be stupid."
  },
  {
   "id": "s0260_00d9c",
@@ -461,7 +461,7 @@
    "シーン"
   ],
   "jp": "思い出して、兄さん。わたしたちの{n}村を焼いたのは、そうやって狂った{n}領主に従い、自分で判断しないまま{n}戦い続けた兵士たちよ！",
-  "en": ""
+  "en": "Remember, brother. The ones who burned{n}our village were soldiers just like that, who{n}served a mad lord and went on fighting{n}without thinking for themselves!"
  },
  {
   "id": "s0260_00e18",
@@ -485,7 +485,7 @@
    "シーン"
   ],
   "jp": "彼らだって、ほんの少し自分で考える{n}勇気を持てば良かった。今の兄さんは{n}それと同じ……カル＝スが操られてる{n}って、気づかないふりをしてるんだわ！",
-  "en": ""
+  "en": "If only they had found a little courage to{n}think for themselves. You're the same as{n}them now... You're just pretending not to{n}notice that Kall-Su is being controlled!"
  },
  {
   "id": "s0260_00ea8",
@@ -534,7 +534,7 @@
    "シーン"
   ],
   "jp": "お願い……わたしたちのもとに帰って{n}きて。一緒に、本当の敵と戦って――",
-  "en": ""
+  "en": "Please... come back to us. Fight the real{n}enemy with us--"
  },
  {
   "id": "s0260_00ef8",
@@ -558,7 +558,7 @@
    "シーン"
   ],
   "jp": "ランの手から、剣が音を立てて落ちた。{n}本心からランを救おうとするシーンの{n}説得が、至高王への忠誠に囚われた{n}兄のいましめを解いたのだった。",
-  "en": ""
+  "en": "The sword fell from Ran's hand with a{n}clatter. Sean's plea, made from the heart{n}to save him, had loosed the bonds of her{n}brother, held captive by loyalty to the{n}High King."
  },
  {
   "id": "s0260_00f84",
@@ -582,7 +582,7 @@
    "シーン"
   ],
   "jp": "判ってくれたのね！　兄さん！",
-  "en": ""
+  "en": "You understand! Brother!"
  },
  {
   "id": "s0260_00fa4",
@@ -606,7 +606,7 @@
    "ラン"
   ],
   "jp": "真の忠誠か……そうだな。自分の目で{n}確かめぬ限り、俺はカル様とともに{n}歩んでいることにはならぬ。{n}心配を、かけたな――",
-  "en": ""
+  "en": "True loyalty... Yes. Unless I see it with my{n}own eyes, I am not walking with Kall-sama. I{n}am sorry I worried you--"
  },
  {
   "id": "s0260_0101c",
@@ -630,7 +630,7 @@
    "カイ"
   ],
   "jp": "やはり実の妹は強い、か。俺がいくら{n}言っても聞かなかったくせに",
-  "en": ""
+  "en": "So a real sister's the stronger one. He{n}wouldn't listen no matter what I said."
  },
  {
   "id": "s0260_0105c",
@@ -654,7 +654,7 @@
    "ヨシュア"
   ],
   "jp": "カイ……妬いてるんじゃあ……？",
-  "en": ""
+  "en": "Kai... you would not be jealous...?"
  },
  {
   "id": "s0260_0107c",
@@ -678,7 +678,7 @@
    "カイ"
   ],
   "jp": "ま、まっさかぁ！　ちょっとショック{n}ではあるけど……俺も、ランの妹{n}みたいなもんだしな",
-  "en": ""
+  "en": "Wh-what, me? No way! It's a bit of a shock,{n}but... I'm kind of like Ran's sister too."
  },
  {
   "id": "s0260_010d4",
@@ -702,7 +702,7 @@
    "ヨシュア"
   ],
   "jp": "妹……そうか！　うん！",
-  "en": ""
+  "en": "Sister... I see! Yes!"
  },
  {
   "id": "s0260_010ec",
@@ -726,7 +726,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "……けっ！　不器用なヤロウだ",
-  "en": ""
+  "en": "...Tch! Clumsy bastard."
  },
  {
   "id": "s0260_0110c",
@@ -750,7 +750,7 @@
    "ヨシュア"
   ],
   "jp": "んっ？",
-  "en": ""
+  "en": "Hm?"
  },
  {
   "id": "s0260_01114",
@@ -774,7 +774,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "いんや、別にぃ",
-  "en": ""
+  "en": "Nah, nothing."
  },
  {
   "id": "s0260_01124",
@@ -798,7 +798,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "再び、ランがそこにいた。思い詰めた{n}表情には、この戦いに死を賭して臨む{n}決心が窺える。至高王の使命を全う{n}することが仲間や妹の命を奪う結果と{n}なるなら、その後で己の命をも断とう{n}という悽愴な覚悟であった。",
-  "en": ""
+  "en": "Once again, Ran stood there. His haggard{n}face showed his resolve to face this fight{n}with death at stake. If carrying out the{n}High King's mission meant taking the lives{n}of his comrades and his sister, he would{n}afterward end his own life as well: such{n}was his grim resolve."
  },
  {
   "id": "s0260_011f0",
@@ -822,7 +822,7 @@
    "シーン"
   ],
   "jp": "わたしたち、戦うしかないの……？",
-  "en": ""
+  "en": "Do we really have to fight...?"
  },
  {
   "id": "s0260_01214",
@@ -846,7 +846,7 @@
    "ラン"
   ],
   "jp": "シーン、俺を憎んでくれ――行くぞ！",
-  "en": ""
+  "en": "Sean, hate me-- Here I come!"
  },
  {
   "id": "s0260_01238",
@@ -870,7 +870,7 @@
    "カイ"
   ],
   "jp": "よせっ！　ラン！",
-  "en": ""
+  "en": "Stop it! Ran!"
  },
  {
   "id": "s0260_0124c",
@@ -894,7 +894,7 @@
    "ラン"
   ],
   "jp": "カイ、か！",
-  "en": ""
+  "en": "Kai, is it!"
  },
  {
   "id": "s0260_01258",
@@ -918,7 +918,7 @@
    "ラン"
   ],
   "jp": "マントをなびかせ、ランを追うべく{n}去ったカイが駆け寄ってきた。{n}その後にヨシュアも続く。",
-  "en": ""
+  "en": "Cape flying, Kai, who had gone off after{n}Ran, came running up. Joshua followed{n}behind."
  },
  {
   "id": "s0260_012b0",
@@ -966,7 +966,7 @@
    "ヴァイ"
   ],
   "jp": "ヨシュアも！　お前らどうやって{n}この地下遺跡に？",
-  "en": ""
+  "en": "Joshua too! How'd you guys get to these{n}underground ruins?"
  },
  {
   "id": "s0260_012ec",
@@ -990,7 +990,7 @@
    "ヨシュア"
   ],
   "jp": "至高王が魔戦将軍のために用意した{n}乗用生物を利用させてもらった",
-  "en": ""
+  "en": "We made use of the riding creatures the{n}High King had prepared for the Sorcerer{n}Generals."
  },
  {
   "id": "s0260_0132c",
@@ -1014,7 +1014,7 @@
    "カイ"
   ],
   "jp": "――ラン。俺の知るお前は、そんな男{n}ではなかったはずだ。主が正気では{n}ないと気づきながら、間違った忠義に{n}縛られ愚行に手を貸すなど――",
-  "en": ""
+  "en": "--Ran. The man I knew wasn't like this.{n}Knowing your master's not in his right mind,{n}yet bound by false loyalty, lending a hand{n}to his folly--"
  },
  {
   "id": "s0260_013b4",
@@ -1038,7 +1038,7 @@
    "カイ"
   ],
   "jp": "今のカル＝スに命を賭して仕える{n}価値はない！{n}それが判らぬお前ではあるまい――{n}いや、判らぬふりをしているだけだ！",
-  "en": ""
+  "en": "Today's Kall-Su isn't worth serving with your{n}life! You're not someone who can't see{n}that-- no, you're just pretending not to!"
  },
  {
   "id": "s0260_01428",
@@ -1062,7 +1062,7 @@
    "ラン"
   ],
   "jp": "黙れ……黙れカイ！　それ以上の{n}カル様への雑言は許さん――！",
-  "en": ""
+  "en": "Silence... silence, Kai! I will not allow you to{n}insult Kall-sama any further--!"
  },
  {
   "id": "s0260_01468",
@@ -1086,7 +1086,7 @@
    "ラン"
   ],
   "jp": "恐らくは反射的に、無意識に繰り出さ{n}れたものだったのだろう。その斬撃に、{n}直前まで捨て身の一撃に転じようと{n}たわめられていた力が乗った。戦場で{n}鍛えられた颶風の如き刃が、戦う姿勢{n}になかった無防備なカイを襲う――。",
-  "en": ""
+  "en": "It was most likely a reflex, delivered{n}without thought. Into that slash went the{n}force that had been gathered, an instant{n}before, for a desperate blow. The{n}stormwind blade, forged on the{n}battlefield, fell upon Kai, off her guard{n}and with no stance to fight--"
  },
  {
   "id": "s0260_0153c",

@@ -21,7 +21,7 @@
    ""
   ],
   "jp": "放り出されたのは、建造物から迫り{n}出した桟橋のような場所であった。{page}幸いにも、巨獣は地下遺跡に到着して{n}いた。一行を残らず吐き出すと、{n}巨獣はその桟橋を離れて再び{n}エーテルの海を浮上していく。",
-  "en": ""
+  "en": "They had been thrown out onto what{n}looked like a pier jutting from a building.{page}Fortunately the great beast had reached{n}the underground ruins. Having spat out{n}the whole party, it left the pier and rose{n}again through the sea of ether."
  },
  {
   "id": "s0256_008d8",
@@ -45,7 +45,7 @@
    ""
   ],
   "jp": "そこは、中央の遺跡から放射状に伸び{n}た回廊のひとつであった。そこから{n}周囲を見回しても何も見えず、ただ{n}黒々とした虚無の空間が広がっている。{n}海底すらも、見て取ることはできない。{page}この暗黒空間の上に、古代遺跡群は{n}ぽっかりと浮かんでいる恰好であった。",
-  "en": ""
+  "en": "This was one of the corridors reaching{n}out from the central ruins. Looking{n}around from there they could see{n}nothing; only a black void spread out. Not{n}even the sea floor could be made out.{page}The ancient ruins seemed to float,{n}hanging over this dark space."
  },
  {
   "id": "s0256_009d0",
@@ -69,7 +69,7 @@
    "ボル"
   ],
   "jp": "こ、腰を打ったでござるよ……",
-  "en": ""
+  "en": "Th-this one has hurt his back, forsooth..."
  },
  {
   "id": "s0256_009f0",
@@ -93,7 +93,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "ヴァイよう、オメーはどうしてそう{n}考えなしに行動するんだ？",
-  "en": ""
+  "en": "Vai, why do you always go and act without{n}thinking?"
  },
  {
   "id": "s0256_00a2c",
@@ -117,7 +117,7 @@
    "ヴァイ"
   ],
   "jp": "ごめん！　でもさ、結果オーライ{n}だから良かったじゃん？",
-  "en": ""
+  "en": "Sorry! But hey, it all worked out, so that's{n}good, right?"
  },
  {
   "id": "s0256_00a64",
@@ -141,7 +141,7 @@
    "シェラ"
   ],
   "jp": "巨獣はしばらく前からここに着いて、{n}我々を吐き出す機会を窺っていたの{n}ではないか……？　都合良く遺跡に{n}放り出されたとは考えられん",
-  "en": ""
+  "en": "Had the great beast been here a while,{n}waiting for a chance to spit us out...? I{n}cannot believe we were thrown out at the{n}ruins by pure luck."
  },
  {
   "id": "s0256_00ae8",
@@ -165,7 +165,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "奴は俺たちをここに連れてきたかった{n}ってコトか？　何のために？",
-  "en": ""
+  "en": "So it wanted to bring us here? What for?"
  },
  {
   "id": "s0256_00b28",
@@ -189,7 +189,7 @@
    "シェラ"
   ],
   "jp": "巨獣も龍と同じく、この世界に潜む{n}力のひとつなのかも知れない。何者か{n}にねじ曲げられた自然の有り様を、{n}我々に回復して欲しいのかも……",
-  "en": ""
+  "en": "The great beast may be one of the powers{n}hidden in this world, like the dragons.{n}Perhaps it wants us to restore the natural{n}order that someone has twisted..."
  },
  {
   "id": "s0256_00bb0",
@@ -213,6 +213,6 @@
    "Ｄ・Ｓ"
   ],
   "jp": "だとすりゃ、ここに気象操作の鍵が{n}隠されているのかもな――",
-  "en": ""
+  "en": "If so, the key to the weather control might{n}be hidden here--"
  }
 ]

@@ -21,7 +21,7 @@
    ""
   ],
   "jp": "横穴から続くのは、予想外に広い氷の{n}地下迷宮であった。この湖は底までが{n}完全に凍結しているらしく、その巨大{n}な氷の塊をくり抜いて大洞窟が造り{n}上げられている。故に壁や床は、全て{n}硬く凍結した氷で構成されていた。",
-  "en": ""
+  "en": "The side passage led to an unexpectedly{n}large underground maze of ice. It seemed{n}this lake had frozen solid to the bottom,{n}and a great cavern had been hollowed{n}out of that huge mass of ice. So its walls{n}and floors were all of hard-frozen ice."
  },
  {
   "id": "s0215_008e8",
@@ -45,7 +45,7 @@
    "ヴァイ"
   ],
   "jp": "ううーっ、寒い！　誰がこんな迷宮を{n}造りやがったんだ！",
-  "en": ""
+  "en": "Ugh, so cold! Who the hell built a maze like{n}this!"
  },
  {
   "id": "s0215_00920",
@@ -69,7 +69,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "水龍が封印してたところを見ると、{n}カルの奴が建造したんじゃなさそうだ。{n}最初からこの地にあったもの……か？",
-  "en": ""
+  "en": "Since the Water Dragon was sealing it, I{n}doubt Kall built it. Something that was here{n}from the start...?"
  },
  {
   "id": "s0215_00a10",
@@ -93,7 +93,7 @@
    "ヴァイ"
   ],
   "jp": "なあ、Ｄ・Ｓ。ココって絶対いるよな",
-  "en": ""
+  "en": "Hey, D.S. There's definitely something here,{n}right?"
  },
  {
   "id": "s0215_00a34",
@@ -117,7 +117,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "ああ、いるいる。ちょっと粘ってみる{n}のが通でしょうな",
-  "en": ""
+  "en": "Yeah, there sure is. A true connoisseur{n}would stick around a while."
  },
  {
   "id": "s0215_00a6c",
@@ -141,7 +141,7 @@
    "シーン"
   ],
   "jp": "何がいるの？",
-  "en": ""
+  "en": "What is here?"
  },
  {
   "id": "s0215_00a7c",
@@ -165,7 +165,7 @@
    "カイ"
   ],
   "jp": "何がいるんだ？",
-  "en": ""
+  "en": "What's here?"
  },
  {
   "id": "s0215_00a8c",
@@ -189,7 +189,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "それは出てのお楽しみ……って、別に{n}楽しいモンじゃねーけど。バ・ソリー{n}くらいかな、喜ぶのは",
-  "en": ""
+  "en": "That's a surprise for when it shows up... not{n}that it's any kind of fun. Ba Thory's about{n}the only one who'd be happy."
  },
  {
   "id": "s0215_00ae8",
@@ -213,7 +213,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "窪地の底の氷はシャーベット状に細か{n}く砕かれ、一種砂地のような感触を{n}足下に伝えた。それに適した生物で{n}あれば、この氷の下を泳ぐようにして{n}移動することもできそうだった。",
-  "en": ""
+  "en": "The ice at the bottom of the hollow was{n}crushed fine, like sherbet, and felt{n}something like sand underfoot. A creature{n}suited to it could likely move under this{n}ice as if swimming."
  },
  {
   "id": "s0215_00b90",
@@ -237,7 +237,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "氷の細片が再結合していないのは、{n}それが常に砕かれ続けていることを{n}示している。そう思い至った瞬間、{n}氷を巻き上げて何かが飛び出してきた。",
-  "en": ""
+  "en": "That the slivers of ice had not refrozen{n}showed they were constantly being{n}crushed. The instant D.S. realized that,{n}something burst out, flinging up the ice."
  },
  {
   "id": "s0215_00c1c",
@@ -261,7 +261,7 @@
    "シーン"
   ],
   "jp": "何か来るわよっ！",
-  "en": ""
+  "en": "Something's coming!"
  },
  {
   "id": "s0215_00c30",
@@ -285,7 +285,7 @@
    "カイ"
   ],
   "jp": "ななっ、何だ！",
-  "en": ""
+  "en": "Wh-what is that!"
  },
  {
   "id": "s0215_00c40",
@@ -501,7 +501,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "これをな、バ・ソリーの奴は喰って{n}吸収しやがんだ",
-  "en": ""
+  "en": "See, Ba Thory eats these things and absorbs{n}'em."
  },
  {
   "id": "s0215_00e80",
@@ -525,7 +525,7 @@
    "シーン"
   ],
   "jp": "イヤーッ！　想像しちゃったぁー！",
-  "en": ""
+  "en": "Noooo! Now I'm picturing it!"
  },
  {
   "id": "s0215_00ea4",
@@ -549,7 +549,7 @@
    "カイ"
   ],
   "jp": "げええっ！　だからアイツ、あんなに{n}蟲持ちなのか！",
-  "en": ""
+  "en": "Geeeh! So that's why he's so full of bugs!"
  },
  {
   "id": "s0215_01214",
@@ -573,7 +573,7 @@
    ""
   ],
   "jp": "それは赤く輝く、強い魔力を秘めた{n}宝玉であった。珠の内側は赤く靄が{n}蠢き、その煙が薄れた部分から時折{n}赤い光が漏れる。恐らく紅玉の中心に、{n}激しく輝く魔力の核があるのだろう。",
-  "en": ""
+  "en": "It was a jewel glowing red, holding strong{n}magic. Inside the orb a red haze stirred,{n}and where the smoke thinned, a red light{n}leaked out now and then. At the heart of{n}the ruby, most likely, was a core of{n}fiercely shining magic."
  },
  {
   "id": "s0215_012c0",
@@ -597,7 +597,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "この珠が魔力の塊をコーティングして{n}やがんのか――。ブチ割って核を取り{n}出すこともできそうだが、魔力はすぐ{n}霧散しちまうだろうな",
-  "en": ""
+  "en": "So this orb's a coating over a lump of{n}magic-- I could probably smash it and pull{n}out the core, but the magic would scatter{n}in no time."
  },
  {
   "id": "s0215_01340",
@@ -621,7 +621,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "魔力の使い道がない以上、ここで核を{n}解放しても仕方ねえな……",
-  "en": ""
+  "en": "We got no use for the magic, so there's no{n}point releasing the core here..."
  },
  {
   "id": "s0215_01380",
@@ -645,7 +645,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "この珠、魔力の塊をコーティングして{n}やがんのか……！　そうだ！",
-  "en": ""
+  "en": "So this orb's a coating over a lump of{n}magic...! That's it!"
  },
  {
   "id": "s0215_013c0",
@@ -669,7 +669,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "巨獣が地表に出たところで、コイツを{n}ブチ割って魔力の核を取り出せば、{n}好物と間違えて寄ってくるかも――。{n}よし、雪原へ戻るぜ！",
-  "en": ""
+  "en": "When the great beast comes up to the{n}surface, I smash this thing and pull out the{n}magic core. It might mistake it for its{n}favorite food and come over-- Right, back{page}to the snowfield!"
  },
  {
   "id": "s0215_01440",
@@ -693,7 +693,7 @@
    "サイクス"
   ],
   "jp": "しかしその魔力、霧散させてしまう{n}のも惜しいものだな",
-  "en": ""
+  "en": "Still, it would be a pity to let that magic{n}scatter."
  },
  {
   "id": "s0215_01478",
@@ -717,7 +717,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "今のところ、特に使い途があるわけ{n}でもねえ。他に巨獣をおびき寄せる{n}手がありゃ別だがな――",
-  "en": ""
+  "en": "Right now we got no particular use for it.{n}Unless we find some other way to lure the{n}great beast--"
  },
  {
   "id": "s0215_014d4",
@@ -765,7 +765,7 @@
    ""
   ],
   "jp": "液体らしきものに満たされた穴が、{n}この迷宮の底らしき場所に穿たれて{n}いた。洞窟の母体である湖自体が{n}完全に凍結しているにもかかわらず、{n}その液体は凍ることなく微かな細波を{n}走らせている。",
-  "en": ""
+  "en": "A hole filled with what looked like liquid{n}had been bored at what seemed the{n}bottom of this maze. Although the lake{n}that held the cave was frozen solid, the{n}liquid had not frozen, and faint ripples{n}ran across it."
  },
  {
   "id": "s0215_016e8",
@@ -789,7 +789,7 @@
    ""
   ],
   "jp": "穴は深く、その下までがこの無色の{n}液体に満たされているようであった。{n}この場所が氷結湖の最深部なら、穴の{n}底は剥き出しの湖底になるはずである。{n}だが、穴の向こうはほのかに明るく、{n}時折何かの影が光を遮るように蠢いて{n}いる。",
-  "en": ""
+  "en": "The hole was deep, and seemed filled with{n}this colorless liquid all the way down. If{n}this place was the deepest part of the{n}Frozen Lake, the bottom of the hole{n}should be the bare lakebed. Yet beyond{n}the hole was a faint brightness, and now{n}and then the shadow of something stirred{n}as if to block the light."
  },
  {
   "id": "s0215_017c4",
@@ -813,7 +813,7 @@
    ""
   ],
   "jp": "液体に手を浸したＤ・Ｓが、小さく{n}驚きの声を上げた。それは空気のよう{n}に抵抗がなく、熱くも冷たくもない。{n}液状でありながら、極めて気体に近い{n}性質を持つ物質であった。",
-  "en": ""
+  "en": "D.S. dipped his hand into the liquid and{n}gave a small cry of surprise. It offered{n}no more resistance than air, and was{n}neither hot nor cold. Though liquid, it was{n}a substance with properties very close to{n}a gas."
  },
  {
   "id": "s0215_01868",
@@ -837,7 +837,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "こりゃあ……水じゃねえ。エーテルだ",
-  "en": ""
+  "en": "This here... ain't water. It's ether."
  },
  {
   "id": "s0215_0188c",
@@ -861,7 +861,7 @@
    "ヴァイ"
   ],
   "jp": "機械の体をくれるネーチャンか？",
-  "en": ""
+  "en": "Ether? Like Maetel, the babe who hands out{n}machine bodies?"
  },
  {
   "id": "s0215_018ac",
@@ -885,7 +885,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "うるさいだまれ。ベタなボケには{n}ツッこんでやらねー",
-  "en": ""
+  "en": "Shut up. I ain't giving that dumb gag a{n}comeback."
  },
  {
   "id": "s0215_018e0",
@@ -933,7 +933,7 @@
    "シーラ"
   ],
   "jp": "エーテルとは、何ですの？",
-  "en": ""
+  "en": "What is ether?"
  },
  {
   "id": "s0215_01908",
@@ -957,7 +957,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "こいつは宇宙を満たして、光や電波を{n}伝えてるって話の代物だ。{n}ただ、あくまで仮想の物質で、存在が{n}否定されてるものなんだが……",
-  "en": ""
+  "en": "Stuff that's supposed to fill the universe{n}and carry light and radio waves. Only it's{n}strictly a theoretical substance, and they've{n}proved it doesn't exist..."
  },
  {
   "id": "s0215_01988",
@@ -981,7 +981,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "このエーテルの泉の底に何かあるよう{n}だが、ここからじゃ俺にも見通すこと{n}ができねえ――おっ！　そうだ！",
-  "en": ""
+  "en": "There's something at the bottom of this{n}ether spring, but even I can't see through it{n}from here-- Oh! I know!"
  },
  {
   "id": "s0215_019f0",
@@ -1005,7 +1005,7 @@
    "ヴァイ"
   ],
   "jp": "何だよ？　邪悪な目つきで俺を{n}見るなっ！",
-  "en": ""
+  "en": "What? Don't look at me with those evil{n}eyes!"
  },
  {
   "id": "s0215_01a1c",
@@ -1029,7 +1029,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "つまらねーボケかました罰だ。オメエ{n}ちょっと潜って見てこい",
-  "en": ""
+  "en": "This is your punishment for that lame gag.{n}Go on down and have a look."
  },
  {
   "id": "s0215_01a58",
@@ -1053,7 +1053,7 @@
    "ヴァイ"
   ],
   "jp": "水より空気に近いんなら、真っ逆さま{n}に底まで落ちちまうだろが！",
-  "en": ""
+  "en": "If it's closer to air than water, I'll fall{n}headfirst straight to the bottom!"
  },
  {
   "id": "s0215_01a98",
@@ -1077,7 +1077,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "ロープで括っといてやる。さ、皆の者",
-  "en": ""
+  "en": "I'll tie a rope on you. Now then, everyone."
  },
  {
   "id": "s0215_01abc",
@@ -1101,7 +1101,7 @@
    "ヴァイ"
   ],
   "jp": "あっ!?　ヨルグ何を？　シェラまで！{n}やめろー！　俺に縄を結ぶな！{n}大体そんなものどこから出したんだ、{n}おい!?",
-  "en": ""
+  "en": "Ah!? Jorg, what are you...? Even Shella! Stop{n}it! Don't tie a rope on me! And where the hell{n}did you get that from, hey!?"
  },
  {
   "id": "s0215_01b28",
@@ -1125,7 +1125,7 @@
    "ヴァイ"
   ],
   "jp": "あっ！？ヨルグ何を？ ヨシュアまで！{n}やめろー！　俺に縄を結ぶな！{n}大体そんなものどこから出したんだ、{n}おい!?",
-  "en": ""
+  "en": "Ah!? Jorg, what are you...? Even Joshua!{n}Stop it! Don't tie a rope on me! And where{n}the hell did you get that from, hey!?"
  },
  {
   "id": "s0215_01b94",
@@ -1149,7 +1149,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "オメエが見たものを俺も観られるよう、{n}一時的に視神経を魔力回路で繋いで{n}おこう……よし。{n}それでは、行ってらっしゃーい！",
-  "en": ""
+  "en": "So I can see what you see, I'll hook up your{n}optic nerves with a magic circuit for now...{n}All right. Have a nice trip!"
  },
  {
   "id": "s0215_01c0c",
@@ -1173,7 +1173,7 @@
    "ヴァイ"
   ],
   "jp": "ひー！　ヤメテ――がぼごぼがぼ……",
-  "en": ""
+  "en": "Eek! Stop it-- glub blub glub..."
  },
  {
   "id": "s0215_01c30",
@@ -1197,7 +1197,7 @@
    "ヴァイ"
   ],
   "jp": "穴に放り込まれたヴァイは、エーテル{n}の抵抗もなく、ほとんど自由落下の{n}勢いで沈降していく。",
-  "en": ""
+  "en": "Thrown into the hole, Vai sank with almost{n}the speed of free fall, with no resistance{n}from the ether."
  },
  {
   "id": "s0215_01c8c",
@@ -1221,7 +1221,7 @@
    "ヴァイ"
   ],
   "jp": "ヴァイの視界がＤ・Ｓに直接送り{n}込まれてくる。氷の竪穴の終端が{n}急速に近づき、それを通り抜ける――。",
-  "en": ""
+  "en": "Vai's vision was sent directly to D.S. The{n}end of the ice shaft came swiftly nearer,{n}and he passed through it--"
  },
  {
   "id": "s0215_01cf0",
@@ -1245,7 +1245,7 @@
    "ヴァイ"
   ],
   "jp": "眼下に広がるのは、エーテルに満たさ{n}れた広大な地底空間であった。雪原に{n}蓋をされた恰好で、恐らく二、三千{n}メートル近く下になるこの空間の底{n}こそが、真の大地であるらしかった。",
-  "en": ""
+  "en": "Spreading below was a vast underground{n}space filled with ether. Capped by the{n}snowfield, the floor of this space,{n}perhaps two or three thousand meters{n}down, seemed to be the true earth."
  },
  {
   "id": "s0215_01d9c",
@@ -1269,7 +1269,7 @@
    "ヴァイ"
   ],
   "jp": "エーテルの海には、この物質の中を{n}泳ぐ能力を持った魚らしき生物が無数{n}に漂っていた。中には発光するものも{n}おり、空間のあちこちで赤や緑、黄色{n}の淡い輝きが、イルミネーションの{n}ように灯っては消える。",
-  "en": ""
+  "en": "In the sea of ether countless fish-like{n}creatures able to swim through the{n}substance were drifting. Some of them{n}gave off light, and here and there in the{n}space pale glows of red, green and yellow{n}lit and went out like festive lights."
  },
  {
   "id": "s0215_01e60",
@@ -1293,7 +1293,7 @@
    "ヴァイ"
   ],
   "jp": "それらを透かし見て、遥かな直下に{n}林立する建造物群をＤ・Ｓの超視覚は{n}捉えていた。五芒星の形に配置された{n}宮殿らしきものが、一群の古代遺跡を{n}形成している。",
-  "en": ""
+  "en": "Looking through them, D.S.'s super-sight{n}caught a forest of structures far{n}directly below. What seemed to be{n}palaces, arranged in the shape of a{n}five-pointed star, formed a group of{n}ancient ruins."
  },
  {
   "id": "s0215_01efc",
@@ -1317,7 +1317,7 @@
    "ヴァイ"
   ],
   "jp": "そして――その一画から、巨大な何か{n}がゆっくりと浮かび上がってくる。",
-  "en": ""
+  "en": "And then, from one part of them,{n}something huge came slowly floating up."
  },
  {
   "id": "s0215_01f44",
@@ -1341,7 +1341,7 @@
    "ヴァイ"
   ],
   "jp": "がぼあっ！　むぐむぐあっ！",
-  "en": ""
+  "en": "Glub bwah! Mmph mmph bwah!"
  },
  {
   "id": "s0215_01f60",
@@ -1365,7 +1365,7 @@
    "ヴァイ"
   ],
   "jp": "遺跡から離れて浮上してきたのは、{n}雪原で見たあの巨獣であった。{n}この巨大な生物は天を覆う雪の層を{n}抜け、エーテルの海を自在に泳ぎ{n}回っていたのだ。",
-  "en": ""
+  "en": "What had left the ruins and come floating{n}up was that great beast they had seen{n}on the snowfield. This huge creature{n}passed through the layer of snow{n}covering the sky, and swam freely{n}through the sea of ether."
  },
  {
   "id": "s0215_01ff0",
@@ -1389,7 +1389,7 @@
    "ヴァイ"
   ],
   "jp": "むーっ！　むーっ!?",
-  "en": ""
+  "en": "Mmph! Mmph!?"
  },
  {
   "id": "s0215_02004",
@@ -1413,7 +1413,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "よーし、ロープを引っ張れ",
-  "en": ""
+  "en": "All right, pull the rope."
  },
  {
   "id": "s0215_02020",
@@ -1437,7 +1437,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "ヴァイは急速に引っ張り上げられ、{n}エーテルの海に浮かぶ氷山の如き{n}氷結湖の底穴へと引き込まれていく。",
-  "en": ""
+  "en": "Vai was swiftly hauled up, and drawn into{n}the bottom hole of the Frozen Lake,{n}floating like an iceberg in the sea of{n}ether."
  },
  {
   "id": "s0215_02084",
@@ -1461,7 +1461,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "視界が遮られる最後の瞬間、Ｄ・Ｓは{n}観た。巨獣が赤く点滅する魚に向きを{n}変え、それを飲み込んだのを――。",
-  "en": ""
+  "en": "In the last moment before his view was{n}cut off, D.S. saw it: the great beast{n}turned toward a fish blinking red, and{n}swallowed it--"
  },
  {
   "id": "s0215_020ec",
@@ -1485,7 +1485,7 @@
    "ヴァイ"
   ],
   "jp": "がぼげへっ！　ハァハァ……ななな、{n}何てコトしやがるんだよう！　もう{n}ちょっとで喰われるか、溺れるかする{n}トコだったんだぞう！",
-  "en": ""
+  "en": "Glub gweh! Hah, hah... wh-wh-what the hell's{n}wrong with you! I almost got eaten, or{n}drowned!"
  },
  {
   "id": "s0215_0216c",
@@ -1509,7 +1509,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "オメエ、がぼがぼ言ってたけどよ、水{n}じゃねえんだから呼吸できたハズだぜ",
-  "en": ""
+  "en": "You were going glub-glub, but it ain't water,{n}so you should've been able to breathe."
  },
  {
   "id": "s0215_021b4",
@@ -1533,7 +1533,7 @@
    "ヴァイ"
   ],
   "jp": "え……そーなの？",
-  "en": ""
+  "en": "Huh... Really?"
  },
  {
   "id": "s0215_021c8",
@@ -1557,7 +1557,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "それからな、あの巨獣はオメエには{n}全然興味を示してなかったぜ。赤く{n}光る魚を餌にしてるようだったな",
-  "en": ""
+  "en": "And y'know, that great beast didn't show{n}the slightest interest in you. Looked like it{n}feeds on those red glowing fish."
  },
  {
   "id": "s0215_0222c",
@@ -1581,7 +1581,7 @@
    "ヴァイ"
   ],
   "jp": "それにしたってアンタ……",
-  "en": ""
+  "en": "Even so, you..."
  },
  {
   "id": "s0215_02248",
@@ -1605,7 +1605,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "いやいやヴァイ君、良くやってくれた。{n}キミのお陰で有用な手がかりを得る{n}ことができたのだ！　まさに英雄だよ！",
-  "en": ""
+  "en": "No, no, Vai-kun, you did well. Thanks to you{n}we've got a useful lead! You're a true{n}hero!"
  },
  {
   "id": "s0215_022b4",
@@ -1629,7 +1629,7 @@
    "ヴァイ"
   ],
   "jp": "そ……そお？　エヘ、エヘヘヘ……{n}っとかゴマカせると思ってんのかぁっ！",
-  "en": ""
+  "en": "R... really? Heh, heh heh heh... Like hell that's{n}gonna work on me!"
  },
  {
   "id": "s0215_022fc",
@@ -1653,7 +1653,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "チッ！",
-  "en": ""
+  "en": "Tch!"
  },
  {
   "id": "s0215_02304",
@@ -1677,7 +1677,7 @@
    "ヴァイ"
   ],
   "jp": "何が“チッ！”だあ――っ！",
-  "en": ""
+  "en": "What the hell do you mean, \"Tch!\"!"
  },
  {
   "id": "s0215_02320",
@@ -1701,7 +1701,7 @@
    "シーン"
   ],
   "jp": "――それでＤ・Ｓ、何が見えたの？",
-  "en": ""
+  "en": "--So, D.S., what did you see?"
  },
  {
   "id": "s0215_02344",
@@ -1725,7 +1725,7 @@
    "ヨシュア"
   ],
   "jp": "――それでＤ・Ｓ、何が見えた？",
-  "en": ""
+  "en": "--So, D.S., what did you see?"
  },
  {
   "id": "s0215_02364",
@@ -1749,7 +1749,7 @@
    "ヨシュア"
   ],
   "jp": "Ｄ・Ｓはヴァイの視覚を通して見た、{n}雪原に隠された地底空間と遺跡群、{n}そしてそのエーテルの海を回遊する{n}巨獣のことを語った。",
-  "en": ""
+  "en": "D.S. spoke of what he had seen through{n}Vai's eyes: the underground space hidden{n}by the snowfield, the ruins, and the great{n}beast roaming that sea of ether."
  },
  {
   "id": "s0215_023e0",
@@ -1773,7 +1773,7 @@
    "シェラ"
   ],
   "jp": "その遺跡こそ、水龍が示そうとした{n}ものかも知れないな。ただ、我々に{n}エーテルの海を泳ぐ能力がない以上、{n}飛び込むわけにもいかないか――",
-  "en": ""
+  "en": "Those ruins may be what the Water Dragon{n}was trying to point out. But since we cannot{n}swim in a sea of ether, we cannot very well{n}jump in--"
  },
  {
   "id": "s0215_02468",
@@ -1797,7 +1797,7 @@
    "ヨシュア"
   ],
   "jp": "その古代遺跡、調べてみる必要があり{n}そうだが――我々にエーテルの海を{n}泳ぐ能力がない限り、高空から飛び{n}降りるに等しい行為だな",
-  "en": ""
+  "en": "We shall need to look into those ancient{n}ruins-- but unless we can swim in that sea{n}of ether, it would be the same as leaping{n}from a great height."
  },
  {
   "id": "s0215_024e8",
@@ -1821,7 +1821,7 @@
    "ヨルグ"
   ],
   "jp": "マカパインの鋼糸では降りられないか？",
-  "en": ""
+  "en": "Could we not descend on Macalpine's steel{n}wire?"
  },
  {
   "id": "s0215_02510",
@@ -1845,7 +1845,7 @@
    "マカパイン"
   ],
   "jp": "さすがに距離があり過ぎるな",
-  "en": ""
+  "en": "That is too far, even for me."
  },
  {
   "id": "s0215_0252c",
@@ -1869,7 +1869,7 @@
    "ヴァイ"
   ],
   "jp": "……あの巨獣を利用できねえかな。{n}奴の背に乗るなりすりゃあ、底まで{n}辿り着けるんじゃねーの？",
-  "en": ""
+  "en": "...Can't we use that great beast? If we rode{n}on its back or something, couldn't we reach{n}the bottom?"
  },
  {
   "id": "s0215_02588",
@@ -1893,7 +1893,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "バッカ、あんなのに近づいたら、乗る{n}より先に潰されちまわあ……待てよ。{n}それ、いい案かも知れねえな――",
-  "en": ""
+  "en": "You idiot, get near that thing and you'll be{n}crushed before you can ride it... Hang on.{n}That might not be a bad idea--"
  },
  {
   "id": "s0215_025f0",
@@ -1917,7 +1917,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "よし！　まずは巨獣をおびき出す手を{n}考えるとするか――",
-  "en": ""
+  "en": "All right! First, let's figure out how to lure{n}out the great beast--"
  },
  {
   "id": "s0215_02628",
@@ -1941,6 +1941,6 @@
    "Ｄ・Ｓ"
   ],
   "jp": "あいつが地上に出てきたところで、{n}この紅玉の核を解放すりゃあ、光を{n}好物と間違えて寄ってくるかも――。{n}よし、雪原へ戻るぜ！",
-  "en": ""
+  "en": "When it comes up on the surface, I release{n}the core of this ruby. It might mistake the{n}light for its favorite food and come over--{n}Right, back to the snowfield!"
  }
 ]

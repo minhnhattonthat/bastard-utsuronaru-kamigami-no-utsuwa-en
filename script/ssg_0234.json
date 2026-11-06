@@ -21,7 +21,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "う……？",
-  "en": ""
+  "en": "Ugh...?"
  },
  {
   "id": "s0234_00824",
@@ -45,7 +45,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "目覚めると、そこは巨大な洞窟の中で{n}あった。否、その壁や床を構成する{n}のは体温を持つ生物の細胞であり、{n}大気の代わりに空間を満たしている{n}のはエーテル――そこは紛れもなく、{n}エーテルの海を潜航しつつある巨獣の{n}体内であった。",
-  "en": ""
+  "en": "He awoke in a huge cave. No: what made{n}up its walls and floor were living cells{n}with body heat, and what filled the space{n}in place of air was ether. Without{n}question, this was the inside of the great{n}beast as it swam through the sea of{n}ether."
  },
  {
   "id": "s0234_00900",
@@ -69,7 +69,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "そこから奥は、巨獣の胃液らしきもの{n}が溜まっていて進むことができない。{n}恐らくここは食道にあたる場所だと{n}思われた。",
-  "en": ""
+  "en": "Beyond that point there was a pool of{n}what seemed to be the great beast's{n}gastric juices, and they could go no{n}farther. This was most likely its gullet."
  },
  {
   "id": "s0234_00974",
@@ -93,7 +93,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "どーだ！　俺様の魔法障壁のお陰で{n}全員無事だろーが！",
-  "en": ""
+  "en": "How about that! Thanks to the great me's{n}magic barrier, everyone's safe and sound!"
  },
  {
   "id": "s0234_009ac",
@@ -117,7 +117,7 @@
    "ヴァイ"
   ],
   "jp": "何言ってやがる！　行き当たり{n}ばったりで物事を進めんなよな！",
-  "en": ""
+  "en": "What the hell are you talking about! Quit{n}making everything up as you go along!"
  },
  {
   "id": "s0234_009ec",
@@ -141,7 +141,7 @@
    "シェラ"
   ],
   "jp": "しかしＤ・Ｓ、あの時本当に結界を{n}張ったのか？　その前に我々は{n}飲み込まれ、意識を失ったように{n}思うのだが――",
-  "en": ""
+  "en": "But D.S., did you really raise a barrier then?{n}I believe we were swallowed and lost our{n}senses before that--"
  },
  {
   "id": "s0234_00a5c",
@@ -165,7 +165,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "……そうだっけかな。じゃ、アレだ！{n}この天才超絶美形ゆえに、無意識の{n}うちに結界を造り出した！　ってので{n}どーだ？",
-  "en": ""
+  "en": "...That so? Okay, here's how it went! Being a{n}super-gorgeous genius, I made a barrier{n}without even thinking! How's that?"
  },
  {
   "id": "s0234_00ad0",
@@ -189,7 +189,7 @@
    "ヴァイ"
   ],
   "jp": "どーだじゃないでしょーが",
-  "en": ""
+  "en": "\"How's that\" my ass."
  },
  {
   "id": "s0234_00aec",
@@ -213,7 +213,7 @@
    "シェラ"
   ],
   "jp": "いや……私が言いたいのは、巨獣は{n}我々を餌として飲み込んだのではなく、{n}何らかの意志を持ってこの体内に吸入{n}したのではないか、ということだ",
-  "en": ""
+  "en": "No... What I mean to say is, perhaps the{n}great beast did not swallow us as food, but{n}drew us into its body with some purpose in{n}mind."
  },
  {
   "id": "s0234_00b78",
@@ -237,7 +237,7 @@
    "ヨルグ"
   ],
   "jp": "どういうことだ？",
-  "en": ""
+  "en": "What do you mean?"
  },
  {
   "id": "s0234_00b8c",
@@ -261,7 +261,7 @@
    "シェラ"
   ],
   "jp": "つまり……巨獣は我々――Ｄ・Ｓを、{n}運ぼうとしていると思うのだ。確証は{n}ないが、こうして助かったのが私には{n}偶然とは思えん",
-  "en": ""
+  "en": "In short... I believe the great beast means{n}to carry us. To carry D.S. I have no proof,{n}but I cannot believe it was chance that we{n}survived this way."
  },
  {
   "id": "s0234_00c08",
@@ -285,7 +285,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "ふーむ……こんなデカブツに好かれる{n}覚えはねえけどなあ",
-  "en": ""
+  "en": "Hmm... Can't say I remember making friends{n}with a big lug like this."
  },
  {
   "id": "s0234_00c40",
@@ -309,7 +309,7 @@
    "ヴァイ"
   ],
   "jp": "でも、バ・ソリーは喰われちまったん{n}だろうな……溶けちゃったのかな",
-  "en": ""
+  "en": "But I guess Ba Thory got eaten... Did he{n}dissolve?"
  },
  {
   "id": "s0234_00c84",
@@ -333,7 +333,7 @@
    "シーラ"
   ],
   "jp": "お気の毒に……",
-  "en": ""
+  "en": "Poor man..."
  },
  {
   "id": "s0234_00c94",
@@ -357,7 +357,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "いずれにしても、口から外に出れなきゃ{n}しょうがねえ。この食道を戻ってみる{n}とするか――",
-  "en": ""
+  "en": "Either way, we gotta get out through the{n}mouth or we're stuck. Let's head back up{n}this gullet--"
  },
  {
   "id": "s0234_00eb8",
@@ -381,7 +381,7 @@
    "ヴァイ"
   ],
   "jp": "さすがにここには敵はいないみたい{n}だぜ。少しは羽根が伸ばせるな",
-  "en": ""
+  "en": "Looks like there's no enemies in here, at{n}least. We can relax a little."
  },
  {
   "id": "s0234_00ef8",
@@ -405,7 +405,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "……そうもいかねえようだ。ひとり、{n}俺たちを追ってきてる",
-  "en": ""
+  "en": "...Doesn't look that way. Someone's following{n}us. One guy."
  },
  {
   "id": "s0234_00f34",
@@ -429,7 +429,7 @@
    "シェラ"
   ],
   "jp": "ひとり？",
-  "en": ""
+  "en": "One?"
  },
  {
   "id": "s0234_00f40",
@@ -453,7 +453,7 @@
    "シェラ"
   ],
   "jp": "その言葉に反応するように、前方の{n}暗がりから影が滲み出す。その影から{n}静かに、ひとりの武人が実体化した。",
-  "en": ""
+  "en": "As if in answer, a shadow seeped from the{n}darkness ahead. Out of that shadow, a{n}warrior quietly took form."
  },
  {
   "id": "s0234_00fa8",
@@ -477,7 +477,7 @@
    "ボル"
   ],
   "jp": "――さすがはＤ・Ｓ殿。それがしの{n}操影術も、まるで用をなさぬか……",
-  "en": ""
+  "en": "--As expected of you, D.S.-dono. This one's{n}shadow art is of no use at all, forsooth..."
  },
  {
   "id": "s0234_00fec",
@@ -501,7 +501,7 @@
    "ヴァイ"
   ],
   "jp": "ボルか!?",
-  "en": ""
+  "en": "Bol!?"
  },
  {
   "id": "s0234_00ff8",
@@ -525,7 +525,7 @@
    "ヴァイ"
   ],
   "jp": "至高王への忠誠がため、一行を離れた{n}魔戦将軍ボル・ギル・ボルがそこに{n}いた。影から繋いだ亜空間を伝い、{n}雪原からＤ・Ｓたちを追跡してきた{n}らしい。その表情には苦悩が濃く{n}翳りを落とし、以前よりも幾つか{n}老け込んで見える。",
-  "en": ""
+  "en": "There stood the Sorcerer General Bol Gil{n}Bol, who had left the party out of loyalty{n}to the High King. It seemed he had{n}followed D.S. and the others from the{n}snowfield through a subspace linked to his{n}shadow. Anguish cast a dark shade on his{n}face, and he looked some years older{n}than before."
  },
  {
   "id": "s0234_010d0",
@@ -549,7 +549,7 @@
    "シェラ"
   ],
   "jp": "ボル！　貴公……",
-  "en": ""
+  "en": "Bol! Sir..."
  },
  {
   "id": "s0234_010e4",
@@ -573,7 +573,7 @@
    "ボル"
   ],
   "jp": "言うな、シェラ",
-  "en": ""
+  "en": "Say nothing, Shella."
  },
  {
   "id": "s0234_010f4",
@@ -597,7 +597,7 @@
    "ボル"
   ],
   "jp": "Ｄ・Ｓ殿……至高王より貴殿の抹殺の{n}命を受け申した。それがしの敵う貴殿{n}ではござらぬが、逃げてカル様の命に{n}背くことだけはできぬのでござる――",
-  "en": ""
+  "en": "D.S.-dono... the High King has ordered this{n}one to slay you, good sir. This one is no{n}match for you, but this one cannot run and{n}defy Kall-sama's command, forsooth--"
  },
  {
   "id": "s0234_01184",
@@ -621,7 +621,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "そうか――。なら、かかってこい",
-  "en": ""
+  "en": "I see-- Then come at me."
  },
  {
   "id": "s0234_011a4",
@@ -645,7 +645,7 @@
    "ボル"
   ],
   "jp": "かたじけない……。お命、頂戴――！",
-  "en": ""
+  "en": "This one is obliged... Your life, this one shall{n}have--!"
  },
  {
   "id": "s0234_011c8",
@@ -669,7 +669,7 @@
    "ボル"
   ],
   "jp": "く……消耗し過ぎた……カル様から{n}拝領したこの回復器にて――",
-  "en": ""
+  "en": "Ugh... This one has spent too much... With this{n}healing device, bestowed by Kall-sama--"
  },
  {
   "id": "s0234_01208",
@@ -693,7 +693,7 @@
    "ボル"
   ],
   "jp": "ダメージを受けて朦朧としたボルは、{n}その裡に魔力を封じているらしき器具{n}を取り出した。トリガーをひねると、{n}その中心に埋め込まれた猛禽の瞳の{n}ような水晶体が激しい点滅を開始する。",
-  "en": ""
+  "en": "Dazed from his wounds, Bol took out a{n}device that seemed to hold magic sealed{n}within. When he twisted the trigger, the{n}crystal set at its center, like a bird of{n}prey's eye, began to flash violently."
  },
  {
   "id": "s0234_012b8",
@@ -717,7 +717,7 @@
    "シェラ"
   ],
   "jp": "はっ！　誰の声……バ、クハツ、スル？{n}いけない！　Ｄ・Ｓ、止めて！{n}あの魔道器を遠くへ――！",
-  "en": ""
+  "en": "Ah! Whose voice... Ex... plode? No! D.S., stop it!{n}Get that magic device far away--!"
  },
  {
   "id": "s0234_01314",
@@ -741,7 +741,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "爆発だとお！　くそっ！",
-  "en": ""
+  "en": "Explode, you say! Damn it!"
  },
  {
   "id": "s0234_0132c",
@@ -765,7 +765,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "Ｄ・Ｓが突進するうちにも、魔道器の{n}点滅は加速度的に間隔を狭めていく。{page}ボルからそれを奪い取った瞬間には、{n}もはや点滅していることも判別できぬ{n}状態にあった。凝縮された魔力が膨れ{n}上がり、Ｄ・Ｓの手の中で目映い閃光{n}が疾る。魔道器の外殻が散弾となって{n}四散する――。",
-  "en": ""
+  "en": "Even as D.S. rushed forward, the intervals{n}between the device's flashes rapidly{n}shortened.{page}The moment he snatched it from Bol, its{n}flashing could no longer be told apart.{n}The condensed magic swelled, and a{n}dazzling flash burst in D.S.'s hand. The{n}device's shell flew apart like buckshot--"
  },
  {
   "id": "s0234_01434",
@@ -789,7 +789,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "うぅおおおおおお――っ！",
-  "en": ""
+  "en": "Uoooooooooh--!"
  },
  {
   "id": "s0234_01450",
@@ -813,7 +813,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "爆発の瞬間、Ｄ・Ｓは魔道器を掲げた{n}右腕ごと、球形の局所結界の中に封じ{n}込めた。障壁の内側は熱と炎、そして{n}飛散した破片が荒れ狂い、Ｄ・Ｓの腕{n}をぐずぐずに粉砕する。だが、咄嗟に{n}腕を犠牲にした判断で、至近で爆風と{n}破片を浴びていたはずのボルは無事に{n}護られた。",
-  "en": ""
+  "en": "At the moment of the blast, D.S. sealed{n}the device, along with the right arm{n}holding it up, inside a spherical barrier.{n}Heat, flame and flying shards raged within{n}the wall, and pulverized his arm into mush.{n}But thanks to his snap decision to{n}sacrifice the arm, Bol, who should have{n}taken the blast and shrapnel at{page}point-blank range, was kept safe."
  },
  {
   "id": "s0234_01554",
@@ -837,7 +837,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "結界の内壁はＤ・Ｓの鮮血で赤く染ま{n}った。やがて結界が解除され、大量の{n}血液と魔道器の破片が、肉の焦げた{n}臭気とともにバラバラと足下に落ちる。",
-  "en": ""
+  "en": "The inner wall of the barrier was stained{n}red with D.S.'s fresh blood. At last the{n}barrier was undone, and a great quantity{n}of blood and shards of the device fell at{n}his feet with a stench of scorched{n}flesh."
  },
  {
   "id": "s0234_015e4",
@@ -861,7 +861,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "肘から先を失ったＤ・Ｓの右腕を、{n}ボルは惚けたように見ていた。体力を{n}回復するためのものとして至高王に{n}渡された魔道器は、ボルを巻き添えに{n}相手を爆死させる自決兵器であった。{page}Ｄ・Ｓの腕の惨状が、本当は自分に{n}降り注いでいたという思いが、ボルを{n}思考停止に陥らせていた。",
-  "en": ""
+  "en": "Bol stared as if dazed at D.S.'s right arm,{n}gone from the elbow down. The magic{n}device, given to Bol by the High King to{n}restore his strength, was a suicide{n}weapon meant to blow its target up and{n}take Bol along with it.{page}The thought that the horror of D.S.'s arm{n}should have rained on him had brought{n}Bol's thoughts to a halt."
  },
  {
   "id": "s0234_016f0",
@@ -885,7 +885,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "痛えじゃねーかよ、ちっくしょおぉ！{n}再生するったって、瞬間的な痛みは{n}人並みなんだぜ、くそっ！",
-  "en": ""
+  "en": "That hurt, damn it alllll! I might regenerate,{n}but the pain in the moment's the same as{n}anybody's, damn it!"
  },
  {
   "id": "s0234_01750",
@@ -909,7 +909,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "言いながらも、Ｄ・Ｓの肘から先は{n}見る間に骨が再生し、そこに肉や血管、{n}神経繊維が絡みついて修復されていく。{page}無尽蔵に近い魔力によって細胞分裂を{n}賦活し、欠損した肉体を超高速で復元{n}する驚異的な再生機能――不死の魔物{n}や蟲使いとも並ぶ魔人Ｄ・Ｓの超回復{n}能力である。",
-  "en": ""
+  "en": "Even as he spoke, the bone of D.S.'s arm{n}below the elbow regrew before their{n}eyes, and flesh, blood vessels and nerve{n}fibers wound around it and mended it.{page}A marvelous power of regeneration that{n}spurred cell division with near-limitless{n}magic and restored lost flesh at{n}super-high speed: the hyper-recovery of{n}D.S. the demon man, a match for the{n}undead or the bug tamer."
  },
  {
   "id": "s0234_01858",
@@ -933,7 +933,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "その光景が、ボルを現実に引き戻した。{n}拳を白く固め、全身を震わせて、絞り{n}出すような声でボルは呟いた。",
-  "en": ""
+  "en": "The sight brought Bol back to reality. His{n}fists clenched white, his whole body{n}shaking, Bol muttered in a strangled{n}voice."
  },
  {
   "id": "s0234_018c0",
@@ -957,7 +957,7 @@
    "ボル"
   ],
   "jp": "かように強力な爆弾を……カル様が、{n}それがしに……部下もろとも爆死させ{n}るおつもりであったと――うおおっ！",
-  "en": ""
+  "en": "So powerful a bomb... Kall-sama, to this one...{n}to blow up his own subordinate along with{n}the foe-- Uooooh!"
  },
  {
   "id": "s0234_0192c",
@@ -981,7 +981,7 @@
    "ボル"
   ],
   "jp": "ボルは膝を突き、両拳を床に{n}叩きつけて絶叫した。",
-  "en": ""
+  "en": "Bol fell to his knees, beat both fists on{n}the floor and screamed."
  },
  {
   "id": "s0234_01960",
@@ -1005,7 +1005,7 @@
    "ボル"
   ],
   "jp": "それがしはどうすれば良いのだ！{n}命まで救われたＤ・Ｓ殿を狙うこと{n}などできぬ！　だが、もはやカル様の{n}もとに戻ることもできぬ――",
-  "en": ""
+  "en": "What is this one to do! This one cannot{n}target D.S.-dono, who has even saved this{n}one's life! Yet this one can no longer go{n}back to Kall-sama either--"
  },
  {
   "id": "s0234_019e0",
@@ -1029,7 +1029,7 @@
    "シェラ"
   ],
   "jp": "ボル……貴公、カル様が正気だと思う{n}のか？　あの聡明で慈悲深いお方が、{n}仮に何らかの考えがあったとて、己の{n}部下を殺すような真似をすると？",
-  "en": ""
+  "en": "Bol... Sir, do you think Kall-sama is in his right{n}mind? That wise and merciful lord, whatever{n}his reasons, would do such a thing as to kill{n}his own subordinate?"
  },
  {
   "id": "s0234_01a6c",
@@ -1053,7 +1053,7 @@
    "ボル"
   ],
   "jp": "……いいや、それがしにはまだ、{n}信じられん……あのカル様が……",
-  "en": ""
+  "en": "...No, this one still cannot believe it... That{n}Kall-sama..."
  },
  {
   "id": "s0234_01aac",
@@ -1077,7 +1077,7 @@
    "シェラ"
   ],
   "jp": "カル様は正気を失っておられるのだ！{n}恐らくは我々の敵により、御心を支配{n}されている！　そのカル様に盲従する{n}ことが忠義だと、貴公は思うのか？",
-  "en": ""
+  "en": "Kall-sama has lost his senses! No doubt our{n}enemies rule his heart! Do you hold it loyalty{n}to follow that Kall-sama blindly, sir?"
  },
  {
   "id": "s0234_01b38",
@@ -1101,7 +1101,7 @@
    "シェラ"
   ],
   "jp": "我々が尽くす忠義は、カル様に正しい{n}御心を取り戻して頂くこと――ならば{n}我々魔戦将軍の取るべき道は、Ｄ・Ｓ{n}に従い背後の敵を討つことではないか！",
-  "en": ""
+  "en": "The loyalty we owe is to bring Kall-sama's{n}true heart back to him. Then is not the path{n}for us Sorcerer Generals to follow D.S., and{n}strike down the enemy behind this!"
  },
  {
   "id": "s0234_01bc8",
@@ -1125,7 +1125,7 @@
    "ボル"
   ],
   "jp": "忠誠を、尽くす道……しかしそれがし{n}はＤ・Ｓ殿を殺そうと――",
-  "en": ""
+  "en": "The path of fulfilling loyalty... But this one{n}tried to kill D.S.-dono--"
  },
  {
   "id": "s0234_01c08",
@@ -1149,7 +1149,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "やい、ボル！　俺様がこんな痛え思い{n}をした以上、オメエにも働いてもらわ{n}なきゃワリが合わねえ！　ちゃんと{n}ついてきやがれよっ！",
-  "en": ""
+  "en": "Hey, Bol! Since the great me went through{n}all that pain, you gotta put in some work{n}too, or it ain't fair! Just shut up and keep{n}up!"
  },
  {
   "id": "s0234_01c88",
@@ -1173,7 +1173,7 @@
    "ボル"
   ],
   "jp": "Ｄ・Ｓ殿……貴殿は、何という器の{n}大きさなのでござろうか……それがし、{n}涙が、涙が……うおおおーん！",
-  "en": ""
+  "en": "D.S.-dono... How great is your spirit, good sir...{n}This one, the tears, the tears... Uooooon!"
  },
  {
   "id": "s0234_01cec",
@@ -1197,7 +1197,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "また泣きやがって……ったくよお！{n}大体な、オメーらがカルの舎弟なら、{n}俺様の舎弟でもあるワケだろーが。{n}いちいち目くじら立ててられっか！",
-  "en": ""
+  "en": "Crying again... Damn it all! Anyhow, if you{n}guys are Kall's lackeys, then you're the{n}great me's lackeys too, right? I ain't gonna{n}blow my top every time!"
  },
  {
   "id": "s0234_01d74",
@@ -1221,7 +1221,7 @@
    "ボル"
   ],
   "jp": "うおおおーん……か、かたじけのう{n}ござるー",
-  "en": ""
+  "en": "Uooooon... This one is o-obliged to you,{n}forsooth!"
  },
  {
   "id": "s0234_01da0",
@@ -1245,7 +1245,7 @@
    "シェラ"
   ],
   "jp": "それにしてもあの、爆発すると教えて{n}くれた声……誰のものだったのだ？{n}水龍ではなし……まさか巨獣が？{n}だとしたら、巨獣とは……？",
-  "en": ""
+  "en": "Still, that voice that warned of the{n}explosion... whose was it? Not the Water{n}Dragon... could it be the great beast? If so,{n}what is the great beast...?"
  },
  {
   "id": "s0234_02234",
@@ -1269,7 +1269,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "ん……？　また誰かいやがる――",
-  "en": ""
+  "en": "Hm...? Someone else's here--"
  },
  {
   "id": "s0234_02254",
@@ -1293,7 +1293,7 @@
    "ボル"
   ],
   "jp": "それがしの他に直接追跡を命じられた{n}者はいなかったはずでござるが……",
-  "en": ""
+  "en": "There should be no other who has been{n}ordered to give direct pursuit, forsooth..."
  },
  {
   "id": "s0234_0229c",
@@ -1317,7 +1317,7 @@
    "シェン"
   ],
   "jp": "……Ｄ・Ｓか？",
-  "en": ""
+  "en": "...D.S.?"
  },
  {
   "id": "s0234_022ac",
@@ -1341,7 +1341,7 @@
    "ヨシュア"
   ],
   "jp": "シェンではないか！",
-  "en": ""
+  "en": "Is that not Schen!"
  },
  {
   "id": "s0234_022c0",
@@ -1365,7 +1365,7 @@
    "ヴァイ"
   ],
   "jp": "シェン！　無事だったのかよう！{n}おお、ジオンの兄貴もいるじゃん！",
-  "en": ""
+  "en": "Schen! You're okay! Oh, big brother Zion's{n}here too!"
  },
  {
   "id": "s0234_02304",
@@ -1389,7 +1389,7 @@
    "ジオン"
   ],
   "jp": "久しいな……あの時は済まなかった",
-  "en": ""
+  "en": "It has been a long time... Forgive me for{n}that time."
  },
  {
   "id": "s0234_02328",
@@ -1413,7 +1413,7 @@
    "カイ"
   ],
   "jp": "いいさ。皆無事だったのだからな",
-  "en": ""
+  "en": "It's all right. Everyone's safe, after all."
  },
  {
   "id": "s0234_02348",
@@ -1437,7 +1437,7 @@
    "ジオン"
   ],
   "jp": "久しいな……",
-  "en": ""
+  "en": "It has been a long time..."
  },
  {
   "id": "s0234_02358",
@@ -1461,7 +1461,7 @@
    "ジオン"
   ],
   "jp": "そこに現れたのは、妖魔の手によって{n}暗黒洞に放り込まれ、消息を絶って{n}いたジオンとシェンの兄弟であった。",
-  "en": ""
+  "en": "Those who appeared were the brothers{n}Zion and Schen, thrown into a dark hole{n}by the demons and lost from sight."
  },
  {
   "id": "s0234_023c0",
@@ -1485,7 +1485,7 @@
    "ジオン"
   ],
   "jp": "ふたりは異次元のトンネルから導かれ、{n}この巨獣の体内に実体化したのだった。{n}鼻腔方面に出口を求めて彷徨い、今{n}この食道に出てきたらしい。",
-  "en": ""
+  "en": "The two had been led through a tunnel in{n}another dimension, and had materialized{n}inside this great beast. It seemed they{n}had wandered up toward the nasal cavity{n}in search of a way out, and had now{n}come out in this gullet."
  },
  {
   "id": "s0234_02448",
@@ -1509,7 +1509,7 @@
    "シェン"
   ],
   "jp": "あの暗黒洞に飲まれてから、さほど{n}時間が経ったようには思えんのだが、{n}話を聞く限りでは想像以上に時が流れ{n}ていたようだ――",
-  "en": ""
+  "en": "It doesn't feel like much time has passed{n}since that dark hole swallowed us, but from{n}what you say, more time has gone by than I{n}could imagine--"
  },
  {
   "id": "s0234_024c4",
@@ -1533,7 +1533,7 @@
    "シェン"
   ],
   "jp": "異次元は時間の進み方が違うのか……{n}それともこの世界が――？",
-  "en": ""
+  "en": "Does time run differently in another{n}dimension... or is this world--?"
  },
  {
   "id": "s0234_02504",
@@ -1557,7 +1557,7 @@
    "ヨルグ"
   ],
   "jp": "ところでシェン、心なしかふたりとも{n}元気がないように思うのだが……？",
-  "en": ""
+  "en": "By the way, Schen, it seems to me that the{n}two of you are in low spirits...?"
  },
  {
   "id": "s0234_0254c",
@@ -1581,7 +1581,7 @@
    "シェン"
   ],
   "jp": "いや、そんなことは……",
-  "en": ""
+  "en": "No, it's nothing like..."
  },
  {
   "id": "s0234_02564",
@@ -1605,7 +1605,7 @@
    "ジオン"
   ],
   "jp": "――異次元に飛ばされたショックで、{n}少し記憶が戻ってな。いい思い出も{n}あれば、嫌な思い出もある……",
-  "en": ""
+  "en": "--The shock of being thrown into another{n}dimension brought back some of my memory.{n}There are good memories, and there are{n}bad..."
  },
  {
   "id": "s0234_025c8",
@@ -1629,7 +1629,7 @@
    "シェン"
   ],
   "jp": "兄者！",
-  "en": ""
+  "en": "Brother!"
  },
  {
   "id": "s0234_025d0",
@@ -1653,7 +1653,7 @@
    "ジオン"
   ],
   "jp": "ああ……悪かった。俺とお前にとって、{n}父上を――先代継承者を悪く捉える{n}のは許されぬことだからな",
-  "en": ""
+  "en": "Ah... Forgive me. You and I may not think ill{n}of Father, the previous heir."
  },
  {
   "id": "s0234_02630",
@@ -1701,7 +1701,7 @@
    "ヴァイ"
   ],
   "jp": "……あれ？　シェン、それって黒夜叉？",
-  "en": ""
+  "en": "...Huh? Schen, is that the Black Yaksha?"
  },
  {
   "id": "s0234_02660",
@@ -1725,7 +1725,7 @@
    "シェン"
   ],
   "jp": "あ、ああ――",
-  "en": ""
+  "en": "Y-yeah--"
  },
  {
   "id": "s0234_02670",
@@ -1749,7 +1749,7 @@
    "ジオン"
   ],
   "jp": "俺がやったのさ。どうも記憶が戻って{n}以来、手に馴染まなくなってな。代々{n}影流に伝えられた名刀なのだがな……",
-  "en": ""
+  "en": "I gave it to him. Ever since my memory came{n}back, it has not felt right in my hand. It is a{n}fine sword, handed down through the{n}generations of the Shadow School..."
  },
  {
   "id": "s0234_026dc",
@@ -1773,7 +1773,7 @@
    "ジオン"
   ],
   "jp": "何を思い出したのか――ジオンの表情{n}には暗い翳りと、口元に浮かぶ歪んだ{n}笑みが纏わりつくようになっていた。{page}兄の変化に対し、シェンは気遣って{n}いるようではあったが、はっきりと{n}口に出せぬ気まずさがあるようだった。",
-  "en": ""
+  "en": "What had he remembered? A dark shadow{n}now clung to Zion's face, and a crooked{n}smile to his lips.{page}Schen seemed anxious over his brother's{n}change, yet seemed too awkward to{n}speak of it openly."
  },
  {
   "id": "s0234_027b0",
@@ -1797,7 +1797,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "ま、どっちにしろふたりとも無事で{n}良かったじゃねえか。鼻腔からは出ら{n}れそうにねえんだな？　それじゃ、{n}このまま口を目指すとしようぜ――",
-  "en": ""
+  "en": "Well, either way, good thing you're both all{n}right. Doesn't look like we can get out{n}through the nose, huh? Then let's keep{n}heading for the mouth--"
  },
  {
   "id": "s0234_02838",
@@ -1821,7 +1821,7 @@
    "シェラ"
   ],
   "jp": "ジオン……？　魔戦将軍に同じ名の{n}魔剣士がいたように思ったが……。{n}影流とやらは侍剣法の流派――魔剣士{n}とは相容れぬ。人違いか……",
-  "en": ""
+  "en": "Zion...? I believe there was a demon{n}swordsman of the same name among the{n}Sorcerer Generals... But the Shadow School{n}is a samurai sword style, incompatible with{page}demon swordsmen. It must be someone{n}else..."
  },
  {
   "id": "s0234_02bc0",
@@ -1845,7 +1845,7 @@
    "ヴァイ"
   ],
   "jp": "あれえ？　行き止まりだぜ？",
-  "en": ""
+  "en": "Huh? It's a dead end?"
  },
  {
   "id": "s0234_02bdc",
@@ -1869,7 +1869,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "のべつまくなし、何でも飲み込むワケ{n}にゃいかねえんだろ。ノドの部分は{n}弁が閉じるようになってやがら",
-  "en": ""
+  "en": "It can't go swallowing everything nonstop.{n}The throat's got a valve that closes up."
  },
  {
   "id": "s0234_02c40",
@@ -1893,7 +1893,7 @@
    "ヨルグ"
   ],
   "jp": "このままでは出られんな",
-  "en": ""
+  "en": "We cannot get out like this."
  },
  {
   "id": "s0234_02c58",
@@ -1917,7 +1917,7 @@
    "ヴァイ"
   ],
   "jp": "くすぐってみるか。こちょこちょこちょ{n}……お？　きたかな？",
-  "en": ""
+  "en": "Let's try tickling it. Tickle tickle tickle... oh?{n}Is it coming?"
  },
  {
   "id": "s0234_02c94",
@@ -1941,7 +1941,7 @@
    "ヨルグ"
   ],
   "jp": "ままま、待て！　クシャミなどされて{n}エーテルの海に放り出されたら――",
-  "en": ""
+  "en": "W-w-wait! If it sneezes, and we are thrown{n}out into the sea of ether--"
  },
  {
   "id": "s0234_02cdc",
@@ -1965,7 +1965,7 @@
    "ヨルグ"
   ],
   "jp": "ヴァイが喉の終点を撫でた途端、巨獣{n}の食道がひきつったように不規則な{n}蠕動を始めた。鼻腔に続く弁から大量{n}のエーテルが吸い込まれ、続いて勢い{n}良く前方の弁が開く――",
-  "en": ""
+  "en": "The moment Vai stroked the end of the{n}throat, the great beast's gullet began to{n}spasm in irregular waves. A great volume{n}of ether was sucked in through the valve{n}leading to the nasal cavity, and then the{n}valve ahead flew open--"
  },
  {
   "id": "s0234_02d80",
@@ -1989,7 +1989,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "ヴァイのバカ野郎――っ！",
-  "en": ""
+  "en": "Vai, you damn idiooot--!"
  },
  {
   "id": "s0234_02d9c",
@@ -2013,7 +2013,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "一行は巨獣の凄まじいくしゃみに巻き{n}込まれ、爆発的に放出されるエーテル{n}流に乗って口から外へと射出された。",
-  "en": ""
+  "en": "Caught in the great beast's terrific{n}sneeze, the party rode the explosive rush{n}of ether and were shot out of its{n}mouth."
  },
  {
   "id": "s0234_02e08",

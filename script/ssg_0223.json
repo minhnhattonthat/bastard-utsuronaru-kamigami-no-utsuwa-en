@@ -21,7 +21,7 @@
    ""
   ],
   "jp": "氷獄塔を支える二つの山への登山口と{n}なるこの谷間には、並び立つ山肌から{n}吹き下ろす風が複雑な渦を生み出し、{n}途絶えることのない雪嵐が猛り狂って{n}いた。オーロラの影響なのか、左右の{n}山へと続く登り坂は奇怪な発光を繰り{n}返す吹雪にすっぽりと覆われている。",
-  "en": ""
+  "en": "In this valley, the entry point for climbing{n}the two mountains that hold up the Ice{n}Hell Tower, winds blowing down from the{n}rock faces on either side made complex{n}eddies, and a snowstorm raged without{n}end. Perhaps through the aurora's{n}influence, the upward paths to the left{n}and right mountains were wholly hidden{page}in a blizzard that gave off an eerie{n}flashing light."
  },
  {
   "id": "s0223_0094c",
@@ -45,7 +45,7 @@
    "ヨシュア"
   ],
   "jp": "氷獄塔に行くには、ここからどっちか{n}の山を登るしかないようだが……",
-  "en": ""
+  "en": "To reach the Ice Hell Tower, it seems we{n}have no choice but to climb one of these{n}mountains..."
  },
  {
   "id": "s0223_00990",
@@ -69,7 +69,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "ひでえ吹雪だな。それにあの妙な光、{n}気にいらねえぜ",
-  "en": ""
+  "en": "Hell of a blizzard. And I don't like that weird{n}light one bit."
  },
  {
   "id": "s0223_009c4",
@@ -93,7 +93,7 @@
    "ヴァイ"
   ],
   "jp": "あっ！　また来たぜ！",
-  "en": ""
+  "en": "Ah! He's here again!"
  },
  {
   "id": "s0223_009dc",
@@ -117,7 +117,7 @@
    "ヴァイ"
   ],
   "jp": "荒れ狂う吹雪を裂いて、眼前に亜空間{n}へと続く亀裂が出現した。そこから、{n}手慣れた様子でサイクスが飛び出して{n}くる。",
-  "en": ""
+  "en": "Tearing through the raging blizzard, a{n}crack leading to subspace appeared{n}before them. Out of it, with a practiced{n}air, jumped Sykes."
  },
  {
   "id": "s0223_00a50",
@@ -141,7 +141,7 @@
    "サイクス"
   ],
   "jp": "また、とは何だ。私だって命懸けなん{n}だぞ……ハクション！　しかもこんな{n}寒い場所に、ハ、ハ、クシュン！",
-  "en": ""
+  "en": "What do you mean, \"again\"? I am risking my{n}life, you know... Achoo! And in such a cold{n}place, ah, ah, choo!"
  },
  {
   "id": "s0223_00ab8",
@@ -165,7 +165,7 @@
    "ヴァイ"
   ],
   "jp": "おー悪りワリ。あの猟犬の化け物に{n}まだ追われてるんだ？",
-  "en": ""
+  "en": "Oh, sorry, sorry. That monster hound still{n}after you?"
  },
  {
   "id": "s0223_00af0",
@@ -189,7 +189,7 @@
    "サイクス"
   ],
   "jp": "奴め……成長の度合いが激しくなって{n}きている。実体化に対する追跡に無駄{n}がなくなってきた。今も、凄まじい{n}勢いで真っ直ぐここに向かっている",
-  "en": ""
+  "en": "That beast... its growth is getting more{n}severe. It has stopped wasting effort in{n}chasing me whenever I materialize. Even{n}now it is heading straight here, at a{page}terrific speed."
  },
  {
   "id": "s0223_00b7c",
@@ -213,7 +213,7 @@
    "サイクス"
   ],
   "jp": "時間がないのはいつものことだが……{n}知り得た情報を伝えておこう。まず{n}この二つの山は、どちらも現在登攀{n}できる状況にはない",
-  "en": ""
+  "en": "Time is short, as always... but let me pass on{n}what I have learned. First, neither of these{n}two mountains can be climbed at present."
  },
  {
   "id": "s0223_00bf8",
@@ -237,7 +237,7 @@
    "サイクス"
   ],
   "jp": "実際に登ってみれば判ることだが、{n}上空を覆う魔のオーロラが電磁場を{n}狂わせ、この山の全域に途轍もない{n}電磁嵐を張り巡らせている",
-  "en": ""
+  "en": "You will see when you try to climb them, but{n}the demon aurora overhead has deranged{n}the electromagnetic field, and spread an{n}appalling electromagnetic storm over the{page}whole of these mountains."
  },
  {
   "id": "s0223_00c78",
@@ -261,7 +261,7 @@
    "サイクス"
   ],
   "jp": "この影響を取り除かない限り、山を{n}登り氷獄塔に到達するのは不可能だ。{n}先にオーロラを発生させる原因を究明{n}しなければ――！",
-  "en": ""
+  "en": "Unless this is removed, gentlemen, it is{n}impossible to climb the mountains and reach{n}the Ice Hell Tower. First you must find out{n}what is causing the aurora--!"
  },
  {
   "id": "s0223_00cf4",
@@ -285,7 +285,7 @@
    "サイクス"
   ],
   "jp": "予想より早くお迎えが来たようだ！{n}諸君、それではこれで失礼する！　ハ、{n}クシュ！",
-  "en": ""
+  "en": "It seems my escort has come sooner than I{n}expected! Gentlemen, I must take my leave!{n}Ah, choo!"
  },
  {
   "id": "s0223_00d44",
@@ -309,7 +309,7 @@
    "サイクス"
   ],
   "jp": "追跡者の気配が高まる中、サイクスは{n}口元を押さえてくしゃみをこらえ、{n}頭から異次元の窓に飛び込んでいった。{n}閉じる寸前の裂け目から、口惜しげな{n}猟犬の咆哮が漏れ聞こえ、遠ざかって{n}ゆく――。",
-  "en": ""
+  "en": "As the pursuer's presence grew, Sykes{n}covered his mouth, held back a sneeze,{n}and dived headfirst into the window to{n}another dimension. Through the rift, just{n}before it closed, came the frustrated{n}howl of the hound, fading away--"
  },
  {
   "id": "s0223_00e00",
@@ -333,7 +333,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "今回は前にも増して余裕がねえな――。{n}あの化け物の“気”もどんどん増大{n}してきてやがる。早くカタをつけねえ{n}とヤバいぜ、サイクスよ……",
-  "en": ""
+  "en": "He's got less time than ever, this time-- And{n}that monster's \"aura\" keeps getting bigger.{n}You better settle this soon or you're in{n}trouble, Sykes..."
  },
  {
   "id": "s0223_00e88",
@@ -357,7 +357,7 @@
    "サイクス"
   ],
   "jp": "――あれは電磁嵐だぞ。迂闊に踏み{n}込めば命も危うい。あんなものが山を{n}覆っていては、とても登攀して氷獄塔{n}まで行き着くことはできまい",
-  "en": ""
+  "en": "--That is an electromagnetic storm. Step in{n}carelessly and your life is in danger. With{n}such a thing covering the mountains, we{n}could never climb up to the Ice Hell{page}Tower."
  },
  {
   "id": "s0223_00f0c",
@@ -381,7 +381,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "電磁嵐だとぉ？",
-  "en": ""
+  "en": "Electromagnetic storm, you say?"
  },
  {
   "id": "s0223_00f1c",
@@ -405,7 +405,7 @@
    "サイクス"
   ],
   "jp": "ああ。恐らくは天空を覆う極光が、{n}このふたつの山の電磁場を狂わせて{n}いるのだろう。ただのオーロラでは{n}ないと思っていたが、やはり……",
-  "en": ""
+  "en": "Yes. No doubt the polar light covering the{n}sky has deranged the electromagnetic field{n}of these two mountains. I thought it was no{n}ordinary aurora, and sure enough..."
  },
  {
   "id": "s0223_00fa0",
@@ -429,7 +429,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "――気象制御か？",
-  "en": ""
+  "en": "--Weather control?"
  },
  {
   "id": "s0223_00fb4",
@@ -453,7 +453,7 @@
    "サイクス"
   ],
   "jp": "そう考えて間違いあるまい。発生源を{n}究明し、この影響を取り除かなくては{n}先には進めないぞ――",
-  "en": ""
+  "en": "We may safely assume so. Unless we find the{n}source and remove this effect, we cannot{n}go on--"
  },
  {
   "id": "s0223_0123c",
@@ -477,7 +477,7 @@
    ""
   ],
   "jp": "登山口を包む吹雪の内側は無数の閃光{n}が乱舞し、強大な電磁波がやり取り{n}されていると知れる。それ以上先に{n}進むことはできなかった。",
-  "en": ""
+  "en": "Inside the blizzard shrouding the entry{n}path, countless flashes danced wildly,{n}revealing a mighty exchange of{n}electromagnetic waves. They could go no{n}farther."
  },
  {
   "id": "s0223_012bc",
@@ -501,7 +501,7 @@
    "アンガス"
   ],
   "jp": "……ガガガ、ピピーッ、プシュー！",
-  "en": ""
+  "en": "...Ga-ga-ga, beep-beep, pshhh!"
  },
  {
   "id": "s0223_012e0",
@@ -525,7 +525,7 @@
    "ヴァイ"
   ],
   "jp": "おわっ！　普段は物静かなアンガスが！",
-  "en": ""
+  "en": "Whoa! Angus, who's usually so quiet!"
  },
  {
   "id": "s0223_01308",
@@ -549,7 +549,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "電磁波の影響を受けてやがるのか？{n}しょうがねえ、ここから離れるぜ！",
-  "en": ""
+  "en": "Are the electromagnetic waves getting to{n}him? Can't be helped, let's get away from{n}here!"
  },
  {
   "id": "s0223_0134c",
@@ -573,7 +573,7 @@
    "ヨシュア"
   ],
   "jp": "電磁波とやらの影響をもろに受けて{n}いるようだ！　早く立ち去ろう！",
-  "en": ""
+  "en": "He seems to be taking the full force of{n}these electromagnetic waves! Let us leave{n}at once!"
  },
  {
   "id": "s0223_01390",
@@ -597,7 +597,7 @@
    "アンガス"
   ],
   "jp": "ラ、ジオ、ガガーッ！",
-  "en": ""
+  "en": "Ra, di, o, Ga Ga!"
  },
  {
   "id": "s0223_013a8",
@@ -621,7 +621,7 @@
    "サイクス"
   ],
   "jp": "いくら強力な電磁嵐でも、この距離で{n}……はっ！　まさか、あなたは――？",
-  "en": ""
+  "en": "No matter how strong the electromagnetic{n}storm, at this distance... Ah! Could you{n}be--?"
  },
  {
   "id": "s0223_013f0",
@@ -645,7 +645,7 @@
    "アンガス"
   ],
   "jp": "ガッ……ガガッ（シーッ！）",
-  "en": ""
+  "en": "Ga... ga-ga (shhh!)"
  },
  {
   "id": "s0223_01574",
@@ -669,7 +669,7 @@
    ""
   ],
   "jp": "極光が消え、その影響で惹き起こされ{n}ていた電磁波異常は完全に治まって{n}いた。だが、右の山への登山口は今も{n}激しい地吹雪に見舞われ、険しい山道{n}を登ることはできそうにない。",
-  "en": ""
+  "en": "The polar light had vanished, and the{n}electromagnetic disturbance it had{n}caused had wholly died down. But the{n}entry path to the right mountain was still{n}swept by fierce ground blizzards, and it{n}seemed impossible to climb the steep{n}mountain trail."
  },
  {
   "id": "s0223_0161c",
@@ -693,7 +693,7 @@
    "ヴァイ"
   ],
   "jp": "右の山には登れそうにねえなあ",
-  "en": ""
+  "en": "Don't look like we can climb the right{n}mountain."
  },
  {
   "id": "s0223_0163c",
@@ -717,7 +717,7 @@
    "ヨシュア"
   ],
   "jp": "罠の可能性はないのか？",
-  "en": ""
+  "en": "Might it not be a trap?"
  },
  {
   "id": "s0223_01654",
@@ -741,7 +741,7 @@
    "ラン"
   ],
   "jp": "どちらの山にも仕掛けは施されて{n}いなかったと思う。左の山を進んだ{n}ところで問題はあるまい",
-  "en": ""
+  "en": "I believe neither mountain has been fitted{n}with any device. There should be no problem{n}going up the left one."
  },
  {
   "id": "s0223_016ac",
@@ -763,7 +763,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "吹雪が止むのを待つつもりもねえ。{n}早いトコ左の山を登って氷獄塔に{n}向かおうじゃねえか",
-  "en": ""
+  "en": "I ain't waiting around for the blizzard to{n}stop, either. Let's climb the left mountain{n}quick and head for the Ice Hell Tower."
  },
  {
   "id": "s0223_01700",
@@ -787,7 +787,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "極光が消え、その影響で惹き起こされ{n}ていた電磁波異常は完全に治まって{n}いた。だが、左の山への登山口は雪崩{n}に塞がれ、大規模な除雪を行わなけれ{n}ば登れそうにない。",
-  "en": ""
+  "en": "The polar light had vanished, and the{n}electromagnetic disturbance it had{n}caused had wholly died down. But the{n}entry path to the left mountain was{n}blocked by an avalanche, and it seemed{n}impossible to climb without large-scale{n}clearing of the snow."
  },
  {
   "id": "s0223_017a0",
@@ -811,7 +811,7 @@
    "ヴァイ"
   ],
   "jp": "あの雪崩、右を登らせるための{n}罠だったりして……",
-  "en": ""
+  "en": "What if that avalanche is a trap to make us{n}climb the right one..."
  },
  {
   "id": "s0223_017d4",
@@ -835,7 +835,7 @@
    "ラン"
   ],
   "jp": "いや、あれは自然に起こったものだと{n}思うが……この山には罠らしい仕掛け{n}は施されていないはずだ",
-  "en": ""
+  "en": "No, I believe it happened naturally... There{n}should be no trap-like devices on this{n}mountain."
  },
  {
   "id": "s0223_01834",
@@ -859,7 +859,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "けっ、雪崩なんざカンケーねえ！{n}いっそ俺様の呪文で融かしちまうか",
-  "en": ""
+  "en": "Hah, I don't give a damn about any{n}avalanche! Why don't I just melt it with one{n}of the great me's spells?"
  },
  {
   "id": "s0223_01878",
@@ -883,7 +883,7 @@
    "ヨシュア"
   ],
   "jp": "そんなことをしたら、余計雪崩を誘発{n}してしまうぞ！　ここは右の山を登る{n}しかあるまい――",
-  "en": ""
+  "en": "Doing that would only set off more{n}avalanches! We have no choice but to climb{n}the right mountain--"
  },
  {
   "id": "s0223_018d0",
@@ -907,7 +907,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "仕方ねえな",
-  "en": ""
+  "en": "Can't be helped."
  },
  {
   "id": "s0223_01a3c",
@@ -931,7 +931,7 @@
    ""
   ],
   "jp": "登山口は今も激しい地吹雪に見舞われ、{n}険しい山道を登ることはできそうにない",
-  "en": ""
+  "en": "The entry path was still swept by fierce{n}ground blizzards, and it seemed impossible{n}to climb the steep mountain trail."
  },
  {
   "id": "s0223_01ad4",
@@ -955,6 +955,6 @@
    ""
   ],
   "jp": "登山口は雪崩に塞がれ、大規模な除雪{n}を行わなければ登れそうにない。",
-  "en": ""
+  "en": "The entry path was blocked by an{n}avalanche, and it seemed impossible to{n}climb without large-scale clearing of the{n}snow."
  }
 ]

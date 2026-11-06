@@ -21,7 +21,7 @@
    ""
   ],
   "jp": "谷間の中央から地底へと続く長い{n}下り坂を降りると、そこは永久氷河に{n}よって地下に埋没した古い祠であった。",
-  "en": ""
+  "en": "Down a long slope running underground{n}from the middle of the valley lay an old{n}shrine, buried below the surface by an{n}eternal glacier."
  },
  {
   "id": "s0230_00880",
@@ -45,7 +45,7 @@
    "シェラ"
   ],
   "jp": "あ……聴こえる……",
-  "en": ""
+  "en": "Ah... I hear it..."
  },
  {
   "id": "s0230_00894",
@@ -69,7 +69,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "どうした、シェラ？",
-  "en": ""
+  "en": "What's up, Shella?"
  },
  {
   "id": "s0230_008a8",
@@ -93,7 +93,7 @@
    "シェラ"
   ],
   "jp": "この祠の奥に龍がいる……今までは{n}声が小さ過ぎて私には聴き取れなかっ{n}たのだが、オーロラが遮られたお陰で{n}交感できたようだ",
-  "en": ""
+  "en": "There is a dragon deep in this shrine... Until{n}now its voice was too faint for me to hear,{n}but with the aurora cut off, I seem to be{n}able to commune with it."
  },
  {
   "id": "s0230_00924",
@@ -117,7 +117,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "第三の龍か……いつものように歌は{n}ないのかよ？",
-  "en": ""
+  "en": "The third dragon, huh... No song like usual?"
  },
  {
   "id": "s0230_00954",
@@ -141,7 +141,7 @@
    "シェラ"
   ],
   "jp": "それが……近いはずなのに、龍の叫び{n}は消え入りそうに小さい。翼龍ですら、{n}ここまで弱々しくはなかった――",
-  "en": ""
+  "en": "That is just it... it should be close, yet the{n}dragon's cry is so small it seems about to{n}vanish. Even the wyvern was not so weak as{n}this--"
  },
  {
   "id": "s0230_009bc",
@@ -165,7 +165,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "妙だな……よし、急ぎ確かめよう！",
-  "en": ""
+  "en": "Weird... All right, let's go check it out{n}quick!"
  },
  {
   "id": "s0230_00ac4",
@@ -189,7 +189,7 @@
    ""
   ],
   "jp": "長い地下通路は、巨大な竪穴の壁面に{n}顔を出す形で終わっていた。この穴は{n}恐らく、空中に支えられた氷獄塔の{n}真下に位置していると思われる。",
-  "en": ""
+  "en": "The long underground passage ended by{n}opening onto the wall of a huge shaft.{n}This hole was likely directly beneath the{n}Ice Hell Tower, suspended in the air{n}above."
  },
  {
   "id": "s0230_00b4c",
@@ -213,7 +213,7 @@
    ""
   ],
   "jp": "そこに、龍はいた。{page}水の、龍――身体を構成する物質自体{n}が液体であり、それが肉としての機能{n}を果たす膨大な水の塊の集合体――。{n}紛れもなくそれは、水龍と呼ぶべき{n}存在であった。",
-  "en": ""
+  "en": "There, the dragon was.{page}A dragon of water: the very substance of{n}its body was liquid, a mass of enormous{n}lumps of water that served as its flesh.{n}Without question it was a being to be{n}called a Water Dragon."
  },
  {
   "id": "s0230_00bfc",
@@ -237,7 +237,7 @@
    ""
   ],
   "jp": "だが、水龍は竪穴の上方から浸食する{n}永久氷河に絡め取られ、その液状の{n}肉体を完全に凍結させられていた。{n}天を睨むが如くに直立し、水龍は巨大{n}な氷柱と化していたのである。",
-  "en": ""
+  "en": "But the Water Dragon was entangled in{n}the eternal glacier encroaching from the{n}top of the shaft, and its liquid flesh was{n}wholly frozen. Standing bolt upright as if{n}glaring at the heavens, the Water Dragon{n}had become a huge pillar of ice."
  },
  {
   "id": "s0230_00ca4",
@@ -261,7 +261,7 @@
    "ヴァイ"
   ],
   "jp": "これが……龍の封印かよ！",
-  "en": ""
+  "en": "So this... is the dragon's seal!"
  },
  {
   "id": "s0230_00cc0",
@@ -285,7 +285,7 @@
    "シェラ"
   ],
   "jp": "……おかしいと思っていた。この地に{n}足を踏み入れてから、私の交感能力が{n}失われたのかと疑っていたのだが――",
-  "en": ""
+  "en": "...I thought it strange. Ever since I set foot{n}in this land, I have wondered if I had lost{n}my power of communion--"
  },
  {
   "id": "s0230_00d2c",
@@ -309,7 +309,7 @@
    "シェラ"
   ],
   "jp": "龍の生命活動が完全に凍結させられて{n}いたとは……魂の一部が浅く目覚めて{n}いるに過ぎない。これでは苦痛すらも{n}叫べない……。ひどい……",
-  "en": ""
+  "en": "To think that the dragon's life had been{n}wholly frozen... One part of its soul is just{n}barely stirring. Like this it cannot even cry{n}out in pain... How cruel..."
  },
  {
   "id": "s0230_00db0",
@@ -333,7 +333,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "カルの氷の魔力なら、このくらいの{n}ことはやってのけるだろうが――俺の{n}今の力じゃあ、解凍はできそうにねえ。{n}向こうの力が上回ってやがんのか……？",
-  "en": ""
+  "en": "Kall's ice magic could pull this off, sure--{n}but with my power as it is now, I can't thaw{n}it. Is his stronger than mine...?"
  },
  {
   "id": "s0230_00e40",
@@ -357,7 +357,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "シェラ！　何とか龍と交信できねえか？{n}この地についての情報を少しでも{n}知りてえ",
-  "en": ""
+  "en": "Shella! Can you get through to the dragon{n}somehow? I wanna learn anything I can{n}about this place."
  },
  {
   "id": "s0230_00e90",
@@ -381,7 +381,7 @@
    "シェラ"
   ],
   "jp": "やってみよう……",
-  "en": ""
+  "en": "I shall try..."
  },
  {
   "id": "s0230_00ea4",
@@ -405,7 +405,7 @@
    "シェラ"
   ],
   "jp": "シェラは両手を耳に当て、極度に神経{n}を集中させ始めた。長い沈黙の後、{n}虚ろな瞳のシェラが言葉を紡ぐ――。{page}それは、水龍の言葉だった。",
-  "en": ""
+  "en": "Shella put both hands to her ears, and{n}began to concentrate with extreme{n}intensity. After a long silence, Shella, with{n}hollow eyes, spun out words.{page}They were the words of the Water{n}Dragon."
  },
  {
   "id": "s0230_00f28",
@@ -429,7 +429,7 @@
    "シェラ"
   ],
   "jp": "力を奪われし者よ。Ｄ・Ｓよ。{n}我を解放せよ。螺の道を開け――",
-  "en": ""
+  "en": "O you, robbed of your power. D.S. Release{n}me. Open the spiral road--"
  },
  {
   "id": "s0230_00f68",
@@ -453,7 +453,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "どうすりゃあいい？　このだだっ広い{n}雪原で、テメエの封印を解く方法を{n}どこに求めりゃいいんだ？",
-  "en": ""
+  "en": "What am I supposed to do? In this huge{n}snowfield, where do I look for a way to{n}break your seal?"
  },
  {
   "id": "s0230_00fc8",
@@ -477,7 +477,7 @@
    "シェラ"
   ],
   "jp": "答えは、隠蔽された世界、にある……{n}最後、に残された力、を用い、我の{n}封じる洞窟の結界を、解く……氷結湖{n}の、迷、宮へ、向……かえ……",
-  "en": ""
+  "en": "The answer lies... in the hidden world... With{n}the last... of my remaining strength, I undo{n}the barrier of the cave... I seal... Go to... the{n}Frozen Lake... Maze..."
  },
  {
   "id": "s0230_01050",
@@ -501,7 +501,7 @@
    "シェラ"
   ],
   "jp": "龍の言葉は急速に遠くなっていく。{n}強大な凍結の魔力が、水龍の意識の{n}覚醒を妨げているようであった。",
-  "en": ""
+  "en": "The dragon's words swiftly grew distant.{n}The mighty freezing magic seemed to{n}block the awakening of the Water{n}Dragon's mind."
  },
  {
   "id": "s0230_010b4",
@@ -525,7 +525,7 @@
    "シェラ"
   ],
   "jp": "ブツン、と交信が途切れ、トランス{n}状態から放り出されたシェラはその場{n}に膝を突いた。{page}その瞬間、水龍の眼が微かに光った。",
-  "en": ""
+  "en": "The contact broke off with a snap, and{n}Shella, thrown out of her trance, fell to{n}her knees.{page}In that instant, the Water Dragon's eyes{n}faintly shone."
  },
  {
   "id": "s0230_0112c",
@@ -573,7 +573,7 @@
    "シェラ"
   ],
   "jp": "……く、大丈夫、だ。それより今、{n}水龍が結界を解いたようだ。それで{n}魔力を使い果たしたのか、もう交感{n}にも応答しない……",
-  "en": ""
+  "en": "...Ngh, I am all right. More to the point, the{n}Water Dragon just undid the barrier. It{n}seems that used up its magic, for it no{n}longer answers my communion..."
  },
  {
   "id": "s0230_011bc",
@@ -621,7 +621,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "奴の言う通り、氷結湖の洞窟とやらに{n}向かってみるか――",
-  "en": ""
+  "en": "Let's do what it says and head for that{n}Frozen Lake cave--"
  },
  {
   "id": "s0230_011fc",
@@ -645,7 +645,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "言う通りなら、あの氷結湖の竪穴を{n}塞いでた水の結界が消えてるって{n}ことだな。水龍が眠っちまった以上、{n}そこを調べてみるしかねえな――",
-  "en": ""
+  "en": "If it's telling the truth, then the water{n}barrier blocking that Frozen Lake shaft is{n}gone. With the Water Dragon asleep, all we{n}can do is go check it out--"
  },
  {
   "id": "s0230_0160c",
@@ -693,6 +693,6 @@
    "ヴァイ"
   ],
   "jp": "おわっ！ アンガスが元に戻ったぞ！",
-  "en": ""
+  "en": "Whoa! Angus is back to normal!"
  }
 ]

@@ -21,7 +21,7 @@
    ""
   ],
   "jp": "そこは、雪が降り積もった針葉樹の{n}森であった。あの樹海とは植物相を{n}大きく変え、相当な距離を移動した{n}ことを裏付けている。",
-  "en": ""
+  "en": "It was a forest of needle-leaved trees{n}under heaped snow. Its plant life differed{n}greatly from that of the great forest,{n}which bore out that they had come a{n}considerable distance."
  },
  {
   "id": "s0203_00894",
@@ -45,7 +45,7 @@
    "ネイ"
   ],
   "jp": "寒いわね……ずいぶん北に飛ばされた{n}みたい",
-  "en": ""
+  "en": "It's cold... We seem to have been blown a{n}long way north."
  },
  {
   "id": "s0203_008c0",
@@ -69,7 +69,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "まるっきり極地に近い気候だぜ。{n}俺様の作った結界とはいえ、そんなに{n}持つとは思えねえんだがな",
-  "en": ""
+  "en": "Weather's practically polar. Even a barrier{n}made by the great me shouldn't have lasted{n}that long."
  },
  {
   "id": "s0203_0091c",
@@ -93,7 +93,7 @@
    "ボル"
   ],
   "jp": "どうやらここは針葉樹林帯の外れで{n}ござるな。北に向かえばこの森を{n}抜けられるようでござる",
-  "en": ""
+  "en": "It would appear this is the edge of the{n}needle-tree forest, forsooth. Heading north,{n}one should be able to leave these woods,{n}forsooth."
  },
  {
   "id": "s0203_00974",
@@ -117,7 +117,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "俺たちの進んでる方角に間違いはねえ{n}ようだ。感じる……ヨーコさんに、{n}確実に近づいてるぜ",
-  "en": ""
+  "en": "Looks like we're headed the right way. I can{n}feel it... We're definitely getting closer to{n}Yoko-san."
  },
  {
   "id": "s0203_009cc",
@@ -141,7 +141,7 @@
    "ネイ"
   ],
   "jp": "ダーシュ……やっぱりあの娘のことを{n}……私のコトなんかもうどうでも{n}いいんだわ、わーっ！",
-  "en": ""
+  "en": "Dahsh... So it's still that girl... You don't care{n}about me anymore, waaah!"
  },
  {
   "id": "s0203_00a24",
@@ -165,7 +165,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "バッ、馬鹿やめろって、ってギャアァ！{n}痺れるうぅ！",
-  "en": ""
+  "en": "St-stop it, you idiot, and then, gyaaah! That{n}stiiings!"
  },
  {
   "id": "s0203_00a58",
@@ -189,7 +189,7 @@
    "カイ"
   ],
   "jp": "ネイ様……まだどこかおかしいような{n}……",
-  "en": ""
+  "en": "Nei-sama... still seems a little off{n}somehow..."
  },
  {
   "id": "s0203_00a84",
@@ -213,7 +213,7 @@
    "シーン"
   ],
   "jp": "今のネイ様は、Ｄ・Ｓの娘のネイ様な{n}のよ。考えて見ればわたしたち、いつ{n}も鬼道衆の前で気を張っていた、母親{n}としてのネイ様しか知らないものね",
-  "en": ""
+  "en": "The Nei-sama we see now is Nei-sama as{n}D.S.'s daughter. When you think about it,{n}we've only ever known her as a mother,{n}always on her guard before the Kido{page}Corps."
  },
  {
   "id": "s0203_00b10",
@@ -237,7 +237,7 @@
    "ヨシュア"
   ],
   "jp": "皆、少しずつ記憶が戻りつつあるな。{n}まだ完全とは言えないが……",
-  "en": ""
+  "en": "Everyone's memory is returning little by{n}little. Not fully, as yet..."
  },
  {
   "id": "s0203_00b50",
@@ -261,7 +261,7 @@
    "ヴァイ"
   ],
   "jp": "そう言えばイングヴェイ、アンタが{n}探してる主の記憶って、どうなんだ？",
-  "en": ""
+  "en": "Come to think of it, Yngwei, what about your{n}memory of that lord you're looking for?"
  },
  {
   "id": "s0203_00b98",
@@ -285,7 +285,7 @@
    "イングヴェイイングヴェイ・フォン・マルムステ"
   ],
   "jp": "うむ……ひとつ思い出したのだが、{n}そのお方には私と同じく、忠誠を{n}誓った者たちが何人も仕えていた――",
-  "en": ""
+  "en": "Mm... One thing has come back to me. Like{n}me, many others who swore loyalty served{n}that person--"
  },
  {
   "id": "s0203_00bfc",
@@ -309,7 +309,7 @@
    "イングヴェイイングヴェイ・フォン・マルムステ"
   ],
   "jp": "我々は魔戦将軍と呼ばれ、理想の遂行{n}のため、いかなる障害をも取り除く{n}覚悟で戦っていた……ように思う",
-  "en": ""
+  "en": "We were called the Sorcerer Generals, and{n}to fulfill an ideal we fought prepared to{n}remove any obstacle... or so I believe."
  },
  {
   "id": "s0203_00c60",
@@ -333,7 +333,7 @@
    "ラン"
   ],
   "jp": "魔戦、将軍……",
-  "en": ""
+  "en": "Sorcerer... Generals..."
  },
  {
   "id": "s0203_00c70",
@@ -357,7 +357,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "さあっ、行くぞテメーら！　ぎゃあっ！{n}アーシェス、もうヤメろって、父さん{n}怒るゾ……アガガガガガ！",
-  "en": ""
+  "en": "All right, let's go, you lot! Gyah! Arshes,{n}knock it off, or Daddy's gonna get mad...{n}agagagagaga!"
  },
  {
   "id": "s0203_00cd4",
@@ -381,6 +381,6 @@
    "ネイ"
   ],
   "jp": "娘じゃないわよー！　私はダーシュの{n}恋人でしょーっ！　キィーッ！",
-  "en": ""
+  "en": "I'm not your daughter! I'm your lover, Dahsh!{n}Eeeek!"
  }
 ]
