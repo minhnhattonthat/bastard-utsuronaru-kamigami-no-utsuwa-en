@@ -103,3 +103,16 @@ Minor style notes from the review pass, for one polish pass before release. Phas
 - [ ] s0321_07ed8 - inverted object stumbles: "D.S. fell to one knee; only willpower kept him from pitching forward."
 - [ ] s0321_0816c - "Thinking that was easy" can misread: "Telling myself I'd avenge Marie... that made it easy."
 - [ ] s0329_00d88 - おや "Well?" reads as a question: "Well, now. If it is not my comrades of the Kido Corps--"
+- [ ] s0329_0236c - Nei's panic is stiff: "Dahsh!? Don't tell me you've reached your limit--!"
+- [ ] s0329_02848 - 急ぐわよ！ホラ、早く！ flat: "We're in a hurry! Come on, move it!"
+- [ ] s0329_02cd0 - ひっそりと開いていた "quietly opened" suggests movement: "an entrance leading underground lay quietly open."
+- [ ] s0329_037c8 - Ran is curt: "Forward, not back!"
+- [ ] s0333_01bd4 - 再び dropped: "After wandering, I came once more upon the Rebel Divine Kings' army, and Kall-sama..."
+- [ ] s0337_00f00 - 次元刀ブースター "Dimension Booster" follows the 17-byte item name; story text may be full: "my Dimension Sword Booster". Check `tbl_0386`/`tbl_0388` and the other story mentions first.
+- [ ] s0342_01fc0 - 脱いでみました keeps Abigail's deadpan: "has at last ventured to remove his veil."
+- [ ] s0346_0157c - "god-trespassing spirit power" coined: "which had attained spirit power, trespassing on the realm of gods,"
+- [ ] s0346_0165c - 超存在 "those beyond being" misreads: "The fierce battle of those transcendent beings".
+- [ ] s0346_023b8 - いわれはありません: "I see no reason to be called a traitor by the ghost of some ancient god."
+- [ ] s0346_02ad4 - "To see me here, who died" stumbles: "Surprised to see me here, when I died nearly a hundred years ago?"
+- [ ] s0346_03170 - "fixed ... with a roll" odd for ぎょろり: "Eyes holding the light of high intelligence rolled and fixed on D.S. and the others."
+- [ ] s0346_04648 - Vai stiff: "Where Yoko is? Yeah, but where's that..."

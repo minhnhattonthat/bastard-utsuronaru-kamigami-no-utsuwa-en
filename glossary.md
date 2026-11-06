@@ -157,4 +157,5 @@ Classes: 重戦 Heavy, 剣士 Fencer, 魔剣 Mystic, 侍 Samurai, 忍者 Ninja, 
 
 ## Decisions from earlier batches
 - Yngwei's 主: "liege" while he doesn't know who it is, never "mistress" (s0199 reveals a man, Kall); "lord" once he knows.
+- 鬼神: "demon god" for the three ancient gods D.S. seals in his body (s0333, s0361, `ov4_04788`), which leaves "war god" for 戦神. Not in the table because other uses differ by context: 風の鬼神 "fierce wind god", 鬼神の憤怒 "fiend".
 - 魔法剣士・侍: "magic swordsman, samurai". D.S. calling himself Ｄ・Ｓ様 = "the great D.S.-sama"; 俺様 = "the great me"; ハンサム様 = "Mister Handsome"; 超絶美形 = "super-gorgeous".
