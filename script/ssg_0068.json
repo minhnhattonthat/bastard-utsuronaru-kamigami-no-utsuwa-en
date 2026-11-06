@@ -21,7 +21,7 @@
    ""
   ],
   "jp": "塔の内側は、予想以上に機械的であり、{n}豊富な電力を利用するテクノロジーが{n}ふんだんに取り入れられているようで{n}あった。",
-  "en": ""
+  "en": "The inside of the tower was more{n}mechanical than they had expected, and{n}seemed lavishly fitted with technology{n}that drew on its ample power."
  },
  {
   "id": "s0068_00890",
@@ -45,7 +45,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "ふん、機械臭えな。俺はこの手の、{n}前時代的なカラクリは好きじゃねえ",
-  "en": ""
+  "en": "Hmph, stinks of machines. I don't like this{n}kind of old-fashioned contraption."
  },
  {
   "id": "s0068_00938",
@@ -77,7 +77,7 @@
    ""
   ],
   "jp": "扉は電気的にロックされているようで{n}あった。外部から取り入れられる電力{n}を遮断しない限り、どうしても扉は{n}開きそうになかった。",
-  "en": ""
+  "en": "The door seemed to be locked electrically.{n}Unless the power coming in from outside{n}was cut, it looked as if the door would{n}not open by any means."
  },
  {
   "id": "s0068_009e8",
@@ -101,7 +101,7 @@
    ""
   ],
   "jp": "最上層になるこの部屋に、塔全体の{n}電力を束ねる送電設備があることは{n}間違いなさそうだった。低い動力音が、{n}扉を隔てて伝わってくる。",
-  "en": ""
+  "en": "It seemed certain that this room, on the{n}top level, held the transmission equipment{n}that bundled all the tower's power. A low{n}hum of machinery came through the{n}door."
  },
  {
   "id": "s0068_00a6c",
@@ -125,7 +125,7 @@
    "ヴァイ"
   ],
   "jp": "この扉はロックされてないみたいだ",
-  "en": ""
+  "en": "Looks like this door's not locked."
  },
  {
   "id": "s0068_00a90",
@@ -149,7 +149,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "待て、ヴァイ。こんな時、自分が{n}鬼忍将だったらどうするか考えてみろ",
-  "en": ""
+  "en": "Hold it, Vai. At a time like this, think what{n}you'd do if you were the High Ninja."
  },
  {
   "id": "s0068_00ad4",
@@ -173,7 +173,7 @@
    "ヴァイ"
   ],
   "jp": "？　ま、簡単に動力が切られない{n}ようにするな。つまり――",
-  "en": ""
+  "en": "? Well, I'd make sure the power can't get{n}cut easy. In other words--"
  },
  {
   "id": "s0068_00b10",
@@ -197,7 +197,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "つまりこの部屋に番人をつけるって{n}こった。ロスも言ってたろ？　塔は{n}最重要警備地点らしいって",
-  "en": ""
+  "en": "In other words, you'd put a guard in this{n}room. You heard what Ros said, right? That{n}the towers are the most heavily guarded{n}spot."
  },
  {
   "id": "s0068_00b6c",
@@ -221,7 +221,7 @@
    "ヴァイ"
   ],
   "jp": "扉の向こうにゃ敵がいるか。気を{n}引き締めていかねえとな",
-  "en": ""
+  "en": "So there's an enemy behind this door. Better{n}stay sharp."
  },
  {
   "id": "s0068_00c68",
@@ -245,7 +245,7 @@
    ""
   ],
   "jp": "扉を開いた瞬間、それが何であるのか{n}判別できた者はいなかった。やがて、{n}その巨大な仏像のようなものは関節を{n}軋ませてゆっくりと動き出した。{page}甲虫のように艶やかな体表と、機械を{n}思わせる無骨な四肢――それらが組み{n}合わされてできたこの部屋の守護者は、{n}伝え聞く風の鬼神の如くあった。",
-  "en": ""
+  "en": "When the door opened, no one could tell{n}at first what the thing was. Then the{n}thing like a huge Buddhist statue, its{n}joints creaking, slowly began to move.{page}With a surface glossy as a beetle's and{n}rugged limbs that called machines to mind,{n}this guardian of the room stood like the{n}fierce wind god of legend."
  },
  {
   "id": "s0068_00d7c",
@@ -269,7 +269,7 @@
    ""
   ],
   "jp": "風機神の動きが止まり、関節部から{n}火が噴き出す。サーチライトの如き{n}光を放っていた双眸が急速に弱まり、{n}それが消えると同時に、守護者は半ば{n}分解しながら崩れ落ちていった。",
-  "en": ""
+  "en": "The Wind Machine God stopped moving,{n}and fire spouted from its joints. Its eyes,{n}which had shone like searchlights, swiftly{n}dimmed, and as they went out, the{n}guardian crumbled, half falling apart."
  },
  {
   "id": "s0068_00e24",
@@ -293,7 +293,7 @@
    ""
   ],
   "jp": "風機神は守護者であるとともに、送電{n}を司る制御装置でもあるようだった。{page}背中から伸びたケーブルが室内の動力{n}機関群に繋がり、それらは風機神の{n}破壊に伴って全ての機能を停止した。{n}風神塔の照明が消え、やがて薄暗い{n}非常灯に切り替わる。",
-  "en": ""
+  "en": "The Wind Machine God, it seemed, was{n}both guardian and the control device{n}governing the power transmission.{page}Cables running from its back connected to{n}the room's engines, and with its{n}destruction they all ceased to function.{n}The lights of the Wind God Tower went{n}out, and soon gave way to dim emergency{n}lamps."
  },
  {
   "id": "s0068_00f08",
@@ -317,7 +317,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "これで全ての部屋のロックが解除{n}されたハズだぜ",
-  "en": ""
+  "en": "That should've unlocked all the rooms."
  },
  {
   "id": "s0068_010e0",
@@ -341,7 +341,7 @@
    ""
   ],
   "jp": "電子ロックが解除されてから、一行が{n}到着するまでに、この室内にはすでに{n}侵入者があったらしかった。部屋は{n}物色された形跡があり、空になった{n}箱が床に転がっていた。",
-  "en": ""
+  "en": "It seemed someone had already broken{n}into this room between the release of the{n}electronic locks and the party's arrival.{n}There were signs that the room had been{n}ransacked, and empty boxes lay on the{n}floor."
  },
  {
   "id": "s0068_01180",
@@ -365,7 +365,7 @@
    "ヴァイ"
   ],
   "jp": "これは……一体誰が!?",
-  "en": ""
+  "en": "This is... Who could've done this!?"
  },
  {
   "id": "s0068_01198",
@@ -389,7 +389,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "……ロスだ。クックック、アイツめ、{n}まんまと俺たちを利用しやがった。{n}ハハハハ……",
-  "en": ""
+  "en": "...Ros. Heh heh heh, that guy played us like a{n}fiddle. Ha ha ha ha..."
  },
  {
   "id": "s0068_011ec",
@@ -413,7 +413,7 @@
    "ヴァイ"
   ],
   "jp": "あれ？　悔しがったり悪態ついたり{n}しないの？",
-  "en": ""
+  "en": "Huh? You're not gonna get mad or curse him{n}out?"
  },
  {
   "id": "s0068_0121c",
@@ -437,7 +437,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "こうも見事に出し抜かれると、腹も{n}立たねえ。まあ、探してるものがある{n}ワケでもねえしな",
-  "en": ""
+  "en": "Getting outfoxed this neatly, I can't even{n}get mad. Besides, it's not like I'm looking for{n}anything."
  },
  {
   "id": "s0068_015a8",
@@ -461,7 +461,7 @@
    ""
   ],
   "jp": "この扉は、塔の外の送電線へと続いて{n}いるようだった。しかし今は電気的に{n}ロックされ、開ける術はない。",
-  "en": ""
+  "en": "This door seemed to lead to the power{n}line outside the tower. But it was now{n}locked electrically, and there was no way{n}to open it."
  },
  {
   "id": "s0068_0160c",
@@ -485,7 +485,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "あっちに電気が送られてるところから{n}見て、向こうの塔が重要施設になって{n}るようだな。だが、まずはこの塔の{n}動力を止めなきゃならねえ",
-  "en": ""
+  "en": "Judging from the power going over there,{n}that other tower looks like the important{n}facility. But first we gotta stop this tower's{n}power."
  },
  {
   "id": "s0068_01828",
@@ -509,7 +509,7 @@
    "ヴァイ"
   ],
   "jp": "なあＤ・Ｓ。ロスの奴のこと、気に{n}ならねーか？",
-  "en": ""
+  "en": "Hey, D.S. Aren't you curious about that guy{n}Ros?"
  },
  {
   "id": "s0068_01858",
@@ -533,7 +533,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "そういや、お宝がどうとか言って{n}やがったな……もうちょいこの塔を{n}調べてみるか",
-  "en": ""
+  "en": "Now that you mention it, he did say{n}something about treasure... Let's check this{n}tower a bit more."
  },
  {
   "id": "s0068_018a8",
@@ -557,7 +557,7 @@
    "ヴァイ"
   ],
   "jp": "あれ？　塔の中を調べなくていいの？{n}動力が切れて、ドアのロックも外れて{n}るんだろ？",
-  "en": ""
+  "en": "Huh? We don't need to search the tower?{n}The power's off and the door locks are{n}open, right?"
  },
  {
   "id": "s0068_018fc",
@@ -581,6 +581,6 @@
    "Ｄ・Ｓ"
   ],
   "jp": "おー、そうだったそうだった。ロスの{n}奴も何か探してやがったしな。もう{n}ちょいこの塔を調べてみるか",
-  "en": ""
+  "en": "Oh, yeah, that's right. Ros was looking for{n}something too. Let's check this tower a bit{n}more."
  }
 ]

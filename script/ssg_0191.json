@@ -3143,7 +3143,7 @@
    "ヴァイ"
   ],
   "jp": "げげっ！　この窪み、何かいるぜ",
-  "en": ""
+  "en": "Yikes! There's something in this hollow!"
  },
  {
   "id": "s0191_03b20",
@@ -3167,7 +3167,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "なるほど。餌になる生き物が足を{n}踏み入れると、嗅ぎつけて土の中から{n}出てきやがるのか",
-  "en": ""
+  "en": "I see. When a creature that could be food{n}steps in, it sniffs it out and comes up from{n}the dirt."
  },
  {
   "id": "s0191_03b74",
@@ -3191,7 +3191,7 @@
    "ヴァイ"
   ],
   "jp": "ふーん……って、どうしてこんな{n}窪みを歩かなきゃならねーんだよ！",
-  "en": ""
+  "en": "Huh... Hey, wait, why do we even have to{n}walk around in this hollow!?"
  },
  {
   "id": "s0191_03bb8",
@@ -3215,7 +3215,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "基本だろ！　基本！",
-  "en": ""
+  "en": "It's basic stuff! Basic!"
  },
  {
   "id": "s0191_03bcc",
@@ -3488,7 +3488,7 @@
    "ヴァイ"
   ],
   "jp": "力尽きたのか、その蟲のような生物は{n}ピクリとも動かなくなった。と、見る{n}間に体表から湯気が立ち上り始める。{page}やがて、大量の水分を急速に放出した{n}蟲は拳ほどの大きさにまで干涸らび、{n}サナギのようになって地面に転がった。",
-  "en": ""
+  "en": "Its strength spent, it seemed, the bug-like{n}creature no longer so much as twitched.{n}Then, as they watched, steam began to{n}rise from its skin.{page}Soon, having rapidly shed a great quantity{n}of water, the bug shriveled to the size of{n}a fist and lay on the ground like a{n}chrysalis."
  },
  {
   "id": "s0191_03f00",
@@ -3630,7 +3630,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "……仮死状態になりやがったのか",
-  "en": ""
+  "en": "...So it went into suspended animation."
  },
  {
   "id": "s0191_03fdc",
@@ -3654,7 +3654,7 @@
    "ヴァイ"
   ],
   "jp": "ヘンな蟲だなぁ",
-  "en": ""
+  "en": "What a weird bug."
  },
  {
   "id": "s0191_03fec",
@@ -3678,7 +3678,7 @@
    "サイクス"
   ],
   "jp": "外敵に喰われないための知恵だろう。{n}それにしてもこんな習性を持つ蟲は{n}極めて珍しい",
-  "en": ""
+  "en": "A clever way to avoid being eaten by its{n}enemies, no doubt. Even so, a bug with such{n}habits is extremely rare."
  },
  {
   "id": "s0191_045dc",

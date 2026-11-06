@@ -21,7 +21,7 @@
    ""
   ],
   "jp": "洞窟に侵入して少し進むと、背後の{n}入口が再び塞がれる音が響いた。",
-  "en": ""
+  "en": "They entered the cave and had gone only{n}a little way when the sound of the{n}entrance sealing again echoed behind{n}them."
  },
  {
   "id": "s0034_0085c",
@@ -45,7 +45,7 @@
    "イングヴェイイングヴェイ・フォン・マルムステ"
   ],
   "jp": "祠の仕掛けを動かした者がここを{n}通れば、入口が自動的に閉ざされる{n}仕組みになっているのか。これで{n}あの男が消えたのもうなずける",
-  "en": ""
+  "en": "So when one who has worked the shrine's{n}mechanism passes through here, the{n}entrance closes by itself. That explains how{n}the man vanished."
  },
  {
   "id": "s0034_008dc",
@@ -69,7 +69,7 @@
    "ヴァイ"
   ],
   "jp": "そいつがヨルグだったとすると、{n}ヨシュアは？　もう峡谷には誰も{n}いなかったぜ",
-  "en": ""
+  "en": "If that guy was Jorg, what about Joshua?{n}There was nobody left in the gorge,{n}y'know."
  },
  {
   "id": "s0034_00928",
@@ -93,7 +93,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "ヨルグのすぐ後を追っていたなら、{n}入口が塞がる前に入れたのかも{n}知れねえな。どっちにしろ、俺たちは{n}前に進むしかなさそうだぜ",
-  "en": ""
+  "en": "If he was right on Jorg's heels, maybe he{n}got in before the entrance closed. Either{n}way, looks like all we can do is keep going."
  },
  {
   "id": "s0034_009a4",
@@ -117,7 +117,7 @@
    "ブラド"
   ],
   "jp": "騎士たる者、決して後退はせぬ。{n}背後が閉ざされたのはかえって{n}スッキリするわ。わはははは",
-  "en": ""
+  "en": "A knight never retreats, ever! Having the{n}way back closed is rather refreshing! Wa ha{n}ha ha!"
  },
  {
   "id": "s0034_00adc",
@@ -141,7 +141,7 @@
    ""
   ],
   "jp": "それは、彼方に轟く号砲に似ていた。{page}地響きを伴ったその音は、次第に{n}大きく、近くなってくる。洞窟も{n}その度に揺れ、細かな石片が天井から{n}剥がれ落ちてきた。",
-  "en": ""
+  "en": "It was like a signal gun booming in the{n}distance.{page}The sound, and the shaking of the ground{n}that came with it, slowly grew louder and{n}closer. Each time the cave shook too, and{n}fine chips of stone flaked from the{n}ceiling."
  },
  {
   "id": "s0034_00b74",
@@ -165,7 +165,7 @@
    "ヴァイ"
   ],
   "jp": "じ、地震か!?",
-  "en": ""
+  "en": "A-An earthquake!?"
  },
  {
   "id": "s0034_00b84",
@@ -189,7 +189,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "いや、コイツは違うぜ……むっ!?",
-  "en": ""
+  "en": "Nah, this is something else... Hm!?"
  },
  {
   "id": "s0034_00ba4",
@@ -213,7 +213,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "定期的に響く轟音に掻き消されながら、{n}微かに、しかし懸命に叫んでいるので{n}あろう、助けを求める声がＤ・Ｓの{n}耳に届いた。空耳ではないことは、{n}仲間たちの反応で明らかだった。",
-  "en": ""
+  "en": "Half drowned out by the regular roar, a{n}cry for help reached D.S.'s ears: faint, yet{n}surely shouted with all the caller's might.{n}That it was no trick of the ear was plain{n}from his companions' faces."
  },
  {
   "id": "s0034_00c50",
@@ -237,7 +237,7 @@
    "イングヴェイイングヴェイ・フォン・マルムステ"
   ],
   "jp": "何か聴こえた……！　女性の悲鳴？",
-  "en": ""
+  "en": "I heard something...! A woman's scream?"
  },
  {
   "id": "s0034_00c74",
@@ -261,7 +261,7 @@
    "ブラド"
   ],
   "jp": "婦女子の窮地を救うは騎士の本懐！{n}おのおの急げい！",
-  "en": ""
+  "en": "To rescue a lady in peril is a knight's highest{n}calling! Make haste, all of you!"
  },
  {
   "id": "s0034_00ca8",
@@ -285,7 +285,7 @@
    "ボル"
   ],
   "jp": "光を感じるでござる！　間もなく{n}出口でござるよ！",
-  "en": ""
+  "en": "This one senses light! The exit is near,{n}forsooth!"
  },
  {
   "id": "s0034_0105c",
@@ -309,7 +309,7 @@
    "ボル"
   ],
   "jp": "む？糸が仕掛けられているでござる。{n}おのおの、注意されよ",
-  "en": ""
+  "en": "Hm? A wire has been strung here, forsooth.{n}Have a care, good sirs."
  },
  {
   "id": "s0034_01098",
@@ -333,7 +333,7 @@
    "ボル"
   ],
   "jp": "目を凝らして見ると、奇妙な柱の間に{n}幽かに光る筋が無数に張り巡らされて{n}いた。",
-  "en": ""
+  "en": "Looking closely, they saw countless{n}faintly shining lines stretched between{n}the strange pillars."
  },
  {
   "id": "s0034_010e8",
@@ -357,7 +357,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "マカパインの奴もここから逃げたな。{n}ご丁寧に妖斬糸とやらの罠を仕掛けて{n}いきやがった",
-  "en": ""
+  "en": "So that bastard Macalpine ran off this way{n}too. And he was nice enough to leave behind{n}a trap of that demon-slash wire of his."
  },
  {
   "id": "s0034_0113c",
@@ -381,7 +381,7 @@
    "ヴァイ"
   ],
   "jp": "ボルがいなきゃ、引っかかってたとこ{n}だったぜ",
-  "en": ""
+  "en": "If it weren't for Bol, we'd have walked right{n}into that."
  },
  {
   "id": "s0034_0116c",
@@ -417,7 +417,7 @@
    ""
   ],
   "jp": "罠が作動した！",
-  "en": ""
+  "en": "The trap has been set off!"
  },
  {
   "id": "s0034_0117c",
@@ -441,7 +441,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "うっ!?",
-  "en": ""
+  "en": "Ugh!?"
  },
  {
   "id": "s0034_01184",
@@ -465,7 +465,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "奇妙な柱の間を通過した途端、鋭い{n}痛みが一行を襲った。見ると、返り血{n}を浴びて浮かび上がった妖斬糸が、{n}そこに無数に仕掛けられていた。",
-  "en": ""
+  "en": "The moment they passed between the{n}strange pillars, a sharp pain struck the{n}party. They looked, and there, standing{n}out in the spatter of their own blood,{n}were countless strands of demon-slash{n}wire."
  },
  {
   "id": "s0034_0120c",
@@ -489,7 +489,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "くそっ！　マカパインの野郎か……{n}逃げるついでに罠を仕掛けていきや{n}がったか",
-  "en": ""
+  "en": "Damn it! That bastard Macalpine... Set a trap{n}on his way out, did he."
  },
  {
   "id": "s0034_01258",
@@ -513,7 +513,7 @@
    "ヴァイ"
   ],
   "jp": "痛てて……罠はここだけじゃなさそう{n}だぜ",
-  "en": ""
+  "en": "Ow, ow... I don't think this is the only trap,{n}either."
  },
  {
   "id": "s0034_015c0",
@@ -537,7 +537,7 @@
    ""
   ],
   "jp": "突如として、目の前の空間に亀裂が{n}生じた。それは次元の壁に開いた{n}“穴”であり、異界の何かが裂け目の{n}向こう側で、目まぐるしく形態を{n}変えているのが見て取れる。{n}“穴”は不安定で、今にも閉じて{n}しまいそうに揺らめいていた。",
-  "en": ""
+  "en": "Suddenly a crack opened in the air before{n}them. It was a \"hole\" in the wall of{n}dimensions, and beyond the rift something{n}from another world could be seen{n}changing shape at a dizzying pace. The{n}\"hole\" was unstable, wavering as if it{n}might close at any moment."
  },
  {
   "id": "s0034_0169c",
@@ -561,7 +561,7 @@
    "ヴァイ"
   ],
   "jp": "お、おい！　何だよこりゃあ!?",
-  "en": ""
+  "en": "H-Hey! What the hell is this!?"
  },
  {
   "id": "s0034_016bc",
@@ -585,7 +585,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "次元の障壁に開いた“穴”だな。{n}向こう側は恐らく異次元……おい、{n}この穴が閉じねえうちに、ちょっと{n}手を突っ込んでみろ",
-  "en": ""
+  "en": "It's a \"hole\" in the dimensional barrier. The{n}other side's probably another dimension...{n}Hey, before it closes, stick your hand in{n}there a sec."
  },
  {
   "id": "s0034_01734",
@@ -609,7 +609,7 @@
    "ヴァイ"
   ],
   "jp": "ば、バッカ野郎！　そんな薄気味{n}悪いところに腕なんか入れられるか！",
-  "en": ""
+  "en": "W-Why you idiot! No way I'm putting my arm{n}in somewhere that creepy!"
  },
  {
   "id": "s0034_01778",
@@ -633,7 +633,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "手がかりになるかも知れねえぞ。{n}大丈夫、腕なんざ千切れたってまた{n}生えてくらあ",
-  "en": ""
+  "en": "Could be a clue. Don't worry, so what if your{n}arm gets torn off, it'll grow back."
  },
  {
   "id": "s0034_017c8",
@@ -657,7 +657,7 @@
    "ヴァイ"
   ],
   "jp": "生えるワケねえだろ！　アンタが{n}やれよ、アンタが",
-  "en": ""
+  "en": "Like hell it'll grow back! You do it! You!"
  },
  {
   "id": "s0034_017fc",
@@ -679,7 +679,7 @@
    "ヴァイ"
   ],
   "jp": "どっちが手を入れてみる？",
-  "en": ""
+  "en": "Who puts a hand in?"
  },
  {
   "id": "s0034_01818",
@@ -703,7 +703,7 @@
    "ヴァイ"
   ],
   "jp": "俺様",
-  "en": ""
+  "en": "The great me"
  },
  {
   "id": "s0034_01820",
@@ -751,7 +751,7 @@
    "ヴァイ"
   ],
   "jp": "“穴”から掴み出したのは、{n}腕に装着すると思われる奇妙な{n}アクセサリーだった。",
-  "en": ""
+  "en": "What he pulled from the \"hole\" was a{n}strange accessory, apparently meant to{n}be worn on the arm."
  },
  {
   "id": "s0034_01878",
@@ -775,7 +775,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "……次元の穴はこれのせいか？{n}空間の歪みを増幅するブースター{n}かも知れねえ",
-  "en": ""
+  "en": "...Is this what caused the dimensional hole?{n}Could be a booster that amplifies distortions{n}in space."
  },
  {
   "id": "s0034_018c4",
@@ -799,7 +799,7 @@
    "ヴァイ"
   ],
   "jp": "使えるのか？",
-  "en": ""
+  "en": "Can we use it?"
  },
  {
   "id": "s0034_018d4",
@@ -823,7 +823,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "いや、どうやら特定の所有者以外は{n}機能にロックがかかるようだ",
-  "en": ""
+  "en": "Nope. Looks like it's locked for anyone but{n}its specific owner."
  },
  {
   "id": "s0034_01914",
@@ -847,7 +847,7 @@
    "ヴァイ"
   ],
   "jp": "それにしても、記憶がないくせに{n}良くそんなコト判るな",
-  "en": ""
+  "en": "Still, how do you know stuff like that when{n}you've got no memory?"
  },
  {
   "id": "s0034_0194c",
@@ -871,7 +871,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "知識は消えちゃいねえようだ。ただ、{n}何か対象がなきゃダメだな。知識だけ{n}思い出すってワケにはいかねえ",
-  "en": ""
+  "en": "Guess the knowledge didn't vanish. But it{n}needs something to set it off. I can't just{n}remember knowledge on its own."
  },
  {
   "id": "s0034_019b0",
@@ -895,7 +895,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "“穴”から掴み出したのは、複雑な{n}紋様が彫り込まれた、竪琴の一種と{n}思われる楽器だった。",
-  "en": ""
+  "en": "What he pulled from the \"hole\" was a{n}musical instrument, apparently a kind of{n}lyre, carved with intricate patterns."
  },
  {
   "id": "s0034_01a08",
@@ -919,7 +919,7 @@
    "ヴァイ"
   ],
   "jp": "楽器？",
-  "en": ""
+  "en": "An instrument?"
  },
  {
   "id": "s0034_01a10",
@@ -943,7 +943,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "ああ。呪力がこめられたハープだ。{n}次元の狭間に落ち込んでいたようだな",
-  "en": ""
+  "en": "Yeah. A harp charged with cursed power.{n}Must've fallen into the gap between{n}dimensions."
  },
  {
   "id": "s0034_01a58",
@@ -967,7 +967,7 @@
    "ヴァイ"
   ],
   "jp": "ちょっと弾いてみるぜ",
-  "en": ""
+  "en": "I'm gonna try playing it."
  },
  {
   "id": "s0034_01a70",
@@ -991,7 +991,7 @@
    "ヴァイ"
   ],
   "jp": "ギュイイオオオオン！",
-  "en": ""
+  "en": "GYUIIOOOOON!"
  },
  {
   "id": "s0034_01a88",
@@ -1015,7 +1015,7 @@
    "ヴァイ"
   ],
   "jp": "ヴァイが軽く爪弾いただけで、竪琴は{n}怒ったように不協和音を奏でた。{n}脳髄や腹の底まで響く呪力の音波が、{n}聴く者に吐き気と眩暈を惹き起こす。",
-  "en": ""
+  "en": "At the lightest pluck from Vai, the lyre let{n}out an angry dissonance. The waves of{n}cursed sound, resounding to the depths{n}of brain and belly, left all who heard{n}them dizzy and sick."
  },
  {
   "id": "s0034_01b14",
@@ -1039,7 +1039,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "やめろ！　この下手くそめ！",
-  "en": ""
+  "en": "Stop it! You lousy hack!"
  },
  {
   "id": "s0034_01b30",
@@ -1063,7 +1063,7 @@
    "ヴァイ"
   ],
   "jp": "うげえ……こりゃ、面白半分に{n}弾いたりするもんじゃねえな",
-  "en": ""
+  "en": "Bleagh... Not a thing you play for fun, huh."
  },
  {
   "id": "s0034_01b6c",
@@ -1087,7 +1087,7 @@
    "ヴァイ"
   ],
   "jp": "微妙なバランスが崩れたのか、{n}“穴”は瞬時に塞がってしまった。{n}一切の痕跡を残さず、そこは元通りの、{n}何もない虚空に戻っていた。",
-  "en": ""
+  "en": "Perhaps some delicate balance had been{n}upset, for the \"hole\" closed in an instant.{n}It left no trace at all, and the place was{n}once more the empty void it had been."
  },
  {
   "id": "s0034_01fc8",
@@ -1111,6 +1111,6 @@
    "ヴァイ"
   ],
   "jp": "こっちからじゃ開けられそうにないぜ",
-  "en": ""
+  "en": "Doesn't look like we can open it from this{n}side."
  }
 ]

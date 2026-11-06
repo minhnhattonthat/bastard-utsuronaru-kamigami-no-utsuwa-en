@@ -15,6 +15,14 @@ Each row names the JP markers and the English that carries them. A line any spea
 | Bol | `それがし`, `〜でござる` | Mock-archaic samurai. "this one" for `それがし`, "forsooth" for `ござる` at line ends, "good sir". Comic. |
 | Macalpine | `私`, `貴様`, `ククク`, `〜よ` | Cold, smug, no contractions; "Heh heh heh". |
 | Jorg | `俺`, `〜ぬ`, `知らぬ` | Terse, bitter, few words. |
+| Yngwei | `私`, `〜だな`, `かたじけない` | Calm, courteous, no contractions: "I am obliged to you". |
+| High Ninja | `俺`, `貴様`, `ククク`, `フハハ` | Contemptuous, in command, no contractions; "Heh heh heh", "Hah hah!". |
+| Sheila | `私`, `〜下さい` | Well-bred, plain, formal, no contractions. |
+| Sykes | `私`, `君たち`, `〜だ`, `諸君` | Glib scholar: "gentlemen", "in brief", amused at himself; few contractions. |
+| Zakk | `俺`, `お前`, `〜だぜ`, `〜様` | Cocky teen, righteous and dense: "gonna", "you guys", "the great Zakk-sama". |
+| Ros | `アタシ`, `〜わよ`, `アンタ`, `バッハハーイ` | Camp and breezy: "Oh my", "toodle-oo", "Buh-bye-bye!". Says he's no queen (オカマ), just refined. |
+| Shella | `私`, `〜だ`, `〜ない` | Grave, poetic, a little stiff; a bard in men's clothes. |
+| Ba Thory | `俺様`, `貴公`, `うふっ` | Blustering, spitting, stammers when flustered ("Cuh-cuh-cocky"); turns coy when flattered ("Ufu"). |
 | Old or formal speakers | `わし`, `じゃ`, `のう`, `〜であろう`, `貴様`, `〜ぬ` | Stiff, archaic: "I shall", "you dare", "boy", "eh?". |
 | Women | `〜わ`, `〜のよ`, `かしら` | "I wonder", "you know", "dear" as fits the character; Nei is commanding, Yoko warm. |
 

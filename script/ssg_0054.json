@@ -21,7 +21,7 @@
    "ヴァイ"
   ],
   "jp": "おいＤ・Ｓ！そっちじゃねーよ",
-  "en": ""
+  "en": "Hey, D.S.! Not that way!"
  },
  {
   "id": "s0054_008a0",
@@ -45,7 +45,7 @@
    ""
   ],
   "jp": "湖畔に到達した時点で、湖の湖面は{n}荒海の如くに激しく波打っていた。{n}難攻不落の城砦島が、嵐に翻弄される{n}小舟のように見える。大気を伝わる{n}エネルギー波は、尋常を越えた域に{n}達していた。",
-  "en": ""
+  "en": "By the time they reached the shore, the{n}surface of the lake was heaving like a{n}raging sea. The impregnable island{n}fortress looked like a small boat tossed{n}by a storm. The waves of energy{n}traveling through the air had reached a{n}level beyond all reason."
  },
  {
   "id": "s0054_00958",
@@ -69,7 +69,7 @@
    "ヴァイ"
   ],
   "jp": "あれを見ろっ！",
-  "en": ""
+  "en": "Look at that!"
  },
  {
   "id": "s0054_00968",
@@ -93,7 +93,7 @@
    "ヴァイ"
   ],
   "jp": "大峡谷の彼方が、地鳴りとともに強烈{n}な光を放ち始めた。大地が割れ、そこ{n}から地龍の輝きが噴き上がる。雷神塔{n}の地下から続く洞窟は、大峡谷の{n}直下にまで延びていたらしい。{page}たわめられたエネルギーの解放が、{n}今まさに行われようとしていた。",
-  "en": ""
+  "en": "Far down the great gorge, a fierce light{n}began to blaze amid the rumbling of the{n}earth. The ground split, and the radiance{n}of the Earth Dragon erupted from it. The{n}caves running from beneath the Thunder{n}God Tower had evidently reached right{n}under the great gorge.{page}The pent-up energy was on the very{n}point of release."
  },
  {
   "id": "s0054_00a50",
@@ -117,7 +117,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "いよいよ出やがるぞ！",
-  "en": ""
+  "en": "Here it comes at last!"
  },
  {
   "id": "s0054_00a68",
@@ -141,7 +141,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "耳をつんざく咆哮を四方に撒き散らし、{n}ついに地龍が地表に姿を現した。{page}地底の寝所で見た時とは比較にならぬ{n}大きさに膨れ上がった龍は、長大な{n}胴で螺旋の軌道を描きながら、峡谷に{n}沿って鬼哭関へ突進していく。次第に{n}螺旋の回転速度を上げて迫るその姿は、{n}さながら水平線からせり上がる津波の{n}如き、圧倒的な破壊力を漲らせていた。",
-  "en": ""
+  "en": "Scattering an ear-splitting roar on all{n}sides, the Earth Dragon at last showed{n}itself on the surface.{page}Swollen to a size beyond comparison with{n}what they had seen in its underground{n}lair, the dragon charged along the gorge{n}toward the Ogre Wail Gate, its long body{n}tracing a spiral. As it bore on, its spiral{n}spinning ever faster, it brimmed with{n}overwhelming destructive force, like a{n}tsunami rising over the horizon."
  },
  {
   "id": "s0054_00ba4",
@@ -165,7 +165,7 @@
    "シェラ"
   ],
   "jp": "龍からもはや言葉は伝わってこない！{n}まるで荒れ狂う暴風のよう――いや、{n}原初の世界に生命が誕生する、その{n}瞬間の無垢な魂のようだ！",
-  "en": ""
+  "en": "The dragon's words no longer reach me! It is{n}like a raging storm-- no, like the innocent{n}soul of life at the moment of its birth in the{n}primal world!"
  },
  {
   "id": "s0054_00c28",
@@ -189,7 +189,7 @@
    "シェラ"
   ],
   "jp": "もはや輝くエネルギー流と化した龍は、{n}鬼哭関に正面から激突した。{page}破壊不可能と思われたぶ厚い扉は{n}想像を超えた力の奔流に抉られ、{n}飴のように歪み、砕け散った。",
-  "en": ""
+  "en": "The dragon, now a stream of blazing{n}energy, crashed head-on into the Ogre{n}Wail Gate.{page}The thick doors, thought unbreakable,{n}were gouged by a torrent of power{n}beyond imagining, warped like candy and{n}shattered to pieces."
  },
  {
   "id": "s0054_00cc4",
@@ -213,7 +213,7 @@
    "シェラ"
   ],
   "jp": "地龍は瞬間、湖水を大量の水蒸気に{n}変えながら進み、湖中央の自走砦を{n}掠めて、対角の外輪山上空へと飛び{n}去っていった。",
-  "en": ""
+  "en": "In an instant the Earth Dragon crossed{n}the lake, turning its waters to vast clouds{n}of steam, grazed the walking fort at its{n}center and flew off over the crater rim{n}on the far side."
  },
  {
   "id": "s0054_00d38",
@@ -237,7 +237,7 @@
    "ヴァイ"
   ],
   "jp": "！　湖の水が引いていくぜ",
-  "en": ""
+  "en": "! The lake's draining!"
  },
  {
   "id": "s0054_00d54",
@@ -261,7 +261,7 @@
    "ヴァイ"
   ],
   "jp": "湖水を堰き止める役割を果たしていた{n}鬼哭関が破壊され、膨大な水は激流と{n}なって大峡谷に放出されつつあった。{n}谷は大河と化し、海岸方向に向かって{n}勢いよく流れ続けている。人造湖の{n}水位はみるみるうちに減少し、本来の{n}カルデラ盆地の姿を取り戻していく。",
-  "en": ""
+  "en": "With the Ogre Wail Gate, which had{n}dammed the lake, destroyed, the vast{n}waters were pouring out into the great{n}gorge as a raging torrent. The valley had{n}become a great river, flowing hard{n}toward the coast. The level of the{n}man-made lake fell before their eyes, and{n}the caldera basin began to regain its{page}true form."
  },
  {
   "id": "s0054_00e48",
@@ -285,7 +285,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "予想以上の破壊エネルギーだったぜ。{n}巻き込まれてたらまず助からなかった",
-  "en": ""
+  "en": "More destructive energy than I figured. If{n}we'd gotten caught in that, we'd have been{n}goners for sure."
  },
  {
   "id": "s0054_00e90",
@@ -309,7 +309,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "この時、Ｄ・Ｓは肉体の奥底から、{n}得体の知れぬ力が漲ってくるのを{n}感じていた。尾骨に沿って湧き上がる{n}その力は、しかし本来そこにあった{n}器に注ぎ込まれたようでもあった。{n}脳に電流が疾り抜け、魔力の増大する{n}感覚がＤ・Ｓの中枢に刹那の快楽を{n}生じさせる。",
-  "en": ""
+  "en": "At this moment, D.S. felt an unfathomable{n}power welling up from deep within his{n}body. It rose along his tailbone, yet it{n}seemed to be pouring into a vessel that{n}had been there all along. A current raced{n}through his brain, and the sense of his{n}magic swelling brought a moment of{n}pleasure to the core of his being."
  },
  {
   "id": "s0054_00f88",
@@ -333,7 +333,7 @@
    "ロス"
   ],
   "jp": "さ、て、と。それじゃＤ・Ｓ、{n}アタシもここでオサラバさせてもらう{n}わねー",
-  "en": ""
+  "en": "Well, now. All right then, D.S., this is where I{n}say toodle-oo too."
  },
  {
   "id": "s0054_00fd0",
@@ -357,7 +357,7 @@
    "ヴァイ"
   ],
   "jp": "え？　何で？",
-  "en": ""
+  "en": "Huh? Get what?"
  },
  {
   "id": "s0054_00fe0",
@@ -381,7 +381,7 @@
    "ロス"
   ],
   "jp": "前に言ったでしょ。探してるモノが{n}あるって。警戒のキツイ雷神塔にある{n}と思ったのに、実は龍のためだった、{n}なんてね。アテが外れたワケよ",
-  "en": ""
+  "en": "I told you before, didn't I. There's something{n}I'm looking for. I thought it'd be in that{n}heavily guarded Thunder God Tower, but it{n}was all for the dragon's sake. Talk about{page}a letdown."
  },
  {
   "id": "s0054_01068",
@@ -405,7 +405,7 @@
    "ロス"
   ],
   "jp": "ホントはもっと早く別行動しようと{n}思ってたんだけど、雷神塔からの行き{n}がかり上、途中でケツ……あら下品、{n}オシリまくるのもスッキリしないしね",
-  "en": ""
+  "en": "I really meant to go my own way sooner,{n}but after how things went from the{n}Thunder God Tower on, turning my ass and--{n}oh, how vulgar, my derriere-- and running{page}halfway wouldn't have felt right."
  },
  {
   "id": "s0054_010f4",
@@ -429,7 +429,7 @@
    "ロス"
   ],
   "jp": "じゃ、また会いましょうねー。{n}スリルがあって楽しかったわよ。{n}バッハハーイ！",
-  "en": ""
+  "en": "So, see you again soon! That was thrilling{n}and such fun! Buh-bye-bye!"
  },
  {
   "id": "s0054_01140",
@@ -453,7 +453,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "見かけによらず律儀なヤロウだ。{n}ん？　オカマって野郎なのかな？",
-  "en": ""
+  "en": "Pretty conscientious bastard, for someone{n}who looks like that. Hm? Do you call a queen{n}a bastard?"
  },
  {
   "id": "s0054_01180",
@@ -477,7 +477,7 @@
    "ロス"
   ],
   "jp": "オカマじゃないわよーう！",
-  "en": ""
+  "en": "I am not a queeeen!"
  },
  {
   "id": "s0054_0119c",
@@ -501,7 +501,7 @@
    "ヴァイ"
   ],
   "jp": "げっ……地獄耳ィ",
-  "en": ""
+  "en": "Yikes... What ears..."
  },
  {
   "id": "s0054_011b0",
@@ -525,7 +525,7 @@
    "ヴァイ"
   ],
   "jp": "湖水はほぼ排出され、孤島のように{n}見えた砦も、その全容を露にしていた。",
-  "en": ""
+  "en": "The lake had all but drained away, and{n}the fort, which had looked like a lone{n}island, now stood fully revealed."
  },
  {
   "id": "s0054_011f8",
@@ -549,7 +549,7 @@
    "ヴァイ"
   ],
   "jp": "それは、カルデラ盆地の中央に嵌め{n}込まれた巨大な岩塊だった。釣り鐘型{n}の六角柱に近い形状で、高く隆起した{n}中央部が湖面から突出し、島と見えた{n}部分を形成していたらしい。",
-  "en": ""
+  "en": "It was a giant mass of rock set into the{n}middle of the caldera basin. It was close{n}to a hexagonal column in the shape of a{n}bell, and its high central rise, jutting{n}above the surface of the lake, had{n}evidently been what looked like an{n}island."
  },
  {
   "id": "s0054_012a0",
@@ -573,7 +573,7 @@
    "ヴァイ"
   ],
   "jp": "巨大な自走砦も、この一枚岩の塊の{n}上では寄生した蟲のようであった。{n}岩塊全てを砦と見れば、自走砦は本丸{n}部分であるとも見える。否、それは{n}仮説ではなく、自走砦は本来そこに{n}収納され、この大岩窟の天守閣として{n}機能する脱着部であったのだ。",
-  "en": ""
+  "en": "On this monolithic mass, even the giant{n}walking fort looked like a parasitic bug. If{n}the whole rock were taken as the fort,{n}the walking fort could be seen as its inner{n}citadel. No, that was no mere theory: the{n}walking fort was meant to be housed{n}there, a detachable part serving as the{n}keep of this great rock."
  },
  {
   "id": "s0054_01388",
@@ -597,7 +597,7 @@
    "ヴァイ"
   ],
   "jp": "その天守閣の真上で、黒雲が凄まじい{n}速度で旋回を続け、漏斗を逆さにした{n}ような大渦巻を天空に描いていた。{n}渦の底は空に向けてどこまでも細く{n}延び、時折黒雲の中で閃く稲妻が、{n}渦に吸い込まれて高空まで疾り抜ける。{page}地龍の超エネルギーの干渉によって{n}一時的に停滞していた破界門の進行が、{n}再び活性化し始めたようであった。",
-  "en": ""
+  "en": "Directly above that keep, black clouds{n}went on circling at a terrific speed,{n}drawing a great maelstrom in the sky like{n}an upturned funnel. The bottom of the{n}whirl stretched thin and endless toward{n}the heavens, and the lightning that{n}flashed now and then within the clouds{n}was sucked into it and raced to the{page}upper air.{page}The opening of the World-Breaker Gate,{n}stalled for a time by the Earth Dragon's{n}super-energy, seemed to be stirring once{n}more."
  },
  {
   "id": "s0054_014c0",
@@ -621,7 +621,7 @@
    "ヨルグ"
   ],
   "jp": "鬼忍将が自分の砦を“寄岩砦”と{n}呼んでいるのを以前耳にしたんだが、{n}このことだったのか……",
-  "en": ""
+  "en": "I once heard the High Ninja call his fort the{n}\"Hermit Rock Fort.\" So this is what he{n}meant..."
  },
  {
   "id": "s0054_0151c",
@@ -645,7 +645,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "寄岩砦ね……へっ！　あの岩柱の{n}台座ごとブチ壊してやるぜ。早いトコ{n}シーラを助けて、鬼忍将のヤロウに{n}思い知らせてやる！",
-  "en": ""
+  "en": "Hermit Rock Fort, huh... Heh! I'll smash it,{n}pedestal of rock and all. We rescue Sheila{n}quick, and I'll teach that High Ninja bastard{n}a lesson!"
  },
  {
   "id": "s0054_01594",
@@ -669,7 +669,7 @@
    "サイクス"
   ],
   "jp": "そのほうがいいな。霊子力が極大に{n}まで高まっている。触媒となっている{n}彼女の負担は相当のものだろう",
-  "en": ""
+  "en": "That would be best. The spirit power has{n}risen to its peak. The strain on her, as the{n}catalyst, must be considerable."
  },
  {
   "id": "s0054_015f8",
@@ -693,7 +693,7 @@
    "サイクス"
   ],
   "jp": "それに破界門が開ききってしまえば、{n}鬼忍将はあの自走天守閣ごと異界へ{n}逃げてしまうはずだ。急がねば――",
-  "en": ""
+  "en": "What is more, once the World-Breaker Gate{n}is fully open, the High Ninja will surely flee{n}to another world, walking keep and all. We{n}must hurry--"
  },
  {
   "id": "s0054_01660",
@@ -717,7 +717,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "もう地続きで砦に渡れるな。行くぜ、{n}ヤロウども！　俺様に続けい！",
-  "en": ""
+  "en": "We can walk across to the fort now. Let's{n}go, you guys! Follow the great me!"
  },
  {
   "id": "s0054_016a4",
@@ -741,7 +741,7 @@
    "ヴァイ"
   ],
   "jp": "パワーに満ち溢れてやがる。ヤバイ{n}薬でもヤッたんじゃねーだろうな？",
-  "en": ""
+  "en": "He's overflowing with power. You didn't take{n}some bad drugs, did you?"
  },
  {
   "id": "s0054_016e8",
@@ -765,7 +765,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "地龍が飛んでってから、何でか知ら{n}ねーが力が漲ってしょうがねえ。あの{n}波動の影響かな？",
-  "en": ""
+  "en": "Ever since the Earth Dragon flew off, I got{n}power welling up in me and I don't know{n}why. Is it the effect of that wave?"
  },
  {
   "id": "s0054_01740",
@@ -789,7 +789,7 @@
    "ヴァイ"
   ],
   "jp": "そお？　俺は何ともねーけど",
-  "en": ""
+  "en": "Really? I don't feel a thing."
  },
  {
   "id": "s0054_0175c",
@@ -813,7 +813,7 @@
    "ヴァイ"
   ],
   "jp": "カルデラ湖の底だった盆地を下り、{n}一行は高く聳える寄岩砦へと向かう。{n}途中、取り残された巨大魚が何匹も{n}ぬかるんだ地面でのたうっているのを{n}目にし、彼らは改めて湖を渡ることが{n}不可能であったと認識した。",
-  "en": ""
+  "en": "Descending into the basin that had been{n}the floor of the caldera lake, the party{n}made for the towering Hermit Rock Fort.{n}Along the way they saw a number of{n}giant fish left behind, thrashing on the{n}muddy ground, and realized anew that{n}crossing the lake would have been{n}impossible."
  },
  {
   "id": "s0054_01824",
@@ -837,7 +837,7 @@
    "ヴァイ"
   ],
   "jp": "化け物魚に喰われたあの蟲使い、{n}生きてっかなあ",
-  "en": ""
+  "en": "That bug tamer who got eaten by the{n}monster fish. Wonder if he's alive."
  },
  {
   "id": "s0054_01854",
@@ -861,7 +861,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "大峡谷に流されてった魚も無数に{n}いるからな。ことによると海まで{n}いっちまったかもな、ケケケ",
-  "en": ""
+  "en": "Countless fish got washed out through the{n}great gorge. He could've ended up all the{n}way out at sea, heh heh heh."
  },
  {
   "id": "s0054_018b0",
@@ -885,7 +885,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "巨岩の周囲をくまなく探索した一行で{n}あったが、外面を天守閣まで直接登る{n}術はなく、発見できたのは湖の底部に{n}面した岩塊部分の入口だけであった。",
-  "en": ""
+  "en": "The party searched every part of the{n}giant rock, but there was no way to climb{n}straight up its face to the keep. All they{n}could find was an entrance in the part of{n}the rock facing the lake bed."
  },
  {
   "id": "s0054_01940",

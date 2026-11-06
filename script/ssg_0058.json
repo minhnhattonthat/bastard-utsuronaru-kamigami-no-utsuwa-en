@@ -21,7 +21,7 @@
    ""
   ],
   "jp": "そこは、深い谷間の中腹だった。{page}険しい山肌を削り取るかに、乾いた{n}風が激しく駆け抜けていく。その風に{n}乗って、強いイオン臭が漂っていた。{n}大気は張りつめたように震え、肌に{n}ピリピリとした感覚が疾る。",
-  "en": ""
+  "en": "They were partway up the side of a deep{n}valley.{page}A dry wind raced fiercely past, as if to{n}scrape away the steep mountainside, and{n}on it hung a strong smell of ions. The air{n}trembled as if pulled taut, and a prickling{n}ran over their skin."
  },
  {
   "id": "s0058_008dc",
@@ -45,7 +45,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "別の峡谷に出ちまったようだな",
-  "en": ""
+  "en": "Looks like we came out in a different{n}gorge."
  },
  {
   "id": "s0058_008fc",
@@ -69,7 +69,7 @@
    "ヴァイ"
   ],
   "jp": "（パチッ）痛てッ！　何だかやけに{n}静電気が溜まりやすくなってるな",
-  "en": ""
+  "en": "(Zap) Ow! Static's really building up around{n}here."
  },
  {
   "id": "s0058_00940",
@@ -93,7 +93,7 @@
    "サイクス"
   ],
   "jp": "大気中の電荷が異常だな。これは{n}破界門とは関係ないようだが――",
-  "en": ""
+  "en": "The electric charge in the air is abnormal.{n}This appears unrelated to the World-Breaker{n}Gate, though--"
  },
  {
   "id": "s0058_00a24",
@@ -117,7 +117,7 @@
    ""
   ],
   "jp": "峡谷を挟んで、崖にへばりつくように{n}ふたつの塔が建てられていた。塔は{n}谷に渡されたケーブルによって繋がれ、{n}風がそれをか細い弦の如くに揺らして{n}いる。",
-  "en": ""
+  "en": "Two towers stood facing each other{n}across the gorge, clinging to the cliffs.{n}They were linked by cables slung across{n}the valley, which the wind shook like{n}slender strings."
  },
  {
   "id": "s0058_00ab8",
@@ -141,7 +141,7 @@
    ""
   ],
   "jp": "こちら側の塔には、大峡谷にあった{n}ものと同じ、数基の巨大風車から幾本{n}ものケーブルが伸びている。",
-  "en": ""
+  "en": "From the tower on this side, a number of{n}cables ran out to several giant windmills,{n}the same as those in the great gorge."
  },
  {
   "id": "s0058_00b18",
@@ -165,7 +165,7 @@
    ""
   ],
   "jp": "風力を束ねて巨大な電力へと変換する{n}大規模発電施設――それがこの奇怪な{n}塔の正体であった。風はなおも強く、{n}塔の勢力を増大させてゆく。",
-  "en": ""
+  "en": "A large-scale generating plant that{n}gathered the power of the wind and{n}turned it into massive electric current:{n}that was the true nature of this bizarre{n}tower. The wind blew as strong as ever,{n}and the tower's force went on growing."
  },
  {
   "id": "s0058_00ba0",
@@ -189,7 +189,7 @@
    ""
   ],
   "jp": "対岸の塔は、時折微細な稲妻をその{n}巨大な外面に疾らせている。恐らく{n}凄まじいまでの電荷の網が張り巡ら{n}されているのだろう。",
-  "en": ""
+  "en": "Now and then the tower on the far bank{n}ran with fine lightning across its huge{n}face. A net of terrific electric charge was{n}doubtless strung all around it."
  },
  {
   "id": "s0058_00c1c",
@@ -213,7 +213,7 @@
    ""
   ],
   "jp": "送電線を通じて受け取る膨大な電力が、{n}その塔を何者の侵入をも拒む電撃の{n}要塞に仕立て上げていた。紫の放電が{n}周囲の大地を灼き、大気を焦がす。",
-  "en": ""
+  "en": "The vast current it took in through the{n}power lines had made that tower a{n}fortress of lightning that refused entry{n}to all. Purple discharges scorched the{n}ground around it and burned the air."
  },
  {
   "id": "s0058_00ca8",
@@ -237,7 +237,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "さっきからの静電気やイオン臭は{n}コイツのせいか。凄まじい高電圧が{n}溜め込まれてやがる。大峡谷の風車も、{n}こっちの塔に電気を送ってやがったな",
-  "en": ""
+  "en": "So this is what's behind the static and the{n}ion smell. There's a monster voltage stored{n}up in there. So the windmills in the great{n}gorge were sending power to this tower{page}too."
  },
  {
   "id": "s0058_00d34",
@@ -261,7 +261,7 @@
    "ヴァイ"
   ],
   "jp": "風で電気が起きるの？　ああ、風が{n}吹くと桶屋が儲かるってヤツか",
-  "en": ""
+  "en": "Wind makes electricity? Oh, like that saying,{n}\"when the wind blows, the bucket maker{n}gets rich.\""
  },
  {
   "id": "s0058_00d74",
@@ -285,7 +285,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "どこのことわざだソレは。テメエは{n}風力発電も……知らねえんだろーな",
-  "en": ""
+  "en": "What country's saying is that? You wouldn't{n}know wind power from... No, I guess you{n}wouldn't."
  },
  {
   "id": "s0058_00db8",
@@ -309,7 +309,7 @@
    "イングヴェイイングヴェイ・フォン・マルムステ"
   ],
   "jp": "自走砦と同じ印象の建物だな。と、{n}すれば敵地であることに疑いあるまい",
-  "en": ""
+  "en": "The building gives the same impression as{n}the walking fort. If so, this is surely enemy{n}ground."
  },
  {
   "id": "s0058_00e00",
@@ -333,7 +333,7 @@
    "サイクス"
   ],
   "jp": "自走砦と設計のコンセプトが同じだ。{n}間違いなく鬼忍将の勢力下だろうな",
-  "en": ""
+  "en": "The same design concept as the walking{n}fort. It must be under the High Ninja's{n}control."
  },
  {
   "id": "s0058_00e48",
@@ -357,7 +357,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "まずはこちら側の塔に行ってみるか",
-  "en": ""
+  "en": "Let's try the tower on this side first."
  },
  {
   "id": "s0058_00fb8",
@@ -381,7 +381,7 @@
    "ヴァイ"
   ],
   "jp": "！　誰かいるぜ！",
-  "en": ""
+  "en": "! Somebody's there!"
  },
  {
   "id": "s0058_00fcc",
@@ -405,7 +405,7 @@
    "ヴァイ"
   ],
   "jp": "塔の入口に、男がひとりこちらに背を{n}向けて立っていた。扉に何か細工を{n}しているらしく、ヴァイの声が耳に{n}届いているはずだが振り返ろうとも{n}しない。",
-  "en": ""
+  "en": "At the tower's entrance a lone man stood{n}with his back to them. He seemed to be{n}working at something on the door, and{n}though Vai's voice must have reached his{n}ears, he did not even look around."
  },
  {
   "id": "s0058_0105c",
@@ -429,7 +429,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "さっきのザックみたいに門番を{n}やらされてるって様子じゃねえな",
-  "en": ""
+  "en": "Doesn't look like he's been stuck on gate{n}duty like Zakk."
  },
  {
   "id": "s0058_0109c",
@@ -453,7 +453,7 @@
    "ヴァイ"
   ],
   "jp": "よう、そこのアンタ！",
-  "en": ""
+  "en": "Hey, you there!"
  },
  {
   "id": "s0058_010b4",
@@ -477,7 +477,7 @@
    "ロス"
   ],
   "jp": "あっ！　……あーあ、もうチョット{n}だったのに……ええい、うざいッ！{n}アンタらね、こっちがあえて無視して{n}んだから、放っときなさいよッ！",
-  "en": ""
+  "en": "Ah! ...Oh, for pity's sake, I almost had it... Ugh,{n}what a pest! Listen, you lot, I was ignoring{n}you on purpose, so leave me alone!"
  },
  {
   "id": "s0058_0113c",
@@ -501,7 +501,7 @@
    "ロス"
   ],
   "jp": "急な剣幕で振り返ったのは、張った{n}顎骨が特徴的な青年だった。整った{n}顔立ちではあるが、美男子と呼ぶには{n}少々アクが強い。怒った表情の中にも{n}垣間見える飄々とした雰囲気が、男に{n}年齢不詳の不思議な印象を与えている。",
-  "en": ""
+  "en": "The one who turned with sudden fury was{n}a young man with a striking, square jaw.{n}His features were regular, though a little{n}too strong to be called handsome. A{n}breezy air, glimpsed even through his{n}angry look, gave him a strange, ageless{n}impression."
  },
  {
   "id": "s0058_01210",
@@ -525,7 +525,7 @@
    "ヴァイ"
   ],
   "jp": "何だよ……何か悪いコトしたか？",
-  "en": ""
+  "en": "What's your problem... Did I do something{n}wrong?"
  },
  {
   "id": "s0058_01230",
@@ -549,7 +549,7 @@
    "ロス"
   ],
   "jp": "鍵開けってのはね、細心の注意力と{n}精緻な指先の感覚で成り立ってんのよ！{n}アンタのバカでかい声はそのドッチも{n}パーにしたの！",
-  "en": ""
+  "en": "Lockpicking takes the closest attention and{n}the most delicate touch of the fingertips!{n}That big fat voice of yours ruined both!"
  },
  {
   "id": "s0058_012ac",
@@ -573,7 +573,7 @@
    "ロス"
   ],
   "jp": "まったく……あとホンのちょっとで{n}この強情な鍵が音を上げるトコだった{n}のに。またイチからやり直しだわよ",
-  "en": ""
+  "en": "Honestly... This stubborn lock was just a{n}teeny bit away from crying uncle. Now I{n}have to start all over from scratch."
  },
  {
   "id": "s0058_01314",
@@ -597,7 +597,7 @@
    "ヴァイ"
   ],
   "jp": "あ……鍵を開けてたの……",
-  "en": ""
+  "en": "Oh... You were picking the lock..."
  },
  {
   "id": "s0058_01330",
@@ -621,7 +621,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "ところでオメエは何モンだ？　この{n}塔に入り込んでどうしようってんだ？",
-  "en": ""
+  "en": "So who the hell are you? What are you{n}after, getting into this tower?"
  },
  {
   "id": "s0058_01378",
@@ -645,7 +645,7 @@
    "ロス"
   ],
   "jp": "あら……まさかアナタ、風神塔の{n}管理のヒト？",
-  "en": ""
+  "en": "Oh my... Don't tell me you're the manager of{n}the Wind God Tower?"
  },
  {
   "id": "s0058_013a8",
@@ -669,7 +669,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "いーや。この塔を守る奴がいるなら、{n}その敵になるんだろうな",
-  "en": ""
+  "en": "Nope. If somebody's guarding this tower, I{n}guess I'm his enemy."
  },
  {
   "id": "s0058_013e4",
@@ -693,7 +693,7 @@
    "ロス"
   ],
   "jp": "あ！　あーあ！　アナタがＤ・Ｓね。{n}そこらをうろつく鬼忍将の手下どもが{n}ウワサしてるわよー。アタシはロス。{n}よろしくー！",
-  "en": ""
+  "en": "Oh! Oh, I get it! You're D.S. The High Ninja's{n}flunkies wandering around here are all{n}gossiping about you. I'm Ros. Nice to meet{n}you!"
  },
  {
   "id": "s0058_0145c",
@@ -717,7 +717,7 @@
    "ロス"
   ],
   "jp": "ロスと名乗る剣士は、自分もやはり{n}記憶のほとんどを失っていると語り、{n}さしあたってこの谷を中心に探索を{n}行っているのだと告げた。",
-  "en": ""
+  "en": "The swordsman calling himself Ros said{n}that he too had lost most of his memory,{n}and told them he was searching, for the{n}moment, around this valley."
  },
  {
   "id": "s0058_014dc",
@@ -741,7 +741,7 @@
    "ロス"
   ],
   "jp": "……探してるモノがあるってのは{n}うっすら覚えてるのよねー。それで、{n}亜人種どもから聞き出した話によると、{n}この谷の塔に秘密があるらしいワケよ",
-  "en": ""
+  "en": "...I do vaguely remember there's something{n}I'm looking for. And from what I squeezed{n}out of the demi-humans, it seems the{n}secret's in the towers in this valley."
  },
  {
   "id": "s0058_01568",
@@ -765,7 +765,7 @@
    "ロス"
   ],
   "jp": "連中も下っ端だからロクな情報を{n}持ってないんだけど、最重要警備地点{n}なんだって。ってコトは、アタシの{n}探すモノがあるかも知れないでしょ",
-  "en": ""
+  "en": "They're small fry, so they don't know much,{n}but they say it's the most heavily guarded{n}spot around. Which means what I'm looking{n}for could be there, right?"
  },
  {
   "id": "s0058_015f0",
@@ -789,7 +789,7 @@
    "ロス"
   ],
   "jp": "ま、どっちにせよ、まだしばらくは{n}解錠に時間がかかりそうよ。アナタも{n}この塔を調べるつもりなら、先に他を{n}回ってきたらどう？",
-  "en": ""
+  "en": "Anyway, this lock will take me a while yet. If{n}you mean to check out this tower too, why{n}not make the rounds elsewhere first?"
  },
  {
   "id": "s0058_0166c",
@@ -813,7 +813,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "……そうだな。俺も開門の呪文を{n}ド忘れしちまってるようだし",
-  "en": ""
+  "en": "...Guess so. Seems I clean forgot the{n}door-opening spell myself."
  },
  {
   "id": "s0058_016a8",
@@ -837,7 +837,7 @@
    "ロス"
   ],
   "jp": "人がいると精神集中できないからね。{n}あ、ところで言っとくけど、アタシは{n}オカマじゃないわよ。この言葉づかい、{n}みやびな感じなのよ。ワカる？",
-  "en": ""
+  "en": "I can't concentrate with people around. Oh,{n}and just so you know, I am not a queen. This{n}way of talking is simply refined. Get it?"
  },
  {
   "id": "s0058_01734",
@@ -861,7 +861,7 @@
    "ヴァイ"
   ],
   "jp": "……ワカらん",
-  "en": ""
+  "en": "...Don't get it."
  },
  {
   "id": "s0058_01744",
@@ -885,7 +885,7 @@
    "ヴァイ"
   ],
   "jp": "固く閉ざされていた入口は開放され、{n}すでに内部へ侵入したのか、ロスの{n}姿もそこにはなかった。",
-  "en": ""
+  "en": "The tightly shut entrance now stood{n}open, and Ros was nowhere to be seen,{n}having evidently gone inside already."
  },
  {
   "id": "s0058_017a0",
@@ -909,7 +909,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "せっかちなヤロウだ。俺たちも{n}行くぜ！",
-  "en": ""
+  "en": "Impatient bastard. Let's go too!"
  },
  {
   "id": "s0058_01a94",
@@ -933,6 +933,6 @@
    "ロス"
   ],
   "jp": "今話しかけないでよ！　ここまでの{n}作業がまた台無しになっちゃうんだ{n}から！　気が散るからどっか行ってて{n}ちょうだい！　いーわね？",
-  "en": ""
+  "en": "Don't talk to me right now! You'll ruin all my{n}work so far all over again! You're distracting{n}me, so go off somewhere, would you? All{n}right?"
  }
 ]

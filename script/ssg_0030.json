@@ -2155,7 +2155,7 @@
    "ボル"
   ],
   "jp": "端正な顔立ちの、長身の剣士だった。{n}淡い色の髪は長く、はっとするほど{n}長い睫毛の持ち主だったが、そこに{n}女性的な印象は微塵もない。男に常に{n}纏わりついている沈着冷静な雰囲気が、{n}彼の容貌をより男らしく感じさせて{n}いるのだろう。",
-  "en": ""
+  "en": "He was a tall swordsman with fine,{n}regular features. His pale hair was long,{n}his lashes startlingly so, yet there was{n}not the slightest trace of the feminine{n}about him. The calm composure that clung{n}to him at all times, it seemed, made his{n}looks all the more manly."
  },
  {
   "id": "s0030_030c4",
@@ -2179,7 +2179,7 @@
    "イングヴェイイングヴェイ・フォン・マルムステ"
   ],
   "jp": "先刻の男とは違うようだな。{n}戻ってきたのでは、と思ったが",
-  "en": ""
+  "en": "You are not the same man as before, it{n}seems. I thought perhaps he had{n}returned."
  },
  {
   "id": "s0030_03100",
@@ -2203,7 +2203,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "落ち着いた物腰だな。どうやら{n}こちらの命を狙ってるって口じゃあ{n}なさそうだな",
-  "en": ""
+  "en": "Pretty cool customer, ain't you. Doesn't look{n}like you're the type who's after our necks."
  },
  {
   "id": "s0030_0314c",
@@ -2227,7 +2227,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "ところでその男とやらはどこに行った？{n}俺たちはこの峡谷から抜け出す道を{n}探っているんだがな",
-  "en": ""
+  "en": "So where'd this man of yours go? We're{n}looking for a way out of this gorge."
  },
  {
   "id": "s0030_031a8",
@@ -2251,7 +2251,7 @@
    "イングヴェイイングヴェイ・フォン・マルムステ"
   ],
   "jp": "あなたがたもか……",
-  "en": ""
+  "en": "You as well..."
  },
  {
   "id": "s0030_031bc",
@@ -2275,7 +2275,7 @@
    "イングヴェイイングヴェイ・フォン・マルムステ"
   ],
   "jp": "男はイングヴェイと名乗った。",
-  "en": ""
+  "en": "The man gave his name as Yngwei."
  },
  {
   "id": "s0030_031dc",
@@ -2299,7 +2299,7 @@
    "イングヴェイイングヴェイ・フォン・マルムステ"
   ],
   "jp": "彼もまた記憶を失っており、目覚めた{n}時にはこの峡谷に佇んでいたのだと{n}語った。",
-  "en": ""
+  "en": "He too had lost his memory, he said, and{n}on waking had found himself standing in{n}this gorge."
  },
  {
   "id": "s0030_0322c",
@@ -2323,7 +2323,7 @@
    "イングヴェイイングヴェイ・フォン・マルムステ"
   ],
   "jp": "イングヴェイもやはり断崖絶壁に閉じ{n}込められた状況で、脱出口を探して{n}彷徨っていたところ、ヨルグらしき{n}男が祭壇を何やらいじくり、塞がれた{n}洞窟へ足早に去ったのを目撃した。",
-  "en": ""
+  "en": "Yngwei had likewise been shut in by the{n}sheer cliffs. While wandering in search of{n}an exit, he had seen a man who seemed{n}to be Jorg tamper with the altar and{n}hurry off toward the blocked cave."
  },
  {
   "id": "s0030_032d8",
@@ -2347,7 +2347,7 @@
    "イングヴェイイングヴェイ・フォン・マルムステ"
   ],
   "jp": "後を追ったもののすでにヨルグの姿は{n}なく、洞窟も固く入口を閉ざしたまま{n}だった。仕方なく、ここに戻ってきた{n}のだと言う。",
-  "en": ""
+  "en": "He had followed, but Jorg was already{n}gone, and the mouth of the cave{n}remained firmly shut. With no other{n}choice, he said, he had come back here."
  },
  {
   "id": "s0030_03350",
@@ -2371,7 +2371,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "……ってコトは、やっぱりこの祭壇に{n}何か手がかりが隠されてそうだな",
-  "en": ""
+  "en": "...Which means there's gotta be some clue{n}hidden on this altar after all."
  },
  {
   "id": "s0030_034f4",
@@ -2395,7 +2395,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "このレリーフの龍、角の部分が動くん{n}じゃねえか？",
-  "en": ""
+  "en": "This dragon on the relief. I bet the horn{n}moves."
  },
  {
   "id": "s0030_03528",
@@ -2419,7 +2419,7 @@
    "ヴァイ"
   ],
   "jp": "どれどれ――おっ!?",
-  "en": ""
+  "en": "Lemme see-- Whoa!?"
  },
  {
   "id": "s0030_0353c",
@@ -2443,7 +2443,7 @@
    "ヴァイ"
   ],
   "jp": "ヴァイが龍の角に触れた途端、それは{n}レバーのように下がり、再びもとの{n}位置に戻った。と、レリーフの眼に{n}幽かな光が灯る。",
-  "en": ""
+  "en": "The moment Vai touched the dragon's{n}horn, it sank like a lever and sprang back{n}into place. Then a faint light kindled in the{n}eye of the relief."
  },
  {
   "id": "s0030_035b4",
@@ -2467,7 +2467,7 @@
    "ヴァイ"
   ],
   "jp": "足下の地中から、塞がれた洞窟に{n}向かって仕掛けが作動する気配が{n}伝わってきた。",
-  "en": ""
+  "en": "From the earth beneath their feet they{n}could sense some mechanism at work,{n}running toward the blocked cave."
  },
  {
   "id": "s0030_03604",
@@ -2491,7 +2491,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "意外と簡単な仕掛けだったな。{n}オメエ、気づかなかったのか？",
-  "en": ""
+  "en": "Pretty simple gimmick, after all. You didn't{n}notice that?"
  },
  {
   "id": "s0030_03640",
@@ -2515,7 +2515,7 @@
    "イングヴェイイングヴェイ・フォン・マルムステ"
   ],
   "jp": "め、面目ない……",
-  "en": ""
+  "en": "I-I am ashamed..."
  },
  {
   "id": "s0030_03654",
@@ -2539,7 +2539,7 @@
    "イングヴェイイングヴェイ・フォン・マルムステ"
   ],
   "jp": "Ｄ・Ｓ。よろしければ、私もともに{n}行動させて頂きたいのだが",
-  "en": ""
+  "en": "D.S. If you have no objection, I should like to{n}travel with you."
  },
  {
   "id": "s0030_03690",
@@ -2563,7 +2563,7 @@
    "イングヴェイイングヴェイ・フォン・マルムステ"
   ],
   "jp": "寄る辺となる記憶すらない身では、{n}この先どこを目指すべきかも判らぬ。{n}迷惑でなければ、だが",
-  "en": ""
+  "en": "Without even memories to lean on, I do not{n}know where to go from here. That is, if I{n}would not be a burden."
  },
  {
   "id": "s0030_036ec",
@@ -2587,7 +2587,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "好きにしな。ただし、俺は狙われて{n}いるようだぜ。覚悟さえあるんなら、{n}断る理由はねえ",
-  "en": ""
+  "en": "Suit yourself. But it looks like I'm a marked{n}man. If you're ready for that, I got no{n}reason to say no."
  },
  {
   "id": "s0030_03740",
@@ -2611,6 +2611,6 @@
    "イングヴェイイングヴェイ・フォン・マルムステ"
   ],
   "jp": "有り難い。思い起こすに私は戦いを{n}生業としていたようだ。自分の身を{n}守る程度なら、剣も使いこなせよう",
-  "en": ""
+  "en": "I am grateful. As I recall it, I seem to have{n}made my living by battle. I can handle a{n}sword, at least well enough to protect{n}myself."
  }
 ]

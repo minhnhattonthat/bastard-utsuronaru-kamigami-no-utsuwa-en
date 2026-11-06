@@ -21,7 +21,7 @@
    ""
   ],
   "jp": "風力による送電は断たれているが、{n}この塔自体に蓄電能力があるのか、{n}内部の電気的装置はまだ問題なく作動{n}しているようであった。{page}構造は風神塔と酷似しており、この{n}塔が風神と対になる鬼神の名を冠して{n}雷神塔と呼ばれるであろうことは{n}容易に想像できた。",
-  "en": ""
+  "en": "The wind-driven power had been cut, but{n}the tower itself seemed able to store{n}current, for the electrical devices inside{n}still appeared to be working without{n}trouble.{page}Its structure closely resembled that of{n}the Wind God Tower, and it was easy to{n}imagine that this one bore the name of{n}the fierce god paired with the wind god,{n}and was called the Thunder God Tower."
  },
  {
   "id": "s0072_00960",
@@ -45,7 +45,7 @@
    ""
   ],
   "jp": "通路の暗がりから、獣のような荒い{n}息が響く。ぎらりと光を反射するのは{n}こちらを凝視する目か、それとも研ぎ{n}すまされた鋼の刃か――。",
-  "en": ""
+  "en": "From the darkness of the passage echoed{n}rough breathing like a beast's. Was that{n}glint of reflected light the eyes staring{n}at them, or a keenly honed steel{n}blade--"
  },
  {
   "id": "s0072_009e4",
@@ -69,7 +69,7 @@
    ""
   ],
   "jp": "闇の向こうから、突如として鋭い斬撃{n}が襲った。牙を噛み鳴らす肉食獣の顎{n}を彷彿させる、熱風の如き殺気籠もる{n}一撃であった。",
-  "en": ""
+  "en": "Out of the darkness came a sudden, sharp{n}slash. It was a blow charged with{n}bloodlust like a hot wind, calling to mind{n}the jaws of a carnivore gnashing its{n}fangs."
  },
  {
   "id": "s0072_00a60",
@@ -93,7 +93,7 @@
    "ヨルグ"
   ],
   "jp": "おおっ！",
-  "en": ""
+  "en": "Ooh!"
  },
  {
   "id": "s0072_00a6c",
@@ -117,7 +117,7 @@
    "ヨルグ"
   ],
   "jp": "ヨルグのかざした白刃が、Ｄ・Ｓを{n}正確に狙った斬撃を辛うじて弾いた。",
-  "en": ""
+  "en": "The bare blade Jorg raised barely{n}knocked aside the slash aimed squarely at{n}D.S."
  },
  {
   "id": "s0072_00ab4",
@@ -141,7 +141,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "誰だ！　出てきやがれ！",
-  "en": ""
+  "en": "Who's there! Come out, damn you!"
  },
  {
   "id": "s0072_00acc",
@@ -165,7 +165,7 @@
    "ジオン"
   ],
   "jp": "くそっ、外したか――シェン！{n}お前だけでも逃げろ！",
-  "en": ""
+  "en": "Damn it, I missed-- Schen! At least you must{n}get away!"
  },
  {
   "id": "s0072_00b00",
@@ -189,7 +189,7 @@
    "シェン"
   ],
   "jp": "できませぬ！　兄者を置いてなど{n}……うぐっ！",
-  "en": ""
+  "en": "I cannot! Leave you behind, brother... Ugh!"
  },
  {
   "id": "s0072_00b30",
@@ -213,7 +213,7 @@
    "シェン"
   ],
   "jp": "暗い通路に潜んでいたのは、会話から{n}判断して兄弟であるらしい二人の剣士{n}だった。一目でそれと判るほど似ては{n}いなかったが、どこかしら血の繋がり{n}を確信させる共通の雰囲気がある。",
-  "en": ""
+  "en": "Hiding in the dark passage were two{n}swordsmen who, judging from their talk,{n}appeared to be brothers. They were not{n}so alike that one could tell at a glance,{n}yet something in the air they shared left{n}no doubt of their blood tie."
  },
  {
   "id": "s0072_00be0",
@@ -237,7 +237,7 @@
    "ジオン"
   ],
   "jp": "言葉が通じるならば言っておく！{n}弟シェンに手を出そうとする者はこの{n}俺がことごとく斬り捨てる！　その{n}覚悟があるなら俺にかかってこい！",
-  "en": ""
+  "en": "If you understand my words, hear this! I will{n}cut down anyone who lays a hand on my{n}brother Schen! If you are ready for that,{n}come at me!"
  },
  {
   "id": "s0072_00c68",
@@ -261,7 +261,7 @@
    "ジオン"
   ],
   "jp": "シェンという名らしき弟は、塔の中に{n}放たれている魔物に襲われたのか、{n}浅からぬ手傷を負っているようだった。{n}それを庇う兄剣士は、手負いの獅子の{n}如き気迫で立ちはだかる。",
-  "en": ""
+  "en": "The younger brother, apparently named{n}Schen, had taken no shallow wound,{n}perhaps attacked by monsters let loose in{n}the tower. The elder swordsman shielding{n}him stood in the way with the spirit of a{n}wounded lion."
  },
  {
   "id": "s0072_00d10",
@@ -285,7 +285,7 @@
    "ヴァイ"
   ],
   "jp": "おい、待てよ！　俺たちゃ別に戦う{n}つもりなんかないぜ！",
-  "en": ""
+  "en": "Hey, wait! We've got no intention of fighting{n}you!"
  },
  {
   "id": "s0072_00d48",
@@ -309,7 +309,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "いーや、俺に斬りつけてきやがった{n}罪は万死に値する！　ブチコロス！",
-  "en": ""
+  "en": "Nope, the crime of slashing at me deserves{n}ten thousand deaths! I'm killing you dead!"
  },
  {
   "id": "s0072_00d8c",
@@ -333,7 +333,7 @@
    "ロス"
   ],
   "jp": "わわ、キレかけてるわ。ホラホラ、{n}アンタも早く謝って！",
-  "en": ""
+  "en": "Eek, he's about to snap. Come on, you,{n}apologize, quick!"
  },
  {
   "id": "s0072_00dc4",
@@ -357,7 +357,7 @@
    "ジオン"
   ],
   "jp": "……？　敵ではないのか？",
-  "en": ""
+  "en": "...? You are not the enemy?"
  },
  {
   "id": "s0072_00de0",
@@ -381,7 +381,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "ふんぬーっ！　もう敵だあ！",
-  "en": ""
+  "en": "HNNNGH! You are now!"
  },
  {
   "id": "s0072_00dfc",
@@ -405,7 +405,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "兄はジオンと名乗り、いきなり斬り{n}つけた非礼を詫びた。この兄弟は{n}雷神塔に迷い込んで以来無数の怪物に{n}襲撃され、傷を癒す術もないまま{n}塔内を彷徨っていたらしかった。",
-  "en": ""
+  "en": "The elder brother gave his name as Zion{n}and apologized for his rudeness in slashing{n}at them. Ever since wandering into the{n}Thunder God Tower, the brothers had{n}been set upon by countless monsters, and{n}had been roaming its halls with no means{n}of healing their wounds."
  },
  {
   "id": "s0072_00ea0",

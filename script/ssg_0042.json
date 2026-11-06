@@ -21,7 +21,7 @@
    "ヴァイ"
   ],
   "jp": "おいＤ・Ｓ！そっちじゃねーよ",
-  "en": ""
+  "en": "Hey, D.S.! Not that way!"
  },
  {
   "id": "s0042_008a0",
@@ -45,7 +45,7 @@
    "ヴァイ"
   ],
   "jp": "ハアハア、走ったあ！　こんなに{n}全力疾走した覚えはないぜはあー",
-  "en": ""
+  "en": "Hah, hah, what a run! I don't remember ever{n}sprinting this hard, whew."
  },
  {
   "id": "s0042_008e0",
@@ -69,7 +69,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "当たりめーだろ。記憶が半端なんだ{n}からよ",
-  "en": ""
+  "en": "Well, duh. Your memory's full of holes."
  },
  {
   "id": "s0042_0090c",
@@ -93,7 +93,7 @@
    "ヨルグ"
   ],
   "jp": "むっ！　門の前に誰かいるぞ！",
-  "en": ""
+  "en": "Hm! Someone is in front of the gate!"
  },
  {
   "id": "s0042_0092c",
@@ -117,7 +117,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "何だあ？　ザックひとりじゃねえぞ",
-  "en": ""
+  "en": "What's this? That ain't just Zakk."
  },
  {
   "id": "s0042_00950",
@@ -141,7 +141,7 @@
    "ザック"
   ],
   "jp": "馬鹿デケえ図体しやがって、威張り{n}散らすんじゃねえや！　俺は絶対に{n}どかねえぜ！",
-  "en": ""
+  "en": "Throwing your big dumb body around, acting{n}all high and mighty! I'm not moving, no{n}way!"
  },
  {
   "id": "s0042_009a0",
@@ -165,7 +165,7 @@
    "ブラド"
   ],
   "jp": "ええい、いつまでこんな場所で手間{n}取らせるつもりだ、小ネズミめ！{n}身体が小さいとアタマの中身も少ない{n}のか？　いいから通せ！　通さんか！",
-  "en": ""
+  "en": "Bah, how long do you mean to hold me up in{n}such a place, you little rat! A small body{n}means little in the head, does it? Enough, let{n}me pass! Let me pass, I say!"
  },
  {
   "id": "s0042_00a28",
@@ -189,7 +189,7 @@
    "ザック"
   ],
   "jp": "俺の脳が少ないだあ？　いいかあ？{n}脳ミソってのはシワの数で決まるんだ！{n}って誰かが言ってた！　お前の脳ミソ{n}なんてきっとつるつるだぜっ！",
-  "en": ""
+  "en": "Little in my brain, you say? Listen up! Brains{n}are all about the number of wrinkles!{n}Somebody said so! I bet your brain's totally{n}smooth!"
  },
  {
   "id": "s0042_00ab0",
@@ -213,7 +213,7 @@
    "ブラド"
   ],
   "jp": "何がぎぐご……",
-  "en": ""
+  "en": "Wh-What the gah gih goo..."
  },
  {
   "id": "s0042_00ac0",
@@ -237,7 +237,7 @@
    "ブラド"
   ],
   "jp": "ザックと争っているのは、別れたきり{n}のブラドであった。ふたりは口喧嘩に{n}熱中するあまり、今や峡谷を揺るがす{n}エネルギーの高まりにも気づいては{n}おらぬ様子だった。",
-  "en": ""
+  "en": "The one quarreling with Zakk was Blad,{n}not seen since they parted. The two were{n}so wrapped up in their squabble that they{n}seemed not to notice the energy now{n}rising to shake the gorge."
  },
  {
   "id": "s0042_00b60",
@@ -261,7 +261,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "わざわざ助けに来て良かったのか{n}悪かったのか……ここまでバカ正直に{n}門番を務めるたあな",
-  "en": ""
+  "en": "I can't tell if it was good or bad to come all{n}this way to help him... Playing gatekeeper{n}this far, the honest idiot."
  },
  {
   "id": "s0042_00bb8",
@@ -285,7 +285,7 @@
    "ザック"
   ],
   "jp": "あっ、お前ら！　諦めずにまた{n}きやがったのか？",
-  "en": ""
+  "en": "Hey, you guys! You came back, instead of{n}giving up?"
  },
  {
   "id": "s0042_00be8",
@@ -309,7 +309,7 @@
    "ブラド"
   ],
   "jp": "む……貴様らは！　ここはワシが{n}先約だぞ！　先を越そうなど、いくら{n}見知った間柄でも許さん！",
-  "en": ""
+  "en": "Hm... You lot! I was here first! I will not allow{n}you to cut ahead, however well I know{n}you!"
  },
  {
   "id": "s0042_00c44",
@@ -333,7 +333,7 @@
    "ブラド"
   ],
   "jp": "順番を守らん奴はほれ、ここに転が{n}っておるわ！",
-  "en": ""
+  "en": "Those who will not wait their turn, see here,{n}end up sprawled on the ground!"
  },
  {
   "id": "s0042_00c74",
@@ -357,7 +357,7 @@
    "ブラド"
   ],
   "jp": "ザックとブラドの向こうに、見覚えの{n}ある男がひとり地面にのびていた。",
-  "en": ""
+  "en": "Beyond Zakk and Blad, a man they knew{n}lay stretched out on the ground."
  },
  {
   "id": "s0042_00cbc",
@@ -381,7 +381,7 @@
    "ヨルグ"
   ],
   "jp": "マ、マカパイン!?",
-  "en": ""
+  "en": "M-Macalpine!?"
  },
  {
   "id": "s0042_00cd0",
@@ -405,7 +405,7 @@
    "ヴァイ"
   ],
   "jp": "送電線から、こっちに逃げてきて{n}やがったのか",
-  "en": ""
+  "en": "So he came running this way from the{n}power lines."
  },
  {
   "id": "s0042_00d00",
@@ -429,7 +429,7 @@
    "ザック"
   ],
   "jp": "知り合いかあ？　どけどけっなんて{n}偉そうに俺たちの間に割って入って{n}きやがったから、一発喰らわせて{n}やったんだ。悪かった？",
-  "en": ""
+  "en": "You know him? He got up in our faces all{n}high and mighty, going \"Move, move,\" so I let{n}him have one. Was that wrong?"
  },
  {
   "id": "s0042_00d7c",
@@ -453,7 +453,7 @@
    "ヴァイ"
   ],
   "jp": "いや、悪くない悪くない。そいつは{n}ホントに山賊みたいな奴だから",
-  "en": ""
+  "en": "Nah, not wrong, not wrong. He really is kind{n}of a bandit."
  },
  {
   "id": "s0042_00dbc",
@@ -477,7 +477,7 @@
    "ブラド"
   ],
   "jp": "おい、小僧！　ワシの拳が効いたん{n}だぞ、ワシの！",
-  "en": ""
+  "en": "Hey, boy! It was my fist that did it, my{n}fist!"
  },
  {
   "id": "s0042_00df0",
@@ -501,7 +501,7 @@
    "ザック"
   ],
   "jp": "ふざけんな！　俺ので気絶した後で、{n}お前ののろいパンチが当たったんだ。{n}何ならまた直接勝負するかあ？",
-  "en": ""
+  "en": "Quit kidding! Your slow punch landed after{n}mine knocked him out. You wanna have{n}another go, you and me?"
  },
  {
   "id": "s0042_00e54",
@@ -525,7 +525,7 @@
    "ブラド"
   ],
   "jp": "おう、望むところよ",
-  "en": ""
+  "en": "Oh, gladly."
  },
  {
   "id": "s0042_00e68",
@@ -549,7 +549,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "こいつらに同時に殴られたのか。{n}そりゃマカパインの奴も気の毒に……{n}って、そんな場合じゃねえっ!!",
-  "en": ""
+  "en": "So he got punched by both these guys at{n}once. Poor Macalpine... Wait, this ain't the{n}time for that!!"
  },
  {
   "id": "s0042_00ec8",
@@ -573,7 +573,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "大峡谷の彼方が、地鳴りとともに強烈{n}な光を放ち始めた。大地が割れ、そこ{n}から地龍の輝きが噴き上がる。雷神塔{n}の地下から続く洞窟は、この峡谷の{n}直下にまで延びていたらしい。{page}たわめられたエネルギーの解放が、{n}今まさに行われようとしていた。",
-  "en": ""
+  "en": "Far down the great gorge, a fierce light{n}began to blaze amid the rumbling of the{n}earth. The ground split, and the radiance{n}of the Earth Dragon erupted from it. The{n}caves running from beneath the Thunder{n}God Tower had evidently reached right{n}under this gorge.{page}The pent-up energy was on the very{n}point of release."
  },
  {
   "id": "s0042_00fb0",
@@ -597,7 +597,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "ここはヤベエんだよ！　見ろっ！",
-  "en": ""
+  "en": "This place ain't safe! Look!"
  },
  {
   "id": "s0042_00fd0",
@@ -621,7 +621,7 @@
    "ブラド"
   ],
   "jp": "むうっ!?",
-  "en": ""
+  "en": "Mmph!?"
  },
  {
   "id": "s0042_00fdc",
@@ -645,7 +645,7 @@
    "ザック"
   ],
   "jp": "な、何だ、ありゃ？　りゅ、龍!?",
-  "en": ""
+  "en": "Wh-What the hell is that? A d-dragon!?"
  },
  {
   "id": "s0042_00ffc",
@@ -669,7 +669,7 @@
    "ザック"
   ],
   "jp": "耳をつんざく咆哮を四方に撒き散らし、{n}ついに地龍が地表に姿を現した。{page}地底の寝所で見た時とは比較にならぬ{n}大きさに膨れ上がった龍は、長大な{n}胴で螺旋の軌道を描きながら、峡谷に{n}沿って鬼哭関へ突進してくる。次第に{n}螺旋の回転速度を上げて迫るその姿は、{n}さながら水平線からせり上がる津波の{n}如き、圧倒的な破壊力を漲らせていた。",
-  "en": ""
+  "en": "Scattering an ear-splitting roar on all{n}sides, the Earth Dragon at last showed{n}itself on the surface.{page}Swollen to a size beyond comparison with{n}what they had seen in its underground{n}lair, the dragon charged along the gorge{n}toward the Ogre Wail Gate, its long body{n}tracing a spiral. As it bore down, its spiral{n}spinning ever faster, it brimmed with{n}overwhelming destructive force, like a{n}tsunami rising over the horizon."
  },
  {
   "id": "s0042_01138",
@@ -693,7 +693,7 @@
    "シェラ"
   ],
   "jp": "龍からもはや言葉は伝わってこない！{n}まるで荒れ狂う暴風のよう――いや、{n}原初の世界に生命が誕生する、その{n}瞬間の無垢な魂のようだ！",
-  "en": ""
+  "en": "The dragon's words no longer reach me! It is{n}like a raging storm-- no, like the innocent{n}soul of life at the moment of its birth in the{n}primal world!"
  },
  {
   "id": "s0042_011bc",
@@ -717,7 +717,7 @@
    "ロス"
   ],
   "jp": "わーん、もお間に合わないわよう！",
-  "en": ""
+  "en": "Waaah, we'll never make it in time!"
  },
  {
   "id": "s0042_011e0",
@@ -741,7 +741,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "龍は止めようがねえ。他に何か手は{n}……待てよ。ザック！　マカパインは{n}ここを通ろうとしたんだな!?",
-  "en": ""
+  "en": "There's no stopping that dragon. Is there{n}some other way... Hold it. Zakk! Macalpine{n}was trying to get through here, right!?"
  },
  {
   "id": "s0042_01240",
@@ -765,7 +765,7 @@
    "ザック"
   ],
   "jp": "そうだけど、それどころじゃ――",
-  "en": ""
+  "en": "Yeah, but this isn't the time--"
  },
  {
   "id": "s0042_01260",
@@ -789,7 +789,7 @@
    "ザック"
   ],
   "jp": "聞くや否や、Ｄ・Ｓは駆け寄って気絶{n}したままのマカパインの頬を連続で{n}張った。",
-  "en": ""
+  "en": "No sooner had he heard than D.S. ran over{n}and slapped the unconscious Macalpine{n}across the face again and again."
  },
  {
   "id": "s0042_012b0",
@@ -813,7 +813,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "起きねえかっ！　寝てると今度は{n}本当にテメエの命もねえぞ！",
-  "en": ""
+  "en": "Wake up, damn it! Sleep now and this time{n}your life's really gone too!"
  },
  {
   "id": "s0042_012ec",
@@ -837,7 +837,7 @@
    "マカパイン"
   ],
   "jp": "……うっ、あっ痛、イタ、やめ――{n}はっ！　貴様Ｄ・Ｓ？　何故、貴様が{n}ここにいる!?",
-  "en": ""
+  "en": "...Ugh, ow, ow, stop-- Ah! You, D.S.? Why are{n}you here!?"
  },
  {
   "id": "s0042_01340",
@@ -861,7 +861,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "んなコタぁどうでもいい！　あれを{n}見ろっ！",
-  "en": ""
+  "en": "Who gives a damn about that! Look at{n}that!"
  },
  {
   "id": "s0042_0136c",
@@ -885,7 +885,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "凄まじい勢いで迫る龍を目の当たりに{n}して、まだ混濁していたマカパインの{n}意識は一瞬に戻った。",
-  "en": ""
+  "en": "With the dragon bearing down at terrific{n}speed before his very eyes, Macalpine's{n}still-clouded mind cleared in an instant."
  },
  {
   "id": "s0042_013c8",
@@ -909,7 +909,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "状況を把握したか？　オメエ、確か{n}鋼の糸を操るよな。そいつを使って{n}鬼哭関を越えるつもりだっただろ？",
-  "en": ""
+  "en": "Got the picture? You can work steel wires,{n}right? You meant to use 'em to get over the{n}Ogre Wail Gate, didn't you?"
  },
  {
   "id": "s0042_0142c",
@@ -933,7 +933,7 @@
    "マカパイン"
   ],
   "jp": "あ……ああ、そうだが……",
-  "en": ""
+  "en": "Y... Yes, but..."
  },
  {
   "id": "s0042_01448",
@@ -957,7 +957,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "それを今すぐやれ！　死ぬ気で急げ！{n}ここにいる全員を、そこの崖の上まで{n}引っ張り上げろ！　いいか、テメエの{n}肩に全員の命がかかってんだかんな！",
-  "en": ""
+  "en": "Do it right now! Hurry like your life depends{n}on it! Haul everybody here up to the top of{n}that cliff! Got it? Everyone's lives are riding{n}on your shoulders!"
  },
  {
   "id": "s0042_014d8",
@@ -981,7 +981,7 @@
    "マカパイン"
   ],
   "jp": "無茶な！　定員オーバーだ！　大体、{n}何で私がそんな――",
-  "en": ""
+  "en": "Absurd! That is over capacity! And why, in{n}the first place, should I--"
  },
  {
   "id": "s0042_01510",
@@ -1005,7 +1005,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "早くやらんかあああッ！",
-  "en": ""
+  "en": "HURRY UP AND DO IIIIT!"
  },
  {
   "id": "s0042_01528",
@@ -1029,7 +1029,7 @@
    "マカパイン"
   ],
   "jp": "はいー",
-  "en": ""
+  "en": "Yes, sir..."
  },
  {
   "id": "s0042_01530",
@@ -1053,7 +1053,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "全員糸に固定されてるか！　よーし、{n}マカパイン、とっとと上げろい！",
-  "en": ""
+  "en": "Everybody tied onto the wire!? All right,{n}Macalpine, haul away!"
  },
  {
   "id": "s0042_01574",
@@ -1077,7 +1077,7 @@
    "マカパイン"
   ],
   "jp": "く、くそっ……何故私がこんな……{n}うおおおっ、重いいぃ",
-  "en": ""
+  "en": "D-Damn it... Why should I be doing this...{n}Uooooh, heavyyyy..."
  },
  {
   "id": "s0042_015ac",
@@ -1101,7 +1101,7 @@
    "ヴァイ"
   ],
   "jp": "おおっ、上がる上がる！　こんなに{n}細いのによく切れねえな、この糸",
-  "en": ""
+  "en": "Whoa, we're going up, we're going up! Thin as{n}it is, how does this wire not snap?"
  },
  {
   "id": "s0042_015f0",
@@ -1125,7 +1125,7 @@
    "マカパイン"
   ],
   "jp": "あ……たり、前だ……ぐぬぬっ。{n}私の妖斬糸が、この程度で、千切れ{n}……うーん",
-  "en": ""
+  "en": "N-Naturally... it does not... Gnnngh. My{n}demon-slash wire, would not break, under{n}this little... Uuugh."
  },
  {
   "id": "s0042_0163c",
@@ -1149,7 +1149,7 @@
    "ロス"
   ],
   "jp": "鬼哭関に地龍が突っ込むわよっ！",
-  "en": ""
+  "en": "The Earth Dragon's about to crash into the{n}Ogre Wail Gate!"
  },
  {
   "id": "s0042_0165c",
@@ -1173,7 +1173,7 @@
    "マカパイン"
   ],
   "jp": "ぐっ……うおおおおおっ！",
-  "en": ""
+  "en": "Gh... Uoooooooh!"
  },
  {
   "id": "s0042_01678",
@@ -1197,7 +1197,7 @@
    "マカパイン"
   ],
   "jp": "鋼糸にぶら下がった一行は、間一髪で{n}地龍の螺旋軌道を外れ、鬼哭関を挟む{n}崖の上に到達した。",
-  "en": ""
+  "en": "Hanging from the steel wire, the party{n}cleared the Earth Dragon's spiral path by{n}a hair and reached the top of the cliff{n}that flanked the Ogre Wail Gate."
  },
  {
   "id": "s0042_016d4",
@@ -1221,7 +1221,7 @@
    "マカパイン"
   ],
   "jp": "もはや輝くエネルギー流と化した龍は、{n}鬼哭関に正面から激突した。{page}破壊不可能と思われたぶ厚い扉は{n}想像を超えた力の奔流に抉られ、{n}飴のように歪み、砕け散った。",
-  "en": ""
+  "en": "The dragon, now a stream of blazing{n}energy, crashed head-on into the Ogre{n}Wail Gate.{page}The thick doors, thought unbreakable,{n}were gouged by a torrent of power{n}beyond imagining, warped like candy and{n}shattered to pieces."
  },
  {
   "id": "s0042_01770",
@@ -1245,7 +1245,7 @@
    "マカパイン"
   ],
   "jp": "地龍は瞬間、湖水を大量の水蒸気に{n}変えながら進み、湖中央の自走砦を{n}掠めて、対角の外輪山上空へと飛び{n}去っていった。",
-  "en": ""
+  "en": "In an instant the Earth Dragon crossed{n}the lake, turning its waters to vast clouds{n}of steam, grazed the walking fort at its{n}center and flew off over the crater rim{n}on the far side."
  },
  {
   "id": "s0042_017e4",
@@ -1269,7 +1269,7 @@
    "マカパイン"
   ],
   "jp": "ぜはっ、はあっ、ハッ――",
-  "en": ""
+  "en": "Gaah, hah, hah--"
  },
  {
   "id": "s0042_01800",
@@ -1293,7 +1293,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "でかした、マカパイン！",
-  "en": ""
+  "en": "Nice work, Macalpine!"
  },
  {
   "id": "s0042_01818",
@@ -1317,7 +1317,7 @@
    "ヴァイ"
   ],
   "jp": "見ろよ！　湖の水が引いていくぜ",
-  "en": ""
+  "en": "Look! The lake's draining!"
  },
  {
   "id": "s0042_01838",
@@ -1341,7 +1341,7 @@
    "ヴァイ"
   ],
   "jp": "湖水を堰き止める役割を果たしていた{n}鬼哭関が破壊され、膨大な水は激流と{n}なって大峡谷に放出されつつあった。{n}谷は大河と化し、海岸方向に向かって{n}勢いよく流れ続けている。人造湖の{n}水位はみるみるうちに減少し、本来の{n}カルデラ盆地の姿を取り戻していく。",
-  "en": ""
+  "en": "With the Ogre Wail Gate, which had{n}dammed the lake, destroyed, the vast{n}waters were pouring out into the great{n}gorge as a raging torrent. The valley had{n}become a great river, flowing hard{n}toward the coast. The level of the{n}man-made lake fell before their eyes, and{n}the caldera basin began to regain its{page}true form."
  },
  {
   "id": "s0042_0192c",
@@ -1365,7 +1365,7 @@
    "ヴァイ"
   ],
   "jp": "この時、Ｄ・Ｓは肉体の奥底から、{n}得体の知れぬ力が漲ってくるのを{n}感じていた。尾骨に沿って湧き上がる{n}その力は、しかし本来そこにあった{n}器に注ぎ込まれたようでもあった。{n}脳に電流が疾り抜け、魔力の増大する{n}感覚がＤ・Ｓの中枢に刹那の快楽を{n}生じさせる。",
-  "en": ""
+  "en": "At this moment, D.S. felt an unfathomable{n}power welling up from deep within his{n}body. It rose along his tailbone, yet it{n}seemed to be pouring into a vessel that{n}had been there all along. A current raced{n}through his brain, and the sense of his{n}magic swelling brought a moment of{n}pleasure to the core of his being."
  },
  {
   "id": "s0042_01a24",
@@ -1389,7 +1389,7 @@
    "ザック"
   ],
   "jp": "……どうやら正しかったのはお前らの{n}ほうだったみたいだな。自分たちが{n}巻き込まれるかも知れないのに、俺を{n}助けにきてくれるなんて……",
-  "en": ""
+  "en": "...Looks like you guys were the ones in the{n}right. You could've gotten caught up in it{n}yourselves, but you came to save me..."
  },
  {
   "id": "s0042_01aa8",
@@ -1413,7 +1413,7 @@
    "ザック"
   ],
   "jp": "俺はもう一度、何が正義で何が悪{n}なのか、ひとりで考え直してみるよ。{n}……いずれまた、どっかで会おうぜ",
-  "en": ""
+  "en": "I'm gonna think it over again on my own,{n}what's justice and what's evil. ...See you{n}around sometime."
  },
  {
   "id": "s0042_01b0c",
@@ -1437,7 +1437,7 @@
    "ヴァイ"
   ],
   "jp": "ザック……元気でやれよ",
-  "en": ""
+  "en": "Zakk... Take care of yourself."
  },
  {
   "id": "s0042_01b24",
@@ -1461,7 +1461,7 @@
    "ザック"
   ],
   "jp": "ハッキリと目が覚めたぜ！　シーラ{n}とかいう女を助けるってんなら、俺も{n}一緒に行かせてくれ。鬼忍将に正義の{n}鉄拳を喰らわせてやるぜ！",
-  "en": ""
+  "en": "I'm wide awake now! If you're gonna rescue{n}that Sheila girl, let me come along. I'll give{n}the High Ninja a taste of the iron fist of{n}justice!"
  },
  {
   "id": "s0042_01ba8",
@@ -1485,7 +1485,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "あっさりダマされてたクセにな。{n}ま、いいだろう。馬鹿がもうひとり{n}増えたところで苦労は一緒だ",
-  "en": ""
+  "en": "And you got fooled so easy. Well, fine. One{n}more idiot won't make it any harder."
  },
  {
   "id": "s0042_01c04",
@@ -1509,7 +1509,7 @@
    "ヴァイ"
   ],
   "jp": "前からいるバカって誰のコトだよ！{n}やい、オッサン！　こっち向け！",
-  "en": ""
+  "en": "Who's the idiot that was already here!? Hey,{n}old man! Look at me!"
  },
  {
   "id": "s0042_01c48",
@@ -1533,7 +1533,7 @@
    "ザック"
   ],
   "jp": "そう怒るなって。若いなあ、小僧",
-  "en": ""
+  "en": "Don't get so mad. You're so young, kid."
  },
  {
   "id": "s0042_01c68",
@@ -1557,7 +1557,7 @@
    "ヴァイ"
   ],
   "jp": "小僧はオマエだあ！　オマエだって{n}バカにされてんだぞ！",
-  "en": ""
+  "en": "You're the kid! He's making fun of you too!"
  },
  {
   "id": "s0042_01ca0",
@@ -1581,7 +1581,7 @@
    "ザック"
   ],
   "jp": "何いいいい！　いつ？",
-  "en": ""
+  "en": "Whaaaat!? When?"
  },
  {
   "id": "s0042_01cb8",
@@ -1605,7 +1605,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "はーあ……",
-  "en": ""
+  "en": "*sigh*..."
  },
  {
   "id": "s0042_01cc4",
@@ -1629,7 +1629,7 @@
    "ブラド"
   ],
   "jp": "図らずも助けを得る羽目になって{n}しまったか……",
-  "en": ""
+  "en": "So I wound up receiving help after all,{n}against my will..."
  },
  {
   "id": "s0042_01cf4",
@@ -1653,7 +1653,7 @@
    "ブラド"
   ],
   "jp": "危険を顧みず、あのザックとかいう{n}若造を助けにきた行為は騎士道精神に{n}照らしても称賛に値するぞ",
-  "en": ""
+  "en": "Heedless of danger, you came to rescue{n}that young whelp Zakk. That deed is worthy{n}of praise, even by the light of chivalry."
  },
  {
   "id": "s0042_01d54",
@@ -1677,7 +1677,7 @@
    "ブラド"
   ],
   "jp": "しかーし！　真の騎士道とは、かの{n}姫君を敵の手から救い出してこそ{n}認められるものだ",
-  "en": ""
+  "en": "Howeeever! True chivalry is proven only by{n}rescuing that princess from the enemy's{n}hands."
  },
  {
   "id": "s0042_01da8",
@@ -1701,7 +1701,7 @@
    "ブラド"
   ],
   "jp": "砦への道も開けたことだし、ワシは{n}あくまでひとりで救出を敢行する！{n}騎士道のあり方、とくと見ておけい",
-  "en": ""
+  "en": "Now that the way to the fort lies open, I{n}shall carry out the rescue all alone! Watch{n}closely, and see what chivalry is!"
  },
  {
   "id": "s0042_01e0c",
@@ -1725,7 +1725,7 @@
    "ブラド"
   ],
   "jp": "以前にまみえた時より、格段に精進{n}してきたようだな！　しかーし、真の{n}騎士にはまだまだ足りぬ！",
-  "en": ""
+  "en": "You have improved greatly since last we{n}met! Howeeever, you are still far from a{n}true knight!"
  },
  {
   "id": "s0042_01e6c",
@@ -1749,7 +1749,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "だから騎士なんか目指してねーって",
-  "en": ""
+  "en": "Like I said, I ain't trying to be a knight."
  },
  {
   "id": "s0042_01e90",
@@ -1773,7 +1773,7 @@
    "ブラド"
   ],
   "jp": "ワシもあんな若造と戯れてしまう{n}ようでは修行が足りぬ！　騎士は自ら{n}厳しくあらねば。というわけでワシは{n}行く。敢えてイバラの道をなっ",
-  "en": ""
+  "en": "If I can be drawn into play with a young{n}whelp like that, my training is lacking as well!{n}A knight must be strict with himself. And so I{n}go, boldly, down the path of thorns!"
  },
  {
   "id": "s0042_01f14",
@@ -1797,7 +1797,7 @@
    "ヴァイ"
   ],
   "jp": "行っちゃった",
-  "en": ""
+  "en": "He left."
  },
  {
   "id": "s0042_01f24",
@@ -1821,7 +1821,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "……あの時点でザックと争ってた{n}ところを見ると、アイツ行動が相当{n}のろいんじゃねーのかな？　それか{n}見当違いの方向オンチ、とか",
-  "en": ""
+  "en": "...Seeing as he was still scrapping with Zakk{n}at that point, the guy must be pretty damn{n}slow, huh? Either that or he's got no sense{n}of direction."
  },
  {
   "id": "s0042_01fa4",
@@ -1845,7 +1845,7 @@
    "ヨルグ"
   ],
   "jp": "むっ！　マカパインはどこだ!?",
-  "en": ""
+  "en": "Hm! Where is Macalpine!?"
  },
  {
   "id": "s0042_01fc4",
@@ -1869,7 +1869,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "あっ、あんなトコにいやがる",
-  "en": ""
+  "en": "Oh, there he is, way over there."
  },
  {
   "id": "s0042_01fe0",
@@ -1893,7 +1893,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "険しい外輪山の断崖を、マカパインは{n}糸を使って器用に伝っていく。Ｄ・Ｓ{n}たちのいる位置から弧を描くように、{n}妖縛士は懸命に遠ざかりつつあった。",
-  "en": ""
+  "en": "Macalpine was nimbly making his way along{n}the sheer cliffs of the crater rim by{n}means of his wire. Tracing an arc away{n}from where D.S. and the others stood, the{n}demon binder was struggling to get clear{n}of them."
  },
  {
   "id": "s0042_02070",
@@ -1917,7 +1917,7 @@
    "ヴァイ"
   ],
   "jp": "おーい！　オマエお手柄だったんだ{n}から、俺たちもう怒ってないぞう！",
-  "en": ""
+  "en": "Heeey! You did great, so we're not mad at{n}you anymore!"
  },
  {
   "id": "s0042_020b4",
@@ -1941,7 +1941,7 @@
    "ヴァイ"
   ],
   "jp": "その声が聞こえたのか、マカパインは{n}ピタリと動きを止めて振り返る。",
-  "en": ""
+  "en": "Perhaps he heard the voice, for Macalpine{n}stopped dead and looked back."
  },
  {
   "id": "s0042_020f8",
@@ -1965,7 +1965,7 @@
    "マカパイン"
   ],
   "jp": "私は貴様らと馴れ合うつもりはない！{n}貴様らを救う結果になったのは自分の{n}命がかかっていたからだ！　次に遭う{n}時は改めてその首を貰うぞ、Ｄ・Ｓ！",
-  "en": ""
+  "en": "I have no intention of getting chummy with{n}you! I saved you only because my own life{n}was at stake! Next time we meet I will take{n}your head at last, D.S.!"
  },
  {
   "id": "s0042_02188",
@@ -1989,7 +1989,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "おーおー、いつでもこい。ところで{n}オメエの今のカッコウ、蜘蛛男って{n}感じでオモシレーぞ",
-  "en": ""
+  "en": "Yeah, yeah, any time. By the way, the way{n}you look right now, you make a pretty funny{n}spider man."
  },
  {
   "id": "s0042_021e0",
@@ -2013,7 +2013,7 @@
    "マカパイン"
   ],
   "jp": "うるさいっ！　覚えておれよっ！",
-  "en": ""
+  "en": "Shut up! You will remember this!"
  },
  {
   "id": "s0042_02200",
@@ -2037,7 +2037,7 @@
    "ヨルグ"
   ],
   "jp": "……俺が言うのも何だが、奴にも{n}いいところはあったな。奴が拾って{n}くれなければ、記憶を失ったままの{n}俺は野垂れ死んでいたかも知れん",
-  "en": ""
+  "en": "...Odd for me to say it, but he had his good{n}side too. Had he not taken me in, I, with my{n}memory gone, might have died in a ditch."
  },
  {
   "id": "s0042_02284",
@@ -2061,7 +2061,7 @@
    "ロス"
   ],
   "jp": "結構いい奴かもよ。さっきだって{n}自分だけ助かるように糸を切ることも{n}できたんだろうし",
-  "en": ""
+  "en": "He might be a pretty nice guy. Back there{n}he could've cut the wire and saved only{n}himself."
  },
  {
   "id": "s0042_022d8",
@@ -2085,7 +2085,7 @@
    "イングヴェイイングヴェイ・フォン・マルムステ"
   ],
   "jp": "そうだな……",
-  "en": ""
+  "en": "That is true..."
  },
  {
   "id": "s0042_022e8",
@@ -2109,7 +2109,7 @@
    "ロス"
   ],
   "jp": "さ、て、と。それじゃＤ・Ｓ、{n}アタシもここでオサラバさせてもらう{n}わねー",
-  "en": ""
+  "en": "Well, now. All right then, D.S., this is where I{n}say toodle-oo too."
  },
  {
   "id": "s0042_02330",
@@ -2133,7 +2133,7 @@
    "ヴァイ"
   ],
   "jp": "え？　何で？",
-  "en": ""
+  "en": "Huh? Get what?"
  },
  {
   "id": "s0042_02340",
@@ -2157,7 +2157,7 @@
    "ロス"
   ],
   "jp": "前に言ったでしょ。探してるモノが{n}あるって。警戒のキツイ雷神塔にある{n}と思ったのに、実は龍のためだった、{n}なんてね。アテが外れたワケよ",
-  "en": ""
+  "en": "I told you before, didn't I. There's something{n}I'm looking for. I thought it'd be in that{n}heavily guarded Thunder God Tower, but it{n}was all for the dragon's sake. Talk about{page}a letdown."
  },
  {
   "id": "s0042_023c8",
@@ -2181,7 +2181,7 @@
    "ロス"
   ],
   "jp": "ホントはもっと早く別行動しようと{n}思ってたんだけど、雷神塔からの行き{n}がかり上、途中でケツ……あら下品、{n}オシリまくるのもスッキリしないしね",
-  "en": ""
+  "en": "I really meant to go my own way sooner,{n}but after how things went from the{n}Thunder God Tower on, turning my ass and--{n}oh, how vulgar, my derriere-- and running{page}halfway wouldn't have felt right."
  },
  {
   "id": "s0042_02454",
@@ -2205,7 +2205,7 @@
    "ロス"
   ],
   "jp": "じゃ、また会いましょうねー。{n}スリルがあって楽しかったわよ。{n}バッハハーイ！",
-  "en": ""
+  "en": "So, see you again soon! That was thrilling{n}and such fun! Buh-bye-bye!"
  },
  {
   "id": "s0042_024a0",
@@ -2229,7 +2229,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "見かけによらず律儀なヤロウだ。{n}ん？　オカマって野郎なのかな？",
-  "en": ""
+  "en": "Pretty conscientious bastard, for someone{n}who looks like that. Hm? Do you call a queen{n}a bastard?"
  },
  {
   "id": "s0042_024e0",
@@ -2253,7 +2253,7 @@
    "ロス"
   ],
   "jp": "オカマじゃないわよーう！",
-  "en": ""
+  "en": "I am not a queeeen!"
  },
  {
   "id": "s0042_024fc",
@@ -2277,7 +2277,7 @@
    "ヴァイ"
   ],
   "jp": "げっ……地獄耳ィ",
-  "en": ""
+  "en": "Yikes... What ears..."
  },
  {
   "id": "s0042_02510",
@@ -2301,7 +2301,7 @@
    "ヴァイ"
   ],
   "jp": "湖水はほぼ排出され、孤島のように{n}見えた砦も、その全容を露にしていた。",
-  "en": ""
+  "en": "The lake had all but drained away, and{n}the fort, which had looked like a lone{n}island, now stood fully revealed."
  },
  {
   "id": "s0042_02558",
@@ -2325,7 +2325,7 @@
    "ヴァイ"
   ],
   "jp": "それは、カルデラ盆地の中央に嵌め{n}込まれた巨大な岩塊だった。釣り鐘型{n}の六角柱に近い形状で、高く隆起した{n}中央部が湖面から突出し、島と見えた{n}部分を形成していたらしい。",
-  "en": ""
+  "en": "It was a giant mass of rock set into the{n}middle of the caldera basin. It was close{n}to a hexagonal column in the shape of a{n}bell, and its high central rise, jutting{n}above the surface of the lake, had{n}evidently been what looked like an{n}island."
  },
  {
   "id": "s0042_02600",
@@ -2349,7 +2349,7 @@
    "ヴァイ"
   ],
   "jp": "巨大な自走砦も、この一枚岩の塊の{n}上では寄生した蟲のようであった。{n}岩塊全てを砦と見れば、自走砦は本丸{n}部分であるとも見える。否、それは{n}仮説ではなく、自走砦は本来そこに{n}収納され、この大岩窟の天守閣として{n}機能する脱着部であったのだ。",
-  "en": ""
+  "en": "On this monolithic mass, even the giant{n}walking fort looked like a parasitic bug. If{n}the whole rock were taken as the fort,{n}the walking fort could be seen as its inner{n}citadel. No, that was no mere theory: the{n}walking fort was meant to be housed{n}there, a detachable part serving as the{n}keep of this great rock."
  },
  {
   "id": "s0042_026e8",
@@ -2373,7 +2373,7 @@
    "ヴァイ"
   ],
   "jp": "その天守閣の真上で、黒雲が凄まじい{n}速度で旋回を続け、漏斗を逆さにした{n}ような大渦巻を天空に描いていた。{n}渦の底は空に向けてどこまでも細く{n}延び、時折黒雲の中で閃く稲妻が、{n}渦に吸い込まれて高空まで疾り抜ける。{page}地龍の超エネルギーの干渉によって{n}一時的に停滞していた破界門の進行が、{n}再び活性化し始めたようであった。",
-  "en": ""
+  "en": "Directly above that keep, black clouds{n}went on circling at a terrific speed,{n}drawing a great maelstrom in the sky like{n}an upturned funnel. The bottom of the{n}whirl stretched thin and endless toward{n}the heavens, and the lightning that{n}flashed now and then within the clouds{n}was sucked into it and raced to the{page}upper air.{page}The opening of the World-Breaker Gate,{n}stalled for a time by the Earth Dragon's{n}super-energy, seemed to be stirring once{n}more."
  },
  {
   "id": "s0042_02820",
@@ -2397,7 +2397,7 @@
    "ヨルグ"
   ],
   "jp": "鬼忍将が自分の砦を“寄岩砦”と{n}呼んでいるのを以前耳にしたんだが、{n}このことだったのか……",
-  "en": ""
+  "en": "I once heard the High Ninja call his fort the{n}\"Hermit Rock Fort.\" So this is what he{n}meant..."
  },
  {
   "id": "s0042_0287c",
@@ -2421,7 +2421,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "寄岩砦ね……へっ！　あの岩柱の{n}台座ごとブチ壊してやるぜ。早いトコ{n}シーラを助けて、鬼忍将のヤロウに{n}思い知らせてやる！",
-  "en": ""
+  "en": "Hermit Rock Fort, huh... Heh! I'll smash it,{n}pedestal of rock and all. We rescue Sheila{n}quick, and I'll teach that High Ninja bastard{n}a lesson!"
  },
  {
   "id": "s0042_028f4",
@@ -2445,7 +2445,7 @@
    "サイクス"
   ],
   "jp": "そのほうがいいな。霊子力が極大に{n}まで高まっている。触媒となっている{n}彼女の負担は相当のものだろう",
-  "en": ""
+  "en": "That would be best. The spirit power has{n}risen to its peak. The strain on her, as the{n}catalyst, must be considerable."
  },
  {
   "id": "s0042_02958",
@@ -2469,7 +2469,7 @@
    "サイクス"
   ],
   "jp": "それに破界門が開ききってしまえば、{n}鬼忍将はあの自走天守閣ごと異界へ{n}逃げてしまうはずだ。急がねば――",
-  "en": ""
+  "en": "What is more, once the World-Breaker Gate{n}is fully open, the High Ninja will surely flee{n}to another world, walking keep and all. We{n}must hurry--"
  },
  {
   "id": "s0042_029c0",
@@ -2493,7 +2493,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "もう地続きで砦に渡れるな。行くぜ、{n}ヤロウども！　俺様に続けい！",
-  "en": ""
+  "en": "We can walk across to the fort now. Let's{n}go, you guys! Follow the great me!"
  },
  {
   "id": "s0042_02a04",
@@ -2517,7 +2517,7 @@
    "ヴァイ"
   ],
   "jp": "パワーに満ち溢れてやがる。ヤバイ{n}薬でもヤッたんじゃねーだろうな？",
-  "en": ""
+  "en": "He's overflowing with power. You didn't take{n}some bad drugs, did you?"
  },
  {
   "id": "s0042_02a48",
@@ -2541,7 +2541,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "地龍が飛んでってから、何でか知ら{n}ねーが力が漲ってしょうがねえ。あの{n}波動の影響かな？",
-  "en": ""
+  "en": "Ever since the Earth Dragon flew off, I got{n}power welling up in me and I don't know{n}why. Is it the effect of that wave?"
  },
  {
   "id": "s0042_02aa0",
@@ -2565,7 +2565,7 @@
    "ヴァイ"
   ],
   "jp": "そお？　俺は何ともねーけど",
-  "en": ""
+  "en": "Really? I don't feel a thing."
  },
  {
   "id": "s0042_02abc",
@@ -2589,7 +2589,7 @@
    "ヴァイ"
   ],
   "jp": "カルデラ湖の底だった盆地を下り、{n}一行は高く聳える寄岩砦へと向かう。{n}途中、取り残された巨大魚が何匹も{n}ぬかるんだ地面でのたうっているのを{n}目にし、彼らは改めて湖を渡ることが{n}不可能であったと認識した。",
-  "en": ""
+  "en": "Descending into the basin that had been{n}the floor of the caldera lake, the party{n}made for the towering Hermit Rock Fort.{n}Along the way they saw a number of{n}giant fish left behind, thrashing on the{n}muddy ground, and realized anew that{n}crossing the lake would have been{n}impossible."
  },
  {
   "id": "s0042_02b84",
@@ -2613,7 +2613,7 @@
    "ヴァイ"
   ],
   "jp": "化け物魚に喰われたあの蟲使い、{n}生きてっかなあ",
-  "en": ""
+  "en": "That bug tamer who got eaten by the{n}monster fish. Wonder if he's alive."
  },
  {
   "id": "s0042_02bb4",
@@ -2637,7 +2637,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "大峡谷に流されてった魚も無数に{n}いるからな。ことによると海まで{n}いっちまったかもな、ケケケ",
-  "en": ""
+  "en": "Countless fish got washed out through the{n}great gorge. He could've ended up all the{n}way out at sea, heh heh heh."
  },
  {
   "id": "s0042_02c10",
@@ -2661,7 +2661,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "巨岩の周囲をくまなく探索した一行で{n}あったが、外面を天守閣まで直接登る{n}術はなく、発見できたのは湖の底部に{n}面した岩塊部分の入口だけであった。",
-  "en": ""
+  "en": "The party searched every part of the{n}giant rock, but there was no way to climb{n}straight up its face to the keep. All they{n}could find was an entrance in the part of{n}the rock facing the lake bed."
  },
  {
   "id": "s0042_02ca0",

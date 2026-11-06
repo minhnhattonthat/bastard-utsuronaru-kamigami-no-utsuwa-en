@@ -309,7 +309,7 @@
    "カイ"
   ],
   "jp": "力尽きたのか、その蟲のような生物は{n}ピクリとも動かなくなった。と、見る{n}間に体表から湯気が立ち上り始める。{page}やがて、大量の水分を急速に放出した{n}蟲は拳ほどの大きさにまで干涸らび、{n}サナギのようになって地面に転がった。",
-  "en": ""
+  "en": "Its strength spent, it seemed, the bug-like{n}creature no longer so much as twitched.{n}Then, as they watched, steam began to{n}rise from its skin.{page}Soon, having rapidly shed a great quantity{n}of water, the bug shriveled to the size of{n}a fist and lay on the ground like a{n}chrysalis."
  },
  {
   "id": "s0215_00d18",
@@ -333,7 +333,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "……仮死状態になりやがったのか",
-  "en": ""
+  "en": "...So it went into suspended animation."
  },
  {
   "id": "s0215_00d38",
@@ -357,7 +357,7 @@
    "ヴァイ"
   ],
   "jp": "ヘンな蟲だなぁ",
-  "en": ""
+  "en": "What a weird bug."
  },
  {
   "id": "s0215_00d48",
@@ -381,7 +381,7 @@
    "サイクス"
   ],
   "jp": "外敵に喰われないための知恵だろう。{n}それにしてもこんな習性を持つ蟲は{n}極めて珍しい",
-  "en": ""
+  "en": "A clever way to avoid being eaten by its{n}enemies, no doubt. Even so, a bug with such{n}habits is extremely rare."
  },
  {
   "id": "s0215_00d9c",
@@ -405,7 +405,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "ヴァイ、拾っとけ",
-  "en": ""
+  "en": "Vai, pick that up."
  },
  {
   "id": "s0215_00db0",
@@ -429,7 +429,7 @@
    "ヴァイ"
   ],
   "jp": "ええーっ!?　もしかして喰うの？",
-  "en": ""
+  "en": "Whaaat!? Don't tell me you're gonna eat{n}it?"
  },
  {
   "id": "s0215_00dd0",
@@ -453,7 +453,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "水で戻せば……ってバカ言うな！{n}この生命力に興味があるんだよ",
-  "en": ""
+  "en": "Soak it in water and... Don't be stupid! It's{n}that vitality I'm interested in."
  },
  {
   "id": "s0215_00e10",
@@ -477,7 +477,7 @@
    "ヴァイ"
   ],
   "jp": "自分で拾えばいいのに……荷物の中で{n}生き返っても知らねえぞ",
-  "en": ""
+  "en": "You could pick it up yourself... Don't blame{n}me if it comes back to life in the luggage."
  },
  {
   "id": "s0215_00e4c",
@@ -909,7 +909,7 @@
    "ヴァイ"
   ],
   "jp": "うっ……",
-  "en": ""
+  "en": "Ugh..."
  },
  {
   "id": "s0215_018ec",

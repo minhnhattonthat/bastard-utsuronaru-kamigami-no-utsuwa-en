@@ -21,7 +21,7 @@
    ""
   ],
   "jp": "すでに送電システムは破壊され、{n}大気のイオン臭も消え去っていた。{n}ただ、風は変わらぬ烈しさで谷間を{n}吹き抜けていき、送電線は大きく{n}左右に揺れ動いていた。",
-  "en": ""
+  "en": "The power transmission system had been{n}destroyed, and the smell of ions was gone{n}from the air. But the wind still raced{n}through the valley as fiercely as ever,{n}and the power lines swung widely from{n}side to side."
  },
  {
   "id": "s0064_008b0",
@@ -45,7 +45,7 @@
    "ヴァイ"
   ],
   "jp": "こ、ここを渡るのかよ",
-  "en": ""
+  "en": "Y-You mean we gotta cross this?"
  },
  {
   "id": "s0064_008c8",
@@ -69,7 +69,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "それしかねえだろう。肚ぁくくって{n}きりきり渡るぞ",
-  "en": ""
+  "en": "What else? Screw up your guts and get{n}moving."
  },
  {
   "id": "s0064_008fc",
@@ -93,7 +93,7 @@
    "ボル"
   ],
   "jp": "この上で襲われたら、かなりまずい{n}ことになりそうでござるな",
-  "en": ""
+  "en": "If we are attacked up here, it could go{n}rather badly, forsooth."
  },
  {
   "id": "s0064_00938",
@@ -117,7 +117,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "それは相手も一緒だろ",
-  "en": ""
+  "en": "Same goes for them."
  },
  {
   "id": "s0064_00950",
@@ -141,7 +141,7 @@
    "ボル"
   ],
   "jp": "まあ、それはそうでござるな。{n}それがしはどうも心配症でいかん",
-  "en": ""
+  "en": "Well, that is so, forsooth. This one is too{n}much of a worrier, and it will not do."
  },
  {
   "id": "s0064_00990",
@@ -165,7 +165,7 @@
    "サイクス"
   ],
   "jp": "こちらが風神塔……と、なると{n}向こうは雷神塔になるかな",
-  "en": ""
+  "en": "So this is the Wind God Tower... Which would{n}make the one over there the Thunder God{n}Tower."
  },
  {
   "id": "s0064_009c8",
@@ -189,7 +189,7 @@
    "ロス"
   ],
   "jp": "ねえ、ちょっとちょっと待って！{n}アタシも一緒に行くわよう",
-  "en": ""
+  "en": "Hey, wait, wait a sec! I'm coming with you!"
  },
  {
   "id": "s0064_00a04",
@@ -213,7 +213,7 @@
    "ロス"
   ],
   "jp": "送電ケーブルを渡り始めようとした{n}その時、風神塔を探索する間姿を見せ{n}なかったロスが現れた。",
-  "en": ""
+  "en": "Just as they were about to start across{n}the power cable, Ros, who had not shown{n}himself while they explored the Wind God{n}Tower, appeared."
  },
  {
   "id": "s0064_00a60",
@@ -237,7 +237,7 @@
    "ヴァイ"
   ],
   "jp": "あ！　テメエ俺たちを出し抜いて{n}お宝を荒らしやがったな！",
-  "en": ""
+  "en": "Ah! You bastard, you beat us to it and{n}looted the treasure!"
  },
  {
   "id": "s0064_00a9c",
@@ -261,7 +261,7 @@
    "ロス"
   ],
   "jp": "あらバレた？　だあって、あの塔の{n}守護者はアタシひとりじゃどうにも{n}ならないんだもの。ま、過ぎたコトは{n}忘れて！　ねっ、Ｄ・Ｓ？",
-  "en": ""
+  "en": "Oh, you caught me? But really, I couldn't{n}handle that tower's guardian all by myself.{n}Well, let bygones be bygones! Right, D.S.?"
  },
  {
   "id": "s0064_00b1c",
@@ -285,7 +285,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "ふふん。この先も隙があれば出し{n}抜こうって面だな。ま、これだけは{n}約束しとけ。テメエに必要のないもの{n}までは荒らし回らないってな",
-  "en": ""
+  "en": "Heh. You've got the look of someone who'll{n}beat us to it again if he gets the chance.{n}Well, just promise me this: you won't go{n}looting what you've got no need for."
  },
  {
   "id": "s0064_00b9c",
@@ -309,7 +309,7 @@
    "ロス"
   ],
   "jp": "オッケーオッケー！　アタシだって{n}そんなにがっついたりしないわよお",
-  "en": ""
+  "en": "Okay, okay! I'm not that greedy, you know!"
  },
  {
   "id": "s0064_00be0",
@@ -333,7 +333,7 @@
    "ヴァイ"
   ],
   "jp": "どーだか",
-  "en": ""
+  "en": "I wonder."
  },
  {
   "id": "s0064_00d9c",
@@ -357,7 +357,7 @@
    ""
   ],
   "jp": "強風に揺れる送電線を、ほぼ半分、{n}峡谷の中央まで渡ったところであった。{page}眼下の谷底からは目も眩むばかりの{n}高度であり、足を滑らせようものなら{n}五体が砕け散るほどの落下速度を{n}容易に得ることができるだろう。",
-  "en": ""
+  "en": "They had gone nearly halfway along the{n}power line, swaying in the strong wind, to{n}the middle of the gorge.{page}The valley floor below lay at a dizzying{n}height, and one slip of the foot would{n}easily gain a speed of fall that would{n}smash a body to pieces."
  },
  {
   "id": "s0064_00e68",
@@ -381,7 +381,7 @@
    ""
   ],
   "jp": "待ちかねたぞ",
-  "en": ""
+  "en": "I have been waiting for you."
  },
  {
   "id": "s0064_00e78",
@@ -405,7 +405,7 @@
    ""
   ],
   "jp": "ケーブルの上に、ふたりの男の姿が{n}あった。妖縛士マカパイン、そして{n}侍ヨルグ――Ｄ・Ｓ襲撃に失敗し、{n}逃走したふたりが再び、眼前に立ち{n}はだかっていた。",
-  "en": ""
+  "en": "On the cable stood two figures. Macalpine{n}the demon binder and Jorg the samurai:{n}the pair who had failed in their attack on{n}D.S. and fled were once again blocking the{n}way."
  },
  {
   "id": "s0064_00f10",
@@ -429,7 +429,7 @@
    "マカパイン"
   ],
   "jp": "約束通り首を獲りに来たぞ、Ｄ・Ｓ！{n}もはや前のような油断はせぬ！",
-  "en": ""
+  "en": "I have come for your head as promised, D.S.!{n}I will not be careless as I was before!"
  },
  {
   "id": "s0064_00f54",
@@ -453,7 +453,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "懲りねえヤロウだな。あれだけ{n}ハッキリ負けて、また叩きのめされ{n}てえなんてテメエはマゾか何かか？{n}あ、妖縛士って自分を縛ったりする？",
-  "en": ""
+  "en": "You don't learn, do you. After losing that{n}clearly, you want another beating? What{n}are you, some kind of masochist? Oh, do{n}demon binders tie themselves up?"
  },
  {
   "id": "s0064_00fd8",
@@ -477,7 +477,7 @@
    "マカパイン"
   ],
   "jp": "黙れ！　妖縛士の侮辱は許さんぞ！",
-  "en": ""
+  "en": "Silence! I will not stand for insults to demon{n}binders!"
  },
  {
   "id": "s0064_00ffc",
@@ -501,7 +501,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "どう許さねえってんだ？　逃げ足{n}ばかり達者なテメエが？",
-  "en": ""
+  "en": "How you gonna not stand for it? You, who's{n}only good at running away?"
  },
  {
   "id": "s0064_01034",
@@ -525,7 +525,7 @@
    "マカパイン"
   ],
   "jp": "状況が判っていないようだな。{n}我ら妖縛士は自ら張り巡らせた糸の{n}上を自在に歩く。このように不安定な{n}足場では、貴様らに勝機はない！",
-  "en": ""
+  "en": "You seem not to grasp the situation. We{n}demon binders walk freely on wires of our{n}own stringing. On such unsteady footing, you{n}have no chance of winning!"
  },
  {
   "id": "s0064_010b8",
@@ -549,7 +549,7 @@
    "ロス"
   ],
   "jp": "……確かにこれは戦い難いわね",
-  "en": ""
+  "en": "...This really is a tough place to fight."
  },
  {
   "id": "s0064_010d8",
@@ -573,7 +573,7 @@
    "マカパイン"
   ],
   "jp": "ククク……ここで待ち伏せた意味が{n}理解できたか。さあ、ヨルグ、今度{n}こそ汚名を返上し、奴の首級を鬼忍将{n}への手みやげとしようではないか！",
-  "en": ""
+  "en": "Heh heh heh... Do you now see why we lay in{n}wait here? Come, Jorg, this time we clear{n}our names, and make a gift of his head to{n}the High Ninja!"
  },
  {
   "id": "s0064_01160",
@@ -621,7 +621,7 @@
    "ヴァイ"
   ],
   "jp": "ヨルグ！　オマエそいつに騙されて{n}いるんだって！　以前だってオマエを{n}放っといて逃げただろ。それに……",
-  "en": ""
+  "en": "Jorg! He's fooling you, I'm telling you! He{n}ditched you and ran last time too. And{n}besides..."
  },
  {
   "id": "s0064_011d0",
@@ -645,7 +645,7 @@
    "ヨルグ"
   ],
   "jp": "俺はマカパインを信じている訳では{n}ない",
-  "en": ""
+  "en": "I do not trust Macalpine."
  },
  {
   "id": "s0064_011f8",
@@ -669,7 +669,7 @@
    "ヴァイ"
   ],
   "jp": "！　だったら――",
-  "en": ""
+  "en": "! Then--"
  },
  {
   "id": "s0064_0120c",
@@ -693,7 +693,7 @@
    "ヨルグ"
   ],
   "jp": "俺は誰も信じない。ここで生きて{n}いくためには、鬼忍将軍に迎え入れて{n}もらうのが最も良策と考えるからこそ、{n}俺は貴様らを倒さねばならんのだ",
-  "en": ""
+  "en": "I trust no one. To live here, the best plan is{n}to be taken in by the High Ninja's army. That{n}is why I must defeat you."
  },
  {
   "id": "s0064_01294",
@@ -717,7 +717,7 @@
    "ヨシュア"
   ],
   "jp": "信じろ、ヨルグ！",
-  "en": ""
+  "en": "Trust me, Jorg!"
  },
  {
   "id": "s0064_012a8",
@@ -741,7 +741,7 @@
    "ヨシュア"
   ],
   "jp": "その時、一行の背後から、ヨルグを{n}追って姿をくらませていたヨシュアが{n}姿を現した。",
-  "en": ""
+  "en": "Just then, Joshua, who had vanished in{n}pursuit of Jorg, appeared behind the{n}party."
  },
  {
   "id": "s0064_012fc",
@@ -765,7 +765,7 @@
    "ヨルグ"
   ],
   "jp": "貴様か……しつこいな",
-  "en": ""
+  "en": "You again... You do not give up."
  },
  {
   "id": "s0064_01314",
@@ -789,7 +789,7 @@
    "ヨシュア"
   ],
   "jp": "目を覚ませ！　ヨルグという男は{n}損得で動く人間ではない！　正義を{n}貫き、友を信じ、情を重んずる侍の{n}中の侍だったはずだ！",
-  "en": ""
+  "en": "Wake up! The man called Jorg is no one to{n}be moved by gain! He was a samurai among{n}samurai, one who stood by justice, trusted{n}his friends and honored loyalty!"
  },
  {
   "id": "s0064_0138c",
@@ -813,7 +813,7 @@
    "ヨルグ"
   ],
   "jp": "知らぬ！　何故貴様は俺にそんな{n}ことを語る！　他人がどう生きようと{n}勝手ではないか。正義があるとすれば{n}それは自分が生き延びることだ！",
-  "en": ""
+  "en": "I know nothing of it! Why do you tell me{n}such things! How others live is their own{n}affair. If there is any justice, it is to{n}survive!"
  },
  {
   "id": "s0064_01414",
@@ -837,7 +837,7 @@
    "ヨシュア"
   ],
   "jp": "違う！　生き延びることのみを目的と{n}した生など、我ら侍にとっては価値{n}なきものだ。記憶を失っても、侍の{n}魂はお前の中で息づいているはず！",
-  "en": ""
+  "en": "You are wrong! A life lived only to survive{n}has no worth for us samurai. Even without{n}your memories, the soul of a samurai must{n}still breathe within you!"
  },
  {
   "id": "s0064_0149c",
@@ -861,7 +861,7 @@
    "ヨシュア"
   ],
   "jp": "俺を信じろ！　いや、かつて自分の{n}中にあった正義を信じるんだ！",
-  "en": ""
+  "en": "Trust me! No, trust the justice that once{n}lived in you!"
  },
  {
   "id": "s0064_014dc",
@@ -885,7 +885,7 @@
    "ヨルグ"
   ],
   "jp": "俺の……正義……",
-  "en": ""
+  "en": "My... justice..."
  },
  {
   "id": "s0064_014f0",
@@ -909,7 +909,7 @@
    "マカパイン"
   ],
   "jp": "むうっ……甘言に乗せられるな、{n}ヨルグ！　今なら我々は容易に勝てる。{n}この優位を捨てさせるための妄言だ！{n}それとも怖じ気づいたか？",
-  "en": ""
+  "en": "Mm... Do not be taken in by sweet talk, Jorg!{n}We can win easily now. It is nonsense meant{n}to make us throw away our advantage! Or{n}have you lost your nerve?"
  },
  {
   "id": "s0064_01574",
@@ -933,7 +933,7 @@
    "ヨルグ"
   ],
   "jp": "怖れなどない！　ヨシュアとやら、{n}正義など俺は知らぬ！　ゆくぞ！",
-  "en": ""
+  "en": "I fear nothing! You, Joshua, I know nothing{n}of justice! Here I come!"
  },
  {
   "id": "s0064_015b8",
@@ -957,7 +957,7 @@
    "ヨシュア"
   ],
   "jp": "ヨルグ！　……仕方ない。Ｄ・Ｓ、{n}あいつを止めるためにも加勢させて{n}もらうぞ！",
-  "en": ""
+  "en": "Jorg! ...It cannot be helped. D.S., I shall lend{n}you my aid, if only to stop him!"
  },
  {
   "id": "s0064_01608",
@@ -981,7 +981,7 @@
    "マカパイン"
   ],
   "jp": "くそっ！　何故だ？　どうして私が{n}こうも敗北する？",
-  "en": ""
+  "en": "Curses! Why? Why do I lose like this?"
  },
  {
   "id": "s0064_0163c",
@@ -1005,7 +1005,7 @@
    "マカパイン"
   ],
   "jp": "だが、私はあきらめんぞ！　もはや{n}鬼忍将など関係ない。Ｄ・Ｓ、私は{n}必ず貴様を倒す！　必ずだ！",
-  "en": ""
+  "en": "But I will not give up! The High Ninja no{n}longer matters. D.S., I will surely defeat you!{n}Surely!"
  },
  {
   "id": "s0064_0169c",
@@ -1029,7 +1029,7 @@
    "マカパイン"
   ],
   "jp": "叫び、マカパインは眼下の虚空へと{n}身を投げた。{page}しかしそれは死のダイヴなどではない。{n}送電線にくくられた鋼糸を伝い、{n}強風に煽られながら、マカパインは{n}蜘蛛のように谷底へと降りていく。",
-  "en": ""
+  "en": "With that cry, Macalpine threw himself{n}into the void below.{page}But it was no dive to his death. Following{n}the steel wire tied to the power line,{n}buffeted by the strong wind, Macalpine{n}descended to the valley floor like a{n}spider."
  },
  {
   "id": "s0064_01754",
@@ -1053,7 +1053,7 @@
    "ヴァイ"
   ],
   "jp": "あの野郎、また逃げやがった！",
-  "en": ""
+  "en": "That bastard ran away again!"
  },
  {
   "id": "s0064_01774",
@@ -1077,7 +1077,7 @@
    "ロス"
   ],
   "jp": "やるわねーアイツ。逃げ足ってのも{n}才能だもんねえ",
-  "en": ""
+  "en": "Not bad, that one. Running away takes{n}talent, doesn't it."
  },
  {
   "id": "s0064_017a8",
@@ -1101,7 +1101,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "オメエ、今回も見捨てられたみてえ{n}だな。言ったハズだぜ、次に仕掛けて{n}きたら手加減しねえって",
-  "en": ""
+  "en": "Looks like he ditched you this time too. I{n}told you: come at me again and I won't hold{n}back."
  },
  {
   "id": "s0064_01804",
@@ -1125,7 +1125,7 @@
    "ヨルグ"
   ],
   "jp": "……覚悟の上だ。今度こそ殺すがいい。{n}そうでなければ俺もいつまでも貴様を{n}狙い続けるだろう",
-  "en": ""
+  "en": "...I am prepared. Kill me this time. If you do{n}not, I will go on hunting you forever."
  },
  {
   "id": "s0064_01860",
@@ -1149,7 +1149,7 @@
    "ヨルグ"
   ],
   "jp": "マカパインも、所詮はこの世界で{n}生きていくために手を組んだ相手。{n}損得で利用し、利用される間柄だ。{n}さあ、殺せ！　侍は死も苦痛も恐れぬ",
-  "en": ""
+  "en": "Macalpine too is only someone I joined with{n}to live in this world. We use each other for{n}gain. Now, kill me! A samurai fears neither{n}death nor pain."
  },
  {
   "id": "s0064_018e8",
@@ -1173,7 +1173,7 @@
    "ヨシュア"
   ],
   "jp": "それだけの覚悟があって、何故思い{n}出すことができない？　恐れぬ心は{n}正義に、友情に殉ずる覚悟なくしては{n}持てぬはず！",
-  "en": ""
+  "en": "With such resolve, why can you not{n}remember? A heart without fear cannot{n}exist without the will to die for justice, for{n}friendship!"
  },
  {
   "id": "s0064_0195c",
@@ -1197,7 +1197,7 @@
    "ヨルグ"
   ],
   "jp": "知らぬ！　皆、口先ばかりだ！{n}自らの命が懸かれば、貴様とて正義も{n}友も捨てて逃げ去るだろうよ。{n}俺は騙されぬ！",
-  "en": ""
+  "en": "I know nothing of it! All of you, nothing but{n}words! When your own life is at stake, even{n}you will throw away justice and friends and{n}run. I will not be fooled!"
  },
  {
   "id": "s0064_019cc",
@@ -1221,7 +1221,7 @@
    "ヨシュア"
   ],
   "jp": "ヨルグ……",
-  "en": ""
+  "en": "Jorg..."
  },
  {
   "id": "s0064_019d8",
@@ -1245,7 +1245,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "もういーや。約束通りテメエは{n}死んでもらうぜ。そら、ダムドォッ！",
-  "en": ""
+  "en": "Enough already. Like I promised, you're{n}gonna die. Here goes, DAMNED!"
  },
  {
   "id": "s0064_01a1c",
@@ -1269,7 +1269,7 @@
    "ヨシュア"
   ],
   "jp": "いかん！",
-  "en": ""
+  "en": "No!"
  },
  {
   "id": "s0064_01a28",
@@ -1293,7 +1293,7 @@
    "ヨシュア"
   ],
   "jp": "爆裂の魔力が迸るその瞬間、ヨシュア{n}は躊躇うことなくヨルグとＤ・Ｓを{n}結ぶ線上に飛び込んだ。紅蓮の炎は{n}ヨルグに届くことなく、割って入った{n}ヨシュアを直撃する。",
-  "en": ""
+  "en": "The instant the blast of magic burst{n}forth, Joshua threw himself without{n}hesitation onto the line between Jorg and{n}D.S. The crimson flames never reached{n}Jorg, and struck full on the man who had{n}come between them."
  },
  {
   "id": "s0064_01ac8",
@@ -1317,7 +1317,7 @@
    "ヨルグ"
   ],
   "jp": "！　バカな！",
-  "en": ""
+  "en": "! Impossible!"
  },
  {
   "id": "s0064_01ad8",
@@ -1341,7 +1341,7 @@
    "ヴァイ"
   ],
   "jp": "ヨシュア！",
-  "en": ""
+  "en": "Joshua!"
  },
  {
   "id": "s0064_01ae4",
@@ -1365,7 +1365,7 @@
    "ヨシュア"
   ],
   "jp": "く……大丈夫だ",
-  "en": ""
+  "en": "Ngh... I am all right."
  },
  {
   "id": "s0064_01af4",
@@ -1389,7 +1389,7 @@
    "ヨルグ"
   ],
   "jp": "……何故だ!?　何故そうまでして俺を{n}かばおうとするのだ!?　俺は……俺は{n}さっきまでお前の命までも奪おうと{n}していた敵なのだぞ！",
-  "en": ""
+  "en": "...Why!? Why go so far to shield me!? I... Until{n}a moment ago I was the enemy trying to{n}take your life too!"
  },
  {
   "id": "s0064_01b74",
@@ -1413,7 +1413,7 @@
    "ヨシュア"
   ],
   "jp": "お前が忘れても俺は覚えている……{n}お前がどれだけの勇気を持って我々を{n}支えてくれたのかを……。その友を{n}救うためなら、俺は喜んで殉じよう",
-  "en": ""
+  "en": "You may have forgotten, but I remember...{n}With what courage you stood by us... To{n}save that friend, I would gladly die."
  },
  {
   "id": "s0064_01bfc",
@@ -1437,7 +1437,7 @@
    "ヨルグ"
   ],
   "jp": "ヨシュア……お前はいつもそうして、{n}猜疑に黒く固まった俺の心を溶かして{n}いく……！",
-  "en": ""
+  "en": "Joshua... You always do this, melting a heart{n}gone black and hard with suspicion...!"
  },
  {
   "id": "s0064_01c50",
@@ -1461,7 +1461,7 @@
    "ヨシュア"
   ],
   "jp": "思い出したのか!?",
-  "en": ""
+  "en": "You remember!?"
  },
  {
   "id": "s0064_01c64",
@@ -1485,7 +1485,7 @@
    "ヨルグ"
   ],
   "jp": "ああ……ああ、そうだ！　俺は侍{n}百人隊長ヨルグ！　お前と……侍大将{n}ヨシュア・ベラヒアと刎頸の契りを{n}交わした友だ！",
-  "en": ""
+  "en": "Yes... Yes, that is it! I am Jorg, a captain of{n}a hundred samurai! A friend sworn to you,{n}Samurai General Joshua Belahia, in a pact{n}unto death!"
  },
  {
   "id": "s0064_01cd8",
@@ -1509,7 +1509,7 @@
    "ヨルグ"
   ],
   "jp": "ヨルグの目から、滂沱と涙が溢れた。{n}もはやその切れ長の瞳は餓狼の如き{n}渇望の闇に閉ざされてはいない。{n}ヨシュアの献身的な友情が、消された{n}記憶をヨルグの魂の奥底から蘇らせた{n}のだった。",
-  "en": ""
+  "en": "Tears poured from Jorg's eyes. His narrow{n}eyes were no longer shut in the dark{n}hunger of a starving wolf. Joshua's{n}devoted friendship had revived his erased{n}memory from the depths of his soul."
  },
  {
   "id": "s0064_01d90",
@@ -1533,7 +1533,7 @@
    "ヴァイ"
   ],
   "jp": "……なあ、Ｄ・Ｓ。いくら何でも{n}あのダムドはやり過ぎだったんじゃ{n}ねーのか？　ヨシュアが思ったよりも{n}元気だからいいようなものの――",
-  "en": ""
+  "en": "...Hey, D.S. Don't you think that Damned was{n}going way too far? It's lucky Joshua's in{n}better shape than I figured, but--"
  },
  {
   "id": "s0064_01e14",
@@ -1557,7 +1557,7 @@
    "ロス"
   ],
   "jp": "あら？　ヴァイ、アンタ気づいて{n}ないの？　さっきの呪文はフェイク、{n}幻影みたいなもんよ。実際には小突か{n}れた程度の衝撃波が当たっただけ",
-  "en": ""
+  "en": "Oh? Vai, you didn't notice? That spell was a{n}fake, a kind of illusion. All that really hit him{n}was a shock wave about as bad as a poke."
  },
  {
   "id": "s0064_01e9c",
@@ -1581,7 +1581,7 @@
    "ヴァイ"
   ],
   "jp": "えええ？",
-  "en": ""
+  "en": "Whaaat?"
  },
  {
   "id": "s0064_01ea8",
@@ -1605,7 +1605,7 @@
    "ボル"
   ],
   "jp": "やはりそうでござったか",
-  "en": ""
+  "en": "So it was as this one thought, forsooth."
  },
  {
   "id": "s0064_01ec0",
@@ -1629,7 +1629,7 @@
    "サイクス"
   ],
   "jp": "ヨルグの記憶を引き出すための{n}ショック療法だな",
-  "en": ""
+  "en": "Shock therapy to draw out Jorg's{n}memory."
  },
  {
   "id": "s0064_01ef0",
@@ -1653,7 +1653,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "ヴァイ、オメエホントに侍か？{n}呪文も少しはカジってなきゃならねえ{n}のによ。ダムドが直撃してあの程度で{n}済むわきゃねーだろ",
-  "en": ""
+  "en": "Vai, are you really a samurai? You're{n}supposed to know a thing or two about{n}spells. A direct hit from Damned wouldn't{n}leave him that well off."
  },
  {
   "id": "s0064_01f68",
@@ -1677,7 +1677,7 @@
    "ヨシュア"
   ],
   "jp": "しかし、俺も本物だと思っていた。{n}間に飛び込んだ瞬間、あなたと視線が{n}合うまでは――",
-  "en": ""
+  "en": "Yet I too thought it was real, until our eyes{n}met the moment I leapt between you--"
  },
  {
   "id": "s0064_01fbc",
@@ -1701,7 +1701,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "オメエが本気で飛び込まなきゃ、{n}ヨルグも引っかからねえだろうしな",
-  "en": ""
+  "en": "If you hadn't really leapt in, Jorg wouldn't{n}have bought it."
  },
  {
   "id": "s0064_02000",
@@ -1725,7 +1725,7 @@
    "ヴァイ"
   ],
   "jp": "じゃ、やっぱりヨシュアは死ぬ気で{n}身代わりになろうとしたってコトか？",
-  "en": ""
+  "en": "So Joshua really was trying to take the hit,{n}ready to die?"
  },
  {
   "id": "s0064_02048",
@@ -1749,7 +1749,7 @@
    "ロス"
   ],
   "jp": "んー、友情ねー。アタシには真似{n}できないわあ。ヨルグ、いい友達を{n}持ってるわね",
-  "en": ""
+  "en": "Mmm, friendship. I could never manage it.{n}Jorg, you've got a good friend."
  },
  {
   "id": "s0064_02098",
@@ -1773,7 +1773,7 @@
    "ヨルグ"
   ],
   "jp": "判っている……だが、その友に二度{n}までも刃を向けた俺は、どのように{n}償えばいいのか――",
-  "en": ""
+  "en": "I know... But I have twice turned my blade{n}on that friend. How am I to atone--"
  },
  {
   "id": "s0064_020f0",
@@ -1797,7 +1797,7 @@
    "ヨシュア"
   ],
   "jp": "そう思ってくれるのなら、ヨルグ、{n}俺の代わりに彼らと行動をともにし、{n}Ｄ・Ｓを支えてはくれないだろうか？",
-  "en": ""
+  "en": "If you feel that way, Jorg, will you travel{n}with them in my stead, and support D.S.?"
  },
  {
   "id": "s0064_02158",
@@ -1821,7 +1821,7 @@
    "ヴァイ"
   ],
   "jp": "ヨシュア……また行っちまうのか？",
-  "en": ""
+  "en": "Joshua... You're leaving again?"
  },
  {
   "id": "s0064_0217c",
@@ -1845,7 +1845,7 @@
    "ヨシュア"
   ],
   "jp": "ヨルグが正気を取り戻した以上、{n}俺は自分の使命に戻らねばならん。{n}度々勝手を言うが、許して欲しい",
-  "en": ""
+  "en": "Now that Jorg has regained his senses, I{n}must return to my mission. Again I act as I{n}please. Forgive me."
  },
  {
   "id": "s0064_021dc",
@@ -1869,7 +1869,7 @@
    "ヨルグ"
   ],
   "jp": "ヨシュア……判った。お前の代役、{n}きっと果たして見せよう",
-  "en": ""
+  "en": "Joshua... Understood. I will surely fill your{n}place."
  },
  {
   "id": "s0064_02218",
@@ -1893,7 +1893,7 @@
    "ヨルグ"
   ],
   "jp": "ヨルグから得られた情報に、ほとんど{n}新しいものはなかった。ヨルグには{n}湖上の自走砦に渡る方法も知らされて{n}おらず、マカパインがいつでも裏切る{n}算段を整えていたことが読みとれた。{n}しかし、そのマカパインも鬼忍将から{n}信を得ていたわけではなく、都合良く{n}利用されていたに過ぎないようだった。",
-  "en": ""
+  "en": "Jorg had almost nothing new to tell them.{n}He had never been told of any way{n}across to the walking fort on the lake,{n}and it could be read from this that{n}Macalpine had made his plans to betray at{n}any time. Yet Macalpine had not won the{n}High Ninja's trust either, and it seemed he{n}had merely been used."
  },
  {
   "id": "s0064_02334",
@@ -1917,7 +1917,7 @@
    "ヨシュア"
   ],
   "jp": "――それで、龍は電気の力で封じ{n}られていると？",
-  "en": ""
+  "en": "--And so you say the dragon is sealed by{n}the power of electricity?"
  },
  {
   "id": "s0064_02364",
@@ -1941,7 +1941,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "そこのシェラの精神感応によればな",
-  "en": ""
+  "en": "According to Shella's telepathy there."
  },
  {
   "id": "s0064_02388",
@@ -1965,7 +1965,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "湖岸で会った吟遊詩人の女を信用{n}するんならな",
-  "en": ""
+  "en": "If you believe that minstrel we met on the{n}lakeshore."
  },
  {
   "id": "s0064_023b8",
@@ -1989,7 +1989,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "だとすりゃ、さっきまでこの送電線を{n}通じて膨大な電力を注ぎ込まれていた{n}対岸の塔が怪しいってことになる",
-  "en": ""
+  "en": "In that case, the shady one's that tower on{n}the other side, which was getting a huge{n}current through this power line until just{n}now."
  },
  {
   "id": "s0064_02420",
@@ -2013,7 +2013,7 @@
    "シェラ"
   ],
   "jp": "……龍の声はこれまでになく強まって{n}いる。その塔が怪しいという推測は{n}間違っていないと思うのだが……",
-  "en": ""
+  "en": "...The dragon's voice is stronger than ever. I{n}believe the guess that the tower is the one{n}to suspect is not mistaken..."
  },
  {
   "id": "s0064_02484",
@@ -2037,7 +2037,7 @@
    "ヨシュア"
   ],
   "jp": "そうか……ならばＤ・Ｓ、あなたは{n}何としても地龍を、鬼忍将の施した{n}封印から解き放って欲しい。それは{n}必ずあなたを利するよう働くだろう",
-  "en": ""
+  "en": "I see... Then, D.S., you must free the Earth{n}Dragon from the High Ninja's seal, whatever{n}it takes. That will surely work to your{n}advantage."
  },
  {
   "id": "s0064_0250c",
@@ -2061,7 +2061,7 @@
    "ヨシュア"
   ],
   "jp": "破界門のこともある。事態は急を{n}要する。砦への道を拓くには、{n}龍の解放が不可欠であるはずだ",
-  "en": ""
+  "en": "There is also the World-Breaker Gate.{n}Matters are urgent. To open the road to{n}the fort, freeing the dragon must be{n}essential."
  },
  {
   "id": "s0064_02568",
@@ -2085,7 +2085,7 @@
    "ヨシュア"
   ],
   "jp": "では、俺は行く。ヨルグよ、あとの{n}ことは任せたぞ。可能な限りにおいて、{n}Ｄ・Ｓのサポートを頼む",
-  "en": ""
+  "en": "Then I go. Jorg, I leave the rest to you.{n}Support D.S. as far as you are able."
  },
  {
   "id": "s0064_025c8",
@@ -2109,7 +2109,7 @@
    "ヨルグ"
   ],
   "jp": "心得た。再会を楽しみに待とう",
-  "en": ""
+  "en": "I understand. I will look forward to our next{n}meeting."
  },
  {
   "id": "s0064_025e8",
@@ -2133,6 +2133,6 @@
    "ヨルグ"
   ],
   "jp": "ヨシュアは風神塔へととって返し、{n}送電線を駆け抜けて視界から消えた。{page}一行は再び、対岸の塔へとケーブルを{n}渡り始めた。",
-  "en": ""
+  "en": "Joshua turned back to the Wind God{n}Tower, ran off along the power line and{n}passed out of sight.{page}The party once more began to cross the{n}cable toward the tower on the far{n}bank."
  }
 ]
