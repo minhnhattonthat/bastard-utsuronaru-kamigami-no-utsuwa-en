@@ -20,4 +20,4 @@ MMB directory sizes count 2048 per sector. Their sectors are video (subheader su
 - **EXE/overlays:** no measured free space yet; strings sit in .rdata. Treat runs of zeros as candidates only.
 
 ## Rebuild
-Not done yet (phase 3). Plan: patch file sectors in place and recompute EDC/ECC for changed sectors only, so LBAs never move; `dumpsxiso`/`mkpsxiso` are unnecessary while nothing moves. Identity test: unpack + repack == original SHA-1.
+`build.py` copies the disc and writes the EXE and RBB back into their own sectors (`disc.write_file`); EDC and ECC are recomputed for every sector of those files, addresses and subheaders stay, so LBAs never move and `dumpsxiso`/`mkpsxiso` are unnecessary. A file larger than its directory size is refused: the directory is not rewritten. `tests/test_identity.py`: the rebuilt disc's SHA-1 equals the original's, about 10 s.

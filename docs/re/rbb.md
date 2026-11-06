@@ -15,7 +15,11 @@ IFF-style `siff` file (u32 size = whole file):
 ## Compression (`00zL`)
 Entry or nested data block: `00zL` `ATAD` u32 size, u32 0x1000, u32 csize, u32 usize, payload. Tags read reversed (`Lz00`, `DATA`). `size` = csize + 12; total block = 12 + size.
 
-LZSS: flag byte read LSB first, 1 = literal. Match = 2 bytes `a b`: position `a | (b & 0x0F) << 8`, length `(b >> 4) + 3`. 4 KB window, zero filled, **write head starts at 0** (not the usual 0xFEE). Verified: readable strings across entries 0-4 and correct image pixels. No encoder yet (phase 3 or 5): a roundtrip must only reproduce the decoded bytes, unless identity needs the exact stream.
+LZSS: flag byte read LSB first, 1 = literal. Match = 2 bytes `a b`: position `a | (b & 0x0F) << 8`, length `(b >> 4) + 3`. 4 KB window, zero filled, **write head starts at 0** (not the usual 0xFEE). Verified: readable strings across entries 0-4 and correct image pixels.
+
+Encoder: `rbb.lzss_encode`, Okumura's binary tree with three changes: write head 0 (tree node deletion at F), one seed node at 0xFEE for the zeroed window instead of F of them, and the first F bytes not mirrored past the window (only ties in the last token show it). **Verified:** `rbb.py verify` re-encodes all 5,368 blocks (93 MB, about a minute) to the original bytes. Bytes after a block up to 4-byte alignment are the tool's uninitialised memory (`00` or `CD`); new blocks can pad with zero.
+
+Rebuild: `rbb.pack(data, {id: bytes})` keeps ids, zero-pads gaps to 0x800 and rewrites RIDX, EXIX, RBB0 and siff sizes.
 
 ## Entry map
 | Entries | Tag | Content |

@@ -4,7 +4,7 @@ Skill: translate-retro-game (Claude Code: plugin, enabled in .claude/settings.js
 
 ## Commands (run from repo root)
 - Setup after clone: `git config core.hooksPath tools/hooks`; `python -X utf8 tools/disc.py extract`; `python -X utf8 tools/rbb.py unpack` (work/rbb/).
-- Build:    not written yet (phase 3): will be `python -X utf8 build.py` -> build/bastard_en.cue
+- Build:    `python -X utf8 build.py` -> build/bastard_en.cue (needs numpy). Encoder proof, a few minutes: `python -X utf8 tools/rbb.py verify`
 - Check:    `python -X utf8 tools/check.py` (tests; the pre-commit hook runs this)
 - Smoke:    `python -X utf8 "$(python tools/skill.py)/scripts/emu.py" <cue> --out work/qa/smoke --route tools/routes/boot.txt --smoke`
 - New game: `--route tools/routes/newgame.txt --mash 150 --mash-key circle --frames 20000 --timeout 500` (prologue movie can't be skipped; first narration at ~frame 16700)
