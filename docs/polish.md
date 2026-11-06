@@ -53,3 +53,12 @@ Minor style notes from the review pass, for one polish pass before release. Phas
 - [ ] s0187_01538 - 漂わせて "drifting with" odd: "Soon a giant form appeared there, beautiful, and giving off an evil scent of death."
 - [ ] s0191_05930 - Jorg gone suave, "you girls" stiff: "Thank you, girls. I feel my confidence welling up somehow."
 - [ ] s0191_020ec - Sheila's ですわね flat: "It seems to be saying you must not fill young people's heads with harmful things, I believe."
+- [ ] s0195_01bac - 戻るぜ！テメエら！ "you guys" is soft for D.S.: "Fall back, you punks!"
+- [ ] s0195_01c78 - 俺が、行く terse, "I shall" is Joshua's voice: "...I'll go. Smash that mirror, and we can pass."
+- [ ] s0195_01cc8 - "oughta grow, by the square" stumbles: "The closer you get, the illusion oughta get stronger, squared."
+- [ ] s0195_020ec - "saw their sight dyed with darkness" odd: "Entering the Dream Mirror's range, D.S. and the others found their sight dyed black."
+- [ ] s0195_02c00 - 湿っぽくすんじゃねえ "soggy" is a calque: "Quit being so damn mopey!"
+- [ ] s0195_05e60 - 早速挫けて means already, not the record: "Folding already!? What the hell!"
+- [ ] s0199_04528 - 現世 "the world above" adds a direction: "in the real world".
+- [ ] s0203_00cd4 - キィーッ is a rage shriek, "Eeeek!" reads as fear: "Kyaaah!" or "Grrr!".
+- [ ] s0207_0156c - 負けてやる "lose for you" calque: "But if we meet as enemies, don't expect me to let you win."
