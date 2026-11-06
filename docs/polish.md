@@ -116,3 +116,16 @@ Minor style notes from the review pass, for one polish pass before release. Phas
 - [ ] s0346_02ad4 - "To see me here, who died" stumbles: "Surprised to see me here, when I died nearly a hundred years ago?"
 - [ ] s0346_03170 - "fixed ... with a roll" odd for ぎょろり: "Eyes holding the light of high intelligence rolled and fixed on D.S. and the others."
 - [ ] s0346_04648 - Vai stiff: "Where Yoko is? Yeah, but where's that..."
+- [ ] s0346_05904 - そういうことですね stiff: "If you die, it will be a real death in this world-- That is how it works, is it not, D.S.?"
+- [ ] s0346_06008 - 頼まぁ: Sheila carries the orb and is asked to use it, not guard it: "Sheila, do your thing with Yoko-san's orb."
+- [ ] s0349_018c0 - Lars normally uses contractions: "Don't blame him."
+- [ ] s0357_00bbc - 純白の羽根 on a serpent fetus, "feathers" reads oddly: "with pure white wings--".
+- [ ] s0361_01eec - tacked-on "gentlemen" sounds addressed to the demons (no 諸君 in the JP): drop it.
+- [ ] s0361_01ff8 - "It must not come too late, must it?" garbled: "You must not be too late, must you?"
+- [ ] s0361_0197c, s0369_0420c - 虚ろな神 / 虚ろなる神々 lowercase "hollow gods": capitalise if the polish pass wants the title echo to read as the same name.
+- [ ] s0369_02918 - 絶命したヨーコ: she had already died: "to save Yoko, who had breathed her last, D.S. used..."
+- [ ] s0369_02bb4, s0369_035c8 - last clause stiff and long: "...that he was still at it when D.S.'s advance caught up with him: this he could never have foreseen."
+- [ ] s0369_02ca4 - "a curse that let him not move a finger": "a curse that left him unable to move a finger".
+- [ ] s0369_02dac - 現世 as "present world" odd: "you may watch my battle with the Creator God from the mortal world--".
+- [ ] s0369_03428 - clumsy threat: "...Fine by me. I'll show you just how wrong you are!"
+- [ ] s0369_04c08 - 表す as "showing" flat: "The mystic dragon, the very shape of D.S.'s root life force,".
