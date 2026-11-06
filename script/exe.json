@@ -26,7 +26,7 @@
    "exe:c:2b1e4/2b1e8"
   ],
   "jp": "%sへ向かいますか？",
-  "en": ""
+  "en": "Head to %s?"
  },
  {
   "id": "exe_008a8",
@@ -38,7 +38,7 @@
    "exe:c:2affc/2b000"
   ],
   "jp": "ワープ！！",
-  "en": ""
+  "en": "Warp!!"
  },
  {
   "id": "exe_008c4",
@@ -50,7 +50,7 @@
    "exe:c:2b288/2b28c"
   ],
   "jp": "この先へ進みますか？",
-  "en": ""
+  "en": "Go on ahead?"
  },
  {
   "id": "exe_008dc",
@@ -62,7 +62,7 @@
    "exe:c:2b270/2b274"
   ],
   "jp": "%sから出ますか？",
-  "en": ""
+  "en": "Leave %s?"
  },
  {
   "id": "exe_00910",
@@ -74,7 +74,7 @@
    "exe:c:2b884/2b888"
   ],
   "jp": "はい",
-  "en": ""
+  "en": "Yes"
  },
  {
   "id": "exe_00918",
@@ -86,7 +86,7 @@
    "exe:c:2b8c8/2b8cc"
   ],
   "jp": "いいえ",
-  "en": ""
+  "en": "No"
  },
  {
   "id": "exe_00920",
@@ -98,7 +98,7 @@
    "exe:c:2baf8/2bafc"
   ],
   "jp": "  %sを%dつ手に入れた！",
-  "en": ""
+  "en": "     Got %s x%d!"
  },
  {
   "id": "exe_00938",
@@ -110,7 +110,7 @@
    "exe:c:2bb10/2bb14"
   ],
   "jp": "  %sを手に入れた！",
-  "en": ""
+  "en": "     Got %s!"
  },
  {
   "id": "exe_0094c",
@@ -122,7 +122,7 @@
    "exe:c:2becc/2bed0"
   ],
   "jp": "ここではセーブできません",
-  "en": ""
+  "en": "You can't save here."
  },
  {
   "id": "exe_00974",
@@ -134,7 +134,7 @@
    "exe:d:8c7a4"
   ],
   "jp": "忘却の浜辺",
-  "en": ""
+  "en": "Forgotten Beach"
  },
  {
   "id": "exe_00988",
@@ -146,7 +146,7 @@
    "exe:d:8c7e4"
   ],
   "jp": "竜船",
-  "en": ""
+  "en": "Dragon Ship"
  },
  {
   "id": "exe_00998",
@@ -158,7 +158,7 @@
    "exe:d:8c824"
   ],
   "jp": "地龍神殿",
-  "en": ""
+  "en": "Earth Dragon Temple"
  },
  {
   "id": "exe_009ac",
@@ -170,7 +170,7 @@
    "exe:d:8c864"
   ],
   "jp": "小島",
-  "en": ""
+  "en": "Islet"
  },
  {
   "id": "exe_009bc",
@@ -182,7 +182,7 @@
    "exe:d:8c8a4"
   ],
   "jp": "要石の洞窟",
-  "en": ""
+  "en": "Keystone Cave"
  },
  {
   "id": "exe_009d0",
@@ -194,7 +194,7 @@
    "exe:d:8c8e4"
   ],
   "jp": "小峡谷",
-  "en": ""
+  "en": "Small Gorge"
  },
  {
   "id": "exe_009e0",
@@ -206,7 +206,7 @@
    "exe:d:8c924"
   ],
   "jp": "秘された抜け道",
-  "en": ""
+  "en": "Hidden Passage"
  },
  {
   "id": "exe_009f8",
@@ -219,7 +219,7 @@
    "exe:d:8c9a4"
   ],
   "jp": "大峡谷",
-  "en": ""
+  "en": "Great Gorge"
  },
  {
   "id": "exe_00a10",
@@ -231,7 +231,7 @@
    "exe:d:8c9e4"
   ],
   "jp": "風穴洞",
-  "en": ""
+  "en": "Wind Cave"
  },
  {
   "id": "exe_00a20",
@@ -244,7 +244,7 @@
    "exe:d:8ca64"
   ],
   "jp": "人造湖",
-  "en": ""
+  "en": "Man-Made Lake"
  },
  {
   "id": "exe_00a38",
@@ -256,7 +256,7 @@
    "exe:d:8caa4"
   ],
   "jp": "風哭きの谷間",
-  "en": ""
+  "en": "Wailing Wind Ravine"
  },
  {
   "id": "exe_00a50",
@@ -268,7 +268,7 @@
    "exe:d:8cae4"
   ],
   "jp": "送電線",
-  "en": ""
+  "en": "Power Line"
  },
  {
   "id": "exe_00a60",
@@ -280,7 +280,7 @@
    "exe:d:8cb24"
   ],
   "jp": "風神塔",
-  "en": ""
+  "en": "Wind God Tower"
  },
  {
   "id": "exe_00a70",
@@ -292,7 +292,7 @@
    "exe:d:8cb64"
   ],
   "jp": "雷神塔",
-  "en": ""
+  "en": "Thunder God Tower"
  },
  {
   "id": "exe_00a80",
@@ -304,7 +304,7 @@
    "exe:d:8cba4"
   ],
   "jp": "雷神塔地下",
-  "en": ""
+  "en": "Thunder God Tower Base"
  },
  {
   "id": "exe_00a94",
@@ -316,7 +316,7 @@
    "exe:d:8cbe4"
   ],
   "jp": "地龍の寝所",
-  "en": ""
+  "en": "Earth Dragon's Lair"
  },
  {
   "id": "exe_00aa8",
@@ -328,7 +328,7 @@
    "exe:d:8cc24"
   ],
   "jp": "露角洞",
-  "en": ""
+  "en": "Dew Horn Cave"
  },
  {
   "id": "exe_00ab8",
@@ -340,7 +340,7 @@
    "exe:d:8cc64"
   ],
   "jp": "幻角洞",
-  "en": ""
+  "en": "Phantom Horn Cave"
  },
  {
   "id": "exe_00ac8",
@@ -352,7 +352,7 @@
    "exe:d:8cca4"
   ],
   "jp": "泡角洞",
-  "en": ""
+  "en": "Foam Horn Cave"
  },
  {
   "id": "exe_00ad8",
@@ -364,7 +364,7 @@
    "exe:d:8cce4"
   ],
   "jp": "夢角洞",
-  "en": ""
+  "en": "Dream Horn Cave"
  },
  {
   "id": "exe_00ae8",
@@ -376,7 +376,7 @@
    "exe:d:8cd24"
   ],
   "jp": "影角洞",
-  "en": ""
+  "en": "Shadow Horn Cave"
  },
  {
   "id": "exe_00af8",
@@ -388,7 +388,7 @@
    "exe:d:8cd64"
   ],
   "jp": "電角洞",
-  "en": ""
+  "en": "Thunder Horn Cave"
  },
  {
   "id": "exe_00b08",
@@ -400,7 +400,7 @@
    "exe:d:8cda4"
   ],
   "jp": "霊岩洞",
-  "en": ""
+  "en": "Spirit Rock Cave"
  },
  {
   "id": "exe_00b18",
@@ -412,7 +412,7 @@
    "exe:d:8cde4"
   ],
   "jp": "自走砦",
-  "en": ""
+  "en": "Mobile Fortress"
  },
  {
   "id": "exe_00b28",
@@ -424,7 +424,7 @@
    "exe:d:8ce24"
   ],
   "jp": "天守閣",
-  "en": ""
+  "en": "Keep Tower"
  },
  {
   "id": "exe_00b38",
@@ -436,7 +436,7 @@
    "exe:d:8ce64"
   ],
   "jp": "森林地帯入口",
-  "en": ""
+  "en": "Forest Entrance"
  },
  {
   "id": "exe_00b50",
@@ -448,7 +448,7 @@
    "exe:d:8cea4"
   ],
   "jp": "樹海中心部（北）",
-  "en": ""
+  "en": "Sea of Trees, North"
  },
  {
   "id": "exe_00b6c",
@@ -460,7 +460,7 @@
    "exe:d:8cee4"
   ],
   "jp": "樹海中心部（南）",
-  "en": ""
+  "en": "Sea of Trees, South"
  },
  {
   "id": "exe_00b88",
@@ -472,7 +472,7 @@
    "exe:d:8cf24"
   ],
   "jp": "龍樹",
-  "en": ""
+  "en": "Dragon Tree"
  },
  {
   "id": "exe_00b98",
@@ -484,7 +484,7 @@
    "exe:d:8cf64"
   ],
   "jp": "樫の牢獄",
-  "en": ""
+  "en": "Oak Prison"
  },
  {
   "id": "exe_00bac",
@@ -496,7 +496,7 @@
    "exe:d:8cfa4"
   ],
   "jp": "馬頭石像の森",
-  "en": ""
+  "en": "Horsehead Statue Woods"
  },
  {
   "id": "exe_00bc4",
@@ -508,7 +508,7 @@
    "exe:d:8cfe4"
   ],
   "jp": "上幻の湖",
-  "en": ""
+  "en": "Upper Phantom Lake"
  },
  {
   "id": "exe_00bd8",
@@ -520,7 +520,7 @@
    "exe:d:8d024"
   ],
   "jp": "幻影城",
-  "en": ""
+  "en": "Phantom Castle"
  },
  {
   "id": "exe_00be8",
@@ -532,7 +532,7 @@
    "exe:d:8d064"
   ],
   "jp": "鴉の森",
-  "en": ""
+  "en": "Raven Forest"
  },
  {
   "id": "exe_00bf8",
@@ -544,7 +544,7 @@
    "exe:d:8d0a4"
   ],
   "jp": "聖域の森",
-  "en": ""
+  "en": "Sanctuary Forest"
  },
  {
   "id": "exe_00c0c",
@@ -556,7 +556,7 @@
    "exe:d:8d0e4"
   ],
   "jp": "ディートの神殿",
-  "en": ""
+  "en": "Temple of Dite"
  },
  {
   "id": "exe_00c24",
@@ -568,7 +568,7 @@
    "exe:d:8d124"
   ],
   "jp": "水妖の湖",
-  "en": ""
+  "en": "Lake of the Water Sprite"
  },
  {
   "id": "exe_00c38",
@@ -580,7 +580,7 @@
    "exe:d:8d164"
   ],
   "jp": "樹棺城",
-  "en": ""
+  "en": "Tree-Coffin Castle"
  },
  {
   "id": "exe_00c48",
@@ -592,7 +592,7 @@
    "exe:d:8d1a4"
   ],
   "jp": "樹棺城尖塔部",
-  "en": ""
+  "en": "Tree-Coffin Spire"
  },
  {
   "id": "exe_00c60",
@@ -604,7 +604,7 @@
    "exe:d:8d1e4"
   ],
   "jp": "針葉樹林帯",
-  "en": ""
+  "en": "Conifer Belt"
  },
  {
   "id": "exe_00c74",
@@ -616,7 +616,7 @@
    "exe:d:8d224"
   ],
   "jp": "大雪原",
-  "en": ""
+  "en": "Great Snowfield"
  },
  {
   "id": "exe_00c84",
@@ -628,7 +628,7 @@
    "exe:d:8d264"
   ],
   "jp": "氷結湖迷宮",
-  "en": ""
+  "en": "Frozen Lake Maze"
  },
  {
   "id": "exe_00c98",
@@ -640,7 +640,7 @@
    "exe:d:8d2a4"
   ],
   "jp": "ボラの神殿",
-  "en": ""
+  "en": "Temple of Bola"
  },
  {
   "id": "exe_00cac",
@@ -652,7 +652,7 @@
    "exe:d:8d2e4"
   ],
   "jp": "磁力吹雪の谷",
-  "en": ""
+  "en": "Magnetic Blizzard Valley"
  },
  {
   "id": "exe_00cc4",
@@ -664,7 +664,7 @@
    "exe:d:8d324"
   ],
   "jp": "水龍の祠",
-  "en": ""
+  "en": "Water Dragon Shrine"
  },
  {
   "id": "exe_00cd8",
@@ -676,7 +676,7 @@
    "exe:d:8d364"
   ],
   "jp": "巨獣体内",
-  "en": ""
+  "en": "Inside the Great Beast"
  },
  {
   "id": "exe_00cec",
@@ -688,7 +688,7 @@
    "exe:d:8d3a4"
   ],
   "jp": "海底都市遺跡",
-  "en": ""
+  "en": "Undersea City Ruins"
  },
  {
   "id": "exe_00d04",
@@ -700,7 +700,7 @@
    "exe:d:8d3e4"
   ],
   "jp": "暗黒空間",
-  "en": ""
+  "en": "Dark Space"
  },
  {
   "id": "exe_00d18",
@@ -712,7 +712,7 @@
    "exe:d:8d424"
   ],
   "jp": "水星宮",
-  "en": ""
+  "en": "Mercury Palace"
  },
  {
   "id": "exe_00d28",
@@ -724,7 +724,7 @@
    "exe:d:8d464"
   ],
   "jp": "金星宮",
-  "en": ""
+  "en": "Venus Palace"
  },
  {
   "id": "exe_00d38",
@@ -736,7 +736,7 @@
    "exe:d:8d4a4"
   ],
   "jp": "蝕影宮",
-  "en": ""
+  "en": "Eclipse Palace"
  },
  {
   "id": "exe_00d48",
@@ -748,7 +748,7 @@
    "exe:d:8d4e4"
   ],
   "jp": "火星宮",
-  "en": ""
+  "en": "Mars Palace"
  },
  {
   "id": "exe_00d58",
@@ -760,7 +760,7 @@
    "exe:d:8d524"
   ],
   "jp": "木星宮",
-  "en": ""
+  "en": "Jupiter Palace"
  },
  {
   "id": "exe_00d68",
@@ -772,7 +772,7 @@
    "exe:d:8d564"
   ],
   "jp": "土星宮",
-  "en": ""
+  "en": "Saturn Palace"
  },
  {
   "id": "exe_00d78",
@@ -784,7 +784,7 @@
    "exe:d:8d5a4"
   ],
   "jp": "太陽塔",
-  "en": ""
+  "en": "Sun Tower"
  },
  {
   "id": "exe_00d88",
@@ -796,7 +796,7 @@
    "exe:d:8d5e4"
   ],
   "jp": "双雪山（左）",
-  "en": ""
+  "en": "Twin Snow Peaks (Left)"
  },
  {
   "id": "exe_00da0",
@@ -808,7 +808,7 @@
    "exe:d:8d624"
   ],
   "jp": "双雪山（右）",
-  "en": ""
+  "en": "Twin Snow Peaks (Right)"
  },
  {
   "id": "exe_00db8",
@@ -820,7 +820,7 @@
    "exe:d:8d664"
   ],
   "jp": "氷獄塔",
-  "en": ""
+  "en": "Ice Hell Tower"
  },
  {
   "id": "exe_00dc8",
@@ -832,7 +832,7 @@
    "exe:d:8d6a4"
   ],
   "jp": "氷獄塔中層部",
-  "en": ""
+  "en": "Ice Hell Tower, Middle"
  },
  {
   "id": "exe_00de0",
@@ -844,7 +844,7 @@
    "exe:d:8d6e4"
   ],
   "jp": "氷のコロシアム",
-  "en": ""
+  "en": "Ice Coliseum"
  },
  {
   "id": "exe_00df8",
@@ -856,7 +856,7 @@
    "exe:d:8d724"
   ],
   "jp": "黒斑洞",
-  "en": ""
+  "en": "Black Spot Cave"
  },
  {
   "id": "exe_00e08",
@@ -868,7 +868,7 @@
    "exe:d:8d764"
   ],
   "jp": "黒の館",
-  "en": ""
+  "en": "Black Manor"
  },
  {
   "id": "exe_00e18",
@@ -880,7 +880,7 @@
    "exe:d:8d7a4"
   ],
   "jp": "気洞",
-  "en": ""
+  "en": "Air Cave"
  },
  {
   "id": "exe_00e28",
@@ -892,7 +892,7 @@
    "exe:d:8d7e4"
   ],
   "jp": "溶解雨の湿地",
-  "en": ""
+  "en": "Melting Rain Marsh"
  },
  {
   "id": "exe_00e40",
@@ -904,7 +904,7 @@
    "exe:d:8d824"
   ],
   "jp": "デュアディナムトンネル",
-  "en": ""
+  "en": "Duodenum Tunnel"
  },
  {
   "id": "exe_00e60",
@@ -916,7 +916,7 @@
    "exe:d:8d864"
   ],
   "jp": "ランゲルハンス島",
-  "en": ""
+  "en": "Isle of Langerhans"
  },
  {
   "id": "exe_00e7c",
@@ -928,7 +928,7 @@
    "exe:d:8d8a4"
   ],
   "jp": "スーゼミの神殿",
-  "en": ""
+  "en": "Temple of Suzemi"
  },
  {
   "id": "exe_00e94",
@@ -940,7 +940,7 @@
    "exe:d:8d8e4"
   ],
   "jp": "血路",
-  "en": ""
+  "en": "Blood Road"
  },
  {
   "id": "exe_00ea4",
@@ -952,7 +952,7 @@
    "exe:d:8d924"
   ],
   "jp": "癌臓宮",
-  "en": ""
+  "en": "Cancer Palace"
  },
  {
   "id": "exe_00eb4",
@@ -964,7 +964,7 @@
    "exe:d:8d964"
   ],
   "jp": "癌臓宮中枢部",
-  "en": ""
+  "en": "Cancer Palace Core"
  },
  {
   "id": "exe_00ecc",
@@ -976,7 +976,7 @@
    "exe:d:8d9a4"
   ],
   "jp": "虚神王の砦・前庭",
-  "en": ""
+  "en": "False God King's Fort, Yard"
  },
  {
   "id": "exe_00ee8",
@@ -989,7 +989,7 @@
    "exe:d:8da24"
   ],
   "jp": "虚神王の砦",
-  "en": ""
+  "en": "False God King's Fort"
  },
  {
   "id": "exe_00f04",
@@ -1001,7 +1001,7 @@
    "exe:d:8da64"
   ],
   "jp": "蓮塔",
-  "en": ""
+  "en": "Lotus Tower"
  },
  {
   "id": "exe_00f14",
@@ -1013,7 +1013,7 @@
    "exe:d:8daa4"
   ],
   "jp": "巨大聖堂",
-  "en": ""
+  "en": "Great Cathedral"
  },
  {
   "id": "exe_00f28",
@@ -1025,7 +1025,7 @@
    "exe:d:8dae4"
   ],
   "jp": "イドクリスタル",
-  "en": ""
+  "en": "Id Crystal"
  },
  {
   "id": "exe_00f40",
@@ -1037,7 +1037,7 @@
    "exe:d:8db24"
   ],
   "jp": "ヴィンスの迷宮",
-  "en": ""
+  "en": "Vince's Labyrinth"
  },
  {
   "id": "exe_00f88",
@@ -1183,7 +1183,7 @@
    "exe:c:2ec54/2ec58"
   ],
   "jp": "セーブしますか？",
-  "en": ""
+  "en": "Save?"
  },
  {
   "id": "exe_0110c",
@@ -1195,7 +1195,7 @@
    "exe:c:2ec78/2ec7c"
   ],
   "jp": "はい",
-  "en": ""
+  "en": "Yes"
  },
  {
   "id": "exe_01114",
@@ -1207,7 +1207,7 @@
    "exe:c:2ec84/2ec88"
   ],
   "jp": "いいえ",
-  "en": ""
+  "en": "No"
  },
  {
   "id": "exe_01134",
@@ -1255,7 +1255,7 @@
    "exe:c:33b84/33b88"
   ],
   "jp": "%sが仲間に加わった",
-  "en": ""
+  "en": "%s joined!"
  },
  {
   "id": "exe_012f0",
@@ -1267,7 +1267,7 @@
    "exe:c:35250/35254"
   ],
   "jp": "宝箱は開かない",
-  "en": ""
+  "en": "The chest won't open."
  },
  {
   "id": "exe_01300",
@@ -1279,7 +1279,7 @@
    "exe:c:35394/35398"
   ],
   "jp": "鍵が掛かっている",
-  "en": ""
+  "en": "It's locked."
  },
  {
   "id": "exe_01314",
@@ -1292,7 +1292,7 @@
    "exe:c:353e4/353e8"
   ],
   "jp": "魔力で封印されている",
-  "en": ""
+  "en": "It's sealed by magic."
  },
  {
   "id": "exe_01b70",
@@ -1328,7 +1328,7 @@
    "exe:d:8df64"
   ],
   "jp": "シーラ",
-  "en": ""
+  "en": "Sheila"
  },
  {
   "id": "exe_01bf4",
@@ -1340,7 +1340,7 @@
    "exe:d:8df78"
   ],
   "jp": "鬼忍将",
-  "en": ""
+  "en": "High Ninja"
  },
  {
   "id": "exe_01c08",
@@ -1352,7 +1352,7 @@
    "exe:d:8df8c"
   ],
   "jp": "ジン",
-  "en": ""
+  "en": "Jin"
  },
  {
   "id": "exe_01c14",
@@ -1364,7 +1364,7 @@
    "exe:d:8dfa0"
   ],
   "jp": "ダイ",
-  "en": ""
+  "en": "Di-Amon"
  },
  {
   "id": "exe_01c24",
@@ -1376,7 +1376,7 @@
    "exe:d:8dfb4"
   ],
   "jp": "吸血姫",
-  "en": ""
+  "en": "Vamp Queen"
  },
  {
   "id": "exe_01c38",
@@ -1388,7 +1388,7 @@
    "exe:d:8dfc8"
   ],
   "jp": "至高王",
-  "en": ""
+  "en": "High King"
  },
  {
   "id": "exe_01c4c",
@@ -1400,7 +1400,7 @@
    "exe:d:8dfdc"
   ],
   "jp": "ガイン",
-  "en": ""
+  "en": "Gain"
  },
  {
   "id": "exe_01c5c",
@@ -1412,7 +1412,7 @@
    "exe:d:8dff0"
   ],
   "jp": "暗黒僧",
-  "en": ""
+  "en": "Dark Priest"
  },
  {
   "id": "exe_01c70",
@@ -1424,7 +1424,7 @@
    "exe:d:8e004"
   ],
   "jp": "イーカル",
-  "en": ""
+  "en": "Ichael"
  },
  {
   "id": "exe_01c84",
@@ -1436,7 +1436,7 @@
    "exe:d:8e018"
   ],
   "jp": "ルーシェ",
-  "en": ""
+  "en": "Lucien"
  },
  {
   "id": "exe_01c98",
@@ -1448,7 +1448,7 @@
    "exe:d:8e02c"
   ],
   "jp": "オクトールの影",
-  "en": ""
+  "en": "Octol's Shadow"
  },
  {
   "id": "exe_01cb8",
@@ -1460,7 +1460,7 @@
    "exe:d:8e040"
   ],
   "jp": "ロキの影",
-  "en": ""
+  "en": "Loki's Shadow"
  },
  {
   "id": "exe_01ccc",
@@ -1472,7 +1472,7 @@
    "exe:d:8e054"
   ],
   "jp": "ウンディーネＡ",
-  "en": ""
+  "en": "Undine A"
  },
  {
   "id": "exe_01cec",
@@ -1484,7 +1484,7 @@
    "exe:d:8e068"
   ],
   "jp": "ウンディーネＢ",
-  "en": ""
+  "en": "Undine B"
  },
  {
   "id": "exe_01d04",
@@ -1496,7 +1496,7 @@
    "exe:d:8e07c"
   ],
   "jp": "ウンディーネＣ",
-  "en": ""
+  "en": "Undine C"
  },
  {
   "id": "exe_01d6c",
@@ -1772,7 +1772,7 @@
    "exe:c:68738/6873c"
   ],
   "jp": "ルーシェ",
-  "en": ""
+  "en": "Lucien"
  },
  {
   "id": "exe_201d0",
@@ -1784,7 +1784,7 @@
    "exe:c:68764/68768"
   ],
   "jp": "ルーシェ・レンレン",
-  "en": ""
+  "en": "Lucien Renlen"
  },
  {
   "id": "exe_201f4",
@@ -1804,7 +1804,7 @@
    }
   ],
   "jp": "Ｄ・Ｓ",
-  "en": ""
+  "en": "D.S."
  },
  {
   "id": "exe_201fc",
@@ -1816,7 +1816,7 @@
    "exe:c:68a70/68a74"
   ],
   "jp": "ダーク・シュナイダー",
-  "en": ""
+  "en": "Dark Schneider"
  },
  {
   "id": "exe_20294",
@@ -1828,7 +1828,7 @@
    "exe:c:6adb0/6adb4"
   ],
   "jp": "Ｄ・Ｓ",
-  "en": ""
+  "en": "D.S."
  },
  {
   "id": "exe_2029c",
@@ -1840,7 +1840,7 @@
    "exe:c:6adf4/6adf8"
   ],
   "jp": "ガラ",
-  "en": ""
+  "en": "Gara"
  },
  {
   "id": "exe_202a4",
@@ -1852,7 +1852,7 @@
    "exe:c:6ae24/6ae28"
   ],
   "jp": "ネイ",
-  "en": ""
+  "en": "Nei"
  },
  {
   "id": "exe_202ac",
@@ -1864,7 +1864,7 @@
    "exe:c:6ae54/6ae58"
   ],
   "jp": "カル",
-  "en": ""
+  "en": "Kall"
  },
  {
   "id": "exe_202b4",
@@ -1876,7 +1876,7 @@
    "exe:c:6ae84/6ae88"
   ],
   "jp": "アビゲイル",
-  "en": ""
+  "en": "Abigail"
  },
  {
   "id": "exe_202c0",
@@ -1888,7 +1888,7 @@
    "exe:c:6aed8/6aedc"
   ],
   "jp": "ヨシュア",
-  "en": ""
+  "en": "Joshua"
  },
  {
   "id": "exe_202cc",
@@ -1900,7 +1900,7 @@
    "exe:c:6af18/6af1c"
   ],
   "jp": "シェン",
-  "en": ""
+  "en": "Schen"
  },
  {
   "id": "exe_202d4",
@@ -1912,7 +1912,7 @@
    "exe:c:6af5c/6af60"
   ],
   "jp": "ヴァイ",
-  "en": ""
+  "en": "Vai"
  },
  {
   "id": "exe_202dc",
@@ -1924,7 +1924,7 @@
    "exe:c:6afa0/6afa4"
   ],
   "jp": "ヨルグ",
-  "en": ""
+  "en": "Jorg"
  },
  {
   "id": "exe_202e4",
@@ -1936,7 +1936,7 @@
    "exe:c:6afe4/6afe8"
   ],
   "jp": "アンガス",
-  "en": ""
+  "en": "Angus"
  },
  {
   "id": "exe_202f0",
@@ -1948,7 +1948,7 @@
    "exe:c:6b024/6b028"
   ],
   "jp": "カイ",
-  "en": ""
+  "en": "Kai"
  },
  {
   "id": "exe_202f8",
@@ -1960,7 +1960,7 @@
    "exe:c:6b054/6b058"
   ],
   "jp": "シーン",
-  "en": ""
+  "en": "Sean"
  },
  {
   "id": "exe_20300",
@@ -1972,7 +1972,7 @@
    "exe:c:6b098/6b09c"
   ],
   "jp": "ダイ",
-  "en": ""
+  "en": "Di-Amon"
  },
  {
   "id": "exe_20308",
@@ -1984,7 +1984,7 @@
    "exe:c:6b0c8/6b0cc"
   ],
   "jp": "イングヴェイ",
-  "en": ""
+  "en": "Yngwei"
  },
  {
   "id": "exe_20318",
@@ -1996,7 +1996,7 @@
    "exe:c:6b10c/6b110"
   ],
   "jp": "ラン",
-  "en": ""
+  "en": "Ran"
  },
  {
   "id": "exe_20320",
@@ -2008,7 +2008,7 @@
    "exe:c:6b13c/6b140"
   ],
   "jp": "ジオン",
-  "en": ""
+  "en": "Zion"
  },
  {
   "id": "exe_20328",
@@ -2020,7 +2020,7 @@
    "exe:c:6b180/6b184"
   ],
   "jp": "マカパイン",
-  "en": ""
+  "en": "Macalpine"
  },
  {
   "id": "exe_20334",
@@ -2032,7 +2032,7 @@
    "exe:c:6b1d0/6b1d4"
   ],
   "jp": "ボル",
-  "en": ""
+  "en": "Bol"
  },
  {
   "id": "exe_2033c",
@@ -2045,7 +2045,7 @@
    "exe:c:6bc4c/6bc50"
   ],
   "jp": "バ・ソリー",
-  "en": ""
+  "en": "Ba Thory"
  },
  {
   "id": "exe_20348",
@@ -2057,7 +2057,7 @@
    "exe:c:6b250/6b254"
   ],
   "jp": "ザック",
-  "en": ""
+  "en": "Zakk"
  },
  {
   "id": "exe_20350",
@@ -2069,7 +2069,7 @@
    "exe:c:6b294/6b298"
   ],
   "jp": "ブラド",
-  "en": ""
+  "en": "Blad"
  },
  {
   "id": "exe_20358",
@@ -2081,7 +2081,7 @@
    "exe:c:6b2d8/6b2dc"
   ],
   "jp": "ロス",
-  "en": ""
+  "en": "Ros"
  },
  {
   "id": "exe_20360",
@@ -2093,7 +2093,7 @@
    "exe:c:6b308/6b30c"
   ],
   "jp": "イダ",
-  "en": ""
+  "en": "Ida"
  },
  {
   "id": "exe_20368",
@@ -2105,7 +2105,7 @@
    "exe:c:6b338/6b33c"
   ],
   "jp": "サイクス",
-  "en": ""
+  "en": "Sykes"
  },
  {
   "id": "exe_20374",
@@ -2117,7 +2117,7 @@
    "exe:c:6b378/6b37c"
   ],
   "jp": "シェラ",
-  "en": ""
+  "en": "Shella"
  },
  {
   "id": "exe_2037c",
@@ -2129,7 +2129,7 @@
    "exe:c:6b3bc/6b3c0"
   ],
   "jp": "ラーズ",
-  "en": ""
+  "en": "Lars"
  },
  {
   "id": "exe_20384",
@@ -2141,7 +2141,7 @@
    "exe:c:6b400/6b404"
   ],
   "jp": "ヨーコ",
-  "en": ""
+  "en": "Yoko"
  },
  {
   "id": "exe_2038c",
@@ -2153,7 +2153,7 @@
    "exe:c:6b444/6b448"
   ],
   "jp": "ダーク・シュナイダー",
-  "en": ""
+  "en": "Dark Schneider"
  },
  {
   "id": "exe_203a4",
@@ -2165,7 +2165,7 @@
    "exe:c:6b4dc/6b4e0"
   ],
   "jp": "アーシェス・ネイ",
-  "en": ""
+  "en": "Arshes Nei"
  },
  {
   "id": "exe_203b8",
@@ -2177,7 +2177,7 @@
    "exe:c:6b53c/6b540"
   ],
   "jp": "カル＝ス",
-  "en": ""
+  "en": "Kall-Su"
  },
  {
   "id": "exe_203c4",
@@ -2189,7 +2189,7 @@
    "exe:c:6b5c8/6b5cc"
   ],
   "jp": "ヨシュア・ベラヒア",
-  "en": ""
+  "en": "Joshua Belahia"
  },
  {
   "id": "exe_203d8",
@@ -2201,7 +2201,7 @@
    "exe:c:6b63c/6b640"
   ],
   "jp": "シェン・カー",
-  "en": ""
+  "en": "Schen Kar"
  },
  {
   "id": "exe_203e8",
@@ -2213,7 +2213,7 @@
    "exe:c:6b690/6b694"
   ],
   "jp": "ヴァイ・ステアベ",
-  "en": ""
+  "en": "Vai Steave"
  },
  {
   "id": "exe_203fc",
@@ -2225,7 +2225,7 @@
    "exe:c:6b6f0/6b6f4"
   ],
   "jp": "ヨルグ・フィシス",
-  "en": ""
+  "en": "Jorg Fisis"
  },
  {
   "id": "exe_20410",
@@ -2237,7 +2237,7 @@
    "exe:c:6b750/6b754"
   ],
   "jp": "アンガス・ヤーン",
-  "en": ""
+  "en": "Angus Yarn"
  },
  {
   "id": "exe_20424",
@@ -2249,7 +2249,7 @@
    "exe:c:6b7b0/6b7b4"
   ],
   "jp": "カイ・ハーン",
-  "en": ""
+  "en": "Kai Harn"
  },
  {
   "id": "exe_20434",
@@ -2261,7 +2261,7 @@
    "exe:c:6b804/6b808"
   ],
   "jp": "シーン・ハリ",
-  "en": ""
+  "en": "Sean Ari"
  },
  {
   "id": "exe_20444",
@@ -2273,7 +2273,7 @@
    "exe:c:6b858/6b85c"
   ],
   "jp": "ダイ・アモン",
-  "en": ""
+  "en": "Di-Amon"
  },
  {
   "id": "exe_20454",
@@ -2285,7 +2285,7 @@
    "exe:c:6b8b0/6b8b4"
   ],
   "jp": "イングヴェイ・フォン・マルムスティーン",
-  "en": ""
+  "en": "Yngwei von Malmsteen"
  },
  {
   "id": "exe_2047c",
@@ -2297,7 +2297,7 @@
    "exe:c:6b98c/6b990"
   ],
   "jp": "ラン・ディ＝ローズ・シュタイン・ノイバウテン",
-  "en": ""
+  "en": "Ran Di-Rose Stein Neubauten"
  },
  {
   "id": "exe_204ac",
@@ -2309,7 +2309,7 @@
    "exe:c:6ba68/6ba6c"
   ],
   "jp": "ジオン・ゾル・ヴァンデンヴァーグ",
-  "en": ""
+  "en": "Zion Sol Vandenverg"
  },
  {
   "id": "exe_204d0",
@@ -2321,7 +2321,7 @@
    "exe:c:6bb28/6bb2c"
   ],
   "jp": "マカパイン・トーニ・シュトラウス",
-  "en": ""
+  "en": "Macalpine Toni Strauss"
  },
  {
   "id": "exe_204f4",
@@ -2333,7 +2333,7 @@
    "exe:c:6bbe8/6bbec"
   ],
   "jp": "ボル・ギル・ボル",
-  "en": ""
+  "en": "Bol Gil Bol"
  },
  {
   "id": "exe_20508",
@@ -2345,7 +2345,7 @@
    "exe:c:6bca0/6bca4"
   ],
   "jp": "ザック・ワルダー",
-  "en": ""
+  "en": "Zakk Walder"
  },
  {
   "id": "exe_2051c",
@@ -2357,7 +2357,7 @@
    "exe:c:6bd04/6bd08"
   ],
   "jp": "ブラド・キルス",
-  "en": ""
+  "en": "Blad Kills"
  },
  {
   "id": "exe_2052c",
@@ -2369,7 +2369,7 @@
    "exe:c:6bd68/6bd6c"
   ],
   "jp": "ロス・ザボス・フリードリッヒ",
-  "en": ""
+  "en": "Ros the Boss Friedrich"
  },
  {
   "id": "exe_2054c",
@@ -2381,7 +2381,7 @@
    "exe:c:6bdfc/6be00"
   ],
   "jp": "イダ・ディースナ",
-  "en": ""
+  "en": "Ida Deesna"
  },
  {
   "id": "exe_20560",
@@ -2393,7 +2393,7 @@
    "exe:c:6be60/6be64"
   ],
   "jp": "サイクス・フォン・スノーホワイト",
-  "en": ""
+  "en": "Sykes von Snowhite"
  },
  {
   "id": "exe_20584",
@@ -2405,7 +2405,7 @@
    "exe:c:6bf20/6bf24"
   ],
   "jp": "シェラ・イー・リー",
-  "en": ""
+  "en": "Shella E. Lee"
  },
  {
   "id": "exe_20598",
@@ -2417,7 +2417,7 @@
    "exe:c:6bf98/6bf9c"
   ],
   "jp": "ラーズ・ウル・メタ＝リカーナ",
-  "en": ""
+  "en": "Lars Ul Meta-llicana"
  },
  {
   "id": "exe_205b8",
@@ -2429,7 +2429,7 @@
    "exe:c:6c02c/6c030"
   ],
   "jp": "ティア・ノート・ヨーコ",
-  "en": ""
+  "en": "Tia Noto Yoko"
  },
  {
   "id": "exe_20ee0",
@@ -2441,7 +2441,7 @@
    "exe:d:944dc"
   ],
   "jp": "ヴァーチャー",
-  "en": ""
+  "en": "Virtue"
  },
  {
   "id": "exe_20ef0",
@@ -2453,7 +2453,7 @@
    "exe:d:944e0"
   ],
   "jp": "パワー",
-  "en": ""
+  "en": "Power"
  },
  {
   "id": "exe_20f30",
@@ -2465,7 +2465,7 @@
    "exe:d:94808"
   ],
   "jp": "バグバグバグバグバグバグバグバグ{n}バグバグバグバグバグバグ道具案内",
-  "en": ""
+  "en": "Bug Bug Bug Bug Bug Bug Bug{n}Item Guide Bug Bug Bug"
  },
  {
   "id": "exe_20f74",
@@ -2477,7 +2477,7 @@
    "exe:d:9480c"
   ],
   "jp": "ランク１　　ポールウエポン{n}無　両手主　重戦",
-  "en": ""
+  "en": "Rank 1 Polearm{n}Neutral Two-Hand Heavy"
  },
  {
   "id": "exe_20fa0",
@@ -2489,7 +2489,7 @@
    "exe:d:94810"
   ],
   "jp": "ランク２　　ポールウエポン{n}無　両手主　重戦",
-  "en": ""
+  "en": "Rank 2 Polearm{n}Neutral Two-Hand Heavy"
  },
  {
   "id": "exe_20fcc",
@@ -2501,7 +2501,7 @@
    "exe:d:94814"
   ],
   "jp": "ランク３　　ポールウエポン{n}無　両手主　重戦",
-  "en": ""
+  "en": "Rank 3 Polearm{n}Neutral Two-Hand Heavy"
  },
  {
   "id": "exe_20ff8",
@@ -2513,7 +2513,7 @@
    "exe:d:94818"
   ],
   "jp": "ランク５　　ポールウエポン{n}無　両手主　重戦",
-  "en": ""
+  "en": "Rank 5 Polearm{n}Neutral Two-Hand Heavy"
  },
  {
   "id": "exe_21024",
@@ -2525,7 +2525,7 @@
    "exe:d:9481c"
   ],
   "jp": "ランク８　　ポールウエポン{n}無　両手主　アンガス用",
-  "en": ""
+  "en": "Rank 8 Polearm{n}Neutral Two-Hand for Angus"
  },
  {
   "id": "exe_21058",
@@ -2537,7 +2537,7 @@
    "exe:d:94820"
   ],
   "jp": "ランク６　　ポールウエポン{n}火　両手主　重戦",
-  "en": ""
+  "en": "Rank 6 Polearm{n}Fire Two-Hand Heavy"
  },
  {
   "id": "exe_21084",
@@ -2549,7 +2549,7 @@
    "exe:d:94824"
   ],
   "jp": "ランク９　　ポールウエポン{n}闇　両手主　重戦",
-  "en": ""
+  "en": "Rank 9 Polearm{n}Dark Two-Hand Heavy"
  },
  {
   "id": "exe_210b0",
@@ -2561,7 +2561,7 @@
    "exe:d:94828"
   ],
   "jp": "ランク１　　重破砕武器{n}無　両手主　重戦",
-  "en": ""
+  "en": "Rank 1 Crusher{n}Neutral Two-Hand Heavy"
  },
  {
   "id": "exe_210d8",
@@ -2573,7 +2573,7 @@
    "exe:d:9482c"
   ],
   "jp": "ランク２　　重破砕武器{n}無　両手主　重戦",
-  "en": ""
+  "en": "Rank 2 Crusher{n}Neutral Two-Hand Heavy"
  },
  {
   "id": "exe_21100",
@@ -2585,7 +2585,7 @@
    "exe:d:94830"
   ],
   "jp": "ランク３　　重破砕武器{n}無　両手主　重戦",
-  "en": ""
+  "en": "Rank 3 Crusher{n}Neutral Two-Hand Heavy"
  },
  {
   "id": "exe_21128",
@@ -2597,7 +2597,7 @@
    "exe:d:94834"
   ],
   "jp": "ランク５　　重破砕武器{n}無　両手主　重戦",
-  "en": ""
+  "en": "Rank 5 Crusher{n}Neutral Two-Hand Heavy"
  },
  {
   "id": "exe_21150",
@@ -2609,7 +2609,7 @@
    "exe:d:94838"
   ],
   "jp": "ランク８　　重破砕武器{n}無　両手主　ブラド用",
-  "en": ""
+  "en": "Rank 8 Crusher{n}Neutral Two-Hand for Blad"
  },
  {
   "id": "exe_2117c",
@@ -2621,7 +2621,7 @@
    "exe:d:9483c"
   ],
   "jp": "ランク１　　大剣{n}無　両手主　重戦／剣士",
-  "en": ""
+  "en": "Rank 1 Great Sword{n}Neutral Two-Hand Heavy/Fencer"
  },
  {
   "id": "exe_211a4",
@@ -2633,7 +2633,7 @@
    "exe:d:94840"
   ],
   "jp": "ランク２　　大剣{n}無　両手主　重戦／剣士",
-  "en": ""
+  "en": "Rank 2 Great Sword{n}Neutral Two-Hand Heavy/Fencer"
  },
  {
   "id": "exe_211cc",
@@ -2645,7 +2645,7 @@
    "exe:d:94844"
   ],
   "jp": "ランク３　　大剣{n}無　両手主　重戦／剣士",
-  "en": ""
+  "en": "Rank 3 Great Sword{n}Neutral Two-Hand Heavy/Fencer"
  },
  {
   "id": "exe_211f4",
@@ -2657,7 +2657,7 @@
    "exe:d:94848"
   ],
   "jp": "ランク５　　大剣{n}無　両手主　重戦／剣士",
-  "en": ""
+  "en": "Rank 5 Great Sword{n}Neutral Two-Hand Heavy/Fencer"
  },
  {
   "id": "exe_2121c",
@@ -2669,7 +2669,7 @@
    "exe:d:9484c"
   ],
   "jp": "ランク６　　大剣{n}無　両手主　重戦／剣士",
-  "en": ""
+  "en": "Rank 6 Great Sword{n}Neutral Two-Hand Heavy/Fencer"
  },
  {
   "id": "exe_21244",
@@ -2681,7 +2681,7 @@
    "exe:d:94850"
   ],
   "jp": "ランク８　　大剣　貴重{n}火　両手主　重戦／剣士",
-  "en": ""
+  "en": "Rank 8 Great Sword (Rare){n}Fire Two-Hand Heavy/Fencer"
  },
  {
   "id": "exe_21274",
@@ -2693,7 +2693,7 @@
    "exe:d:94854"
   ],
   "jp": "ランク９　　大剣{n}水　両手主　重戦／剣士",
-  "en": ""
+  "en": "Rank 9 Great Sword{n}Water Two-Hand Heavy/Fencer"
  },
  {
   "id": "exe_2129c",
@@ -2705,7 +2705,7 @@
    "exe:d:94858"
   ],
   "jp": "ランク１　　長剣{n}無　片手主　剣士／魔剣",
-  "en": ""
+  "en": "Rank 1 Long Sword{n}Neutral Main Fencer/Mystic"
  },
  {
   "id": "exe_212c4",
@@ -2717,7 +2717,7 @@
    "exe:d:9485c"
   ],
   "jp": "ランク２　　長剣{n}無　片手主　剣士／魔剣",
-  "en": ""
+  "en": "Rank 2 Long Sword{n}Neutral Main Fencer/Mystic"
  },
  {
   "id": "exe_212ec",
@@ -2729,7 +2729,7 @@
    "exe:d:94860"
   ],
   "jp": "ランク３　　長剣{n}無　片手主　剣士／魔剣",
-  "en": ""
+  "en": "Rank 3 Long Sword{n}Neutral Main Fencer/Mystic"
  },
  {
   "id": "exe_21314",
@@ -2741,7 +2741,7 @@
    "exe:d:94864"
   ],
   "jp": "ランク５　　長剣{n}無　片手主　剣士／魔剣",
-  "en": ""
+  "en": "Rank 5 Long Sword{n}Neutral Main Fencer/Mystic"
  },
  {
   "id": "exe_2133c",
@@ -2753,7 +2753,7 @@
    "exe:d:94868"
   ],
   "jp": "ランク６　　長剣{n}無　片手主　剣士／魔剣",
-  "en": ""
+  "en": "Rank 6 Long Sword{n}Neutral Main Fencer/Mystic"
  },
  {
   "id": "exe_21364",
@@ -2765,7 +2765,7 @@
    "exe:d:9486c"
   ],
   "jp": "ランク８　　長剣{n}無　片手主　剣士／魔剣",
-  "en": ""
+  "en": "Rank 8 Long Sword{n}Neutral Main Fencer/Mystic"
  },
  {
   "id": "exe_2138c",
@@ -2777,7 +2777,7 @@
    "exe:d:94870"
   ],
   "jp": "ランク９　　長剣{n}闇　片手主　剣士／魔剣",
-  "en": ""
+  "en": "Rank 9 Long Sword{n}Dark Main Fencer/Mystic"
  },
  {
   "id": "exe_213b4",
@@ -2789,7 +2789,7 @@
    "exe:d:94874"
   ],
   "jp": "ランク１　　刀{n}無　片手主　侍／忍者",
-  "en": ""
+  "en": "Rank 1 Katana{n}Neutral Main Samurai/Ninja"
  },
  {
   "id": "exe_213d8",
@@ -2801,7 +2801,7 @@
    "exe:d:94878"
   ],
   "jp": "ランク２　　刀{n}無　片手主　侍／忍者",
-  "en": ""
+  "en": "Rank 2 Katana{n}Neutral Main Samurai/Ninja"
  },
  {
   "id": "exe_213fc",
@@ -2813,7 +2813,7 @@
    "exe:d:9487c"
   ],
   "jp": "ランク３　　刀{n}無　片手主　侍／忍者",
-  "en": ""
+  "en": "Rank 3 Katana{n}Neutral Main Samurai/Ninja"
  },
  {
   "id": "exe_21420",
@@ -2825,7 +2825,7 @@
    "exe:d:94880"
   ],
   "jp": "ランク５　　刀{n}無　片手主　侍／忍者",
-  "en": ""
+  "en": "Rank 5 Katana{n}Neutral Main Samurai/Ninja"
  },
  {
   "id": "exe_21444",
@@ -2837,7 +2837,7 @@
    "exe:d:94884"
   ],
   "jp": "ランク６　　刀{n}無　片手主　侍／忍者",
-  "en": ""
+  "en": "Rank 6 Katana{n}Neutral Main Samurai/Ninja"
  },
  {
   "id": "exe_21468",
@@ -2849,7 +2849,7 @@
    "exe:d:94888"
   ],
   "jp": "ランク８　　刀{n}闇　片手主　侍／忍者",
-  "en": ""
+  "en": "Rank 8 Katana{n}Dark Main Samurai/Ninja"
  },
  {
   "id": "exe_2148c",
@@ -2861,7 +2861,7 @@
    "exe:d:9488c"
   ],
   "jp": "ランク９　　刀{n}無　片手主　侍／忍者",
-  "en": ""
+  "en": "Rank 9 Katana{n}Neutral Main Samurai/Ninja"
  },
  {
   "id": "exe_214b0",
@@ -2873,7 +2873,7 @@
    "exe:d:94890"
   ],
   "jp": "ランク８　　刀{n}水　片手主　侍／忍者",
-  "en": ""
+  "en": "Rank 8 Katana{n}Water Main Samurai/Ninja"
  },
  {
   "id": "exe_214d4",
@@ -2885,7 +2885,7 @@
    "exe:d:94894"
   ],
   "jp": "ランク８　　刀{n}火　片手主　侍／忍者",
-  "en": ""
+  "en": "Rank 8 Katana{n}Fire Main Samurai/Ninja"
  },
  {
   "id": "exe_214f8",
@@ -2897,7 +2897,7 @@
    "exe:d:94898"
   ],
   "jp": "ランク１　　鉄拳{n}無　片手主　格闘",
-  "en": ""
+  "en": "Rank 1 Knuckles{n}Neutral Main Brawler"
  },
  {
   "id": "exe_2151c",
@@ -2909,7 +2909,7 @@
    "exe:d:9489c"
   ],
   "jp": "ランク２　　鉄拳{n}無　片手主　格闘",
-  "en": ""
+  "en": "Rank 2 Knuckles{n}Neutral Main Brawler"
  },
  {
   "id": "exe_21540",
@@ -2921,7 +2921,7 @@
    "exe:d:948a0"
   ],
   "jp": "ランク３　　鉄拳{n}無　片手主　格闘",
-  "en": ""
+  "en": "Rank 3 Knuckles{n}Neutral Main Brawler"
  },
  {
   "id": "exe_21564",
@@ -2933,7 +2933,7 @@
    "exe:d:948a4"
   ],
   "jp": "ランク５　　鉄拳{n}無　片手主　格闘",
-  "en": ""
+  "en": "Rank 5 Knuckles{n}Neutral Main Brawler"
  },
  {
   "id": "exe_21588",
@@ -2945,7 +2945,7 @@
    "exe:d:948a8"
   ],
   "jp": "ランク６　　鉄拳{n}無　片手主　格闘",
-  "en": ""
+  "en": "Rank 6 Knuckles{n}Neutral Main Brawler"
  },
  {
   "id": "exe_215ac",
@@ -2957,7 +2957,7 @@
    "exe:d:948ac"
   ],
   "jp": "ランク７　　鉄拳{n}無　片手主　格闘",
-  "en": ""
+  "en": "Rank 7 Knuckles{n}Neutral Main Brawler"
  },
  {
   "id": "exe_215d0",
@@ -2969,7 +2969,7 @@
    "exe:d:948b0"
   ],
   "jp": "ランク８　　鉄拳{n}無　片手主　格闘",
-  "en": ""
+  "en": "Rank 8 Knuckles{n}Neutral Main Brawler"
  },
  {
   "id": "exe_215f4",
@@ -2981,7 +2981,7 @@
    "exe:d:948b4"
   ],
   "jp": "ランク７　　杭{n}無　片手主　吸血",
-  "en": ""
+  "en": "Rank 7 Stake{n}Neutral Main Vampire"
  },
  {
   "id": "exe_21614",
@@ -2993,7 +2993,7 @@
    "exe:d:948b8"
   ],
   "jp": "ランク３　　杭{n}闇　片手主　吸血",
-  "en": ""
+  "en": "Rank 3 Stake{n}Dark Main Vampire"
  },
  {
   "id": "exe_21634",
@@ -3005,7 +3005,7 @@
    "exe:d:948bc"
   ],
   "jp": "ランク５　　杭{n}闇　片手主　吸血",
-  "en": ""
+  "en": "Rank 5 Stake{n}Dark Main Vampire"
  },
  {
   "id": "exe_21654",
@@ -3017,7 +3017,7 @@
    "exe:d:948c0"
   ],
   "jp": "ランク６　　杭{n}闇　片手主　吸血",
-  "en": ""
+  "en": "Rank 6 Stake{n}Dark Main Vampire"
  },
  {
   "id": "exe_21674",
@@ -3029,7 +3029,7 @@
    "exe:d:948c4"
   ],
   "jp": "ランク８　　杭{n}闇　片手主　ダイ専用",
-  "en": ""
+  "en": "Rank 8 Stake{n}Dark Main Di-Amon only"
  },
  {
   "id": "exe_21698",
@@ -3041,7 +3041,7 @@
    "exe:d:948c8"
   ],
   "jp": "ランク９　　杭{n}闇　片手主　ダイ専用",
-  "en": ""
+  "en": "Rank 9 Stake{n}Dark Main Di-Amon only"
  },
  {
   "id": "exe_216bc",
@@ -3053,7 +3053,7 @@
    "exe:d:948cc"
   ],
   "jp": "ランク１　　杖{n}無　片手主　魔使",
-  "en": ""
+  "en": "Rank 1 Staff{n}Neutral Main Mage"
  },
  {
   "id": "exe_216dc",
@@ -3065,7 +3065,7 @@
    "exe:d:948d0"
   ],
   "jp": "ランク２　　杖{n}無　片手主　魔使",
-  "en": ""
+  "en": "Rank 2 Staff{n}Neutral Main Mage"
  },
  {
   "id": "exe_216fc",
@@ -3077,7 +3077,7 @@
    "exe:d:948d4"
   ],
   "jp": "ランク３　　杖{n}地　片手主　魔使",
-  "en": ""
+  "en": "Rank 3 Staff{n}Earth Main Mage"
  },
  {
   "id": "exe_2171c",
@@ -3089,7 +3089,7 @@
    "exe:d:948d8"
   ],
   "jp": "ランク５　　杖{n}闇　片手主　魔使",
-  "en": ""
+  "en": "Rank 5 Staff{n}Dark Main Mage"
  },
  {
   "id": "exe_2173c",
@@ -3101,7 +3101,7 @@
    "exe:d:948dc"
   ],
   "jp": "ランク６　　杖{n}火　片手主　魔使",
-  "en": ""
+  "en": "Rank 6 Staff{n}Fire Main Mage"
  },
  {
   "id": "exe_2175c",
@@ -3113,7 +3113,7 @@
    "exe:d:948e0"
   ],
   "jp": "ランク８　　杖{n}無　片手主　魔使",
-  "en": ""
+  "en": "Rank 8 Staff{n}Neutral Main Mage"
  },
  {
   "id": "exe_2177c",
@@ -3125,7 +3125,7 @@
    "exe:d:948e4"
   ],
   "jp": "ランク８　　杖{n}水　片手主　魔使",
-  "en": ""
+  "en": "Rank 8 Staff{n}Water Main Mage"
  },
  {
   "id": "exe_2179c",
@@ -3137,7 +3137,7 @@
    "exe:d:948e8"
   ],
   "jp": "ランク９　　杖{n}風　片手主　魔使",
-  "en": ""
+  "en": "Rank 9 Staff{n}Wind Main Mage"
  },
  {
   "id": "exe_217bc",
@@ -3149,7 +3149,7 @@
    "exe:d:948ec"
   ],
   "jp": "ランク１　　細身剣{n}無　片手主　サイクス用",
-  "en": ""
+  "en": "Rank 1 Rapier{n}Neutral Main for Sykes"
  },
  {
   "id": "exe_217e8",
@@ -3161,7 +3161,7 @@
    "exe:d:948f0"
   ],
   "jp": "ランク２　　細身剣{n}無　片手主　サイクス用",
-  "en": ""
+  "en": "Rank 2 Rapier{n}Neutral Main for Sykes"
  },
  {
   "id": "exe_21814",
@@ -3173,7 +3173,7 @@
    "exe:d:948f4"
   ],
   "jp": "ランク３　　細身剣{n}無　片手主　サイクス用",
-  "en": ""
+  "en": "Rank 3 Rapier{n}Neutral Main for Sykes"
  },
  {
   "id": "exe_21840",
@@ -3185,7 +3185,7 @@
    "exe:d:948f8"
   ],
   "jp": "ランク５　　細身剣{n}無　片手主　サイクス用",
-  "en": ""
+  "en": "Rank 5 Rapier{n}Neutral Main for Sykes"
  },
  {
   "id": "exe_2186c",
@@ -3197,7 +3197,7 @@
    "exe:d:948fc"
   ],
   "jp": "ランク７　　細身剣{n}光　片手主　サイクス用",
-  "en": ""
+  "en": "Rank 7 Rapier{n}Light Main for Sykes"
  },
  {
   "id": "exe_21898",
@@ -3209,7 +3209,7 @@
    "exe:d:94900"
   ],
   "jp": "ランク６　　細身剣{n}闇　片手主　サイクス用",
-  "en": ""
+  "en": "Rank 6 Rapier{n}Dark Main for Sykes"
  },
  {
   "id": "exe_218c4",
@@ -3221,7 +3221,7 @@
    "exe:d:94904"
   ],
   "jp": "ランク２　　棍棒{n}無　片手主　シーン用",
-  "en": ""
+  "en": "Rank 2 Club{n}Neutral Main for Sean"
  },
  {
   "id": "exe_218ec",
@@ -3233,7 +3233,7 @@
    "exe:d:94908"
   ],
   "jp": "ランク３　　棍棒{n}無　片手主　シーン用",
-  "en": ""
+  "en": "Rank 3 Club{n}Neutral Main for Sean"
  },
  {
   "id": "exe_21914",
@@ -3245,7 +3245,7 @@
    "exe:d:9490c"
   ],
   "jp": "ランク５　　棍棒{n}無　片手主　シーン用",
-  "en": ""
+  "en": "Rank 5 Club{n}Neutral Main for Sean"
  },
  {
   "id": "exe_2193c",
@@ -3257,7 +3257,7 @@
    "exe:d:94910"
   ],
   "jp": "ランク６　　棍棒{n}無　片手主　シーン用",
-  "en": ""
+  "en": "Rank 6 Club{n}Neutral Main for Sean"
  },
  {
   "id": "exe_21964",
@@ -3269,7 +3269,7 @@
    "exe:d:94914"
   ],
   "jp": "ランク８　　棍棒{n}無　片手主　シーン専用",
-  "en": ""
+  "en": "Rank 8 Club{n}Neutral Main Sean only"
  },
  {
   "id": "exe_2198c",
@@ -3281,7 +3281,7 @@
    "exe:d:94918"
   ],
   "jp": "ランク９　　棍棒{n}無　片手主　シーン専用",
-  "en": ""
+  "en": "Rank 9 Club{n}Neutral Main Sean only"
  },
  {
   "id": "exe_219b4",
@@ -3293,7 +3293,7 @@
    "exe:d:9491c"
   ],
   "jp": "ランク２　　呪符{n}無　片手主　シーン専用",
-  "en": ""
+  "en": "Rank 2 Talisman{n}Neutral Main Sean only"
  },
  {
   "id": "exe_219dc",
@@ -3305,7 +3305,7 @@
    "exe:d:94920"
   ],
   "jp": "ランク３　　呪符{n}無　片手主　シーン専用",
-  "en": ""
+  "en": "Rank 3 Talisman{n}Neutral Main Sean only"
  },
  {
   "id": "exe_21a04",
@@ -3317,7 +3317,7 @@
    "exe:d:94924"
   ],
   "jp": "ランク５　　呪符{n}無　片手主　シーン専用",
-  "en": ""
+  "en": "Rank 5 Talisman{n}Neutral Main Sean only"
  },
  {
   "id": "exe_21a2c",
@@ -3329,7 +3329,7 @@
    "exe:d:94928"
   ],
   "jp": "ランク６　　呪符{n}無　片手主　シーン専用",
-  "en": ""
+  "en": "Rank 6 Talisman{n}Neutral Main Sean only"
  },
  {
   "id": "exe_21a54",
@@ -3341,7 +3341,7 @@
    "exe:d:9492c"
   ],
   "jp": "ランク７　　呪符{n}無　片手主　シーン専用",
-  "en": ""
+  "en": "Rank 7 Talisman{n}Neutral Main Sean only"
  },
  {
   "id": "exe_21a7c",
@@ -3353,7 +3353,7 @@
    "exe:d:94930"
   ],
   "jp": "ランク２　　扇{n}無　片手主　イダ用",
-  "en": ""
+  "en": "Rank 2 Fan{n}Neutral Main for Ida"
  },
  {
   "id": "exe_21aa0",
@@ -3365,7 +3365,7 @@
    "exe:d:94934"
   ],
   "jp": "ランク３　　扇{n}無　片手主　イダ用",
-  "en": ""
+  "en": "Rank 3 Fan{n}Neutral Main for Ida"
  },
  {
   "id": "exe_21ac4",
@@ -3377,7 +3377,7 @@
    "exe:d:94938"
   ],
   "jp": "ランク５　　扇{n}無　片手主　イダ用",
-  "en": ""
+  "en": "Rank 5 Fan{n}Neutral Main for Ida"
  },
  {
   "id": "exe_21ae8",
@@ -3389,7 +3389,7 @@
    "exe:d:9493c"
   ],
   "jp": "ランク６　　扇{n}無　片手主　イダ用",
-  "en": ""
+  "en": "Rank 6 Fan{n}Neutral Main for Ida"
  },
  {
   "id": "exe_21b0c",
@@ -3401,7 +3401,7 @@
    "exe:d:94940"
   ],
   "jp": "ランク７　　扇{n}無　片手主　イダ専用",
-  "en": ""
+  "en": "Rank 7 Fan{n}Neutral Main Ida only"
  },
  {
   "id": "exe_21b30",
@@ -3414,7 +3414,7 @@
    "exe:d:94f34"
   ],
   "jp": "ランク９　　扇{n}無　片手主　イダ専用",
-  "en": ""
+  "en": "Rank 9 Fan{n}Neutral Main Ida only"
  },
  {
   "id": "exe_21b54",
@@ -3426,7 +3426,7 @@
    "exe:d:94948"
   ],
   "jp": "ランク１　　竪琴{n}無　片手主　シェラ用",
-  "en": ""
+  "en": "Rank 1 Lyre{n}Neutral Main for Shella"
  },
  {
   "id": "exe_21b7c",
@@ -3438,7 +3438,7 @@
    "exe:d:9494c"
   ],
   "jp": "ランク２　　竪琴{n}無　片手主　シェラ用",
-  "en": ""
+  "en": "Rank 2 Lyre{n}Neutral Main for Shella"
  },
  {
   "id": "exe_21ba4",
@@ -3450,7 +3450,7 @@
    "exe:d:94950"
   ],
   "jp": "ランク３　　竪琴{n}無　片手主　シェラ用",
-  "en": ""
+  "en": "Rank 3 Lyre{n}Neutral Main for Shella"
  },
  {
   "id": "exe_21bcc",
@@ -3462,7 +3462,7 @@
    "exe:d:94954"
   ],
   "jp": "ランク５　　竪琴{n}水　片手主　シェラ用",
-  "en": ""
+  "en": "Rank 5 Lyre{n}Water Main for Shella"
  },
  {
   "id": "exe_21bf4",
@@ -3474,7 +3474,7 @@
    "exe:d:94958"
   ],
   "jp": "ランク６　　竪琴{n}無　片手主　シェラ用",
-  "en": ""
+  "en": "Rank 6 Lyre{n}Neutral Main for Shella"
  },
  {
   "id": "exe_21c1c",
@@ -3486,7 +3486,7 @@
    "exe:d:9495c"
   ],
   "jp": "ランク７　　竪琴{n}風　片手主　シェラ専用",
-  "en": ""
+  "en": "Rank 7 Lyre{n}Wind Main Shella only"
  },
  {
   "id": "exe_21c44",
@@ -3498,7 +3498,7 @@
    "exe:d:94960"
   ],
   "jp": "ランク８　　竪琴{n}光　片手主　シェラ用",
-  "en": ""
+  "en": "Rank 8 Lyre{n}Light Main for Shella"
  },
  {
   "id": "exe_21c6c",
@@ -3511,7 +3511,7 @@
    "exe:d:94c30"
   ],
   "jp": "ランク１　　脇差{n}無　片手副　侍",
-  "en": ""
+  "en": "Rank 1 Wakizashi{n}Neutral Off Samurai"
  },
  {
   "id": "exe_21c8c",
@@ -3524,7 +3524,7 @@
    "exe:d:94c34"
   ],
   "jp": "ランク２　　脇差{n}無　片手副　侍",
-  "en": ""
+  "en": "Rank 2 Wakizashi{n}Neutral Off Samurai"
  },
  {
   "id": "exe_21cac",
@@ -3537,7 +3537,7 @@
    "exe:d:94c38"
   ],
   "jp": "ランク３　　脇差{n}無　片手副　侍",
-  "en": ""
+  "en": "Rank 3 Wakizashi{n}Neutral Off Samurai"
  },
  {
   "id": "exe_21ccc",
@@ -3549,7 +3549,7 @@
    "exe:d:94970"
   ],
   "jp": "ランク５　　脇差{n}無　片手副　侍",
-  "en": ""
+  "en": "Rank 5 Wakizashi{n}Neutral Off Samurai"
  },
  {
   "id": "exe_21cec",
@@ -3561,7 +3561,7 @@
    "exe:d:94974"
   ],
   "jp": "ランク６　　脇差{n}水　片手副　侍",
-  "en": ""
+  "en": "Rank 6 Wakizashi{n}Water Off Samurai"
  },
  {
   "id": "exe_21d0c",
@@ -3574,7 +3574,7 @@
    "exe:d:94bf4"
   ],
   "jp": "ランク１　　ショートソード{n}無　片手副　剣士",
-  "en": ""
+  "en": "Rank 1 Short Sword{n}Neutral Off Fencer"
  },
  {
   "id": "exe_21d38",
@@ -3587,7 +3587,7 @@
    "exe:d:94bf8"
   ],
   "jp": "ランク２　　ショートソード{n}無　片手副　剣士",
-  "en": ""
+  "en": "Rank 2 Short Sword{n}Neutral Off Fencer"
  },
  {
   "id": "exe_21d64",
@@ -3600,7 +3600,7 @@
    "exe:d:94bfc"
   ],
   "jp": "ランク３　　ショートソード{n}無　片手副　剣士",
-  "en": ""
+  "en": "Rank 3 Short Sword{n}Neutral Off Fencer"
  },
  {
   "id": "exe_21d90",
@@ -3613,7 +3613,7 @@
    "exe:d:94c00"
   ],
   "jp": "ランク５　　ショートソード{n}無　片手副　剣士",
-  "en": ""
+  "en": "Rank 5 Short Sword{n}Neutral Off Fencer"
  },
  {
   "id": "exe_21dbc",
@@ -3625,7 +3625,7 @@
    "exe:d:94988"
   ],
   "jp": "ランク６　　ショートソード{n}火　片手副　剣士",
-  "en": ""
+  "en": "Rank 6 Short Sword{n}Fire Off Fencer"
  },
  {
   "id": "exe_21de8",
@@ -3637,7 +3637,7 @@
    "exe:d:9498c"
   ],
   "jp": "ランク１　　忍び武器{n}無　片手副　忍者",
-  "en": ""
+  "en": "Rank 1 Ninja Tool{n}Neutral Off Ninja"
  },
  {
   "id": "exe_21e10",
@@ -3649,7 +3649,7 @@
    "exe:d:94990"
   ],
   "jp": "ランク２　　忍び武器{n}無　片手副　忍者",
-  "en": ""
+  "en": "Rank 2 Ninja Tool{n}Neutral Off Ninja"
  },
  {
   "id": "exe_21e38",
@@ -3661,7 +3661,7 @@
    "exe:d:94994"
   ],
   "jp": "ランク３　　忍び武器{n}無　片手副　忍者",
-  "en": ""
+  "en": "Rank 3 Ninja Tool{n}Neutral Off Ninja"
  },
  {
   "id": "exe_21e60",
@@ -3673,7 +3673,7 @@
    "exe:d:94998"
   ],
   "jp": "ランク５　　忍び武器{n}無　片手副　忍者",
-  "en": ""
+  "en": "Rank 5 Ninja Tool{n}Neutral Off Ninja"
  },
  {
   "id": "exe_21e88",
@@ -3685,7 +3685,7 @@
    "exe:d:9499c"
   ],
   "jp": "ランク６　　忍び武器{n}地　片手副　忍者",
-  "en": ""
+  "en": "Rank 6 Ninja Tool{n}Earth Off Ninja"
  },
  {
   "id": "exe_21eb0",
@@ -3697,7 +3697,7 @@
    "exe:d:949a0"
   ],
   "jp": "ランク７　　忍び武器{n}無　片手副　忍者",
-  "en": ""
+  "en": "Rank 7 Ninja Tool{n}Neutral Off Ninja"
  },
  {
   "id": "exe_21ed8",
@@ -3709,7 +3709,7 @@
    "exe:d:949a4"
   ],
   "jp": "ランク１　　短剣{n}無　片手副　魔剣／格闘／魔使",
-  "en": ""
+  "en": "Rank 1 Dagger{n}Neutral Off Mystic/Brawler/Mage"
  },
  {
   "id": "exe_21f08",
@@ -3721,7 +3721,7 @@
    "exe:d:949a8"
   ],
   "jp": "ランク２　　短剣{n}無　片手副　魔剣／格闘／魔使",
-  "en": ""
+  "en": "Rank 2 Dagger{n}Neutral Off Mystic/Brawler/Mage"
  },
  {
   "id": "exe_21f38",
@@ -3733,7 +3733,7 @@
    "exe:d:949ac"
   ],
   "jp": "ランク３　　短剣{n}無　片手副　魔剣／格闘／魔使",
-  "en": ""
+  "en": "Rank 3 Dagger{n}Neutral Off Mystic/Brawler/Mage"
  },
  {
   "id": "exe_21f68",
@@ -3746,7 +3746,7 @@
    "exe:d:94c08"
   ],
   "jp": "ランク５　　短剣{n}無　片手副　魔剣／格闘／魔使",
-  "en": ""
+  "en": "Rank 5 Dagger{n}Neutral Off Mystic/Brawler/Mage"
  },
  {
   "id": "exe_21f98",
@@ -3759,7 +3759,7 @@
    "exe:d:94c0c"
   ],
   "jp": "ランク６　　短剣{n}無　片手副　魔剣／格闘／魔使",
-  "en": ""
+  "en": "Rank 6 Dagger{n}Neutral Off Mystic/Brawler/Mage"
  },
  {
   "id": "exe_21fc8",
@@ -3771,7 +3771,7 @@
    "exe:d:949b8"
   ],
   "jp": "ランク７　　短剣{n}地　片手副　魔剣／格闘／魔使",
-  "en": ""
+  "en": "Rank 7 Dagger{n}Earth Off Mystic/Brawler/Mage"
  },
  {
   "id": "exe_21ff8",
@@ -3783,7 +3783,7 @@
    "exe:d:949bc"
   ],
   "jp": "ランク２　　聖なる品{n}無　片手副　吸血",
-  "en": ""
+  "en": "Rank 2 Holy Item{n}Neutral Off Vampire"
  },
  {
   "id": "exe_22020",
@@ -3795,7 +3795,7 @@
    "exe:d:949c0"
   ],
   "jp": "ランク３　　聖なる品{n}光　片手副　吸血",
-  "en": ""
+  "en": "Rank 3 Holy Item{n}Light Off Vampire"
  },
  {
   "id": "exe_22048",
@@ -3807,7 +3807,7 @@
    "exe:d:949c4"
   ],
   "jp": "ランク５　　聖なる品{n}光　片手副　吸血",
-  "en": ""
+  "en": "Rank 5 Holy Item{n}Light Off Vampire"
  },
  {
   "id": "exe_22070",
@@ -3819,7 +3819,7 @@
    "exe:d:949c8"
   ],
   "jp": "ランク６　　聖なる品{n}光　片手副　吸血",
-  "en": ""
+  "en": "Rank 6 Holy Item{n}Light Off Vampire"
  },
  {
   "id": "exe_22098",
@@ -3831,7 +3831,7 @@
    "exe:d:949cc"
   ],
   "jp": "ランク１　　盾{n}無　盾　ラン用",
-  "en": ""
+  "en": "Rank 1 Shield{n}Neutral Shield for Ran"
  },
  {
   "id": "exe_220b8",
@@ -3843,7 +3843,7 @@
    "exe:d:949d0"
   ],
   "jp": "ランク２　　盾{n}無　盾　ラン用",
-  "en": ""
+  "en": "Rank 2 Shield{n}Neutral Shield for Ran"
  },
  {
   "id": "exe_220d8",
@@ -3855,7 +3855,7 @@
    "exe:d:949d4"
   ],
   "jp": "ランク３　　盾{n}無　盾　ラン用",
-  "en": ""
+  "en": "Rank 3 Shield{n}Neutral Shield for Ran"
  },
  {
   "id": "exe_220f8",
@@ -3867,7 +3867,7 @@
    "exe:d:949d8"
   ],
   "jp": "ランク５　　盾{n}無　盾　ラン用",
-  "en": ""
+  "en": "Rank 5 Shield{n}Neutral Shield for Ran"
  },
  {
   "id": "exe_22118",
@@ -3879,7 +3879,7 @@
    "exe:d:949dc"
   ],
   "jp": "ランク６　　盾{n}無　盾　ラン用",
-  "en": ""
+  "en": "Rank 6 Shield{n}Neutral Shield for Ran"
  },
  {
   "id": "exe_22138",
@@ -3891,7 +3891,7 @@
    "exe:d:949e0"
   ],
   "jp": "ランク７　　盾{n}水　盾　ラン用",
-  "en": ""
+  "en": "Rank 7 Shield{n}Water Shield for Ran"
  },
  {
   "id": "exe_22158",
@@ -3903,7 +3903,7 @@
    "exe:d:949e4"
   ],
   "jp": "ランク１　　妖斬糸{n}無　片手兼　マカパイン用",
-  "en": ""
+  "en": "Rank 1 Wire{n}Neutral Either for Macalpine"
  },
  {
   "id": "exe_22184",
@@ -3915,7 +3915,7 @@
    "exe:d:949e8"
   ],
   "jp": "ランク２　　妖斬糸{n}無　片手兼　マカパイン用",
-  "en": ""
+  "en": "Rank 2 Wire{n}Neutral Either for Macalpine"
  },
  {
   "id": "exe_221b0",
@@ -3927,7 +3927,7 @@
    "exe:d:949ec"
   ],
   "jp": "ランク３　　妖斬糸{n}無　片手兼　マカパイン用",
-  "en": ""
+  "en": "Rank 3 Wire{n}Neutral Either for Macalpine"
  },
  {
   "id": "exe_221dc",
@@ -3939,7 +3939,7 @@
    "exe:d:949f0"
   ],
   "jp": "ランク５　　妖斬糸{n}無　片手兼　マカパイン用",
-  "en": ""
+  "en": "Rank 5 Wire{n}Neutral Either for Macalpine"
  },
  {
   "id": "exe_22208",
@@ -3951,7 +3951,7 @@
    "exe:d:949f4"
   ],
   "jp": "ランク６　　妖斬糸{n}無　片手兼　マカパイン用",
-  "en": ""
+  "en": "Rank 6 Wire{n}Neutral Either for Macalpine"
  },
  {
   "id": "exe_22234",
@@ -3963,7 +3963,7 @@
    "exe:d:949f8"
   ],
   "jp": "ランク７　　妖斬糸{n}無　片手兼　マカパイン用",
-  "en": ""
+  "en": "Rank 7 Wire{n}Neutral Either for Macalpine"
  },
  {
   "id": "exe_22260",
@@ -3975,7 +3975,7 @@
    "exe:d:949fc"
   ],
   "jp": "ランク８　　妖斬糸{n}地　片手兼　マカパイン用",
-  "en": ""
+  "en": "Rank 8 Wire{n}Earth Either for Macalpine"
  },
  {
   "id": "exe_2228c",
@@ -3987,7 +3987,7 @@
    "exe:d:94a00"
   ],
   "jp": "ランク１　　フルプレート{n}無　鎧　重戦",
-  "en": ""
+  "en": "Rank 1 Full Plate{n}Neutral Armor Heavy"
  },
  {
   "id": "exe_222b4",
@@ -3999,7 +3999,7 @@
    "exe:d:94a04"
   ],
   "jp": "ランク２　　フルプレート{n}無　鎧　重戦",
-  "en": ""
+  "en": "Rank 2 Full Plate{n}Neutral Armor Heavy"
  },
  {
   "id": "exe_222dc",
@@ -4011,7 +4011,7 @@
    "exe:d:94a08"
   ],
   "jp": "ランク３　　フルプレート{n}無　鎧　重戦",
-  "en": ""
+  "en": "Rank 3 Full Plate{n}Neutral Armor Heavy"
  },
  {
   "id": "exe_22304",
@@ -4023,7 +4023,7 @@
    "exe:d:94a0c"
   ],
   "jp": "ランク５　　フルプレート{n}無　鎧　重戦",
-  "en": ""
+  "en": "Rank 5 Full Plate{n}Neutral Armor Heavy"
  },
  {
   "id": "exe_2232c",
@@ -4035,7 +4035,7 @@
    "exe:d:94a10"
   ],
   "jp": "ランク６　　フルプレート{n}無　鎧　重戦",
-  "en": ""
+  "en": "Rank 6 Full Plate{n}Neutral Armor Heavy"
  },
  {
   "id": "exe_22354",
@@ -4047,7 +4047,7 @@
    "exe:d:94a14"
   ],
   "jp": "ランク１　　ハーフプレート{n}無　鎧　重戦／剣士",
-  "en": ""
+  "en": "Rank 1 Half Plate{n}Neutral Armor Heavy/Fencer"
  },
  {
   "id": "exe_22384",
@@ -4059,7 +4059,7 @@
    "exe:d:94a18"
   ],
   "jp": "ランク２　　ハーフプレート{n}無　鎧　重戦／剣士",
-  "en": ""
+  "en": "Rank 2 Half Plate{n}Neutral Armor Heavy/Fencer"
  },
  {
   "id": "exe_223b4",
@@ -4071,7 +4071,7 @@
    "exe:d:94a1c"
   ],
   "jp": "ランク３　　ハーフプレート{n}無　鎧　重戦／剣士",
-  "en": ""
+  "en": "Rank 3 Half Plate{n}Neutral Armor Heavy/Fencer"
  },
  {
   "id": "exe_223e4",
@@ -4083,7 +4083,7 @@
    "exe:d:94a20"
   ],
   "jp": "ランク５　　ハーフプレート{n}水　鎧　重戦／剣士",
-  "en": ""
+  "en": "Rank 5 Half Plate{n}Water Armor Heavy/Fencer"
  },
  {
   "id": "exe_22414",
@@ -4095,7 +4095,7 @@
    "exe:d:94a24"
   ],
   "jp": "ランク６　　ハーフプレート{n}火　鎧　重戦／剣士",
-  "en": ""
+  "en": "Rank 6 Half Plate{n}Fire Armor Heavy/Fencer"
  },
  {
   "id": "exe_22444",
@@ -4107,7 +4107,7 @@
    "exe:d:94a28"
   ],
   "jp": "ランク１　　ブレストプレート{n}無　鎧　侍／忍者／魔剣",
-  "en": ""
+  "en": "Rank 1 Breastplate{n}Neutral Armor Samurai/Ninja/Mystic"
  },
  {
   "id": "exe_22478",
@@ -4119,7 +4119,7 @@
    "exe:d:94a2c"
   ],
   "jp": "ランク２　　ブレストプレート{n}無　鎧　侍／忍者／魔剣",
-  "en": ""
+  "en": "Rank 2 Breastplate{n}Neutral Armor Samurai/Ninja/Mystic"
  },
  {
   "id": "exe_224ac",
@@ -4131,7 +4131,7 @@
    "exe:d:94a30"
   ],
   "jp": "ランク３　　ブレストプレート{n}無　鎧　侍／忍者／魔剣",
-  "en": ""
+  "en": "Rank 3 Breastplate{n}Neutral Armor Samurai/Ninja/Mystic"
  },
  {
   "id": "exe_224e0",
@@ -4143,7 +4143,7 @@
    "exe:d:94a34"
   ],
   "jp": "ランク５　　ブレストプレート{n}無　鎧　侍／忍者／魔剣",
-  "en": ""
+  "en": "Rank 5 Breastplate{n}Neutral Armor Samurai/Ninja/Mystic"
  },
  {
   "id": "exe_22514",
@@ -4155,7 +4155,7 @@
    "exe:d:94a38"
   ],
   "jp": "ランク６　　ブレストプレート{n}無　鎧　侍",
-  "en": ""
+  "en": "Rank 6 Breastplate{n}Neutral Armor Samurai"
  },
  {
   "id": "exe_2253c",
@@ -4167,7 +4167,7 @@
    "exe:d:94a3c"
   ],
   "jp": "ランク１　　レザーアーマー{n}無　鎧　侍／忍者／魔剣／格闘",
-  "en": ""
+  "en": "Rank 1 Leather{n}Neutral Samurai/Ninja/Mystic/Brawler"
  },
  {
   "id": "exe_22574",
@@ -4179,7 +4179,7 @@
    "exe:d:94a40"
   ],
   "jp": "ランク２　　レザーアーマー{n}無　鎧　侍／忍者／魔剣／格闘",
-  "en": ""
+  "en": "Rank 2 Leather{n}Neutral Samurai/Ninja/Mystic/Brawler"
  },
  {
   "id": "exe_225ac",
@@ -4191,7 +4191,7 @@
    "exe:d:94a44"
   ],
   "jp": "ランク３　　レザーアーマー{n}無　鎧　侍／忍者／魔剣／格闘",
-  "en": ""
+  "en": "Rank 3 Leather{n}Neutral Samurai/Ninja/Mystic/Brawler"
  },
  {
   "id": "exe_225e4",
@@ -4203,7 +4203,7 @@
    "exe:d:94a48"
   ],
   "jp": "ランク５　　レザーアーマー{n}無　鎧　侍／忍者／魔剣／格闘",
-  "en": ""
+  "en": "Rank 5 Leather{n}Neutral Samurai/Ninja/Mystic/Brawler"
  },
  {
   "id": "exe_2261c",
@@ -4215,7 +4215,7 @@
    "exe:d:94a4c"
   ],
   "jp": "ランク６　　レザーアーマー{n}無　鎧　侍／忍者／魔剣／格闘",
-  "en": ""
+  "en": "Rank 6 Leather{n}Neutral Samurai/Ninja/Mystic/Brawler"
  },
  {
   "id": "exe_22654",
@@ -4227,7 +4227,7 @@
    "exe:d:94a50"
   ],
   "jp": "ランク２　　マント{n}無　鎧　吸血",
-  "en": ""
+  "en": "Rank 2 Cloak{n}Neutral Armor Vampire"
  },
  {
   "id": "exe_22674",
@@ -4239,7 +4239,7 @@
    "exe:d:94a54"
   ],
   "jp": "ランク３　　マント{n}闇　鎧　吸血",
-  "en": ""
+  "en": "Rank 3 Cloak{n}Dark Armor Vampire"
  },
  {
   "id": "exe_22694",
@@ -4251,7 +4251,7 @@
    "exe:d:94a58"
   ],
   "jp": "ランク５　　マント{n}闇　鎧　吸血",
-  "en": ""
+  "en": "Rank 5 Cloak{n}Dark Armor Vampire"
  },
  {
   "id": "exe_226b4",
@@ -4263,7 +4263,7 @@
    "exe:d:94a5c"
   ],
   "jp": "ランク６　　マント{n}闇　鎧　吸血",
-  "en": ""
+  "en": "Rank 6 Cloak{n}Dark Armor Vampire"
  },
  {
   "id": "exe_226d4",
@@ -4275,7 +4275,7 @@
    "exe:d:94a60"
   ],
   "jp": "ランク７　　マント{n}闇　鎧　吸血",
-  "en": ""
+  "en": "Rank 7 Cloak{n}Dark Armor Vampire"
  },
  {
   "id": "exe_226f4",
@@ -4287,7 +4287,7 @@
    "exe:d:94a64"
   ],
   "jp": "ランク１　　ローブ{n}無　鎧　魔使",
-  "en": ""
+  "en": "Rank 1 Robe{n}Neutral Armor Mage"
  },
  {
   "id": "exe_22714",
@@ -4299,7 +4299,7 @@
    "exe:d:94a68"
   ],
   "jp": "ランク２　　ローブ{n}無　鎧　魔使",
-  "en": ""
+  "en": "Rank 2 Robe{n}Neutral Armor Mage"
  },
  {
   "id": "exe_22734",
@@ -4311,7 +4311,7 @@
    "exe:d:94a6c"
   ],
   "jp": "ランク３　　ローブ{n}無　鎧　魔使",
-  "en": ""
+  "en": "Rank 3 Robe{n}Neutral Armor Mage"
  },
  {
   "id": "exe_22754",
@@ -4323,7 +4323,7 @@
    "exe:d:94a70"
   ],
   "jp": "ランク５　　ローブ{n}無　鎧　魔使",
-  "en": ""
+  "en": "Rank 5 Robe{n}Neutral Armor Mage"
  },
  {
   "id": "exe_22774",
@@ -4335,7 +4335,7 @@
    "exe:d:94a74"
   ],
   "jp": "ランク６　　ローブ{n}光　鎧　魔使",
-  "en": ""
+  "en": "Rank 6 Robe{n}Light Armor Mage"
  },
  {
   "id": "exe_22794",
@@ -4347,7 +4347,7 @@
    "exe:d:94a78"
   ],
   "jp": "ランク８　　ローブ{n}無　鎧　魔使",
-  "en": ""
+  "en": "Rank 8 Robe{n}Neutral Armor Mage"
  },
  {
   "id": "exe_227b4",
@@ -4359,7 +4359,7 @@
    "exe:d:94a7c"
   ],
   "jp": "ランク９　　長剣{n}火　片手主　ＤＳ専用",
-  "en": ""
+  "en": "Rank 9 Long Sword{n}Fire Main D.S. only"
  },
  {
   "id": "exe_227dc",
@@ -4372,7 +4372,7 @@
    "exe:d:94f30"
   ],
   "jp": "ランク９　　ブレストプレート{n}火　鎧　ＤＳ専用",
-  "en": ""
+  "en": "Rank 9 Breastplate{n}Fire Armor D.S. only"
  },
  {
   "id": "exe_2280c",
@@ -4384,7 +4384,7 @@
    "exe:d:94a84"
   ],
   "jp": "ランク９　　フルプレート{n}闇　鎧　ＤＳ専用",
-  "en": ""
+  "en": "Rank 9 Full Plate{n}Dark Armor D.S. only"
  },
  {
   "id": "exe_22838",
@@ -4396,7 +4396,7 @@
    "exe:d:94a88"
   ],
   "jp": "ランク７　　刀{n}地　片手主　ガラ専用",
-  "en": ""
+  "en": "Rank 7 Katana{n}Earth Main Gara only"
  },
  {
   "id": "exe_2285c",
@@ -4409,7 +4409,7 @@
    "exe:d:94a90"
   ],
   "jp": "ランク５　　ブレストプレート{n}風　鎧　ガラ専用",
-  "en": ""
+  "en": "Rank 5 Breastplate{n}Wind Armor Gara only"
  },
  {
   "id": "exe_2288c",
@@ -4422,7 +4422,7 @@
    "exe:d:94f48"
   ],
   "jp": "ランク９　　刀{n}地　片手主　ガラ専用",
-  "en": ""
+  "en": "Rank 9 Katana{n}Earth Main Gara only"
  },
  {
   "id": "exe_228b0",
@@ -4434,7 +4434,7 @@
    "exe:d:94a98"
   ],
   "jp": "ランク９　　ブレストプレート{n}風　鎧　ガラ専用",
-  "en": ""
+  "en": "Rank 9 Breastplate{n}Wind Armor Gara only"
  },
  {
   "id": "exe_228e0",
@@ -4446,7 +4446,7 @@
    "exe:d:94a9c"
   ],
   "jp": "ランク８　　長剣{n}風　片手主　ネイ専用",
-  "en": ""
+  "en": "Rank 8 Long Sword{n}Wind Main Nei only"
  },
  {
   "id": "exe_22908",
@@ -4458,7 +4458,7 @@
    "exe:d:94aa0"
   ],
   "jp": "ランク７　　ハーフプレート{n}無　鎧　バ・ソリー専用",
-  "en": ""
+  "en": "Rank 7 Half Plate{n}Neutral Armor Ba Thory only"
  },
  {
   "id": "exe_2293c",
@@ -4471,7 +4471,7 @@
    "exe:d:94f44"
   ],
   "jp": "ランク９　　長剣{n}水　片手主　カル専用",
-  "en": ""
+  "en": "Rank 9 Long Sword{n}Water Main Kall only"
  },
  {
   "id": "exe_22964",
@@ -4483,7 +4483,7 @@
    "exe:d:94aa8"
   ],
   "jp": "ランク９　　ブレストプレート{n}無　鎧　カル専用",
-  "en": ""
+  "en": "Rank 9 Breastplate{n}Neutral Armor Kall only"
  },
  {
   "id": "exe_22994",
@@ -4495,7 +4495,7 @@
    "exe:d:94aac"
   ],
   "jp": "ランク９　　杖{n}無　片手主　アビゲイル専用",
-  "en": ""
+  "en": "Rank 9 Staff{n}Neutral Main Abigail only"
  },
  {
   "id": "exe_229c0",
@@ -4507,7 +4507,7 @@
    "exe:d:94ab0"
   ],
   "jp": "ランク９　　ブレストプレート{n}闇　鎧　アビゲイル専用",
-  "en": ""
+  "en": "Rank 9 Breastplate{n}Dark Armor Abigail only"
  },
  {
   "id": "exe_229f4",
@@ -4519,7 +4519,7 @@
    "exe:d:94ab4"
   ],
   "jp": "ランク８　　杖{n}闇　片手主　アビゲイル専用",
-  "en": ""
+  "en": "Rank 8 Staff{n}Dark Main Abigail only"
  },
  {
   "id": "exe_22a20",
@@ -4531,7 +4531,7 @@
    "exe:d:94ab8"
   ],
   "jp": "ランク７　　刀{n}風　片手主　ヨシュア専用",
-  "en": ""
+  "en": "Rank 7 Katana{n}Wind Main Joshua only"
  },
  {
   "id": "exe_22a48",
@@ -4543,7 +4543,7 @@
    "exe:d:94abc"
   ],
   "jp": "ランク８　　ブレストプレート{n}無　鎧　ヨシュア専用",
-  "en": ""
+  "en": "Rank 8 Breastplate{n}Neutral Armor Joshua only"
  },
  {
   "id": "exe_22a7c",
@@ -4555,7 +4555,7 @@
    "exe:d:94ac0"
   ],
   "jp": "ランク３　　刀{n}無　片手主　ジオン専用",
-  "en": ""
+  "en": "Rank 3 Katana{n}Neutral Main Zion only"
  },
  {
   "id": "exe_22aa4",
@@ -4568,7 +4568,7 @@
    "exe:d:94c44"
   ],
   "jp": "ランク７　　脇差{n}無　片手副　シェン専用",
-  "en": ""
+  "en": "Rank 7 Wakizashi{n}Neutral Off Schen only"
  },
  {
   "id": "exe_22acc",
@@ -4580,7 +4580,7 @@
    "exe:d:94ac8"
   ],
   "jp": "ランク８　　刀{n}無　片手主　ヴァイ専用",
-  "en": ""
+  "en": "Rank 8 Katana{n}Neutral Main Vai only"
  },
  {
   "id": "exe_22af4",
@@ -4592,7 +4592,7 @@
    "exe:d:94acc"
   ],
   "jp": "ランク８　　刀{n}無　片手主　ヨルグ専用",
-  "en": ""
+  "en": "Rank 8 Katana{n}Neutral Main Jorg only"
  },
  {
   "id": "exe_22b1c",
@@ -4604,7 +4604,7 @@
    "exe:d:94ad0"
   ],
   "jp": "ランク８　　ローブ{n}無　鎧　ヨルグ専用",
-  "en": ""
+  "en": "Rank 8 Robe{n}Neutral Armor Jorg only"
  },
  {
   "id": "exe_22b44",
@@ -4616,7 +4616,7 @@
    "exe:d:94ad4"
   ],
   "jp": "ランク７　　フルプレート{n}無　鎧　アンガス専用",
-  "en": ""
+  "en": "Rank 7 Full Plate{n}Neutral Armor Angus only"
  },
  {
   "id": "exe_22b74",
@@ -4628,7 +4628,7 @@
    "exe:d:94ad8"
   ],
   "jp": "ランク７　　長剣{n}無　片手主　カイ専用",
-  "en": ""
+  "en": "Rank 7 Long Sword{n}Neutral Main Kai only"
  },
  {
   "id": "exe_22b9c",
@@ -4640,7 +4640,7 @@
    "exe:d:94adc"
   ],
   "jp": "ランク８　　ローブ{n}水　鎧　シーン専用",
-  "en": ""
+  "en": "Rank 8 Robe{n}Water Armor Sean only"
  },
  {
   "id": "exe_22bc4",
@@ -4652,7 +4652,7 @@
    "exe:d:94ae0"
   ],
   "jp": "ランク７　　長剣{n}光　片手主　イングヴェイ専用",
-  "en": ""
+  "en": "Rank 7 Long Sword{n}Light Main Yngwei only"
  },
  {
   "id": "exe_22bf4",
@@ -4664,7 +4664,7 @@
    "exe:d:94ae4"
   ],
   "jp": "ランク７　　長剣{n}火　片手主　ラン専用",
-  "en": ""
+  "en": "Rank 7 Long Sword{n}Fire Main Ran only"
  },
  {
   "id": "exe_22c1c",
@@ -4676,7 +4676,7 @@
    "exe:d:94ae8"
   ],
   "jp": "ランク７　　鞭{n}火　片手副　ラン専用",
-  "en": ""
+  "en": "Rank 7 Whip{n}Fire Off Ran only"
  },
  {
   "id": "exe_22c40",
@@ -4688,7 +4688,7 @@
    "exe:d:94aec"
   ],
   "jp": "ランク８　　盾{n}無　盾　ラン専用",
-  "en": ""
+  "en": "Rank 8 Shield{n}Neutral Shield Ran only"
  },
  {
   "id": "exe_22c60",
@@ -4700,7 +4700,7 @@
    "exe:d:94af0"
   ],
   "jp": "ランク８　　大剣{n}闇　両手主　ジオン専用",
-  "en": ""
+  "en": "Rank 8 Great Sword{n}Dark Two-Hand Zion only"
  },
  {
   "id": "exe_22c88",
@@ -4712,7 +4712,7 @@
    "exe:d:94af4"
   ],
   "jp": "ランク５　　フルプレート{n}闇　鎧　ジオン専用",
-  "en": ""
+  "en": "Rank 5 Full Plate{n}Dark Armor Zion only"
  },
  {
   "id": "exe_22cb4",
@@ -4724,7 +4724,7 @@
    "exe:d:94af8"
   ],
   "jp": "ランク９　　大剣{n}闇　両手主　ジオン専用",
-  "en": ""
+  "en": "Rank 9 Great Sword{n}Dark Two-Hand Zion only"
  },
  {
   "id": "exe_22cdc",
@@ -4736,7 +4736,7 @@
    "exe:d:94afc"
   ],
   "jp": "ランク９　　フルプレート{n}闇　鎧　ジオン専用",
-  "en": ""
+  "en": "Rank 9 Full Plate{n}Dark Armor Zion only"
  },
  {
   "id": "exe_22d08",
@@ -4748,7 +4748,7 @@
    "exe:d:94b00"
   ],
   "jp": "ランク７　　長剣{n}無　片手主　マカパイン専用",
-  "en": ""
+  "en": "Rank 7 Long Sword{n}Neutral Main Macalpine only"
  },
  {
   "id": "exe_22d34",
@@ -4760,7 +4760,7 @@
    "exe:d:94b04"
   ],
   "jp": "ランク７　　マント{n}無　鎧　マカパイン専用",
-  "en": ""
+  "en": "Rank 7 Cloak{n}Neutral Armor Macalpine only"
  },
  {
   "id": "exe_22d60",
@@ -4772,7 +4772,7 @@
    "exe:d:94b08"
   ],
   "jp": "ランク７　　長剣{n}無　片手主　ボル専用",
-  "en": ""
+  "en": "Rank 7 Long Sword{n}Neutral Main Bol only"
  },
  {
   "id": "exe_22d88",
@@ -4784,7 +4784,7 @@
    "exe:d:94b0c"
   ],
   "jp": "ランク８　　ブレストプレート{n}無　鎧　ボル専用",
-  "en": ""
+  "en": "Rank 8 Breastplate{n}Neutral Armor Bol only"
  },
  {
   "id": "exe_22db8",
@@ -4796,7 +4796,7 @@
    "exe:d:94b10"
   ],
   "jp": "ランク７　　長剣{n}無　片手主　バ・ソリー専用",
-  "en": ""
+  "en": "Rank 7 Long Sword{n}Neutral Main Ba Thory only"
  },
  {
   "id": "exe_22de4",
@@ -4808,7 +4808,7 @@
    "exe:d:94b14"
   ],
   "jp": "ランク８　　ブレストプレート{n}無　鎧　バ・ソリー専用",
-  "en": ""
+  "en": "Rank 8 Breastplate{n}Neutral Armor Ba Thory only"
  },
  {
   "id": "exe_22e18",
@@ -4820,7 +4820,7 @@
    "exe:d:94b18"
   ],
   "jp": "ランク７　　短剣{n}風　片手副　ザック専用",
-  "en": ""
+  "en": "Rank 7 Dagger{n}Wind Off Zakk only"
  },
  {
   "id": "exe_22e40",
@@ -4832,7 +4832,7 @@
    "exe:d:94b1c"
   ],
   "jp": "ランク８　　レザーアーマー{n}無　鎧　ザック専用",
-  "en": ""
+  "en": "Rank 8 Leather Armor{n}Neutral Armor Zakk only"
  },
  {
   "id": "exe_22e70",
@@ -4844,7 +4844,7 @@
    "exe:d:94b20"
   ],
   "jp": "ランク８　　短剣{n}無　片手副　魔剣／格闘／魔使",
-  "en": ""
+  "en": "Rank 8 Dagger{n}Neutral Off Mystic/Brawler/Mage"
  },
  {
   "id": "exe_22ea0",
@@ -4856,7 +4856,7 @@
    "exe:d:94b24"
   ],
   "jp": "ランク８　　ブレストプレート{n}光　鎧　侍／忍者／魔剣",
-  "en": ""
+  "en": "Rank 8 Breastplate{n}Light Armor Samurai/Ninja/Mystic"
  },
  {
   "id": "exe_22ed4",
@@ -4868,7 +4868,7 @@
    "exe:d:94b28"
   ],
   "jp": "ランク７　　フルプレート{n}無　鎧　ブラド専用",
-  "en": ""
+  "en": "Rank 7 Full Plate{n}Neutral Armor Blad only"
  },
  {
   "id": "exe_22f00",
@@ -4880,7 +4880,7 @@
    "exe:d:94b2c"
   ],
   "jp": "ランク５　　長剣{n}地　片手主　ロス専用",
-  "en": ""
+  "en": "Rank 5 Long Sword{n}Earth Main Ros only"
  },
  {
   "id": "exe_22f28",
@@ -4892,7 +4892,7 @@
    "exe:d:94b30"
   ],
   "jp": "ランク８　　ブレストプレート{n}無　鎧　ロス専用",
-  "en": ""
+  "en": "Rank 8 Breastplate{n}Neutral Armor Ros only"
  },
  {
   "id": "exe_22f58",
@@ -4905,7 +4905,7 @@
    "exe:d:94fb0"
   ],
   "jp": "ランク９　　長剣{n}地　片手主　ロス専用",
-  "en": ""
+  "en": "Rank 9 Long Sword{n}Earth Main Ros only"
  },
  {
   "id": "exe_22f80",
@@ -4917,7 +4917,7 @@
    "exe:d:94b38"
   ],
   "jp": "ランク９　　大剣{n}光　両手主　ラーズ専用",
-  "en": ""
+  "en": "Rank 9 Great Sword{n}Light Two-Hand Lars only"
  },
  {
   "id": "exe_22fa8",
@@ -4929,7 +4929,7 @@
    "exe:d:94b3c"
   ],
   "jp": "ランク９　　ローブ{n}光　鎧　ラーズ専用",
-  "en": ""
+  "en": "Rank 9 Robe{n}Light Armor Lars only"
  },
  {
   "id": "exe_22fd0",
@@ -4941,7 +4941,7 @@
    "exe:d:94b40"
   ],
   "jp": "ランク７　　ポールウエポン{n}無　両手主　アンガス専用",
-  "en": ""
+  "en": "Rank 7 Polearm{n}Neutral Two-Hand Angus only"
  },
  {
   "id": "exe_23004",
@@ -4953,7 +4953,7 @@
    "exe:d:94b44"
   ],
   "jp": "ランク８　　マント{n}無　鎧　カイ専用",
-  "en": ""
+  "en": "Rank 8 Cloak{n}Neutral Armor Kai only"
  },
  {
   "id": "exe_23028",
@@ -4965,7 +4965,7 @@
    "exe:d:94b48"
   ],
   "jp": "ランク７　　重破砕武器{n}無　両手主　ブラド専用",
-  "en": ""
+  "en": "Rank 7 Crusher{n}Neutral Two-Hand Blad only"
  },
  {
   "id": "exe_23058",
@@ -4977,7 +4977,7 @@
    "exe:d:94b4c"
   ],
   "jp": "ランク１　　鞭{n}無　片手副　ラン用",
-  "en": ""
+  "en": "Rank 1 Whip{n}Neutral Off for Ran"
  },
  {
   "id": "exe_2307c",
@@ -4997,7 +4997,7 @@
    }
   ],
   "jp": "ランク２　　鞭{n}無　片手副　ラン用",
-  "en": ""
+  "en": "Rank 2 Whip{n}Neutral Off for Ran"
  },
  {
   "id": "exe_230a0",
@@ -5009,7 +5009,7 @@
    "exe:d:94b54"
   ],
   "jp": "ランク３　　鞭{n}無　片手副　ラン用",
-  "en": ""
+  "en": "Rank 3 Whip{n}Neutral Off for Ran"
  },
  {
   "id": "exe_230c4",
@@ -5021,7 +5021,7 @@
    "exe:d:94b58"
   ],
   "jp": "ランク５　　鞭{n}無　片手副　ラン用",
-  "en": ""
+  "en": "Rank 5 Whip{n}Neutral Off for Ran"
  },
  {
   "id": "exe_230e8",
@@ -5033,7 +5033,7 @@
    "exe:d:94b5c"
   ],
   "jp": "ランク６　　鞭{n}闇　片手副　ラン用",
-  "en": ""
+  "en": "Rank 6 Whip{n}Dark Off for Ran"
  },
  {
   "id": "exe_2310c",
@@ -5045,7 +5045,7 @@
    "exe:d:94b60"
   ],
   "jp": "ランク８　　鞭{n}光　片手副　ラン用",
-  "en": ""
+  "en": "Rank 8 Whip{n}Light Off for Ran"
  },
  {
   "id": "exe_23130",
@@ -5060,7 +5060,7 @@
    "exe:d:94b70"
   ],
   "jp": "ランク？？　テスト{n}無　鎧　テストデータ",
-  "en": ""
+  "en": "Rank ?? Test{n}Neutral Armor Test"
  },
  {
   "id": "exe_23158",
@@ -5072,7 +5072,7 @@
    "exe:d:94b74"
   ],
   "jp": "ランク？？　テスト{n}光　鎧　テストデータ",
-  "en": ""
+  "en": "Rank ?? Test{n}Light Armor Test"
  },
  {
   "id": "exe_23180",
@@ -5084,7 +5084,7 @@
    "exe:d:94b78"
   ],
   "jp": "ランク４　　ポールウエポン{n}無　両手主　重戦",
-  "en": ""
+  "en": "Rank 4 Polearm{n}Neutral Two-Hand Heavy"
  },
  {
   "id": "exe_231ac",
@@ -5096,7 +5096,7 @@
    "exe:d:94b7c"
   ],
   "jp": "ランク４　　重破砕武器{n}無　両手主　重戦",
-  "en": ""
+  "en": "Rank 4 Crusher{n}Neutral Two-Hand Heavy"
  },
  {
   "id": "exe_231d4",
@@ -5108,7 +5108,7 @@
    "exe:d:94b80"
   ],
   "jp": "ランク４　　大剣{n}無　両手主　重戦／剣士",
-  "en": ""
+  "en": "Rank 4 Great Sword{n}Neutral Two-Hand Heavy/Fencer"
  },
  {
   "id": "exe_231fc",
@@ -5120,7 +5120,7 @@
    "exe:d:94b84"
   ],
   "jp": "ランク４　　長剣{n}無　片手主　剣士／魔剣",
-  "en": ""
+  "en": "Rank 4 Long Sword{n}Neutral Main Fencer/Mystic"
  },
  {
   "id": "exe_23224",
@@ -5132,7 +5132,7 @@
    "exe:d:94b88"
   ],
   "jp": "ランク４　　刀{n}光　片手主　侍／忍者",
-  "en": ""
+  "en": "Rank 4 Katana{n}Light Main Samurai/Ninja"
  },
  {
   "id": "exe_23248",
@@ -5144,7 +5144,7 @@
    "exe:d:94b8c"
   ],
   "jp": "ランク４　　鉄拳{n}無　片手主　格闘",
-  "en": ""
+  "en": "Rank 4 Knuckles{n}Neutral Main Brawler"
  },
  {
   "id": "exe_2326c",
@@ -5156,7 +5156,7 @@
    "exe:d:94b90"
   ],
   "jp": "ランク４　　杭{n}闇　片手主　吸血",
-  "en": ""
+  "en": "Rank 4 Stake{n}Dark Main Vampire"
  },
  {
   "id": "exe_2328c",
@@ -5168,7 +5168,7 @@
    "exe:d:94b94"
   ],
   "jp": "ランク４　　杖{n}風　片手主　魔使",
-  "en": ""
+  "en": "Rank 4 Staff{n}Wind Main Mage"
  },
  {
   "id": "exe_232ac",
@@ -5180,7 +5180,7 @@
    "exe:d:94b98"
   ],
   "jp": "ランク４　　細身剣{n}風　片手主　サイクス用",
-  "en": ""
+  "en": "Rank 4 Rapier{n}Wind Main for Sykes"
  },
  {
   "id": "exe_232d8",
@@ -5192,7 +5192,7 @@
    "exe:d:94b9c"
   ],
   "jp": "ランク４　　棍棒{n}無　片手主　シーン用",
-  "en": ""
+  "en": "Rank 4 Club{n}Neutral Main for Sean"
  },
  {
   "id": "exe_23300",
@@ -5204,7 +5204,7 @@
    "exe:d:94ba0"
   ],
   "jp": "ランク４　　呪符{n}無　片手主　シーン専用",
-  "en": ""
+  "en": "Rank 4 Talisman{n}Neutral Main Sean only"
  },
  {
   "id": "exe_23328",
@@ -5216,7 +5216,7 @@
    "exe:d:94ba4"
   ],
   "jp": "ランク４　　扇{n}無　片手主　イダ用",
-  "en": ""
+  "en": "Rank 4 Fan{n}Neutral Main for Ida"
  },
  {
   "id": "exe_2334c",
@@ -5228,7 +5228,7 @@
    "exe:d:94ba8"
   ],
   "jp": "ランク４　　竪琴{n}無　片手主　シェラ用",
-  "en": ""
+  "en": "Rank 4 Lyre{n}Neutral Main for Shella"
  },
  {
   "id": "exe_23374",
@@ -5240,7 +5240,7 @@
    "exe:d:94bac"
   ],
   "jp": "ランク４　　脇差{n}無　片手副　侍",
-  "en": ""
+  "en": "Rank 4 Wakizashi{n}Neutral Off Samurai"
  },
  {
   "id": "exe_23394",
@@ -5253,7 +5253,7 @@
    "exe:d:94d70"
   ],
   "jp": "ランク４　　ショートソード{n}無　片手副　剣士",
-  "en": ""
+  "en": "Rank 4 Short Sword{n}Neutral Off Fencer"
  },
  {
   "id": "exe_233c0",
@@ -5265,7 +5265,7 @@
    "exe:d:94bb4"
   ],
   "jp": "ランク４　　忍び武器{n}無　片手副　忍者",
-  "en": ""
+  "en": "Rank 4 Ninja Tool{n}Neutral Off Ninja"
  },
  {
   "id": "exe_233e8",
@@ -5277,7 +5277,7 @@
    "exe:d:94bb8"
   ],
   "jp": "ランク４　　短剣{n}無　片手副　魔剣／格闘／魔使",
-  "en": ""
+  "en": "Rank 4 Dagger{n}Neutral Off Mystic/Brawler/Mage"
  },
  {
   "id": "exe_23418",
@@ -5289,7 +5289,7 @@
    "exe:d:94bbc"
   ],
   "jp": "ランク４　　聖なる品{n}光　片手副　吸血",
-  "en": ""
+  "en": "Rank 4 Holy Item{n}Light Off Vampire"
  },
  {
   "id": "exe_23440",
@@ -5301,7 +5301,7 @@
    "exe:d:94bc0"
   ],
   "jp": "ランク４　　盾{n}無　盾　ラン用",
-  "en": ""
+  "en": "Rank 4 Shield{n}Neutral Shield for Ran"
  },
  {
   "id": "exe_23460",
@@ -5313,7 +5313,7 @@
    "exe:d:94bc4"
   ],
   "jp": "ランク４　　妖斬糸{n}無　片手兼　マカパイン用",
-  "en": ""
+  "en": "Rank 4 Wire{n}Neutral Either for Macalpine"
  },
  {
   "id": "exe_2348c",
@@ -5325,7 +5325,7 @@
    "exe:d:94bc8"
   ],
   "jp": "ランク４　　フルプレート{n}無　鎧　重戦",
-  "en": ""
+  "en": "Rank 4 Full Plate{n}Neutral Armor Heavy"
  },
  {
   "id": "exe_234b4",
@@ -5337,7 +5337,7 @@
    "exe:d:94bcc"
   ],
   "jp": "ランク４　　ハーフプレート{n}無　鎧　重戦／剣士",
-  "en": ""
+  "en": "Rank 4 Half Plate{n}Neutral Armor Heavy/Fencer"
  },
  {
   "id": "exe_234e4",
@@ -5349,7 +5349,7 @@
    "exe:d:94bd0"
   ],
   "jp": "ランク４　　ブレストプレート{n}無　鎧　侍／忍者／魔剣",
-  "en": ""
+  "en": "Rank 4 Breastplate{n}Neutral Armor Samurai/Ninja/Mystic"
  },
  {
   "id": "exe_23518",
@@ -5361,7 +5361,7 @@
    "exe:d:94bd4"
   ],
   "jp": "ランク４　　レザーアーマー{n}無　鎧　侍／忍者／魔剣／格闘",
-  "en": ""
+  "en": "Rank 4 Leather{n}Neutral Samurai/Ninja/Mystic/Brawler"
  },
  {
   "id": "exe_23550",
@@ -5373,7 +5373,7 @@
    "exe:d:94bd8"
   ],
   "jp": "ランク４　　マント{n}闇　鎧　吸血",
-  "en": ""
+  "en": "Rank 4 Cloak{n}Dark Armor Vampire"
  },
  {
   "id": "exe_23570",
@@ -5385,7 +5385,7 @@
    "exe:d:94bdc"
   ],
   "jp": "ランク４　　ローブ{n}無　鎧　吸血／魔使",
-  "en": ""
+  "en": "Rank 4 Robe{n}Neutral Armor Vampire/Mage"
  },
  {
   "id": "exe_23598",
@@ -5397,7 +5397,7 @@
    "exe:d:94be0"
   ],
   "jp": "ランク４　　鞭{n}無　片手副　ラン用",
-  "en": ""
+  "en": "Rank 4 Whip{n}Neutral Off for Ran"
  },
  {
   "id": "exe_235bc",
@@ -5410,7 +5410,7 @@
    "exe:d:94d74"
   ],
   "jp": "ランク７　　ショートソード{n}無　片手副　剣士",
-  "en": ""
+  "en": "Rank 7 Short Sword{n}Neutral Off Fencer"
  },
  {
   "id": "exe_235e8",
@@ -5423,7 +5423,7 @@
    "exe:d:94d68"
   ],
   "jp": "ランク８　　脇差{n}無　片手副　侍",
-  "en": ""
+  "en": "Rank 8 Wakizashi{n}Neutral Off Samurai"
  },
  {
   "id": "exe_23608",
@@ -5435,7 +5435,7 @@
    "exe:d:94bec"
   ],
   "jp": "ランク７　　聖なる品{n}地　片手副　吸血",
-  "en": ""
+  "en": "Rank 7 Holy Item{n}Earth Off Vampire"
  },
  {
   "id": "exe_23630",
@@ -5447,7 +5447,7 @@
    "exe:d:94bf0"
   ],
   "jp": "ランク７　　ローブ{n}地　鎧　魔使",
-  "en": ""
+  "en": "Rank 7 Robe{n}Earth Armor Mage"
  },
  {
   "id": "exe_23650",
@@ -5459,7 +5459,7 @@
    "exe:d:94c04"
   ],
   "jp": "ランク６　　ショートソード{n}無　片手副　剣士",
-  "en": ""
+  "en": "Rank 6 Short Sword{n}Neutral Off Fencer"
  },
  {
   "id": "exe_2367c",
@@ -5471,7 +5471,7 @@
    "exe:d:94c10"
   ],
   "jp": "ランク７　　短剣{n}無　片手副　魔剣／格闘／魔使",
-  "en": ""
+  "en": "Rank 7 Dagger{n}Neutral Off Mystic/Brawler/Mage"
  },
  {
   "id": "exe_236ac",
@@ -5483,7 +5483,7 @@
    "exe:d:94c14"
   ],
   "jp": "ランク１　　盾{n}無　盾　重戦／剣士／魔剣／吸血",
-  "en": ""
+  "en": "Rank 1{n}Neutral Heavy/Fencer/Mystic/Vampire"
  },
  {
   "id": "exe_236dc",
@@ -5495,7 +5495,7 @@
    "exe:d:94c18"
   ],
   "jp": "ランク２　　盾{n}無　盾　重戦／剣士／魔剣／吸血",
-  "en": ""
+  "en": "Rank 2{n}Neutral Heavy/Fencer/Mystic/Vampire"
  },
  {
   "id": "exe_2370c",
@@ -5507,7 +5507,7 @@
    "exe:d:94c1c"
   ],
   "jp": "ランク３　　盾{n}無　盾　重戦／剣士／魔剣／吸血",
-  "en": ""
+  "en": "Rank 3{n}Neutral Heavy/Fencer/Mystic/Vampire"
  },
  {
   "id": "exe_2373c",
@@ -5519,7 +5519,7 @@
    "exe:d:94c20"
   ],
   "jp": "ランク５　　盾{n}無　盾　重戦／剣士／魔剣／吸血",
-  "en": ""
+  "en": "Rank 5{n}Neutral Heavy/Fencer/Mystic/Vampire"
  },
  {
   "id": "exe_2376c",
@@ -5531,7 +5531,7 @@
    "exe:d:94c24"
   ],
   "jp": "ランク６　　盾{n}無　盾　重戦／剣士／魔剣／吸血",
-  "en": ""
+  "en": "Rank 6{n}Neutral Heavy/Fencer/Mystic/Vampire"
  },
  {
   "id": "exe_2379c",
@@ -5543,7 +5543,7 @@
    "exe:d:94c28"
   ],
   "jp": "ランク８　　盾{n}水　盾　重戦／剣士／魔剣／吸血",
-  "en": ""
+  "en": "Rank 8{n}Water Heavy/Fencer/Mystic/Vampire"
  },
  {
   "id": "exe_237cc",
@@ -5555,7 +5555,7 @@
    "exe:d:94c2c"
   ],
   "jp": "ランク７　　盾{n}無　盾　ラン用",
-  "en": ""
+  "en": "Rank 7 Shield{n}Neutral Shield for Ran"
  },
  {
   "id": "exe_237ec",
@@ -5567,7 +5567,7 @@
    "exe:d:94c3c"
   ],
   "jp": "ランク５　　脇差{n}水　片手副　侍",
-  "en": ""
+  "en": "Rank 5 Wakizashi{n}Water Off Samurai"
  },
  {
   "id": "exe_2380c",
@@ -5579,7 +5579,7 @@
    "exe:d:94c40"
   ],
   "jp": "ランク６　　脇差{n}無　片手副　侍",
-  "en": ""
+  "en": "Rank 6 Wakizashi{n}Neutral Off Samurai"
  },
  {
   "id": "exe_2382c",
@@ -5591,7 +5591,7 @@
    "exe:d:94c48"
   ],
   "jp": "ランク４　　脇差{n}風　片手副　侍",
-  "en": ""
+  "en": "Rank 4 Wakizashi{n}Wind Off Samurai"
  },
  {
   "id": "exe_2384c",
@@ -5603,7 +5603,7 @@
    "exe:d:94c4c"
   ],
   "jp": "ランク１　　素手{n}無　非装備　全員",
-  "en": ""
+  "en": "Rank 1 Bare Hands{n}Neutral Unequipped All"
  },
  {
   "id": "exe_23870",
@@ -5615,7 +5615,7 @@
    "exe:d:94c50"
   ],
   "jp": "ランク２　　素手{n}無　非装備　全員",
-  "en": ""
+  "en": "Rank 2 Bare Hands{n}Neutral Unequipped All"
  },
  {
   "id": "exe_23894",
@@ -5627,7 +5627,7 @@
    "exe:d:94c54"
   ],
   "jp": "ランク３　　素手{n}無　非装備　全員",
-  "en": ""
+  "en": "Rank 3 Bare Hands{n}Neutral Unequipped All"
  },
  {
   "id": "exe_238b8",
@@ -5639,7 +5639,7 @@
    "exe:d:94c58"
   ],
   "jp": "ランク４　　素手{n}無　非装備　全員",
-  "en": ""
+  "en": "Rank 4 Bare Hands{n}Neutral Unequipped All"
  },
  {
   "id": "exe_238dc",
@@ -5651,7 +5651,7 @@
    "exe:d:94c5c"
   ],
   "jp": "ランク５　　素手{n}無　非装備　全員",
-  "en": ""
+  "en": "Rank 5 Bare Hands{n}Neutral Unequipped All"
  },
  {
   "id": "exe_23900",
@@ -5663,7 +5663,7 @@
    "exe:d:94c60"
   ],
   "jp": "ランク６　　素手{n}無　非装備　全員",
-  "en": ""
+  "en": "Rank 6 Bare Hands{n}Neutral Unequipped All"
  },
  {
   "id": "exe_23924",
@@ -5675,7 +5675,7 @@
    "exe:d:94c64"
   ],
   "jp": "ランク７　　素手{n}無　非装備　全員",
-  "en": ""
+  "en": "Rank 7 Bare Hands{n}Neutral Unequipped All"
  },
  {
   "id": "exe_23948",
@@ -5687,7 +5687,7 @@
    "exe:d:94c68"
   ],
   "jp": "ランク８　　素手{n}無　非装備　全員",
-  "en": ""
+  "en": "Rank 8 Bare Hands{n}Neutral Unequipped All"
  },
  {
   "id": "exe_2396c",
@@ -5699,7 +5699,7 @@
    "exe:d:94c6c"
   ],
   "jp": "ランク９　　素手{n}無　非装備　全員",
-  "en": ""
+  "en": "Rank 9 Bare Hands{n}Neutral Unequipped All"
  },
  {
   "id": "exe_23990",
@@ -5711,7 +5711,7 @@
    "exe:d:94c70"
   ],
   "jp": "ランク１　　素鎧{n}無　鎧　非装備　全員",
-  "en": ""
+  "en": "Rank 1 No Armor{n}Neutral Unequipped All"
  },
  {
   "id": "exe_239b8",
@@ -5723,7 +5723,7 @@
    "exe:d:94c74"
   ],
   "jp": "ランク２　　素鎧{n}無　鎧　非装備　全員",
-  "en": ""
+  "en": "Rank 2 No Armor{n}Neutral Unequipped All"
  },
  {
   "id": "exe_239e0",
@@ -5735,7 +5735,7 @@
    "exe:d:94c78"
   ],
   "jp": "ランク３　　素鎧{n}無　鎧　非装備　全員",
-  "en": ""
+  "en": "Rank 3 No Armor{n}Neutral Unequipped All"
  },
  {
   "id": "exe_23a08",
@@ -5747,7 +5747,7 @@
    "exe:d:94c7c"
   ],
   "jp": "ランク４　　素鎧{n}無　鎧　非装備　全員",
-  "en": ""
+  "en": "Rank 4 No Armor{n}Neutral Unequipped All"
  },
  {
   "id": "exe_23a30",
@@ -5759,7 +5759,7 @@
    "exe:d:94c80"
   ],
   "jp": "ランク５　　素鎧{n}無　鎧　非装備　全員",
-  "en": ""
+  "en": "Rank 5 No Armor{n}Neutral Unequipped All"
  },
  {
   "id": "exe_23a58",
@@ -5771,7 +5771,7 @@
    "exe:d:94c84"
   ],
   "jp": "ランク６　　素鎧{n}無　鎧　非装備　全員",
-  "en": ""
+  "en": "Rank 6 No Armor{n}Neutral Unequipped All"
  },
  {
   "id": "exe_23a80",
@@ -5783,7 +5783,7 @@
    "exe:d:94c88"
   ],
   "jp": "ランク７　　素鎧{n}無　鎧　非装備　全員",
-  "en": ""
+  "en": "Rank 7 No Armor{n}Neutral Unequipped All"
  },
  {
   "id": "exe_23aa8",
@@ -5795,7 +5795,7 @@
    "exe:d:94c8c"
   ],
   "jp": "ランク８　　素鎧{n}無　鎧　非装備　全員",
-  "en": ""
+  "en": "Rank 8 No Armor{n}Neutral Unequipped All"
  },
  {
   "id": "exe_23ad0",
@@ -5807,7 +5807,7 @@
    "exe:d:94c90"
   ],
   "jp": "ランク９　　素鎧{n}無　鎧　非装備　全員",
-  "en": ""
+  "en": "Rank 9 No Armor{n}Neutral Unequipped All"
  },
  {
   "id": "exe_23af8",
@@ -5819,7 +5819,7 @@
    "exe:d:94c94"
   ],
   "jp": "テストデータ",
-  "en": ""
+  "en": "Test Data"
  },
  {
   "id": "exe_23b08",
@@ -5831,7 +5831,7 @@
    "exe:d:94c98"
   ],
   "jp": "影道魔神霊習得用{n}不可視アイテム",
-  "en": ""
+  "en": "Shadow Demon Soul learn{n}item (invisible)"
  },
  {
   "id": "exe_23b28",
@@ -5843,7 +5843,7 @@
    "exe:d:94c9c"
   ],
   "jp": "癒しの指用アイテム",
-  "en": ""
+  "en": "Healing Finger item"
  },
  {
   "id": "exe_23b3c",
@@ -5855,7 +5855,7 @@
    "exe:d:94ca0"
   ],
   "jp": "ベノン２習得用不可視アイテム",
-  "en": ""
+  "en": "Venom 2 learn item (invisible)"
  },
  {
   "id": "exe_23b5c",
@@ -5867,7 +5867,7 @@
    "exe:d:94ca4"
   ],
   "jp": "使用者の体力を、１ポイントだけ{n}増加させる宝珠",
-  "en": ""
+  "en": "An orb that raises the user's{n}Vitality by just 1 point."
  },
  {
   "id": "exe_23b8c",
@@ -5879,7 +5879,7 @@
    "exe:d:94ca8"
   ],
   "jp": "使用者の知力を、１ポイントだけ{n}増加させる宝珠",
-  "en": ""
+  "en": "An orb that raises the user's{n}Wisdom by just 1 point."
  },
  {
   "id": "exe_23bbc",
@@ -5891,7 +5891,7 @@
    "exe:d:94cac"
   ],
   "jp": "使用者の素早さを、１ポイントだけ{n}増加させる宝珠",
-  "en": ""
+  "en": "An orb that raises the user's{n}Speed by just 1 point."
  },
  {
   "id": "exe_23bec",
@@ -5903,7 +5903,7 @@
    "exe:d:94cb0"
   ],
   "jp": "使用者の運を、１ポイントだけ{n}増加させる宝珠",
-  "en": ""
+  "en": "An orb that raises the user's{n}Luck by just 1 point."
  },
  {
   "id": "exe_23c18",
@@ -5915,7 +5915,7 @@
    "exe:d:94cb4"
   ],
   "jp": "使用者のＨＰ上限を、１０ポイント{n}上昇させる宝珠",
-  "en": ""
+  "en": "An orb that raises the user's{n}max HP by 10 points."
  },
  {
   "id": "exe_23c48",
@@ -5927,7 +5927,7 @@
    "exe:d:94cb8"
   ],
   "jp": "使用者のＭＰ上限を、５ポイント{n}上昇させる宝珠",
-  "en": ""
+  "en": "An orb that raises the user's{n}max MP by 5 points."
  },
  {
   "id": "exe_23c78",
@@ -5939,7 +5939,7 @@
    "exe:d:94cbc"
   ],
   "jp": "戦闘不能以外の状態を回復する{n}聖なる果実",
-  "en": ""
+  "en": "A holy fruit that cures all{n}but incapacitation."
  },
  {
   "id": "exe_23ca0",
@@ -5951,7 +5951,7 @@
    "exe:d:94cc0"
   ],
   "jp": "戦闘不能状態を回復する{n}聖なる果実",
-  "en": ""
+  "en": "A holy fruit that cures{n}incapacitation."
  },
  {
   "id": "exe_23cc4",
@@ -5963,7 +5963,7 @@
    "exe:d:94cc4"
   ],
   "jp": "かなりのＨＰを回復させる秘薬",
-  "en": ""
+  "en": "A secret medicine that heals{n}a lot of HP."
  },
  {
   "id": "exe_23ce4",
@@ -5975,7 +5975,7 @@
    "exe:d:94cc8"
   ],
   "jp": "ＨＰを完全回復させる秘薬",
-  "en": ""
+  "en": "A secret medicine that fully{n}heals HP."
  },
  {
   "id": "exe_23d00",
@@ -5987,7 +5987,7 @@
    "exe:d:94ccc"
   ],
   "jp": "ＨＰとＭＰを完全に回復させる秘薬",
-  "en": ""
+  "en": "A secret medicine that fully{n}heals HP and MP."
  },
  {
   "id": "exe_23d24",
@@ -5999,7 +5999,7 @@
    "exe:d:94cd0"
   ],
   "jp": "軽い酔いざましになる清水",
-  "en": ""
+  "en": "Spring water that eases{n}a mild hangover."
  },
  {
   "id": "exe_23d40",
@@ -6011,7 +6011,7 @@
    "exe:d:94cd4"
   ],
   "jp": "かなりの酔いもさませる清水",
-  "en": ""
+  "en": "Spring water that clears{n}even a heavy hangover."
  },
  {
   "id": "exe_23d5c",
@@ -6023,7 +6023,7 @@
    "exe:d:94cd8"
   ],
   "jp": "酔いを完全に覚ます、霊験あらたか{n}な清水",
-  "en": ""
+  "en": "Miraculous spring water that{n}cures any hangover completely."
  },
  {
   "id": "exe_23d84",
@@ -6035,7 +6035,7 @@
    "exe:d:94cdc"
   ],
   "jp": "使用者のＨＰを、ほんの少しだけ{n}回復させる薬草",
-  "en": ""
+  "en": "An herb that heals just a little{n}of the user's HP."
  },
  {
   "id": "exe_23db4",
@@ -6047,7 +6047,7 @@
    "exe:d:94ce0"
   ],
   "jp": "使用者のＭＰを、ほんの少しだけ{n}回復させる薬草",
-  "en": ""
+  "en": "An herb that heals just a little{n}of the user's MP."
  },
  {
   "id": "exe_23de4",
@@ -6059,7 +6059,7 @@
    "exe:d:94ce4"
   ],
   "jp": "ランク９　　鉄拳{n}光　片手主　格闘",
-  "en": ""
+  "en": "Rank 9 Knuckles{n}Light Main Brawler"
  },
  {
   "id": "exe_23e08",
@@ -6071,7 +6071,7 @@
    "exe:d:94ce8"
   ],
   "jp": "ランク１０　　杭　貴重{n}火　片手主　吸血",
-  "en": ""
+  "en": "Rank 10 Stake (Rare){n}Fire Main Vampire"
  },
  {
   "id": "exe_23e30",
@@ -6083,7 +6083,7 @@
    "exe:d:94cec"
   ],
   "jp": "ランク７　　細身剣{n}光　片手主　サイクス専用",
-  "en": ""
+  "en": "Rank 7 Rapier{n}Light Main Sykes only"
  },
  {
   "id": "exe_23e5c",
@@ -6095,7 +6095,7 @@
    "exe:d:94cf0"
   ],
   "jp": "ランク１０　　細身剣　貴重{n}風　片手主　サイクス用",
-  "en": ""
+  "en": "Rank 10 Rapier (Rare){n}Wind Main for Sykes"
  },
  {
   "id": "exe_23e90",
@@ -6107,7 +6107,7 @@
    "exe:d:94cf4"
   ],
   "jp": "ランク８　　呪符{n}無　片手主　シーン専用",
-  "en": ""
+  "en": "Rank 8 Talisman{n}Neutral Main Sean only"
  },
  {
   "id": "exe_23eb8",
@@ -6119,7 +6119,7 @@
    "exe:d:94cf8"
   ],
   "jp": "ランク９　　呪符{n}無　片手主　シーン専用",
-  "en": ""
+  "en": "Rank 9 Talisman{n}Neutral Main Sean only"
  },
  {
   "id": "exe_23ee0",
@@ -6131,7 +6131,7 @@
    "exe:d:94cfc"
   ],
   "jp": "ランク１０　　扇　貴重{n}無　片手主　イダ用",
-  "en": ""
+  "en": "Rank 10 Fan (Rare){n}Neutral Main for Ida"
  },
  {
   "id": "exe_23f0c",
@@ -6143,7 +6143,7 @@
    "exe:d:94d00"
   ],
   "jp": "ランク１０　　竪琴　貴重{n}無　片手主　シェラ用",
-  "en": ""
+  "en": "Rank 10 Lyre (Rare){n}Neutral Main for Shella"
  },
  {
   "id": "exe_23f3c",
@@ -6156,7 +6156,7 @@
    "exe:d:94d6c"
   ],
   "jp": "ランク９　　脇差{n}無　片手副　侍",
-  "en": ""
+  "en": "Rank 9 Wakizashi{n}Neutral Off Samurai"
  },
  {
   "id": "exe_23f5c",
@@ -6168,7 +6168,7 @@
    "exe:d:94d08"
   ],
   "jp": "ランク８　　ショートソード{n}風　片手副　剣士",
-  "en": ""
+  "en": "Rank 8 Short Sword{n}Wind Off Fencer"
  },
  {
   "id": "exe_23f88",
@@ -6180,7 +6180,7 @@
    "exe:d:94d0c"
   ],
   "jp": "ランク９　　ショートソード{n}光　片手副　剣士",
-  "en": ""
+  "en": "Rank 9 Short Sword{n}Light Off Fencer"
  },
  {
   "id": "exe_23fb4",
@@ -6192,7 +6192,7 @@
    "exe:d:94d10"
   ],
   "jp": "ランク８　　忍び武器{n}火　片手副　忍者",
-  "en": ""
+  "en": "Rank 8 Ninja Tool{n}Fire Off Ninja"
  },
  {
   "id": "exe_23fdc",
@@ -6204,7 +6204,7 @@
    "exe:d:94d14"
   ],
   "jp": "ランク９　　忍び武器{n}光　片手副　忍者",
-  "en": ""
+  "en": "Rank 9 Ninja Tool{n}Light Off Ninja"
  },
  {
   "id": "exe_24004",
@@ -6216,7 +6216,7 @@
    "exe:d:94d18"
   ],
   "jp": "ランク９　　短剣{n}闇　片手副　魔剣／格闘／魔使",
-  "en": ""
+  "en": "Rank 9 Dagger{n}Dark Off Mystic/Brawler/Mage"
  },
  {
   "id": "exe_24034",
@@ -6228,7 +6228,7 @@
    "exe:d:94d1c"
   ],
   "jp": "ランク８　　聖なる品{n}光　片手副　吸血",
-  "en": ""
+  "en": "Rank 8 Holy Item{n}Light Off Vampire"
  },
  {
   "id": "exe_2405c",
@@ -6240,7 +6240,7 @@
    "exe:d:94d20"
   ],
   "jp": "ランク９　　聖なる品{n}闇　片手副　吸血",
-  "en": ""
+  "en": "Rank 9 Holy Item{n}Dark Off Vampire"
  },
  {
   "id": "exe_24084",
@@ -6252,7 +6252,7 @@
    "exe:d:94d24"
   ],
   "jp": "ランク９　　妖斬糸{n}闇　片手兼　マカパイン用",
-  "en": ""
+  "en": "Rank 9 Wire{n}Dark Either for Macalpine"
  },
  {
   "id": "exe_240b0",
@@ -6264,7 +6264,7 @@
    "exe:d:94d28"
   ],
   "jp": "ランク１０　　鞭　貴重{n}無　片手副　ラン用",
-  "en": ""
+  "en": "Rank 10 Whip (Rare){n}Neutral Off for Ran"
  },
  {
   "id": "exe_240dc",
@@ -6276,7 +6276,7 @@
    "exe:d:94d2c"
   ],
   "jp": "ランク９　　フルプレート{n}無　鎧　重戦",
-  "en": ""
+  "en": "Rank 9 Full Plate{n}Neutral Armor Heavy"
  },
  {
   "id": "exe_24104",
@@ -6288,7 +6288,7 @@
    "exe:d:94d30"
   ],
   "jp": "ランク８　　ハーフプレート{n}地　鎧　重戦／剣士",
-  "en": ""
+  "en": "Rank 8 Half Plate{n}Earth Armor Heavy/Fencer"
  },
  {
   "id": "exe_24134",
@@ -6300,7 +6300,7 @@
    "exe:d:94d34"
   ],
   "jp": "ランク９　　ハーフプレート{n}無　鎧　重戦／剣士",
-  "en": ""
+  "en": "Rank 9 Half Plate{n}Neutral Armor Heavy/Fencer"
  },
  {
   "id": "exe_24164",
@@ -6312,7 +6312,7 @@
    "exe:d:94d38"
   ],
   "jp": "ランク９　　ブレストプレート{n}無　鎧　侍／忍者／魔剣",
-  "en": ""
+  "en": "Rank 9 Breastplate{n}Neutral Armor Samurai/Ninja/Mystic"
  },
  {
   "id": "exe_24198",
@@ -6324,7 +6324,7 @@
    "exe:d:94d3c"
   ],
   "jp": "ランク７　　レザーアーマー{n}無　鎧　ザック専用",
-  "en": ""
+  "en": "Rank 7 Leather Armor{n}Neutral Armor Zakk only"
  },
  {
   "id": "exe_241c8",
@@ -6336,7 +6336,7 @@
    "exe:d:94d40"
   ],
   "jp": "ランク７　　レザーアーマー{n}闇　鎧　侍／忍者／魔剣／格闘",
-  "en": ""
+  "en": "Rank 7 Leather{n}Dark Samurai/Ninja/Mystic/Brawler"
  },
  {
   "id": "exe_24200",
@@ -6348,7 +6348,7 @@
    "exe:d:94d44"
   ],
   "jp": "ランク９　　レザーアーマー{n}火　鎧　侍／忍者／魔剣／格闘",
-  "en": ""
+  "en": "Rank 9 Leather{n}Fire Samurai/Ninja/Mystic/Brawler"
  },
  {
   "id": "exe_24238",
@@ -6360,7 +6360,7 @@
    "exe:d:94d48"
   ],
   "jp": "ランク９　　マント　貴重{n}無　鎧　吸血",
-  "en": ""
+  "en": "Rank 9 Cloak (Rare){n}Neutral Armor Vampire"
  },
  {
   "id": "exe_24260",
@@ -6372,7 +6372,7 @@
    "exe:d:94d4c"
   ],
   "jp": "ランク９　　ローブ{n}火　鎧　魔使",
-  "en": ""
+  "en": "Rank 9 Robe{n}Fire Armor Mage"
  },
  {
   "id": "exe_24280",
@@ -6384,7 +6384,7 @@
    "exe:d:94d50"
   ],
   "jp": "ランク９　　盾{n}風　盾　ラン用",
-  "en": ""
+  "en": "Rank 9 Shield{n}Wind Shield for Ran"
  },
  {
   "id": "exe_242a0",
@@ -6396,7 +6396,7 @@
    "exe:d:94d54"
   ],
   "jp": "ランク６　　重破砕武器{n}無　両手主　ブラド用",
-  "en": ""
+  "en": "Rank 6 Crusher{n}Neutral Two-Hand for Blad"
  },
  {
   "id": "exe_242cc",
@@ -6408,7 +6408,7 @@
    "exe:d:94d58"
   ],
   "jp": "ランク９　　重破砕武器{n}風　両手主　ブラド用",
-  "en": ""
+  "en": "Rank 9 Crusher{n}Wind Two-Hand for Blad"
  },
  {
   "id": "exe_242f8",
@@ -6420,7 +6420,7 @@
    "exe:d:94d5c"
   ],
   "jp": "ランク８　　大剣{n}無　両手主　重戦／剣士",
-  "en": ""
+  "en": "Rank 8 Great Sword{n}Neutral Two-Hand Heavy/Fencer"
  },
  {
   "id": "exe_24320",
@@ -6432,7 +6432,7 @@
    "exe:d:94d60"
   ],
   "jp": "ランク９　　大剣{n}無　両手主　重戦／剣士",
-  "en": ""
+  "en": "Rank 9 Great Sword{n}Neutral Two-Hand Heavy/Fencer"
  },
  {
   "id": "exe_24348",
@@ -6444,7 +6444,7 @@
    "exe:d:94d64"
   ],
   "jp": "ランク８　　フルプレート{n}無　鎧　重戦",
-  "en": ""
+  "en": "Rank 8 Full Plate{n}Neutral Armor Heavy"
  },
  {
   "id": "exe_24370",
@@ -6456,7 +6456,7 @@
    "exe:d:94d78"
   ],
   "jp": "ランク８　　ショートソード{n}無　片手副　剣士",
-  "en": ""
+  "en": "Rank 8 Short Sword{n}Neutral Off Fencer"
  },
  {
   "id": "exe_2439c",
@@ -6468,7 +6468,7 @@
    "exe:d:94d7c"
   ],
   "jp": "ランク９　　ショートソード{n}無　片手副　剣士",
-  "en": ""
+  "en": "Rank 9 Short Sword{n}Neutral Off Fencer"
  },
  {
   "id": "exe_243c8",
@@ -6480,7 +6480,7 @@
    "exe:d:94d80"
   ],
   "jp": "ランク９　　盾{n}水　盾　ラン用",
-  "en": ""
+  "en": "Rank 9 Shield{n}Water Shield for Ran"
  },
  {
   "id": "exe_243e8",
@@ -6492,7 +6492,7 @@
    "exe:d:94d84"
   ],
   "jp": "毒、脱力状態を回復する効果を持つ{n}薬草",
-  "en": ""
+  "en": "An herb that cures poison{n}and lethargy."
  },
  {
   "id": "exe_24410",
@@ -6504,7 +6504,7 @@
    "exe:d:94d88"
   ],
   "jp": "不和、催眠、昏倒状態を回復させる{n}効果を持つ薬草",
-  "en": ""
+  "en": "An herb that cures discord,{n}sleep and stun."
  },
  {
   "id": "exe_24440",
@@ -6516,7 +6516,7 @@
    "exe:d:94d8c"
   ],
   "jp": "魅了、ノイズ状態を回復する効果を{n}持つ薬草",
-  "en": ""
+  "en": "An herb that cures charm{n}and noise."
  },
  {
   "id": "exe_2446c",
@@ -6528,7 +6528,7 @@
    "exe:d:94d90"
   ],
   "jp": "ダンジョンからの脱出呪文を込めた{n}呪符",
-  "en": ""
+  "en": "A talisman holding a spell{n}for escaping dungeons."
  },
  {
   "id": "exe_24494",
@@ -6540,7 +6540,7 @@
    "exe:d:94d94"
   ],
   "jp": "パーティーのテンションをわずかに{n}上昇させるマジックリカー",
-  "en": ""
+  "en": "Magic liquor that raises{n}the party's Tension slightly."
  },
  {
   "id": "exe_244d0",
@@ -6552,7 +6552,7 @@
    "exe:d:94d98"
   ],
   "jp": "パーティーのテンションをかなり{n}上昇させるマジックリカー",
-  "en": ""
+  "en": "Magic liquor that raises{n}the party's Tension a lot."
  },
  {
   "id": "exe_24508",
@@ -6564,7 +6564,7 @@
    "exe:d:94d9c"
   ],
   "jp": "パーティーのテンションを一気に{n}上昇させるマジックリカー",
-  "en": ""
+  "en": "Magic liquor that raises{n}the party's Tension at a stroke."
  },
  {
   "id": "exe_24540",
@@ -6576,7 +6576,7 @@
    "exe:d:94da0"
   ],
   "jp": "パーティーの団結力を高めるために{n}飲むマジックリカー",
-  "en": ""
+  "en": "Magic liquor to drink to{n}strengthen the party's bond."
  },
  {
   "id": "exe_24574",
@@ -6588,7 +6588,7 @@
    "exe:d:94da4"
   ],
   "jp": "一緒に味わい、仲を少しだけ深める{n}ためのマジックリカー",
-  "en": ""
+  "en": "Magic liquor to savor together,{n}growing a little closer."
  },
  {
   "id": "exe_245ac",
@@ -6600,7 +6600,7 @@
    "exe:d:94da8"
   ],
   "jp": "賑わいの場をもうけ、{n}一層の親交を深めるマジックリカー",
-  "en": ""
+  "en": "Magic liquor for a lively party,{n}to deepen friendships further."
  },
  {
   "id": "exe_245e4",
@@ -6612,7 +6612,7 @@
    "exe:d:94dac"
   ],
   "jp": "陽気に騒ぎ、仲間と打ち解ける場を{n}作るには最高のマジックリカー",
-  "en": ""
+  "en": "The best magic liquor for a merry{n}time getting to know your allies."
  },
  {
   "id": "exe_24624",
@@ -6624,7 +6624,7 @@
    "exe:d:94db0"
   ],
   "jp": "二人で飲んで、相手との仲を深める{n}ときに向いたマジック・リカー",
-  "en": ""
+  "en": "Magic liquor suited to two{n}drinking to grow closer."
  },
  {
   "id": "exe_24664",
@@ -6636,7 +6636,7 @@
    "exe:d:94db4"
   ],
   "jp": "特別な成分で思わぬ怪力を発揮{n}できるマジックリカー",
-  "en": ""
+  "en": "Magic liquor whose special{n}brew gives surprising might."
  },
  {
   "id": "exe_24698",
@@ -6648,7 +6648,7 @@
    "exe:d:94db8"
   ],
   "jp": "戦闘時の勢いを、そのまま持ち越し{n}やすくなるマジック・リカー",
-  "en": ""
+  "en": "Magic liquor that makes it easy{n}to carry battle momentum over."
  },
  {
   "id": "exe_246d4",
@@ -6660,7 +6660,7 @@
    "exe:d:94dbc"
   ],
   "jp": "魔使陣で使用すると、完全回復を{n}おこなえる",
-  "en": ""
+  "en": "Used in a Magic Circle,{n}fully heals the party."
  },
  {
   "id": "exe_24700",
@@ -6672,7 +6672,7 @@
    "exe:d:94dc0"
   ],
   "jp": "体力を１０上昇させる指輪",
-  "en": ""
+  "en": "A ring that raises Vitality by 10."
  },
  {
   "id": "exe_2471c",
@@ -6684,7 +6684,7 @@
    "exe:d:94dc4"
   ],
   "jp": "知力を１０上昇させる指輪",
-  "en": ""
+  "en": "A ring that raises Wisdom by 10."
  },
  {
   "id": "exe_24738",
@@ -6696,7 +6696,7 @@
    "exe:d:94dc8"
   ],
   "jp": "体力、知力、素早さを各５ポイント{n}ずつ上昇させる指輪",
-  "en": ""
+  "en": "A ring that raises Vitality, Wisdom{n}and Speed by 5 points each."
  },
  {
   "id": "exe_2476c",
@@ -6708,7 +6708,7 @@
    "exe:d:94dcc"
   ],
   "jp": "体力、知力、素早さを１０ポイント{n}ずつ上昇させる指輪",
-  "en": ""
+  "en": "A ring that raises Vitality, Wisdom{n}and Speed by 10 points each."
  },
  {
   "id": "exe_247a0",
@@ -6720,7 +6720,7 @@
    "exe:d:94dd0"
   ],
   "jp": "戦闘時に敵の攻撃をやわらげる指輪",
-  "en": ""
+  "en": "A ring that softens enemy{n}attacks in battle."
  },
  {
   "id": "exe_247c4",
@@ -6732,7 +6732,7 @@
    "exe:d:94dd4"
   ],
   "jp": "魔法抵抗力を上昇させる指輪",
-  "en": ""
+  "en": "A ring that raises magic resistance."
  },
  {
   "id": "exe_247e0",
@@ -6744,7 +6744,7 @@
    "exe:d:94dd8"
   ],
   "jp": "素早さを１０上昇させる指輪",
-  "en": ""
+  "en": "A ring that raises Speed by 10."
  },
  {
   "id": "exe_247fc",
@@ -6756,7 +6756,7 @@
    "exe:d:94ddc"
   ],
   "jp": "素早さを２０上昇させる指輪",
-  "en": ""
+  "en": "A ring that raises Speed by 20."
  },
  {
   "id": "exe_24818",
@@ -6768,7 +6768,7 @@
    "exe:d:94de0"
   ],
   "jp": "素早さを３０上昇させる指輪",
-  "en": ""
+  "en": "A ring that raises Speed by 30."
  },
  {
   "id": "exe_24834",
@@ -6780,7 +6780,7 @@
    "exe:d:94de4"
   ],
   "jp": "呪文の消費ＭＰを半分にする冠",
-  "en": ""
+  "en": "A crown that halves the MP cost{n}of spells."
  },
  {
   "id": "exe_24854",
@@ -6792,7 +6792,7 @@
    "exe:d:94de8"
   ],
   "jp": "加速の効果を秘めた装具",
-  "en": ""
+  "en": "Gear imbued with Haste."
  },
  {
   "id": "exe_2486c",
@@ -6804,7 +6804,7 @@
    "exe:d:94dec"
   ],
   "jp": "吸引の効果を無効化できる腕輪",
-  "en": ""
+  "en": "A bangle that negates suction."
  },
  {
   "id": "exe_2488c",
@@ -6816,7 +6816,7 @@
    "exe:d:94df0"
   ],
   "jp": "怪力の効果を秘めた腕輪",
-  "en": ""
+  "en": "A bangle imbued with Might."
  },
  {
   "id": "exe_248a4",
@@ -6828,7 +6828,7 @@
    "exe:d:94df4"
   ],
   "jp": "相手への反撃を促進する腕輪",
-  "en": ""
+  "en": "A bangle that spurs counterattacks."
  },
  {
   "id": "exe_248c0",
@@ -6840,7 +6840,7 @@
    "exe:d:94df8"
   ],
   "jp": "仲間から少しだけ好かれやすくなる{n}首飾り",
-  "en": ""
+  "en": "A necklace that makes allies{n}like you a little more."
  },
  {
   "id": "exe_248e8",
@@ -6852,7 +6852,7 @@
    "exe:d:94dfc"
   ],
   "jp": "仲間からかなり好かれやすくなる{n}首飾り",
-  "en": ""
+  "en": "A necklace that makes allies{n}like you a lot more."
  },
  {
   "id": "exe_24910",
@@ -6864,7 +6864,7 @@
    "exe:d:94e00"
   ],
   "jp": "仲間から非常に好かれやすくなる{n}首飾り",
-  "en": ""
+  "en": "A necklace that makes allies{n}like you far more."
  },
  {
   "id": "exe_24938",
@@ -6876,7 +6876,7 @@
    "exe:d:94e04"
   ],
   "jp": "炎・水攻撃への抵抗力を高める{n}ピアス",
-  "en": ""
+  "en": "Earrings that raise resistance{n}to fire and water attacks."
  },
  {
   "id": "exe_2495c",
@@ -6888,7 +6888,7 @@
    "exe:d:94e08"
   ],
   "jp": "地・風攻撃への抵抗力を高める{n}ピアス",
-  "en": ""
+  "en": "Earrings that raise resistance{n}to earth and wind attacks."
  },
  {
   "id": "exe_24980",
@@ -6900,7 +6900,7 @@
    "exe:d:94e0c"
   ],
   "jp": "光・闇攻撃への抵抗力を高める{n}ピアス",
-  "en": ""
+  "en": "Earrings that raise resistance{n}to light and dark attacks."
  },
  {
   "id": "exe_249a4",
@@ -6912,7 +6912,7 @@
    "exe:d:94e10"
   ],
   "jp": "即死攻撃を受けにくくする護符",
-  "en": ""
+  "en": "A charm that wards off{n}instant-death attacks."
  },
  {
   "id": "exe_249c4",
@@ -6924,7 +6924,7 @@
    "exe:d:94e14"
   ],
   "jp": "昏倒、毒、脱力攻撃に対する抵抗力{n}を高める護符",
-  "en": ""
+  "en": "A charm that raises resistance{n}to stun, poison and lethargy."
  },
  {
   "id": "exe_249f4",
@@ -6936,7 +6936,7 @@
    "exe:d:94e18"
   ],
   "jp": "ノイズ、睡眠、魅了、不和攻撃への{n}抵抗力を高める護符",
-  "en": ""
+  "en": "A charm that raises resistance to{n}noise, sleep, charm and discord."
  },
  {
   "id": "exe_24a28",
@@ -6948,7 +6948,7 @@
    "exe:d:94e1c"
   ],
   "jp": "防御力と魔法抵抗力を下げられ{n}にくくなる護符",
-  "en": ""
+  "en": "A charm that makes defense and{n}resistance harder to lower."
  },
  {
   "id": "exe_24a54",
@@ -6960,7 +6960,7 @@
    "exe:d:94e20"
   ],
   "jp": "装着者がトラップにかかったとき、{n}身代わりとなってくるれる人形",
-  "en": ""
+  "en": "A doll that takes the trap{n}when its wearer is caught in one."
  },
  {
   "id": "exe_24a94",
@@ -6972,7 +6972,7 @@
    "exe:d:94e24"
   ],
   "jp": "装着者の戦闘不能状態を、身代わり{n}に引き受けてくれる人形",
-  "en": ""
+  "en": "A doll that takes incapacitation{n}in its wearer's place."
  },
  {
   "id": "exe_24acc",
@@ -6984,7 +6984,7 @@
    "exe:d:94e28"
   ],
   "jp": "魔法の消費ＭＰを１／４にする冠",
-  "en": ""
+  "en": "A crown that cuts the MP cost{n}of magic to 1/4."
  },
  {
   "id": "exe_24aec",
@@ -6996,7 +6996,7 @@
    "exe:d:94e2c"
   ],
   "jp": "技の消費ＭＰを半分に抑える帯",
-  "en": ""
+  "en": "A sash that halves the MP cost{n}of skills."
  },
  {
   "id": "exe_24b0c",
@@ -7008,7 +7008,7 @@
    "exe:d:94e30"
   ],
   "jp": "技の消費ＭＰを１／４に抑える帯",
-  "en": ""
+  "en": "A sash that cuts the MP cost{n}of skills to 1/4."
  },
  {
   "id": "exe_24b2c",
@@ -7020,7 +7020,7 @@
    "exe:d:94e34"
   ],
   "jp": "魔法、技双方の消費ＭＰを、１／４{n}におさえる呪符",
-  "en": ""
+  "en": "A talisman that cuts the MP cost{n}of magic and skills to 1/4."
  },
  {
   "id": "exe_24b5c",
@@ -7032,7 +7032,7 @@
    "exe:d:94e38"
   ],
   "jp": "ランク１０　ポールウエポン　貴重{n}光　両手主　重戦",
-  "en": ""
+  "en": "Rank 10 Polearm (Rare){n}Light Two-Hand Heavy"
  },
  {
   "id": "exe_24b90",
@@ -7044,7 +7044,7 @@
    "exe:d:94e3c"
   ],
   "jp": "ランク１０　重破砕武器　貴重{n}地　両手主　重戦",
-  "en": ""
+  "en": "Rank 10 Crusher (Rare){n}Earth Two-Hand Heavy"
  },
  {
   "id": "exe_24bc0",
@@ -7056,7 +7056,7 @@
    "exe:d:94e40"
   ],
   "jp": "ランク１０　大剣　貴重{n}光　両手主　重戦／剣士",
-  "en": ""
+  "en": "Rank 10 Great Sword (Rare){n}Light Two-Hand Heavy/Fencer"
  },
  {
   "id": "exe_24bf0",
@@ -7068,7 +7068,7 @@
    "exe:d:94e44"
   ],
   "jp": "ランク１０　長剣　貴重{n}光　片手主　剣士／魔剣",
-  "en": ""
+  "en": "Rank 10 Long Sword (Rare){n}Light Main Fencer/Mystic"
  },
  {
   "id": "exe_24c20",
@@ -7080,7 +7080,7 @@
    "exe:d:94e48"
   ],
   "jp": "ランク１０　刀　貴重{n}水　片手主　侍／忍者",
-  "en": ""
+  "en": "Rank 10 Katana (Rare){n}Water Main Samurai/Ninja"
  },
  {
   "id": "exe_24c4c",
@@ -7092,7 +7092,7 @@
    "exe:d:94e4c"
   ],
   "jp": "ランク１０　脇差　貴重{n}光　片手副　侍",
-  "en": ""
+  "en": "Rank 10 Wakizashi (Rare){n}Light Off Samurai"
  },
  {
   "id": "exe_24c74",
@@ -7104,7 +7104,7 @@
    "exe:d:94e50"
   ],
   "jp": "ランク１０　ショートソード　貴重{n}無　片手副　剣士",
-  "en": ""
+  "en": "Rank 10 Short Sword (Rare){n}Neutral Off Fencer"
  },
  {
   "id": "exe_24ca8",
@@ -7116,7 +7116,7 @@
    "exe:d:94e54"
   ],
   "jp": "ランク１０　杖　貴重{n}光　片手主　魔使",
-  "en": ""
+  "en": "Rank 10 Staff (Rare){n}Light Main Mage"
  },
  {
   "id": "exe_24cd0",
@@ -7128,7 +7128,7 @@
    "exe:d:94e58"
   ],
   "jp": "ランク１０　忍び武器　貴重{n}闇　片手副　忍者",
-  "en": ""
+  "en": "Rank 10 Ninja Tool (Rare){n}Dark Off Ninja"
  },
  {
   "id": "exe_24cfc",
@@ -7140,7 +7140,7 @@
    "exe:d:94e5c"
   ],
   "jp": "ランク１０　短剣　貴重{n}光　片手副　魔剣／格闘／魔使",
-  "en": ""
+  "en": "Rank 10 Dagger (Rare){n}Light Off Mystic/Brawler/Mage"
  },
  {
   "id": "exe_24d30",
@@ -7152,7 +7152,7 @@
    "exe:d:94e60"
   ],
   "jp": "ランク１０　フルプレート　貴重{n}火　鎧　重戦",
-  "en": ""
+  "en": "Rank 10 Full Plate (Rare){n}Fire Armor Heavy"
  },
  {
   "id": "exe_24d5c",
@@ -7164,7 +7164,7 @@
    "exe:d:94e64"
   ],
   "jp": "ランク１０　ハーフプレート　貴重{n}光　鎧　重戦／剣士",
-  "en": ""
+  "en": "Rank 10 Half Plate (Rare){n}Light Armor Heavy/Fencer"
  },
  {
   "id": "exe_24d90",
@@ -7176,7 +7176,7 @@
    "exe:d:94e68"
   ],
   "jp": "ランク１０ブレストプレート　貴重{n}地　鎧　侍／忍者／魔剣",
-  "en": ""
+  "en": "Rank 10 Breastplate (Rare){n}Earth Armor Samurai/Ninja/Mystic"
  },
  {
   "id": "exe_24dc8",
@@ -7188,7 +7188,7 @@
    "exe:d:94e6c"
   ],
   "jp": "ランク１０　レザーアーマー　貴重{n}光　鎧　侍／忍者／魔剣／格闘",
-  "en": ""
+  "en": "Rank 10 Leather (Rare){n}Light Samurai/Ninja/Mystic/Brawler"
  },
  {
   "id": "exe_24e08",
@@ -7200,7 +7200,7 @@
    "exe:d:94e70"
   ],
   "jp": "ランク１０　マント　貴重{n}闇　鎧　吸血",
-  "en": ""
+  "en": "Rank 10 Cloak (Rare){n}Dark Armor Vampire"
  },
  {
   "id": "exe_24e30",
@@ -7212,7 +7212,7 @@
    "exe:d:94e74"
   ],
   "jp": "ランク１０　ローブ　貴重{n}無　鎧　魔使",
-  "en": ""
+  "en": "Rank 10 Robe (Rare){n}Neutral Armor Mage"
  },
  {
   "id": "exe_24e58",
@@ -7224,7 +7224,7 @@
    "exe:d:94e78"
   ],
   "jp": "ランク１０　盾　貴重{n}火　盾　ラン用",
-  "en": ""
+  "en": "Rank 10 Shield (Rare){n}Fire Shield for Ran"
  },
  {
   "id": "exe_24e7c",
@@ -7236,7 +7236,7 @@
    "exe:d:94e7c"
   ],
   "jp": "腕に装着する、奇妙な形をした{n}アクセサリー",
-  "en": ""
+  "en": "A strangely shaped accessory{n}worn on the arm."
  },
  {
   "id": "exe_24ea8",
@@ -7248,7 +7248,7 @@
    "exe:d:94e80"
   ],
   "jp": "複雑な模様が彫り込まれ、呪力を{n}秘めた竪琴",
-  "en": ""
+  "en": "A lyre carved with intricate{n}patterns, holding cursed power."
  },
  {
   "id": "exe_24ed4",
@@ -7260,7 +7260,7 @@
    "exe:d:94e84"
   ],
   "jp": "雷神塔で入手した鍵、その１",
-  "en": ""
+  "en": "A key from the Thunder God{n}Tower, No. 1."
  },
  {
   "id": "exe_24ef0",
@@ -7272,7 +7272,7 @@
    "exe:d:94e88"
   ],
   "jp": "雷神塔で入手した鍵、その２",
-  "en": ""
+  "en": "A key from the Thunder God{n}Tower, No. 2."
  },
  {
   "id": "exe_24f0c",
@@ -7284,7 +7284,7 @@
    "exe:d:94e8c"
   ],
   "jp": "風穴洞で発見した奇妙な虫",
-  "en": ""
+  "en": "An odd bug found in the Wind Cave."
  },
  {
   "id": "exe_24f28",
@@ -7296,7 +7296,7 @@
    "exe:d:94e90"
   ],
   "jp": "宿り木から作られた短刀樫の木の{n}呪力を打ち破れる",
-  "en": ""
+  "en": "A dagger of mistletoe. It can{n}break the oak's curse."
  },
  {
   "id": "exe_24f58",
@@ -7308,7 +7308,7 @@
    "exe:d:94e94"
   ],
   "jp": "円形の水晶に封じ込められた、{n}青白く輝く液体",
-  "en": ""
+  "en": "A pale, glowing liquid sealed{n}in a round crystal."
  },
  {
   "id": "exe_24f84",
@@ -7320,7 +7320,7 @@
    "exe:d:94e98"
   ],
   "jp": "水妖の湖で発見した奇妙な虫",
-  "en": ""
+  "en": "An odd bug found in the Lake{n}of the Water Sprite."
  },
  {
   "id": "exe_24fa0",
@@ -7332,7 +7332,7 @@
    "exe:d:94e9c"
   ],
   "jp": "血の痕らしきものが残った、古びた{n}大ぶりの山刀",
-  "en": ""
+  "en": "An old, large machete stained{n}with what looks like blood."
  },
  {
   "id": "exe_25000",
@@ -7344,7 +7344,7 @@
    "exe:d:94ea4"
   ],
   "jp": "妖魔テウターテスが持っていた、{n}魔力が付加された鍵",
-  "en": ""
+  "en": "An enchanted key once held{n}by the demon Teutates."
  },
  {
   "id": "exe_25034",
@@ -7356,7 +7356,7 @@
    "exe:d:94ea8"
   ],
   "jp": "翼龍の骸からこぼれ落ちた宝珠",
-  "en": ""
+  "en": "An orb that fell from the wing{n}dragon's remains."
  },
  {
   "id": "exe_25054",
@@ -7368,7 +7368,7 @@
    "exe:d:94eac"
   ],
   "jp": "龍樹への扉を開くための鍵",
-  "en": ""
+  "en": "A key to the door to the{n}Dragon Tree."
  },
  {
   "id": "exe_25070",
@@ -7380,7 +7380,7 @@
    "exe:d:94eb0"
   ],
   "jp": "魔力の塊を封じた、赤く輝く宝玉",
-  "en": ""
+  "en": "A red, shining jewel sealing{n}a mass of magic power."
  },
  {
   "id": "exe_25090",
@@ -7392,7 +7392,7 @@
    "exe:d:94eb4"
   ],
   "jp": "氷結湖の迷宮で発見した奇妙な虫",
-  "en": ""
+  "en": "An odd bug found in the{n}Frozen Lake Maze."
  },
  {
   "id": "exe_250b0",
@@ -7404,7 +7404,7 @@
    "exe:d:94eb8"
   ],
   "jp": "内部に暗き炎が燃える、強大な{n}魔力を秘めた宝玉",
-  "en": ""
+  "en": "A jewel of great magic power,{n}a dark flame burning within."
  },
  {
   "id": "exe_250e0",
@@ -7416,7 +7416,7 @@
    "exe:d:94ebc"
   ],
   "jp": "ランク７　　ブレストプレート{n}無　鎧　侍／忍者／魔剣",
-  "en": ""
+  "en": "Rank 7 Breastplate{n}Neutral Armor Samurai/Ninja/Mystic"
  },
  {
   "id": "exe_25114",
@@ -7428,7 +7428,7 @@
    "exe:d:94ec0"
   ],
   "jp": "ランク７　　ハーフプレート{n}風　鎧　重戦／剣士",
-  "en": ""
+  "en": "Rank 7 Half Plate{n}Wind Armor Heavy/Fencer"
  },
  {
   "id": "exe_25144",
@@ -7440,7 +7440,7 @@
    "exe:d:94ec4"
   ],
   "jp": "ランク７　　フルプレート{n}無　鎧　重戦",
-  "en": ""
+  "en": "Rank 7 Full Plate{n}Neutral Armor Heavy"
  },
  {
   "id": "exe_2516c",
@@ -7452,7 +7452,7 @@
    "exe:d:94ec8"
   ],
   "jp": "ランク７　　刀{n}無　片手主　侍／忍者",
-  "en": ""
+  "en": "Rank 7 Katana{n}Neutral Main Samurai/Ninja"
  },
  {
   "id": "exe_25190",
@@ -7464,7 +7464,7 @@
    "exe:d:94ecc"
   ],
   "jp": "ランク７　　杖{n}無　片手主　魔使",
-  "en": ""
+  "en": "Rank 7 Staff{n}Neutral Main Mage"
  },
  {
   "id": "exe_251b0",
@@ -7476,7 +7476,7 @@
    "exe:d:94ed0"
   ],
   "jp": "ランク７　　ポールウエポン{n}無　両手主　重戦",
-  "en": ""
+  "en": "Rank 7 Polearm{n}Neutral Two-Hand Heavy"
  },
  {
   "id": "exe_251dc",
@@ -7488,7 +7488,7 @@
    "exe:d:94ed4"
   ],
   "jp": "ランク７　　脇差{n}無　片手副　侍",
-  "en": ""
+  "en": "Rank 7 Wakizashi{n}Neutral Off Samurai"
  },
  {
   "id": "exe_251fc",
@@ -7500,7 +7500,7 @@
    "exe:d:94ed8"
   ],
   "jp": "ランク７　　長剣{n}無　片手主　剣士／魔剣",
-  "en": ""
+  "en": "Rank 7 Long Sword{n}Neutral Main Fencer/Mystic"
  },
  {
   "id": "exe_25224",
@@ -7512,7 +7512,7 @@
    "exe:d:94edc"
   ],
   "jp": "ランク１０ブレストプレート　貴重{n}火　鎧　侍",
-  "en": ""
+  "en": "Rank 10 Breastplate (Rare){n}Fire Armor Samurai"
  },
  {
   "id": "exe_25250",
@@ -7524,7 +7524,7 @@
    "exe:d:94ee0"
   ],
   "jp": "ランク７　　大剣{n}無　両手主　重戦／剣士",
-  "en": ""
+  "en": "Rank 7 Great Sword{n}Neutral Two-Hand Heavy/Fencer"
  },
  {
   "id": "exe_25278",
@@ -7536,7 +7536,7 @@
    "exe:d:94ee4"
   ],
   "jp": "幻影城内の鍵",
-  "en": ""
+  "en": "A key for inside Phantom Castle."
  },
  {
   "id": "exe_25288",
@@ -7548,7 +7548,7 @@
    "exe:d:94ee8"
   ],
   "jp": "ディートの神殿内部の鍵",
-  "en": ""
+  "en": "A key for inside the Temple{n}of Dite."
  },
  {
   "id": "exe_252a0",
@@ -7560,7 +7560,7 @@
    "exe:d:94eec"
   ],
   "jp": "ボラの神殿内部の鍵",
-  "en": ""
+  "en": "A key for inside the Temple{n}of Bola."
  },
  {
   "id": "exe_252b4",
@@ -7572,7 +7572,7 @@
    "exe:d:94ef0"
   ],
   "jp": "氷獄塔内部の鍵、その１",
-  "en": ""
+  "en": "A key for inside the Ice Hell{n}Tower, No. 1."
  },
  {
   "id": "exe_252cc",
@@ -7584,7 +7584,7 @@
    "exe:d:94ef4"
   ],
   "jp": "氷獄塔内部の鍵、その２",
-  "en": ""
+  "en": "A key for inside the Ice Hell{n}Tower, No. 2."
  },
  {
   "id": "exe_252e4",
@@ -7596,7 +7596,7 @@
    "exe:d:94ef8"
   ],
   "jp": "氷獄塔内部の鍵、その３",
-  "en": ""
+  "en": "A key for inside the Ice Hell{n}Tower, No. 3."
  },
  {
   "id": "exe_252fc",
@@ -7608,7 +7608,7 @@
    "exe:d:94efc"
   ],
   "jp": "黒の館の番兵が持っていた鍵",
-  "en": ""
+  "en": "A key held by a guard{n}of the Black Manor."
  },
  {
   "id": "exe_25318",
@@ -7620,7 +7620,7 @@
    "exe:d:94f00"
   ],
   "jp": "黒の館内部の鍵",
-  "en": ""
+  "en": "A key for inside the Black Manor."
  },
  {
   "id": "exe_25328",
@@ -7632,7 +7632,7 @@
    "exe:d:94f04"
   ],
   "jp": "スーゼミ神殿内部の鍵",
-  "en": ""
+  "en": "A key for inside the Temple{n}of Suzemi."
  },
  {
   "id": "exe_25340",
@@ -7644,7 +7644,7 @@
    "exe:d:94f08"
   ],
   "jp": "癌臓宮内部の鍵",
-  "en": ""
+  "en": "A key for inside the Cancer Palace."
  },
  {
   "id": "exe_25350",
@@ -7656,7 +7656,7 @@
    "exe:d:94f0c"
   ],
   "jp": "ランク７　　棍棒{n}無　片手主　シーン用",
-  "en": ""
+  "en": "Rank 7 Club{n}Neutral Main for Sean"
  },
  {
   "id": "exe_25378",
@@ -7668,7 +7668,7 @@
    "exe:d:94f10"
   ],
   "jp": "ランク９　　フルプレート{n}光　鎧　ルーシェ専用",
-  "en": ""
+  "en": "Rank 9 Full Plate{n}Light Armor Lucien only"
  },
  {
   "id": "exe_253a8",
@@ -7680,7 +7680,7 @@
    "exe:d:94f14"
   ],
   "jp": "ランク１０　フルプレート{n}光　鎧　ルーシェ専用",
-  "en": ""
+  "en": "Rank 10 Full Plate{n}Light Armor Lucien only"
  },
  {
   "id": "exe_253d8",
@@ -7692,7 +7692,7 @@
    "exe:d:94f18"
   ],
   "jp": "ランク９　　大剣{n}光　両手主　ルーシェ専用",
-  "en": ""
+  "en": "Rank 9 Great Sword{n}Light Two-Hand Lucien only"
  },
  {
   "id": "exe_25404",
@@ -7704,7 +7704,7 @@
    "exe:d:94f1c"
   ],
   "jp": "ランク１０　大剣{n}光　両手主　ルーシェ専用",
-  "en": ""
+  "en": "Rank 10 Great Sword{n}Light Two-Hand Lucien only"
  },
  {
   "id": "exe_25430",
@@ -7728,7 +7728,7 @@
    "exe:d:94f24"
   ],
   "jp": "ランク６　　ブレストプレート{n}無　鎧　侍／忍者／魔剣",
-  "en": ""
+  "en": "Rank 6 Breastplate{n}Neutral Armor Samurai/Ninja/Mystic"
  },
  {
   "id": "exe_2546c",
@@ -7740,7 +7740,7 @@
    "exe:d:94f28"
   ],
   "jp": "ランク９　　フルプレート{n}無　鎧　アンガス専用",
-  "en": ""
+  "en": "Rank 9 Full Plate{n}Neutral Armor Angus only"
  },
  {
   "id": "exe_2549c",
@@ -7752,7 +7752,7 @@
    "exe:d:94f2c"
   ],
   "jp": "ランク９　　ポールウエポン{n}無　両手主　アンガス専用",
-  "en": ""
+  "en": "Rank 9 Polearm{n}Neutral Two-Hand Angus only"
  },
  {
   "id": "exe_254d0",
@@ -7764,7 +7764,7 @@
    "exe:d:94f38"
   ],
   "jp": "ランク９　　長剣{n}光　片手主　イングヴェイ専用",
-  "en": ""
+  "en": "Rank 9 Long Sword{n}Light Main Yngwei only"
  },
  {
   "id": "exe_25500",
@@ -7776,7 +7776,7 @@
    "exe:d:94f3c"
   ],
   "jp": "ランク９　　長剣{n}無　片手主　カイ専用",
-  "en": ""
+  "en": "Rank 9 Long Sword{n}Neutral Main Kai only"
  },
  {
   "id": "exe_25528",
@@ -7788,7 +7788,7 @@
    "exe:d:94f40"
   ],
   "jp": "ランク９　　マント{n}無　鎧　カイ専用",
-  "en": ""
+  "en": "Rank 9 Cloak{n}Neutral Armor Kai only"
  },
  {
   "id": "exe_2554c",
@@ -7800,7 +7800,7 @@
    "exe:d:94f4c"
   ],
   "jp": "ランク９　　細身剣{n}光　片手主　サイクス専用",
-  "en": ""
+  "en": "Rank 9 Rapier{n}Light Main Sykes only"
  },
  {
   "id": "exe_25578",
@@ -7812,7 +7812,7 @@
    "exe:d:94f50"
   ],
   "jp": "ランク９　　短剣{n}風　片手副　ザック専用",
-  "en": ""
+  "en": "Rank 9 Dagger{n}Wind Off Zakk only"
  },
  {
   "id": "exe_255a0",
@@ -7824,7 +7824,7 @@
    "exe:d:94f54"
   ],
   "jp": "ランク９　　レザーアーマー{n}無　鎧　ザック専用",
-  "en": ""
+  "en": "Rank 9 Leather Armor{n}Neutral Armor Zakk only"
  },
  {
   "id": "exe_255d0",
@@ -7836,7 +7836,7 @@
    "exe:d:94f58"
   ],
   "jp": "ランク９　　ローブ{n}水　鎧　シーン専用",
-  "en": ""
+  "en": "Rank 9 Robe{n}Water Armor Sean only"
  },
  {
   "id": "exe_255f8",
@@ -7848,7 +7848,7 @@
    "exe:d:94f5c"
   ],
   "jp": "ランク９　　竪琴{n}風　片手主　シェラ専用",
-  "en": ""
+  "en": "Rank 9 Lyre{n}Wind Main Shella only"
  },
  {
   "id": "exe_25620",
@@ -7860,7 +7860,7 @@
    "exe:d:94f60"
   ],
   "jp": "ランク９　　刀{n}無　片手主　シェン専用",
-  "en": ""
+  "en": "Rank 9 Katana{n}Neutral Main Schen only"
  },
  {
   "id": "exe_25648",
@@ -7872,7 +7872,7 @@
    "exe:d:94f64"
   ],
   "jp": "ランク９　　脇差{n}無　片手副　シェン専用",
-  "en": ""
+  "en": "Rank 9 Wakizashi{n}Neutral Off Schen only"
  },
  {
   "id": "exe_25670",
@@ -7884,7 +7884,7 @@
    "exe:d:94f68"
   ],
   "jp": "ランク９　　長剣{n}風　片手主　ネイ専用",
-  "en": ""
+  "en": "Rank 9 Long Sword{n}Wind Main Nei only"
  },
  {
   "id": "exe_25698",
@@ -7897,7 +7897,7 @@
    "exe:d:94fc4"
   ],
   "jp": "ランク９　　ローブ{n}風　鎧　ネイ専用",
-  "en": ""
+  "en": "Rank 9 Robe{n}Wind Armor Nei only"
  },
  {
   "id": "exe_256bc",
@@ -7909,7 +7909,7 @@
    "exe:d:94f70"
   ],
   "jp": "ランク９　　ハーフプレート{n}無　鎧　バ・ソリー専用",
-  "en": ""
+  "en": "Rank 9 Half Plate{n}Neutral Armor Ba Thory only"
  },
  {
   "id": "exe_256f0",
@@ -7921,7 +7921,7 @@
    "exe:d:94f74"
   ],
   "jp": "ランク９　　長剣{n}無　片手主　バ・ソリー専用",
-  "en": ""
+  "en": "Rank 9 Long Sword{n}Neutral Main Ba Thory only"
  },
  {
   "id": "exe_2571c",
@@ -7933,7 +7933,7 @@
    "exe:d:94f78"
   ],
   "jp": "ランク９　　フルプレート{n}無　鎧　ブラド専用",
-  "en": ""
+  "en": "Rank 9 Full Plate{n}Neutral Armor Blad only"
  },
  {
   "id": "exe_25748",
@@ -7945,7 +7945,7 @@
    "exe:d:94f7c"
   ],
   "jp": "ランク９　　重破砕武器{n}無　両手主　ブラド専用",
-  "en": ""
+  "en": "Rank 9 Crusher{n}Neutral Two-Hand Blad only"
  },
  {
   "id": "exe_25778",
@@ -7957,7 +7957,7 @@
    "exe:d:94f80"
   ],
   "jp": "ランク９　　長剣{n}無　片手主　ボル専用",
-  "en": ""
+  "en": "Rank 9 Long Sword{n}Neutral Main Bol only"
  },
  {
   "id": "exe_257a0",
@@ -7969,7 +7969,7 @@
    "exe:d:94f84"
   ],
   "jp": "ランク９　　ブレストプレート{n}無　鎧　ボル専用",
-  "en": ""
+  "en": "Rank 9 Breastplate{n}Neutral Armor Bol only"
  },
  {
   "id": "exe_257d0",
@@ -7981,7 +7981,7 @@
    "exe:d:94f88"
   ],
   "jp": "ランク９　　長剣{n}無　片手主　マカパイン専用",
-  "en": ""
+  "en": "Rank 9 Long Sword{n}Neutral Main Macalpine only"
  },
  {
   "id": "exe_257fc",
@@ -7993,7 +7993,7 @@
    "exe:d:94f8c"
   ],
   "jp": "ランク９　　マント{n}無　鎧　マカパイン専用",
-  "en": ""
+  "en": "Rank 9 Cloak{n}Neutral Armor Macalpine only"
  },
  {
   "id": "exe_25828",
@@ -8005,7 +8005,7 @@
    "exe:d:94f90"
   ],
   "jp": "ランク９　　刀{n}風　片手主　ヨシュア専用",
-  "en": ""
+  "en": "Rank 9 Katana{n}Wind Main Joshua only"
  },
  {
   "id": "exe_25850",
@@ -8017,7 +8017,7 @@
    "exe:d:94f94"
   ],
   "jp": "ランク９　　ブレストプレート{n}無　鎧　ヨシュア専用",
-  "en": ""
+  "en": "Rank 9 Breastplate{n}Neutral Armor Joshua only"
  },
  {
   "id": "exe_25884",
@@ -8029,7 +8029,7 @@
    "exe:d:94f98"
   ],
   "jp": "ランク９　　刀{n}無　片手主　ヨルグ専用",
-  "en": ""
+  "en": "Rank 9 Katana{n}Neutral Main Jorg only"
  },
  {
   "id": "exe_258ac",
@@ -8041,7 +8041,7 @@
    "exe:d:94f9c"
   ],
   "jp": "ランク９　　ローブ{n}無　鎧　ヨルグ専用",
-  "en": ""
+  "en": "Rank 9 Robe{n}Neutral Armor Jorg only"
  },
  {
   "id": "exe_258d4",
@@ -8053,7 +8053,7 @@
    "exe:d:94fa0"
   ],
   "jp": "ランク９　　長剣{n}火　片手主　ラン専用",
-  "en": ""
+  "en": "Rank 9 Long Sword{n}Fire Main Ran only"
  },
  {
   "id": "exe_258fc",
@@ -8065,7 +8065,7 @@
    "exe:d:94fa4"
   ],
   "jp": "ランク９　　鞭{n}火　片手副　ラン専用",
-  "en": ""
+  "en": "Rank 9 Whip{n}Fire Off Ran only"
  },
  {
   "id": "exe_25920",
@@ -8077,7 +8077,7 @@
    "exe:d:94fa8"
   ],
   "jp": "ランク９　　盾{n}無　盾　ラン専用",
-  "en": ""
+  "en": "Rank 9 Shield{n}Neutral Shield Ran only"
  },
  {
   "id": "exe_25940",
@@ -8089,7 +8089,7 @@
    "exe:d:94fac"
   ],
   "jp": "ランク９　　ブレストプレート{n}無　鎧　ロス専用",
-  "en": ""
+  "en": "Rank 9 Breastplate{n}Neutral Armor Ros only"
  },
  {
   "id": "exe_25970",
@@ -8101,7 +8101,7 @@
    "exe:d:94fb4"
   ],
   "jp": "ランク９　　刀{n}無　片手主　ヴァイ専用",
-  "en": ""
+  "en": "Rank 9 Katana{n}Neutral Main Vai only"
  },
  {
   "id": "exe_25998",
@@ -8113,7 +8113,7 @@
    "exe:d:94fb8"
   ],
   "jp": "エッドツェペリオン習得用不可視アイテム",
-  "en": ""
+  "en": "Ed Zeppelion learn item (invisible)"
  },
  {
   "id": "exe_259c0",
@@ -8125,7 +8125,7 @@
    "exe:d:94fbc"
   ],
   "jp": "サヴァタージ習得用不可視アイテム",
-  "en": ""
+  "en": "Savatage learn item (invisible)"
  },
  {
   "id": "exe_259e4",
@@ -8137,7 +8137,7 @@
    "exe:d:94fc0"
   ],
   "jp": "ＵＤＯ習得用不可視アイテム",
-  "en": ""
+  "en": "U.D.O. learn item (invisible)"
  },
  {
   "id": "exe_25a00",
@@ -8149,7 +8149,7 @@
    "exe:d:94fc8"
   ],
   "jp": "ランク６　　刀{n}無　片手主　シェン専用",
-  "en": ""
+  "en": "Rank 6 Katana{n}Neutral Main Schen only"
  },
  {
   "id": "exe_25a28",
@@ -8161,7 +8161,7 @@
    "exe:d:94fcc"
   ],
   "jp": "ボラの神殿内部の鍵、その２",
-  "en": ""
+  "en": "A key for inside the Temple{n}of Bola, No. 2."
  },
  {
   "id": "exe_25a44",
@@ -8174,7 +8174,7 @@
    "exe:d:94fd8"
   ],
   "jp": "黒の館内部の鍵{n}イングヴェイから受け取る",
-  "en": ""
+  "en": "A key for inside the Black Manor,{n}received from Yngwei."
  },
  {
   "id": "exe_25a6c",
@@ -8186,7 +8186,7 @@
    "exe:d:94fd4"
   ],
   "jp": "地竜の寝所で手に入れた妖刀",
-  "en": ""
+  "en": "A cursed sword found in the{n}Earth Dragon's Lair."
  },
  {
   "id": "exe_25a88",
@@ -8198,7 +8198,7 @@
    "exe:d:94fdc"
   ],
   "jp": "ランク８　　マント{n}無　鎧　吸血",
-  "en": ""
+  "en": "Rank 8 Cloak{n}Neutral Armor Vampire"
  },
  {
   "id": "exe_25aa8",
@@ -8210,7 +8210,7 @@
    "exe:d:94fe0"
   ],
   "jp": "バグバグバグバグバグバグバグバグ{n}バグバグバグバグバグバグ奥義案内",
-  "en": ""
+  "en": "Bug Bug Bug Bug Bug Bug Bug{n}Skill Guide Bug Bug Bug"
  },
  {
   "id": "exe_25aec",
@@ -8224,7 +8224,7 @@
    "exe:d:94ffc"
   ],
   "jp": "単体１人　火属性　１×１マス{n}ダメージ",
-  "en": ""
+  "en": "Solo 1P Fire 1x1{n}Damage"
  },
  {
   "id": "exe_25b14",
@@ -8243,7 +8243,7 @@
    "exe:d:95398"
   ],
   "jp": "一体２人　火属性　３×３マス{n}ダメージ",
-  "en": ""
+  "en": "Unison 2P Fire 3x3{n}Damage"
  },
  {
   "id": "exe_25b3c",
@@ -8256,7 +8256,7 @@
    "exe:d:94ff4"
   ],
   "jp": "一体３人　火属性　敵エリア{n}ダメージ",
-  "en": ""
+  "en": "Unison 3P Fire Enemy Area{n}Damage"
  },
  {
   "id": "exe_25b60",
@@ -8269,7 +8269,7 @@
    "exe:d:95368"
   ],
   "jp": "一体４人　火属性　敵エリア{n}ダメージ",
-  "en": ""
+  "en": "Unison 4P Fire Enemy Area{n}Damage"
  },
  {
   "id": "exe_25b84",
@@ -8284,7 +8284,7 @@
    "exe:d:953b0"
   ],
   "jp": "一体２人　水属性　３×３マス{n}ダメージ",
-  "en": ""
+  "en": "Unison 2P Water 3x3{n}Damage"
  },
  {
   "id": "exe_25bac",
@@ -8296,7 +8296,7 @@
    "exe:d:95010"
   ],
   "jp": "一体４人　水属性　敵エリア{n}ダメージ",
-  "en": ""
+  "en": "Unison 4P Water Enemy Area{n}Damage"
  },
  {
   "id": "exe_25bd0",
@@ -8309,7 +8309,7 @@
    "exe:d:95338"
   ],
   "jp": "一体３人　水属性　敵エリア{n}ダメージ",
-  "en": ""
+  "en": "Unison 3P Water Enemy Area{n}Damage"
  },
  {
   "id": "exe_25bf4",
@@ -8323,7 +8323,7 @@
    "exe:d:9502c"
   ],
   "jp": "一体３人　風属性　敵エリア{n}ダメージ",
-  "en": ""
+  "en": "Unison 3P Wind Enemy Area{n}Damage"
  },
  {
   "id": "exe_25c18",
@@ -8335,7 +8335,7 @@
    "exe:d:95024"
   ],
   "jp": "一体４人　風属性　敵エリア{n}ダメージ",
-  "en": ""
+  "en": "Unison 4P Wind Enemy Area{n}Damage"
  },
  {
   "id": "exe_25c3c",
@@ -8348,7 +8348,7 @@
    "exe:d:952a0"
   ],
   "jp": "一体２人　風属性　３×３マス{n}ダメージ",
-  "en": ""
+  "en": "Unison 2P Wind 3x3{n}Damage"
  },
  {
   "id": "exe_25c64",
@@ -8361,7 +8361,7 @@
    "exe:d:9503c"
   ],
   "jp": "一体３人　地属性　敵エリア{n}ダメージ",
-  "en": ""
+  "en": "Unison 3P Earth Enemy Area{n}Damage"
  },
  {
   "id": "exe_25c88",
@@ -8374,7 +8374,7 @@
    "exe:d:95044"
   ],
   "jp": "一体２人　地属性　３×３マス{n}ダメージ",
-  "en": ""
+  "en": "Unison 2P Earth 3x3{n}Damage"
  },
  {
   "id": "exe_25cb0",
@@ -8388,7 +8388,7 @@
    "exe:d:95364"
   ],
   "jp": "一体２人　闇属性　３×３マス{n}ダメージ",
-  "en": ""
+  "en": "Unison 2P Dark 3x3{n}Damage"
  },
  {
   "id": "exe_25cd8",
@@ -8400,7 +8400,7 @@
    "exe:d:95048"
   ],
   "jp": "一体４人　地属性　敵エリア{n}ダメージ",
-  "en": ""
+  "en": "Unison 4P Earth Enemy Area{n}Damage"
  },
  {
   "id": "exe_25cfc",
@@ -8412,7 +8412,7 @@
    "exe:d:9504c"
   ],
   "jp": "一体４人　闇属性　敵エリア{n}ダメージ",
-  "en": ""
+  "en": "Unison 4P Dark Enemy Area{n}Damage"
  },
  {
   "id": "exe_25d20",
@@ -8427,7 +8427,7 @@
    "exe:d:953ac"
   ],
   "jp": "単体１人　闇属性　１×１マス{n}ダメージ",
-  "en": ""
+  "en": "Solo 1P Dark 1x1{n}Damage"
  },
  {
   "id": "exe_25d48",
@@ -8439,7 +8439,7 @@
    "exe:d:95054"
   ],
   "jp": "単体１人　闇属性　３×３マス{n}ダメージ",
-  "en": ""
+  "en": "Solo 1P Dark 3x3{n}Damage"
  },
  {
   "id": "exe_25d70",
@@ -8451,7 +8451,7 @@
    "exe:d:95058"
   ],
   "jp": "単体１人　闇属性　敵エリア{n}ダメージ",
-  "en": ""
+  "en": "Solo 1P Dark Enemy Area{n}Damage"
  },
  {
   "id": "exe_25d94",
@@ -8464,7 +8464,7 @@
    "exe:d:953bc"
   ],
   "jp": "単体１人　無属性　１×１マス{n}ＨＰドレイン",
-  "en": ""
+  "en": "Solo 1P Neutral 1x1{n}HP Drain"
  },
  {
   "id": "exe_25dc0",
@@ -8477,7 +8477,7 @@
    "exe:d:952b4"
   ],
   "jp": "一体３人　闇属性　敵エリア{n}ダメージ",
-  "en": ""
+  "en": "Unison 3P Dark Enemy Area{n}Damage"
  },
  {
   "id": "exe_25de4",
@@ -8489,7 +8489,7 @@
    "exe:d:95064"
   ],
   "jp": "単体１人　無属性　３×３マス{n}昏倒",
-  "en": ""
+  "en": "Solo 1P Neutral 3x3{n}Stun"
  },
  {
   "id": "exe_25e08",
@@ -8501,7 +8501,7 @@
    "exe:d:95068"
   ],
   "jp": "単体１人　無属性　３×３マス{n}睡眠",
-  "en": ""
+  "en": "Solo 1P Neutral 3x3{n}Sleep"
  },
  {
   "id": "exe_25e2c",
@@ -8513,7 +8513,7 @@
    "exe:d:9506c"
   ],
   "jp": "単体１人　無属性　３×３マス{n}敵物理シールドダウン",
-  "en": ""
+  "en": "Solo 1P Neutral 3x3{n}Enemy Shield Down"
  },
  {
   "id": "exe_25e60",
@@ -8525,7 +8525,7 @@
    "exe:d:95070"
   ],
   "jp": "単体１人　無属性　３×３マス{n}毒",
-  "en": ""
+  "en": "Solo 1P Neutral 3x3{n}Poison"
  },
  {
   "id": "exe_25e80",
@@ -8537,7 +8537,7 @@
    "exe:d:95074"
   ],
   "jp": "単体１人　無属性　３×３マス{n}魅了",
-  "en": ""
+  "en": "Solo 1P Neutral 3x3{n}Charm"
  },
  {
   "id": "exe_25ea4",
@@ -8549,7 +8549,7 @@
    "exe:d:95078"
   ],
   "jp": "単体１人　無属性　３×３マス{n}ノイズ",
-  "en": ""
+  "en": "Solo 1P Neutral 3x3{n}Noise"
  },
  {
   "id": "exe_25ec8",
@@ -8566,7 +8566,7 @@
    "exe:d:953a4"
   ],
   "jp": "一体２人　光属性　３×３マス{n}ダメージ",
-  "en": ""
+  "en": "Unison 2P Light 3x3{n}Damage"
  },
  {
   "id": "exe_25ef0",
@@ -8578,7 +8578,7 @@
    "exe:d:95088"
   ],
   "jp": "単体１人　無属性　術者本人{n}テレポート",
-  "en": ""
+  "en": "Solo 1P Neutral Self{n}Teleport"
  },
  {
   "id": "exe_25f18",
@@ -8606,7 +8606,7 @@
    "exe:d:95374"
   ],
   "jp": "単体１人　無属性　１×１マス{n}ダメージ",
-  "en": ""
+  "en": "Solo 1P Neutral 1x1{n}Damage"
  },
  {
   "id": "exe_25f40",
@@ -8621,7 +8621,7 @@
    "exe:d:95284"
   ],
   "jp": "単体１人　無属性　１×１マス{n}ダメージ＋弾き飛ばし",
-  "en": ""
+  "en": "Solo 1P Neutral 1x1{n}Damage + Knockback"
  },
  {
   "id": "exe_25f74",
@@ -8634,7 +8634,7 @@
    "exe:d:95290"
   ],
   "jp": "単体１人　無属性　１×１マス{n}ダメージ＋即死",
-  "en": ""
+  "en": "Solo 1P Neutral 1x1{n}Damage + Instant Death"
  },
  {
   "id": "exe_25fa0",
@@ -8646,7 +8646,7 @@
    "exe:d:95098"
   ],
   "jp": "単体１人　無属性　３×３マス{n}ダメージ＋即死",
-  "en": ""
+  "en": "Solo 1P Neutral 3x3{n}Damage + Instant Death"
  },
  {
   "id": "exe_25fcc",
@@ -8658,7 +8658,7 @@
    "exe:d:9509c"
   ],
   "jp": "単体１人　無属性　敵エリア{n}ダメージ＋即死",
-  "en": ""
+  "en": "Solo 1P Neutral Enemy Area{n}Damage + Instant Death"
  },
  {
   "id": "exe_25ff8",
@@ -8687,7 +8687,7 @@
    "exe:d:953b4"
   ],
   "jp": "単体１人　無属性　３×３マス{n}ダメージ",
-  "en": ""
+  "en": "Solo 1P Neutral 3x3{n}Damage"
  },
  {
   "id": "exe_26020",
@@ -8700,7 +8700,7 @@
    "exe:d:950bc"
   ],
   "jp": "単体１人　風属性　１×１マス{n}ダメージ",
-  "en": ""
+  "en": "Solo 1P Wind 1x1{n}Damage"
  },
  {
   "id": "exe_26048",
@@ -8714,7 +8714,7 @@
    "exe:d:953a8"
   ],
   "jp": "単体１人　地属性　１×１マス{n}ダメージ",
-  "en": ""
+  "en": "Solo 1P Earth 1x1{n}Damage"
  },
  {
   "id": "exe_26070",
@@ -8726,7 +8726,7 @@
    "exe:d:950d8"
   ],
   "jp": "単体１人　無属性　敵エリア{n}ダメージ＋毒",
-  "en": ""
+  "en": "Solo 1P Neutral Enemy Area{n}Damage + Poison"
  },
  {
   "id": "exe_26098",
@@ -8738,7 +8738,7 @@
    "exe:d:950dc"
   ],
   "jp": "単体１人　無属性　３×３マス{n}ダメージ＋毒",
-  "en": ""
+  "en": "Solo 1P Neutral 3x3{n}Damage + Poison"
  },
  {
   "id": "exe_260c4",
@@ -8750,7 +8750,7 @@
    "exe:d:950e0"
   ],
   "jp": "単体１人　無属性　１×１マス{n}ダメージ＋毒",
-  "en": ""
+  "en": "Solo 1P Neutral 1x1{n}Damage + Poison"
  },
  {
   "id": "exe_260f0",
@@ -8762,7 +8762,7 @@
    "exe:d:950e8"
   ],
   "jp": "一体２人　無属性　１×１マス{n}ブラックホール出現",
-  "en": ""
+  "en": "Unison 2P Neutral 1x1{n}Black Hole"
  },
  {
   "id": "exe_26120",
@@ -8776,7 +8776,7 @@
    "exe:d:952a8"
   ],
   "jp": "単体１人　無属性　３×３マス{n}ダメージ＋昏倒",
-  "en": ""
+  "en": "Solo 1P Neutral 3x3{n}Damage + Stun"
  },
  {
   "id": "exe_2614c",
@@ -8788,7 +8788,7 @@
    "exe:d:95108"
   ],
   "jp": "単体１人　無属性　３×３マス{n}物理シールド",
-  "en": ""
+  "en": "Solo 1P Neutral 3x3{n}Physical Shield"
  },
  {
   "id": "exe_26178",
@@ -8800,7 +8800,7 @@
    "exe:d:9510c"
   ],
   "jp": "一体２人　無属性　３×３マス{n}魔法シールド",
-  "en": ""
+  "en": "Unison 2P Neutral 3x3{n}Magic Shield"
  },
  {
   "id": "exe_261a4",
@@ -8812,7 +8812,7 @@
    "exe:d:95110"
   ],
   "jp": "単体１人　無属性　３×３マス{n}ダメージ＋魅了",
-  "en": ""
+  "en": "Solo 1P Neutral 3x3{n}Damage + Charm"
  },
  {
   "id": "exe_261d0",
@@ -8827,7 +8827,7 @@
    "exe:d:953b8"
   ],
   "jp": "単体１人　無属性　１×１マス{n}ダメージ＋ＨＰドレイン",
-  "en": ""
+  "en": "Solo 1P Neutral 1x1{n}Damage + HP Drain"
  },
  {
   "id": "exe_26204",
@@ -8839,7 +8839,7 @@
    "exe:d:95128"
   ],
   "jp": "単体１人　無属性　１×１マス{n}攻撃＋ＨＰ＆ＭＰドレイン＋脱力",
-  "en": ""
+  "en": "Solo 1P Neutral 1x1{n}Attack, HP & MP Drain, Lethargy"
  },
  {
   "id": "exe_26240",
@@ -8851,7 +8851,7 @@
    "exe:d:95130"
   ],
   "jp": "一体３人　無属性　３×３マス{n}魔法反射",
-  "en": ""
+  "en": "Unison 3P Neutral 3x3{n}Magic Reflect"
  },
  {
   "id": "exe_26268",
@@ -8864,7 +8864,7 @@
    "exe:d:95268"
   ],
   "jp": "単体１人　光属性　１×１マス{n}ダメージ",
-  "en": ""
+  "en": "Solo 1P Light 1x1{n}Damage"
  },
  {
   "id": "exe_26290",
@@ -8877,7 +8877,7 @@
    "exe:d:95360"
   ],
   "jp": "一体４人　光属性　敵エリア{n}ダメージ",
-  "en": ""
+  "en": "Unison 4P Light Enemy Area{n}Damage"
  },
  {
   "id": "exe_262b4",
@@ -8889,7 +8889,7 @@
    "exe:d:95150"
   ],
   "jp": "単体１人　無属性　１×１マス{n}ダメージ＋脱力",
-  "en": ""
+  "en": "Solo 1P Neutral 1x1{n}Damage + Lethargy"
  },
  {
   "id": "exe_262e0",
@@ -8901,7 +8901,7 @@
    "exe:d:95154"
   ],
   "jp": "単体１人　無属性　１×１マス{n}ダメージ＋睡眠",
-  "en": ""
+  "en": "Solo 1P Neutral 1x1{n}Damage + Sleep"
  },
  {
   "id": "exe_2630c",
@@ -8913,7 +8913,7 @@
    "exe:d:95158"
   ],
   "jp": "単体１人　無属性　敵エリア{n}ダメージ",
-  "en": ""
+  "en": "Solo 1P Neutral Enemy Area{n}Damage"
  },
  {
   "id": "exe_26330",
@@ -8925,7 +8925,7 @@
    "exe:d:95160"
   ],
   "jp": "単体１人　風属性　術者本人{n}加速",
-  "en": ""
+  "en": "Solo 1P Wind Self{n}Haste"
  },
  {
   "id": "exe_26350",
@@ -8937,7 +8937,7 @@
    "exe:d:95164"
   ],
   "jp": "単体１人　無属性　１×１マス{n}魅了",
-  "en": ""
+  "en": "Solo 1P Neutral 1x1{n}Charm"
  },
  {
   "id": "exe_26374",
@@ -8949,7 +8949,7 @@
    "exe:d:95168"
   ],
   "jp": "単体１人　無属性　１×１マス{n}魔法反射",
-  "en": ""
+  "en": "Solo 1P Neutral 1x1{n}Magic Reflect"
  },
  {
   "id": "exe_2639c",
@@ -8961,7 +8961,7 @@
    "exe:d:9516c"
   ],
   "jp": "単体１人　無属性　１×１マス{n}敵消去",
-  "en": ""
+  "en": "Solo 1P Neutral 1x1{n}Erase Enemy"
  },
  {
   "id": "exe_263c0",
@@ -8973,7 +8973,7 @@
    "exe:d:95170"
   ],
   "jp": "単体１人　無属性　両エリア{n}ノイズ",
-  "en": ""
+  "en": "Solo 1P Neutral Both Areas{n}Noise"
  },
  {
   "id": "exe_263e4",
@@ -8987,7 +8987,7 @@
    "exe:d:95344"
   ],
   "jp": "単体１人　無属性　１×１マス{n}浮遊",
-  "en": ""
+  "en": "Solo 1P Neutral 1x1{n}Levitate"
  },
  {
   "id": "exe_26408",
@@ -8999,7 +8999,7 @@
    "exe:d:95178"
   ],
   "jp": "単体１人　無属性　１×１マス{n}停止",
-  "en": ""
+  "en": "Solo 1P Neutral 1x1{n}Stop"
  },
  {
   "id": "exe_2642c",
@@ -9011,7 +9011,7 @@
    "exe:d:9517c"
   ],
   "jp": "無属性　１×１マス{n}ＨＰ回復（小）",
-  "en": ""
+  "en": "Neutral 1x1{n}HP Heal (S)"
  },
  {
   "id": "exe_26450",
@@ -9023,7 +9023,7 @@
    "exe:d:95180"
   ],
   "jp": "無属性　１×１マス{n}ＨＰ回復（中）",
-  "en": ""
+  "en": "Neutral 1x1{n}HP Heal (M)"
  },
  {
   "id": "exe_26474",
@@ -9035,7 +9035,7 @@
    "exe:d:95184"
   ],
   "jp": "無属性　１×１マス{n}ＨＰ回復（大）",
-  "en": ""
+  "en": "Neutral 1x1{n}HP Heal (L)"
  },
  {
   "id": "exe_26498",
@@ -9047,7 +9047,7 @@
    "exe:d:95188"
   ],
   "jp": "無属性　味方エリア{n}魔法シールド",
-  "en": ""
+  "en": "Neutral Ally Area{n}Magic Shield"
  },
  {
   "id": "exe_264b8",
@@ -9059,7 +9059,7 @@
    "exe:d:9518c"
   ],
   "jp": "無属性　味方エリア{n}物理シールド",
-  "en": ""
+  "en": "Neutral Ally Area{n}Physical Shield"
  },
  {
   "id": "exe_264d8",
@@ -9071,7 +9071,7 @@
    "exe:d:95190"
   ],
   "jp": "無属性　１×１マス{n}復活",
-  "en": ""
+  "en": "Neutral 1x1{n}Revive"
  },
  {
   "id": "exe_264f0",
@@ -9083,7 +9083,7 @@
    "exe:d:95194"
   ],
   "jp": "無属性　敵エリア{n}ターンアンデッド",
-  "en": ""
+  "en": "Neutral Enemy Area{n}Turn Undead"
  },
  {
   "id": "exe_26514",
@@ -9095,7 +9095,7 @@
    "exe:d:95198"
   ],
   "jp": "無属性　１×１マス{n}加速＋怪力",
-  "en": ""
+  "en": "Neutral 1x1{n}Haste + Might"
  },
  {
   "id": "exe_26534",
@@ -9107,7 +9107,7 @@
    "exe:d:9519c"
   ],
   "jp": "無属性　１×１マス{n}ＨＰ全回復",
-  "en": ""
+  "en": "Neutral 1x1{n}Full HP Heal"
  },
  {
   "id": "exe_26554",
@@ -9119,7 +9119,7 @@
    "exe:d:951a0"
   ],
   "jp": "無属性　１×１マス{n}毒回復",
-  "en": ""
+  "en": "Neutral 1x1{n}Cure Poison"
  },
  {
   "id": "exe_26570",
@@ -9131,7 +9131,7 @@
    "exe:d:951a4"
   ],
   "jp": "無属性　１×１マス{n}ノイズ回復",
-  "en": ""
+  "en": "Neutral 1x1{n}Cure Noise"
  },
  {
   "id": "exe_26590",
@@ -9145,7 +9145,7 @@
    "exe:d:9538c"
   ],
   "jp": "無属性　味方エリア{n}不和・昏倒・睡眠回復",
-  "en": ""
+  "en": "Neutral Ally Area{n}Cure Discord, Stun, Sleep"
  },
  {
   "id": "exe_265b8",
@@ -9157,7 +9157,7 @@
    "exe:d:951ac"
   ],
   "jp": "無属性　１×１マス{n}魅了回復",
-  "en": ""
+  "en": "Neutral 1x1{n}Cure Charm"
  },
  {
   "id": "exe_265d4",
@@ -9169,7 +9169,7 @@
    "exe:d:951b0"
   ],
   "jp": "無属性　１×１マス{n}不和回復",
-  "en": ""
+  "en": "Neutral 1x1{n}Cure Discord"
  },
  {
   "id": "exe_265f0",
@@ -9181,7 +9181,7 @@
    "exe:d:951b4"
   ],
   "jp": "単体１人　無属性　術者本人{n}加速",
-  "en": ""
+  "en": "Solo 1P Neutral Self{n}Haste"
  },
  {
   "id": "exe_26610",
@@ -9193,7 +9193,7 @@
    "exe:d:951b8"
   ],
   "jp": "一体３人　無属性　１×１マス{n}ダメージ＋ランダム効果",
-  "en": ""
+  "en": "Unison 3P Neutral 1x1{n}Damage + Random Effect"
  },
  {
   "id": "exe_26644",
@@ -9207,7 +9207,7 @@
    "exe:d:951c4"
   ],
   "jp": "合成連続３人　無属性　１×１マス{n}ダメージ",
-  "en": ""
+  "en": "Combo Chain 3P Neutral 1x1{n}Damage"
  },
  {
   "id": "exe_26670",
@@ -9219,7 +9219,7 @@
    "exe:d:951c8"
   ],
   "jp": "合成一体３人　水属性　敵エリア{n}ダメージ＋魅了",
-  "en": ""
+  "en": "Combo Unison 3P Water Enemy Area{n}Damage + Charm"
  },
  {
   "id": "exe_266a0",
@@ -9231,7 +9231,7 @@
    "exe:d:951cc"
   ],
   "jp": "合成連続３人　地属性　１×１マス{n}ダメージ",
-  "en": ""
+  "en": "Combo Chain 3P Earth 1x1{n}Damage"
  },
  {
   "id": "exe_266cc",
@@ -9243,7 +9243,7 @@
    "exe:d:951d0"
   ],
   "jp": "合成一体３人　無属性　敵エリア{n}ダメージ",
-  "en": ""
+  "en": "Combo Unison 3P Neutral Enemy Area{n}Damage"
  },
  {
   "id": "exe_266f4",
@@ -9255,7 +9255,7 @@
    "exe:d:951d4"
   ],
   "jp": "合成連続３人　無属性　１×１マス{n}ダメージ＋魅了",
-  "en": ""
+  "en": "Combo Chain 3P Neutral 1x1{n}Damage + Charm"
  },
  {
   "id": "exe_26724",
@@ -9267,7 +9267,7 @@
    "exe:d:951d8"
   ],
   "jp": "合成一体３人　無属性　敵エリア{n}ダメージ＋ランダム効果",
-  "en": ""
+  "en": "Combo Unison 3P Neutral Enemy Area{n}Damage + Random Effect"
  },
  {
   "id": "exe_2675c",
@@ -9279,7 +9279,7 @@
    "exe:d:951dc"
   ],
   "jp": "合成連続３人　無属性　１×１マス{n}ダメージ＋睡眠",
-  "en": ""
+  "en": "Combo Chain 3P Neutral 1x1{n}Damage + Sleep"
  },
  {
   "id": "exe_2678c",
@@ -9296,7 +9296,7 @@
    "exe:d:9520c"
   ],
   "jp": "合成連続２人　無属性　１×１マス{n}ダメージ",
-  "en": ""
+  "en": "Combo Chain 2P Neutral 1x1{n}Damage"
  },
  {
   "id": "exe_267b8",
@@ -9308,7 +9308,7 @@
    "exe:d:951e4"
   ],
   "jp": "合成一体２人　火属性　敵エリア{n}ダメージ",
-  "en": ""
+  "en": "Combo Unison 2P Fire Enemy Area{n}Damage"
  },
  {
   "id": "exe_267e0",
@@ -9320,7 +9320,7 @@
    "exe:d:951f0"
   ],
   "jp": "合成一体２人　火属性　３×３マス{n}ダメージ",
-  "en": ""
+  "en": "Combo Unison 2P Fire 3x3{n}Damage"
  },
  {
   "id": "exe_2680c",
@@ -9332,7 +9332,7 @@
    "exe:d:951f8"
   ],
   "jp": "合成連続２人　無属性　１×１マス{n}ダメージ＋ランダム効果",
-  "en": ""
+  "en": "Combo Chain 2P Neutral 1x1{n}Damage + Random Effect"
  },
  {
   "id": "exe_26844",
@@ -9344,7 +9344,7 @@
    "exe:d:95200"
   ],
   "jp": "合成一体２人　地属性　敵エリア{n}ダメージ",
-  "en": ""
+  "en": "Combo Unison 2P Earth Enemy Area{n}Damage"
  },
  {
   "id": "exe_2686c",
@@ -9356,7 +9356,7 @@
    "exe:d:95204"
   ],
   "jp": "合成一体２人　無属性　敵エリア{n}ダメージ",
-  "en": ""
+  "en": "Combo Unison 2P Neutral Enemy Area{n}Damage"
  },
  {
   "id": "exe_26894",
@@ -9368,7 +9368,7 @@
    "exe:d:95208"
   ],
   "jp": "合成一体２人　地属性　１×１マス{n}ブラックホール発生",
-  "en": ""
+  "en": "Combo Unison 2P Earth 1x1{n}Black Hole"
  },
  {
   "id": "exe_268c8",
@@ -9380,7 +9380,7 @@
    "exe:d:95210"
   ],
   "jp": "合成一体２人　無属性　３×３マス{n}ダメージ",
-  "en": ""
+  "en": "Combo Unison 2P Neutral 3x3{n}Damage"
  },
  {
   "id": "exe_268f4",
@@ -9392,7 +9392,7 @@
    "exe:d:95214"
   ],
   "jp": "単体１人　水属性　１×１マス{n}ダメージ",
-  "en": ""
+  "en": "Solo 1P Water 1x1{n}Damage"
  },
  {
   "id": "exe_2691c",
@@ -9404,7 +9404,7 @@
    "exe:d:9521c"
   ],
   "jp": "単体１人　無属性　１×１マス{n}テレポート",
-  "en": ""
+  "en": "Solo 1P Neutral 1x1{n}Teleport"
  },
  {
   "id": "exe_26944",
@@ -9416,7 +9416,7 @@
    "exe:d:95220"
   ],
   "jp": "一体２人　無属性　味方エリア{n}テレポート",
-  "en": ""
+  "en": "Unison 2P Neutral Ally Area{n}Teleport"
  },
  {
   "id": "exe_2696c",
@@ -9429,7 +9429,7 @@
    "exe:d:95228"
   ],
   "jp": "単体１人　無属性　３×３乱数{n}障害物発生",
-  "en": ""
+  "en": "Solo 1P Neutral 3x3 Random{n}Make Obstacle"
  },
  {
   "id": "exe_26994",
@@ -9441,7 +9441,7 @@
    "exe:d:9522c"
   ],
   "jp": "単体１人　無属性　３×３乱数{n}停止トラップ",
-  "en": ""
+  "en": "Solo 1P Neutral 3x3 Random{n}Stop Trap"
  },
  {
   "id": "exe_269c0",
@@ -9453,7 +9453,7 @@
    "exe:d:95230"
   ],
   "jp": "単体１人　無属性　３×３乱数{n}ダメージトラップ",
-  "en": ""
+  "en": "Solo 1P Neutral 3x3 Random{n}Damage Trap"
  },
  {
   "id": "exe_269f0",
@@ -9466,7 +9466,7 @@
    "exe:d:95238"
   ],
   "jp": "単体１人　無属性　１×１マス{n}マグネット出現",
-  "en": ""
+  "en": "Solo 1P Neutral 1x1{n}Magnet"
  },
  {
   "id": "exe_26a1c",
@@ -9478,7 +9478,7 @@
    "exe:d:9523c"
   ],
   "jp": "単体１人　地属性　３×３ランダム{n}召喚神（地）召喚",
-  "en": ""
+  "en": "Solo 1P Earth 3x3 Random{n}Summon Earth God"
  },
  {
   "id": "exe_26a50",
@@ -9490,7 +9490,7 @@
    "exe:d:95240"
   ],
   "jp": "単体１人　水属性　３×３ランダム{n}召喚神（水）召喚",
-  "en": ""
+  "en": "Solo 1P Water 3x3 Random{n}Summon Water God"
  },
  {
   "id": "exe_26a84",
@@ -9502,7 +9502,7 @@
    "exe:d:95244"
   ],
   "jp": "単体１人　無属性　１×１マス{n}アンデッド消去穴出現",
-  "en": ""
+  "en": "Solo 1P Neutral 1x1{n}Undead Hole"
  },
  {
   "id": "exe_26ab8",
@@ -9514,7 +9514,7 @@
    "exe:d:9524c"
   ],
   "jp": "単体１人　無属性　１×１マス{n}インセクト消去穴出現",
-  "en": ""
+  "en": "Solo 1P Neutral 1x1{n}Insect Hole"
  },
  {
   "id": "exe_26aec",
@@ -9526,7 +9526,7 @@
    "exe:d:95250"
   ],
   "jp": "単体１人　無属性　１×１マス{n}ビースト消去穴出現",
-  "en": ""
+  "en": "Solo 1P Neutral 1x1{n}Beast Hole"
  },
  {
   "id": "exe_26b1c",
@@ -9538,7 +9538,7 @@
    "exe:d:95254"
   ],
   "jp": "無属性　敵エリア{n}ＨＰ回復",
-  "en": ""
+  "en": "Neutral Enemy Area{n}HP Heal"
  },
  {
   "id": "exe_26b38",
@@ -9550,7 +9550,7 @@
    "exe:d:95258"
   ],
   "jp": "無属性　１×１マス{n}ＭＰ回復",
-  "en": ""
+  "en": "Neutral 1x1{n}MP Heal"
  },
  {
   "id": "exe_26b54",
@@ -9562,7 +9562,7 @@
    "exe:d:9525c"
   ],
   "jp": "無属性　味方エリア{n}ＭＰ全消費で復活＋ＨＰ全回復",
-  "en": ""
+  "en": "Neutral Ally Area{n}All MP: Revive, Full HP"
  },
  {
   "id": "exe_26b84",
@@ -9574,7 +9574,7 @@
    "exe:d:95260"
   ],
   "jp": "無属性　味方エリア{n}メンタルシールド",
-  "en": ""
+  "en": "Neutral Ally Area{n}Mental Shield"
  },
  {
   "id": "exe_26ba8",
@@ -9586,7 +9586,7 @@
    "exe:d:95264"
   ],
   "jp": "無属性　１×１マス{n}脱力回復",
-  "en": ""
+  "en": "Neutral 1x1{n}Cure Lethargy"
  },
  {
   "id": "exe_26bc4",
@@ -9598,7 +9598,7 @@
    "exe:d:9526c"
   ],
   "jp": "連続３人　水属性　１×１マス{n}ダメージ",
-  "en": ""
+  "en": "Chain 3P Water 1x1{n}Damage"
  },
  {
   "id": "exe_26bec",
@@ -9613,7 +9613,7 @@
    "exe:d:95298"
   ],
   "jp": "連続３人　無属性　１×１マス{n}ダメージ",
-  "en": ""
+  "en": "Chain 3P Neutral 1x1{n}Damage"
  },
  {
   "id": "exe_26c14",
@@ -9625,7 +9625,7 @@
    "exe:d:95288"
   ],
   "jp": "連続２人　無属性　１×１マス{n}ダメージ＋弾き飛ばし",
-  "en": ""
+  "en": "Chain 2P Neutral 1x1{n}Damage + Knockback"
  },
  {
   "id": "exe_26c48",
@@ -9637,7 +9637,7 @@
    "exe:d:9528c"
   ],
   "jp": "単体１人　無属性　１×１マス{n}ダメージ＋昏倒",
-  "en": ""
+  "en": "Solo 1P Neutral 1x1{n}Damage + Stun"
  },
  {
   "id": "exe_26c74",
@@ -9649,7 +9649,7 @@
    "exe:d:95294"
   ],
   "jp": "連続２人　無属性　１×１マス{n}ダメージ",
-  "en": ""
+  "en": "Chain 2P Neutral 1x1{n}Damage"
  },
  {
   "id": "exe_26c9c",
@@ -9661,7 +9661,7 @@
    "exe:d:952b8"
   ],
   "jp": "単体１人　無属性　３×３マス{n}停止",
-  "en": ""
+  "en": "Solo 1P Neutral 3x3{n}Stop"
  },
  {
   "id": "exe_26cc0",
@@ -9673,7 +9673,7 @@
    "exe:d:952c0"
   ],
   "jp": "単体１人　無属性　術者本人{n}ヨーコ玉ＭＰ回復",
-  "en": ""
+  "en": "Solo 1P Neutral Self{n}Yoko Orb MP Heal"
  },
  {
   "id": "exe_26cec",
@@ -9685,7 +9685,7 @@
    "exe:d:952c4"
   ],
   "jp": "一体２人　無属性　１×１マス{n}ＨＰドレイン",
-  "en": ""
+  "en": "Unison 2P Neutral 1x1{n}HP Drain"
  },
  {
   "id": "exe_26d18",
@@ -9697,7 +9697,7 @@
    "exe:d:952c8"
   ],
   "jp": "連続３人　無属性　１×１マス{n}ＨＰ＆ＭＰドレイン",
-  "en": ""
+  "en": "Chain 3P Neutral 1x1{n}HP & MP Drain"
  },
  {
   "id": "exe_26d48",
@@ -9709,7 +9709,7 @@
    "exe:d:952cc"
   ],
   "jp": "単体１人　無属性　１×１マス{n}防物理シールドダウン",
-  "en": ""
+  "en": "Solo 1P Neutral 1x1{n}Shield Down"
  },
  {
   "id": "exe_26d7c",
@@ -9721,7 +9721,7 @@
    "exe:d:952d0"
   ],
   "jp": "単体１人　無属性　１×１マス{n}停止トラップ",
-  "en": ""
+  "en": "Solo 1P Neutral 1x1{n}Stop Trap"
  },
  {
   "id": "exe_26da8",
@@ -9733,7 +9733,7 @@
    "exe:d:952d4"
   ],
   "jp": "単体１人　無属性　１×１マス{n}ダメージトラップ",
-  "en": ""
+  "en": "Solo 1P Neutral 1x1{n}Damage Trap"
  },
  {
   "id": "exe_26dd8",
@@ -9745,7 +9745,7 @@
    "exe:d:952dc"
   ],
   "jp": "単体１人　闇属性　３×３ランダム{n}召喚神（闇）召喚",
-  "en": ""
+  "en": "Solo 1P Dark 3x3 Random{n}Summon Dark God"
  },
  {
   "id": "exe_26e0c",
@@ -9757,7 +9757,7 @@
    "exe:d:952e0"
   ],
   "jp": "単体１人　風属性　３×３ランダム{n}召喚神（風）召喚",
-  "en": ""
+  "en": "Solo 1P Wind 3x3 Random{n}Summon Wind God"
  },
  {
   "id": "exe_26e40",
@@ -9769,7 +9769,7 @@
    "exe:d:952e4"
   ],
   "jp": "単体１人　火属性　３×３ランダム{n}召喚神（火）召喚",
-  "en": ""
+  "en": "Solo 1P Fire 3x3 Random{n}Summon Fire God"
  },
  {
   "id": "exe_26e74",
@@ -9782,7 +9782,7 @@
    "exe:d:95384"
   ],
   "jp": "単体１人　無属性　術者本人{n}怪力",
-  "en": ""
+  "en": "Solo 1P Neutral Self{n}Might"
  },
  {
   "id": "exe_26e94",
@@ -9794,7 +9794,7 @@
    "exe:d:952ec"
   ],
   "jp": "単体１人　無属性　３×３乱数{n}ＭＰダメージトラップ",
-  "en": ""
+  "en": "Solo 1P Neutral 3x3 Random{n}MP Damage Trap"
  },
  {
   "id": "exe_26ec8",
@@ -9806,7 +9806,7 @@
    "exe:d:952f0"
   ],
   "jp": "無属性　味方エリア{n}フィールド状態初期化",
-  "en": ""
+  "en": "Neutral Ally Area{n}Reset Field"
  },
  {
   "id": "exe_26ef0",
@@ -9818,7 +9818,7 @@
    "exe:d:952f4"
   ],
   "jp": "無属性　両エリア{n}キャラクター状態初期化",
-  "en": ""
+  "en": "Neutral Both Areas{n}Reset Status"
  },
  {
   "id": "exe_26f18",
@@ -9830,7 +9830,7 @@
    "exe:d:952f8"
   ],
   "jp": "単体１人　無属性　1×1マス{n}波動",
-  "en": ""
+  "en": "Solo 1P Neutral 1x1{n}Wave"
  },
  {
   "id": "exe_26f38",
@@ -9842,7 +9842,7 @@
    "exe:d:952fc"
   ],
   "jp": "単体１人　無属性　１×１マス{n}ダメージ地帯発生",
-  "en": ""
+  "en": "Solo 1P Neutral 1x1{n}Damage Zone"
  },
  {
   "id": "exe_26f68",
@@ -9854,7 +9854,7 @@
    "exe:d:95300"
   ],
   "jp": "単体１人　無属性　１×１マス{n}ノイズ地帯発生",
-  "en": ""
+  "en": "Solo 1P Neutral 1x1{n}Noise Zone"
  },
  {
   "id": "exe_26f94",
@@ -9866,7 +9866,7 @@
    "exe:d:95304"
   ],
   "jp": "単体１人　無属性　１×１マス{n}睡眠地帯発生",
-  "en": ""
+  "en": "Solo 1P Neutral 1x1{n}Sleep Zone"
  },
  {
   "id": "exe_26fc0",
@@ -9878,7 +9878,7 @@
    "exe:d:95308"
   ],
   "jp": "単体１人　無属性　１×１マス{n}毒地帯発生",
-  "en": ""
+  "en": "Solo 1P Neutral 1x1{n}Poison Zone"
  },
  {
   "id": "exe_26fe8",
@@ -9890,7 +9890,7 @@
    "exe:d:9530c"
   ],
   "jp": "単体１人　無属性　１×１マス{n}脱力地帯発生",
-  "en": ""
+  "en": "Solo 1P Neutral 1x1{n}Lethargy Zone"
  },
  {
   "id": "exe_27014",
@@ -9902,7 +9902,7 @@
    "exe:d:95310"
   ],
   "jp": "単体１人　無属性　１×１マス{n}停止地帯発生",
-  "en": ""
+  "en": "Solo 1P Neutral 1x1{n}Stop Zone"
  },
  {
   "id": "exe_27040",
@@ -9914,7 +9914,7 @@
    "exe:d:95314"
   ],
   "jp": "単体１人　無属性　１×１マス{n}魅了地帯発生",
-  "en": ""
+  "en": "Solo 1P Neutral 1x1{n}Charm Zone"
  },
  {
   "id": "exe_2706c",
@@ -9926,7 +9926,7 @@
    "exe:d:9531c"
   ],
   "jp": "単体１人　無属性　３×３マス{n}防御力アップ",
-  "en": ""
+  "en": "Solo 1P Neutral 3x3{n}Defense Up"
  },
  {
   "id": "exe_27098",
@@ -9938,7 +9938,7 @@
    "exe:d:95320"
   ],
   "jp": "一体２人　無属性　３×３マス{n}魔法抵抗力アップ",
-  "en": ""
+  "en": "Unison 2P Neutral 3x3{n}Resist Up"
  },
  {
   "id": "exe_270c8",
@@ -9950,7 +9950,7 @@
    "exe:d:95324"
   ],
   "jp": "無属性　味方エリア{n}ＨＰ回復（大）",
-  "en": ""
+  "en": "Neutral Ally Area{n}HP Heal (L)"
  },
  {
   "id": "exe_270ec",
@@ -9962,7 +9962,7 @@
    "exe:d:95328"
   ],
   "jp": "無属性　味方エリア{n}ＨＰ全回復",
-  "en": ""
+  "en": "Neutral Ally Area{n}Full HP Heal"
  },
  {
   "id": "exe_2710c",
@@ -9974,7 +9974,7 @@
    "exe:d:95330"
   ],
   "jp": "連続３人　無属性　１×１マス{n}ダメージ＋弾き飛ばし",
-  "en": ""
+  "en": "Chain 3P Neutral 1x1{n}Damage + Knockback"
  },
  {
   "id": "exe_27140",
@@ -9986,7 +9986,7 @@
    "exe:d:95334"
   ],
   "jp": "単体１人　火属性　３×３マス{n}ダメージ",
-  "en": ""
+  "en": "Solo 1P Fire 3x3{n}Damage"
  },
  {
   "id": "exe_27168",
@@ -9998,7 +9998,7 @@
    "exe:d:9533c"
   ],
   "jp": "単体１人　無属性　１×１マス{n}加速",
-  "en": ""
+  "en": "Solo 1P Neutral 1x1{n}Haste"
  },
  {
   "id": "exe_2718c",
@@ -10010,7 +10010,7 @@
    "exe:d:95340"
   ],
   "jp": "単体１人　無属性　１×１マス{n}怪力",
-  "en": ""
+  "en": "Solo 1P Neutral 1x1{n}Might"
  },
  {
   "id": "exe_271b0",
@@ -10022,7 +10022,7 @@
    "exe:d:95348"
   ],
   "jp": "単体１人　無属性　術者本人{n}怪力＋加速",
-  "en": ""
+  "en": "Solo 1P Neutral Self{n}Might + Haste"
  },
  {
   "id": "exe_271d8",
@@ -10035,7 +10035,7 @@
    "exe:d:95388"
   ],
   "jp": "無属性　味方エリア{n}全バッドステイタス回復",
-  "en": ""
+  "en": "Neutral Ally Area{n}Cure All Ailments"
  },
  {
   "id": "exe_27204",
@@ -10047,7 +10047,7 @@
    "exe:d:95350"
   ],
   "jp": "一体３人　地属性　敵エリア{n}昏倒",
-  "en": ""
+  "en": "Unison 3P Earth Enemy Area{n}Stun"
  },
  {
   "id": "exe_27224",
@@ -10059,7 +10059,7 @@
    "exe:d:95354"
   ],
   "jp": "無属性　１×１マス{n}毒＆脱力回復",
-  "en": ""
+  "en": "Neutral 1x1{n}Cure Poison, Lethargy"
  },
  {
   "id": "exe_27244",
@@ -10071,7 +10071,7 @@
    "exe:d:95358"
   ],
   "jp": "無属性　１×１マス{n}魅了＆ノイズ回復",
-  "en": ""
+  "en": "Neutral 1x1{n}Cure Charm, Noise"
  },
  {
   "id": "exe_27268",
@@ -10083,7 +10083,7 @@
    "exe:d:9535c"
   ],
   "jp": "無属性　１×１マス{n}ＨＰ＆ＭＰ回復",
-  "en": ""
+  "en": "Neutral 1x1{n}HP & MP Heal"
  },
  {
   "id": "exe_2728c",
@@ -10095,7 +10095,7 @@
    "exe:d:9536c"
   ],
   "jp": "一体４人　無属性　敵エリア{n}ダメージ",
-  "en": ""
+  "en": "Unison 4P Neutral Enemy Area{n}Damage"
  },
  {
   "id": "exe_272b0",
@@ -10107,7 +10107,7 @@
    "exe:d:95380"
   ],
   "jp": "単体１人　無属性　敵エリア{n}アンデッド破壊",
-  "en": ""
+  "en": "Solo 1P Neutral Enemy Area{n}Destroy Undead"
  },
  {
   "id": "exe_8e180",

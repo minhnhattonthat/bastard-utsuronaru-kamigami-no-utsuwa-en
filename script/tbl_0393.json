@@ -9,7 +9,7 @@
    "t393:rec0"
   ],
   "jp": "比翼陣",
-  "en": ""
+  "en": "Paired Wings"
  },
  {
   "id": "t0393_00030",
@@ -21,7 +21,7 @@
    "t393:rec0"
   ],
   "jp": "前列２人が補助関係となっていて{n}単独前衛に攻撃補助します",
-  "en": ""
+  "en": "Front two support. Solo vanguard{n}gains attack support."
  },
  {
   "id": "t0393_00088",
@@ -33,7 +33,7 @@
    "t393:rec1"
   ],
   "jp": "嘴尖突",
-  "en": ""
+  "en": "Beak Thrust"
  },
  {
   "id": "t0393_0009c",
@@ -45,7 +45,7 @@
    "t393:rec1"
   ],
   "jp": "中列の２人が前進すれば単独前衛に{n}２人で攻撃補助できます",
-  "en": ""
+  "en": "If middle two advance, they give{n}solo vanguard attack support."
  },
  {
   "id": "t0393_000f4",
@@ -57,7 +57,7 @@
    "t393:rec2"
   ],
   "jp": "鶴翼翔",
-  "en": ""
+  "en": "Crane Wing"
  },
  {
   "id": "t0393_00108",
@@ -69,7 +69,7 @@
    "t393:rec2"
   ],
   "jp": "前衛２人が後退すれば中心の人物を{n}２人で防御補助できます",
-  "en": ""
+  "en": "If front two fall back, they give{n}the center defense support."
  },
  {
   "id": "t0393_00160",
@@ -81,7 +81,7 @@
    "t393:rec3"
   ],
   "jp": "踊尾閃",
-  "en": ""
+  "en": "Dancing Tail"
  },
  {
   "id": "t0393_00174",
@@ -93,7 +93,7 @@
    "t393:rec3"
   ],
   "jp": "最後列の人物が前進すれば{n}２人から防御補助を受けられます",
-  "en": ""
+  "en": "If the last row advances, it gets{n}defense support from two."
  },
  {
   "id": "t0393_001cc",
@@ -105,7 +105,7 @@
    "t393:rec4"
   ],
   "jp": "竜蟠構",
-  "en": ""
+  "en": "Coiled Dragon"
  },
  {
   "id": "t0393_001e0",
@@ -117,7 +117,7 @@
    "t393:rec4"
   ],
   "jp": "中列２人が一体技を構成し{n}その内左側の人物は補助構成します",
-  "en": ""
+  "en": "Middle two form a Unison skill;{n}the left one can support."
  },
  {
   "id": "t0393_00238",
@@ -129,7 +129,7 @@
    "t393:rec5"
   ],
   "jp": "虎踞陣",
-  "en": ""
+  "en": "Crouching Tiger"
  },
  {
   "id": "t0393_0024c",
@@ -141,7 +141,7 @@
    "t393:rec5"
   ],
   "jp": "前衛の後退で連続技を構成します{n}後列２人から攻撃補助されます",
-  "en": ""
+  "en": "A front pullback forms a Chain;{n}rear two give attack support."
  },
  {
   "id": "t0393_002a4",
@@ -153,7 +153,7 @@
    "t393:rec6"
   ],
   "jp": "錐攻雁陣",
-  "en": ""
+  "en": "Goose Wedge"
  },
  {
   "id": "t0393_002b8",
@@ -165,7 +165,7 @@
    "t393:rec6"
   ],
   "jp": "万遍なく補助関係ですが{n}単独前衛に攻撃補助が２人付きます",
-  "en": ""
+  "en": "Even support; the solo vanguard{n}gets two attack supports."
  },
  {
   "id": "t0393_00310",
@@ -177,7 +177,7 @@
    "t393:rec7"
   ],
   "jp": "護央雁陣",
-  "en": ""
+  "en": "Goose Guard"
  },
  {
   "id": "t0393_00324",
@@ -189,7 +189,7 @@
    "t393:rec7"
   ],
   "jp": "万遍なく補助関係ですが{n}最後列に防御補助が２人付きます",
-  "en": ""
+  "en": "Even support; the last row{n}gets two defense supports."
  },
  {
   "id": "t0393_0037c",
@@ -201,7 +201,7 @@
    "t393:rec8"
   ],
   "jp": "渦状蜷陣",
-  "en": ""
+  "en": "Spiral Shell"
  },
  {
   "id": "t0393_00390",
@@ -213,7 +213,7 @@
    "t393:rec8"
   ],
   "jp": "中列に補助２人を置いた{n}バランスの良い陣形です",
-  "en": ""
+  "en": "Two supports in the middle:{n}a well-balanced formation."
  },
  {
   "id": "t0393_003e8",
@@ -225,7 +225,7 @@
    "t393:rec9"
   ],
   "jp": "飛竜鳳翼",
-  "en": ""
+  "en": "Wyvern Phoenix"
  },
  {
   "id": "t0393_003fc",
@@ -237,7 +237,7 @@
    "t393:rec9"
   ],
   "jp": "前衛２人を補助にするか{n}前衛も一体技を組むか選択可能です",
-  "en": ""
+  "en": "Front two can support,{n}or join a Unison skill."
  },
  {
   "id": "t0393_00454",
@@ -249,7 +249,7 @@
    "t393:rec10"
   ],
   "jp": "群狼如旋",
-  "en": ""
+  "en": "Wolf Pack Whirl"
  },
  {
   "id": "t0393_00468",
@@ -261,7 +261,7 @@
    "t393:rec10"
   ],
   "jp": "右端２人を補助にするか{n}右端も連続技を組むか選択可能です",
-  "en": ""
+  "en": "Right two can support,{n}or join a Chain skill."
  },
  {
   "id": "t0393_004c0",
@@ -273,7 +273,7 @@
    "t393:rec11"
   ],
   "jp": "竜虎相撃",
-  "en": ""
+  "en": "Dragon vs. Tiger"
  },
  {
   "id": "t0393_004d4",
@@ -285,7 +285,7 @@
    "t393:rec11"
   ],
   "jp": "２人技の一体技と連続技を{n}一度に発動できる陣形です",
-  "en": ""
+  "en": "Fires a two-person Unison and{n}Chain skill at the same time."
  },
  {
   "id": "t0393_0052c",
@@ -297,7 +297,7 @@
    "t393:rec12"
   ],
   "jp": "虎臣衛穴",
-  "en": ""
+  "en": "Tiger Guard"
  },
  {
   "id": "t0393_00540",
@@ -309,7 +309,7 @@
    "t393:rec12"
   ],
   "jp": "４人の位置が集中しているので{n}一体、連続への移行が容易です",
-  "en": ""
+  "en": "Four grouped close together:{n}shifts easily to Unison or Chain."
  },
  {
   "id": "t0393_00598",
@@ -321,7 +321,7 @@
    "t393:rec13"
   ],
   "jp": "蛟竜坐窺",
-  "en": ""
+  "en": "Watching Dragon"
  },
  {
   "id": "t0393_005ac",
@@ -333,7 +333,7 @@
    "t393:rec13"
   ],
   "jp": "前列、後列で{n}一体技が一歩で構成できます",
-  "en": ""
+  "en": "Front and rear rows form{n}a Unison skill in one step."
  },
  {
   "id": "t0393_00604",
@@ -345,7 +345,7 @@
    "t393:rec14"
   ],
   "jp": "豺狼乱舞",
-  "en": ""
+  "en": "Jackal Dance"
  },
  {
   "id": "t0393_00618",
@@ -357,7 +357,7 @@
    "t393:rec14"
   ],
   "jp": "右端、左端で{n}連続技が一歩で構成できます",
-  "en": ""
+  "en": "Far right and left form{n}a Chain skill in one step."
  },
  {
   "id": "t0393_00670",
@@ -369,7 +369,7 @@
    "t393:rec15"
   ],
   "jp": "虎豹牙突",
-  "en": ""
+  "en": "Tiger Fang Rush"
  },
  {
   "id": "t0393_00684",
@@ -381,7 +381,7 @@
    "t393:rec15"
   ],
   "jp": "右端、左端で連続技が構成できます",
-  "en": ""
+  "en": "Far right and left form{n}a Chain skill."
  },
  {
   "id": "t0393_006dc",
@@ -393,7 +393,7 @@
    "t393:rec16"
   ],
   "jp": "竜尾尖角",
-  "en": ""
+  "en": "Dragon Tail Horn"
  },
  {
   "id": "t0393_006f0",
@@ -405,7 +405,7 @@
    "t393:rec16"
   ],
   "jp": "前半分で補助、後ろ半分で一体技が構成されています",
-  "en": ""
+  "en": "Front half supports,{n}rear half forms a Unison skill."
  },
  {
   "id": "t0393_00748",
@@ -417,7 +417,7 @@
    "t393:rec17"
   ],
   "jp": "雌翼抱卵",
-  "en": ""
+  "en": "Brooding Hen"
  },
  {
   "id": "t0393_0075c",
@@ -429,7 +429,7 @@
    "t393:rec17"
   ],
   "jp": "左半分で連続、右半分で補助が{n}構成されています",
-  "en": ""
+  "en": "Left half Chain,{n}right half support."
  },
  {
   "id": "t0393_007b4",
@@ -441,7 +441,7 @@
    "t393:rec18"
   ],
   "jp": "伏竜波構",
-  "en": ""
+  "en": "Hidden Dragon"
  },
  {
   "id": "t0393_007c8",
@@ -453,7 +453,7 @@
    "t393:rec18"
   ],
   "jp": "中列に４人が集まっています{n}一体技へのシフトも容易です",
-  "en": ""
+  "en": "Four in the middle row:{n}shifts easily to a Unison skill."
  },
  {
   "id": "t0393_00820",
@@ -465,7 +465,7 @@
    "t393:rec19"
   ],
   "jp": "伏虎蛇列",
-  "en": ""
+  "en": "Hidden Tiger"
  },
  {
   "id": "t0393_00834",
@@ -477,7 +477,7 @@
    "t393:rec19"
   ],
   "jp": "中列に４人が集まっています{n}連続技へのシフトも容易です",
-  "en": ""
+  "en": "Four in the middle row:{n}shifts easily to a Chain skill."
  },
  {
   "id": "t0393_0088c",
@@ -489,7 +489,7 @@
    "t393:rec20"
   ],
   "jp": "臥竜睨殺",
-  "en": ""
+  "en": "Dragon's Glare"
  },
  {
   "id": "t0393_008a0",
@@ -501,7 +501,7 @@
    "t393:rec20"
   ],
   "jp": "２人技を同時に２回発動できます",
-  "en": ""
+  "en": "Fires a two-person skill{n}twice at once."
  },
  {
   "id": "t0393_008f8",
@@ -513,7 +513,7 @@
    "t393:rec21"
   ],
   "jp": "鷹隼双舞",
-  "en": ""
+  "en": "Twin Hawk Dance"
  },
  {
   "id": "t0393_0090c",
@@ -525,7 +525,7 @@
    "t393:rec21"
   ],
   "jp": "一体技と連続技を{n}同時に発動できます",
-  "en": ""
+  "en": "Fires a Unison and a Chain{n}skill at the same time."
  },
  {
   "id": "t0393_00964",
@@ -537,7 +537,7 @@
    "t393:rec22"
   ],
   "jp": "潜竜昇仙哮",
-  "en": ""
+  "en": "Rising Dragon"
  },
  {
   "id": "t0393_00978",
@@ -549,7 +549,7 @@
    "t393:rec22"
   ],
   "jp": "２人一体技を２回発動するか{n}４人技にシフトするか選択可能です",
-  "en": ""
+  "en": "Two 2-person Unisons, or shift{n}to a 4-person skill."
  },
  {
   "id": "t0393_009d0",
@@ -561,7 +561,7 @@
    "t393:rec23"
   ],
   "jp": "獅子號呼砲",
-  "en": ""
+  "en": "Lion's Roar"
  },
  {
   "id": "t0393_009e4",
@@ -573,7 +573,7 @@
    "t393:rec23"
   ],
   "jp": "２人連続技を２回発動するか{n}４人技にシフトするか選択可能です",
-  "en": ""
+  "en": "Two 2-person Chains, or shift{n}to a 4-person skill."
  },
  {
   "id": "t0393_00a3c",
@@ -585,7 +585,7 @@
    "t393:rec24"
   ],
   "jp": "鴻鵠翼卵姿",
-  "en": ""
+  "en": "Swan Shelter"
  },
  {
   "id": "t0393_00a50",
@@ -597,7 +597,7 @@
    "t393:rec24"
   ],
   "jp": "中心で一体技を発動する２人を{n}防御補助で援護します",
-  "en": ""
+  "en": "Defense support for the two{n}firing a Unison in the center."
  },
  {
   "id": "t0393_00aa8",
@@ -609,7 +609,7 @@
    "t393:rec25"
   ],
   "jp": "玄武護甲陣",
-  "en": ""
+  "en": "Black Tortoise"
  },
  {
   "id": "t0393_00abc",
@@ -621,7 +621,7 @@
    "t393:rec25"
   ],
   "jp": "中心で連続技を発動する２人を{n}攻撃補助、防御補助で援護します",
-  "en": ""
+  "en": "Attack and defense support for{n}the two firing a center Chain."
  },
  {
   "id": "t0393_00b14",
@@ -633,7 +633,7 @@
    "t393:rec26"
   ],
   "jp": "怒鷲翔翼刃",
-  "en": ""
+  "en": "Eagle Wing Blade"
  },
  {
   "id": "t0393_00b28",
@@ -645,7 +645,7 @@
    "t393:rec26"
   ],
   "jp": "３人一体技を発動するか{n}２人一体、連続を組むか選択可能",
-  "en": ""
+  "en": "A 3-person Unison, or a two-{n}person Unison and Chain."
  },
  {
   "id": "t0393_00b80",
@@ -657,7 +657,7 @@
    "t393:rec27"
   ],
   "jp": "青竜咆天撃",
-  "en": ""
+  "en": "Azure Dragon"
  },
  {
   "id": "t0393_00b94",
@@ -669,7 +669,7 @@
    "t393:rec27"
   ],
   "jp": "４人一体技を発動可能な陣形です",
-  "en": ""
+  "en": "Can fire a 4-person{n}Unison skill."
  },
  {
   "id": "t0393_00bec",
@@ -681,7 +681,7 @@
    "t393:rec28"
   ],
   "jp": "白虎群流射",
-  "en": ""
+  "en": "White Tiger"
  },
  {
   "id": "t0393_00c00",
@@ -693,7 +693,7 @@
    "t393:rec28"
   ],
   "jp": "４人連続技を発動可能な陣形です",
-  "en": ""
+  "en": "Can fire a 4-person{n}Chain skill."
  },
  {
   "id": "t0393_00c58",
@@ -705,7 +705,7 @@
    "t393:rec29"
   ],
   "jp": "朱雀耀閃翅",
-  "en": ""
+  "en": "Vermilion Bird"
  },
  {
   "id": "t0393_00c6c",
@@ -717,6 +717,6 @@
    "t393:rec29"
   ],
   "jp": "２人技なら一体２回、連続２回を{n}選択的に発動できる陣形です",
-  "en": ""
+  "en": "Two-person: Unison twice,{n}or Chain twice, your choice."
  }
 ]
