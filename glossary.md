@@ -156,4 +156,5 @@ Title cards carry the developers' own English subtitles (for example 忘却の�
 Classes: 重戦 Heavy, 剣士 Fencer, 魔剣 Mystic, 侍 Samurai, 忍者 Ninja, 格闘 Brawler, 吸血 Vampire, 魔使 Mage. Slots: 両手主 Two-Hand, 片手主 Main, 片手副 Off, 片手兼 Either. Elements: 無 Neutral, 火 Fire, 水 Water, 地 Earth, 風 Wind, 光 Light, 闇 Dark. Status: 昏倒 Stun, 睡眠 Sleep, 脱力 Lethargy, 魅了 Charm, 不和 Discord, ノイズ Noise, 毒 Poison, 停止 Stop, 戦闘不能 incapacitated. Stats: 体力 Vitality, 知力 Wisdom, 素早さ Speed, 運 Luck, テンション Tension. Skill names and items: `script/tbl_0386.json`, `tbl_0388.json`; use those spellings in story text (ダムド = Damned, ディオ = Dio, エグ・ゾーダス = Exodus, ベノン = Venom). Enemy names: `tools/monsters.tsv`.
 
 ## Decisions from earlier batches
+- Yngwei's 主: "liege" while he doesn't know who it is, never "mistress" (s0199 reveals a man, Kall); "lord" once he knows.
 - 魔法剣士・侍: "magic swordsman, samurai". D.S. calling himself Ｄ・Ｓ様 = "the great D.S.-sama"; 俺様 = "the great me"; ハンサム様 = "Mister Handsome"; 超絶美形 = "super-gorgeous".
