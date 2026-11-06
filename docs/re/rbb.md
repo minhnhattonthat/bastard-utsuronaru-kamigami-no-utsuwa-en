@@ -34,13 +34,13 @@ Rebuild: `rbb.pack(data, {id: bytes})` keeps ids, zero-pads gaps to 0x800 and re
 | 7 | XAID | 0x390 bytes of records, XA clip table (**guess**) |
 | 8, 9 | fdb | `vers 1.01`, `nbit`, `nlst`, 8-byte `lst` records. **Not a font** (fields look like block coordinates) |
 | 10-379 | ssg, fcg, dsg (+ tables) | One event/map group per area: `fcg` title card, `dsg` map, `fcg` textures, `ssg` script. 81 `ssg`, 100 `dsg` |
-| 382 | table | 27 character records, 196-byte stride, two name fields per record (first at +20) |
-| 383-387 | tables | 386 = 501 equipment/item names, 32-byte stride (**guess** on record meaning) |
-| 388 | table | 839 enemy names, 32-byte stride |
+| 382 | table | 27 character records, 196-byte stride, two name fields per record (text.md) |
+| 383-387 | tables | 386 = 501 equipment and item names, 32-byte stride |
+| 388 | table | 839 skill names (spells, attacks), 32-byte stride |
 | 391-393 | tables | 392 = map names (44-byte stride, includes `テスト１`); 393 = 30 formations with description text |
 | 394-550 | fcg | Sky/floor strips, no text |
-| 551-645 | tables | Encounter groups, 1,316-byte stride, names use `＊３` style (developer labels: do they show in game? **unknown**) |
-| 646-736 | tables | Object/trap names per area (`障害物零号機` etc.), 188-byte stride: developer labels (**guess**) |
+| 551-643 | tables | Encounter groups, 1,316-byte stride, names use `＊３` style (developer labels: do they show in game? **unknown**) |
+| 644-736 | tables | Object/trap names per area (`障害物零号機` etc.), 188-byte stride: developer labels (**guess**) |
 | 737-835 | fcg | Enemy sprites (cast/tex) |
 | 836-1482 | fcg | 304×192 `cut####.raw` event CG, 8bpp |
 | 1483 | fcg | NEW GAME, CONTINUE, logo, publisher card |
