@@ -69,6 +69,8 @@ end
 if ENTRY_EVENT then PATCH[#PATCH + 1] = { 0x80038D50, 0x340503E8, 0x34050000 + ENTRY_EVENT } end
 local RESTORE_ON_ARRIVAL = 10  -- the new-game branch; the event words must stay until the event has run
 
+local BLURBS = 0x800C1498  -- ov4 ending blurbs, 800BFE60
+local endingAt = nil
 local patched, arrived, setBit, ok = false, false, false, false
 local scrWas, evStarted, sawBattle = 0, nil, false
 local function pass(why)
@@ -131,6 +133,15 @@ L.on_frame(function(n)
   end
   if DEBUG_AT and n == DEBUG_AT then w32(seq + 0x50C, bit.bor(r32(seq + 0x50C), 4)) end
   local overlay = r32(seq + 0x28)
+  -- The ending shows the same few blurbs on a fresh state; rotate the 69 fixed 200-byte slots so the real draw shows others.
+  if overlay == 4 and not endingAt then endingAt = n end
+  if BLURB_SHIFT and endingAt and n == endingAt + 240 then  -- the overlay's load has finished by then
+
+    local copy = ffi.new("uint8_t[?]", 69 * 200)
+    ffi.copy(copy, M + BLURBS % 0x200000, 69 * 200)
+    for j = 0, 68 do ffi.copy(M + BLURBS % 0x200000 + j * 200, copy + (j + BLURB_SHIFT) % 69 * 200, 200) end
+    L.log("WARP blurbs shifted by " .. BLURB_SHIFT .. " at frame " .. n)
+  end
   if CHECK == "map" and arrived and n > arrived + 300 and r32(seq + 4) == mapRec and overlay == 0 then pass("map") end
   if CHECK == "battle" and arrived and overlay == 1 then pass("battle overlay") end
   if overlay == 1 then sawBattle = true end

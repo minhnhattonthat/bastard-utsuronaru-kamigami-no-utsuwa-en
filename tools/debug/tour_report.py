@@ -13,6 +13,18 @@ ROOT = Path(__file__).resolve().parents[2]
 OUT = ROOT / "tools" / "windows.json"
 # A short field shows only an id's tail, and tails repeat across tables: these scenes list one table, so a tail there means that table.
 SCENE_TABLE = {"camp_items_all": "t0386", "battle_forms": "t0393", "camp_chars_all": "t0382"}
+HINTS = ROOT / "work/qa/sweep/hints.json"  # sweep scenes that print from RAM: gen_scenes.py writes which sources each covers
+
+
+def source_hint(scene):
+    """Which sources a short id in this scene can come from."""
+    if scene in SCENE_TABLE:
+        return (SCENE_TABLE[scene],)
+    hints = json.loads(HINTS.read_text(encoding="utf-8")) if HINTS.exists() else {}
+    if scene in hints:
+        return tuple(hints[scene])
+    # Overlay labels: the overlay loaded in that scene.
+    return ("ov2",) if scene.startswith(("camp_", "save_")) else ("ov1",) if scene.startswith("battle_") else ("ov4",) if scene.startswith("ending_") else ()
 
 
 def rows():
@@ -42,8 +54,9 @@ def main():
                 i, w = parts[1], int(parts[2])
                 if i not in table:  # a tiny field shows only the id's tail
                     hits = [h for h in by_tail.get(i, []) if not h.startswith("s")]
-                    if len(hits) > 1 and Path(log).parent.name in SCENE_TABLE:
-                        hits = [h for h in hits if h.startswith(SCENE_TABLE[Path(log).parent.name])] or hits
+                    hint = source_hint(Path(log).parent.name)
+                    if len(hits) > 1 and hint:
+                        hits = [h for h in hits if h.startswith(hint)] or hits
                     if len(hits) != 1:
                         ambiguous += 1
                         continue

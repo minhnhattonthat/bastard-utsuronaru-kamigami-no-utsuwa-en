@@ -101,6 +101,8 @@ def test_sweep_lists_every_script_string_and_each_ref_is_an_ori():
         if row["group"] != "sweep":
             continue
         ssg = int(re.search(r"SWEEP=(\d+)", row["vars"]).group(1))
+        if ssg >= 9000:  # finds its strings in RAM (sweep.lua `=` lines): no script behind it
+            continue
         d = entry(ssg)
         for ln in (ROOT / f"work/qa/sweep/{ssg:04d}.txt").read_text(encoding="utf-8").splitlines()[1:]:
             assert struct.unpack_from("<I", d, int(ln.split()[0]))[0] >> 26 == 0x0D, (ssg, ln)  # sweep.lua reads the string's offset from it

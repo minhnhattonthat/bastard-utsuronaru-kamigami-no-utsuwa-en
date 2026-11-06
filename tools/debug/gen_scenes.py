@@ -209,10 +209,14 @@ def special_scenes():
         scene("ending_main", "ending", w + " STATE=3", "", STAFF_FRAMES, 0, "ending"),
         scene("ending_alt", "ending", w + " STATE=3 FLAGBITS=2", "", STAFF_FRAMES, 0, "ending"),
         scene("ending_thanks", "ending", w + " STATE=4", "", 6000, 0, "ending"),
+        # warp.lua BLURB_SHIFT: these shifts take the 10 blurbs a fresh state shows across all 69 slots.
+        *[scene(f"ending_blurbs_{k}", "ending", w + f" STATE=3 BLURB_SHIFT={k}", "", STAFF_FRAMES, 0, "ending") for k in (19, 38, 46, 62, 12, 18, 39, 61, 43, 10)],
     ]
     return s
 
 
+NO_DEBUG_BATTLE = {"1_01", "2_01", "2_02_1", "3_07", "4_01", "4_09"}  # the debug battle key does nothing there, on the original disc too
+SCAN_HINTS = {}  # sweep scene -> the sources whose ids it prints, so tour_report.py can resolve a short marker id
 SWEEP_KIND = {560: "n", 624: "d", 672: "c"}  # `fn` of a string -> sweep.lua's call; a fn that is only a hint (`text.md`) shows as dialogue
 
 
@@ -230,6 +234,20 @@ def sweep_scene(mid, here, ssg, codes):
     out.mkdir(parents=True, exist_ok=True)
     (out / f"{ssg:04d}.txt").write_text("\n".join([str(codes[ev][1])] + lines) + "\n", encoding="utf-8")
     return scene(f"sweep_{mid}", "sweep", here + f" MASTER=1 EVENT={ev} SWEEP={ssg:04d}", FIELD + ";10 start;10 -", 2300 + len(lines) * 240, 30, "event")
+
+
+def scan_scene(number, name, here, ev, ev_off, rows, hints):
+    """A scene that finds marker strings in RAM and prints them (sweep.lua's `=` lines): EXE strings and tables, with no script ref."""
+    out = ROOT / "work/qa/sweep"
+    out.mkdir(parents=True, exist_ok=True)
+    (out / f"{number:04d}.txt").write_text("\n".join([str(ev_off)] + [f"={e['id'][-5:]}" for e in rows]) + "\n", encoding="utf-8")
+    SCAN_HINTS[f"sweep_{name}"] = hints
+    return scene(f"sweep_{name}", "sweep", here + f" MASTER=1 EVENT={ev} SWEEP={number:04d}", FIELD + ";10 start;10 -", 2300 + len(rows) * 240, 30, "event")
+
+
+def listed(table):
+    rows = json.loads((ROOT / f"script/{table}.json").read_text(encoding="utf-8"))
+    return [e for e in rows if e["kind"] in ("text", "label") and e.get("en")]
 
 
 def main():
@@ -253,6 +271,23 @@ def main():
             # mash = twice warp.py's event shot interval, so every text box gets a shot before the press clears it
             scenes.append(scene(f"ev_{mid}_{ev:04d}", "event", here + f" MASTER=1 EVENT={ev}" + flags, route, 4500, 240, "event"))
         scenes.append(sweep_scene(mid, here, ssg, codes))
+        # A battle in each area: every area's enemy tables load (551 and 644 + 0x800A3D30, 80079E10) and its first encounter runs.
+        if mid not in NO_DEBUG_BATTLE:
+            scenes.append(scene(f"battle_m_{mid}", "battlemap", here + " BATTLE=1", BATTLE_KEY + ";500 -", 3200, 0, "battle"))
+        if i == 0:  # EXE strings and the always-loaded tables, from any map
+            ev = min(n for n in codes if n != 1000)
+            first = (here, ev, codes[ev][1])
+    # Enemy tables load only for a battle, so they aren't here. A long table goes in two scenes, as one scene has a time limit.
+    t388 = listed("tbl_0388")
+    scenes.append(scan_scene(9000, "exe", *first, listed("exe"), ["exe"]))
+    scenes.append(scan_scene(9001, "t0388a", *first, t388[:420], ["t0388"]))
+    scenes.append(scan_scene(9002, "t0388b", *first, t388[420:], ["t0388"]))
+    scenes.append(scan_scene(9003, "t0382", *first, listed("tbl_0382"), ["t0382"]))
+    scenes.append(scan_scene(9004, "t0393", *first, listed("tbl_0393"), ["t0393"]))
+    # The field's prompts by their real function and strings (exits, which need a walk onto the point): no marker needed, so any build.
+    (ROOT / "work/qa/sweep/9005.txt").write_text("\n".join([str(first[2]), "@8003A5C0", "@8003AA88", "@8003AA70", "@8003B6CC", "@8003E454"]) + "\n", encoding="utf-8")
+    scenes.append(scene("field_prompts", "menu", first[0] + f" MASTER=1 EVENT={first[1]} SWEEP=9005", FIELD + ";10 start;400 -;6 circle;400 -;6 circle;400 -;6 circle;400 -;6 circle;400 -;6 circle;300 -", 5000, 0, "event"))
+    (ROOT / "work/qa/sweep/hints.json").write_text(json.dumps(SCAN_HINTS), encoding="utf-8")
     (HERE / "maps.tsv").write_text("\n".join(point_rows) + "\n", encoding="utf-8")
     rows = ["\t".join(COLUMNS)] + ["\t".join(s) for s in scenes]
     (HERE / "scenes.tsv").write_text("\n".join(rows) + "\n", encoding="utf-8")

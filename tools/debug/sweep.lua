@@ -11,13 +11,43 @@ local function w32(a, v) ffi.cast("uint32_t*", M + (a % 0x200000))[0] = v end
 local CODE, DONE = 0x801F2000, 0x801F7FF0  -- map 2_11 uses RAM up to 801F11A4 (ramuse.py); DONE's low half must not sign-extend
 local SEQ_PTR = 0x8009D3A8
 local BAL = { n = 0x240, d = 0x280, c = 0x2B0 }  -- bal targets: narration, dialogue, choice; 0x2A0 speaker; 0x10 event end
-local items, evOff = {}, nil
+local items, evOff, want, sites = {}, nil, nil, nil
 for line in io.lines(string.format("%s/%04d.txt", SWEEP_DIR, SWEEP)) do
   if not evOff then evOff = tonumber(line)
+  elseif line:match("^=") then  -- "=<tail>": a marker id to find in RAM (EXE strings and tables, not script strings)
+    want = want or {}
+    want[line:sub(2)] = true
+  elseif line:match("^@") then  -- "@<hex address>": the lui of a field prompt's format string
+    sites = sites or {}
+    sites[#sites + 1] = tonumber(line:sub(2), 16)
   else
     local ref, kind, spk = line:match("(%d+) (%a) (-?%d+)")
     items[#items + 1] = { tonumber(ref), kind, tonumber(spk) }
   end
+end
+
+-- Every wanted marker in RAM, by its last 5 characters, as `[tail]` or `[source_tail]`. Returns { address, has a % code }.
+local function scan()
+  local found, seen = {}, {}
+  for a = 0x10000, 0x1FCFF0 do
+    if M[a] == 0x5B then
+      local e = a + 1
+      while e < a + 18 and M[e] ~= 0x5D and M[e] ~= 0 do e = e + 1 end
+      if M[e] == 0x5D and e - a >= 6 then
+        local tail = ffi.string(M + e - 5, 5)
+        if want[tail] and not seen[tail] then
+          seen[tail] = true
+          local fmt, z = false, e
+          while M[z] ~= 0 and z < e + 300 do
+            if M[z] == 0x25 then fmt = true end
+            z = z + 1
+          end
+          found[#found + 1] = { 0x80000000 + a, fmt }
+        end
+      end
+    end
+  end
+  return found
 end
 
 local function jal(a) return 0x0C000000 + (a % 0x10000000) / 4 end
@@ -44,6 +74,27 @@ local function build(base)
     else
       emit(stub(BAL[it[2]]), 0)
     end
+  end
+  if want or sites then
+    local NAME = DONE + 8  -- what a %s prints; a %d prints its address, harmlessly
+    M[NAME % 0x200000], M[NAME % 0x200000 + 1] = 0x58, 0
+    local list = want and scan() or {}
+    for _, at in ipairs(sites or {}) do  -- a string's lui + addiu in the EXE: works on any build, and always prompts
+      local hi, lo = r32(at) % 0x10000, r32(at + 4) % 0x10000
+      if lo >= 0x8000 then lo = lo - 0x10000 end
+      list[#list + 1] = { 0x80000000 + (hi % 0x8000) * 0x10000 + lo, true }
+    end
+    for _, s in ipairs(list) do
+      local hi, lo = bit.rshift(s[1], 16), s[1] % 0x10000
+      emit(0x3C040000 + hi, 0x34840000 + lo)  -- lui $a0; ori $a0
+      if s[2] then
+        -- The field's yes/no prompt, 8003AF88(format, args): a line with % codes must go through its sprintf.
+        emit(0x3C050000 + bit.rshift(NAME, 16), 0x34A50000 + NAME % 0x10000, 0x00A03021, 0x0C00EBE2, 0x00A03821)
+      else
+        emit(stub(BAL.n), 0)
+      end
+    end
+    L.log(string.format("SWEEP scan found %d", #list))
   end
   emit(0x3C010000 + bit.rshift(DONE, 16), 0x34020001, 0xAC220000 + (DONE % 0x10000))  -- lui $at; ori $v0,1; sw $v0,lo($at)
   emit(stub(0x10), 0)

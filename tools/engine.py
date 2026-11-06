@@ -34,6 +34,15 @@ POOL_SIZE_ARG = 0x8004A884
 LIST_PAD = 0x80045DD0  # delay slot: the %-Ns width of the save list line
 LIST_WIDEN = 0x80045DF0  # jal 80053E64: ASCII to full width
 LIST_WIDEN_FN = 0x80053E64
+# Field yes/no prompt, 8003AF88: x of button, label, button, label from the box's left, set for はい and いいえ (ink ends at 96 of 96).
+# `Yes`, `No` end at 73, so the row sits 23 px left of centre.
+PROMPT_SHIFT = 11
+PROMPT_ROW = (  # (address, original word, new word): addiu reg,$s0,x
+    (0x8003B048, 0x02003821, 0x26070000 + PROMPT_SHIFT),  # was move $a3,$s0
+    (0x8003B078, 0x26050010, 0x26050010 + PROMPT_SHIFT),
+    (0x8003B0A8, 0x2607002C, 0x2607002C + PROMPT_SHIFT),
+    (0x8003B0BC, 0x2605003C, 0x2605003C + PROMPT_SHIFT),
+)
 LIST_COLUMN = 23  # a map name's longest; the format's own space makes it 24
 
 
@@ -371,4 +380,7 @@ def patch_exe(exe, base=0x8000F800, qa=False):
     at = LIST_WIDEN - base
     assert struct.unpack_from("<I", exe, at)[0] == 0x0C000000 | (LIST_WIDEN_FN & 0x0FFFFFFF) >> 2
     struct.pack_into("<I", exe, at, 0x0C000000 | (syms["listname"] & 0x0FFFFFFF) >> 2)
+    for at, old, new in PROMPT_ROW:
+        assert struct.unpack_from("<I", exe, at - base)[0] == old
+        struct.pack_into("<I", exe, at - base, new)
     return (HOOK + len(blob) + 3) & ~3

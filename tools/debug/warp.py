@@ -24,6 +24,7 @@ from skill import SKILL  # noqa: E402
 OUT = ROOT / "work/qa/warp"
 EMU = str(Path(SKILL) / "scripts/emu.py")
 PROBES = []  # --probe FILE: extra Lua; under the debugger (slower) if it uses L.on_exec
+TIMEOUT = None  # --timeout SECONDS, for scenes under the debugger
 
 
 def scenes():
@@ -47,7 +48,7 @@ def run(s, cue, state=False):
     name, out = s["name"], OUT / s["name"]
     nowarp = "NOWARP" in s["vars"]
     cmd = [sys.executable, "-X", "utf8", EMU, cue, "--out", str(out), "--frames", s["frames"], "--shot-every",
-           "120" if s["group"] in ("event", "adhoc") else "300", "--sheet", "--timeout", "1500" if s["group"] == "sweep" else "280"]
+           "120" if s["group"] in ("event", "adhoc") else "300", "--sheet", "--timeout", TIMEOUT or ("1500" if s["group"] == "sweep" else "280")]
     if not nowarp:
         cmd += ["--script", str(Path(__file__).with_name("warp.lua"))] + lua_vars(s["vars"], s["check"])
         if "PINS=" in s["vars"]:
@@ -93,7 +94,10 @@ def main():
     ap.add_argument("--check", default="none", help="ad hoc scene: map, event, battle, lost, ending or none")
     ap.add_argument("--probe", action="append", default=[], help="extra Lua script with L.on_exec hooks")
     ap.add_argument("--failed", action="store_true", help="with all: only the scenes results.tsv does not list as ok")
+    ap.add_argument("--timeout", help="seconds per scene; default 280, sweep 1500")
     a = ap.parse_args()
+    global TIMEOUT
+    TIMEOUT = a.timeout
     PROBES[:] = [str(Path(p).resolve()) for p in a.probe]
     table = scenes()
     if a.name == "list":

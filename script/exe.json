@@ -50,7 +50,7 @@
    "exe:c:2b288/2b28c"
   ],
   "jp": "この先へ進みますか？",
-  "en": "Go on ahead?"
+  "en": "    Go on ahead?"
  },
  {
   "id": "exe_008dc",
@@ -1183,7 +1183,7 @@
    "exe:c:2ec54/2ec58"
   ],
   "jp": "セーブしますか？",
-  "en": "Save?"
+  "en": "        Save?"
  },
  {
   "id": "exe_0110c",
