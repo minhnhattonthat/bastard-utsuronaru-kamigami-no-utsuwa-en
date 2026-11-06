@@ -67,6 +67,8 @@ def box(e):
             return (216, 8, 204, True) if 560 in fn and w != 228 else (216, 4, 204, True)
         return 228, 4, 216, True
     if i.startswith("ov1"):
+        if i == "ov1_011e4":  # %s = a party name and Unison/Chain, far under ARG_PX's 102 px each
+            return 300, 1, 300, False
         if not HEAD.match(jp) and "{n}" not in jp and "{page}" not in jp:
             return (32 if w and w <= 36 else 200), 1, 200, False  # labels
         return 228, 3, 216, True
