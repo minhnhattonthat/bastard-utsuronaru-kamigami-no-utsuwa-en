@@ -21,7 +21,7 @@
    ""
   ],
   "jp": "洞窟を抜けると、そこは小さな峡谷に{n}なっていた。左右に壁のような崖が{n}迫り、頭上に狭い空が見てとれる。{n}切り立った崖はよじ登りようもなく、{n}谷底の道を導かれるまま進んで行く{n}他なさそうだった。",
-  "en": ""
+  "en": "Out of the cave lay a small gorge. Cliffs{n}like walls closed in on either side, with a{n}narrow sky overhead. The sheer cliffs{n}could not be climbed, and it seemed there{n}was nothing to do but follow the road{n}along the gorge floor."
  },
  {
   "id": "s0030_008d8",
@@ -45,7 +45,7 @@
    "ヴァイ"
   ],
   "jp": "やっと洞窟からオサラバしたと思や、{n}今度は屋根がないだけかよ",
-  "en": ""
+  "en": "Finally ditch the cave, and all we get is the{n}same thing without a roof."
  },
  {
   "id": "s0030_00918",
@@ -69,7 +69,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "道は海岸線と反対に向かってる。{n}これに沿って歩いてくしかねーな。{n}ヨーコさんどう思う？　……おっ、{n}ちょっと光った。方角はＯＫだぜ",
-  "en": ""
+  "en": "The road runs away from the coastline. We{n}just gotta follow it. What do you think,{n}Yoko-san? ...Oh, she lit up a little. The{n}direction's A-OK."
  },
  {
   "id": "s0030_0099c",
@@ -93,7 +93,7 @@
    "ボル"
   ],
   "jp": "待つでござる。それがしの影に、{n}何やら先刻より反応するものが数歩{n}先にあるでござるよ。これは……細い、{n}鋼の……糸？",
-  "en": ""
+  "en": "Hold, forsooth. This one's shadow has been{n}reacting to something a few paces ahead.{n}This is... a thin, steel... thread?"
  },
  {
   "id": "s0030_00a10",
@@ -117,7 +117,7 @@
    "ボル"
   ],
   "jp": "その時、突如として煌めく鋼の糸が{n}地面から跳ね上がった。{page}髪の毛ほどの細さの、視認すら困難な{n}研ぎ澄まされた特殊鋼の糸であった。",
-  "en": ""
+  "en": "Just then a glittering steel thread sprang{n}up from the ground.{page}It was a honed thread of special steel,{n}fine as a hair and hard even to see."
  },
  {
   "id": "s0030_00a90",
@@ -141,7 +141,7 @@
    "ボル"
   ],
   "jp": "なまじの刀剣よりも優れた利刃を誇る{n}鋼糸にまともに絡め取られれば、人の{n}肉や骨など容易に切断される。もう{n}少し踏み込んでいれば、致命傷にも{n}なりかねない剣呑な罠であった。",
-  "en": ""
+  "en": "Caught square in such a thread, keener{n}than any common blade, flesh and bone{n}would be severed with ease. A few steps{n}further and it could have been fatal, a{n}truly vicious trap."
  },
  {
   "id": "s0030_00b38",
@@ -165,7 +165,7 @@
    "ボル"
   ],
   "jp": "我が妖斬糸を躱すとは――なるほど、{n}影使いがいるな。良かろう。罠如きで{n}片付いてしまっては面白味もない",
-  "en": ""
+  "en": "So you dodged my demon-slash wire -- I{n}see, you have a shadow user. Very well. It{n}would be no fun if a mere trap finished{n}you."
  },
  {
   "id": "s0030_00ba0",
@@ -187,7 +187,7 @@
    "ボル"
   ],
   "jp": "ククククク……惜しいところだったの{n}だがな。まあ良い。寿命が数秒ほど{n}伸びただけのこと",
-  "en": ""
+  "en": "Heh heh heh... so close. Ah, well. It has only{n}added a few seconds to your lives."
  },
  {
   "id": "s0030_00bf8",
@@ -211,7 +211,7 @@
    "ボル"
   ],
   "jp": "岩陰から現れたのは、長く垂らした{n}前髪で右目を覆い隠し、整った容貌の{n}奥に冷酷な雰囲気を宿した男であった。{n}周囲には幽かに輝く鋼の糸が波打ち、{n}男がそれを自在に操る極めて稀な{n}クラス――暗殺者の中でも特異な、{n}妖縛士であることを示していた。",
-  "en": ""
+  "en": "From behind a rock came a man whose{n}long forelock hid his right eye, a cold air{n}behind his fine features. Faintly shining{n}threads of steel rippled around him,{n}marking him as that rarest of classes who{n}wield them at will: a demon binder, unique{n}even among assassins."
  },
  {
   "id": "s0030_00ce4",
@@ -235,7 +235,7 @@
    "ヴァイ"
   ],
   "jp": "誰だ!?　テメエ！",
-  "en": ""
+  "en": "Who the hell are you!?"
  },
  {
   "id": "s0030_00cf8",
@@ -259,7 +259,7 @@
    "マカパイン"
   ],
   "jp": "貴様等デク人形を地獄に導く使者よ。{n}防護結界から早晩飛び出してくると{n}踏んではいたが、思ったより早く網に{n}かかってくれたわ",
-  "en": ""
+  "en": "A messenger to lead you puppets to hell. I{n}wagered you would leap out of the{n}protective barrier before long, but you{n}came into my net sooner than I thought."
  },
  {
   "id": "s0030_00d74",
@@ -283,7 +283,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "ふん、なるほどな。やはりあの要石は、{n}テメエみてえな敵対勢力を海岸線から{n}閉め出すために結界を張ってやがった{n}のか",
-  "en": ""
+  "en": "Hmph, I get it. So that keystone was making{n}a barrier to keep your kind of enemy off{n}the coast."
  },
  {
   "id": "s0030_00de8",
@@ -307,7 +307,7 @@
    "マカパイン"
   ],
   "jp": "フ……今さら気づいたとて何になる。{n}我が前に姿を晒した以上、貴様等は{n}蜘蛛の巣に絡め取られた無力な羽虫よ。{n}このマカパインのための獲物なのだ",
-  "en": ""
+  "en": "Heh... what good does it do to realize it{n}now? Having shown yourselves before me,{n}you are helpless insects caught in a spider's{n}web. Prey for I, Macalpine."
  },
  {
   "id": "s0030_00e74",
@@ -331,7 +331,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "やい三下、よくもテメエみてえな{n}二流美形、平たく言やあザコ野郎が{n}このハンサム様を前に“フッ”だの{n}羽虫だのとぬかしやがったな",
-  "en": ""
+  "en": "Hey, small-timer. A second-rate pretty boy{n}like you, or to put it plain, a nobody, has the{n}nerve to go \"heh\" and call Mister Handsome{n}an insect?"
  },
  {
   "id": "s0030_00ef4",
@@ -355,7 +355,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "しかも殺す気でやろうってんだな？{n}テメエがどういう了見で喧嘩売って{n}やがるのか知らねえが、殺し合う{n}以上、俺様はとことん残忍にやるぜ",
-  "en": ""
+  "en": "And you're looking to kill us, huh? I don't{n}know why you're picking this fight, but if it's{n}to the death, the great me's gonna be as{n}cruel as it gets."
  },
  {
   "id": "s0030_00f78",
@@ -379,7 +379,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "テメエが負けたら楽には死なせねえ。{n}身体中の傷っていう傷にカラシやら{n}塩やら塗りこんで、磯のフナムシの{n}餌にしてやる。クックック",
-  "en": ""
+  "en": "Lose, and you won't die easy. I'll rub{n}mustard and salt in every wound on your{n}body and feed you to the sea roaches on{n}the rocks. Heh heh heh."
  },
  {
   "id": "s0030_00ff8",
@@ -403,7 +403,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "余りにも堂に入ったＤ・Ｓの恫喝と、{n}真実それを実行するであろう眼光に、{n}さしもの妖縛士もいささか怯んだ{n}表情を見せた。だが、己の中に生じた{n}恐怖を抑えつけ、マカパインと名乗る{n}男は嘲笑を浮かべてみせた。",
-  "en": ""
+  "en": "Before D.S.'s practiced threat, and the{n}glint in his eye that said he would truly do{n}it, even the demon binder looked a little{n}daunted. But crushing the fear within him,{n}the man who called himself Macalpine put{n}on a sneer."
  },
  {
   "id": "s0030_010c0",
@@ -427,7 +427,7 @@
    "マカパイン"
   ],
   "jp": "我が妖斬糸は攻防一体の優れた武器。{n}貴様等など私に傷ひとつつけることは{n}できん。加えて、私は手を抜かぬ主義{n}でな。単独で襲撃などしない",
-  "en": ""
+  "en": "My demon-slash wire is a superb weapon for{n}attack and defense as one. You cannot put{n}a scratch on me. Moreover, I make it a rule{n}never to slack. I do not strike alone."
  },
  {
   "id": "s0030_01148",
@@ -451,7 +451,7 @@
    "マカパイン"
   ],
   "jp": "マカパインの言葉に合わせて、褐色の{n}肌を持つ精悍な剣士が、その背後から{n}姿を現した。睫毛の長い切れ長の瞳が{n}浅黒い貌の中で印象的に栄えているが、{n}そこにはどこか、飢えた獣を思わせる{n}渇望と猜疑の色が宿っていた。",
-  "en": ""
+  "en": "At Macalpine's words, a fierce,{n}brown-skinned swordsman appeared{n}behind him. Long-lashed, narrow eyes{n}stood out strikingly in his dark face, yet{n}they held a hunger and suspicion somehow{n}like a starving beast's."
  },
  {
   "id": "s0030_01218",
@@ -475,7 +475,7 @@
    "マカパイン"
   ],
   "jp": "その出で立ちと、湾曲した細身の剣を{n}佩いていることから察して、ヴァイや{n}ヨシュアと同じ魔法剣士・侍である{n}ことは疑いなかった。動き易さを重視{n}した軽装の鎧が、格闘戦においても{n}達者であると窺わせる。",
-  "en": ""
+  "en": "From his attire and the slim curved sword{n}at his side, he was clearly a magic{n}swordsman, a samurai like Vai and Joshua.{n}His light, nimble armor hinted at skill in{n}hand-to-hand combat as well."
  },
  {
   "id": "s0030_012dc",
@@ -523,7 +523,7 @@
    "マカパイン"
   ],
   "jp": "ハハハ！　ヨルグよ、私の妖斬糸と{n}お前の剣技・格闘術が加われば、{n}こやつ等など苦もなく片づけることが{n}できよう！",
-  "en": ""
+  "en": "Ha ha ha! Jorg, with my demon-slash wire{n}and your sword and fists together, we shall{n}dispose of these fellows with no trouble!"
  },
  {
   "id": "s0030_01354",
@@ -547,7 +547,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "へっ。ひとり増えたところで目じゃ{n}ねーな。まとめてひねってや……",
-  "en": ""
+  "en": "Heh. One more guy don't scare me. I'll wring{n}all your necks at..."
  },
  {
   "id": "s0030_01398",
@@ -571,7 +571,7 @@
    "ヨシュア"
   ],
   "jp": "ヨルグ！　ヨルグなのか!?",
-  "en": ""
+  "en": "Jorg! Is that Jorg!?"
  },
  {
   "id": "s0030_013b4",
@@ -595,7 +595,7 @@
    "ヨシュア"
   ],
   "jp": "いつしか、竜船で別れたきり姿を{n}くらましていたヨシュアが背後の{n}洞窟から追いついてきていた。",
-  "en": ""
+  "en": "Joshua, who had vanished after they{n}parted on the Dragon Ship, had at some{n}point caught up from the cave behind{n}them."
  },
  {
   "id": "s0030_01410",
@@ -619,7 +619,7 @@
    "ヴァイ"
   ],
   "jp": "ヨシュア！　一体今までどこに{n}行ってたんだよ？",
-  "en": ""
+  "en": "Joshua! Where the hell have you been?"
  },
  {
   "id": "s0030_01440",
@@ -643,7 +643,7 @@
    "ヨシュア"
   ],
   "jp": "話は後だ。とにかく今は加勢させて{n}もらうぞ！",
-  "en": ""
+  "en": "We can talk later. For now, let me lend you{n}my sword!"
  },
  {
   "id": "s0030_01470",
@@ -667,7 +667,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "あのヨルグって奴、知ってるのか？",
-  "en": ""
+  "en": "You know that Jorg guy?"
  },
  {
   "id": "s0030_01494",
@@ -691,7 +691,7 @@
    "ヨシュア"
   ],
   "jp": "知っているも何も、ヨルグは私や{n}ヴァイと志を同じくする侍のひとりだ",
-  "en": ""
+  "en": "Know him? Jorg is one of the samurai who{n}share the same ideals as Vai and me."
  },
  {
   "id": "s0030_014d8",
@@ -715,7 +715,7 @@
    "ヨシュア"
   ],
   "jp": "それに……私とお前は変わらぬ友情の{n}誓いを立てた親友だったはずだ。{n}忘れたのか、ヨルグ！",
-  "en": ""
+  "en": "And... you and I should be close friends,{n}sworn to unchanging friendship. Have you{n}forgotten, Jorg!"
  },
  {
   "id": "s0030_01530",
@@ -739,7 +739,7 @@
    "ヨルグ"
   ],
   "jp": "ヨシュアの呼びかけにも、ヨルグは{n}眉一つ動かさずに、冷ややかな目で{n}一行を眺め下ろしていた。",
-  "en": ""
+  "en": "Even at Joshua's call, Jorg did not raise{n}an eyebrow, looking down on the party{n}with cold eyes."
  },
  {
   "id": "s0030_0158c",
@@ -763,7 +763,7 @@
    "マカパイン"
   ],
   "jp": "ククク……貴様など知らぬとさ。{n}そうだとも、お前が真に友と呼ぶべき{n}人間はこのマカパインをおいて他に{n}ない。それで良いのだ、ヨルグ！",
-  "en": ""
+  "en": "Heh heh heh... he says he knows you not.{n}Quite so, the one you should truly call a{n}friend is none other than I, Macalpine. That{n}is as it should be, Jorg!"
  },
  {
   "id": "s0030_01610",
@@ -787,7 +787,7 @@
    "ヨシュア"
   ],
   "jp": "くっ……やはりヨルグも記憶を……",
-  "en": ""
+  "en": "Ngh... so Jorg has lost his memory as well..."
  },
  {
   "id": "s0030_01634",
@@ -811,7 +811,7 @@
    "マカパイン"
   ],
   "jp": "さあ、ゆくぞヨルグ！　Ｄ・Ｓの{n}首級を上げれば我等の身分は安泰だ。{n}油断せずかかれ！",
-  "en": ""
+  "en": "Now, let us go, Jorg! Take D.S.'s head and{n}our position is secure. Stay sharp!"
  },
  {
   "id": "s0030_01688",
@@ -835,7 +835,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "フハハハハーッ！　この程度の腕で{n}俺様の首を獲るだと！",
-  "en": ""
+  "en": "BWAHAHAHAHA! You think you can take the{n}great me's head with skills like that!"
  },
  {
   "id": "s0030_016c0",
@@ -859,7 +859,7 @@
    "ヨルグ"
   ],
   "jp": "くっ",
-  "en": ""
+  "en": "Ngh."
  },
  {
   "id": "s0030_016c8",
@@ -883,7 +883,7 @@
    "マカパイン"
   ],
   "jp": "むうっ！　強い――",
-  "en": ""
+  "en": "Mm! He is strong--"
  },
  {
   "id": "s0030_016dc",
@@ -907,7 +907,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "さあて、どうしてくれようか？{n}クックック、敗者に選択権はねえぞ",
-  "en": ""
+  "en": "Now then, what should I do with you? Heh{n}heh heh, losers don't get a choice."
  },
  {
   "id": "s0030_0171c",
@@ -931,7 +931,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "そうだな、まずは誰がテメエらの{n}身分を保証するのか聞かせてもらおう。{n}そいつだろ？　俺を倒してこいなんて{n}無茶をぬかしやがったのは",
-  "en": ""
+  "en": "Let's see. First I'll hear who's guaranteeing{n}your position. That's who gave the crazy{n}order to take me down, right?"
  },
  {
   "id": "s0030_017a0",
@@ -955,7 +955,7 @@
    "マカパイン"
   ],
   "jp": "……ふん、何の話だかな",
-  "en": ""
+  "en": "...Hmph. I wonder what you mean."
  },
  {
   "id": "s0030_017b8",
@@ -979,7 +979,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "いいんだぜ、喋りたくなってからで。{n}すぐに吐かれたんじゃ拷問も味気ねえ",
-  "en": ""
+  "en": "That's okay, talk when you feel like it.{n}Torture's no fun if you spill it right away."
  },
  {
   "id": "s0030_01800",
@@ -1003,7 +1003,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "どのみちテメエらはフナムシの餌に{n}なるんだから、早めにバンザイした{n}ほうが楽でいいと思うけどな。{n}ククククク……",
-  "en": ""
+  "en": "Either way you're sea-roach food, so I{n}figure you're better off giving up early. Heh{n}heh heh heh..."
  },
  {
   "id": "s0030_01870",
@@ -1027,7 +1027,7 @@
    "マカパイン"
   ],
   "jp": "う……うう",
-  "en": ""
+  "en": "Ugh... urgh."
  },
  {
   "id": "s0030_0187c",
@@ -1051,7 +1051,7 @@
    "ヴァイ"
   ],
   "jp": "おい、Ｄ・Ｓ、ちょっと……",
-  "en": ""
+  "en": "Hey, D.S., come here a sec..."
  },
  {
   "id": "s0030_01898",
@@ -1075,7 +1075,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "何だよ、こんなトコに引っ張って{n}きやがって？",
-  "en": ""
+  "en": "What's the idea, dragging me over here?"
  },
  {
   "id": "s0030_018c8",
@@ -1099,7 +1099,7 @@
    "ヴァイ"
   ],
   "jp": "ほ、本当に拷問とかすんの？{n}あと、フナムシの餌とか？",
-  "en": ""
+  "en": "Y-you're really gonna torture them? And{n}the sea roach food thing?"
  },
  {
   "id": "s0030_01900",
@@ -1123,7 +1123,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "バーカ。するわきゃねーだろ。{n}テメエがやりたいってんなら止めねえ{n}けどよ。誰が好きこのんで野郎なんざ{n}責めたりするかってんだ",
-  "en": ""
+  "en": "Moron. Like hell I would. Not that I'd stop{n}you if you wanted to. Who'd torture some{n}guy for fun?"
  },
  {
   "id": "s0030_0197c",
@@ -1147,7 +1147,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "こいつらは多分、使い捨ての斥候に{n}されたんだろうぜ。わざわざ命まで{n}取ることもねえだろ",
-  "en": ""
+  "en": "These two were probably sent as disposable{n}scouts. No need to go and kill them."
  },
  {
   "id": "s0030_019d4",
@@ -1171,7 +1171,7 @@
    "ヴァイ"
   ],
   "jp": "ホッ……そうこなくちゃ",
-  "en": ""
+  "en": "Whew... that's more like it."
  },
  {
   "id": "s0030_019ec",
@@ -1195,7 +1195,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "ただ、少しは敵の情報も手に入れて{n}おかねえとな。ここはテメエも調子を{n}合わせろ。マカパインのほうは案外{n}簡単に落ちそうだぜ",
-  "en": ""
+  "en": "Still, we gotta get a little intel on the{n}enemy. So play along. Macalpine looks like{n}he'd crack pretty easy."
  },
  {
   "id": "s0030_01a68",
@@ -1219,7 +1219,7 @@
    "ヴァイ"
   ],
   "jp": "判った。俺の演技力を見てくれ",
-  "en": ""
+  "en": "Got it. Watch me act."
  },
  {
   "id": "s0030_01a88",
@@ -1243,7 +1243,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "……さーて、中座して悪かったな。{n}まずは予告通り傷口に塩からいくか？",
-  "en": ""
+  "en": "...Right then, sorry to step away. Shall we{n}start with salt in the wounds, like I{n}promised?"
  },
  {
   "id": "s0030_01ad0",
@@ -1267,7 +1267,7 @@
    "ヴァイ"
   ],
   "jp": "へっへっへ、塩は肌にいいんだぞ。{n}痩身美容にもいいんだ。痩せちまうぜ",
-  "en": ""
+  "en": "Heh heh heh, salt's good for the skin. Great{n}for slimming, too. You'll lose weight."
  },
  {
   "id": "s0030_01b18",
@@ -1291,7 +1291,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "……（クソバカ！）。それとも{n}拷問の定番で、目玉でもくり抜いて{n}やろうかあ？　眼球ってのはよ、{n}意外に簡単に外れちまうんだぜ",
-  "en": ""
+  "en": "...(You stupid moron!) Or how about the{n}torture classic, gouging out your eye?{n}Y'know, eyeballs come out surprisingly{n}easy."
  },
  {
   "id": "s0030_01b94",
@@ -1315,7 +1315,7 @@
    "ヴァイ"
   ],
   "jp": "ほ、ホント？　そんなに簡単に{n}外れるなんて俺ヤダなあ",
-  "en": ""
+  "en": "R-really? I'd hate that, them coming out so{n}easy."
  },
  {
   "id": "s0030_01bcc",
@@ -1339,7 +1339,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "……（もー、アッチいけバカ！）。{n}さ、どうする？　早いトコ吐いて楽に{n}なっちまったほうがいーんじゃねーか？{n}その隠れた右目からいくか？",
-  "en": ""
+  "en": "...(Aw, go away, you moron!) So, what'll it be?{n}Wouldn't you rather spill it now and spare{n}yourself? Shall we start with that hidden{n}right eye?"
  },
  {
   "id": "s0030_01c54",
@@ -1363,7 +1363,7 @@
    "マカパイン"
   ],
   "jp": "く……私はただ、邪魔者を片づけて{n}くればそれ相応の待遇で迎えられると{n}持ちかけられただけだ",
-  "en": ""
+  "en": "Ngh... I was only told that if I got rid of{n}those in the way, I would be welcomed with{n}due treatment."
  },
  {
   "id": "s0030_01cb0",
@@ -1387,7 +1387,7 @@
    "ヨルグ"
   ],
   "jp": "マカパイン！　喋るのか！",
-  "en": ""
+  "en": "Macalpine! You'd talk!"
  },
  {
   "id": "s0030_01ccc",
@@ -1411,7 +1411,7 @@
    "マカパイン"
   ],
   "jp": "黙っている義務はあるまい……。{n}詳しいことは私も知らないが、{n}巨大な砦と軍団を率いた男だった。{n}鬼忍将と名乗っていたな",
-  "en": ""
+  "en": "I have no duty to keep quiet... I know no{n}details myself, but he was a man leading a{n}huge fort and an army. He called himself the{n}High Ninja."
  },
  {
   "id": "s0030_01d44",
@@ -1435,7 +1435,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "鬼忍将……知らねえ名だな",
-  "en": ""
+  "en": "High Ninja... never heard of him."
  },
  {
   "id": "s0030_01d60",
@@ -1459,7 +1459,7 @@
    "マカパイン"
   ],
   "jp": "知る限りのことは話す。だから……{n}この、右目だけは――",
-  "en": ""
+  "en": "I will tell you all I know. So... only this right{n}eye--"
  },
  {
   "id": "s0030_01d98",
@@ -1483,7 +1483,7 @@
    "マカパイン"
   ],
   "jp": "マカパインが予想外にあっさりと{n}白状し始めたために、この時一同には{n}気の緩みが生じていた。マカパインが{n}右目を覆う髪に手を伸ばしたのも、{n}Ｄ・Ｓの脅しが効いたからだと考え、{n}その不自然さに誰も気づかなかった。",
-  "en": ""
+  "en": "Since Macalpine had begun confessing{n}with unexpected ease, the whole group{n}had let its guard down. When he reached{n}for the hair covering his right eye, they{n}took it for the effect of D.S.'s threat, and{n}no one noticed how unnatural it was."
  },
  {
   "id": "s0030_01e68",
@@ -1507,7 +1507,7 @@
    "マカパイン"
   ],
   "jp": "マカパインが髪を払った瞬間、右目の{n}あるべき場所から激しい閃光が疾った。{n}彼らが目を眩まされたのは一秒にも{n}満たぬ間だったが、視覚が常態を{n}取り戻した時には、そこにはすでに{n}マカパインの姿はなかった。",
-  "en": ""
+  "en": "The moment Macalpine swept his hair{n}aside, a fierce flash shot from where his{n}right eye should have been. They were{n}blinded for less than a second, but when{n}their sight returned, Macalpine was{n}already gone."
  },
  {
   "id": "s0030_01f30",
@@ -1531,7 +1531,7 @@
    "マカパイン"
   ],
   "jp": "この敗北は油断だった！　この次は{n}必ず貴様の首を獲る。妖縛士の誇りに{n}かけてな！",
-  "en": ""
+  "en": "This defeat came from carelessness! Next{n}time I will surely have your head. On my{n}pride as a demon binder!"
  },
  {
   "id": "s0030_01f80",
@@ -1555,7 +1555,7 @@
    "マカパイン"
   ],
   "jp": "あらかじめ鋼糸を張っていたのか、{n}マカパインがそれを伝って崖の縁を{n}乗り越えていくのが見えた。",
-  "en": ""
+  "en": "He must have laid his steel thread in{n}advance: they saw Macalpine riding it up{n}over the edge of the cliff."
  },
  {
   "id": "s0030_01fe0",
@@ -1579,7 +1579,7 @@
    "ヨシュア"
   ],
   "jp": "仲間を置き去りに逃げるとは……{n}卑劣だぞ！　マカパイン！",
-  "en": ""
+  "en": "Fleeing, and abandoning your comrade... how{n}base! Macalpine!"
  },
  {
   "id": "s0030_0201c",
@@ -1603,7 +1603,7 @@
    "ヴァイ"
   ],
   "jp": "逃げちまいやがった。キッタネエ{n}野郎だぜ！　アイツ",
-  "en": ""
+  "en": "He ran off. What a dirty rat, that guy!"
  },
  {
   "id": "s0030_02050",
@@ -1627,7 +1627,7 @@
    "ヨルグ"
   ],
   "jp": "……殺すなら殺せ。この機会に{n}逃げられなかった以上、もはや{n}生き恥を晒すつもりはない",
-  "en": ""
+  "en": "...Kill me if you're going to. I failed to escape{n}this chance, so I will not live on in shame."
  },
  {
   "id": "s0030_020a4",
@@ -1651,7 +1651,7 @@
    "ヨシュア"
   ],
   "jp": "ヨルグ！　思い出せないのか？{n}私だ！　お前の友、侍大将ヨシュア・{n}ベラヒアだ！",
-  "en": ""
+  "en": "Jorg! Can you not remember? It is I! Your{n}friend, Samurai General Joshua Belahia!"
  },
  {
   "id": "s0030_020f4",
@@ -1675,7 +1675,7 @@
    "ヨルグ"
   ],
   "jp": "知らぬ！　そのような甘言で俺の{n}口を割ろうなど、舐めるにもほどが{n}ある！　俺に友などおらん。力が{n}なければ死が待つのみだ",
-  "en": ""
+  "en": "I know you not! You think sweet words will{n}loosen my tongue? Don't insult me! I have no{n}friends. Without power, only death awaits."
  },
  {
   "id": "s0030_0216c",
@@ -1699,7 +1699,7 @@
    "ヨシュア"
   ],
   "jp": "……ヨルグ",
-  "en": ""
+  "en": "...Jorg."
  },
  {
   "id": "s0030_02178",
@@ -1723,7 +1723,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "おい、オメエもう行っていーや",
-  "en": ""
+  "en": "Hey, you can go now."
  },
  {
   "id": "s0030_02198",
@@ -1747,7 +1747,7 @@
    "ボル"
   ],
   "jp": "！　Ｄ・Ｓ、何故でござる!?",
-  "en": ""
+  "en": "! D.S., why is this, forsooth!?"
  },
  {
   "id": "s0030_021b4",
@@ -1771,7 +1771,7 @@
    "ヨルグ"
   ],
   "jp": "……どういうつもりだ？　俺を{n}懐柔しようなどと思うな",
-  "en": ""
+  "en": "...What are you up to? Don't think you can{n}win me over."
  },
  {
   "id": "s0030_021ec",
@@ -1795,7 +1795,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "飽きた。テメエの好きにしろって{n}言ってんだ。とっとと失せやがれ。{n}それでまだ俺を狙いてえってんなら{n}また相手してやらあ",
-  "en": ""
+  "en": "I'm bored. I'm saying do whatever you want.{n}Get lost, quick. And if you still wanna come{n}after me, I'll take you on again."
  },
  {
   "id": "s0030_02264",
@@ -1819,7 +1819,7 @@
    "ヨルグ"
   ],
   "jp": "……後悔するぞ。次に戦う時は{n}どちらかが死ぬ",
-  "en": ""
+  "en": "...You will regret this. The next time we fight,{n}one of us dies."
  },
  {
   "id": "s0030_02294",
@@ -1843,7 +1843,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "バーカ。今度仕掛けてきやがったら{n}手加減はねえぞ。肝に銘じてきやがれ",
-  "en": ""
+  "en": "Moron. You try it again, I won't go easy. You{n}better engrave that on your liver."
  },
  {
   "id": "s0030_022dc",
@@ -1867,7 +1867,7 @@
    "ボル"
   ],
   "jp": "あの男、心が病んでござるな",
-  "en": ""
+  "en": "That man's heart is sick, forsooth."
  },
  {
   "id": "s0030_022f8",
@@ -1891,7 +1891,7 @@
    "ヨシュア"
   ],
   "jp": "やはり放ってはおけん。Ｄ・Ｓ、{n}済まないがヨルグを追わせてくれ！",
-  "en": ""
+  "en": "I cannot leave him be after all. Forgive me,{n}D.S., but let me go after Jorg!"
  },
  {
   "id": "s0030_0233c",
@@ -1915,7 +1915,7 @@
    "ヨシュア"
   ],
   "jp": "あいつはマカパインに騙されている{n}だけだ。何としても私が説得して、{n}正気を取り戻させてみせる！",
-  "en": ""
+  "en": "He is merely being deceived by Macalpine. I{n}will persuade him, whatever it takes, and{n}bring him back to his senses!"
  },
  {
   "id": "s0030_0239c",
@@ -1939,7 +1939,7 @@
    "ヨシュア"
   ],
   "jp": "峡谷の先に走り去ったヨルグを追い、{n}ヨシュアもまた、彼方に消えた。",
-  "en": ""
+  "en": "Chasing Jorg, who had run off up the{n}gorge, Joshua too vanished into the{n}distance."
  },
  {
   "id": "s0030_023e0",
@@ -1963,7 +1963,7 @@
    "ヴァイ"
   ],
   "jp": "また行っちまった",
-  "en": ""
+  "en": "There he goes again."
  },
  {
   "id": "s0030_023f4",
@@ -1987,7 +1987,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "俺たちも行くぜ。マカパインが{n}言ってた鬼忍将って名前は嘘じゃ{n}なさそうだ。砦とやらがどこにあるか{n}知らねえが、挨拶といこうじゃねえか",
-  "en": ""
+  "en": "We're going too. Doesn't look like Macalpine{n}lied about that High Ninja name. I don't know{n}where this fort is, but let's go say hello."
  },
  {
   "id": "s0030_02da0",
@@ -2011,7 +2011,7 @@
    ""
   ],
   "jp": "峡谷の奥に隠れるように、小さな祠が{n}ひっそりと建てられていた。",
-  "en": ""
+  "en": "Hidden in the depths of the gorge, a small{n}shrine stood in silence."
  },
  {
   "id": "s0030_02de0",
@@ -2035,7 +2035,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "これで行き止まりか。ヨシュアと{n}ヨルグはどうやってこの峡谷から{n}抜けだしやがったんだ？",
-  "en": ""
+  "en": "Dead end, then. How the hell did Joshua and{n}Jorg get out of this gorge?"
  },
  {
   "id": "s0030_02e38",
@@ -2059,7 +2059,7 @@
    "ヴァイ"
   ],
   "jp": "この辺りから、どこかにトンネルが{n}続いてるとか？",
-  "en": ""
+  "en": "Maybe there's a tunnel around here that{n}goes somewhere?"
  },
  {
   "id": "s0030_02e6c",
@@ -2083,7 +2083,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "いや、やっぱりさっきの塞がれた{n}洞窟が怪しいな。だが、その前に{n}この祠も調べてみねえコトにはな",
-  "en": ""
+  "en": "Nah, I figure that blocked-off cave from{n}before is the shady one after all. But first{n}we gotta check out this shrine too."
  },
  {
   "id": "s0030_02f60",
@@ -2107,7 +2107,7 @@
    "ボル"
   ],
   "jp": "む？　人の気配がするでござるよ",
-  "en": ""
+  "en": "Hm? This one senses someone, forsooth."
  },
  {
   "id": "s0030_02f80",
@@ -2131,7 +2131,7 @@
    "ボル"
   ],
   "jp": "祭壇の背後から、ひとりの男が現れた。{n}Ｄ・Ｓたちに驚いた様子も見せず、{n}男はゆっくりと近づいてきた。",
-  "en": ""
+  "en": "A man came out from behind the altar.{n}Showing no surprise at D.S. and the{n}others, he slowly approached."
  },
  {
   "id": "s0030_02fe4",

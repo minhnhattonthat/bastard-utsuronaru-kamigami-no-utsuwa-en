@@ -9,7 +9,7 @@
    "t551:rec0"
   ],
   "jp": "竜牙兵×２",
-  "en": ""
+  "en": "Dragontooth Soldier"
  },
  {
   "id": "t0551_00528",
@@ -21,7 +21,7 @@
    "t551:rec1"
   ],
   "jp": "竜牙兵×３",
-  "en": ""
+  "en": "Dragontooth Soldier"
  },
  {
   "id": "t0551_00a4c",
@@ -33,7 +33,7 @@
    "t551:rec2"
   ],
   "jp": "竜牙兵＋竜牙兵長",
-  "en": ""
+  "en": "Dragontooth Soldier"
  },
  {
   "id": "t0551_00f70",
@@ -45,7 +45,7 @@
    "t551:rec3"
   ],
   "jp": "竜牙兵×２＋竜牙兵",
-  "en": ""
+  "en": "Dragontooth Soldier"
  },
  {
   "id": "t0551_01494",
@@ -69,7 +69,7 @@
    "t551:rec5"
   ],
   "jp": "ボーンゲイター×２",
-  "en": ""
+  "en": "Bone Gator x2"
  },
  {
   "id": "t0551_01edc",
@@ -81,7 +81,7 @@
    "t551:rec6"
   ],
   "jp": "クレイセンチネル＊",
-  "en": ""
+  "en": "Clay Sentinel"
  },
  {
   "id": "t0551_02400",
@@ -93,7 +93,7 @@
    "t551:rec7"
   ],
   "jp": "ボーンゲイター×２",
-  "en": ""
+  "en": "Bone Gator x2"
  },
  {
   "id": "t0551_02924",
@@ -105,7 +105,7 @@
    "t551:rec8"
   ],
   "jp": "クレイセンチネル×",
-  "en": ""
+  "en": "Clay Sentinel"
  },
  {
   "id": "t0551_02e48",
@@ -117,6 +117,6 @@
    "t551:rec9"
   ],
   "jp": "竜牙兵×２",
-  "en": ""
+  "en": "Dragontooth Soldier"
  }
 ]

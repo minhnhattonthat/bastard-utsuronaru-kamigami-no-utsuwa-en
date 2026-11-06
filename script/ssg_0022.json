@@ -21,7 +21,7 @@
    ""
   ],
   "jp": "洞窟は、先刻とは別の海岸の、島状の{n}岩場に続いていた。",
-  "en": ""
+  "en": "The cave led to a rocky, island-like{n}stretch on a different shore from{n}before."
  },
  {
   "id": "s0022_00850",
@@ -45,7 +45,7 @@
    ""
   ],
   "jp": "周囲を海と断崖に守られた、海底洞窟{n}を通じてしか辿り着けぬ聖域がそこに{n}あった。風雨に晒され、朽ち果てつつ{n}あったが、その巨大な神殿の持つ荘厳{n}さは、今もって神聖な力を祀っている{n}ことを物語っている。",
-  "en": ""
+  "en": "There lay a sanctuary guarded by sea{n}and cliff, reachable only through an{n}undersea cave. Though weathered and{n}crumbling, the great temple's solemn{n}grandeur still spoke of a sacred power{n}enshrined within."
  },
  {
   "id": "s0022_00918",
@@ -69,7 +69,7 @@
    "ヴァイ"
   ],
   "jp": "あれは寺院……神殿か？　ずいぶん{n}大がかりなもんだな。あんなのが{n}あるってことは、この辺りにも{n}住んでる人間がいるってことか",
-  "en": ""
+  "en": "Is that a shrine... a temple? Pretty big deal.{n}If there's something like that, there must be{n}people living around here."
  },
  {
   "id": "s0022_00994",
@@ -93,7 +93,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "アホウ",
-  "en": ""
+  "en": "Dumbass."
  },
  {
   "id": "s0022_0099c",
@@ -117,7 +117,7 @@
    "ヴァイ"
   ],
   "jp": "……ムカつくほど口が悪いよな、{n}アンタは。何で俺が阿呆なんだよ！",
-  "en": ""
+  "en": "...You've got a seriously foul mouth, you{n}know that? Why am I a dumbass!"
  },
  {
   "id": "s0022_009e0",
@@ -141,7 +141,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "あの風化した様子を見ろ。今も誰か{n}参拝しているように見えるか？",
-  "en": ""
+  "en": "Look how weathered that thing is. Does it{n}look like anybody's still coming to worship?"
  },
  {
   "id": "s0022_00a20",
@@ -165,7 +165,7 @@
    "ヴァイ"
   ],
   "jp": "う……でも、きっとあそこには何か{n}あるぜ",
-  "en": ""
+  "en": "Ugh... but I bet there's something in there."
  },
  {
   "id": "s0022_00a4c",
@@ -189,7 +189,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "どうして判るんだ、どアホウ……と、{n}言いてえところだが、俺もそう思う。{n}調べてみねえとな",
-  "en": ""
+  "en": "How would you know, you total dumbass... is{n}what I'd like to say, but I think so too. We{n}gotta check it out."
  },
  {
   "id": "s0022_00b90",
@@ -213,7 +213,7 @@
    ""
   ],
   "jp": "神殿の入口は、ぶ厚い石の扉によって{n}堅く閉ざされていた。人間の力で動く{n}代物ではなく、おいそれと壊せそうな{n}岩質とも見えない。扉を開くためには{n}何らかの仕掛けがありそうだった。",
-  "en": ""
+  "en": "The temple entrance was shut fast by a{n}thick stone door. Nothing a man could{n}move, and the rock did not look easily{n}broken. It seemed there must be some{n}mechanism for opening it."
  },
  {
   "id": "s0022_00c40",
@@ -237,7 +237,7 @@
    ""
   ],
   "jp": "床面を見ると、扉の左右に少し離れた{n}位置に、幽かな切れ込みの入った{n}踏み板らしきものがあった。",
-  "en": ""
+  "en": "Looking at the floor, they found what{n}seemed to be footplates, marked by faint{n}grooves, a little way off on either side of{n}the door."
  },
  {
   "id": "s0022_00ca0",
@@ -261,7 +261,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "この踏み板、人を乗せるように{n}作られてるな。どれどれ――と",
-  "en": ""
+  "en": "These plates are made for a person to{n}stand on. Let's see, now."
  },
  {
   "id": "s0022_00cdc",
@@ -285,7 +285,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "Ｄ・Ｓがそのひとつに体重を預けると、{n}踏み板はゴリッという固い音とともに{n}数センチ沈み込んだ。",
-  "en": ""
+  "en": "When D.S. put his weight on one of them,{n}the plate sank several centimeters with a{n}hard grinding sound."
  },
  {
   "id": "s0022_00d3c",
@@ -309,7 +309,7 @@
    "ヴァイ"
   ],
   "jp": "……何も起こらねえじゃねえか",
-  "en": ""
+  "en": "...Nothing's happening."
  },
  {
   "id": "s0022_00d5c",
@@ -333,7 +333,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "鈍い野郎だな。テメエもそっちの{n}踏み板に乗れよ。どうしてふたつも{n}あると思ってんだ？",
-  "en": ""
+  "en": "You're slow, you know that? Get on that{n}other plate. Why do you think there's two of{n}'em?"
  },
  {
   "id": "s0022_00db0",
@@ -357,7 +357,7 @@
    "ヴァイ"
   ],
   "jp": "あ、そっか",
-  "en": ""
+  "en": "Oh, right."
  },
  {
   "id": "s0022_00dbc",
@@ -381,7 +381,7 @@
    "ヴァイ"
   ],
   "jp": "ヴァイがもうひとつを踏むと、やはり{n}そちらも浅く沈み込んだ。同時に、{n}神殿の扉が石の擦れる音を響かせて、{n}ゆっくりと持ち上がり始めた。",
-  "en": ""
+  "en": "When Vai stepped on the other, it too{n}sank a little. At the same time, the temple{n}door slowly began to rise with a grating{n}of stone."
  },
  {
   "id": "s0022_00e44",
@@ -405,7 +405,7 @@
    "ヴァイ"
   ],
   "jp": "なるほど！　ふたりで協力しないと{n}扉を開くことができないってワケか",
-  "en": ""
+  "en": "I get it! The door won't open unless two of{n}us work together."
  },
  {
   "id": "s0022_00e88",
@@ -429,7 +429,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "ってコトよ……あれ？",
-  "en": ""
+  "en": "That's the idea... huh?"
  },
  {
   "id": "s0022_00ea0",
@@ -453,7 +453,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "開いた扉の少し奥に、再び岩の扉が{n}姿を見せていた。そして、その前の{n}床にもうひとつ、踏み板があるのが{n}見て取れる。",
-  "en": ""
+  "en": "A little way behind the open door,{n}another door of rock had appeared. And{n}on the floor in front of it, they could see{n}yet another footplate."
  },
  {
   "id": "s0022_00f14",
@@ -477,7 +477,7 @@
    "ヴァイ"
   ],
   "jp": "あれに乗れば開くってんだろ。{n}簡単じゃんか",
-  "en": ""
+  "en": "So we get on that and it opens. Easy."
  },
  {
   "id": "s0022_00f40",
@@ -501,7 +501,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "あ、おい、ちょっと待て",
-  "en": ""
+  "en": "Ah, hey, hold on."
  },
  {
   "id": "s0022_00f58",
@@ -525,7 +525,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "ヴァイが踏み板から降り、第二の扉に{n}歩き始めた途端、開いたばかりの扉が{n}彼を押し潰さんばかりのタイミングで{n}落下した。",
-  "en": ""
+  "en": "The moment Vai stepped off his plate and{n}started for the second door, the door{n}that had just opened fell, with timing that{n}nearly crushed him."
  },
  {
   "id": "s0022_00fd0",
@@ -549,7 +549,7 @@
    "ヴァイ"
   ],
   "jp": "うわあっ！　あぶ、危ねーっ！",
-  "en": ""
+  "en": "Waaah! Th-that was close!"
  },
  {
   "id": "s0022_00ff0",
@@ -573,7 +573,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "だから待てっつったんだ、アホウ",
-  "en": ""
+  "en": "That's why I told you to wait, dumbass."
  },
  {
   "id": "s0022_01010",
@@ -597,7 +597,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "左右の踏み板が両方沈んでいねえと{n}扉はすぐに閉まるようになってやがる。{n}二ヶ所を踏んだままじゃねえと、次の{n}扉の前には辿り着けねえってワケか",
-  "en": ""
+  "en": "The door's rigged to shut unless both plates{n}stay down. So you can't reach the next{n}door unless two people keep standing on{n}them."
  },
  {
   "id": "s0022_0109c",
@@ -621,7 +621,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "どうやらもうひとり、踏み板に{n}乗っかる奴がいないと、この神殿の{n}中にゃ入れそうにねえな",
-  "en": ""
+  "en": "Looks like we can't get in this temple{n}without one more guy to stand on a plate."
  },
  {
   "id": "s0022_010f4",
@@ -645,7 +645,7 @@
    "ヴァイ"
   ],
   "jp": "あの船にいた連中がひとりでも{n}一緒に来ていればな……",
-  "en": ""
+  "en": "If even one of those guys on the ship had{n}come with us..."
  },
  {
   "id": "s0022_0112c",
@@ -669,7 +669,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "ちょっとした重さじゃ踏み板を{n}固定できそうにねえし……おい、{n}ヴァイよ。オマエ扉が閉まる前に{n}気合いで飛び込んでみねえか？",
-  "en": ""
+  "en": "No small weight's gonna hold the plate{n}down... hey, Vai. Why don't you get psyched{n}up and dive through before the door{n}shuts?"
  },
  {
   "id": "s0022_011a8",
@@ -693,7 +693,7 @@
    "ヴァイ"
   ],
   "jp": "冗談じゃねえよ！",
-  "en": ""
+  "en": "No way in hell!"
  },
  {
   "id": "s0022_011bc",
@@ -717,7 +717,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "やっぱり無理かな。それに万一中に{n}入れても、最初の扉が開いたままじゃ{n}なけりゃ次の踏み板は作動しない{n}ようになってるだろうな",
-  "en": ""
+  "en": "Guess that won't work. And even if you did{n}get in, the next plate probably won't work{n}unless the first door stays open."
  },
  {
   "id": "s0022_01238",
@@ -741,7 +741,7 @@
    "ヴァイ"
   ],
   "jp": "じゃ、何か？　俺が万に一つの{n}命懸けの挑戦をして、しかも無駄に{n}なっちゃうワケか？",
-  "en": ""
+  "en": "So what, you're saying I bet my life on a{n}one-in-ten-thousand shot, and it's all for{n}nothing?"
  },
  {
   "id": "s0022_0128c",
@@ -765,7 +765,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "さらに、ふたつの扉の間に閉じ{n}込められて、もう俺ひとりじゃ開け{n}られないから、そのうち空気もなく{n}なって、あえなく昇天するワケだ",
-  "en": ""
+  "en": "Plus, you'd get stuck between the two{n}doors, and I couldn't open them on my own,{n}so you'd run out of air and go straight to{n}heaven."
  },
  {
   "id": "s0022_0130c",
@@ -789,7 +789,7 @@
    "ヴァイ"
   ],
   "jp": "アンタなあ……",
-  "en": ""
+  "en": "Why you..."
  },
  {
   "id": "s0022_0131c",
@@ -813,7 +813,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "シッ！　人の気配だ",
-  "en": ""
+  "en": "Shh! Somebody's coming."
  },
  {
   "id": "s0022_01330",
@@ -837,7 +837,7 @@
    "ヨシュア"
   ],
   "jp": "そこにいるのはＤ・Ｓとヴァイか。{n}ふたりだけなのか？",
-  "en": ""
+  "en": "Is that D.S. and Vai there? Just the two of{n}you?"
  },
  {
   "id": "s0022_01368",
@@ -861,7 +861,7 @@
    "ヴァイ"
   ],
   "jp": "ヨシュアか！　助かったぜ！",
-  "en": ""
+  "en": "Joshua! Man, are we saved!"
  },
  {
   "id": "s0022_01384",
@@ -885,7 +885,7 @@
    "ヨシュア"
   ],
   "jp": "……なるほど、私の他に竜船に{n}乗っていたのはボルとブラドか。{n}どちらもＤ・Ｓ、あなたの心強い{n}仲間となったはずだが……",
-  "en": ""
+  "en": "...I see. Besides myself, Bol and Blad were{n}aboard the Dragon Ship. Both should have{n}become staunch allies to you, D.S..."
  },
  {
   "id": "s0022_013fc",
@@ -909,7 +909,7 @@
    "ヨシュア"
   ],
   "jp": "これ以上手間取っては敵の思う壺だ。{n}しばらく私も同行して助力しよう",
-  "en": ""
+  "en": "Any more delay plays into the enemy's{n}hands. I will accompany you and help for a{n}while."
  },
  {
   "id": "s0022_01440",
@@ -933,7 +933,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "テメエにゃ色々と訊きてえトコだが、{n}今はやめといてやらあ。この神殿の{n}探索を優先しなきゃならねえし、{n}一応信用することにしたからな",
-  "en": ""
+  "en": "I got plenty I wanna ask you, but I'll let it{n}slide for now. Exploring this temple comes{n}first, and I guess I've decided to trust you.{n}For now."
  },
  {
   "id": "s0022_014c4",
@@ -957,7 +957,7 @@
    "ヨシュア"
   ],
   "jp": "……すまない",
-  "en": ""
+  "en": "...Forgive me."
  },
  {
   "id": "s0022_014d4",
@@ -981,7 +981,7 @@
    "ブラド"
   ],
   "jp": "ヴァイは動かずに、ワシが最後の{n}スイッチを踏めばよいのだな",
-  "en": ""
+  "en": "So Vai stays put, and I am to step on the{n}last switch."
  },
  {
   "id": "s0022_01510",
@@ -1005,7 +1005,7 @@
    "ボル"
   ],
   "jp": "それがしが三番目の踏み板の上に{n}乗ればいいのでござるな",
-  "en": ""
+  "en": "So this one need only stand on the third{n}footplate, forsooth."
  },
  {
   "id": "s0022_01548",
@@ -1029,7 +1029,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "そう言うコト。頭数が揃ってて{n}助かったぜ",
-  "en": ""
+  "en": "That's the idea. Good thing we got enough{n}bodies."
  },
  {
   "id": "s0022_01574",
@@ -1053,7 +1053,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "そう言うコト。竜船で頭数を揃えた{n}甲斐があったってもんだぜ",
-  "en": ""
+  "en": "That's the idea. All that head-hunting on the{n}Dragon Ship paid off."
  },
  {
   "id": "s0022_015b0",
@@ -1077,6 +1077,6 @@
    "Ｄ・Ｓ"
   ],
   "jp": "左右の踏み板に乗ったまま、第三の{n}スイッチを踏むと、奥の扉も同様に{n}開いた。どこかでガチリと岩の噛み{n}合う音が響き、もはや踏み板から{n}降りても二枚の扉が閉まることは{n}なくなった。",
-  "en": ""
+  "en": "With the left and right plates held down,{n}stepping on the third switch opened the{n}far door the same way. A click of meshing{n}rock sounded somewhere, and now the{n}two doors no longer shut even with no{n}one on the plates."
  }
 ]

@@ -21,7 +21,7 @@
    ""
   ],
   "jp": "甲板から船の内部に入り込むと、{n}周囲の空気ががらりと変わった。{page}時すら止まっていたかに思える静寂が、{n}侵入者を引き金に、密やかな鼓動を{n}刻み始める。船自体が長い眠りから{n}醒めた巨大な生物であるかの如くに、{n}今や船内は動くものの気配に満ち{n}溢れていた。",
-  "en": ""
+  "en": "Entering the ship from the deck, they felt{n}the air around them change completely.{page}The silence, as if time itself had stopped,{n}began to beat with a hidden pulse, the{n}intruders its trigger. As though the ship{n}were a giant creature waking from long{n}sleep, its insides now teemed with the{n}presence of moving things."
  },
  {
   "id": "s0014_00910",
@@ -45,7 +45,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "俺たちに気づいたみたいだな",
-  "en": ""
+  "en": "Looks like it noticed us."
  },
  {
   "id": "s0014_0092c",
@@ -69,7 +69,7 @@
    "ヴァイ"
   ],
   "jp": "誰が……この船が？",
-  "en": ""
+  "en": "What did... the ship?"
  },
  {
   "id": "s0014_00940",
@@ -93,7 +93,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "そんな気配だ。幽霊船のほうが{n}マシだったかも知れないぜ",
-  "en": ""
+  "en": "That's the feel of it. A ghost ship might've{n}been better."
  },
  {
   "id": "s0014_00a18",
@@ -117,7 +117,7 @@
    ""
   ],
   "jp": "あたかも大気中の微粒子が意志を持っ{n}たかの如く、そこに凝集して何かの{n}形を取り始める。{page}鬼火のような双眸が浮かび上がった。{n}それは鎧に似た外骨格を持つ、人型の{n}骸骨兵士だった。侵入者を排除する{n}目的で配置された疑似生命体である。",
-  "en": ""
+  "en": "As if the very particles in the air had{n}gained a will, something began to gather{n}there and take shape.{page}A pair of eyes like will-o'-the-wisps{n}appeared. It was a humanoid skeleton{n}soldier with an armor-like exoskeleton, an{n}artificial life form posted to drive out{n}intruders."
  },
  {
   "id": "s0014_00af8",
@@ -141,7 +141,7 @@
    ""
   ],
   "jp": "守護者は警告なく、襲いかかってきた。",
-  "en": ""
+  "en": "The guardian attacked without warning."
  },
  {
   "id": "s0014_00b20",
@@ -165,7 +165,7 @@
    "ヴァイ"
   ],
   "jp": "来るぞ！　Ｄ・Ｓ！",
-  "en": ""
+  "en": "Here they come! D.S.!"
  },
  {
   "id": "s0014_00b34",
@@ -189,7 +189,7 @@
    "ヴァイ"
   ],
   "jp": "何だってんだ、この兵隊どもは",
-  "en": ""
+  "en": "What the hell are these soldiers?"
  },
  {
   "id": "s0014_00b54",
@@ -213,7 +213,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "竜の眷属の牙やら、骨やらを媒体に{n}意のままにできる疑似生命体を創る{n}魔法だ。ゴーレムの一種だな",
-  "en": ""
+  "en": "Magic that makes artificial life you can{n}order around, using fangs and bones from{n}dragon kin as a medium. A kind of golem."
  },
  {
   "id": "s0014_00bb4",
@@ -237,7 +237,7 @@
    "ヴァイ"
   ],
   "jp": "結構手強かったぜ……でもなあ、俺、{n}自分がもっと強かったって気がするん{n}だけどな",
-  "en": ""
+  "en": "Those guys were pretty tough... but y'know,{n}I get the feeling I used to be a lot{n}stronger."
  },
  {
   "id": "s0014_00c04",
@@ -261,7 +261,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "テメエは気のせいかも知れねえが、{n}俺様は確実にそうだ。こんな安っぽい{n}魔操兵もどきに苦戦するＤ・Ｓ様じゃ{n}ねえハズだ",
-  "en": ""
+  "en": "For you it's probably your imagination, but{n}for the great me, it's a fact. The great{n}D.S.-sama shouldn't have trouble with cheap{n}knockoff puppets like these."
  },
  {
   "id": "s0014_00c78",
@@ -285,7 +285,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "……そうか。戦いに関する経験も、{n}記憶と一緒に消されてやがるのか！{n}少しずつ勘を取り戻していくしかねえ{n}ってコトか……くそっ、イラつくぜ！",
-  "en": ""
+  "en": "...I get it. My battle experience got wiped{n}along with my memory! So I gotta get my{n}edge back bit by bit... damn, that pisses me{n}off!"
  },
  {
   "id": "s0014_00d04",
@@ -309,7 +309,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "それと小僧、テメエとはちゃんと{n}隊列を組んだほうが良さそうだな。{n}あまり気は進まねえが――",
-  "en": ""
+  "en": "And kid, I guess you and me better form up{n}right. Not that I like the idea--"
  },
  {
   "id": "s0014_00d60",
@@ -333,7 +333,7 @@
    "ヴァイ"
   ],
   "jp": "そーそー、忘れんなよっ！",
-  "en": ""
+  "en": "Yeah, yeah, don't forget it!"
  },
  {
   "id": "s0014_00f14",
@@ -357,7 +357,7 @@
    ""
   ],
   "jp": "船室内は、通路とは異なる穏やかな{n}空気が流れていた。",
-  "en": ""
+  "en": "The air in the cabin flowed calmer than in{n}the passage."
  },
  {
   "id": "s0014_00f4c",
@@ -381,7 +381,7 @@
    ""
   ],
   "jp": "足を踏み入れた瞬間、整然とした{n}室内は無人であるように思えた。{n}だが、そこには一人の剣士がいた。",
-  "en": ""
+  "en": "The moment they stepped in, the neat{n}room seemed empty. But there was a{n}swordsman there."
  },
  {
   "id": "s0014_00fac",
@@ -405,7 +405,7 @@
    ""
   ],
   "jp": "黒髪を伸ばした、陶磁の人形のように{n}端正な顔立ちの青年だった。正座し、{n}黙想するその姿は、生ける者の気配を{n}完全に消している。無人と見えたのも{n}無理からぬ気息の静けさであった。",
-  "en": ""
+  "en": "He was a young man with long black hair{n}and a face as fine as a porcelain doll's.{n}Seated formally in silent meditation, he{n}had erased all sign of life. With breath so{n}quiet, it was no wonder the room had{n}seemed empty."
  },
  {
   "id": "s0014_0105c",
@@ -429,7 +429,7 @@
    "ヨシュア"
   ],
   "jp": "――来られたか",
-  "en": ""
+  "en": "--So you have come."
  },
  {
   "id": "s0014_0106c",
@@ -453,7 +453,7 @@
    "ヴァイ"
   ],
   "jp": "おわっ！　だ、誰かいたのか!?",
-  "en": ""
+  "en": "Whoa! Th-there was somebody here!?"
  },
  {
   "id": "s0014_0108c",
@@ -477,7 +477,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "俺たちが来ることを知ってたって{n}口振りだな。船ん中をうろついてる{n}疑似生命体どもは、するとテメエの{n}差し金か？",
-  "en": ""
+  "en": "You talk like you knew we were coming. So{n}those artificial things roaming the ship are{n}your doing?"
  },
  {
   "id": "s0014_010fc",
@@ -501,7 +501,7 @@
    "ヨシュア"
   ],
   "jp": "いや、そうではない。あれは船内に{n}侵入してくる者を襲うよう命令されて{n}いるらしい。私とてこの部屋を出れば{n}襲われるかも知れないのだ、Ｄ・Ｓ",
-  "en": ""
+  "en": "No, they are not. They appear to be ordered{n}to attack any who enter the ship. I, too,{n}may well be attacked if I leave this room,{n}D.S."
  },
  {
   "id": "s0014_01188",
@@ -525,7 +525,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "テメエ……俺を知っているな？",
-  "en": ""
+  "en": "You... you know me, don't you?"
  },
  {
   "id": "s0014_011a8",
@@ -549,7 +549,7 @@
    "ヨシュア"
   ],
   "jp": "……やはり記憶を無くされていたか。{n}するとヴァイ、お前も……",
-  "en": ""
+  "en": "...So you have indeed lost your memory. Then{n}you as well, Vai..."
  },
  {
   "id": "s0014_011e8",
@@ -573,7 +573,7 @@
    "ヴァイ"
   ],
   "jp": "俺のことも……待てよ、見覚えが{n}あるぞ……いや、それどころじゃねえ！{n}長い間、俺たちは一緒だった！{n}それなのに、肝心なコトは何も……！",
-  "en": ""
+  "en": "Me too... wait, I know you from somewhere...{n}no, it's more than that! We were together a{n}long time! But the stuff that matters, I{n}can't...!"
  },
  {
   "id": "s0014_01270",
@@ -597,7 +597,7 @@
    "ヨシュア"
   ],
   "jp": "ヴァイ、慌てるな。そのうちに必ず{n}思い出せる",
-  "en": ""
+  "en": "Vai, do not panic. In time you will surely{n}remember."
  },
  {
   "id": "s0014_012a0",
@@ -621,7 +621,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "色々と知ってやがるようだな。やい、{n}もったいつけずに説明しやがれ。{n}テメエはどこの誰で、ここはどこだ？{n}俺の敵か？　味方か？",
-  "en": ""
+  "en": "Seems you know plenty. Hey, quit stringing{n}me along and explain. Who the hell are you,{n}and where is this? You my enemy? My{n}friend?"
  },
  {
   "id": "s0014_0131c",
@@ -645,7 +645,7 @@
    "ヨシュア"
   ],
   "jp": "今、答えられることは多くない。{n}ただ言えるのは、私があなたの味方で{n}あるということだけだ",
-  "en": ""
+  "en": "There is not much I can answer now. All I{n}can say is that I am your ally."
  },
  {
   "id": "s0014_01374",
@@ -669,7 +669,7 @@
    "ヨシュア"
   ],
   "jp": "私はヨシュア・ベラヒア。あなたを{n}助けるため、ここに目覚めた",
-  "en": ""
+  "en": "I am Joshua Belahia. I awoke here in order{n}to help you."
  },
  {
   "id": "s0014_013b4",
@@ -693,7 +693,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "それを信じろってのか？",
-  "en": ""
+  "en": "And I'm supposed to believe that?"
  },
  {
   "id": "s0014_013cc",
@@ -717,7 +717,7 @@
    "ヨシュア"
   ],
   "jp": "そう言う他はない。私自身も、{n}あなたを納得させるだけの記憶は{n}残っていないのだ。そして恐らく、{n}他の仲間たちも……",
-  "en": ""
+  "en": "I can say no more. I myself retain too little{n}memory to convince you. And so, I suspect,{n}do our other comrades..."
  },
  {
   "id": "s0014_01440",
@@ -741,7 +741,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "他の仲間？",
-  "en": ""
+  "en": "Other comrades?"
  },
  {
   "id": "s0014_0144c",
@@ -765,7 +765,7 @@
    "ヨシュア"
   ],
   "jp": "この船の中にもまだ、目覚めて{n}いない仲間がいるはず。それも全て、{n}あなたの力とならんがために、{n}この地へやってきたのだ",
-  "en": ""
+  "en": "There must be comrades still unawakened on{n}this ship. All of them came to this land to{n}lend you their strength."
  },
  {
   "id": "s0014_014c4",
@@ -813,7 +813,7 @@
    "ヨシュア"
   ],
   "jp": "少なくともこの船は敵ではない。{n}我々の本当の敵――私にも漠然としか{n}判らないが――は、現時点では大きく{n}先んじているようだ",
-  "en": ""
+  "en": "This ship, at least, is no enemy. Our true{n}enemy -- whom I myself perceive only{n}vaguely -- seems far ahead of us at{n}present."
  },
  {
   "id": "s0014_01548",
@@ -837,7 +837,7 @@
    "ヴァイ"
   ],
   "jp": "その敵ってのが、ヨーコをどこかで{n}閉じこめてやがるのか！",
-  "en": ""
+  "en": "So that enemy's got Yoko locked up{n}someplace!"
  },
  {
   "id": "s0014_01584",
@@ -861,7 +861,7 @@
    "ヨシュア"
   ],
   "jp": "！　彼女も囚われの身か。これは{n}できる限り急がねば――",
-  "en": ""
+  "en": "! She is a captive as well. Then we must{n}make all haste--"
  },
  {
   "id": "s0014_015bc",
@@ -885,7 +885,7 @@
    "ヴァイ"
   ],
   "jp": "どこへ行くんだよ、ヨシュア！",
-  "en": ""
+  "en": "Where are you going, Joshua!"
  },
  {
   "id": "s0014_015dc",
@@ -909,7 +909,7 @@
    "ヨシュア"
   ],
   "jp": "私には私の使命がある。だが、{n}危急の折には必ず戻って力となろう。{n}ヴァイ、あとは頼んだぞ",
-  "en": ""
+  "en": "I have a mission of my own. But in your hour{n}of need I shall surely return to aid you. Vai,{n}I leave the rest to you."
  },
  {
   "id": "s0014_01634",
@@ -933,7 +933,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "おい！",
-  "en": ""
+  "en": "Hey!"
  },
  {
   "id": "s0014_0163c",
@@ -957,7 +957,7 @@
    "ヨシュア"
   ],
   "jp": "覚えていてくれ、Ｄ・Ｓ。多くの{n}仲間たちがあなたの助けとなるために{n}この地にいるはずだ。記憶を消され、{n}敵に利用されていたとしても――",
-  "en": ""
+  "en": "Remember this, D.S. Many comrades should{n}be in this land to help you. Even if their{n}memories are erased and the enemy makes{n}use of them--"
  },
  {
   "id": "s0014_016c4",
@@ -981,7 +981,7 @@
    "ヨシュア"
   ],
   "jp": "信じることを決して忘れないでくれ。{n}そして一刻も早く彼女の――ヨーコの{n}もとへ向かってくれ。では、さらば！",
-  "en": ""
+  "en": "Never forget to trust. And hurry to her side{n}-- to Yoko -- as swiftly as you can. Now,{n}farewell!"
  },
  {
   "id": "s0014_01730",
@@ -1005,7 +1005,7 @@
    "ヨシュア"
   ],
   "jp": "言うなり、ヨシュアは室外へと走り{n}去った。止める間もない、風の如き{n}迅さだった。",
-  "en": ""
+  "en": "With that, Joshua ran from the room, as{n}swift as the wind, before they could stop{n}him."
  },
  {
   "id": "s0014_01780",
@@ -1029,7 +1029,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "ウソは言ってねえようだったが……{n}隠し事の多そうな奴だったな",
-  "en": ""
+  "en": "Don't think he was lying... but he looked like a{n}guy with plenty of secrets."
  },
  {
   "id": "s0014_017c0",
@@ -1053,7 +1053,7 @@
    "ヴァイ"
   ],
   "jp": "はっきりとは思い出せないけどよ、{n}あいつは信用できるってコトだけは{n}断言するぜ。俺とヨシュアはずっと{n}仲間だった……そうだったはずだ",
-  "en": ""
+  "en": "I can't remember it clearly, but I'll swear{n}you can trust him. Me and Joshua were{n}always comrades... I'm pretty sure."
  },
  {
   "id": "s0014_01844",
@@ -1077,7 +1077,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "テメエの仲間か……あいつのほうは{n}バカには見えなかったけどな",
-  "en": ""
+  "en": "A comrade of yours, huh... though he didn't{n}look like an idiot."
  },
  {
   "id": "s0014_01884",
@@ -1101,7 +1101,7 @@
    "ヴァイ"
   ],
   "jp": "ぐ……こんな奴のお守りを頼むたあ{n}キツイぜ、ヨシュアよう",
-  "en": ""
+  "en": "Ugh... asking me to babysit a guy like this is{n}rough, Joshua."
  },
  {
   "id": "s0014_01c10",
@@ -1125,7 +1125,7 @@
    ""
   ],
   "jp": "扉を開けると、シュッと空気が流れ{n}込む音がした。どうやらこの部屋は、{n}通路との気圧差が生じるほど完全に{n}密閉されていたらしい。",
-  "en": ""
+  "en": "When the door opened there was a hiss of{n}air rushing in. This room had been sealed{n}so tight that the pressure differed from{n}the passage."
  },
  {
   "id": "s0014_01c90",
@@ -1149,7 +1149,7 @@
    ""
   ],
   "jp": "その船室は、耳が痛くなるほどの{n}静寂に包まれていた。正面の壁に{n}巨大な彫像が置かれている他は、{n}目を引く物もない殺風景な部屋だった。",
-  "en": ""
+  "en": "The cabin was wrapped in a silence that{n}hurt the ears. Apart from a huge statue{n}against the far wall, the bleak room held{n}nothing of note."
  },
  {
   "id": "s0014_01d14",
@@ -1173,7 +1173,7 @@
    ""
   ],
   "jp": "彫像は３メートルあまりの高さで、{n}その大きさから見て大型の亜人種を{n}象ったものと思われる。頭部は天井に{n}つかえそうで、細部は視認できない。",
-  "en": ""
+  "en": "The statue was over three meters tall,{n}modeled, judging by its size, on some{n}large demi-human. Its head nearly{n}touched the ceiling, too high to make out{n}the details."
  },
  {
   "id": "s0014_01da0",
@@ -1197,7 +1197,7 @@
    "ヴァイ"
   ],
   "jp": "誰もいないな……おい、Ｄ・Ｓ。{n}見ろよ、このバカでかい像を。良く{n}見えねえけど、不っ細工な面構えだぜ。{n}悪趣味だよな",
-  "en": ""
+  "en": "Nobody here... hey, D.S., look at this huge-ass{n}statue. Can't see it too well, but that's one{n}ugly mug. Lousy taste."
  },
  {
   "id": "s0014_01e14",
@@ -1221,7 +1221,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "この像を作ったヤツは、きっと{n}俺様のような超絶美形にお目に{n}かかったことがねえんだろう。{n}芸術的題材だからな、俺様は",
-  "en": ""
+  "en": "Whoever made this statue must've never laid{n}eyes on a super-gorgeous specimen like the{n}great me. I am a subject for art, after{n}all."
  },
  {
   "id": "s0014_01e88",
@@ -1245,7 +1245,7 @@
    "ヴァイ"
   ],
   "jp": "どこからそういうふざけた自信が{n}湧いてくんだろうな……ん？",
-  "en": ""
+  "en": "Where does that crazy confidence even{n}come from... hm?"
  },
  {
   "id": "s0014_01ec4",
@@ -1269,7 +1269,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "この部屋、何かいるな",
-  "en": ""
+  "en": "Something's in this room."
  },
  {
   "id": "s0014_01edc",
@@ -1293,7 +1293,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "今や、室内は強烈な気配に満ちていた。{n}しかし、がらんとした船室に何かが{n}現れた様子はない。",
-  "en": ""
+  "en": "The room was now filled with an intense{n}presence. And yet nothing seemed to have{n}appeared in the bare cabin."
  },
  {
   "id": "s0014_01f38",
@@ -1317,7 +1317,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "と、彫像の頭部で、それまで虚ろな{n}穴のようだった眼窩にぎらりと光が{n}灯った。見開かれた両眼はゆっくりと{n}室内を見下ろし、次いで小山の如き{n}巨体が動き始める。",
-  "en": ""
+  "en": "Then, in the statue's head, a light flared{n}in sockets that had been hollow holes. The{n}wide-open eyes slowly gazed down upon{n}the room, and then the small mountain of{n}a body began to move."
  },
  {
   "id": "s0014_01fd4",
@@ -1341,7 +1341,7 @@
    "ヴァイ"
   ],
   "jp": "像じゃねえ！　生きてやがる！",
-  "en": ""
+  "en": "It's no statue! It's alive!"
  },
  {
   "id": "s0014_01ff4",
@@ -1365,7 +1365,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "まさか――人間か!?",
-  "en": ""
+  "en": "No way -- a human!?"
  },
  {
   "id": "s0014_02008",
@@ -1389,7 +1389,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "紛うことなく、それは人間だった。{page}怪物じみた体躯を誇るその男は、{n}あたかもこの瞬間に石化の呪縛から{n}解き放たれたかのように、少しずつ{n}動作に滑らかさを増しながらＤ・Ｓに{n}近づいてくる。",
-  "en": ""
+  "en": "There was no mistaking it: he was a{n}human.{page}The man, boasting a monstrous frame,{n}approached D.S. with movements growing{n}gradually smoother, as if freed that{n}instant from a curse of stone."
  },
  {
   "id": "s0014_020c0",
@@ -1413,7 +1413,7 @@
    "ブラド"
   ],
   "jp": "うーむ……頭に綿でも詰め込まれた{n}ようだわ。おい、そこの銀頭に黒頭。{n}ここはどこだ？",
-  "en": ""
+  "en": "Hrmm... my head feels stuffed with cotton.{n}You there, silver-head and black-head.{n}Where is this place?"
  },
  {
   "id": "s0014_02114",
@@ -1437,7 +1437,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "テメエ、うすらデケエ分髪の色しか{n}見えねえのか。超絶美形様とその他{n}どーでもいいオマケと言い直せ",
-  "en": ""
+  "en": "You big lug, is hair color all you can see?{n}Try again: \"Super-gorgeous sir and his{n}worthless little extra.\""
  },
  {
   "id": "s0014_02174",
@@ -1461,7 +1461,7 @@
    "ヴァイ"
   ],
   "jp": "そのオマケってのはもしかして俺の{n}コトなのか？",
-  "en": ""
+  "en": "Would that \"extra\" happen to be me?"
  },
  {
   "id": "s0014_021a4",
@@ -1485,7 +1485,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "俺様と行動をともにする者は誰でも{n}取るに足らないオマケになってしまう{n}……超絶美形とは罪深いぜ",
-  "en": ""
+  "en": "Anyone who travels with the great me gets{n}to be a trifling extra... being super-gorgeous{n}is such a sin."
  },
  {
   "id": "s0014_02204",
@@ -1509,7 +1509,7 @@
    "ブラド"
   ],
   "jp": "ぬうう……思い出せん。貴様ら、{n}ワシの質問に答えんか！",
-  "en": ""
+  "en": "Nnngh... I cannot recall. You there, answer{n}my question!"
  },
  {
   "id": "s0014_0223c",
@@ -1533,7 +1533,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "エラそーにぬかすな、デカブツ。{n}テメエが乗ってきた船だろうが",
-  "en": ""
+  "en": "Quit talking big, fatso. It's the ship you rode{n}in on."
  },
  {
   "id": "s0014_0227c",
@@ -1557,7 +1557,7 @@
    "ブラド"
   ],
   "jp": "船……判らん。目覚めたらお前らが{n}そこに立っていた。それ以前のことは{n}何も思い出せん……",
-  "en": ""
+  "en": "Ship... I know not. When I awoke you two{n}stood before me. Before that, I can recall{n}nothing..."
  },
  {
   "id": "s0014_022d4",
@@ -1581,7 +1581,7 @@
    "ブラド"
   ],
   "jp": "巨漢――ブラド・キルスと名乗る男は、{n}どうやら本当に、Ｄ・Ｓたちが部屋に{n}入ってきた瞬間に、仁王立ちのまま{n}覚醒したようだった。",
-  "en": ""
+  "en": "The giant, who gave his name as Blad Kills,{n}really did seem to have awakened{n}standing there, at the very moment D.S.{n}and Vai entered the room."
  },
  {
   "id": "s0014_02354",
@@ -1605,7 +1605,7 @@
    "ブラド"
   ],
   "jp": "ブラドはふたりと同じく、名前を{n}除いては何も覚えていなかった。いつ{n}船に乗ったのか、そしてどこで気を{n}失ったのか――。{page}ただ、誇り高き騎士であらんとする、{n}その思いだけは常に、ブラドの意識の{n}底から浮かび上がってくるようだった。",
-  "en": ""
+  "en": "Like the other two, Blad remembered{n}nothing but his name: not when he{n}boarded the ship, nor where he had lost{n}his senses--{page}Only his resolve to be a proud knight kept{n}rising from the bottom of his mind."
  },
  {
   "id": "s0014_02434",
@@ -1629,7 +1629,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "それで、テメエはどうするつもりだ。{n}この寂しん坊のヴァイみてえに、俺の{n}あとをついてくるか",
-  "en": ""
+  "en": "So what are you gonna do? Tag along{n}behind me like this lonely little Vai?"
  },
  {
   "id": "s0014_02490",
@@ -1653,7 +1653,7 @@
    "ブラド"
   ],
   "jp": "騎士は人の後ろにて進むにあらず。{n}ここで目覚めたことが何者かによって{n}仕組まれたものなら、ワシひとりで{n}そやつを叩きのめしてくれよう",
-  "en": ""
+  "en": "A knight walks behind no man. If some hand{n}arranged my awakening here, I alone shall{n}beat him to a pulp."
  },
  {
   "id": "s0014_02514",
@@ -1677,7 +1677,7 @@
    "ヴァイ"
   ],
   "jp": "言っとくけどなあ、俺だって{n}この自信過剰野郎をあてにしてる{n}ワケじゃあねーんだかんな！",
-  "en": ""
+  "en": "For the record, I ain't counting on this{n}overconfident jerk either!"
  },
  {
   "id": "s0014_0256c",
@@ -1701,7 +1701,7 @@
    "ブラド"
   ],
   "jp": "だったら何故、ひとりで行こうとせん{n}のだ？　見たところそれほど仲が良い{n}同士とも思えんが？",
-  "en": ""
+  "en": "Then why not go on alone? You two hardly{n}seem the best of friends."
  },
  {
   "id": "s0014_025c8",
@@ -1725,7 +1725,7 @@
    "ヴァイ"
   ],
   "jp": "そりゃ……ひとりよりパーティ組んだ{n}ほうが効率がいいからだよ",
-  "en": ""
+  "en": "Well... 'cause a party's more efficient than{n}going solo."
  },
  {
   "id": "s0014_02608",
@@ -1749,7 +1749,7 @@
    "ブラド"
   ],
   "jp": "その考え方がいかんのだ！　若い者は{n}何かにつけ効率効率と……なっとらん！",
-  "en": ""
+  "en": "That is just the attitude I mean! You young{n}people, efficiency, efficiency, at every{n}turn... disgraceful!"
  },
  {
   "id": "s0014_02654",
@@ -1771,7 +1771,7 @@
    "ブラド"
   ],
   "jp": "ヴァイに助け船を出しますか？",
-  "en": ""
+  "en": "Throw Vai a lifeline?"
  },
  {
   "id": "s0014_02674",
@@ -1799,7 +1799,7 @@
    "ヴァイ"
   ],
   "jp": "はい",
-  "en": ""
+  "en": "Yes"
  },
  {
   "id": "s0014_0267c",
@@ -1827,7 +1827,7 @@
    "ヴァイ"
   ],
   "jp": "いいえ",
-  "en": ""
+  "en": "No"
  },
  {
   "id": "s0014_02684",
@@ -1851,7 +1851,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "でもよブラド、仮にだぜ？　オメエが{n}さらわれた誰かを助けなきゃならねえ{n}として、早く敵地に辿り着かなきゃ{n}そいつが殺されちまうとする――",
-  "en": ""
+  "en": "But hey, Blad, say, just for argument's{n}sake? Say you gotta rescue somebody who{n}got kidnapped, and if you don't reach the{n}enemy's turf fast, they get killed--"
  },
  {
   "id": "s0014_0270c",
@@ -1875,7 +1875,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "それでも、効率は考えねえのかい？{n}手遅れになっても、ひとりで頑張った{n}なら結果は問わねえって？",
-  "en": ""
+  "en": "Would you still not think about efficiency?{n}It's too late, but you did your best on your{n}own, so who cares how it turned out?"
  },
  {
   "id": "s0014_0276c",
@@ -1899,7 +1899,7 @@
    "ブラド"
   ],
   "jp": "う……むむ……だが、それを手遅れに{n}しないのが真の騎士――",
-  "en": ""
+  "en": "Ngh... hrmm... but to not let it be too late is{n}the mark of the true knight--"
  },
  {
   "id": "s0014_027a8",
@@ -1923,7 +1923,7 @@
    "ブラド"
   ],
   "jp": "さらに突っ込みますか？",
-  "en": ""
+  "en": "Press him further?"
  },
  {
   "id": "s0014_027c0",
@@ -1947,7 +1947,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "じゃあよ、もし間に合わなかったら{n}どうすんだ？　真の騎士じゃなかった{n}ってコトで反省して済むのかよ？{n}そんなのは俺はゴメンだね",
-  "en": ""
+  "en": "So what if you don't make it in time? \"Guess{n}I wasn't a true knight,\" a little reflection,{n}and that's the end of it? Screw that."
  },
  {
   "id": "s0014_02840",
@@ -1971,7 +1971,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "効率よく、どんな手段を使っても目的{n}は必ず果たす――それが俺のモットー{n}だ。やられたらやり返す、人質を取ら{n}れたらコッチも取る。これが必勝法よ",
-  "en": ""
+  "en": "Do it efficiently, use any means, always get{n}the job done -- that's my motto. Hit me and{n}I hit back, take a hostage and I take one{n}too. That's how you always win."
  },
  {
   "id": "s0014_028d0",
@@ -1995,7 +1995,7 @@
    "ブラド"
   ],
   "jp": "ぬぬぬ……何と卑劣な！　それでは{n}自らも非道の輩と同じになってしまう{n}ではないか！",
-  "en": ""
+  "en": "Nnngh... how vile! That would make you no{n}better than the villains themselves!"
  },
  {
   "id": "s0014_02924",
@@ -2019,7 +2019,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "構わねーじゃん。目には目をってゆー{n}じゃねえか。要は勝てばいーんだよ、{n}勝てば",
-  "en": ""
+  "en": "So what? An eye for an eye, right? All that{n}matters is you win, man. You win."
  },
  {
   "id": "s0014_02974",
@@ -2043,7 +2043,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "手遅れにしねえタメには手段を選ば{n}ねえ――それがモテる男、頼りになる{n}スーパー美形の信条だぜ。要は結果だ、{n}結果ぁ！　過程は問題じゃないね",
-  "en": ""
+  "en": "To never be too late, I'll use whatever it{n}takes -- that's the creed of a ladykiller, a{n}reliable super-gorgeous guy. Results are{n}what count, results! How you got there{page}don't matter!"
  },
  {
   "id": "s0014_02a00",
@@ -2067,7 +2067,7 @@
    "ブラド"
   ],
   "jp": "うぬぬぬ……言わせておけば好き放題{n}抜かしおってェ……卑怯卑劣な手段を{n}用いてコトを成したとて、それにいか{n}ほどの価値があろうか!?",
-  "en": ""
+  "en": "Grrr... I let you speak and you run your{n}mouth... what worth is there in anything{n}achieved by base, cowardly means!?"
  },
  {
   "id": "s0014_02a84",
@@ -2091,7 +2091,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "いーんじゃねえの。価値なんざなくて{n}も結果さえよけりゃよ",
-  "en": ""
+  "en": "Who cares? It don't gotta be worth{n}anything as long as the results are good."
  },
  {
   "id": "s0014_02ac0",
@@ -2115,7 +2115,7 @@
    "ヴァイ"
   ],
   "jp": "なっとらんってアンタなあ、こちとら{n}惚れた女がさらわれてんだぜ？　急が{n}なきゃならねえってのに、のんびり{n}騎士道ゴッコなんざやってられっかよ！",
-  "en": ""
+  "en": "\"Disgraceful,\" you say? Hey, the woman I{n}love got kidnapped! We gotta hurry, I can't{n}lounge around playing knights with you!"
  },
  {
   "id": "s0014_02b50",
@@ -2139,7 +2139,7 @@
    "ブラド"
   ],
   "jp": "何おぅ？　貴様、騎士道ゴッコとは{n}どういう了見だ！　返答次第では決闘{n}も辞さんぞ、ワシは！",
-  "en": ""
+  "en": "What's that? You there, what do you mean,{n}playing knights! Answer me wrong and I shall{n}not shrink from a duel!"
  },
  {
   "id": "s0014_02bac",
@@ -2163,7 +2163,7 @@
    "ブラド"
   ],
   "jp": "話を収拾しますか？",
-  "en": ""
+  "en": "Wrap up this argument?"
  },
  {
   "id": "s0014_02bc0",
@@ -2187,7 +2187,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "決闘もいいけどよ、俺様はヒマって{n}ワケじゃねーんだ。俺の大事な女が{n}得体の知れねえ相手に捕まってる――",
-  "en": ""
+  "en": "A duel's all well and good, but the great me{n}ain't got time. My precious woman's been{n}grabbed by who knows what--"
  },
  {
   "id": "s0014_02c28",
@@ -2211,7 +2211,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "ヨーコさんを助け出すこと以上に重要{n}なものなんざねえ。それが少しでも{n}早くなるんなら効率を追うし、どんな{n}手だって使うぜ。卑怯な手だろーとな",
-  "en": ""
+  "en": "Nothing's more important than rescuing{n}Yoko-san. If it gets it done even a little{n}sooner, I'll go for efficiency and use any{n}trick there is. Even dirty ones."
  },
  {
   "id": "s0014_02cb4",
@@ -2235,7 +2235,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "俺様にとって闘いは勝たなきゃ意味が{n}ねえ。過程は関係ねえ。勝って勝って、{n}勝ち続けりゃそれが正義に――騎士道{n}にだってならあ",
-  "en": ""
+  "en": "For the great me, there's no point to a fight{n}unless I win. How don't matter. Win and win{n}and keep on winning, and that's justice --{n}that's chivalry, even."
  },
  {
   "id": "s0014_02d30",
@@ -2259,7 +2259,7 @@
    "ブラド"
   ],
   "jp": "ぬ……な、な――",
-  "en": ""
+  "en": "Nn... wh, wh--"
  },
  {
   "id": "s0014_02d44",
@@ -2283,7 +2283,7 @@
    "ブラド"
   ],
   "jp": "なっとらーん！",
-  "en": ""
+  "en": "DISGRACEFUL!"
  },
  {
   "id": "s0014_02d54",
@@ -2307,7 +2307,7 @@
    "ブラド"
   ],
   "jp": "そのような心構えでは、到底一人前の{n}騎士にはなれぬ！",
-  "en": ""
+  "en": "With such a mindset you will never make a{n}true knight!"
  },
  {
   "id": "s0014_02d8c",
@@ -2331,7 +2331,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "おい、俺は別に騎士を目指してるって{n}ワケじゃあねーぞ",
-  "en": ""
+  "en": "Hey, nobody said I wanted to be a knight."
  },
  {
   "id": "s0014_02dc4",
@@ -2355,7 +2355,7 @@
    "ブラド"
   ],
   "jp": "貴様らに試練を与える意味でも、ワシ{n}自身の鍛錬のためにも、ここは別々に{n}行動すべきだな！　うむっ！",
-  "en": ""
+  "en": "As a trial for you, and as training for{n}myself, we should go our separate ways{n}here! Mm-hm!"
  },
  {
   "id": "s0014_02e28",
@@ -2379,7 +2379,7 @@
    "ヴァイ"
   ],
   "jp": "全然聞いてないみたいだぞ、この{n}オッサンは",
-  "en": ""
+  "en": "This old guy's not listening at all."
  },
  {
   "id": "s0014_02e54",
@@ -2403,7 +2403,7 @@
    "ブラド"
   ],
   "jp": "行く道すがら、また出会うことも{n}あろう。その時まで、精進せいよ！",
-  "en": ""
+  "en": "We may meet again along the road. Until{n}then, apply yourselves!"
  },
  {
   "id": "s0014_02e98",
@@ -2427,7 +2427,7 @@
    "ブラド"
   ],
   "jp": "呆気にとられるふたりを尻目に、{n}ブラドは巨体を揺るがし去って行った。",
-  "en": ""
+  "en": "Leaving the two of them stunned, Blad{n}heaved his huge body off."
  },
  {
   "id": "s0014_02ee0",
@@ -2451,7 +2451,7 @@
    "ヴァイ"
   ],
   "jp": "決闘だぁ？　上等じゃんか！　俺たち{n}侍はいつだって、命を賭ける覚悟は{n}できてんだ！",
-  "en": ""
+  "en": "A duel? Bring it on! We samurai are always{n}ready to bet our lives!"
  },
  {
   "id": "s0014_02f34",
@@ -2475,7 +2475,7 @@
    "ブラド"
   ],
   "jp": "む……常住坐臥、命を賭すと？",
-  "en": ""
+  "en": "Hm... ready to stake your life, sitting or{n}lying?"
  },
  {
   "id": "s0014_02f54",
@@ -2499,7 +2499,7 @@
    "ヴァイ"
   ],
   "jp": "あったりめーよ！　侍ってのはなあ、{n}大義のためなら腹だって切っちまうん{n}だぜ！　俺だってヨーコを助けるコト{n}ができなかったらハラキリすんぜ！",
-  "en": ""
+  "en": "You bet I am! A samurai'll cut open his own{n}gut for a great cause! If I can't save Yoko,{n}I'll commit hara-kiri too!"
  },
  {
   "id": "s0014_02fe0",
@@ -2523,7 +2523,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "おー、言う言う",
-  "en": ""
+  "en": "Oh-ho, big talk."
  },
  {
   "id": "s0014_02ff0",
@@ -2547,7 +2547,7 @@
    "ブラド"
   ],
   "jp": "ハ……ハラキリ……オォウ",
-  "en": ""
+  "en": "Ha... hara-kiri... oh-hoh."
  },
  {
   "id": "s0014_0300c",
@@ -2571,7 +2571,7 @@
    "ブラド"
   ],
   "jp": "大した心構えだわ！　気に入った！{n}このワシも一緒に行くとしよう。{n}ただーし！　その心意気がメッキで{n}あったなら、ワシはひとりで行くぞ",
-  "en": ""
+  "en": "What a splendid attitude! I like it! I shall go{n}with you. Howeverrr! Should that spirit{n}prove mere gilding, I shall go on alone."
  },
  {
   "id": "s0014_03090",
@@ -2595,7 +2595,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "勝手ぬかしやがって。テメエこそ、{n}足引っ張りやがったら置いてくぞ",
-  "en": ""
+  "en": "Listen to this guy. And if you drag us down,{n}you're the one getting left behind."
  },
  {
   "id": "s0014_0370c",
@@ -2619,7 +2619,7 @@
    ""
   ],
   "jp": "その部屋は、墨を流したような影が{n}色濃くわだかまっていた。それ自体、{n}生命を持って息づいているかの如き{n}揺らめく影――その中心に、ひとりの{n}男がいた。",
-  "en": ""
+  "en": "Shadows like spilled ink lay thick in that{n}room. Flickering shadows that seemed to{n}breathe with a life of their own -- and at{n}their center stood a man."
  },
  {
   "id": "s0014_037a0",
@@ -2643,7 +2643,7 @@
    ""
   ],
   "jp": "短く刈り込んだ髪と、頬から顎を覆う{n}手入れされた髭が、鍛え上げられた{n}精悍な姿態と相まって、“武人”と{n}いう言葉を強く想起させる。{page}しかし、常は剛胆とも見えるこの男が、{n}今は恐慌に支配された表情でそこに{n}凍りついていた。扉が開く瞬間まで、{n}時が止まっていたかの如く――。",
-  "en": ""
+  "en": "Close-cropped hair and a well-kept beard{n}from cheek to chin, along with his{n}hardened, fierce physique, called strongly{n}to mind the word \"warrior.\"{page}But this man, who must usually have{n}seemed so bold, stood frozen with panic{n}on his face, as if time had stopped until{n}the moment the door opened--"
  },
  {
   "id": "s0014_038ac",
@@ -2667,7 +2667,7 @@
    ""
   ],
   "jp": "それが男の悲鳴であると気づくまで、{n}数秒を待たねばならなかった。{page}始めは、低いうねりでしかなかった{n}音の波は次第に振動の周期を早め、{n}人の声に近い音域へと高まっていく。{n}停止していた時間が、ゆっくりと{n}加速して通常の時の流れに戻っていく{n}――そんな音の変化であった。",
-  "en": ""
+  "en": "It took several seconds to realize it was{n}the man's scream.{page}The wave of sound, at first only a low{n}swell, quickened little by little, rising{n}toward the range of a human voice. It{n}was as though stopped time were slowly{n}speeding back to its usual flow."
  },
  {
   "id": "s0014_039b4",
@@ -2691,7 +2691,7 @@
    "ボル"
   ],
   "jp": "くわああああああああああっ――！",
-  "en": ""
+  "en": "GWAAAAAAAAAAH--!"
  },
  {
   "id": "s0014_039d8",
@@ -2715,7 +2715,7 @@
    "ボル"
   ],
   "jp": "極限の恐怖に追い詰められた者の{n}絶叫であった。他者の目には映らぬ{n}何かが、絶え間なく男を責め苛んで{n}いるかに見える。Ｄ・Ｓたちが部屋に{n}入ってきたことにも気づいておらぬ{n}様子だった。",
-  "en": ""
+  "en": "It was the shriek of one driven to the{n}limit of terror. Something unseen by{n}others seemed to be torturing him{n}without end. He did not seem to notice{n}that D.S. and the others had entered the{n}room."
  },
  {
   "id": "s0014_03a8c",
@@ -2739,7 +2739,7 @@
    "ヴァイ"
   ],
   "jp": "おい、どうするよＤ・Ｓ？　何だか{n}普通じゃない感じだぜ。声をかけて{n}みるか？",
-  "en": ""
+  "en": "Hey, what do we do, D.S.? Doesn't look{n}normal to me. Should we talk to him?"
  },
  {
   "id": "s0014_03ad8",
@@ -2761,7 +2761,7 @@
    "ヴァイ"
   ],
   "jp": "目の前の男に声をかけますか？",
-  "en": ""
+  "en": "Call out to the man?"
  },
  {
   "id": "s0014_03af8",
@@ -2785,7 +2785,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "おい、そこのヒゲ！",
-  "en": ""
+  "en": "Hey, you with the beard!"
  },
  {
   "id": "s0014_03b0c",
@@ -2809,7 +2809,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "人の声に驚いたのか、それともヒゲと{n}いう言葉に反応したのか、男はハッと{n}Ｄ・Ｓを見た。しかしその表情から{n}恐怖の色は消えぬ。刹那の睨み合いを{n}経て、男は改めて悲鳴をあげ、襲い{n}かかってきた。",
-  "en": ""
+  "en": "Startled by a voice, or perhaps at the{n}word \"beard,\" the man looked at D.S. with{n}a start. But the fear did not leave his{n}face. After a moment's stare, he{n}screamed once more and attacked."
  },
  {
   "id": "s0014_03bc8",
@@ -2833,7 +2833,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "男は力尽き、昏倒したまま動かなく{n}なった。",
-  "en": ""
+  "en": "Spent, the man collapsed and lay still."
  },
  {
   "id": "s0014_03bf4",
@@ -2857,7 +2857,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "死んだかな？",
-  "en": ""
+  "en": "Is he dead?"
  },
  {
   "id": "s0014_03c04",
@@ -2881,7 +2881,7 @@
    "ヴァイ"
   ],
   "jp": "急所は外してあるはずだぜ。それに{n}アンタだって手加減しただろ",
-  "en": ""
+  "en": "I should've missed anything vital. And you{n}went easy too, didn't you?"
  },
  {
   "id": "s0014_03c44",
@@ -2905,7 +2905,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "まあな。このＤ・Ｓ様が本気に{n}なったら、こんなヒゲ面野郎はもう{n}指先ひとつであの世行きだからな",
-  "en": ""
+  "en": "Well, yeah. If the great D.S.-sama got{n}serious, one finger would send a beardface{n}like this to the next world."
  },
  {
   "id": "s0014_03ca4",
@@ -2929,7 +2929,7 @@
    "ヴァイ"
   ],
   "jp": "いーや、そこまで楽勝じゃなかった{n}と思うぞ。すぐ調子に乗りやがる",
-  "en": ""
+  "en": "Nope, I don't think it was that easy. You get{n}cocky so fast."
  },
  {
   "id": "s0014_03ce8",
@@ -2953,7 +2953,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "とにかく、起こしてみるか。また{n}暴れだしたりしねえように、しっかり{n}押さえつけておけよ……オラッ！",
-  "en": ""
+  "en": "Anyway, let's wake him up. Hold him down{n}tight so he don't start thrashing again...{n}hup!"
  },
  {
   "id": "s0014_03d4c",
@@ -2977,7 +2977,7 @@
    "ボル"
   ],
   "jp": "がはっ！　う……ここは……？",
-  "en": ""
+  "en": "Gah! Ugh... where is...?"
  },
  {
   "id": "s0014_03d6c",
@@ -3001,7 +3001,7 @@
    "ヴァイ"
   ],
   "jp": "お、意外に元気だぜ。タフだなー、{n}オッサン",
-  "en": ""
+  "en": "Oh, he's better than I thought. You're tough,{n}old man."
  },
  {
   "id": "s0014_03d98",
@@ -3025,7 +3025,7 @@
    "ボル"
   ],
   "jp": "それがしは一体……はっ！　そうで{n}ござった！　それがしは見るも不快な{n}化け物どもと戦って……敗れたので{n}ござる。あやつらはどこに……？",
-  "en": ""
+  "en": "What has befallen this humble one... ah! That{n}is so! This one fought hideous monsters and...{n}was defeated, forsooth. Where have those{n}creatures gone...?"
  },
  {
   "id": "s0014_03e20",
@@ -3049,7 +3049,7 @@
    "ボル"
   ],
   "jp": "それに、おぬしたちは……もしや、{n}あの化け物どもからそれがしを救って{n}くれたのでござるか？",
-  "en": ""
+  "en": "And you, good sirs... could it be that you{n}saved this one from those monsters?"
  },
  {
   "id": "s0014_03e7c",
@@ -3073,7 +3073,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "なあヒゲ面、その化け物ってどんな{n}ヤツらだった？",
-  "en": ""
+  "en": "Hey, beardface, what were these monsters{n}like?"
  },
  {
   "id": "s0014_03eb0",
@@ -3097,7 +3097,7 @@
    "ボル"
   ],
   "jp": "一匹は見るからに頭の悪そうな、{n}刀を振り回す猿のようなヤツでござる",
-  "en": ""
+  "en": "One was a dim-looking thing, an ape swinging{n}a sword about, forsooth."
  },
  {
   "id": "s0014_03ef4",
@@ -3121,7 +3121,7 @@
    "ボル"
   ],
   "jp": "それに、雲突くようにどデカい、{n}不細工極まりない亜人種でござった",
-  "en": ""
+  "en": "There was also a vastly ugly demi-human,{n}big enough to pierce the clouds."
  },
  {
   "id": "s0014_03f38",
@@ -3145,7 +3145,7 @@
    "ボル"
   ],
   "jp": "もう一匹は邪悪を絵に描いたような{n}いびつで下品な生き物でござった……{n}そう、ちょうどおぬしのように見事な{n}銀色の髪を伸ばしていたな",
-  "en": ""
+  "en": "The other was a warped, vulgar creature,{n}evil incarnate... yes, with long silver hair just{n}as fine as yours, good sir."
  },
  {
   "id": "s0014_03fbc",
@@ -3169,7 +3169,7 @@
    "ヴァイ"
   ],
   "jp": "頭の悪い猿ゥ……",
-  "en": ""
+  "en": "Dim-looking ape..."
  },
  {
   "id": "s0014_03fd0",
@@ -3193,7 +3193,7 @@
    "ブラド"
   ],
   "jp": "不細工極まりないだと……",
-  "en": ""
+  "en": "Vastly ugly, is it..."
  },
  {
   "id": "s0014_03fec",
@@ -3217,7 +3217,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "いびつで下品……せえのっ",
-  "en": ""
+  "en": "Warped and vulgar... ready, and--"
  },
  {
   "id": "s0014_04008",
@@ -3241,7 +3241,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "ゴキバキッ！！",
-  "en": ""
+  "en": "WHAM-CRACK!!"
  },
  {
   "id": "s0014_04018",
@@ -3265,7 +3265,7 @@
    "ボル"
   ],
   "jp": "あ痛、痛いでござる！　何するで{n}ござるか!?",
-  "en": ""
+  "en": "Ow, ow, forsooth! What are you doing!?"
  },
  {
   "id": "s0014_04044",
@@ -3289,7 +3289,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "やかましいっ！　テメエのような{n}低劣なヒゲ面に下品と言われちゃ{n}立場がねえや！　ったく、加減なんざ{n}しねえでブッ潰してやりゃよかったぜ",
-  "en": ""
+  "en": "Shut up! I ain't gonna stand for being called{n}vulgar by a low-life beardface like you!{n}Dammit, I should've just crushed you without{n}holding back."
  },
  {
   "id": "s0014_040cc",
@@ -3313,7 +3313,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "男の名はボル・ギル・ボルといった。{n}やはり目覚めるまでの記憶はなく、{n}“影使い”と呼ばれる特殊な能力を{n}修めていること以外は何も覚えては{n}いないということだった。ただ、{n}何かに追われているという焦燥感が{n}常に彼の中にあり、その恐怖が高じて{n}Ｄ・Ｓたちを怪物に見せたのだった。",
-  "en": ""
+  "en": "The man's name was Bol Gil Bol. He too had{n}no memory before waking, and recalled{n}nothing but his mastery of a special art{n}called \"shadow user.\" Yet a dread of being{n}hunted haunted him without end, and that{n}terror had made D.S. and the others look{n}like monsters."
  },
  {
   "id": "s0014_041dc",
@@ -3337,7 +3337,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "ボルは襲いかかった非礼を詫び、{n}Ｄ・Ｓに同行を願い出た。彼自身{n}記憶がないということもあったが、{n}それよりも、殺されていても文句の{n}言えぬ闘いで、Ｄ・Ｓたちは正気を{n}失っていた彼の命を奪わぬよう手加減{n}してくれたという事実が、義に篤い{n}ボルの心を大きく動かしていた。",
-  "en": ""
+  "en": "Bol apologized for his rudeness in{n}attacking and asked to accompany D.S. He{n}himself had no memory, but more than{n}that, it moved his honorable heart that{n}they had spared him, out of his wits, in a{n}fight where they could have killed him{n}without blame."
  },
  {
   "id": "s0014_042e4",
@@ -3361,7 +3361,7 @@
    "ボル"
   ],
   "jp": "お願いでござる！　このご恩を{n}返せなくば、それがし武人として{n}生きるに筋が通りませぬ。何卒、{n}それがしをお供させて下され！",
-  "en": ""
+  "en": "This one begs you! If this debt goes{n}unrepaid, this one cannot live as a warrior.{n}Please, grant this one leave to accompany{n}you!"
  },
  {
   "id": "s0014_04360",
@@ -3385,7 +3385,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "恩なんざ感じてもらわなくても{n}いいんだけどよ。そもそも俺は{n}そーゆー暑苦しいのは苦手なんだよ。{n}ヒゲ面とかも",
-  "en": ""
+  "en": "I don't need you feeling you owe me.{n}Besides, I can't stand this sweaty stuff. Or{n}beards."
  },
  {
   "id": "s0014_043cc",
@@ -3409,7 +3409,7 @@
    "ボル"
   ],
   "jp": "この髭はそれがしの大事なトレード{n}マークで……しかしこれを剃れと{n}言われるならば致し方ない。この場で{n}バッサリと、それがしの決意を……",
-  "en": ""
+  "en": "This beard is this one's cherished trademark...{n}yet if you bid this one shave it, so be it.{n}Here and now, with one cut, this one's{n}resolve..."
  },
  {
   "id": "s0014_04454",
@@ -3433,7 +3433,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "あーもう判った判った。そのヒゲを{n}剃ったら剃ったで不気味になるような{n}気がするぜ。ついてくるなら勝手に{n}しな",
-  "en": ""
+  "en": "Aw, fine, fine, enough already. Shaving it off{n}would probably just make you creepy. Come{n}along if you want."
  },
  {
   "id": "s0014_044c0",
@@ -3457,7 +3457,7 @@
    "ボル"
   ],
   "jp": "かたじけない！　必ずお役に立って{n}みせるでござるよ",
-  "en": ""
+  "en": "Much obliged! This one shall surely be of{n}use, forsooth!"
  },
  {
   "id": "s0014_044f4",
@@ -3481,7 +3481,7 @@
    "ヴァイ"
   ],
   "jp": "ニンニン、っと",
-  "en": ""
+  "en": "Nin-nin, there you go."
  },
  {
   "id": "s0014_04504",
@@ -3505,7 +3505,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "まずは落ち着かせるのがいいだろう。{n}そっと後ろに回り込んで、ぶん殴って{n}気絶させるってのはどうだ？",
-  "en": ""
+  "en": "Calming him down comes first. How about we{n}sneak around behind him and knock him{n}out?"
  },
  {
   "id": "s0014_04568",
@@ -3529,7 +3529,7 @@
    "ヴァイ"
   ],
   "jp": "やりすぎじゃねえかなあ？",
-  "en": ""
+  "en": "Isn't that going too far?"
  },
  {
   "id": "s0014_04584",
@@ -3553,7 +3553,7 @@
    "ヴァイ"
   ],
   "jp": "気絶させますか？",
-  "en": ""
+  "en": "Knock him out?"
  },
  {
   "id": "s0014_04598",
@@ -3577,7 +3577,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "じゃ、しょうがねえ。ショックを{n}与えて正気を取り戻させるか。{n}いいか、一緒に叫ぶぞ",
-  "en": ""
+  "en": "Fine, can't be helped. We'll shock him back to{n}his senses. All right, we all yell together."
  },
  {
   "id": "s0014_045ec",
@@ -3601,7 +3601,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "せえの、わッ！！",
-  "en": ""
+  "en": "Ready, and WAH!!"
  },
  {
   "id": "s0014_04600",
@@ -3625,7 +3625,7 @@
    "ヴァイ"
   ],
   "jp": "わあ――っ！！",
-  "en": ""
+  "en": "WAAAAH!!"
  },
  {
   "id": "s0014_04610",
@@ -3649,7 +3649,7 @@
    "ブラド"
   ],
   "jp": "うおらあっ！！",
-  "en": ""
+  "en": "RAAAGH!!"
  },
  {
   "id": "s0014_04620",
@@ -3673,7 +3673,7 @@
    "ボル"
   ],
   "jp": "はうあうあああっ!?",
-  "en": ""
+  "en": "Hwah-ah-AAAH!?"
  },
  {
   "id": "s0014_04634",
@@ -3697,7 +3697,7 @@
    "ボル"
   ],
   "jp": "しかしＤ・Ｓたちの叫びは、男を{n}さらなる恐慌に導いたに過ぎなかった。{n}血走った眼を彼らに向け、次の瞬間{n}男は飛びかかってきた。",
-  "en": ""
+  "en": "But D.S.'s yelling only drove the man{n}deeper into panic. He turned bloodshot{n}eyes on them, and the next moment leapt{n}at them."
  },
  {
   "id": "s0014_046b4",
@@ -3721,7 +3721,7 @@
    "ボル"
   ],
   "jp": "男の背後に忍び寄るべく、大きく回り{n}込む。だが、濃く影の落ちた床に踏み{n}込んだ瞬間、そこは泥土のように足を{n}呑み、Ｄ・Ｓの自由を奪った。",
-  "en": ""
+  "en": "They circled wide to sneak behind the{n}man. But the moment D.S. stepped on the{n}thick shadow on the floor, it swallowed{n}his foot like mud and took away his{n}freedom."
  },
  {
   "id": "s0014_0473c",
@@ -3745,7 +3745,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "くっ！　この影、亜空間に連結して{n}やがるのか！",
-  "en": ""
+  "en": "Ngh! This shadow's connected to subspace!"
  },
  {
   "id": "s0014_0476c",
@@ -3769,7 +3769,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "同時に、その影は蜘蛛の巣の如くに、{n}主に接近する者の存在を伝えた。{page}男は弾かれたようにＤ・Ｓを見た。{n}その眼は恐怖に見開かれ、意味の{n}判らぬ絶叫が唇から迸る。そして、{n}男は襲いかかってきた。",
-  "en": ""
+  "en": "At the same time, like a spider's web, the{n}shadow told its master someone was{n}near.{page}The man whipped round to look at D.S. His{n}eyes bulged with fear, and a meaningless{n}scream burst from his lips. Then the man{n}attacked."
  },
  {
   "id": "s0014_04828",
@@ -3793,7 +3793,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "手強い野郎だったぜ。ま、今ので{n}死んじゃいねえだろ",
-  "en": ""
+  "en": "Tough bastard. Well, that shouldn't have{n}killed him."
  },
  {
   "id": "s0014_0485c",
@@ -3817,7 +3817,7 @@
    "ヴァイ"
   ],
   "jp": "でも、結構本気で闘っちまったぜ{n}……えっ!?　まさか！",
-  "en": ""
+  "en": "But we fought him pretty much for real...{n}huh!? No way!"
  },
  {
   "id": "s0014_04894",
@@ -3841,7 +3841,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "まだ動けるのか？",
-  "en": ""
+  "en": "He can still move?"
  },
  {
   "id": "s0014_048a8",
@@ -3865,7 +3865,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "倒れ伏した男の身体がピクリと動いた。{n}と、次の瞬間には、男はバネ仕掛けの{n}如くに跳ね起きていた。体力の消耗を{n}微塵も感じさせぬ、驚異的なタフさで{n}あった。",
-  "en": ""
+  "en": "The fallen man's body twitched. The next{n}moment he sprang up as if on a spring. He{n}showed astounding toughness, with no{n}hint of weariness at all."
  },
  {
   "id": "s0014_04940",
@@ -3889,7 +3889,7 @@
    "ボル"
   ],
   "jp": "ぬううっ！　まだだ！　このボル・{n}ギル・ボル、まだ討たれてやる訳には{n}いかぬ！",
-  "en": ""
+  "en": "Nnngh! Not yet! I, Bol Gil Bol, cannot yet be{n}slain!"
  },
  {
   "id": "s0014_04990",
@@ -3913,7 +3913,7 @@
    "ボル"
   ],
   "jp": "男――ボルは絶叫し、頭からにじむ{n}少量の出血を振り払った。そして{n}両手で素早く印を結ぶ。途端に、{n}恐らくは亜空間に通じている影が{n}床から盛り上がり、ボルの肉体を{n}包み込んだ。影の塊は瞬時に縮み、{n}床に吸い込まれるように消滅した。{n}そこにボルの姿はなかった。",
-  "en": ""
+  "en": "The man -- Bol -- screamed and shook off{n}the little blood seeping from his head.{n}Then his hands swiftly formed a seal. At{n}once the shadow, likely leading to{n}subspace, swelled up from the floor and{n}enveloped his body. The mass of shadow{n}shrank in an instant and vanished as if{n}sucked into the floor. Bol was gone."
  },
  {
   "id": "s0014_04a8c",
@@ -3937,7 +3937,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "影から亜空間を渡りやがるのか……{n}“影使い”ってヤツだな",
-  "en": ""
+  "en": "He crosses subspace through shadows... a{n}\"shadow user,\" huh?"
  },
  {
   "id": "s0014_04ac8",
@@ -3961,7 +3961,7 @@
    "ヴァイ"
   ],
   "jp": "おい、それじゃまたどこからか{n}襲ってくるんじゃねえのか？",
-  "en": ""
+  "en": "Hey, doesn't that mean he'll jump us again{n}from somewhere?"
  },
  {
   "id": "s0014_04b04",
@@ -3985,7 +3985,7 @@
    "ブラド"
   ],
   "jp": "それも一興よ。また叩きのめして{n}やればよいわ",
-  "en": ""
+  "en": "That would make for some amusement. We{n}shall simply beat him down again."
  },
  {
   "id": "s0014_04b34",
@@ -4009,7 +4009,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "安心しろい。近くに潜んでる気配は{n}ねえ。やっぱりそれなりにダメージを{n}負ってやがった。逃げたようだぜ",
-  "en": ""
+  "en": "Relax. I don't sense him lurking anywhere{n}close. He took some damage after all. Looks{n}like he ran."
  },
  {
   "id": "s0014_04b98",
@@ -4033,7 +4033,7 @@
    "ヴァイ"
   ],
   "jp": "それにしてもあいつ……ボルって{n}いったか……討たれるとか叫んで{n}いたよな。やけに怯えた様子だったし、{n}何かに追われてたのか？",
-  "en": ""
+  "en": "Even so, that guy... Bol, was it... he was{n}yelling about getting slain. He looked awful{n}scared, too. Was something chasing him?"
  },
  {
   "id": "s0014_04c14",
@@ -4057,7 +4057,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "それで、トチ狂って俺たちを襲った{n}ってのか。迷惑な話だぜ",
-  "en": ""
+  "en": "So he went nuts and attacked us? What a{n}pain."
  },
  {
   "id": "s0014_0531c",
@@ -4081,7 +4081,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "まだ何にも探索してねーだろが！",
-  "en": ""
+  "en": "We haven't explored a damn thing yet!"
  },
  {
   "id": "s0014_0533c",
@@ -4105,7 +4105,7 @@
    "ヴァイ"
   ],
   "jp": "だって、脅かすんだもんよぉ",
-  "en": ""
+  "en": "But it's so scary, man."
  },
  {
   "id": "s0014_05358",
@@ -4129,7 +4129,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "オラ、とっとと戻る！",
-  "en": ""
+  "en": "Come on, get back in there!"
  },
  {
   "id": "s0014_05370",
@@ -4153,7 +4153,7 @@
    "ヴァイ"
   ],
   "jp": "へえい",
-  "en": ""
+  "en": "Yes, sir."
  },
  {
   "id": "s0014_05378",
@@ -4177,7 +4177,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "調べ残しはねえようだな",
-  "en": ""
+  "en": "Looks like we've checked everywhere."
  },
  {
   "id": "s0014_05390",
@@ -4201,7 +4201,7 @@
    "ヴァイ"
   ],
   "jp": "竜牙兵とやらも、あらかた片付いた{n}みたいだぜ",
-  "en": ""
+  "en": "Those dragontooth soldiers look mostly{n}cleaned up too."
  },
  {
   "id": "s0014_053c0",
@@ -4225,7 +4225,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "陸に戻るとしよう。ヨシュアの奴が{n}急いでたのも気になるしな",
-  "en": ""
+  "en": "Let's head back to land. I don't like how{n}much of a hurry Joshua was in."
  },
  {
   "id": "s0014_053fc",
@@ -4249,7 +4249,7 @@
    "ヴァイ"
   ],
   "jp": "まだ探索してない船室があるんじゃ{n}ねーか？",
-  "en": ""
+  "en": "Aren't there still some cabins we haven't{n}explored?"
  },
  {
   "id": "s0014_05428",
@@ -4273,7 +4273,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "……そういやそうだ。もう少しこの船{n}をうろついてみるか",
-  "en": ""
+  "en": "...Now that you mention it. Guess we poke{n}around this ship a little longer."
  },
  {
   "id": "s0014_05604",
@@ -4297,7 +4297,7 @@
    ""
   ],
   "jp": "その船室の中心に、柔らかな光を放つ{n}球体が浮かんでいた。それは実体ある{n}物質ではなく、空間を越えて現出する{n}エネルギーの通り道のようであった。{n}それに触れると、Ｄ・Ｓの肉体と精神{n}に癒しのエネルギーが流れ込んできた。",
-  "en": ""
+  "en": "A sphere giving off a soft light floated at{n}the center of the cabin. It was not solid{n}matter but seemed a channel of energy{n}appearing across space. At its touch,{n}healing energy poured into D.S.'s body and{n}mind."
  },
  {
   "id": "s0014_056dc",
@@ -4321,7 +4321,7 @@
    ""
   ],
   "jp": "ヨーコ玉の癒しと同じ種類の、より{n}根源から力を蘇らせる波動――。{page}溢れる光が治まった時、Ｄ・Ｓの肉体{n}には限界まで活力が充填され、消費した{n}魔力も完全に回復していた。ヨーコ玉{n}もその器いっぱいに法力が補充された{n}ようであった。",
-  "en": ""
+  "en": "A wave of the same kind as the Yoko orb's{n}healing, restoring strength from a deeper{n}source--{page}When the flood of light subsided, D.S.'s{n}body was charged with vigor to the limit,{n}and his spent magic fully restored. The{n}Yoko orb too seemed refilled with power{n}to the brim."
  },
  {
   "id": "s0014_057bc",
@@ -4345,7 +4345,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "こいつは――ヨーコさんが開いた思念{n}エネルギーの回路か？　凄え……完璧{n}に癒されたぜ！　愛の力か!?",
-  "en": ""
+  "en": "This is -- a thought-energy circuit Yoko-san{n}opened? Wow... I'm totally healed! The power{n}of love!?"
  },
  {
   "id": "s0014_05820",
@@ -4369,7 +4369,7 @@
    "ヴァイ"
   ],
   "jp": "だから俺も回復してるってば",
-  "en": ""
+  "en": "Like I said, I'm getting healed too."
  },
  {
   "id": "s0014_0583c",
@@ -4393,7 +4393,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "こういう場所を、ヨーコさんが他にも{n}作ってくれてるのかも知れねえな――",
-  "en": ""
+  "en": "Yoko-san might've made other places like{n}this for me--"
  },
  {
   "id": "s0014_05884",
@@ -4417,7 +4417,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "それを肯定するように、聖玉は青く{n}点滅してみせた。",
-  "en": ""
+  "en": "As if to agree, the Holy Orb blinked{n}blue."
  },
  {
   "id": "s0014_058b8",
@@ -4441,6 +4441,6 @@
    "Ｄ・Ｓ"
   ],
   "jp": "ありがとうヨーコさん。上手く利用{n}させてもらうぜ！",
-  "en": ""
+  "en": "Thanks, Yoko-san. I'll put 'em to good use!"
  }
 ]

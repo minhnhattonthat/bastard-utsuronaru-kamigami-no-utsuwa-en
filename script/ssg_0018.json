@@ -21,7 +21,7 @@
    ""
   ],
   "jp": "洞窟内に掘り抜かれたこの神殿は、{n}かなり長い間、足を踏み入れる者も{n}なかったようだった。にもかかわらず、{n}そこは聖域として確実に生きていた。{n}かつての信仰の力が衰微しつつ残留{n}しているのではなく、現在も魔力が{n}注ぎ込まれ、神殿そのものが息づいて{n}いるのが肌で感じ取れる。",
-  "en": ""
+  "en": "This temple, carved out within a cave,{n}seemed to have gone unvisited for a very{n}long time. And yet it was truly alive as a{n}sanctuary. This was no fading remnant of{n}old faith: magic still poured in now, and{n}the skin could feel the temple itself{n}breathing."
  },
  {
   "id": "s0018_00924",
@@ -45,7 +45,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "へへっ、こいつは無駄足には{n}なりそうにねーぜ",
-  "en": ""
+  "en": "Heh heh, this ain't looking like a wasted{n}trip."
  },
  {
   "id": "s0018_00954",
@@ -69,7 +69,7 @@
    "ヴァイ"
   ],
   "jp": "するってえと、ここにあの要石の{n}本体があるってことか？",
-  "en": ""
+  "en": "So you mean the real keystone's here?"
  },
  {
   "id": "s0018_0098c",
@@ -93,7 +93,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "こういう場所はな、結界を張るには{n}もってこいなんだぜ。見つけ出したら{n}俺様の呪文でバラッバラに砕いてやる。{n}フッフッフッハッハ――",
-  "en": ""
+  "en": "This kind of place is just right for putting up{n}a barrier. Once I find it, the great me'll{n}smash it to bits with a spell. Hah hah hah HA{n}HA--"
  },
  {
   "id": "s0018_00a10",
@@ -117,7 +117,7 @@
    "ヨシュア"
   ],
   "jp": "……Ｄ・Ｓ、確かにあなたの秘めた{n}力は強大だ。今は記憶を失っていても、{n}次第にその力を取り戻していくだろう。{n}しかし――",
-  "en": ""
+  "en": "...D.S., your hidden power is indeed vast.{n}Though you have lost your memory now, you{n}will regain that power in time. However--"
  },
  {
   "id": "s0018_00a88",
@@ -141,7 +141,7 @@
    "ヨシュア"
   ],
   "jp": "飛び抜けたひとりの力は、時として{n}暗黒に呑まれることがある。結界は{n}むしろ、仲間との協調を促すために{n}存在しているのではあるまいか――",
-  "en": ""
+  "en": "The power of one who stands alone can at{n}times be swallowed by darkness. Perhaps{n}this barrier exists, rather, to urge harmony{n}with your comrades--"
  },
  {
   "id": "s0018_00b10",
@@ -165,7 +165,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "コナゴナにしてくれるぜ、ハッハー！{n}一時たりともこのＤ・Ｓ様の行く手を{n}阻んだことを、たとえ無機物だろうと{n}後悔させてやるう！　フハハーッ！",
-  "en": ""
+  "en": "I'll smash it to dust, ha HA! Even if it's just a{n}rock, I'll make it regret ever blocking the{n}path of the great D.S.-sama, even for a{n}second! BWAHAHA!"
  },
  {
   "id": "s0018_00b9c",
@@ -189,7 +189,7 @@
    "ヴァイ"
   ],
   "jp": "ん？　ヨシュア何か言ったか？{n}ダメだよ、このオッサンはこうなると{n}人の話なんざ聞いちゃいねえんだから。{n}で、何の話だって？",
-  "en": ""
+  "en": "Hm? Joshua, you say something? No use,{n}once this old guy gets like this he don't{n}listen to anybody. So what were you{n}saying?"
  },
  {
   "id": "s0018_00c18",
@@ -213,7 +213,7 @@
    "ヨシュア"
   ],
   "jp": "……いや、いいんだ{n}（Ｄ・Ｓが自ら、その事実に気づか{n}なければ……）",
-  "en": ""
+  "en": "...No, it's nothing. (D.S. must come to realize{n}that for himself...)"
  },
  {
   "id": "s0018_00d88",
@@ -239,7 +239,7 @@
    ""
   ],
   "jp": "その石版は、微かに振動していた。{n}神殿に満ちたエネルギーが作用して{n}いるのか、磨き上げられた表面が時折、{n}呼吸するように周囲の光を反射する。",
-  "en": ""
+  "en": "The stone tablet was faintly vibrating.{n}Perhaps the energy filling the temple{n}acted on it. Its polished surface now and{n}then reflected the light around it, as if{n}breathing."
  },
  {
   "id": "s0018_00e14",
@@ -265,7 +265,7 @@
    "ヴァイ"
   ],
   "jp": "この石、震えてるぜ。触ってると{n}筋肉痛とかに良さそうだな……おっ、{n}こいつはキクぜ",
-  "en": ""
+  "en": "This stone's shaking. Might be good for sore{n}muscles... ooh, that hits the spot."
  },
  {
   "id": "s0018_00e68",
@@ -291,7 +291,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "何でテメエはそうやって無警戒に、{n}いかにもアヤしそーなものに手を{n}出したりするんだ？　え？　罠が{n}仕掛けられてるとか考えねーのか？",
-  "en": ""
+  "en": "Why the hell do you go grabbing{n}shady-looking stuff with no caution at all?{n}Huh? It never crosses your mind there could{n}be a trap?"
  },
  {
   "id": "s0018_00eec",
@@ -317,7 +317,7 @@
    "ヴァイ"
   ],
   "jp": "おおっと、危なかったー！",
-  "en": ""
+  "en": "Whoa, that was close!"
  },
  {
   "id": "s0018_00f08",
@@ -343,7 +343,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "……ま、幸い罠じゃなかったようだ。{n}それにしても、どうしてモノリスが{n}振動なんかしてやがんだ……むっ!?",
-  "en": ""
+  "en": "...Well, lucky for you it wasn't a trap. But{n}why the hell's a monolith vibrating anyway...{n}hm!?"
  },
  {
   "id": "s0018_00f70",
@@ -369,7 +369,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "Ｄ・Ｓが触れた途端、その手を通じて{n}一連の言葉が意識に飛び込んできた。{page}モノリス自体に変化はなく、ヴァイも{n}触っていながら言葉を受け取った{n}様子はない。どうやらこのモノリスは、{n}ちょうどＤ・Ｓの意識にのみ同調する{n}周波数で振動しているようだった。",
-  "en": ""
+  "en": "The moment D.S. touched it, a string of{n}words leapt into his mind through his{n}hand.{page}The monolith itself did not change, and{n}Vai, touching it too, seemed to receive no{n}words. It seemed to vibrate at a{n}frequency tuned to D.S.'s mind alone."
  },
  {
   "id": "s0018_01064",
@@ -395,7 +395,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "“声を聞く者、汝、その正当なる力を{n}奪い去られし者なり――”",
-  "en": ""
+  "en": "\"Thou who hearest this voice, thou art{n}one robbed of thy rightful power--\""
  },
  {
   "id": "s0018_010a4",
@@ -419,7 +419,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "“内陸深く進むには力が必要となる。{n}汝、力持たざれば滅びは必定なり。{n}汝、汝に従う者とともに力を示せ。{n}さすれば封は消え去るであろう”",
-  "en": ""
+  "en": "\"Power is needed to venture deep inland.{n}Without power thy doom is certain. Show{n}thy power with those who follow thee,{n}and the seal shall vanish.\""
  },
  {
   "id": "s0018_0112c",
@@ -445,7 +445,7 @@
    "ヴァイ"
   ],
   "jp": "……い！　おいってば！　Ｄ・Ｓ！",
-  "en": ""
+  "en": "...ey! Hey, I said! D.S.!"
  },
  {
   "id": "s0018_01150",
@@ -471,7 +471,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "ん……ああ？",
-  "en": ""
+  "en": "Hm... huh?"
  },
  {
   "id": "s0018_01160",
@@ -497,7 +497,7 @@
    "ヴァイ"
   ],
   "jp": "やっと返事しやがった。モノリスに{n}触ったっきり動かなくなりやがって。{n}もしかして肩コリ治してたとか？",
-  "en": ""
+  "en": "Finally answered. You touched the monolith{n}and just froze. What, were you fixing your{n}stiff shoulders?"
  },
  {
   "id": "s0018_011c4",
@@ -523,7 +523,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "バッキャロー、そんな齢じゃ……？{n}そういや俺っていくつなんだっけ？。{n}えらく長い人生を送ってたような気も{n}すんだけどな",
-  "en": ""
+  "en": "You moron, I ain't that old... ? Come to think{n}of it, how old am I? I get the feeling I've{n}lived an awful long life."
  },
  {
   "id": "s0018_0123c",
@@ -549,7 +549,7 @@
    "ヴァイ"
   ],
   "jp": "ヨーコはきっと、俺みたいに若さの{n}弾けるティーンエイジャーが好みだと{n}思うなー",
-  "en": ""
+  "en": "I bet Yoko goes for young,{n}bursting-with-youth teenagers like me."
  },
  {
   "id": "s0018_0128c",
@@ -575,7 +575,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "バカさの弾ける低脳じゃー、だろ",
-  "en": ""
+  "en": "Bursting with stupid, you mean. You dimwit."
  },
  {
   "id": "s0018_0147c",
@@ -599,7 +599,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "“汝の力、魔の力のみに頼るに非ず。{n}己のみを信ずるは愚かなり。力を{n}合わせる知恵を持てば、閉ざされた{n}道は切り拓かれよう。汝、心せよ”",
-  "en": ""
+  "en": "\"Thy power relies not on magic alone.{n}Trusting only thyself is folly. With the{n}wisdom to join forces, the closed way{n}shall be cut open. Take heed.\""
  },
  {
   "id": "s0018_016d4",
@@ -623,7 +623,7 @@
    ""
   ],
   "jp": "“我が声を聞く者よ。扉の先にて{n}汝の力を試せ――”",
-  "en": ""
+  "en": "\"Thou who hearest my voice. Test thy{n}power beyond the door--\""
  },
  {
   "id": "s0018_01708",
@@ -647,7 +647,7 @@
    ""
   ],
   "jp": "モノリスの振動がにわかに高まり、{n}重い扉の動く音が神殿内に響き渡った。",
-  "en": ""
+  "en": "The monolith's vibration suddenly rose,{n}and the sound of a heavy door moving{n}echoed through the temple."
  },
  {
   "id": "s0018_01750",
@@ -671,7 +671,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "どこかで扉が開いたな。どうやら{n}そこで力試しをしなきゃならねえ{n}ようだぜ",
-  "en": ""
+  "en": "A door opened someplace. Looks like that's{n}where we gotta test our power."
  },
  {
   "id": "s0018_01798",
@@ -695,7 +695,7 @@
    "ブラド"
   ],
   "jp": "面白いではないか。少々退屈して{n}いたところよ",
-  "en": ""
+  "en": "How interesting. I was growing somewhat{n}bored."
  },
  {
   "id": "s0018_017c8",
@@ -719,7 +719,7 @@
    "ヴァイ"
   ],
   "jp": "でもよ、何だかこの神殿は俺たち{n}……いや、Ｄ・Ｓ、アンタを待ってた{n}ような感じだよな。罠にハマった{n}みたいで、不気味じゃねえか？",
-  "en": ""
+  "en": "But y'know, it kinda feels like this temple's{n}been waiting for us... no, D.S., for you. Like{n}we walked into a trap. Isn't that creepy?"
  },
  {
   "id": "s0018_01848",
@@ -743,7 +743,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "確かに、俺を名指しして待ち構えて{n}いたように思える。だがな、どうも{n}敵に罠を仕掛けられているような気は{n}しねえ",
-  "en": ""
+  "en": "Sure feels like it was waiting for me by{n}name. But I don't get the feeling the enemy{n}set a trap."
  },
  {
   "id": "s0018_018b8",
@@ -767,7 +767,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "これと言って根拠があるワケじゃ{n}ねえけどな……",
-  "en": ""
+  "en": "Not that I got any real reason..."
  },
  {
   "id": "s0018_018e8",
@@ -791,7 +791,7 @@
    "ヴァイ"
   ],
   "jp": "ふうん……ま、鬼が出るか蛇が{n}出るか、行ってみるしかねえか",
-  "en": ""
+  "en": "Huh... well, demon or snake, I guess we just{n}gotta go and see."
  },
  {
   "id": "s0018_01a54",
@@ -815,7 +815,7 @@
    ""
   ],
   "jp": "結界の幻影と同じ要石が、確かな{n}実体としてそこに鎮座していた。{n}神殿の構造から見て、こここそが{n}霊的な磁場の中心であり、要石に{n}強力なエネルギーを注ぎ込んで{n}いるのは明白であった。",
-  "en": ""
+  "en": "A keystone just like the barrier's phantom{n}sat there in solid form. From the temple's{n}layout, this was clearly the center of a{n}spiritual field, pouring powerful energy{n}into the keystone."
  },
  {
   "id": "s0018_01b08",
@@ -839,7 +839,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "予想通り、本体がありやがった。{n}それじゃ早速ブチ砕いてやるとするか",
-  "en": ""
+  "en": "Just as I figured, the real one's here. So{n}let's go ahead and bust it up."
  },
  {
   "id": "s0018_01b4c",
@@ -863,7 +863,7 @@
    "ヴァイ"
   ],
   "jp": "待てよＤ・Ｓ。さっき言ってた{n}力試しってこれのコトなんだろ？{n}そんなに簡単に済むのかよ？",
-  "en": ""
+  "en": "Wait, D.S. This is that power test you were{n}talking about, right? You think it'll be that{n}easy?"
  },
  {
   "id": "s0018_01ba4",
@@ -887,7 +887,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "なーに、俺様に任せておけば{n}間違いない。さて、と",
-  "en": ""
+  "en": "Pfft, leave it to the great me and you can't{n}go wrong. Now then."
  },
  {
   "id": "s0018_01bd8",
@@ -912,7 +912,7 @@
    "ヨシュア"
   ],
   "jp": "要石にダムドを唱えるか？",
-  "en": ""
+  "en": "Cast Damned on the keystone?"
  },
  {
   "id": "s0018_01bf4",
@@ -939,7 +939,7 @@
    "ヨシュア"
   ],
   "jp": "おう",
-  "en": ""
+  "en": "Yeah"
  },
  {
   "id": "s0018_01bfc",
@@ -966,7 +966,7 @@
    "ヨシュア"
   ],
   "jp": "やめとこう",
-  "en": ""
+  "en": "Better not"
  },
  {
   "id": "s0018_01c08",
@@ -990,7 +990,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "ハンサム様の道を遮りやがった{n}罪深い石コロよ、砕け散りやがれ！{n}うおらあっ、ダムドォッ！",
-  "en": ""
+  "en": "Sinful little pebble, blocking the path of{n}Mister Handsome. Shatter! RAAAH,{n}DAMNEEED!"
  },
  {
   "id": "s0018_01c60",
@@ -1015,7 +1015,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "呪文が炸裂した瞬間、要石は目映い{n}閃光に包まれた。爆発の衝撃が亀裂を{n}生じさせ、高熱が内側まで伝達されて{n}巨石を一瞬に破砕する――はずだった。",
-  "en": ""
+  "en": "The moment the spell burst, the keystone{n}was wrapped in a dazzling flash. The{n}shock of the blast should have cracked it,{n}the heat should have gone inside and split{n}the great stone in an instant--"
  },
  {
   "id": "s0018_01cf0",
@@ -1040,7 +1040,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "しかし、要石を覆った閃光は、呪文の{n}熱によるものではなかった。それは{n}石をコーティングするように施された{n}魔法障壁であり、あらゆる呪文を{n}術者へと跳ね返す強力な反射機能を{n}備えていた。当然の帰結として、{n}爆裂の呪文は魔力を放ったＤ・Ｓに{n}逆流することとなった。",
-  "en": ""
+  "en": "But the flash covering the keystone did{n}not come from the spell's heat. It was a{n}magic barrier coating the stone, with a{n}powerful function that bounced every{n}spell back at its caster. Naturally, the{n}exploding spell flowed back to D.S., who{n}had cast it."
  },
  {
   "id": "s0018_01df0",
@@ -1065,7 +1065,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "ぐわあーっ！！",
-  "en": ""
+  "en": "GWAAAH!!"
  },
  {
   "id": "s0018_01e00",
@@ -1090,7 +1090,7 @@
    "ヴァイ"
   ],
   "jp": "……むごすぎて笑えねえぞ",
-  "en": ""
+  "en": "...That's too brutal even to laugh at."
  },
  {
   "id": "s0018_01e1c",
@@ -1116,7 +1116,7 @@
    "ボル"
   ],
   "jp": "む!?　要石が！",
-  "en": ""
+  "en": "Hm!? The keystone!"
  },
  {
   "id": "s0018_01e2c",
@@ -1140,7 +1140,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "っとと……そう言や、モノリスで{n}魔の力に頼るな、とか聞いたな。{n}やっぱ調べてみたほうがいいか……{n}ん？　何だ!?",
-  "en": ""
+  "en": "Whoa there... come to think of it, that{n}monolith said not to rely on magic or{n}something. Guess I better check this out...{n}huh? What the!?"
  },
  {
   "id": "s0018_01e9c",
@@ -1164,7 +1164,7 @@
    "ボル"
   ],
   "jp": "巨大な、明らかに何らかの呪力が{n}施されていると思しき石の神体が{n}そこにあった。神殿の構造から見て、{n}ここが中心部であり、霊的な力の{n}集中する祭祀の場であることは間違い{n}なかった。",
-  "en": ""
+  "en": "There stood a huge stone idol, clearly{n}bearing some kind of curse. From the{n}temple's layout, this was without doubt{n}the center, a ritual site where spiritual{n}power gathered."
  },
  {
   "id": "s0018_01f4c",
@@ -1188,7 +1188,7 @@
    "ヴァイ"
   ],
   "jp": "力試しって、この岩をどうにか{n}しろってコトか？",
-  "en": ""
+  "en": "So the power test means we do something{n}about this rock?"
  },
  {
   "id": "s0018_01f7c",
@@ -1212,7 +1212,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "こういうのは要石ってんだ。何かの{n}封印に使われてんだろうな。で、当然{n}俺様がブチ砕ーく！",
-  "en": ""
+  "en": "This kind of thing's called a keystone. Must{n}be used for some kind of seal. And naturally,{n}the great me smashes it!"
  },
  {
   "id": "s0018_01fd4",
@@ -1236,7 +1236,7 @@
    "ヴァイ"
   ],
   "jp": "おいおい、警戒しろって言ってたの{n}アンタだぜ",
-  "en": ""
+  "en": "Hey now, you're the one who said to be{n}careful."
  },
  {
   "id": "s0018_02004",
@@ -1260,7 +1260,7 @@
    "ヨシュア"
   ],
   "jp": "そうだＤ・Ｓ。要石を詳しく調べて{n}からでも遅くないのでは――",
-  "en": ""
+  "en": "Indeed, D.S. It would not be too late to{n}examine the keystone in detail first--"
  },
  {
   "id": "s0018_02044",
@@ -1284,7 +1284,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "俺に不可能はない。ワハハハハ！",
-  "en": ""
+  "en": "Nothing's impossible for me. BWAHAHAHAHA!"
  },
  {
   "id": "s0018_02064",
@@ -1308,7 +1308,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "ちいとばかし記憶がなくなってるが、{n}石コロ風情に力試しされるたあ俺様も{n}ナメられたもんだぜ！　うおらあっ、{n}喰らえ！　ダムドォッ！",
-  "en": ""
+  "en": "I may be short a few memories, but getting{n}tested by some pebble? Somebody's{n}underestimating the great me! RAAAH, eat{n}this! DAMNEEED!"
  },
  {
   "id": "s0018_020e8",
@@ -1332,7 +1332,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "要石が微かに身じろぎしたように{n}見えた。と、今度はＤ・Ｓ以外にも{n}感じ取れるだけの、モノリスとは{n}比べものにならぬ強力な思念波が{n}放射された。",
-  "en": ""
+  "en": "The keystone seemed to stir faintly. Then{n}it gave off a thought wave powerful{n}enough for more than D.S. to feel, far{n}stronger than the monolith's."
  },
  {
   "id": "s0018_02174",
@@ -1356,7 +1356,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "“我は地の龍。生命の力の根源にして{n}全ての始まりなり。我、すでに侵され{n}最後の力にてこの地を封印す。汝が力、{n}我が封を破りてここに示せ――”",
-  "en": ""
+  "en": "\"I am the Earth Dragon, source of the{n}power of life, the beginning of all things.{n}Already defiled, with my last strength I{n}seal this land. Break my seal and show thy{n}power here--\""
  },
  {
   "id": "s0018_02200",
@@ -1378,7 +1378,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "要石を破壊する準備はよいか",
-  "en": ""
+  "en": "Ready to destroy the keystone?"
  },
  {
   "id": "s0018_0221c",
@@ -1402,7 +1402,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "はい",
-  "en": ""
+  "en": "Yes"
  },
  {
   "id": "s0018_02224",
@@ -1426,7 +1426,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "いいえ",
-  "en": ""
+  "en": "No"
  },
  {
   "id": "s0018_0222c",
@@ -1450,7 +1450,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "要石が砕け散る直前、思念波が再び{n}意識に響き渡った。",
-  "en": ""
+  "en": "Just before the keystone shattered, the{n}thought wave rang through their minds{n}once more."
  },
  {
   "id": "s0018_02264",
@@ -1474,7 +1474,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "“相応しき者よ！　この地の封印は{n}解かれたり！”",
-  "en": ""
+  "en": "\"Worthy one! The seal on this land is{n}lifted!\""
  },
  {
   "id": "s0018_02298",
@@ -1498,7 +1498,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "“されどまだ、大地にはびこり我を{n}封ずる者どもを払拭するには能わず”",
-  "en": ""
+  "en": "\"Yet thou art not able to sweep away{n}those who overrun the earth and seal{n}me.\""
  },
  {
   "id": "s0018_022e0",
@@ -1522,7 +1522,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "“力を高めよ！　汝に呼応し集った{n}仲間を探し、その力を束ねて我の封じ{n}込められた地を求めよ。我を解き放ち{n}螺の道を開け――”",
-  "en": ""
+  "en": "\"Raise thy power! Seek the comrades{n}gathered in answer to thee, bind their{n}strength, and find the land where I am{n}sealed. Free me, and open the spiral{n}road--\""
  },
  {
   "id": "s0018_0235c",
@@ -1546,7 +1546,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "巨岩は弾け、そして分子の結合までが{n}断ち切られたのか、かけらも残さず{n}雲散霧消した。大気に横溢していた{n}魔力も消え、神殿は水を打ったような{n}静寂に満たされた。",
-  "en": ""
+  "en": "The boulder burst, and with even its{n}molecular bonds severed, it dispersed{n}without leaving a fragment. The magic{n}filling the air was gone too, and the{n}temple fell utterly silent."
  },
  {
   "id": "s0018_023f8",
@@ -1570,7 +1570,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "地龍、とかぬかしやがったな。{n}これだけの封印を維持できるとなると、{n}ちょっとやそっとでお目にかかれる{n}ようなドラゴンとは思えねえな",
-  "en": ""
+  "en": "\"Earth Dragon,\" he said. To hold up a seal{n}like this, it can't be any ordinary dragon you{n}run across."
  },
  {
   "id": "s0018_0247c",
@@ -1594,7 +1594,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "本当に龍の眷属だとすりゃ、えらく{n}霊格が高いヤツだろうぜ。しかも{n}そいつが、恐らくは俺たちの記憶を{n}消した敵に封印されてるらしい",
-  "en": ""
+  "en": "If it's really dragon kin, it's gotta be awful{n}high up the ladder. And it looks like it got{n}sealed away by the enemy that probably{n}wiped our memories."
  },
  {
   "id": "s0018_024fc",
@@ -1618,7 +1618,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "こいつはこの先、ナメてかかれねえ{n}かも知れねえな――",
-  "en": ""
+  "en": "We might not be able to take this lightly{n}from here on--"
  },
  {
   "id": "s0018_02534",
@@ -1642,7 +1642,7 @@
    "ヨシュア"
   ],
   "jp": "地龍……もはや敵の手に……",
-  "en": ""
+  "en": "The Earth Dragon... already in the enemy's{n}hands..."
  },
  {
   "id": "s0018_02550",
@@ -1666,7 +1666,7 @@
    "ヴァイ"
   ],
   "jp": "とにかくよ、俺たち力試しには合格{n}したんだろ？",
-  "en": ""
+  "en": "Anyway, we passed the power test, right?"
  },
  {
   "id": "s0018_02580",
@@ -1690,7 +1690,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "ああ。本体をぶち壊したんだ、あの{n}洞窟の幻影も消えているだろうぜ",
-  "en": ""
+  "en": "Yeah. We wrecked the real one, so that{n}phantom in the cave should be gone too."
  },
  {
   "id": "s0018_025c4",
@@ -1714,7 +1714,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "そうだな。この神殿も働きを止めた{n}ようだし、ここにはもう用はねえ。{n}早いとこ内陸に向かうとするか",
-  "en": ""
+  "en": "Right. This temple's stopped working too, so{n}we're done here. Let's hurry on inland."
  },
  {
   "id": "s0018_02624",

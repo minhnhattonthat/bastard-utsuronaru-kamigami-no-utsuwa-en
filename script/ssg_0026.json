@@ -21,7 +21,7 @@
    ""
   ],
   "jp": "その洞窟は暗かったが、空気の流れや{n}音の反響から、先に長く続いていると{n}感じられた。方角的にも、内陸部へ{n}向かうのはこのルートに相違なかった。",
-  "en": ""
+  "en": "The cave was dark, but the flow of the{n}air and the echoes told them it ran on a{n}long way. By direction, too, this was{n}without doubt the route inland."
  },
  {
   "id": "s0026_008f4",
@@ -45,7 +45,7 @@
    ""
   ],
   "jp": "Ｄ・Ｓの予想通り、地龍神殿の本体を{n}破壊した今、そこにはもはや要石の{n}幻影は存在しなかった。結界は消え、{n}内陸部へと続く洞窟が口を開けている。",
-  "en": ""
+  "en": "Just as D.S. had predicted, with the real{n}one in the Earth Dragon Temple{n}destroyed, the keystone's phantom was{n}no longer there. The barrier was gone,{n}and a cave leading inland gaped open."
  },
  {
   "id": "s0026_009f4",
@@ -69,7 +69,7 @@
    ""
   ],
   "jp": "眼前に半透明の、巨大な岩塊の幻影が{n}通路を塞いで浮かび上がっていた。{page}それは幻でありながら、硬質な触感を{n}持って存在していた。小揺るぎもせぬ{n}幻影の壁に阻まれ、彼らはそこから{n}先に進むことはできなかった。",
-  "en": ""
+  "en": "Before them floated the translucent{n}phantom of a huge boulder, blocking the{n}passage.{page}Illusion though it was, it had a hard feel{n}to it. Barred by the unshakable phantom{n}wall, they could go no further."
  },
  {
   "id": "s0026_00ac0",
@@ -93,7 +93,7 @@
    "ブラド"
   ],
   "jp": "ぬうう……ワシが押してもビクとも{n}せぬとは……",
-  "en": ""
+  "en": "Nnngh... not a budge, even when I push it..."
  },
  {
   "id": "s0026_00af0",
@@ -117,7 +117,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "強い結界が施されてやがる。現実の{n}物質を投射して、虚像の連続体を{n}造り上げているな。幻影だが、遮る{n}ことができねえって寸法だ",
-  "en": ""
+  "en": "There's a strong barrier here. It's projecting{n}a real object, building a continuous illusion.{n}It's a phantom, but it can still block you.{n}That's the setup."
  },
  {
   "id": "s0026_00b6c",
@@ -141,7 +141,7 @@
    "ヴァイ"
   ],
   "jp": "つまり、どういうこった？",
-  "en": ""
+  "en": "Meaning what?"
  },
  {
   "id": "s0026_00b88",
@@ -165,7 +165,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "凄まじい速さで幻影が更新されて{n}いるのさ。投射の一瞬だけ実体の{n}特性を維持するだけだが、それが{n}連続して行われるから通れねえ",
-  "en": ""
+  "en": "The phantom's being refreshed at a crazy{n}speed. It's only got real properties at the{n}instant it's projected, but it goes on{n}nonstop, so you can't get through."
  },
  {
   "id": "s0026_00c04",
@@ -189,7 +189,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "噛み砕いて言やあ、高速で往復する{n}振り子だ。空気は通り抜けられても、{n}ある程度の大きさを持つ固体は邪魔{n}されちまう。つまり俺たちだな",
-  "en": ""
+  "en": "To put it in baby talk, it's a pendulum{n}swinging back and forth fast. Air gets{n}through, but a solid of any size gets{n}stopped. Meaning us."
  },
  {
   "id": "s0026_00c88",
@@ -237,7 +237,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "すぐ虚像が更新されちまうから、{n}破壊も移動も不可能。およそ厄介な{n}結界だぜ",
-  "en": ""
+  "en": "The illusion refreshes right away, so you{n}can't break it or move it. One hell of a nasty{n}barrier."
  },
  {
   "id": "s0026_00cdc",
@@ -261,7 +261,7 @@
    "ボル"
   ],
   "jp": "突破不可能ということでござるか？",
-  "en": ""
+  "en": "Then it cannot be broken through,{n}forsooth?"
  },
  {
   "id": "s0026_00d00",
@@ -285,7 +285,7 @@
    "ヴァイ"
   ],
   "jp": "それじゃ、どうすんだよ？",
-  "en": ""
+  "en": "So what do we do?"
  },
  {
   "id": "s0026_00d1c",
@@ -309,7 +309,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "慌てるな。この手の強力な呪法は、{n}それなりの環境を整えたうえで、かつ{n}近距離からしか封印をくくることが{n}できねえ。当然のリスクってワケだ",
-  "en": ""
+  "en": "Calm down. Curses this strong can only tie a{n}seal if you set up the right conditions, and{n}only at close range. That's the risk you{n}run."
  },
  {
   "id": "s0026_00da4",
@@ -333,7 +333,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "この近辺に岩塊――要石の実体が{n}あるハズだ。それも大規模に呪力を{n}増幅してやがるから、それなりに{n}祀られているに違いねえ",
-  "en": ""
+  "en": "The boulder itself -- the real keystone --{n}has to be around here. And it's boosting a{n}curse on a big scale, so it's gotta be{n}enshrined somewhere pretty fancy."
  },
  {
   "id": "s0026_00e1c",
@@ -357,7 +357,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "それさえ見つけて叩き壊せば、{n}幻影を消すことができるだろうぜ",
-  "en": ""
+  "en": "Find that and smash it, and the phantom{n}should go away."
  },
  {
   "id": "s0026_00e5c",
@@ -382,7 +382,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "だとすりゃ、考えられるのはあの神殿{n}の中なんだが……",
-  "en": ""
+  "en": "In that case, the place to think of is inside{n}that temple..."
  },
  {
   "id": "s0026_00e94",
@@ -406,7 +406,7 @@
    "ヴァイ"
   ],
   "jp": "入れないんだよな",
-  "en": ""
+  "en": "We can't get in, though."
  },
  {
   "id": "s0026_00ea8",
@@ -430,7 +430,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "どうにもまだ、海岸線の探索が不完全{n}な気がしてならねえ。先にそっちを{n}確かめてみることにしよう",
-  "en": ""
+  "en": "I can't shake the feeling we didn't finish{n}searching the coastline. Let's check that out{n}first."
  },
  {
   "id": "s0026_00f08",
@@ -454,7 +454,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "だとすりゃ、考えられるのはあの神殿{n}の中だよな",
-  "en": ""
+  "en": "In that case, the place to think of is inside{n}that temple."
  },
  {
   "id": "s0026_00f38",
@@ -478,7 +478,7 @@
    "ヴァイ"
   ],
   "jp": "今度は入れるハズだぜ。行ってみよう！",
-  "en": ""
+  "en": "We should be able to get in now. Let's go!"
  },
  {
   "id": "s0026_00f60",
@@ -502,7 +502,7 @@
    "ヴァイ"
   ],
   "jp": "頭数が足りねえんだよな",
-  "en": ""
+  "en": "We're short on bodies, though."
  },
  {
   "id": "s0026_00f78",
@@ -526,7 +526,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "とにかく、もう一度あそこに行って{n}みようぜ",
-  "en": ""
+  "en": "Anyway, let's go back there one more{n}time."
  },
  {
   "id": "s0026_01268",
@@ -550,7 +550,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "妙な化け物が出るようになってきや{n}がったな。竜船の魔操兵もどきとは、{n}ちょっとばかり違うようだぜ",
-  "en": ""
+  "en": "Some weird monsters are showing up now.{n}They ain't quite like those knockoff puppets{n}on the Dragon Ship."
  },
  {
   "id": "s0026_012c8",
@@ -574,7 +574,7 @@
    "ヴァイ"
   ],
   "jp": "敵――の配下かな？",
-  "en": ""
+  "en": "Servants of -- the enemy?"
  },
  {
   "id": "s0026_012dc",
@@ -598,6 +598,6 @@
    "Ｄ・Ｓ"
   ],
   "jp": "かもな。モノリスの言ってた、力が{n}必要ってのはこのことか……？",
-  "en": ""
+  "en": "Maybe. So this is what the monolith meant,{n}needing power...?"
  }
 ]
