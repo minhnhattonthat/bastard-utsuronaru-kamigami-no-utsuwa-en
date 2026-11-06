@@ -21,7 +21,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "チッ……塔の中にも魔物どもが{n}入り込んでいやがる",
-  "en": ""
+  "en": "Tch... The monsters got inside the tower{n}too."
  },
  {
   "id": "s0361_0084c",
@@ -45,7 +45,7 @@
    "アビゲイル"
   ],
   "jp": "すでに結界の役割を果たさなくなって{n}きているようですね",
-  "en": ""
+  "en": "It seems it is no longer serving as a{n}barrier."
  },
  {
   "id": "s0361_00884",
@@ -69,7 +69,7 @@
    "カル"
   ],
   "jp": "ヨーコの精神的な抵抗力が落ちてきて{n}いる証拠だ。Ｄ・Ｓの贋者が、彼女に{n}凄まじい攻勢をかけているらしい",
-  "en": ""
+  "en": "Proof that Yoko's mental resistance is{n}failing. The false D.S. seems to be pressing a{n}terrible assault on her."
  },
  {
   "id": "s0361_008ec",
@@ -93,7 +93,7 @@
    "アビゲイル"
   ],
   "jp": "残された時間はわずかしかありません。{n}それと……厄介な魔物が召喚されて{n}いる気配がしますね",
-  "en": ""
+  "en": "There is very little time left. And... I sense{n}that a troublesome monster has been{n}summoned."
  },
  {
   "id": "s0361_00948",
@@ -117,7 +117,7 @@
    "ネイ"
   ],
   "jp": "急ぎましょう、ダーシュ",
-  "en": ""
+  "en": "Let's hurry, Dahsh."
  },
  {
   "id": "s0361_00960",
@@ -141,7 +141,7 @@
    "ガラ"
   ],
   "jp": "あれっ？　オメエおじょーちゃんの{n}コトキライなんじゃねーの？",
-  "en": ""
+  "en": "Huh? Thought you hated the little lady?"
  },
  {
   "id": "s0361_009a0",
@@ -165,7 +165,7 @@
    "ネイ"
   ],
   "jp": "恋敵だしね……でも、それとこれとは{n}別よ！　私、ダーシュの悲しむところ{n}なんか見たくないもの。それに――{n}あの娘ってイイ子なのよね……",
-  "en": ""
+  "en": "She's my rival in love... but that's one thing{n}and this is another! I don't want to see{n}Dahsh grieving. Besides-- that girl's actually{n}a nice kid..."
  },
  {
   "id": "s0361_00a28",
@@ -189,7 +189,7 @@
    "ガラ"
   ],
   "jp": "おーエライえらい。せーちょーしたな",
-  "en": ""
+  "en": "Ooh, good girl. You've grown up."
  },
  {
   "id": "s0361_00a4c",
@@ -213,7 +213,7 @@
    "ネイ"
   ],
   "jp": "何よ！　年下がエラそーに！",
-  "en": ""
+  "en": "Excuse me! Don't you talk big to me, you{n}young thing!"
  },
  {
   "id": "s0361_00a68",
@@ -237,7 +237,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "駆け昇るぜ！　持ちこたえてくれよ、{n}ヨーコさん!!",
-  "en": ""
+  "en": "Up we go! Hang on, Yoko-san!!"
  },
  {
   "id": "s0361_00be0",
@@ -261,7 +261,7 @@
    ""
   ],
   "jp": "塔の吹き抜けから、途轍もない邪気が{n}吹き寄せてくる。地獄の底に隠れ棲む{n}根源の闇――同族すら震え上がらせる{n}獰悪な高位魔族が、番人としてここに{n}放たれていた。",
-  "en": ""
+  "en": "An immense malice blew down the tower's{n}open shaft. The primal darkness that hides{n}at the bottom of hell-- savage high{n}demons that make even their own kind{n}tremble had been loosed here as{n}guards."
  },
  {
   "id": "s0361_00c7c",
@@ -285,7 +285,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "足止めのつもりかよ！",
-  "en": ""
+  "en": "Trying to hold us up, huh!"
  },
  {
   "id": "s0361_00c94",
@@ -309,7 +309,7 @@
    "アビゲイル"
   ],
   "jp": "先刻の気配の正体はこの者どもだった{n}のですか！　いけませんよＤ・Ｓ！",
-  "en": ""
+  "en": "So these were the presences I sensed{n}earlier! This will not do, D.S.!"
  },
  {
   "id": "s0361_00cdc",
@@ -333,7 +333,7 @@
    "カル"
   ],
   "jp": "迅速に倒さないと間に合わなくなる！{n}ヨーコが虚神王の手に落ちてしまうぞ！",
-  "en": ""
+  "en": "We must defeat them swiftly or we will be{n}too late! Yoko will fall into the hands of the{n}Hollow God King!"
  },
  {
   "id": "s0361_00d28",
@@ -363,7 +363,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "この場を仲間に任せますか？",
-  "en": ""
+  "en": "Leave this place to a comrade?"
  },
  {
   "id": "s0361_00d44",
@@ -459,7 +459,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "誰に任せますか？",
-  "en": ""
+  "en": "Leave it to whom?"
  },
  {
   "id": "s0361_00d68",
@@ -489,7 +489,7 @@
    "ヴァイ"
   ],
   "jp": "Ｄ・Ｓ！　ここは俺に任せて先に行け！",
-  "en": ""
+  "en": "D.S.! Leave this to me and go on ahead!"
  },
  {
   "id": "s0361_00d90",
@@ -519,7 +519,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "ヴァイ、テメエ……",
-  "en": ""
+  "en": "Vai, you..."
  },
  {
   "id": "s0361_00da4",
@@ -549,7 +549,7 @@
    "ヴァイ"
   ],
   "jp": "勘違いすんなよな。アンタにヨーコを{n}譲るとか、そーゆーんじゃないかんな！",
-  "en": ""
+  "en": "Don't get the wrong idea. This doesn't mean{n}I'm giving Yoko up to you, y'know!"
  },
  {
   "id": "s0361_00df0",
@@ -579,7 +579,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "おーよ。物質界に戻ったら、ヨーコ{n}さんと俺の積み上げた愛の歴史で、{n}正々堂々諦めさせてやるぜ",
-  "en": ""
+  "en": "Yeah, yeah. Once we're back in the material{n}world, I'll make you give up, fair and square,{n}with the history of love me and Yoko-san{n}built."
  },
  {
   "id": "s0361_00e4c",
@@ -609,7 +609,7 @@
    "ヴァイ"
   ],
   "jp": "へへ……武者震いがしてきやがった。{n}いいな、Ｄ・Ｓ！　必ずヨーコを{n}助け出せよ！　いっくぜええっ!!",
-  "en": ""
+  "en": "Heh heh... I'm shaking, and it ain't fear. Got it,{n}D.S.! You'd better save Yoko! Here I gooo!!"
  },
  {
   "id": "s0361_00eb0",
@@ -639,7 +639,7 @@
    "ヨシュア"
   ],
   "jp": "Ｄ・Ｓ……あなたを信じるぞ",
-  "en": ""
+  "en": "D.S.... I believe in you."
  },
  {
   "id": "s0361_00ecc",
@@ -669,7 +669,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "ヨシュア？",
-  "en": ""
+  "en": "Joshua?"
  },
  {
   "id": "s0361_00ed8",
@@ -699,7 +699,7 @@
    "ヨシュア"
   ],
   "jp": "悪魔どもは俺が食い止める。{n}先を急いでくれ！",
-  "en": ""
+  "en": "I shall hold these demons back. Hurry on{n}ahead!"
  },
  {
   "id": "s0361_00f08",
@@ -729,7 +729,7 @@
    "カイ"
   ],
   "jp": "オレも残る",
-  "en": ""
+  "en": "I'm staying too."
  },
  {
   "id": "s0361_00f14",
@@ -759,7 +759,7 @@
    "ヨシュア"
   ],
   "jp": "カイ？　ダメだ！　危険すぎる！",
-  "en": ""
+  "en": "Kai? No! It is far too dangerous!"
  },
  {
   "id": "s0361_00f34",
@@ -789,7 +789,7 @@
    "カイ"
   ],
   "jp": "いいさ。ヨシュア、オマエと一緒なら{n}……さあ、早く行け、Ｄ・Ｓ！{n}時間を無駄にするな！",
-  "en": ""
+  "en": "It's fine. As long as I'm with you, Joshua...{n}Now hurry, D.S.! Don't waste time!"
  },
  {
   "id": "s0361_00f8c",
@@ -819,7 +819,7 @@
    "ヨシュア"
   ],
   "jp": "ヨーコを頼む！",
-  "en": ""
+  "en": "Take care of Yoko!"
  },
  {
   "id": "s0361_00f9c",
@@ -849,7 +849,7 @@
    "ヨルグ"
   ],
   "jp": "皆に、借りを返す時が来たな――",
-  "en": ""
+  "en": "The time has come to repay my debt to you{n}all--"
  },
  {
   "id": "s0361_00fbc",
@@ -879,7 +879,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "ヨルグ？",
-  "en": ""
+  "en": "Jorg?"
  },
  {
   "id": "s0361_00fc8",
@@ -909,7 +909,7 @@
    "ヨルグ"
   ],
   "jp": "彼女の――ヨーコのもとに一刻も早く！{n}このものどもの相手は俺が引き受ける！",
-  "en": ""
+  "en": "To her-- to Yoko, as fast as you can! I'll{n}deal with these things!"
  },
  {
   "id": "s0361_01014",
@@ -939,7 +939,7 @@
    "シェン"
   ],
   "jp": "兄者のぶんまで、こいつらの面倒は{n}オレがみてやる。先を急げ――",
-  "en": ""
+  "en": "I'll look after these guys, for my brother's{n}share too. Hurry on--"
  },
  {
   "id": "s0361_01054",
@@ -969,7 +969,7 @@
    "シェン"
   ],
   "jp": "闇に生まれた異形どもの相手は、{n}忌まわしい殺人剣にこそ相応しい……{n}ここは任せて先に行け！",
-  "en": ""
+  "en": "For freaks born of darkness, an accursed{n}killing sword is just right... Leave this to me{n}and go on!"
  },
  {
   "id": "s0361_010b0",
@@ -999,7 +999,7 @@
    "ジオン"
   ],
   "jp": "ならば俺も、残るとしよう",
-  "en": ""
+  "en": "Then I too shall stay."
  },
  {
   "id": "s0361_010cc",
@@ -1029,7 +1029,7 @@
    "シェン"
   ],
   "jp": "兄者――しかし……",
-  "en": ""
+  "en": "Brother-- but..."
  },
  {
   "id": "s0361_010e0",
@@ -1059,7 +1059,7 @@
    "ジオン"
   ],
   "jp": "俺たちの運命を狂わせた影流が役に{n}立つ時がきたんだ……ひとつ派手に{n}狂い咲かせてやろうじゃないか",
-  "en": ""
+  "en": "The Shadow School that twisted our fates{n}has its use at last... Let us make one{n}glorious, mad bloom of it."
  },
  {
   "id": "s0361_01140",
@@ -1089,7 +1089,7 @@
    "シェン"
   ],
   "jp": "……おう。やろうぜ、兄者！",
-  "en": ""
+  "en": "...Yeah. Let's do it, brother!"
  },
  {
   "id": "s0361_0115c",
@@ -1119,7 +1119,7 @@
    "シェン"
   ],
   "jp": "兄者の行為を無駄にせぬためにも、{n}ここはオレが引き受ける！　行け！",
-  "en": ""
+  "en": "So what my brother did isn't wasted, I'll{n}take this on! Go!"
  },
  {
   "id": "s0361_011a0",
@@ -1179,7 +1179,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "アンガス!?　オメーはこの精神世界で{n}のみ実体で――本物でいられるんだぜ？{n}無茶な真似は――",
-  "en": ""
+  "en": "Angus!? You're only real-- only genuine in{n}this spirit world, you know? Don't go doing{n}anything crazy--"
  },
  {
   "id": "s0361_01204",
@@ -1239,7 +1239,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "……そうかよ……じゃあよ、絶対に{n}死ぬんじゃねーぞ！　いつまでも俺様{n}の世界で生き続けるんだぜ！　いいな？",
-  "en": ""
+  "en": "...Is that so... Then listen, don't you dare die!{n}You go on living in the great me's world{n}forever! Got it?"
  },
  {
   "id": "s0361_01280",
@@ -1269,7 +1269,7 @@
    "アンガス"
   ],
   "jp": "……あり、が、とう、Ｄ・Ｓ――",
-  "en": ""
+  "en": "...Thank, you, D.S.--"
  },
  {
   "id": "s0361_012a0",
@@ -1299,7 +1299,7 @@
    "シーン"
   ],
   "jp": "Ｄ・Ｓ！　ここはわたしの呪符で{n}食い止めるわ！",
-  "en": ""
+  "en": "D.S.! My talismans will hold them here!"
  },
  {
   "id": "s0361_012d0",
@@ -1329,7 +1329,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "シーン！　オマエ……",
-  "en": ""
+  "en": "Sean! You..."
  },
  {
   "id": "s0361_012e8",
@@ -1359,7 +1359,7 @@
    "シーン"
   ],
   "jp": "名前で呼んでくれたね……さあ、早く{n}行ってあの人を――ヨーコを救って{n}あげて！",
-  "en": ""
+  "en": "You called me by my name... Go on, quickly,{n}and save her-- save Yoko!"
  },
  {
   "id": "s0361_01338",
@@ -1389,7 +1389,7 @@
    "シーン"
   ],
   "jp": "その代わり約束よ！　もとの世界に{n}戻ったら、わたしと一日デートする{n}こと！　ヨーコに叱られても、絶対よ！",
-  "en": ""
+  "en": "But it's a promise, then! When we're back in{n}our own world, you're going on a date with{n}me for a whole day! Even if Yoko scolds you,{n}no backing out!"
  },
  {
   "id": "s0361_013a0",
@@ -1419,7 +1419,7 @@
    "ラン"
   ],
   "jp": "シーン……",
-  "en": ""
+  "en": "Sean..."
  },
  {
   "id": "s0361_013ac",
@@ -1449,7 +1449,7 @@
    "シーン"
   ],
   "jp": "心配しないで！　もう兄さんに守って{n}もらうだけのわたしじゃないわ。{n}自分の力で戦っていける……だから{n}兄さんは自分の道を進んで！",
-  "en": ""
+  "en": "Don't worry! I'm not the girl who only needs{n}her brother to protect her anymore. I can{n}fight with my own strength... So, brother, go{n}your own way!"
  },
  {
   "id": "s0361_0142c",
@@ -1479,7 +1479,7 @@
    "ラン"
   ],
   "jp": "……成長したんだな。頑張れよ！",
-  "en": ""
+  "en": "...You've grown up. Good luck!"
  },
  {
   "id": "s0361_0144c",
@@ -1509,7 +1509,7 @@
    "シーン"
   ],
   "jp": "任せて！",
-  "en": ""
+  "en": "Leave it to me!"
  },
  {
   "id": "s0361_01458",
@@ -1539,7 +1539,7 @@
    "カイ"
   ],
   "jp": "先に行け、Ｄ・Ｓ！{n}異形どもはオレが引きつける！",
-  "en": ""
+  "en": "Go on ahead, D.S.! I'll draw these freaks{n}off!"
  },
  {
   "id": "s0361_0148c",
@@ -1569,7 +1569,7 @@
    "ヨシュア"
   ],
   "jp": "カイ！　俺も手伝うぞ！",
-  "en": ""
+  "en": "Kai! I shall help!"
  },
  {
   "id": "s0361_014a4",
@@ -1599,7 +1599,7 @@
    "カイ"
   ],
   "jp": "！　ヨシュア……",
-  "en": ""
+  "en": "! Joshua..."
  },
  {
   "id": "s0361_014b8",
@@ -1629,7 +1629,7 @@
    "ヨシュア"
   ],
   "jp": "もう、離れるものか。イヤだと{n}言われても俺はカイ――お前を守る！",
-  "en": ""
+  "en": "I will never leave you again. Even if you say{n}no, Kai-- I shall protect you!"
  },
  {
   "id": "s0361_014fc",
@@ -1659,7 +1659,7 @@
    "カイ"
   ],
   "jp": "……うん。そっちこそ、覚悟しろよ！{n}オレは楽な女じゃないぞ！",
-  "en": ""
+  "en": "...Yeah. You'd better brace yourself too! I'm{n}no easy woman!"
  },
  {
   "id": "s0361_0153c",
@@ -1689,7 +1689,7 @@
    "ヨシュア"
   ],
   "jp": "承知してるさ",
-  "en": ""
+  "en": "I know that well."
  },
  {
   "id": "s0361_0154c",
@@ -1719,7 +1719,7 @@
    "カイ"
   ],
   "jp": "フフ……Ｄ・Ｓ！　ヨーコを頼んだぞ！",
-  "en": ""
+  "en": "Heh heh... D.S.! Take care of Yoko!"
  },
  {
   "id": "s0361_01574",
@@ -1749,7 +1749,7 @@
    "ダイ"
   ],
   "jp": "何と美しい悪魔ども……私の身体に{n}流れる闇の血が、うずうず疼いて{n}きましたよぉ！　パワフリャアァァ！",
-  "en": ""
+  "en": "What beautiful demons... The dark blood{n}flowing in my body is positively aching!{n}Powerfuuuul!"
  },
  {
   "id": "s0361_015d8",
@@ -1779,7 +1779,7 @@
    "ダイ"
   ],
   "jp": "真に強く美しいのはどちらなのか、{n}ハッキリさせようじゃありませんか！{n}他の皆さんは手出し無用ですよ！",
-  "en": ""
+  "en": "Let us settle once and for all which is truly{n}strong and beautiful! The rest of you need{n}not lift a finger!"
  },
  {
   "id": "s0361_0163c",
@@ -1809,7 +1809,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "あっそう。じゃ、ココは任せたぜ",
-  "en": ""
+  "en": "Oh yeah? Okay, we'll leave this to you."
  },
  {
   "id": "s0361_0165c",
@@ -1839,7 +1839,7 @@
    "ネイ"
   ],
   "jp": "頑張るのよ、ダイ",
-  "en": ""
+  "en": "Do your best, Di."
  },
  {
   "id": "s0361_01670",
@@ -1869,7 +1869,7 @@
    "ダイ"
   ],
   "jp": "あれれ？　って、あの、置いてけぼり？",
-  "en": ""
+  "en": "Huh? Er, um, you are leaving me behind?"
  },
  {
   "id": "s0361_01698",
@@ -1899,7 +1899,7 @@
    "イングヴェイイングヴェイ・フォン・マルムステ"
   ],
   "jp": "カル様……お側を離れる身勝手を{n}お許し下さい",
-  "en": ""
+  "en": "Kall-sama... Forgive my selfishness in leaving{n}your side."
  },
  {
   "id": "s0361_016c8",
@@ -1929,7 +1929,7 @@
    "カル"
   ],
   "jp": "イングヴェイ――卿は……",
-  "en": ""
+  "en": "Yngwei-- you..."
  },
  {
   "id": "s0361_016e4",
@@ -1959,7 +1959,7 @@
    "イングヴェイイングヴェイ・フォン・マルムステ"
   ],
   "jp": "ここは私が引き受け、先を急いで{n}頂くのが得策かと……どうか、{n}ヨーコ殿をお救い下さい！",
-  "en": ""
+  "en": "It is wisest that I take this on and you{n}hurry ahead... Please, save Yoko-dono!"
  },
  {
   "id": "s0361_0173c",
@@ -1989,7 +1989,7 @@
    "カル"
   ],
   "jp": "……頼んだぞ",
-  "en": ""
+  "en": "...I leave it to you."
  },
  {
   "id": "s0361_0174c",
@@ -2019,7 +2019,7 @@
    "イングヴェイイングヴェイ・フォン・マルムステ"
   ],
   "jp": "はっ。もとの世界に戻った暁には、{n}真に平和な王道楽土の建設を――",
-  "en": ""
+  "en": "Yes, my lord. When we return to our world,{n}the building of a truly peaceful paradise,{n}under just rule--"
  },
  {
   "id": "s0361_01790",
@@ -2049,7 +2049,7 @@
    "カル"
   ],
   "jp": "うむ。必ず――",
-  "en": ""
+  "en": "Yes. Without fail--"
  },
  {
   "id": "s0361_017a0",
@@ -2079,7 +2079,7 @@
    "マカパイン"
   ],
   "jp": "フ……妖縛士の失地回復に相応しい{n}相手だな。Ｄ・Ｓ、ここは私が{n}引き受ける",
-  "en": ""
+  "en": "Heh... A fitting foe for a demon binder to{n}regain lost ground. D.S., I will take this{n}one."
  },
  {
   "id": "s0361_017ec",
@@ -2109,7 +2109,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "マカパイン――",
-  "en": ""
+  "en": "Macalpine--"
  },
  {
   "id": "s0361_017fc",
@@ -2139,7 +2139,7 @@
    "マカパイン"
   ],
   "jp": "借りを作ったままではな。ガラよ、{n}後のことはオマエに任せたぞ",
-  "en": ""
+  "en": "I will not leave a debt outstanding. Gara, I{n}leave what follows to you."
  },
  {
   "id": "s0361_0183c",
@@ -2169,7 +2169,7 @@
    "ガラ"
   ],
   "jp": "おうよ。オメーこそ無理すんなよ。{n}こっちの世界を抜け出したら、まぁた{n}一緒に旅でもしよーや",
-  "en": ""
+  "en": "You got it. Don't you overdo it neither. Once{n}we're outta this world, let's go travelin'{n}together again."
  },
  {
   "id": "s0361_01898",
@@ -2199,7 +2199,7 @@
    "マカパイン"
   ],
   "jp": "オマエとはこりごりだ――だが、それ{n}も面白いかも知れんな。さあ、行け！",
-  "en": ""
+  "en": "I have had enough of you-- but then, that{n}might prove amusing. Now, go!"
  },
  {
   "id": "s0361_018e0",
@@ -2229,7 +2229,7 @@
    "ボル"
   ],
   "jp": "行かれよ！　Ｄ・Ｓ！　こやつらは{n}それがしが引き受けたでござる！",
-  "en": ""
+  "en": "Go, D.S.! This one has taken on these{n}wretches, forsooth!"
  },
  {
   "id": "s0361_01924",
@@ -2259,7 +2259,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "ボル？　オメエ――",
-  "en": ""
+  "en": "Bol? You--"
  },
  {
   "id": "s0361_01938",
@@ -2289,7 +2289,7 @@
    "ボル"
   ],
   "jp": "それがしは信じたのでござる。貴公の{n}人智を超えた器の大きさを――",
-  "en": ""
+  "en": "This one has come to believe, forsooth, good{n}sir. In your vessel, great beyond human{n}wisdom--"
  },
  {
   "id": "s0361_0197c",
@@ -2319,7 +2319,7 @@
    "ボル"
   ],
   "jp": "さあ、虚ろな神の走狗ども！{n}操影術の秘技、とくと味わうがいい！",
-  "en": ""
+  "en": "Come, lackeys of the hollow gods! Taste in{n}full the secrets of the shadow art!"
  },
  {
   "id": "s0361_019bc",
@@ -2349,7 +2349,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "どうした、ロス!?",
-  "en": ""
+  "en": "What's up, Ros!?"
  },
  {
   "id": "s0361_019d0",
@@ -2379,7 +2379,7 @@
    "ロス"
   ],
   "jp": "先に行ってちょうだい。アタシも{n}ここらで見せ場を作っとかないとね",
-  "en": ""
+  "en": "You go on ahead, dear. It's about time I got{n}a big scene of my own too."
  },
  {
   "id": "s0361_01a14",
@@ -2409,7 +2409,7 @@
    "ロス"
   ],
   "jp": "せっかく重力剣も完璧になったんだか{n}ら、活躍したいワケよ。だからそっち{n}も、間に合わなかったなんて間抜けな{n}真似しちゃダメよ！",
-  "en": ""
+  "en": "The Gravity Sword's finally complete, so of{n}course I want to show off. So don't you{n}dare do anything as silly as arriving too{n}late!"
  },
  {
   "id": "s0361_01a94",
@@ -2439,7 +2439,7 @@
    "ロス"
   ],
   "jp": "それじゃ、いっくわよー！　着装!!{n}剣化鋼着装甲・重力剣!!",
-  "en": ""
+  "en": "All right, here I goooo! Armor up!! Sword{n}Steel Armor: Gravity Sword!!"
  },
  {
   "id": "s0361_01ad0",
@@ -2469,7 +2469,7 @@
    "ラン"
   ],
   "jp": "俺が残ろう。愛する者を救え、Ｄ・Ｓ{n}――",
-  "en": ""
+  "en": "I will stay. Save the one you love, D.S.--"
  },
  {
   "id": "s0361_01afc",
@@ -2499,7 +2499,7 @@
    "ネイ"
   ],
   "jp": "ラン――お前……",
-  "en": ""
+  "en": "Ran-- you..."
  },
  {
   "id": "s0361_01b10",
@@ -2529,7 +2529,7 @@
    "ラン"
   ],
   "jp": "俺にはネイ様より拝領したフライング{n}Ｖがあります。あのような化け物ども{n}に怯んでは、かつての鬼道衆の名折れ{n}――",
-  "en": ""
+  "en": "I have the Flying V I received from{n}Nei-sama. To flinch from such monsters{n}would shame the Kido Corps of old--"
  },
  {
   "id": "s0361_01b80",
@@ -2589,7 +2589,7 @@
    "ラン"
   ],
   "jp": "シーン……もうお前は守られなくても{n}大丈夫だ。この先、Ｄ・Ｓのサポート{n}を頼む",
-  "en": ""
+  "en": "Sean... You no longer need protecting. From{n}here on, I ask you to support D.S."
  },
  {
   "id": "s0361_01bdc",
@@ -2619,7 +2619,7 @@
    "シーン"
   ],
   "jp": "……うん！",
-  "en": ""
+  "en": "...Yes!"
  },
  {
   "id": "s0361_01be8",
@@ -2649,7 +2649,7 @@
    "ラン"
   ],
   "jp": "――さあ、忌まわしき悪魔どもよ。{n}この太刀に抉られたい者から、{n}かかってくるがいい！",
-  "en": ""
+  "en": "--Come, vile demons. Whoever wishes to be{n}gouged by this blade, step forward!"
  },
  {
   "id": "s0361_01c3c",
@@ -2679,7 +2679,7 @@
    "ジオン"
   ],
   "jp": "こいつらの相手は俺がする。あいつに{n}――シェンに笑われないだけの闘いを{n}してみせなきゃな。行け――",
-  "en": ""
+  "en": "I shall take these on. I must fight so as not{n}to be laughed at by him-- by Schen. Go--"
  },
  {
   "id": "s0361_01ca0",
@@ -2709,7 +2709,7 @@
    "ジオン"
   ],
   "jp": "オマエらは先に行け！",
-  "en": ""
+  "en": "Go on ahead, all of you!"
  },
  {
   "id": "s0361_01cb8",
@@ -2769,7 +2769,7 @@
    "ジオン"
   ],
   "jp": "案ずるな。この人間を舐めた悪魔ども{n}に、魔剣士ってのがどれだけ手強いか{n}教えてやる――さあ、オマエはＤ・Ｓ{n}と一緒に行け！",
-  "en": ""
+  "en": "Worry not. I shall teach these demons who{n}take humans lightly how formidable a demon{n}swordsman can be-- now, you go with D.S.!"
  },
  {
   "id": "s0361_01d3c",
@@ -2799,7 +2799,7 @@
    "シェン"
   ],
   "jp": "兄者……もとの世界に戻ったら……",
-  "en": ""
+  "en": "Brother... when we get back to our world..."
  },
  {
   "id": "s0361_01d60",
@@ -2829,7 +2829,7 @@
    "ジオン"
   ],
   "jp": "ああ。昔のようにやろう――ガキの頃{n}のように……",
-  "en": ""
+  "en": "Yes. Let us do as we once did-- as when we{n}were boys..."
  },
  {
   "id": "s0361_01d94",
@@ -2859,7 +2859,7 @@
    "バ・ソリー"
   ],
   "jp": "俺様の中の蟲たちが暴れたがっとるわ。{n}ここは不死身のバ・ソリー様に任せて、{n}先にゆけい！",
-  "en": ""
+  "en": "The b-bugs in me are itching for a rampage!{n}Leave this to the undying Ba Thory-sama,{n}and g-go on!"
  },
  {
   "id": "s0361_01dec",
@@ -2889,7 +2889,7 @@
    "カル"
   ],
   "jp": "気をつけろ、バ・ソリー。卿の蟲たち{n}のためにもな――",
-  "en": ""
+  "en": "Take care, Ba Thory. For the sake of your{n}bugs as well--"
  },
  {
   "id": "s0361_01e24",
@@ -2919,7 +2919,7 @@
    "バ・ソリー"
   ],
   "jp": "ははっ！　有り難きお言葉！　この{n}バ・ソリー、必ずやお役に立って{n}みせまするぅ！",
-  "en": ""
+  "en": "Y-yes, sir! Such gracious words! This Ba{n}Thory shall prove useful without fail!"
  },
  {
   "id": "s0361_01e74",
@@ -2949,7 +2949,7 @@
    "イダ"
   ],
   "jp": "何と醜き悪魔たち……召喚士の名に{n}かけても、私が地獄の底に送還して{n}差し上げましょう。Ｄ・Ｓ、カル様、{n}先をお急ぎ下さい",
-  "en": ""
+  "en": "What ugly demons... By my name as a{n}summoner, I shall send them back to the{n}depths of hell. D.S., Kall-sama, please hurry{n}on."
  },
  {
   "id": "s0361_01eec",
@@ -2979,7 +2979,7 @@
    "サイクス"
   ],
   "jp": "私の次元跳躍能力も回復したようだ。{n}行け、Ｄ・Ｓ！　この汚らわしき人類{n}の敵対者どもは、私が次元の狭間に{n}案内してみせよう",
-  "en": ""
+  "en": "My dimension-jumping power seems to have{n}recovered. Go, D.S.! I shall escort these{n}filthy enemies of humankind to the rift{n}between dimensions, gentlemen."
  },
  {
   "id": "s0361_01f68",
@@ -3009,7 +3009,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "危険だぜ、サイクス――",
-  "en": ""
+  "en": "It's dangerous, Sykes--"
  },
  {
   "id": "s0361_01f80",
@@ -3039,7 +3039,7 @@
    "サイクス"
   ],
   "jp": "あの猟犬に追われたことと比べれば{n}何ほどでもないさ。さあ、急ぐがいい！",
-  "en": ""
+  "en": "It is nothing next to being hunted by that{n}hound. Now, make haste!"
  },
  {
   "id": "s0361_01fc8",
@@ -3069,7 +3069,7 @@
    "ブラド"
   ],
   "jp": "今こそ騎士道精神の見せどころよ！",
-  "en": ""
+  "en": "Now is the hour to show the spirit of{n}chivalry!"
  },
  {
   "id": "s0361_01fec",
@@ -3099,7 +3099,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "ブラド！",
-  "en": ""
+  "en": "Blad!"
  },
  {
   "id": "s0361_01ff8",
@@ -3129,7 +3129,7 @@
    "ブラド"
   ],
   "jp": "手遅れになってはならんのだろう？{n}ならばここは効率を追い、先に進む{n}道を選べい！　ワシはこの奴原に、{n}目にもの見せてくれるわぁ！",
-  "en": ""
+  "en": "It must not come too late, must it? Then{n}choose efficiency, and take the road ahead!{n}I shall show these wretches a thing or{n}two!"
  },
  {
   "id": "s0361_02078",
@@ -3159,7 +3159,7 @@
    "ブラド"
   ],
   "jp": "さあ来い、化け物ども！　魔戦将軍一{n}の破壊力がどれほどのものか、{n}その眼に焼き付けて死ねい！",
-  "en": ""
+  "en": "Come, you monsters! Burn into your eyes the{n}might of the most destructive of the{n}Sorcerer Generals, and die!"
  },
  {
   "id": "s0361_020d4",
@@ -3189,7 +3189,7 @@
    "ザック"
   ],
   "jp": "こいつらは俺に任せとけ！",
-  "en": ""
+  "en": "Leave these guys to me!"
  },
  {
   "id": "s0361_020f0",
@@ -3219,7 +3219,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "おい、小僧が無理すんな！",
-  "en": ""
+  "en": "Hey, don't overdo it, kid!"
  },
  {
   "id": "s0361_0210c",
@@ -3249,7 +3249,7 @@
    "ザック"
   ],
   "jp": "ガキ扱いすんな！　窮地に立つほど{n}俺は燃えてくるんだよ！　いいから{n}Ｄ・Ｓ、早くあの妲ちゃんを助けて{n}やんな！",
-  "en": ""
+  "en": "Don't treat me like a kid! The tighter the{n}spot, the more fired up I get! Just hurry up,{n}D.S., and save that girl!"
  },
  {
   "id": "s0361_0217c",
@@ -3279,7 +3279,7 @@
    "ザック"
   ],
   "jp": "うおおお――っ！　燃えてきたぜぇ！{n}さあ、きやがれクソ野郎ども！",
-  "en": ""
+  "en": "Woooooah! I'm all fired up! Come on, you{n}bastards!"
  },
  {
   "id": "s0361_021c0",
@@ -3309,7 +3309,7 @@
    "シェラ"
   ],
   "jp": "カル様、ここは私が食い止めます。{n}どうかお急ぎ下さい",
-  "en": ""
+  "en": "Kall-sama, I shall hold them here. Please{n}make haste."
  },
  {
   "id": "s0361_021f8",
@@ -3339,7 +3339,7 @@
    "カル"
   ],
   "jp": "シェラ――しかし卿は女の身で……",
-  "en": ""
+  "en": "Shella-- but you are a woman..."
  },
  {
   "id": "s0361_0221c",
@@ -3369,7 +3369,7 @@
    "シェラ"
   ],
   "jp": "カル様のお側にお仕えした時から、{n}私は女であることを捨てたのです。{n}でも……この地より帰還したその時は、{n}女の姿に戻ることをお許し下さい",
-  "en": ""
+  "en": "When I came to serve at your side,{n}Kall-sama, I cast away being a woman. But...{n}on the day we return from this land, permit{n}me to return to a woman's form."
  },
  {
   "id": "s0361_022a4",
@@ -3399,7 +3399,7 @@
    "カル"
   ],
   "jp": "――うむ。私は女は好きではないが、{n}シェラ・イー・リーはその例に当て{n}嵌まらぬ",
-  "en": ""
+  "en": "--Very well. I do not care for women, but{n}Shella E. Lee is the exception."
  },
  {
   "id": "s0361_022f4",
@@ -3429,7 +3429,7 @@
    "シェラ"
   ],
   "jp": "カル様……私はこの時を生涯忘れま{n}せぬ……。さあ、猛々しき者ども――{n}自然の破壊者よ！　我が指が奏でる{n}調べにて永遠の眠りに就くがいい！",
-  "en": ""
+  "en": "Kall-sama... I shall never forget this moment{n}all my life... Now, you fierce ones--{n}destroyers of nature! Fall into eternal sleep{n}to the melody my fingers play!"
  },
  {
   "id": "s0361_0317c",
@@ -3453,7 +3453,7 @@
    ""
   ],
   "jp": "邪悪な気配が再び、一行を阻むべく{n}接近しつつあった。",
-  "en": ""
+  "en": "An evil presence was again closing in to{n}block the party."
  },
  {
   "id": "s0361_031b4",
@@ -3477,7 +3477,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "まだいやがるのか!?",
-  "en": ""
+  "en": "There's still more!?"
  },
  {
   "id": "s0361_03f98",
@@ -3501,7 +3501,7 @@
    ""
   ],
   "jp": "背後から追いすがるように、闇を{n}纏った者たちがまたも出現した。",
-  "en": ""
+  "en": "From behind, as if clinging to them, those{n}clad in darkness appeared once more."
  },
  {
   "id": "s0361_03fd8",
@@ -3525,7 +3525,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "畜生！　きりがねえ！",
-  "en": ""
+  "en": "Damn it! There's no end to 'em!"
  },
  {
   "id": "s0361_04dc0",
@@ -3549,7 +3549,7 @@
    ""
   ],
   "jp": "塔の最上層にも、それらは待ち構えて{n}いた。",
-  "en": ""
+  "en": "They lay in wait on the tower's top floor{n}too."
  },
  {
   "id": "s0361_04dec",
@@ -3573,7 +3573,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "これだけの高位魔族を一度に操って{n}やがるのか……虚神王ってのは、{n}今までの奴らとはケタが違うようだぜ",
-  "en": ""
+  "en": "He's controlling this many high demons at{n}once... This Hollow God King's in a whole{n}other league from the others."
  },
  {
   "id": "s0361_05cec",
@@ -3597,7 +3597,7 @@
    ""
   ],
   "jp": "この時、Ｄ・Ｓの肉体に封じ込んだ{n}太古の鬼神三体が、最後の呪的抵抗を{n}止めて完全に屈服した。これにより、{n}Ｄ・Ｓは虜にした三匹の高位鬼神を{n}“唱える者”としてその身に召喚し、{n}多重詠唱からなる強大な呪文を操る{n}ことが可能となった。",
-  "en": ""
+  "en": "At that moment, the three ancient demon{n}gods sealed in D.S.'s body ended their last{n}magical resistance and fully submitted.{n}With this, D.S. could summon his three{n}captive high demon gods into himself as{n}\"chanters\", and wield mighty spells of{n}multiple chanting."
  },
  {
   "id": "s0361_05dd0",
@@ -3621,7 +3621,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "鬼神どもめ、いいタイミングで身体に{n}馴染んでくれたぜ。この塔に巣喰う{n}奴らなんざ、この呪文で片っ端から{n}分解してやらあ――",
-  "en": ""
+  "en": "Those demon gods settled into my body at a{n}damn good time. With this spell I'll take{n}everything infesting this tower apart, one{n}after another--"
  },
  {
   "id": "s0361_05ef0",
@@ -3645,6 +3645,6 @@
    "Ｄ・Ｓ"
   ],
   "jp": "ヨーコさんはこの塔の上だ！{n}戻ってるヒマはねえぜ！",
-  "en": ""
+  "en": "Yoko-san's at the top of this tower! No time{n}to go back!"
  }
 ]

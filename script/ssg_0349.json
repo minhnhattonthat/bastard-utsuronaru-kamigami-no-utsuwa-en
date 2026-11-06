@@ -21,7 +21,7 @@
    ""
   ],
   "jp": "砦の内部は、忘れられた古代の神々を{n}刻んだ石壁に覆われていた。{page}歴史から抹消された神の無言の怨嗟が{n}そこから滲み出し、巨大な空間を{n}満たしているかに思える。",
-  "en": ""
+  "en": "The inside of the stronghold was covered{n}in stone walls carved with forgotten{n}ancient gods.{page}The silent resentment of gods struck{n}from history seemed to seep out of them{n}and fill the enormous space."
  },
  {
   "id": "s0349_008b4",
@@ -45,7 +45,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "けっ。負け犬の恨み言かよ。そんな{n}奴らにくれてやる力なんざかけらも{n}ねーや！",
-  "en": ""
+  "en": "Hah. A bunch of losers griping. I wouldn't{n}give guys like that one scrap of power!"
  },
  {
   "id": "s0349_00900",
@@ -69,7 +69,7 @@
    "カル"
   ],
   "jp": "それにしても、凄まじい妖気だ。{n}我々の足を止めるため、古今の様々な{n}化物が召喚されているらしい――",
-  "en": ""
+  "en": "Even so, what a terrible aura. To halt our{n}advance, all manner of monsters, old and{n}new, seem to have been summoned--"
  },
  {
   "id": "s0349_00964",
@@ -93,7 +93,7 @@
    "アビゲイル"
   ],
   "jp": "虚神の王とやらも必死のようですな",
-  "en": ""
+  "en": "This king of the Hollow Gods appears to be{n}rather desperate."
  },
  {
   "id": "s0349_00988",
@@ -117,7 +117,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "関係ねーな。邪魔するヤツはどいつも{n}こいつも木っ端微塵にブチ砕いてやる！",
-  "en": ""
+  "en": "Don't matter. Anybody who gets in my way,{n}I'll smash every last one of 'em to{n}splinters!"
  },
  {
   "id": "s0349_009d4",
@@ -141,7 +141,7 @@
    "ネイ"
   ],
   "jp": "ああ……ステキよダーシュ",
-  "en": ""
+  "en": "Ah... you're wonderful, Dahsh."
  },
  {
   "id": "s0349_009f0",
@@ -165,7 +165,7 @@
    "ガラ"
   ],
   "jp": "そおかぁ？　オレにはただの力押し{n}バカにしか見えねーが",
-  "en": ""
+  "en": "Ya think? Looks to me like he's just a dumb{n}brute shoving his way through."
  },
  {
   "id": "s0349_00a28",
@@ -189,7 +189,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "フ……バカはオメエだ。{n}俺たちの力が上がっていることに{n}気づかなかったのか？",
-  "en": ""
+  "en": "Heh... You're the dumb one. Ain't you noticed{n}our power's gone up?"
  },
  {
   "id": "s0349_00a74",
@@ -213,7 +213,7 @@
    "ガラ"
   ],
   "jp": "ム、ムカツク言い方だなあ！　……お？{n}そう言えばムラサメのパワーが増して{n}いるような……",
-  "en": ""
+  "en": "Y-you got an annoying way of puttin' things!{n}...Huh? Come to think of it, the Murasame{n}does feel stronger..."
  },
  {
   "id": "s0349_00acc",
@@ -237,7 +237,7 @@
    "ネイ"
   ],
   "jp": "私の雷神剣もだぞ",
-  "en": ""
+  "en": "So does my Thunder God Sword."
  },
  {
   "id": "s0349_00ae0",
@@ -261,7 +261,7 @@
    "イングヴェイイングヴェイ・フォン・マルムステ"
   ],
   "jp": "私の朱闘羅刀の力も高まっている……{n}これは？",
-  "en": ""
+  "en": "The power of my Shutora Blade has risen as{n}well... What is this?"
  },
  {
   "id": "s0349_00b10",
@@ -285,7 +285,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "愛剣や鎧の類は、オメエらの意識に{n}引っ張られて、この世界で実体化した{n}代物だ。それが高次意識界に到達して、{n}真の力を解放し始めたのさ",
-  "en": ""
+  "en": "Your beloved swords and armor and all that{n}got dragged along by your consciousness{n}and took real form in this world. Now{n}they've reached the Higher Consciousness{page}Realm, they're starting to let loose their{n}true power."
  },
  {
   "id": "s0349_00eb8",
@@ -309,7 +309,7 @@
    "アビゲイル"
   ],
   "jp": "ところで、気になりませんか？",
-  "en": ""
+  "en": "By the way, does it not bother you?"
  },
  {
   "id": "s0349_00ed8",
@@ -333,7 +333,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "あ？　何が？",
-  "en": ""
+  "en": "Huh? What does?"
  },
  {
   "id": "s0349_00ee8",
@@ -357,7 +357,7 @@
    "ヴァイ"
   ],
   "jp": "実は俺、すっげー気になってた",
-  "en": ""
+  "en": "Actually, it's been bugging the hell outta{n}me."
  },
  {
   "id": "s0349_00f08",
@@ -381,7 +381,7 @@
    "ヨルグ"
   ],
   "jp": "やっぱり？　俺も言い出せなくって",
-  "en": ""
+  "en": "You too? I just couldn't bring it up."
  },
  {
   "id": "s0349_00f2c",
@@ -405,7 +405,7 @@
    "ヨシュア"
   ],
   "jp": "……時は満ちたか",
-  "en": ""
+  "en": "...So the time has come."
  },
  {
   "id": "s0349_00f40",
@@ -429,7 +429,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "だから何が!?",
-  "en": ""
+  "en": "I said, WHAT does!?"
  },
  {
   "id": "s0349_00f50",
@@ -453,7 +453,7 @@
    "アビゲイル"
   ],
   "jp": "鈍いですねＤ・Ｓ。もう記憶は戻って{n}いるハズでしょう？　つまりですね、{n}私がこうしてここにいるなら、その男{n}の中に誰がいるのかというコトですよ",
-  "en": ""
+  "en": "You are slow, D.S. Your memory should have{n}returned by now, should it not? What I{n}mean is this: if I am standing right here,{n}then who is inside that man?"
  },
  {
   "id": "s0349_00fe0",
@@ -502,7 +502,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "……あっ！　そういやアンガスって、{n}オメエが中に入ってたロボットだった{n}じゃねーか！",
-  "en": ""
+  "en": "...Ah! Hey, that's right, Angus was the robot{n}you were riding around in!"
  },
  {
   "id": "s0349_0103c",
@@ -526,7 +526,7 @@
    "アビゲイル"
   ],
   "jp": "そうなのですよ。無口なので私も{n}すっかり忘れていましたが……",
-  "en": ""
+  "en": "Just so. He is so quiet that I too had quite{n}forgotten..."
  },
  {
   "id": "s0349_0107c",
@@ -550,7 +550,7 @@
    "アンガス"
   ],
   "jp": "……ウウウ",
-  "en": ""
+  "en": "...Uuugh."
  },
  {
   "id": "s0349_01088",
@@ -574,7 +574,7 @@
    "アンガス"
   ],
   "jp": "突如、アンガスが唸り声を発し、己の{n}肩を抱いて巨体を震わせ始めた。",
-  "en": ""
+  "en": "Suddenly Angus let out a growl, clutched{n}at his own shoulders, and his huge frame{n}began to shake."
  },
  {
   "id": "s0349_010cc",
@@ -598,7 +598,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "何だ何だ!?　痛いトコを衝かれて{n}苦しみ出しやがったか！",
-  "en": ""
+  "en": "What the hell!? You hit a sore spot, and now{n}he's writhing!"
  },
  {
   "id": "s0349_01104",
@@ -622,7 +622,7 @@
    "ヨシュア"
   ],
   "jp": "いや……違う！",
-  "en": ""
+  "en": "No... that is not it!"
  },
  {
   "id": "s0349_01114",
@@ -646,7 +646,7 @@
    "ヨシュア"
   ],
   "jp": "アンガスの身体に、輝く光の亀裂が{n}幾筋も浮かび上がる。溢れ出す光輝は{n}爆発的に勢いを増し、そして――。",
-  "en": ""
+  "en": "Shining cracks of light rose across Angus's{n}body, one after another. The radiance{n}pouring from them swelled explosively,{n}and then--"
  },
  {
   "id": "s0349_0117c",
@@ -670,7 +670,7 @@
    "ヨシュア"
   ],
   "jp": "アンガスの肉体は粉々に砕け散った。{n}その中から、ひとりの若々しい青年{n}剣士が姿を現す――。",
-  "en": ""
+  "en": "Angus's flesh shattered to pieces. From{n}within it stepped a young swordsman in{n}the bloom of youth--"
  },
  {
   "id": "s0349_011d8",
@@ -694,7 +694,7 @@
    "ラーズ"
   ],
   "jp": "フッ……",
-  "en": ""
+  "en": "Heh..."
  },
  {
   "id": "s0349_011e4",
@@ -718,7 +718,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "テ、テメエは――！",
-  "en": ""
+  "en": "Y-you're--!"
  },
  {
   "id": "s0349_011f8",
@@ -742,7 +742,7 @@
    "ネイ"
   ],
   "jp": "ラーズ王子!?",
-  "en": ""
+  "en": "Prince Lars!?"
  },
  {
   "id": "s0349_01208",
@@ -766,7 +766,7 @@
    "シーラ"
   ],
   "jp": "に……兄様！",
-  "en": ""
+  "en": "B... Brother!"
  },
  {
   "id": "s0349_01218",
@@ -790,7 +790,7 @@
    "ラーズ"
   ],
   "jp": "あぎゃあっ……じゃなくて、久しぶり{n}だな、Ｄ・Ｓ。この姿で顔を合わせる{n}のは、だが",
-  "en": ""
+  "en": "Agyaah... I mean, it's been a while, D.S. In this{n}form, anyway."
  },
  {
   "id": "s0349_0126c",
@@ -814,7 +814,7 @@
    "ラーズ"
   ],
   "jp": "現れたのはシーラの実兄であり、{n}かつてはＤ・Ｓの世界征服を阻む{n}勇者として、敵味方に別れて死闘を{n}演じた最大の好敵手ラーズ・ウル＝{n}メタ＝リカーナ――人呼んで竜王子{n}ラーズであった。",
-  "en": ""
+  "en": "The one who stood there was Sheila's own{n}elder brother, the hero who once barred{n}D.S.'s conquest of the world and fought{n}him to the death from the opposing side,{n}his greatest rival: Lars Ul Meta-llicana,{n}known to all as Lars the Dragon Prince."
  },
  {
   "id": "s0349_01320",
@@ -838,7 +838,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "どうしてテメエがここにいる!?{n}いくら何でも俺様がテメエなんざ{n}召喚するわきゃねーぞ？",
-  "en": ""
+  "en": "The hell are you doing here!? No way the{n}great me would ever summon the likes of{n}you!"
  },
  {
   "id": "s0349_01374",
@@ -862,7 +862,7 @@
    "ラーズ"
   ],
   "jp": "オマエの窮状を察してな、自らの{n}意志でこの世界に来てやったんだ。{n}感謝してくれてもいいんだぞ？",
-  "en": ""
+  "en": "I sensed the fix you were in, so I came to{n}this world of my own free will. You're{n}welcome to thank me, you know."
  },
  {
   "id": "s0349_013d4",
@@ -886,7 +886,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "んだぁ？　勝手に入り込んできやがっ{n}たクセに感謝しろだあ？",
-  "en": ""
+  "en": "Whazzat? You barge in uninvited and now{n}I'm s'posed to thank you?"
  },
  {
   "id": "s0349_01410",
@@ -910,7 +910,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "チビ竜ならまだしも、その姿を見たら{n}腹が立ってきたぜ！　昔の決着をつけ{n}直そうじゃねーか！　アレを引き分け{n}だと思われちゃたまんねーからな！",
-  "en": ""
+  "en": "The runt dragon I could put up with, but{n}seeing you like that's got me pissed off!{n}Let's settle that old score all over again! I{n}can't have people thinking that was a{page}draw!"
  },
  {
   "id": "s0349_0149c",
@@ -934,7 +934,7 @@
    "ラーズ"
   ],
   "jp": "それどころじゃないだろう？{n}ヨーコのコトはいいのか？",
-  "en": ""
+  "en": "This is hardly the time, is it? What about{n}Yoko?"
  },
  {
   "id": "s0349_014d4",
@@ -958,7 +958,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "うっ……わあった。確かにテメエと{n}どーのこーのやってる場合じゃねえや",
-  "en": ""
+  "en": "Ugh... All right, all right. Guess this ain't the{n}time to be messing around with you."
  },
  {
   "id": "s0349_0151c",
@@ -982,7 +982,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "虚神がＤ・Ｓの精神世界に侵入した折、{n}ラーズはいち早くこれに気づき、竜の{n}血脈を受け継ぐその高い霊質を用いて{n}独自にこの世界への潜入を果たした。",
-  "en": ""
+  "en": "When the Hollow Gods invaded D.S.'s spirit{n}world, Lars was the first to notice, and{n}by the high spiritual quality of his dragon{n}bloodline he slipped into this world on his{n}own."
  },
  {
   "id": "s0349_015ac",
@@ -1006,7 +1006,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "だが、かつての強敵であるラーズの{n}侵入は、結果としてＤ・Ｓの精神防壁{n}に“敵”として認識されるに至った。{page}万全の対策を整えていた虚神とは異な{n}り、さしたる手妻を持たぬラーズは{n}防壁から生み出された異分子迎撃の{n}ための猟犬に追われる対象となったの{n}であった。",
-  "en": ""
+  "en": "But Lars, his mighty foe of old, ended up{n}marked as an \"enemy\" by D.S.'s mental{n}firewall.{page}Unlike the Hollow Gods, with their{n}thorough precautions, Lars had no special{n}tricks, and he became the quarry of the{n}hound that the firewall spawned to{n}intercept intruders."
  },
  {
   "id": "s0349_016a8",
@@ -1030,7 +1030,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "これに対し、ラーズは己の人格を、{n}Ｄ・Ｓの内宇宙に存在するアンガスの{n}イメージの中に封入して追撃を逃れた。{n}そしてアンガスとして受肉し、現時点{n}まで気配を絶って行動し続けたので{n}あった。",
-  "en": ""
+  "en": "Against this, Lars sealed his own{n}personality inside the image of Angus that{n}existed in D.S.'s inner universe, and so{n}escaped pursuit. He then took flesh as{n}Angus, and until this moment had moved{n}with his presence hidden."
  },
  {
   "id": "s0349_01760",
@@ -1054,7 +1054,7 @@
    "ラーズ"
   ],
   "jp": "……正体を現せる条件はただひとつ、{n}Ｄ・Ｓ、オマエの精神が法と秩序に{n}傾き、俺に対する無意識の敵対認識が{n}弱まることだった――",
-  "en": ""
+  "en": "...There was only one condition for showing{n}myself, D.S.: your mind had to lean toward{n}law and order, so that your unconscious{n}hostility to me would weaken--"
  },
  {
   "id": "s0349_017e0",
@@ -1078,7 +1078,7 @@
    "ラーズ"
   ],
   "jp": "その傾向に導くため、侍大将殿には{n}苦労をかけてしまった。ヨシュア、{n}改めて礼を言わせてもらう",
-  "en": ""
+  "en": "To steer you that way, I put the Samurai{n}General through a lot of trouble. Joshua, let{n}me thank you once more."
  },
  {
   "id": "s0349_0183c",
@@ -1102,7 +1102,7 @@
    "ヨシュア"
   ],
   "jp": "いいえ……俺の行動など、何ほどの{n}影響も与えておりませんよ、王子――。{n}全てはＤ・Ｓの資質でした",
-  "en": ""
+  "en": "No... My actions had little influence, Prince--.{n}It was all D.S.'s own nature."
  },
  {
   "id": "s0349_0189c",
@@ -1126,7 +1126,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "ヨシュア、オメエ知ってたのかよ？",
-  "en": ""
+  "en": "Joshua, you knew about this!?"
  },
  {
   "id": "s0349_018c0",
@@ -1150,7 +1150,7 @@
    "ラーズ"
   ],
   "jp": "彼を責めないでくれ。アンガスに身を{n}潜める直前、私の竜船で拾い上げた{n}ヨシュアにメッセージを託したのだ。{n}オマエに仲間との協調を育ませろ、と",
-  "en": ""
+  "en": "Do not blame him. Just before I hid inside{n}Angus, I picked up Joshua on my Dragon Ship{n}and entrusted him with a message: to get{n}you to learn to work with your comrades."
  },
  {
   "id": "s0349_0194c",
@@ -1174,7 +1174,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "……そうか！　だからテメエ、自分の{n}使命があるっつってちょくちょく姿を{n}消しやがったのか！　でも後半は女の{n}ケツを追っかけ回してただけだったが",
-  "en": ""
+  "en": "...I get it! So that's why you kept vanishing{n}on me, going on about your mission! Though{n}later on you were just chasing some{n}woman's ass."
  },
  {
   "id": "s0349_019dc",
@@ -1198,7 +1198,7 @@
    "ヨシュア"
   ],
   "jp": "そ……そんなコトは……うう……",
-  "en": ""
+  "en": "Th... That is not... urgh..."
  },
  {
   "id": "s0349_019fc",
@@ -1222,7 +1222,7 @@
    "カイ"
   ],
   "jp": "こらっ！　Ｄ・Ｓ！{n}ヨシュアにヒドイことゆうなっ！",
-  "en": ""
+  "en": "Hey! D.S.! Don't you be mean to Joshua!"
  },
  {
   "id": "s0349_01a30",
@@ -1246,7 +1246,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "チッ、女ってのはコレだから……。{n}それとラーズ、テメエの竜船だと？",
-  "en": ""
+  "en": "Tch, women, I swear... And Lars, what's this{n}about YOUR Dragon Ship?"
  },
  {
   "id": "s0349_01a74",
@@ -1270,7 +1270,7 @@
    "ラーズ"
   ],
   "jp": "あれは俺の霊質をこの世界で実体化{n}させたものだ。召喚時にはぐれかけた{n}仲間を拾うためにイメージしたもの{n}だが、それなりに役立っただろう？",
-  "en": ""
+  "en": "That was my spiritual quality given form in{n}this world. I imagined it to pick up comrades{n}who had nearly gone astray in the{n}summoning. It came in pretty handy, didn't{page}it?"
  },
  {
   "id": "s0349_01afc",
@@ -1294,7 +1294,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "くそぉ……このボンボン王子に借りを{n}作ったみてえで胸クソ悪りぃぜ……",
-  "en": ""
+  "en": "Damn it... Feels like I owe this rich-boy{n}prince. Makes me sick to my stomach..."
  },
  {
   "id": "s0349_01b44",
@@ -1318,7 +1318,7 @@
    "サイクス"
   ],
   "jp": "……すると、私を追い回していた{n}あの猟犬は――",
-  "en": ""
+  "en": "...In that case, that hound which has been{n}chasing me about--"
  },
  {
   "id": "s0349_01b74",
@@ -1342,7 +1342,7 @@
    "ラーズ"
   ],
   "jp": "恐らく俺という標的を見失った異分子{n}迎撃のための成長型プログラムだろう。{n}卿の越次元に反応して、追尾モードに{n}入ってしまったのだろうな",
-  "en": ""
+  "en": "Most likely a growth-type program for{n}intercepting intruders, one that lost its{n}target: me. It reacted to your{n}dimension-crossing and went into pursuit{page}mode."
  },
  {
   "id": "s0349_01bfc",
@@ -1366,7 +1366,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "俺の防壁プログラムか……道理で{n}手強かったハズだぜ",
-  "en": ""
+  "en": "My own firewall program... No wonder it was{n}so damn tough."
  },
  {
   "id": "s0349_01c30",
@@ -1390,7 +1390,7 @@
    "ヴァイ"
   ],
   "jp": "へん。肝心の虚神には無反応なクセに",
-  "en": ""
+  "en": "Hah. And it doesn't even react to the actual{n}Hollow Gods."
  },
  {
   "id": "s0349_01c54",
@@ -1414,7 +1414,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "あっテメエ、言わんでいーコトを！",
-  "en": ""
+  "en": "Hey, you bastard, you didn't have to say{n}that!"
  },
  {
   "id": "s0349_01c78",
@@ -1438,7 +1438,7 @@
    "ラーズ"
   ],
   "jp": "さあ、ここからは俺の封神剣が存分に{n}振るえる！　一気に攻め上るぞ！",
-  "en": ""
+  "en": "Now, from here on my God-Sealing Sword{n}can swing freely! We'll storm up in one go!"
  },
  {
   "id": "s0349_01cbc",
@@ -1462,7 +1462,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "テメエも勝手に仕切るなっ！{n}主人公は俺様だぁ！",
-  "en": ""
+  "en": "Quit taking charge on your own, you too!{n}The hero here is the great me!"
  },
  {
   "id": "s0349_01cec",
@@ -1486,7 +1486,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "ところでよ、アビゲイル",
-  "en": ""
+  "en": "By the way, Abigail."
  },
  {
   "id": "s0349_01d04",
@@ -1510,7 +1510,7 @@
    "アビゲイル"
   ],
   "jp": "はい？",
-  "en": ""
+  "en": "Yes?"
  },
  {
   "id": "s0349_01d0c",
@@ -1534,7 +1534,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "コイツの中身は誰なんだ？",
-  "en": ""
+  "en": "So who's inside this guy?"
  },
  {
   "id": "s0349_01d28",
@@ -1558,7 +1558,7 @@
    "アビゲイル"
   ],
   "jp": "おおっ！　そー言えばアンガスとは{n}私が身分を偽って侍衆に仲間入りした{n}時に着込んでいた外骨格ロボットの{n}ハズでした！",
-  "en": ""
+  "en": "Ooh! Now that you mention it, Angus should{n}be the exoskeleton robot I wore when I{n}joined the samurai under false pretenses!"
  },
  {
   "id": "s0349_01d9c",
@@ -1582,7 +1582,7 @@
    "ヨルグ"
   ],
   "jp": "ええっ？　あ、でも、そう言えば……",
-  "en": ""
+  "en": "What? Ah, but now that you say it..."
  },
  {
   "id": "s0349_01dc0",
@@ -1606,7 +1606,7 @@
    "ヴァイ"
   ],
   "jp": "よく見ると同じような顔してる！",
-  "en": ""
+  "en": "Look close, he's got the same kinda face!"
  },
  {
   "id": "s0349_01de0",
@@ -1630,7 +1630,7 @@
    "アビゲイル"
   ],
   "jp": "うっかりしていました。{n}私としたことが……",
-  "en": ""
+  "en": "It slipped my mind. How unlike me..."
  },
  {
   "id": "s0349_01e0c",
@@ -1654,7 +1654,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "テメエはいつもうっかりだっての。{n}おい、アンガス！　テメエは誰だ!?",
-  "en": ""
+  "en": "You're always slipping, damn it. Hey, Angus!{n}Who the hell are you!?"
  },
  {
   "id": "s0349_01e50",
@@ -1678,7 +1678,7 @@
    "アビゲイル"
   ],
   "jp": "……ひょっとするとＤ・Ｓ、貴方の心{n}の中にあったアンガスの記憶が、この{n}世界で受肉したのかも知れませんよ",
-  "en": ""
+  "en": "...Perhaps, D.S., the memory of Angus in your{n}heart has taken flesh in this world."
  },
  {
   "id": "s0349_01eb8",
@@ -1702,7 +1702,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "そんなコトあんのかあ？",
-  "en": ""
+  "en": "Can that even happen?"
  },
  {
   "id": "s0349_01ed0",
@@ -1750,7 +1750,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "ホントにそうなのか？{n}こりゃあ俺様もブッたまげたな――",
-  "en": ""
+  "en": "It's really true? Well, even the great me's{n}floored by that--"
  },
  {
   "id": "s0349_01f18",
@@ -1774,7 +1774,7 @@
    "ヴァイ"
   ],
   "jp": "つまり、本物のアンガスってワケ？{n}ワァオ！　良かったなアンガスぅ！",
-  "en": ""
+  "en": "So he's the real Angus, y'know? Wow! Good{n}for you, Angus!"
  },
  {
   "id": "s0349_0262c",
@@ -1798,7 +1798,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "ここまできて、逃げ出してられっかよ！",
-  "en": ""
+  "en": "We came this far, I ain't about to run{n}now!"
  },
  {
   "id": "s0349_02694",
@@ -1822,7 +1822,7 @@
    ""
   ],
   "jp": "記憶の奥底から浮かび上がってきた{n}魔力の方程式――それはＤ・Ｓが独自{n}に編み出した呪文・爆霊地獄の作用の{n}根幹を成す理論であった。この方程式{n}が魔力回路を効率化することによって、{n}以前のものとは比べものにならぬ、{n}真の爆霊地獄がＤ・Ｓの手に蘇る――。",
-  "en": ""
+  "en": "The formula of magic that rose from the{n}depths of memory-- it was the theory at{n}the root of Venom, a spell of D.S.'s own{n}devising. With this formula streamlining his{n}magic circuits, the true Venom, beyond{n}compare with the old one, returned to{n}D.S.'s hands--."
  },
  {
   "id": "s0349_0278c",
@@ -1846,6 +1846,6 @@
    "Ｄ・Ｓ"
   ],
   "jp": "そうか……俺としたことが、肝心な{n}駆式をド忘れしてやがったのか――。{n}ククク……ここからの爆霊地獄は{n}強力だぜぇ。分解してやるぜ、神め！",
-  "en": ""
+  "en": "I see... How unlike me, going and clean{n}forgetting the key formula--. Heh heh heh...{n}From here on my Venom's gonna be strong.{n}I'll take you apart, you damn gods!"
  }
 ]

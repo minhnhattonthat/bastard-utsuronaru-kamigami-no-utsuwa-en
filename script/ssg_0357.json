@@ -21,7 +21,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "砦を抜けたぜ……ここから先はヨーコ{n}さんの結界塔の内部に繋がってる",
-  "en": ""
+  "en": "We're through the stronghold... From here on{n}it connects to the inside of Yoko-san's{n}barrier tower."
  },
  {
   "id": "s0357_0085c",
@@ -67,7 +67,7 @@
    ""
   ],
   "jp": "この先は記録できなくなります。{n}セーブしますか？",
-  "en": ""
+  "en": "You cannot save past this point. Save{n}now?"
  },
  {
   "id": "s0357_00908",
@@ -139,7 +139,7 @@
    ""
   ],
   "jp": "扉は、何か特別な力によって堅く{n}封印されていた。これまでに目にした{n}魔法の錠とは根本的に異なる、{n}あまりにも強大な力であった。",
-  "en": ""
+  "en": "The door was sealed fast by some special{n}power. It was fundamentally unlike the{n}magic locks they had seen so far, a power{n}far too vast."
  },
  {
   "id": "s0357_00a10",
@@ -163,7 +163,7 @@
    ""
   ],
   "jp": "目の前で、扉を封印していた魔力が{n}消滅した。それはあたかも、選ばれた{n}者を招じ入れようとしているかに{n}思えた。",
-  "en": ""
+  "en": "Before their eyes, the magic sealing the{n}door vanished. It seemed almost to be{n}inviting the chosen ones in."
  },
  {
   "id": "s0357_00a80",
@@ -187,7 +187,7 @@
    "ガラ"
   ],
   "jp": "薄っ気味悪りい扉だな",
-  "en": ""
+  "en": "Creepy damn door."
  },
  {
   "id": "s0357_00a98",
@@ -211,7 +211,7 @@
    "サイクス"
   ],
   "jp": "途轍もない時空の歪みを感じる……{n}この中に一体、何が……",
-  "en": ""
+  "en": "I sense a tremendous warp in time and{n}space... What in the world lies within..."
  },
  {
   "id": "s0357_00bbc",
@@ -235,7 +235,7 @@
    ""
   ],
   "jp": "広間の中央に穿たれた巨大な井戸の{n}水面を通して、その底で蠢く禍々しい{n}ものが見て取れた。純白の羽根を持つ、{n}歪な蛇の胎児が如き姿――。",
-  "en": ""
+  "en": "Through the surface of the huge well{n}bored in the center of the hall, something{n}baleful could be seen squirming at the{n}bottom. It had the shape of a misshapen{n}serpent fetus, with pure white{n}feathers--"
  },
  {
   "id": "s0357_00c44",
@@ -259,7 +259,7 @@
    "ヴァイ"
   ],
   "jp": "うわああっ！",
-  "en": ""
+  "en": "Waaaah!"
  },
  {
   "id": "s0357_00c54",
@@ -283,7 +283,7 @@
    "ヨシュア"
   ],
   "jp": "ヴァイ、落ち着け！",
-  "en": ""
+  "en": "Vai, calm yourself!"
  },
  {
   "id": "s0357_00c68",
@@ -307,7 +307,7 @@
    "ネイ"
   ],
   "jp": "ダーシュ……これは!?",
-  "en": ""
+  "en": "Dahsh... what is this!?"
  },
  {
   "id": "s0357_00c80",
@@ -331,7 +331,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "こいつは……全く別の場所の光景が、{n}この穴の底から視覚情報として投射{n}されてやがるんだ。この井戸が、奴の{n}いる次元に繋がっているのか――？",
-  "en": ""
+  "en": "This is... a view of some totally different{n}place, projected up outta this pit as visual{n}data. So this well connects to the dimension{n}that thing's in--?"
  },
  {
   "id": "s0357_00d0c",
@@ -353,7 +353,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "井戸に飛び込みますか？",
-  "en": ""
+  "en": "Jump into the well?"
  },
  {
   "id": "s0357_00d24",
@@ -377,7 +377,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "おう！",
-  "en": ""
+  "en": "Hell yeah!"
  },
  {
   "id": "s0357_00d2c",
@@ -449,7 +449,7 @@
    ""
   ],
   "jp": "記憶の奥底から浮かび上がってきた{n}魔力の方程式――それはＤ・Ｓが独自{n}に編み出した呪文・爆霊地獄の作用の{n}根幹を成す理論であった。この方程式{n}が魔力回路を効率化することによって、{n}以前のものとは比べものにならぬ、{n}真の爆霊地獄がＤ・Ｓの手に蘇る――。",
-  "en": ""
+  "en": "The formula of magic that rose from the{n}depths of memory-- it was the theory at{n}the root of Venom, a spell of D.S.'s own{n}devising. With this formula streamlining his{n}magic circuits, the true Venom, beyond{n}compare with the old one, returned to{n}D.S.'s hands--."
  },
  {
   "id": "s0357_01008",
@@ -473,6 +473,6 @@
    "Ｄ・Ｓ"
   ],
   "jp": "そうか……俺としたことが、肝心な{n}駆式をド忘れしてやがったのか――。{n}ククク……ここからの爆霊地獄は{n}強力だぜぇ。分解してやるぜ、神め！",
-  "en": ""
+  "en": "I see... How unlike me, going and clean{n}forgetting the key formula--. Heh heh heh...{n}From here on my Venom's gonna be strong.{n}I'll take you apart, you damn gods!"
  }
 ]

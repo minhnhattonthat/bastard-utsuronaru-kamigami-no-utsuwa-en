@@ -21,7 +21,7 @@
    ""
   ],
   "jp": "塔頂ドームの内側は、静謐な雰囲気が{n}漂う大聖堂であった。{page}ヨーコの創り上げた結界のイメージ{n}とは、神に祈りを捧げるための神聖{n}なる座であったのだろう。",
-  "en": ""
+  "en": "Inside the tower's summit dome was a{n}great cathedral, quiet and still.{page}The image Yoko held of the barrier she{n}made must have been a holy seat for{n}offering prayer to God."
  },
  {
   "id": "s0365_00900",
@@ -45,7 +45,7 @@
    ""
   ],
   "jp": "徘徊する魔物の気配はなかった。{n}ただひとつ、強大な妖気が聖堂内部に{n}わだかまっている。",
-  "en": ""
+  "en": "There was no sense of prowling monsters.{n}Only one immense evil aura lay coiled{n}within the sanctuary."
  },
  {
   "id": "s0365_009ac",
@@ -69,7 +69,7 @@
    ""
   ],
   "jp": "大聖堂の中央に、巨大なクリスタルが{n}祀られていた。だが、硬質な光を放つ{n}その表面には亀裂が疾り、水晶の内側{n}は血の色を思わせる赤に染まっている。",
-  "en": ""
+  "en": "In the center of the cathedral, a huge{n}crystal stood enshrined. But cracks ran{n}across its hard, gleaming surface, and{n}within, the crystal was stained a red like{n}blood."
  },
  {
   "id": "s0365_00a3c",
@@ -93,7 +93,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "あそこだ――あのクリスタルの中に、{n}ヨーコさんと……虚神の王とやらが{n}いやがる――",
-  "en": ""
+  "en": "There-- inside that crystal is Yoko-san and...{n}this king of the Hollow Gods--"
  },
  {
   "id": "s0365_00a90",
@@ -117,7 +117,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "いくぜ！　オメーら、覚悟はいいな！",
-  "en": ""
+  "en": "Let's go! You guys ready!"
  },
  {
   "id": "s0365_00b40",
@@ -141,7 +141,7 @@
    ""
   ],
   "jp": "Ｄ・Ｓが手を触れると、水晶は目映い{n}輝きを放った。そして一行は、深い{n}亀裂の中へと吸い込まれていった。",
-  "en": ""
+  "en": "As D.S. touched it, the crystal gave off a{n}dazzling radiance. And the party was{n}drawn into the deep crack."
  },
  {
   "id": "s0365_00ba8",
@@ -189,6 +189,6 @@
    "Ｄ・Ｓ"
   ],
   "jp": "ここまできたら後戻りはできねえぜ。{n}ヨーコさん、待ってろよ！",
-  "en": ""
+  "en": "We came this far, no turning back now. Wait{n}for me, Yoko-san!"
  }
 ]

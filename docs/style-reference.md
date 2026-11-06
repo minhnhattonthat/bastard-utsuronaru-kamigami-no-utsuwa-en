@@ -39,7 +39,10 @@ Each row names the JP markers and the English that carries them. A line any spea
 | Ichael | `あたし`, `〜わね`, `〜さ` | Seductive, proud, contractions; drops to curt, no contractions, when she pulls rank ("Do not mistake me"). |
 | Octol | `我`, `貴様`, `〜ぬ` | Cold, grandiose old god, no contractions; D.S. calls him octopus (`タコ`). |
 | Kall | `私`, `卿`, `済まない` | Quiet, courteous, apologetic; few contractions ("Forgive me", "Thank you"). |
-| Lars | `俺`, `オマエ`, `〜だろう`, `あぎゃあ` (as the dragon) | Not yet translated: starts in `s0349` (b082). Easy-going prince, D.S.'s rival; never lets him rile him. |
+| Lars | `俺`, `オマエ`, `〜だろう`, `あぎゃあ` (as the dragon) | Easy-going prince, D.S.'s rival; never lets him rile him; contractions; "Agyaah" slips out when he speaks as the dragon. |
+| Lucien (Lucifer) | `ボク`, `キミ`, `〜だよ` | Gentle, sad boy-angel, contractions, plain words; "I'm going to erase your personality". |
+| Hollow God King | `我`, `お前`, `フハハハハ` | Silken, grandiose, no contractions; "Hah hah hah hah hah--"; D.S.'s own voice. Merged with D.S. he talks like D.S. |
+| Satan | `吾輩`, `闇のアダム` | Formal, ancient, proud, no contractions; "I, Satan, King of Demons". |
 | Old or formal speakers | `わし`, `じゃ`, `のう`, `〜であろう`, `貴様`, `〜ぬ` | Stiff, archaic: "I shall", "you dare", "boy", "eh?". |
 | Women | `〜わ`, `〜のよ`, `かしら` | "I wonder", "you know", "dear" as fits the character; Nei is commanding, Yoko warm. |
 

@@ -21,7 +21,7 @@
    ""
   ],
   "jp": "井戸を通じて一行が実体化したのは、{n}奇怪な色彩が渦巻く異様な世界で{n}あった。遥か彼方に見えるのは、{n}この世界の境界を形作るべく空間に{n}描かれた巨大な呪紋――それは即ち、{n}彼らの立つこの場所が切り取られた{n}時空、封印された次元であることを{n}示していた。",
-  "en": ""
+  "en": "Through the well, the party took form in{n}a strange world of swirling, bizarre{n}colors. Far off they could see a huge{n}curse-sigil drawn in space to form the{n}boundary of this world-- which meant{n}that the place where they stood was a{n}time and space cut away, a sealed{n}dimension."
  },
  {
   "id": "s0372_00910",
@@ -45,7 +45,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "ここは……俺の意識界からも{n}かけ離れた、封印された空間らしいな",
-  "en": ""
+  "en": "This place... seems to be a sealed space, way{n}off from my consciousness realm too."
  },
  {
   "id": "s0372_00950",
@@ -69,7 +69,7 @@
    "ガラ"
   ],
   "jp": "へええ……こりゃまた、この世の果て{n}みてーな場所に来ちまったもんだな",
-  "en": ""
+  "en": "Wow... We sure wound up somewhere that{n}looks like the end of the world."
  },
  {
   "id": "s0372_00998",
@@ -93,7 +93,7 @@
    "サイクス"
   ],
   "jp": "これほど巨大な空間を、次元的に完全{n}に封印するとは……それを為した者は、{n}一体どれほどの力を持っているのだ？{n}これはまるで、全知全能の御業――",
-  "en": ""
+  "en": "To seal so vast a space completely, in{n}dimensional terms... How great must be the{n}power of whoever did it? This is like the{n}work of the omniscient and omnipotent--"
  },
  {
   "id": "s0372_00a28",
@@ -117,7 +117,7 @@
    "アビゲイル"
   ],
   "jp": "フム……どうやらこの世界では、時間{n}も完全に停止しているようです。後ろ{n}の転移フィールドから元の場所には{n}戻れそうですが、どうします、Ｄ・Ｓ？",
-  "en": ""
+  "en": "Hmm... It appears time has stopped{n}completely in this world. We can likely{n}return to the original place through the{n}transfer field behind us, but what shall{page}we do, D.S.?"
  },
  {
   "id": "s0372_00ab8",
@@ -141,7 +141,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "ここで時間を費やしても、意識界の{n}ほうでは時が進まねえってことか……{n}なら、チョイと探索といくか",
-  "en": ""
+  "en": "So time spent here don't move time over in{n}the consciousness realm... Then let's do a{n}little exploring."
  },
  {
   "id": "s0372_00b18",
@@ -165,7 +165,7 @@
    "カル"
   ],
   "jp": "封印か――もしやあの怪物を隔離する{n}ために造られた場所であるのなら、{n}ここは……",
-  "en": ""
+  "en": "Sealed... If this place was made to isolate{n}that monster, then this is..."
  },
  {
   "id": "s0372_00c4c",
@@ -189,7 +189,7 @@
    ""
   ],
   "jp": "人がこの世に創り出されるより前、{n}彼は天界において最も高い位にあった。{n}神の御座の隣に在り、無数の天使を{n}束ねる長として、その姿は明星の如く{n}輝いていた。",
-  "en": ""
+  "en": "Before man was created in this world, he{n}held the highest rank in heaven. He stood{n}beside the throne of God, leading the{n}countless angels as their chief, and his{n}form shone like the morning star."
  },
  {
   "id": "s0372_00ce4",
@@ -213,7 +213,7 @@
    ""
   ],
   "jp": "その柱の前で、一本の剣が輝き始めた。{n}あたかも、秘密を解き明かした者を{n}祝福するかのように――。",
-  "en": ""
+  "en": "Before that pillar, a single sword began{n}to glow. As if blessing the one who had{n}unraveled the secret--."
  },
  {
   "id": "s0372_00d44",
@@ -237,7 +237,7 @@
    ""
   ],
   "jp": "剣の名はコルブランド。{n}それが相応しき所有者の手の中で、{n}真の姿に変わろうとしていた。",
-  "en": ""
+  "en": "The sword's name was Colbrand. In the{n}hands of a worthy owner, it was about to{n}change into its true form."
  },
  {
   "id": "s0372_00d9c",
@@ -261,7 +261,7 @@
    ""
   ],
   "jp": "王のみが手にすることのできる剣――{n}聖剣エクスカリバーへと。",
-  "en": ""
+  "en": "A sword only a king could hold-- the holy{n}sword Excalibur."
  },
  {
   "id": "s0372_00eb0",
@@ -285,7 +285,7 @@
    ""
   ],
   "jp": "ある時、神は言った。土くれから自ら{n}の似姿を造り、それに命を与えて{n}“人間”と呼ばれる新たな存在を創造{n}すると。そしてこうも言った。{page}「彼ら人間は我が子である。天使よ、{n}彼らに仕えよ。彼らを敬い、善なる道{n}へと導け」と。",
-  "en": ""
+  "en": "One day, God spoke. He would make his{n}own likeness from clay, give it life, and{n}create a new being called \"man\". And he{n}spoke thus as well:{page}\"These humans are my children. Angels,{n}serve them. Revere them, and lead them{n}on the path of good.\""
  },
  {
   "id": "s0372_00f88",
@@ -309,7 +309,7 @@
    ""
   ],
   "jp": "秘密を知る者よ、王よ。{n}その知識に従い、我を求めよ。",
-  "en": ""
+  "en": "You who know the secret, O king. Follow{n}that knowledge and seek me."
  },
  {
   "id": "s0372_01070",
@@ -333,7 +333,7 @@
    ""
   ],
   "jp": "彼はその言葉の意味するところをこう{n}捉えた。お前たち天使は神の子では{n}ないのだ。お前たちは神の召使い、{n}奴隷なのだ、と。",
-  "en": ""
+  "en": "He took the meaning of these words thus:{n}You angels are not God's children. You are{n}God's servants, his slaves."
  },
  {
   "id": "s0372_010e8",
@@ -357,7 +357,7 @@
    ""
   ],
   "jp": "汝、力を知るなら、我を求めよ。{n}我は神の敵を討ち滅ぼす牙。{n}汝の敵を貪る牙なり。",
-  "en": ""
+  "en": "If thou knowest power, seek me. I am the{n}fang that destroys the foes of God. The{n}fang that devours thy foes."
  },
  {
   "id": "s0372_011e8",
@@ -381,7 +381,7 @@
    ""
   ],
   "jp": "後から生まれた土人形に、天使長たる{n}己が従わねばならぬ理不尽。そして{n}何より、自分たちが神にとって道具で{n}しかなかったという思いが、誰よりも{n}神を敬愛し崇拝してきたはずの彼の{n}心に二度とは消せぬ影を落とした",
-  "en": ""
+  "en": "The unreason that he, chief of the{n}angels, must obey clay dolls born after{n}him. And above all, the thought that they{n}were only tools to God: these cast a{n}shadow that could never fade on his{n}heart, he who had loved and worshiped{n}God more than any."
  },
  {
   "id": "s0372_012b4",
@@ -405,7 +405,7 @@
    ""
   ],
   "jp": "汝、力に溺れるなら、我を求めること{n}なかれ。過ぎたる力は災いを呼び、{n}我は汝を貪るであろう。",
-  "en": ""
+  "en": "If thou drownest in power, seek me not.{n}Power in excess calls down disaster, and I{n}shall devour thee."
  },
  {
   "id": "s0372_013c0",
@@ -429,7 +429,7 @@
    ""
   ],
   "jp": "神は全能である。故に神は過ちを犯す{n}ことはない。だが彼は、神が人間の位{n}を天使の上に定めたことを大いなる{n}過ちと見なした。即ち、天使たちが{n}絶対の存在と信じ続けた神は、逆説的{n}に決して全能ではないと証明された。",
-  "en": ""
+  "en": "God is omnipotent. Thus God makes no{n}mistake. Yet he saw God's placing man{n}above the angels as a great mistake. Thus{n}the God that angels had believed absolute{n}was, by paradox, proved in no way{n}omnipotent."
  },
  {
   "id": "s0372_01490",
@@ -453,7 +453,7 @@
    ""
   ],
   "jp": "勃発する内乱に国土は荒れ果て、{n}災いを呼ぶ者と運命づけられた自らの{n}息子との死闘の果てに、彼はついに{n}王国とその命をも失うこととなった。{n}定めに従い、我はこの時より人間の{n}世から姿を消した――。",
-  "en": ""
+  "en": "The land was ruined by the civil war that{n}broke out, and at the end of a death{n}struggle with his own son, fated to bring{n}disaster, he at last lost his kingdom and{n}his life. As it was fated, from that time I{n}vanished from the world of men--."
  },
  {
   "id": "s0372_01600",
@@ -477,7 +477,7 @@
    ""
   ],
   "jp": "神が全能でない以上、天使の長たる{n}自分とどれほどの差があろう？{n}ならば天に輝く至高の御座は、神の{n}過ちを正すことのできる自分が座る{n}べきではないのか――。",
-  "en": ""
+  "en": "If God is not omnipotent, how much{n}difference can there be from himself,{n}chief of the angels? Then should not he,{n}who could correct God's mistake, sit on{n}the supreme throne shining in heaven--."
  },
  {
   "id": "s0372_01698",
@@ -501,7 +501,7 @@
    ""
   ],
   "jp": "過ぎたる力は時に――否、必ず高き{n}理想をも変質させる。彼もまた、{n}その例に違うことはなかった。{n}虚栄は他者の忠告を排し、嫉妬は{n}友情と忠誠すら憎悪へと導いた。{n}彼は友を、妻を失い、そして理解者を{n}喪っていった。",
-  "en": ""
+  "en": "Excess of power sometimes-- no, always{n}transforms even high ideals. He too was{n}no exception. Vanity shut out the advice{n}of others, and jealousy led even{n}friendship and loyalty to hatred. He lost{n}friends, his wife, and those who{n}understood him."
  },
  {
   "id": "s0372_01818",
@@ -525,7 +525,7 @@
    ""
   ],
   "jp": "彼は天使の半分を率い、神に反旗を{n}翻した。天界は二つに割れ、炎の如き{n}反乱天使の剣は神の座の目前にまで{n}攻め上った。",
-  "en": ""
+  "en": "He led half of the angels and raised the{n}flag of rebellion against God. Heaven split{n}in two, and the rebel angels' swords, like{n}flame, drove right up to the foot of God's{n}throne."
  },
  {
   "id": "s0372_0188c",
@@ -549,7 +549,7 @@
    ""
   ],
   "jp": "かつて我は、ある王の手の中にあった。{n}彼は戦乱に明け暮れる王国を平定し、{n}異教徒の侵攻を退けるために我を{n}振るった。彼の手には常に、我と{n}勝利が握られていた。",
-  "en": ""
+  "en": "I was once in the hand of a certain king.{n}He wielded me to pacify his war-torn{n}kingdom and repel the heathen invasion. In{n}his hands were always me and victory."
  },
  {
   "id": "s0372_019d8",
@@ -573,7 +573,7 @@
    ""
   ],
   "jp": "しかし、神の力は強大だった。天より{n}降り注ぐ雷は反逆者たちの白き翼を{n}灼き、彼の軍勢はひとり残らず地へと{n}落とされた。その姿さえも奪われ、{n}醜き堕天使として遥か次元の底へ――{n}業火渦巻く地獄へと。",
-  "en": ""
+  "en": "But God's power was vast. Lightning from{n}heaven burned the white wings of the{n}rebels, and his host was cast down to{n}earth to the last one. Robbed even of{n}their forms, they fell as hideous fallen{n}angels to the far bottom of the{n}dimensions-- into hell, where the fires{n}swirl."
  },
  {
   "id": "s0372_01a9c",
@@ -597,7 +597,7 @@
    ""
   ],
   "jp": "我は手にする者に力を与え、{n}その敵を貪る鋭き牙。{n}しかし時に、我を手にする者をも貪る{n}両刃の剣。",
-  "en": ""
+  "en": "I am the sharp fang that grants power to{n}the one who holds me and devours his{n}foes. But at times, I am a double-edged{n}sword that devours the one who holds me{n}as well."
  },
  {
   "id": "s0372_01bac",
@@ -621,7 +621,7 @@
    ""
   ],
   "jp": "決して抜け出すことのできぬ、封印{n}された地獄の檻で、神への呪詛に身を{n}焦がす堕天使たちは悪魔と呼ばれる{n}存在へと姿を変えた。かつて天使長で{n}あった彼もまた、悪魔を統べる王と{n}してその地に君臨した。自らの存在{n}こそを、神の全能を否定する最大の{n}証拠として――。",
-  "en": ""
+  "en": "In the sealed cage of hell, from which{n}none could ever escape, the fallen{n}angels, burning with curses on God,{n}changed into the beings called demons. He{n}too, once chief of the angels, reigned in{n}that land as the king ruling the demons.{n}His own existence the greatest proof that{n}denied God's omnipotence--."
  },
  {
   "id": "s0372_01cac",
@@ -645,7 +645,7 @@
    ""
   ],
   "jp": "彼の名を知る者、次なる柱へと進め。{page}そこで汝は出会うであろう。{n}年経た古き蛇、汝を惑わそうとする{n}赤き龍に――。",
-  "en": ""
+  "en": "Thou who knowest his name, proceed to{n}the next pillar.{page}There thou shalt meet the ancient{n}serpent, the red dragon who would lead{n}thee astray--."
  },
  {
   "id": "s0372_01d1c",
@@ -669,7 +669,7 @@
    ""
   ],
   "jp": "我は力。{n}力無き人間がため、神がこしらえた{n}正しき者の牙。",
-  "en": ""
+  "en": "I am power. The fang of the righteous,{n}crafted by God for powerless man."
  },
  {
   "id": "s0372_01e18",
@@ -693,7 +693,7 @@
    ""
   ],
   "jp": "土塊から創り出された者、人間よ。{n}汝ら、いと脆弱なる者どもよ。{n}我を求めよ。我を求めよ。",
-  "en": ""
+  "en": "Thou made of clay, O man. Thou ones most{n}frail. Seek me. Seek me."
  },
  {
   "id": "s0372_01e70",
@@ -717,7 +717,7 @@
    ""
   ],
   "jp": "十番目の柱に触れた瞬間、一陣の風が{n}一行の間を駆け抜けた。乾ききった、{n}古びた墓室の匂いを孕んだ風が――。",
-  "en": ""
+  "en": "The moment they touched the tenth{n}pillar, a gust of wind ran through the{n}party. A wind that carried the scent of a{n}dry, ancient burial chamber--."
  },
  {
   "id": "s0372_01edc",
@@ -741,7 +741,7 @@
    ""
   ],
   "jp": "石柱の上に忽然と、ひとりの男の姿が{n}現れていた。その男は全身を拘束具に{n}似た、黒革の異装で包み隠している。{n}唯一覗いた生身である右眼が、深淵の{n}闇を宿してＤ・Ｓを見下ろしていた。",
-  "en": ""
+  "en": "A man had suddenly appeared on top of{n}the stone pillar. His whole body was{n}wrapped in strange black leather like a{n}restraint. His right eye, the only bare{n}flesh that showed, looked down on D.S.{n}holding the darkness of the abyss."
  },
  {
   "id": "s0372_01f8c",
@@ -765,7 +765,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "テメエは――？",
-  "en": ""
+  "en": "And you are--?"
  },
  {
   "id": "s0372_01f9c",
@@ -789,7 +789,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "忘れたのか、吾輩を？　闇のアダムよ。{n}この悪魔王サタンを――",
-  "en": ""
+  "en": "Have you forgotten me, Adam of Darkness?{n}I, Satan, King of Demons--"
  },
  {
   "id": "s0372_01fdc",
@@ -813,7 +813,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "サタン？",
-  "en": ""
+  "en": "Satan?"
  },
  {
   "id": "s0372_01fe8",
@@ -837,7 +837,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "吾輩は永劫とも思える時、この場所で{n}お前を待ち続けてきた。創造神が作り{n}上げたこの忌々しい封印空間で――",
-  "en": ""
+  "en": "For what seems like eternity I have waited{n}for you here. In this accursed sealed space{n}made by the Creator God--"
  },
  {
   "id": "s0372_02050",
@@ -861,7 +861,7 @@
    "カル"
   ],
   "jp": "悪魔王サタン……ではやはりここは、{n}神への反逆者を幽閉するための{n}次元監獄――",
-  "en": ""
+  "en": "Satan, King of Demons... Then this is indeed a{n}dimensional prison built to confine those who{n}rebelled against God--"
  },
  {
   "id": "s0372_020a0",
@@ -885,7 +885,7 @@
    "カル"
   ],
   "jp": "口惜しいことに、吾輩の力では神の{n}縛鎖を解き放つことはできん。{n}だが、Ｄ・Ｓよ――",
-  "en": ""
+  "en": "To my chagrin, my power cannot break God's{n}chains. But, D.S.--"
  },
  {
   "id": "s0372_020f4",
@@ -909,7 +909,7 @@
    "カル"
   ],
   "jp": "お前の力を手にすれば、吾輩は再び{n}自由になれる。この地で増大させた{n}悪の勢力を伴い、再度天界へ――あの{n}御座へ攻め上ることができる！",
-  "en": ""
+  "en": "With your power in hand, I could be free{n}again. With the forces of evil I have{n}multiplied in this land, I could attack heaven{n}once more-- storm that throne!"
  },
  {
   "id": "s0372_02178",
@@ -933,7 +933,7 @@
    "カル"
   ],
   "jp": "さあ、力を貸せ、闇のアダムよ！{n}吾輩とともに神を滅ぼし、我らが悪の{n}宇宙を創り上げようではないか！",
-  "en": ""
+  "en": "Come, lend me your power, Adam of{n}Darkness! Together let us destroy God and{n}create our universe of evil!"
  },
  {
   "id": "s0372_021dc",
@@ -957,7 +957,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "……俺様を狙う奴らってのはこんなの{n}ばっかりだな。やーなこった、アホウ！",
-  "en": ""
+  "en": "...The guys after the great me are all like{n}this. No way in hell, you moron!"
  },
  {
   "id": "s0372_02228",
@@ -981,7 +981,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "……やはり話を聞くようなタマでは{n}ないか。だが、それでこそ闇のアダム、{n}吾輩の求めし力よ！",
-  "en": ""
+  "en": "...So you are not the sort to listen after all.{n}But that is the Adam of Darkness, the power{n}I seek!"
  },
  {
   "id": "s0372_02284",
@@ -1005,7 +1005,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "サタンの姿が、内側から膨れ上がった{n}ように見えた。事実、その内圧は{n}全身を拘束する装束を膨張させ、{n}その伸縮の限界を超えようとしていた。",
-  "en": ""
+  "en": "Satan's form seemed to swell from within.{n}In fact, the inner pressure inflated the{n}garb that bound his whole body, past the{n}limit of its stretch."
  },
  {
   "id": "s0372_0230c",
@@ -1029,7 +1029,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "装束が爆発的に弾ける、その瞬間――{n}そこに隠されていたサタンの本性が{n}露となる。",
-  "en": ""
+  "en": "The instant the garb burst apart--{n}Satan's true nature, hidden within, stood{n}revealed."
  },
  {
   "id": "s0372_0235c",
@@ -1053,6 +1053,6 @@
    "Ｄ・Ｓ"
   ],
   "jp": "宇宙最強の我が力、とくと味わうが{n}いい！　そしてひれ伏せ！　Ｄ・Ｓ！{n}我がものとなれ！",
-  "en": ""
+  "en": "Taste in full my power, strongest in the{n}universe! And bow down! D.S.! Be mine!"
  }
 ]
