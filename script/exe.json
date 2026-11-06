@@ -1376,7 +1376,7 @@
    "exe:d:8dfb4"
   ],
   "jp": "吸血姫",
-  "en": "Vamp Queen"
+  "en": "Vampire Queen"
  },
  {
   "id": "exe_01c38",
@@ -5999,7 +5999,7 @@
    "exe:d:94cd0"
   ],
   "jp": "軽い酔いざましになる清水",
-  "en": "Spring water that eases{n}a mild hangover."
+  "en": "Spring water that sobers you up a{n}little."
  },
  {
   "id": "exe_23d40",
@@ -6011,7 +6011,7 @@
    "exe:d:94cd4"
   ],
   "jp": "かなりの酔いもさませる清水",
-  "en": "Spring water that clears{n}even a heavy hangover."
+  "en": "Spring water that sobers up even the{n}very drunk."
  },
  {
   "id": "exe_23d5c",
@@ -6023,7 +6023,7 @@
    "exe:d:94cd8"
   ],
   "jp": "酔いを完全に覚ます、霊験あらたか{n}な清水",
-  "en": "Miraculous spring water that{n}cures any hangover completely."
+  "en": "Miraculous spring water that sobers{n}you up completely."
  },
  {
   "id": "exe_23d84",

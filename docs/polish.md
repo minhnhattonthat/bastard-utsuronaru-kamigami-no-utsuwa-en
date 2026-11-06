@@ -129,3 +129,11 @@ Minor style notes from the review pass, for one polish pass before release. Phas
 - [ ] s0369_02dac - 現世 as "present world" odd: "you may watch my battle with the Creator God from the mortal world--".
 - [ ] s0369_03428 - clumsy threat: "...Fine by me. I'll show you just how wrong you are!"
 - [ ] s0369_04c08 - 表す as "showing" flat: "The mystic dragon, the very shape of D.S.'s root life force,".
+- [ ] s0369_05134 - 前向いてなさい stiff: "No! Eyes front, all of you!"
+- [ ] s0372_00ab8 - D.S. repeats "time": "So time we spend here don't count over in the consciousness realm... Then let's do a little exploring."
+- [ ] s0372_01600 - a question closed with `--.`: end it `--?`.
+- [ ] exe_236ac, exe_236dc, exe_2370c, exe_2373c, exe_2376c, exe_2379c - stat sheet drops 盾 for width (rows name no item type); `tools/item_text.py` could use a shorter class list.
+- [ ] ov1_01654 - こわばらせ awkward: "Body tensed and small, it watched your movements."
+- [ ] ov1_01a6c - 身ごなしが軽やかに flat: "%s's movements grew light."
+- [ ] ov1_01e34 - 無造作に is offhand, not careless: "Offhandedly, fists flew again and again."
+- [ ] ov1_01e58 - のしかからせて awkward: "It bore down with all its weight and clawed over and over!"
