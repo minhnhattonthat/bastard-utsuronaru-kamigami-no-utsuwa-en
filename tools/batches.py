@@ -61,6 +61,10 @@ def needs_english(e):
     return e["kind"] in ("text", "label") and e["id"] not in KEEP_JP and not e.get("en")
 
 
+OV1_INFO = {"ov1_00c3c", "ov1_01360", "ov1_01388", "ov1_013b8"}  # the battle Information box
+OV1_SUBMENU = {"ov1_010ec", "ov1_010f8", "ov1_01104", "ov1_01110", "ov1_0111c", "ov1_01124", "ov1_0112c", "ov1_01134"}  # Guard, Item, Equipment boxes
+
+
 def box(e):
     """(px per line, lines, px on a page's last line, may add pages), from docs/re/windows.md."""
     i, jp, w = e["id"], e["jp"], WINDOWS.get(e["id"])
@@ -74,6 +78,10 @@ def box(e):
     if i.startswith("ov1"):
         if i == "ov1_011e4":  # %s = a party name and Unison/Chain, far under ARG_PX's 112 px each
             return 320, 1, 320, False
+        if i in OV1_INFO:
+            return 192, 2, 192, False
+        if i in OV1_SUBMENU:
+            return 52, 1, 52, False
         if not HEAD.match(jp) and "{n}" not in jp and "{page}" not in jp:
             return (32 if w and w <= 36 else 200), 1, 200, False  # labels
         return (216 if w == 216 else 228), 3, 216, True

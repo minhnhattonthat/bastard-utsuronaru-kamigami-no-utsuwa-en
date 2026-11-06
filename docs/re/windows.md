@@ -21,6 +21,8 @@ Measured in game on stress builds: `build.py --marker --qa FILE.json` with a rul
 | Formation row (`ov1_01044` box) | 46 | 1 | `battle_commands` |
 | Formation name (table 393, 19 bytes) | 110, then the arrows | 1 | `battle_commands` |
 | Information, formation description (table 393, 63 bytes) | 192 | 2 | `battle_commands`, log |
+| Guard, Item and Equipment sub-menus (`ov1_010ec`-`ov1_01134`) | 52, then it clips | 1 | play session from `battle_party`: `Change Ge`, `Main Weap` cut, `Accessory` (51) whole |
+| Information box, command help (`batches.OV1_INFO`) | 192 | 2 | same session: an overlong first line wrapped and the box scrolled, leaving only `my / attacks.` |
 | Selected target, enemy name (tables 551-736, 19 bytes) | 120 (draw log; the HP starts 133 px in) | 1 | `ev_2_10_0700` with a 19-character ruler (114 px): it fits |
 
 ## Camp (`ov2`, EXE, tables)

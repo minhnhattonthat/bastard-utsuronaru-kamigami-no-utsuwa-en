@@ -33,7 +33,7 @@
    "ov1:c:37fbc/37fc0"
   ],
   "jp": "並び換えたい人物を選択して{n}○ボタンを押して下さい",
-  "en": "Pick the person to reorder and press the{n}Circle button."
+  "en": "Pick the person to reorder, then{n}press the Circle button."
  },
  {
   "id": "ov1_00c84",
@@ -501,7 +501,7 @@
    "ov1:d:47b34"
   ],
   "jp": "通常防御",
-  "en": "Normal Guard"
+  "en": "Normal"
  },
  {
   "id": "ov1_010f8",
@@ -513,7 +513,7 @@
    "ov1:d:47b38"
   ],
   "jp": "装備防御",
-  "en": "Gear Guard"
+  "en": "Gear"
  },
  {
   "id": "ov1_01104",
@@ -537,7 +537,7 @@
    "ov1:d:47b64"
   ],
   "jp": "装備変更",
-  "en": "Change Gear"
+  "en": "Equip"
  },
  {
   "id": "ov1_0111c",
@@ -549,7 +549,7 @@
    "ov1:d:47b8c"
   ],
   "jp": "主武器",
-  "en": "Main Weapon"
+  "en": "Main Hand"
  },
  {
   "id": "ov1_01124",
@@ -561,7 +561,7 @@
    "ov1:d:47b90"
   ],
   "jp": "副武器",
-  "en": "Off Weapon"
+  "en": "Off Hand"
  },
  {
   "id": "ov1_0112c",
@@ -693,7 +693,7 @@
    "ov1:d:47e04"
   ],
   "jp": "防御姿勢をとって{n}敵の攻撃を軽減します",
-  "en": "Take a defensive stance to lessen enemy{n}attacks."
+  "en": "Take a defensive stance to lessen{n}enemy attacks."
  },
  {
   "id": "ov1_01388",
@@ -705,7 +705,7 @@
    "ov1:d:47e0c"
   ],
   "jp": "副武器を装備していないので{n}装備防御は出来ません",
-  "en": "Gear Guard is not possible with no off{n}weapon equipped."
+  "en": "No off-hand weapon is equipped, so{n}Gear Guard is not possible."
  },
  {
   "id": "ov1_013b8",
@@ -717,7 +717,7 @@
    "ov1:d:47e14"
   ],
   "jp": "現在装備している副武器により{n}敵の攻撃を軽減します",
-  "en": "Lessen enemy attacks with the off weapon{n}now equipped."
+  "en": "Lessen enemy attacks with the{n}off-hand weapon now equipped."
  },
  {
   "id": "ov1_013ec",
