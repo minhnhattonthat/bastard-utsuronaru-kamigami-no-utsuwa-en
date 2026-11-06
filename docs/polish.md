@@ -71,3 +71,14 @@ Minor style notes from the review pass, for one polish pass before release. Phas
 - [ ] s0223_01654 - 仕掛け "fitted with any device" misses the reply to "trap": "I believe neither mountain has been rigged."
 - [ ] s0230_00fc8 - 我の封じる洞窟の結界 word order splits it: "I undo the barrier... of the cave I seal...".
 - [ ] s0238_00ed0 - 空間に割り込んで "butting into space" stumbles: "Instead of the real tower, is a passage to some other building cutting in?"
+- [ ] s0268_00e58 - 口が減らん is a smart mouth, "all talk" means no action: "Still got a mouth on him, as usual."
+- [ ] s0276_00c20 - 太刀筋が鈍い "My sword is dull" reads as a blunt blade: "Ngh... My strokes are sluggish. Do I still waver...?"
+- [ ] s0276_0111c - same 太刀筋が鈍い: "Ngh... My strokes are sluggish. Do I still waver--? The oath I made that day..."
+- [ ] s0285_00a64 - 置いていやがったか names no one, "you" then "this guy" splits the addressee: "Tch... So they left a guard here just in case."
+- [ ] s0297_0094c - いかな水龍といえども "even a Water Dragon" implies several: "even the Water Dragon would...".
+- [ ] s0297_00bc0 - 意外とモテモテ。口惜しー is stiff for Ros: "Oh my... Popular after all, are we? How galling!"
+- [ ] s0297_015c8 - しぶといの "that tough one showed up" stumbles: "Oh man... here comes the guy who won't die."
+- [ ] s0301_01dd0 - 貴公 "Sir--" reads oddly alone: "...! You, sir--".
+- [ ] s0301_01de4 - sentence breaks at the colon: "No wonder you are surprised, to hear this from me, who was at odds with you among the Sorcerer Generals. No, I alone looked on you as an enemy--"
+- [ ] s0301_01ecc - 本当は、気づいているのだろう "really noticed" is a calque: "Surely, deep down, you have noticed."
+- [ ] s0305_0117c - "The Divine Kings ... were a kind of title" mismatches subject: "'Divine King' was a kind of title, given to the four strongest under D.S. in each era of his four hundred years of life."
