@@ -765,7 +765,7 @@
    "アビゲイル"
   ],
   "jp": "魂なき虚ろな生体兵器に宿ったのは、{n}有史以来その姿を幾度も目撃されなが{n}ら、科学に存在を否定され続けてきた{n}“天使”の軍団であった。彼らは神の{n}領域を侵す霊子力に到達した人類に{n}対し、破壊神以上の苛烈さをもって{n}攻撃を加えた。",
-  "en": "What came to dwell in the soulless, hollow{n}bio-weapons was the host of \"angels\",{n}glimpsed many times throughout history,{n}whose existence science had always{n}denied. They attacked humankind, which{n}had attained the god-trespassing spirit{n}power, with a fury beyond even the god{n}of destruction."
+  "en": "What came to dwell in the soulless, hollow{n}bio-weapons was the host of \"angels\",{n}glimpsed many times throughout history,{n}whose existence science had always{n}denied. They attacked humankind, which{n}had attained spirit power, trespassing on{n}the realm of gods, with a fury beyond{n}even the god of destruction."
  },
  {
   "id": "s0346_0165c",
@@ -789,7 +789,7 @@
    "アビゲイル"
   ],
   "jp": "続いて生じた、悪魔王サタンの降臨と{n}天使軍団との闘争。それは文字通り、{n}人類を絶滅の縁に追いやる最終戦争の{n}様相を呈した。超存在同士の熾烈な{n}戦いは地軸をも震わせ、地球全土の{n}環境を激変させた。この激闘が終結し、{n}彼らが元の次元へと帰還した時、実に{n}人類の９０パーセント以上が死滅して{n}いたのだった――。",
-  "en": "Next came the descent of Satan, king of{n}devils, and his struggle with the angel{n}host. It took on the shape of a final war{n}that literally drove humankind to the{n}brink of extinction. The fierce battle of{n}those beyond being shook even the{n}Earth's axis, and violently changed the{n}environment of the whole planet. When{page}this battle ended and they returned to{n}their own dimensions, over 90 percent of{n}humankind had perished--."
+  "en": "Next came the descent of Satan, king of{n}devils, and his struggle with the angel{n}host. It took on the shape of a final war{n}that literally drove humankind to the{n}brink of extinction. The fierce battle of{n}those transcendent beings shook even the{n}Earth's axis, and violently changed the{n}environment of the whole planet. When{page}this battle ended and they returned to{n}their own dimensions, over 90 percent of{n}humankind had perished--."
  },
  {
   "id": "s0346_01788",
@@ -1269,7 +1269,7 @@
    "アビゲイル"
   ],
   "jp": "私は単に正気を取り戻したまで――{n}古代の神の亡霊などに、裏切り者呼ば{n}わりされるいわれはありませんね",
-  "en": "I have merely regained my sanity. I need not{n}be called a traitor by the ghost of some{n}ancient god."
+  "en": "I have merely regained my sanity. I see no{n}reason to be called a traitor by the ghost{n}of some ancient god."
  },
  {
   "id": "s0346_0241c",
@@ -1581,7 +1581,7 @@
    "イーカル"
   ],
   "jp": "驚いたようね、Ｄ・Ｓ。百年近くも{n}前に死んだはずのあたしがここにいる{n}なんてね。でも、あのガインまでが{n}蘇ったんだから、不思議はないでしょ？",
-  "en": "You seem surprised, D.S. To see me here,{n}who died nearly a hundred years ago. But{n}with even that Gain brought back, it's no{n}wonder, is it?"
+  "en": "You seem surprised, D.S., to see me here,{n}when I died nearly a hundred years ago. But{n}with even that Gain brought back, it's no{n}wonder, is it?"
  },
  {
   "id": "s0346_02b60",
@@ -2040,7 +2040,7 @@
    "イーカル"
   ],
   "jp": "現れたのは、頭足類を彷彿とさせる{n}グロテスクな怪物であった。全身を{n}包む外套膜は半透明で、内側で脈打つ{n}器官や体液の流れを見て取ることが{n}できる。高い知性の光を宿した双眸が、{n}ぎょろりとＤ・Ｓたちを見据えた。",
-  "en": "What appeared was a grotesque monster{n}recalling a cephalopod. The mantle{n}wrapping its whole body was translucent,{n}showing the pulsing organs and flowing{n}fluids within. Eyes holding the light of high{n}intelligence fixed on D.S. and the others{n}with a roll."
+  "en": "What appeared was a grotesque monster{n}recalling a cephalopod. The mantle{n}wrapping its whole body was translucent,{n}showing the pulsing organs and flowing{n}fluids within. Eyes holding the light of high{n}intelligence rolled and fixed on D.S. and{n}the others."
  },
  {
   "id": "s0346_03240",
@@ -3360,7 +3360,7 @@
    "ヴァイ"
   ],
   "jp": "ヨーコの場所ったって……",
-  "en": "Where Yoko is, you say, but..."
+  "en": "Where Yoko is? Yeah, but where's that..."
  },
  {
   "id": "s0346_04664",
@@ -4200,7 +4200,7 @@
    "アビゲイル"
   ],
   "jp": "死んでしまったなら、それはこの世界{n}においての現実の死となる――そう{n}いうことですね、Ｄ・Ｓ",
-  "en": "If you die, it will be a real death in this{n}world-- That is the case, D.S.?"
+  "en": "If you die, it will be a real death in this{n}world-- That is how it works, is it not,{n}D.S.?"
  },
  {
   "id": "s0346_05960",
@@ -4656,7 +4656,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "安心しろい。死んじゃいねえよ。魔力{n}を限界まで吐き出して、眠っている{n}だけだぜ――シーラ、ヨーコさんの{n}玉を頼まぁ",
-  "en": "Relax. He ain't dead. He just spent all his{n}magic and passed out-- Sheila, take care of{n}Yoko-san's orb."
+  "en": "Relax. He ain't dead. He just spent all his{n}magic and passed out-- Sheila, do your thing{n}with Yoko-san's orb."
  },
  {
   "id": "s0346_0607c",

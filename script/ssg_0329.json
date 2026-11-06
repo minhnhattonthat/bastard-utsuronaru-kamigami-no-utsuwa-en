@@ -405,7 +405,7 @@
    "ダイ"
   ],
   "jp": "おや？　そこにおられるのは鬼道衆の{n}同志――おお、ネイ様もいらっしゃる{n}――それに、私をさんざんいたぶって{n}くれたＤ・Ｓではありませんか",
-  "en": "Well? If it is not my comrades of the Kido{n}Corps-- Oh, and Nei-sama as well-- And is{n}that not D.S., who tormented me so?"
+  "en": "Well, now. If it is not my comrades of the{n}Kido Corps-- Oh, and Nei-sama as well-- And{n}is that not D.S., who tormented me so?"
  },
  {
   "id": "s0329_00e10",
@@ -1509,7 +1509,7 @@
    "ネイ"
   ],
   "jp": "ダーシュ!?　まさか、限界に――！",
-  "en": "Dahsh!? Don't tell me you have reached your{n}limit--!"
+  "en": "Dahsh!? Don't tell me you've reached your{n}limit--!"
  },
  {
   "id": "s0329_02390",
@@ -1941,7 +1941,7 @@
    "ネイ"
   ],
   "jp": "急ぐわよ！　ホラ、早く！",
-  "en": "We are in a hurry! Come on, quickly!"
+  "en": "We're in a hurry! Come on, move it!"
  },
  {
   "id": "s0329_02864",
@@ -2037,7 +2037,7 @@
    ""
   ],
   "jp": "見つけにくい脇道を経た火山の中腹に、{n}地下へと誘う入口がひっそりと開いて{n}いた。",
-  "en": "Off a hard-to-find side path, halfway up{n}the volcano, an entrance leading{n}underground quietly opened."
+  "en": "Off a hard-to-find side path, halfway up{n}the volcano, an entrance leading{n}underground lay quietly open."
  },
  {
   "id": "s0329_02d20",
@@ -2637,6 +2637,6 @@
    "ラン"
   ],
   "jp": "戻るより、先へ行こう！",
-  "en": "Let us go on rather than back!"
+  "en": "Forward, not back!"
  }
 ]

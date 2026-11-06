@@ -1101,7 +1101,7 @@
    "カイ"
   ],
   "jp": "ああ！　シーンたちのことも心配だ。{n}さ、行こう！　ヨシュア",
-  "en": "Right! I'm worried about Sean and the others{n}too. Come on, let's go! Joshua."
+  "en": "Right! I'm worried about Sean and the others{n}too. Come on, let's go, Joshua!"
  },
  {
   "id": "s0321_01a44",
@@ -1869,7 +1869,7 @@
    "カイ"
   ],
   "jp": "何か言ったか？　ラン？",
-  "en": "Did you say something? Ran?"
+  "en": "Did you say something, Ran?"
  },
  {
   "id": "s0321_027f4",
@@ -3453,7 +3453,7 @@
    "ジオン"
   ],
   "jp": "それを境に、シェンの剣技は恐ろしい{n}ほどに冴え始めた。ジオンに負けぬ、{n}マリエに相応しい男となろう――その{n}思いは、シェンが初めて抱いた、兄を{n}越えようとする感情であった。{n}秘められていた才能は、今や凄まじい{n}勢いで花開こうとしていた。",
-  "en": "From then on, Schen's swordsmanship{n}began to grow frighteningly keen. He{n}would become a man who would not lose{n}to Zion, a man worthy of Marie-- It was{n}the first feeling Schen had ever held of{n}surpassing his brother. The talent hidden{n}in him was now about to burst into bloom{n}with fearsome force."
+  "en": "From then on, Schen's swordsmanship{n}began to grow frighteningly keen. He{n}would become a man who would not lose{n}to Zion, a man worthy of Marie-- It was{n}the first time Schen had ever wished to{n}surpass his brother. The talent hidden in{n}him was now about to burst into bloom{n}with fearsome force."
  },
  {
   "id": "s0321_04efc",
@@ -3885,7 +3885,7 @@
    "ジオン"
   ],
   "jp": "剣士がジオンであると気づき、マリエ{n}の目はわずかに見開かれた。次いで、{n}苦痛に歪む美しい貌に、幽かに微笑み{n}が浮かぶ。死神の鎌に捕らえられた{n}蒼白な唇が何事かを呟く。雷鳴にかき{n}消されながら、ジオンにはマリエが{n}何と言ったのかが判った。実際には{n}口にできなかった言葉まで、読み取る{n}ことができた。",
-  "en": "Realizing the swordsman was Zion, Marie's{n}eyes widened slightly. Then a faint smile{n}rose on her beautiful, pain-twisted face.{n}Pale lips caught in the scythe of death{n}murmured something. Though the thunder{n}drowned it out, Zion knew what Marie said.{n}He could read even the words she could{n}not actually speak."
+  "en": "When she saw the swordsman was Zion,{n}Marie's eyes widened slightly. Then a faint{n}smile rose on her beautiful, pain-twisted{n}face. Pale lips caught in the scythe of{n}death murmured something. Though the{n}thunder drowned it out, Zion knew what{n}Marie said. He could read even the words{n}she could not actually speak."
  },
  {
   "id": "s0321_05ad4",
@@ -4459,7 +4459,7 @@
    "ジオン"
   ],
   "jp": "全ては余生だった……カル様の理想に{n}殉ずる想いだけが、俺に人間の真似事{n}をさせてくれた――そんな資格など、{n}俺はとうに失っていたのに……",
-  "en": "All the rest was afterlife... Only the wish to{n}die for Kall-sama's ideal let me play at being{n}human-- I who had long since lost the{n}right..."
+  "en": "All since has been borrowed time... Only the{n}wish to die for Kall-sama's ideal let me play{n}at being human-- I who had long since lost{n}the right..."
  },
  {
   "id": "s0321_06464",
@@ -5107,7 +5107,7 @@
    "シェン"
   ],
   "jp": "ああ……マリエが、見える……笑って{n}いるよ……兄さんが死ななくて、よ、{n}かっ、た――",
-  "en": "Ah... I can see Marie... She's smiling... I'm so gl,{n}ad, you did, n't die, brother--"
+  "en": "Ah... I can see Marie... She's smiling... I'm so...{n}glad... you didn't die, brother--"
  },
  {
   "id": "s0321_06d8c",
@@ -5465,7 +5465,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "ここで死んだら、テメエは永久に弟にゃ{n}勝てねえ！　負け犬のままあの世に{n}行って、合わせる顔があんのかよ！",
-  "en": "Die here and you'll never beat your brother!{n}Go to the next world a loser, and what face{n}will you show him!"
+  "en": "Die here and you'll never beat your brother!{n}Go to the next world a loser, and how you{n}gonna look him in the eye!"
  },
  {
   "id": "s0321_07148",
@@ -5537,7 +5537,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "うなだれたジオンの目に、微かだが{n}光が灯ったように見えた。やがて彼は{n}立ち上がり、苦悩を噛み殺した表情で{n}頷いた。",
-  "en": "In the eyes of the downcast Zion, a faint{n}light seemed to kindle. Before long he{n}rose, and nodded, his face holding down{n}his anguish."
+  "en": "In the eyes of the downcast Zion, a faint{n}light seemed to kindle. Before long he{n}rose and nodded, biting back his{n}anguish."
  },
  {
   "id": "s0321_07254",
@@ -6431,7 +6431,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "Ｄ・Ｓは膝を突き、そのまま前のめり{n}に倒れそうな身体を精神力で支えた。",
-  "en": "D.S. fell to one knee, and held up by{n}willpower alone a body about to pitch{n}forward."
+  "en": "D.S. fell to one knee; only willpower kept{n}him from pitching forward."
  },
  {
   "id": "s0321_07f20",
@@ -6647,7 +6647,7 @@
    "シェン"
   ],
   "jp": "マリエの仇を討つ……そう考えると{n}楽だった。全てを兄者のせいにできた。{n}オレがマリエを愛したことに、後ろめ{n}たさを感じずに済んだ……",
-  "en": "Avenge Marie... Thinking that was easy. I{n}could lay it all on you. I didn't have to feel{n}guilty for loving Marie..."
+  "en": "Telling myself I'd avenge Marie... that made{n}it easy. I could lay it all on you. I didn't have{n}to feel guilty for loving Marie..."
  },
  {
   "id": "s0321_081f0",

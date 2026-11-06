@@ -259,7 +259,7 @@
    "マカパイン"
   ],
   "jp": "貴様等デク人形を地獄に導く使者よ。{n}防護結界から早晩飛び出してくると{n}踏んではいたが、思ったより早く網に{n}かかってくれたわ",
-  "en": "A messenger to lead you puppets to hell. I{n}wagered you would leap out of the{n}protective barrier before long, but you{n}came into my net sooner than I thought."
+  "en": "A messenger to lead you wooden dolls to{n}hell. I wagered you would leap out of the{n}protective barrier before long, but you{n}came into my net sooner than I thought."
  },
  {
   "id": "s0030_00d74",
@@ -1627,7 +1627,7 @@
    "ヨルグ"
   ],
   "jp": "……殺すなら殺せ。この機会に{n}逃げられなかった以上、もはや{n}生き恥を晒すつもりはない",
-  "en": "...Kill me if you're going to. I failed to escape{n}this chance, so I will not live on in shame."
+  "en": "...Kill me if you're going to. I missed my{n}chance to escape, so I will not live on in{n}shame."
  },
  {
   "id": "s0030_020a4",
@@ -1843,7 +1843,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "バーカ。今度仕掛けてきやがったら{n}手加減はねえぞ。肝に銘じてきやがれ",
-  "en": "Moron. You try it again, I won't go easy. You{n}better engrave that on your liver."
+  "en": "Moron. You try it again, I won't go easy. You{n}better burn that into your skull."
  },
  {
   "id": "s0030_022dc",

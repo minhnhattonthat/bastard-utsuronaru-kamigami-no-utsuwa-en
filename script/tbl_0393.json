@@ -285,7 +285,7 @@
    "t393:rec11"
   ],
   "jp": "２人技の一体技と連続技を{n}一度に発動できる陣形です",
-  "en": "Fires a two-person Unison and{n}Chain skill at the same time."
+  "en": "Fires a 2-person Unison and Chain skill{n}at the same time."
  },
  {
   "id": "t0393_0052c",
@@ -501,7 +501,7 @@
    "t393:rec20"
   ],
   "jp": "２人技を同時に２回発動できます",
-  "en": "Fires a two-person skill{n}twice at once."
+  "en": "Fires a 2-person skill twice at once."
  },
  {
   "id": "t0393_008f8",
@@ -645,7 +645,7 @@
    "t393:rec26"
   ],
   "jp": "３人一体技を発動するか{n}２人一体、連続を組むか選択可能",
-  "en": "A 3-person Unison, or a two-{n}person Unison and Chain."
+  "en": "A 3-person Unison, or a 2-person{n}Unison and Chain."
  },
  {
   "id": "t0393_00b80",
@@ -717,6 +717,6 @@
    "t393:rec29"
   ],
   "jp": "２人技なら一体２回、連続２回を{n}選択的に発動できる陣形です",
-  "en": "Two-person: Unison twice,{n}or Chain twice, your choice."
+  "en": "2-person: Unison twice, or Chain{n}twice, your choice."
  }
 ]

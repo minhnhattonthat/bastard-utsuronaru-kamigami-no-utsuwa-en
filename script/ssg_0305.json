@@ -549,7 +549,7 @@
    "ネイ"
   ],
   "jp": "ただいまダーシュ。いいタイミング{n}だったかしら？",
-  "en": "I'm back, Dahsh. Was my timing good?"
+  "en": "I'm back, Dahsh. Was my timing good, I{n}wonder?"
  },
  {
   "id": "s0305_00f00",
@@ -861,7 +861,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "Ｄ・Ｓに付き従う四天王――それは{n}誕生以来四百年にわたるＤ・Ｓの{n}人生の中で、その一時代において{n}最強の配下四人に与えられる一種の{n}称号であった。",
-  "en": "The Divine Kings who follow D.S. were a{n}kind of title, given to the four strongest{n}under him in each era of his four hundred{n}years of life."
+  "en": "\"The Divine Kings\" was a kind of title, given{n}to the four strongest under D.S. in each{n}era of his four hundred years of life."
  },
  {
   "id": "s0305_0120c",

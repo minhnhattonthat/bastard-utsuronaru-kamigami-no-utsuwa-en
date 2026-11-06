@@ -1197,7 +1197,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "クッ……確かにこれじゃあ進めねえ。{n}戻るぜ！　テメエら！",
-  "en": "Ngh... Yeah, we can't advance like this. Back{n}up, you guys!"
+  "en": "Ngh... Yeah, we can't advance like this. Fall{n}back, you punks!"
  },
  {
   "id": "s0195_01be8",
@@ -1318,7 +1318,7 @@
    "ヨルグ"
   ],
   "jp": "……俺が、行く。あの鏡を砕くこと{n}さえできれば、ここを通れるように{n}なるだろう",
-  "en": "...I shall go. If I can only smash that mirror,{n}we shall be able to pass through."
+  "en": "...I'll go. Smash that mirror, and we can{n}pass."
  },
  {
   "id": "s0195_01cc8",
@@ -1342,7 +1342,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "簡単なコトじゃねえぜ。近づくほどに、{n}幻覚の効果は自乗倍に強まっていく{n}はずだ。最後にゃあの鉈の痛みで、{n}お前でもショック死しかねねえ――",
-  "en": "That ain't simple. The closer you get, the{n}more that illusion oughta grow, by the{n}square. At the end the pain of that machete{n}could kill even you with shock--"
+  "en": "That ain't simple. The closer you get, the{n}illusion oughta get stronger, squared. At the{n}end the pain of that machete could kill even{n}you with shock--"
  },
  {
   "id": "s0195_01d54",
@@ -1678,7 +1678,7 @@
    "ヨルグ"
   ],
   "jp": "夢幻鏡の効果範囲に入り、Ｄ・Ｓたち{n}の視覚は闇に染まった。そして、殺意{n}を漲らせた少年のヨルグが、先刻と{n}同じく暗黒の彼方から近づいてくる。{page}野盗の首領の命を絶った鉈の一撃が、{n}幻覚とは思えぬ激痛を伴って、幻を{n}見ている者たちを襲った。",
-  "en": "Entering the Dream Mirror's range, D.S.{n}and the others saw their sight dyed with{n}darkness. And the boy Jorg, brimming with{n}murder, approached from beyond the{n}dark as he had before.{page}The machete blow that had ended the{n}bandit chief's life struck those who{n}watched the phantom, with an agony hard{n}to think an illusion."
+  "en": "Entering the Dream Mirror's range, D.S.{n}and the others found their sight dyed{n}black. And the boy Jorg, brimming with{n}murder, approached from beyond the{n}dark as he had before.{page}The machete blow that had ended the{n}bandit chief's life struck those who{n}watched the phantom, with an agony hard{n}to believe an illusion."
  },
  {
   "id": "s0195_021d4",
@@ -2230,7 +2230,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "湿っぽくすんじゃねえ！　オラ、{n}捨てっちまえ、そんな鉈！",
-  "en": "Quit getting soggy! Come on, throw away{n}that machete!"
+  "en": "Quit being so damn mopey! Come on, throw{n}away that machete!"
  },
  {
   "id": "s0195_02c3c",
@@ -4222,7 +4222,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "早速挫けてどーすんだ！",
-  "en": "That's the fastest you've ever folded!"
+  "en": "Folding already!? What the hell!"
  },
  {
   "id": "s0195_05e78",

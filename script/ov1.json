@@ -657,7 +657,7 @@
    "ov1:d:47c94"
   ],
   "jp": "%sの%d人%s技を優先し、",
-  "en": "For %s's %d-man %s,"
+  "en": "For %s's %d-person %s,"
  },
  {
   "id": "ov1_011fc",
@@ -921,7 +921,7 @@
    "ov1:d:47e5c"
   ],
   "jp": "身体を小さくこわばらせ、{n}こちらの動きをうかがっている",
-  "en": "Tensing up small, it was watching your{n}movements."
+  "en": "Body tensed and small, it watched your{n}movements."
  },
  {
   "id": "ov1_0168c",
@@ -1198,7 +1198,7 @@
    "ov1:d:47eb8"
   ],
   "jp": "%sの{n}身ごなしが軽やかになった",
-  "en": "%s moved more lightly."
+  "en": "%s's movements grew{n}light."
  },
  {
   "id": "ov1_01a8c",
@@ -1462,7 +1462,7 @@
    "ov1:d:47f10"
   ],
   "jp": "無造作に、何度も拳が繰りだされる",
-  "en": "Carelessly, fists flew again and again."
+  "en": "Offhandedly, fists flew again and again."
  },
  {
   "id": "ov1_01e58",
@@ -1474,7 +1474,7 @@
    "ov1:d:47f14"
   ],
   "jp": "体をのしかからせて、{n}何度も何度も引っ掻いてきた！",
-  "en": "It leaned its weight on and clawed over and{n}over!"
+  "en": "It bore down with all its weight and clawed{n}over and over!"
  },
  {
   "id": "ov1_01e8c",
@@ -2374,7 +2374,7 @@
    "ov1:d:48044"
   ],
   "jp": "%sの咆哮で、{n}湖面が大きく渦巻きだした！",
-  "en": "%s's roar set the lake{n}surface swirling hugely!"
+  "en": "%s's roar set the lake{n}surface churning!"
  },
  {
   "id": "ov1_02c80",
@@ -3166,7 +3166,7 @@
    "ov1:d:4814c"
   ],
   "jp": "傷痕で刻まれた烙印が、{n}念とともに大爆発した！",
-  "en": "A brand carved in scars blew up hugely with{n}a thought!"
+  "en": "A brand carved in scars exploded at a{n}thought!"
  },
  {
   "id": "ov1_038d0",
@@ -4595,7 +4595,7 @@
    "ov1:d:48398"
   ],
   "jp": "[01]しかし、敵に回り込まれた！{page}",
-  "en": "[01]But the enemy got around you!{page}"
+  "en": "[01]But the enemy cut you off!{page}"
  },
  {
   "id": "ov1_04b88",
@@ -5934,7 +5934,7 @@
    "ov1:d:485c8"
   ],
   "jp": "[01]思わぬ珍味に微笑みを浮かべている？！",
-  "en": "[01]A smile, at an unexpected delicacy!?"
+  "en": "[01]Smiling at an unexpected delicacy!?"
  },
  {
   "id": "ov1_057dc",
@@ -6966,7 +6966,7 @@
    "ov1:d:487e0"
   ],
   "jp": "[02]%sは、{n}残る気力を使い果たした{page}",
-  "en": "[02]%s used up the last of all{n}willpower.{page}"
+  "en": "[02]%s's last willpower was{n}spent.{page}"
  },
  {
   "id": "ov1_061a8",
@@ -7002,7 +7002,7 @@
    "ov1:d:48808"
   ],
   "jp": "[02]%sは精神波防御でノイズを無効化した{page}",
-  "en": "[02]Mind-wave defense blocked{n}%s's Noise.{page}"
+  "en": "[02]%s's mind-wave defense{n}blocked Noise.{page}"
  },
  {
   "id": "ov1_06204",
@@ -7014,7 +7014,7 @@
    "ov1:d:4880c"
   ],
   "jp": "[02]%sは精神波防御で催眠を無効化した{page}",
-  "en": "[02]Mind-wave defense blocked{n}%s's Sleep.{page}"
+  "en": "[02]%s's mind-wave defense{n}blocked Sleep.{page}"
  },
  {
   "id": "ov1_06228",
@@ -7026,7 +7026,7 @@
    "ov1:d:48810"
   ],
   "jp": "[02]%sは精神波防御で魅了を無効化した{page}",
-  "en": "[02]Mind-wave defense blocked{n}%s's Charm.{page}"
+  "en": "[02]%s's mind-wave defense{n}blocked Charm.{page}"
  },
  {
   "id": "ov1_0624c",
@@ -7038,7 +7038,7 @@
    "ov1:d:48814"
   ],
   "jp": "[02]%sは精神波防御で不和を無効化した{page}",
-  "en": "[02]Mind-wave defense blocked{n}%s's Discord.{page}"
+  "en": "[02]%s's mind-wave defense{n}blocked Discord.{page}"
  },
  {
   "id": "ov1_06270",
@@ -8094,7 +8094,7 @@
    "ov1:d:48a2c"
   ],
   "jp": "[03]%z侮るは即ち心の隙……常に力を尽くす！{page}",
-  "en": "[03]%zContempt is a gap... give your all!{page}"
+  "en": "[03]%zContempt leaves an opening... give your{n}all!{page}"
  },
  {
   "id": "ov1_06c74",
@@ -8310,7 +8310,7 @@
    "ov1:d:48a74"
   ],
   "jp": "[03]%z獅子は欺かざるもの……手は抜かん{page}",
-  "en": "[03]%zA lion doesn't cheat... no slacking.{page}"
+  "en": "[03]%zA lion never holds back... no slacking.{page}"
  },
  {
   "id": "ov1_06ec8",
@@ -8610,7 +8610,7 @@
    "ov1:d:48afc"
   ],
   "jp": "[03]%z真祖の力、魅せてあげましょおうぉぅ{page}",
-  "en": "[03]%zBehold the power of a true vampire!{page}"
+  "en": "[03]%zBehold the power of a true vampiiire!{page}"
  },
  {
   "id": "ov1_07218",
@@ -8646,7 +8646,7 @@
    "ov1:d:48b08"
   ],
   "jp": "[03]%z脆弱、脆弱ゥ！　やっちゃいますよぉ！{page}",
-  "en": "[03]%zFrail, so frail! I shall do it!{page}"
+  "en": "[03]%zFrail, so frail! I shall finish youuu!{page}"
  },
  {
   "id": "ov1_07288",
@@ -9546,7 +9546,7 @@
    "ov1:d:48c34"
   ],
   "jp": "[03]%z根性論はヤだけど、やるしかないわね{page}",
-  "en": "[03]%zI hate grit talk, but no choice.{page}"
+  "en": "[03]%zI hate relying on sheer guts, but no{n}choice.{page}"
  },
  {
   "id": "ov1_07ca4",

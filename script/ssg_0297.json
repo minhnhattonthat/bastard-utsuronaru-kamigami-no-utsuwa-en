@@ -93,7 +93,7 @@
    "シェラ"
   ],
   "jp": "！　真下には氷漬けの水龍が――もし{n}封印された状態でこの巨大な氷柱を{n}受ければ、いかな水龍といえども……。{n}やはり先に封印を解く方法を――",
-  "en": "! Directly below is the frozen Water{n}Dragon-- If it takes this huge ice pillar while{n}still sealed, even a Water Dragon would... We{n}must first find a way to break the seal--"
+  "en": "! Directly below is the frozen Water{n}Dragon-- If it takes this huge ice pillar while{n}still sealed, even the Water Dragon would...{n}We must first find a way to break the{page}seal--"
  },
  {
   "id": "s0297_009d8",
@@ -261,7 +261,7 @@
    "ロス"
   ],
   "jp": "あらあ……意外とモテモテ。口惜しー！",
-  "en": "Oh my... How popular you are, to my surprise.{n}How annoying!"
+  "en": "Oh my... Popular after all, are we? How{n}galling!"
  },
  {
   "id": "s0297_00be8",
@@ -835,7 +835,7 @@
    "ヴァイ"
   ],
   "jp": "うわ……しぶといのが出やがった",
-  "en": "Oh man... that tough one showed up."
+  "en": "Oh man... here comes the guy who won't{n}die."
  },
  {
   "id": "s0297_015e8",

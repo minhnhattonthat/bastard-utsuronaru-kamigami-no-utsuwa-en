@@ -11,6 +11,7 @@ Binding for every translator and reviewer. `tools/batches.py check` enforces the
 
 ## Style rules
 - Punctuation map: 「」 -> "...", 『』 -> '...', “” (inner voice) -> "...", ・・・ / …… -> ..., ！？ -> !?, ―― -> `--`.
+- Sound effects: English words or a description ("A low rumbling"), no romanized Japanese ("Zu, zu, zu"). Cries stay as English interjections ("Aargh").
 - Plain ASCII. No translator notes.
 - Voices: `docs/style-reference.md`.
 
@@ -68,6 +69,11 @@ Title cards carry the developers' own English subtitles (for example 忘却の�
 | JP | EN | max | notes | Avoid |
 |---|---|---|---|---|
 | 地龍 | Earth Dragon | | | |
+| マリエ | Marie | | Schen's wife | |
+| エーテル | ether | | | |
+| 亜空間 | subspace | | | |
+| サタン | Satan | | | |
+| 吟遊詩人 | bard | | Shella | minstrel |
 | 要石 | keystone | | | |
 | 竜船 | Dragon Ship | | | |
 | 聖玉 | Holy Orb / Orb | | also ヨーコ玉 = Yoko orb | |

@@ -549,7 +549,7 @@
    "ロス"
   ],
   "jp": "……確かにこれは戦い難いわね",
-  "en": "...This really is a tough place to fight."
+  "en": "...My, this really is a tough place to fight."
  },
  {
   "id": "s0064_010d8",
@@ -1893,7 +1893,7 @@
    "ヨルグ"
   ],
   "jp": "ヨルグから得られた情報に、ほとんど{n}新しいものはなかった。ヨルグには{n}湖上の自走砦に渡る方法も知らされて{n}おらず、マカパインがいつでも裏切る{n}算段を整えていたことが読みとれた。{n}しかし、そのマカパインも鬼忍将から{n}信を得ていたわけではなく、都合良く{n}利用されていたに過ぎないようだった。",
-  "en": "Jorg had almost nothing new to tell them.{n}He had never been told of any way{n}across to the walking fort on the lake,{n}and it could be read from this that{n}Macalpine had made his plans to betray at{n}any time. Yet Macalpine had not won the{n}High Ninja's trust either, and it seemed he{n}had merely been used."
+  "en": "Jorg had almost nothing new to tell them.{n}He had never been told of any way{n}across to the walking fort on the lake,{n}and it was plain that Macalpine had{n}always been ready to betray them. Yet{n}Macalpine had not won the High Ninja's{n}trust either, and it seemed he had merely{n}been used."
  },
  {
   "id": "s0064_02334",
@@ -1965,7 +1965,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "湖岸で会った吟遊詩人の女を信用{n}するんならな",
-  "en": "If you believe that minstrel we met on the{n}lakeshore."
+  "en": "If you believe that bard we met on the{n}lakeshore."
  },
  {
   "id": "s0064_023b8",

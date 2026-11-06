@@ -1152,7 +1152,7 @@
    "カイ"
   ],
   "jp": "このヤドリギで作った短刀がある。{n}宿り木に寄生されるのを畏れて、樫の{n}根にかけられた呪力は霧散するハズだ",
-  "en": "I have this dagger made of mistletoe.{n}Fearing to be fed on by mistletoe, the curse{n}on the oak roots should scatter."
+  "en": "I have this dagger made of mistletoe. The{n}curse on the oak roots fears mistletoe's{n}parasitism, so it should scatter."
  },
  {
   "id": "s0126_01c80",
@@ -1438,7 +1438,7 @@
    "カイ"
   ],
   "jp": "何ということだ――",
-  "en": "For crying out loud--"
+  "en": "What in the--"
  },
  {
   "id": "s0126_02054",

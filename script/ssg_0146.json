@@ -1269,7 +1269,7 @@
    "カイ"
   ],
   "jp": "！　何という殺気だ!?　浴びただけで{n}昏倒してしまいそうな……",
-  "en": "! What killing intent is that!? Just being{n}bathed in it could knock me senseless..."
+  "en": "! What killing intent!? Just being bathed in it{n}could knock me senseless..."
  },
  {
   "id": "s0146_01d68",
@@ -1317,7 +1317,7 @@
    "サイクス"
   ],
   "jp": "サイクスは手刀で空間を裂き、素早く{n}そこに飛び込んだ。気配の主も亜空間{n}の中で向きを変え、サイクスを追って{n}遠ざかっていく――。",
-  "en": "Sykes slit the air with his hand and swiftly{n}jumped in. The owner of the presence{n}also changed direction within subspace,{n}receding after Sykes--."
+  "en": "Sykes slit the air with his hand and swiftly{n}jumped in. The source of that presence{n}also changed direction within subspace,{n}receding after Sykes--."
  },
  {
   "id": "s0146_01e24",
@@ -1557,7 +1557,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "輝く地点を掘り返していくと、光が{n}次第に強まり始める。やがて内側から{n}燃えるような光を放つ、翼龍の心臓と{n}思しき大きな内臓器官が姿を現した。",
-  "en": "As they dug up the shining spot, the light{n}began to grow stronger. At last a large{n}internal organ appeared, giving off a light{n}that seemed to burn from within, and{n}surely the wyvern's heart."
+  "en": "As they dug up the shining spot, the light{n}began to grow stronger. At last a large{n}internal organ appeared, giving off a light{n}that seemed to burn from within: surely{n}the wyvern's heart."
  },
  {
   "id": "s0146_028ac",
