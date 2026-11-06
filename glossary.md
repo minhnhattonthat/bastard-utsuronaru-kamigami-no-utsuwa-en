@@ -101,6 +101,8 @@ Title cards carry the developers' own English subtitles (for example 忘却の�
 | 三男神 | Three Male Gods | | Teutates, Esus, Taranis | |
 | 樹棺城 | Tree-Coffin Castle | | | Tree Coffin Castle |
 | 龍樹 | Dragon Tree | | | |
+| 翼龍 | wyvern | | | |
+| 翼龍の左眼 | Wyvern's Left Eye | | | |
 | 鬼道衆 | Kido Corps | | Kai, Sean, Ran | |
 | 黒騎士 | Black Knight | | Ran's title under the queen | |
 | 影流 | Shadow School | | Zion and Schen's sword style | |
