@@ -25,5 +25,7 @@ No Japanese seen, leave alone: event CG art, enemy sprites, map textures, the 15
 
 Still to tour: **in-game screens** (battle, menus, save, shop-less item screens, game over). Text there goes through the BIOS font unless this list says otherwise. The marker build in phase 5 is the real test: any Japanese that stays is a new row here.
 
+**Redrawn by `tools/cards.py` (rows 1-5):** 94 cards keep the rule and their own English subtitle, with the area name above it (canyon names follow the furigana: Little Canyon, Great Canyon). 1483/3 is 304×192 8bpp, whatever its header says (mode 0, 256-colour CLUT). Icons: `魔` -> `M`, `技` -> `A` (Arts). Row 6 still needs a ruling from the script's context. Rows 7-9 are open.
+
 ## Movies: open question
 The skill's route is jPSXdec `-replaceframes`. Running a freshly downloaded jPSXdec was **refused by the auto-mode classifier** on 2026-11-06 (downloaded code), and I did not work around it. Options, phase 8 or earlier: user approves it; or write an MDEC encoder in Python for the two affected movies (frames must fit the original sector counts). Non-blocking.

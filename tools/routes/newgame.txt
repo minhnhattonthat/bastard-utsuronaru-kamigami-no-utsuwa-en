@@ -1,6 +1,6 @@
 # cold boot -> NEW GAME -> prologue movie (not skippable, ~12500 frames)
 3000 -
-6 start
+30 start
 250 -
 6 up
 60 -

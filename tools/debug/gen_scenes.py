@@ -154,9 +154,10 @@ def special_scenes():
     s = [
         # No warp: the real boot path, so these also prove the title and the unpatched new game.
         scene("opening_movie", "system", "NOWARP=1", "2400 -"),
-        scene("title_menu", "system", "NOWARP=1", "3000 -;6 start;300 -"),
-        scene("continue_menu", "system", "NOWARP=1", "3000 -;6 start;250 -;6 down;60 -;6 circle;900 -"),
-        scene("new_game_prologue", "system", "NOWARP=1", "3000 -;6 start;250 -;6 up;60 -;6 down;60 -;6 up;60 -;6 circle;13200 -",
+        # A 6-frame start can fall between the movie's pad reads: on the English build it did at frame 3000.
+        scene("title_menu", "system", "NOWARP=1", "3000 -;30 start;300 -"),
+        scene("continue_menu", "system", "NOWARP=1", "3000 -;30 start;250 -;6 down;60 -;6 circle;900 -"),
+        scene("new_game_prologue", "system", "NOWARP=1", "3000 -;30 start;250 -;6 up;60 -;6 down;60 -;6 up;60 -;6 circle;13200 -",
               20000, 150),
         # Menus (Start and Select only answer with the debug bit off).
         scene("camp_menu", "menu", w + " MASTER=1", camp + "1 -", check="map"),

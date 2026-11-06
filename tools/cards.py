@@ -174,6 +174,20 @@ def redraw_publisher(t):
     return from_indices(rows, t["mode"])
 
 
+def redraw_logo(t):
+    """Title screen, 304x192 8bpp though its header says 4bpp: the kanji subtitle goes, the sword between its halves stays."""
+    t = dict(t, mode=1)
+    rows = to_indices(t)
+    bg = rows[0][0]
+    for y in range(118, 136):
+        for x in [*range(55, 138), *range(156, 237)]:
+            rows[y][x] = bg
+    im = Image.new("L", (304, 192), 0)
+    ImageDraw.Draw(im).text((152, 135), "Vessel of the Hollow Gods", font=font(14), fill=215, anchor="ms")
+    paint(rows, im, grays(t["clut"]), bg)
+    return from_indices(rows, 1)
+
+
 LETTERS = {  # 10 wide, 10 tall, block capitals for the 16 px command icons
     "M": ["##......##", "###....###", "####..####", "##.####.##", "##..##..##", "##......##", "##......##", "##......##", "##......##", "##......##"],
     "A": ["....##....", "...####...", "..##..##..", "..##..##..", ".##....##.", ".##....##.", ".########.", "##......##", "##......##", "##......##"],
@@ -233,7 +247,8 @@ def build(raw):
         d = raw(eid)
         out[eid] = fcg.with_pixels(d, {0: redraw_chapter_end(next(fcg.textures(d)), text)})
     d = raw(1483)
-    out[1483] = fcg.with_pixels(d, {4: redraw_publisher(list(fcg.textures(d))[4])})
+    texs = list(fcg.textures(d))
+    out[1483] = fcg.with_pixels(d, {3: redraw_logo(texs[3]), 4: redraw_publisher(texs[4])})
     d = raw(5)
     texs = list(fcg.textures(d))
     out[5] = fcg.with_pixels(d, {n: redraw_icon(texs[n], "M" if n < 7 else "A") for n in range(14)})

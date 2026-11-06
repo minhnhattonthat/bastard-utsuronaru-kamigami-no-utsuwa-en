@@ -1,8 +1,8 @@
 name	group	vars	route	frames	mash	check
 opening_movie	system	NOWARP=1	2400 -	2400	0	none
-title_menu	system	NOWARP=1	3000 -;6 start;300 -	3306	0	none
-continue_menu	system	NOWARP=1	3000 -;6 start;250 -;6 down;60 -;6 circle;900 -	4228	0	none
-new_game_prologue	system	NOWARP=1	3000 -;6 start;250 -;6 up;60 -;6 down;60 -;6 up;60 -;6 circle;13200 -	20000	150	none
+title_menu	system	NOWARP=1	3000 -;30 start;300 -	3330	0	none
+continue_menu	system	NOWARP=1	3000 -;30 start;250 -;6 down;60 -;6 circle;900 -	4252	0	none
+new_game_prologue	system	NOWARP=1	3000 -;30 start;250 -;6 up;60 -;6 down;60 -;6 up;60 -;6 circle;13200 -	20000	150	none
 camp_menu	menu	MAP=1 POINT=p001 MASTER=1	2200 -;10 start;200 -;1 -	2411	0	map
 camp_items	menu	MAP=1 POINT=p001 MASTER=1	2200 -;10 start;200 -;6 circle;300 -	2716	0	map
 camp_character	menu	MAP=1 POINT=p001 MASTER=1	2200 -;10 start;200 -;6 right;60 -;6 circle;300 -	2782	0	map
