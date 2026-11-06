@@ -45,7 +45,7 @@
    "ヴァイ"
   ],
   "jp": "ううーっ、寒い！　誰がこんな迷宮を{n}造りやがったんだ！",
-  "en": "Ugh, so cold! Who the hell built a maze like{n}this!"
+  "en": "Ugh, so cold! Who the hell built a maze{n}like this!"
  },
  {
   "id": "s0215_00920",
@@ -429,7 +429,7 @@
    "ヴァイ"
   ],
   "jp": "ええーっ!?　もしかして喰うの？",
-  "en": "Whaaat!? Don't tell me you're gonna eat{n}it?"
+  "en": "Whaaat!? Don't tell me you're gonna{n}eat it?"
  },
  {
   "id": "s0215_00dd0",
@@ -501,7 +501,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "これをな、バ・ソリーの奴は喰って{n}吸収しやがんだ",
-  "en": "See, Ba Thory eats these things and absorbs{n}'em."
+  "en": "See, Ba Thory eats these things and{n}absorbs 'em."
  },
  {
   "id": "s0215_00e80",
@@ -669,7 +669,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "巨獣が地表に出たところで、コイツを{n}ブチ割って魔力の核を取り出せば、{n}好物と間違えて寄ってくるかも――。{n}よし、雪原へ戻るぜ！",
-  "en": "When the great beast comes up to the{n}surface, I smash this thing and pull out the{n}magic core. It might mistake it for its{n}favorite food and come over-- Right, back{page}to the snowfield!"
+  "en": "When the great beast comes up to the{n}surface, I smash this thing and pull out the{n}magic core. It might mistake it for its{page}favorite food and come over-- Right, back{n}to the snowfield!"
  },
  {
   "id": "s0215_01440",
@@ -1005,7 +1005,7 @@
    "ヴァイ"
   ],
   "jp": "何だよ？　邪悪な目つきで俺を{n}見るなっ！",
-  "en": "What? Don't look at me with those evil{n}eyes!"
+  "en": "What? Don't look at me with those{n}evil eyes!"
  },
  {
   "id": "s0215_01a1c",
@@ -1605,7 +1605,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "いやいやヴァイ君、良くやってくれた。{n}キミのお陰で有用な手がかりを得る{n}ことができたのだ！　まさに英雄だよ！",
-  "en": "No, no, Vai-kun, you did well. Thanks to you{n}we've got a useful lead! You're a true{n}hero!"
+  "en": "No, no, Vai-kun, you did well. Thanks to you{n}we've got a useful lead! You're a{n}true hero!"
  },
  {
   "id": "s0215_022b4",
@@ -1821,7 +1821,7 @@
    "ヨルグ"
   ],
   "jp": "マカパインの鋼糸では降りられないか？",
-  "en": "Could we not descend on Macalpine's steel{n}wire?"
+  "en": "Could we not descend on Macalpine's{n}steel wire?"
  },
  {
   "id": "s0215_02510",

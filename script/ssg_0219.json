@@ -573,7 +573,7 @@
    "イダ"
   ],
   "jp": "これは失礼。私はイダ・ディースナ、{n}美しきものの奴隷と自ら任ずる者です。{n}今はこの神殿の神に仕え、その美を{n}侵す者を追い払う責務を負う身――",
-  "en": "Pardon my rudeness. I am Ida Deesna, who{n}has named himself a slave of beautiful{n}things. I now serve the god of this temple,{n}charged with driving out those who would{page}profane its beauty--"
+  "en": "Pardon my rudeness. I am Ida Deesna, who{n}has named himself a slave of beautiful{n}things. I now serve the god of this{page}temple, charged with driving out those who{n}would profane its beauty--"
  },
  {
   "id": "s0219_0113c",
@@ -1222,7 +1222,7 @@
    "カイ"
   ],
   "jp": "大男のクセに化粧などして……{n}ああいう輩は許せん！　叩っ斬って{n}やりたいわ！",
-  "en": "A big guy like that wearing makeup... I won't{n}stand for that type! I want to cut him{n}down!"
+  "en": "A big guy like that wearing makeup... I won't{n}stand for that type! I want to cut{n}him down!"
  },
  {
   "id": "s0219_01b70",

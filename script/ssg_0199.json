@@ -213,7 +213,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "もう覚悟しちまったってコトか。なら、{n}受けてやらねえワケにゃいかねえな",
-  "en": "So you've already made your peace with it.{n}Then I ain't got much choice but to take you{n}on."
+  "en": "So you've already made your peace with it.{n}Then I ain't got much choice but to take{n}you on."
  },
  {
   "id": "s0199_00a4c",
@@ -525,7 +525,7 @@
    "マカパイン"
   ],
   "jp": "……いいのか？　また裏切るかも{n}知れんのだぞ？",
-  "en": "...Are you sure? I may betray you again, you{n}know?"
+  "en": "...Are you sure? I may betray you again,{n}you know?"
  },
  {
   "id": "s0199_00e0c",
@@ -621,7 +621,7 @@
    ""
   ],
   "jp": "荊に覆われた壁から、巨大な脚が、{n}腕が、頭が抜け出してくる。{page}閃光が疾り、床に激突して燃え上がり、{n}逞しい肉体が実体化する。{page}突風が吹き、霧状の飛沫が宙に渦巻き、{n}巨人の姿に変化していく。",
-  "en": "Out of the thorn-covered wall came huge{n}legs, arms, a head.{page}A flash raced down, struck the floor and{n}blazed up, and a powerful body took{n}form.{page}A gust blew, a mist of spray swirled in the{n}air, and it turned into the shape of a{n}giant."
+  "en": "Out of the thorn-covered wall came huge{n}legs, arms, a head.{page}A flash raced down, struck the floor and{n}blazed up, and a powerful body{n}took form.{page}A gust blew, a mist of spray swirled in the{n}air, and it turned into the shape of a{n}giant."
  },
  {
   "id": "s0199_012bc",
@@ -645,7 +645,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "――出やがったな。そろそろだと{n}思ってたぜ",
-  "en": "--So you showed up. I figured it was about{n}time."
+  "en": "--So you showed up. I figured it was{n}about time."
  },
  {
   "id": "s0199_012e8",
@@ -1005,7 +1005,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "ククク……そいつを待ってたぜぇ",
-  "en": "Heh heh heh... That's just what I was waiting{n}for."
+  "en": "Heh heh heh... That's just what I was{n}waiting for."
  },
  {
   "id": "s0199_016d0",
@@ -1245,7 +1245,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "妖魔どもが蓄えていた“風”の魔力の{n}結晶体だ。ククク……思ったよりあり{n}やがったな。これならこの樹棺城ごと{n}焼き払えるヤツが使えるぜ――",
-  "en": "The crystallized \"wind\" magic those demons{n}were hoarding. Heh heh heh... More than I{n}expected. With this I can use the kind that'll{n}burn this Tree-Coffin Castle to the{page}ground--"
+  "en": "The crystallized \"wind\" magic those demons{n}were hoarding. Heh heh heh... More than I{n}expected. With this I can use the kind{page}that'll burn this Tree-Coffin Castle to the{n}ground--"
  },
  {
   "id": "s0199_01acc",
@@ -1461,7 +1461,7 @@
    "イングヴェイイングヴェイ・フォン・マルムステ"
   ],
   "jp": "む？　そこの戦士殿、御名は？",
-  "en": "Hm? Warrior there, may I have your{n}name?"
+  "en": "Hm? Warrior there, may I have{n}your name?"
  },
  {
   "id": "s0199_02050",
@@ -2373,7 +2373,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "ネイ？　“いいえ”って言葉がか？{n}変な名前だな",
-  "en": "Nei? The word for \"no\"? That's a weird{n}name."
+  "en": "Nei? The word for \"no\"? That's a{n}weird name."
  },
  {
   "id": "s0199_02fc8",
@@ -2808,7 +2808,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "その間に、カタをつけてやるからな、{n}アーシェス。さあ、姿を見せやがれ！{n}逃げるしか能のねえブス三姉妹め！",
-  "en": "In the meantime I'll settle this, Arshes. All{n}right, show yourselves! You three ugly{n}sisters, good for nothing but running{n}away!"
+  "en": "In the meantime I'll settle this, Arshes. All{n}right, show yourselves! You three ugly{n}sisters, good for nothing but{n}running away!"
  },
  {
   "id": "s0199_034a4",
@@ -3072,7 +3072,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "だから私に主導権をと……おおぉぉ",
-  "en": "That is why I said to give me command...{n}ohhh."
+  "en": "That is why I said to give me{n}command... ohhh."
  },
  {
   "id": "s0199_0385c",
@@ -3216,7 +3216,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "可愛い俺様の娘に手を出した醜い女神{n}どもを、あらゆる時空から永久に消し{n}去ってやる！　アーシェス、オマエは{n}風の精霊の力をサポートしろい！",
-  "en": "Those ugly goddesses laid hands on the{n}great me's sweet little girl, so I'm wiping 'em{n}out of all space and time for good! Arshes,{n}you back me up with the power of the{page}wind spirits!"
+  "en": "Those ugly goddesses laid hands on the{n}great me's sweet little girl, so I'm wiping 'em{n}out of all space and time for good!{page}Arshes, you back me up with the power of{n}the wind spirits!"
  },
  {
   "id": "s0199_03a1c",
@@ -4224,7 +4224,7 @@
    "オクトールの影"
   ],
   "jp": "――だが、それは不運ではない。鏖帝{n}ばかりか、トライヴンまでが消滅した{n}今となってはな。恐るべきはＤ・Ｓ、{n}神をも殺す魔人の力よ――",
-  "en": "--Yet this is no mere ill luck. Not now that{n}Trivun as well as the Slaughter Emperor has{n}been annihilated. The one to fear is D.S., with{n}the power of a demon who slays even{page}gods--"
+  "en": "--Yet this is no mere ill luck. Not now that{n}Trivun as well as the Slaughter Emperor has{n}been annihilated. The one to fear is D.S.,{page}with the power of a demon who slays even{n}gods--"
  },
  {
   "id": "s0199_046bc",

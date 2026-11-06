@@ -45,7 +45,7 @@
    "ヴァイ"
   ],
   "jp": "……で、その魔力がなくなるとどう{n}なるワケ？",
-  "en": "...So what happens if that magic goes{n}away?"
+  "en": "...So what happens if that magic{n}goes away?"
  },
  {
   "id": "s0297_00918",
@@ -93,7 +93,7 @@
    "シェラ"
   ],
   "jp": "！　真下には氷漬けの水龍が――もし{n}封印された状態でこの巨大な氷柱を{n}受ければ、いかな水龍といえども……。{n}やはり先に封印を解く方法を――",
-  "en": "! Directly below is the frozen Water{n}Dragon-- If it takes this huge ice pillar while{n}still sealed, even the Water Dragon would...{n}We must first find a way to break the{page}seal--"
+  "en": "! Directly below is the frozen Water{n}Dragon-- If it takes this huge ice pillar while{n}still sealed, even the Water Dragon{page}would... We must first find a way to break{n}the seal--"
  },
  {
   "id": "s0297_009d8",
@@ -285,7 +285,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "ったく緊迫感のねえヤツだな。{n}オメエも俺たちを食い止めろって{n}命令されてるんだろうが",
-  "en": "Damn, you got no sense of tension at all.{n}You're under orders to stop us too, aren't{n}you?"
+  "en": "Damn, you got no sense of tension at all.{n}You're under orders to stop us too,{n}aren't you?"
  },
  {
   "id": "s0297_00c3c",
@@ -333,7 +333,7 @@
    "ロス"
   ],
   "jp": "まあね。でもアタシは、そんなに{n}乗り気じゃないのよねー",
-  "en": "Well, yes. But I'm not all that keen on it, you{n}know."
+  "en": "Well, yes. But I'm not all that keen on it,{n}you know."
  },
  {
   "id": "s0297_00cf0",
@@ -381,7 +381,7 @@
    "ロス"
   ],
   "jp": "だってカル様――っていうか至高王は、{n}どう見たって誰かに操られてるカンジ{n}じゃない？　アタシ、こう見えても{n}魔戦将軍きってのリアリストなのよ",
-  "en": "Well, Kall-sama, or rather the High King, sure{n}looks like he's being worked by someone,{n}doesn't he? I may not look it, but I'm the{n}biggest realist among the Sorcerer{page}Generals."
+  "en": "Well, Kall-sama, or rather the High King, sure{n}looks like he's being worked by someone,{n}doesn't he? I may not look it, but I'm the{page}biggest realist among the Sorcerer{n}Generals."
  },
  {
   "id": "s0297_00d9c",
@@ -595,7 +595,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "確かに、一度手合わせしてみるのも{n}悪くねえ。やってみるかよ",
-  "en": "Sure, a bout might not be so bad. Let's do{n}it."
+  "en": "Sure, a bout might not be so bad. Let's{n}do it."
  },
  {
   "id": "s0297_00f68",
@@ -763,7 +763,7 @@
    "ヴァイ"
   ],
   "jp": "そのケーブルって、湖の底の幻影城で{n}見つけたお宝？",
-  "en": "That cable, is that the treasure you found{n}in the Phantom Castle at the bottom of the{n}lake?"
+  "en": "That cable, is that the treasure you found{n}in the Phantom Castle at the bottom of{n}the lake?"
  },
  {
   "id": "s0297_011b4",
@@ -835,7 +835,7 @@
    "ヴァイ"
   ],
   "jp": "うわ……しぶといのが出やがった",
-  "en": "Oh man... here comes the guy who won't{n}die."
+  "en": "Oh man... here comes the guy who{n}won't die."
  },
  {
   "id": "s0297_015e8",
@@ -1075,7 +1075,7 @@
    "バ・ソリー"
   ],
   "jp": "うう……馬鹿なぁ。許してくれぇ、{n}俺様の可愛い蟲たちよ！",
-  "en": "Ooh... Impossible. Forgive me, my adorable{n}bugs!"
+  "en": "Ooh... Impossible. Forgive me, my{n}adorable bugs!"
  },
  {
   "id": "s0297_0197c",
@@ -1267,7 +1267,7 @@
    "バ・ソリー"
   ],
   "jp": "――俺様も一緒に行く！　カル様に{n}正気に戻って頂かねば、蟲の楽園建設{n}の夢は実現できぬ！",
-  "en": "--The great me is going with you! Unless{n}Kall-sama regains his senses, my dream of{n}building a bug paradise can never come{n}true!"
+  "en": "--The great me is going with you! Unless{n}Kall-sama regains his senses, my dream of{n}building a bug paradise can never{n}come true!"
  },
  {
   "id": "s0297_01e60",

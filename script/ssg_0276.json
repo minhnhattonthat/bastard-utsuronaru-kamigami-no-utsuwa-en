@@ -333,7 +333,7 @@
    "シーン"
   ],
   "jp": "間違いに気がついて……カル＝スは{n}正気じゃない。本当は判っているんで{n}しょう？",
-  "en": "Realize your mistake... Kall-Su isn't in his{n}right mind. You really know that, don't{n}you?"
+  "en": "Realize your mistake... Kall-Su isn't in his{n}right mind. You really know that,{n}don't you?"
  },
  {
   "id": "s0276_00cfc",
@@ -1127,7 +1127,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "ガコン！　という重い響きを立てて、{n}しばらく続いた振動は止まった。",
-  "en": "Gakon! With a heavy noise, the vibration{n}that had gone on for a while came to a{n}stop."
+  "en": "Gakon! With a heavy noise, the vibration{n}that had gone on for a while came to{n}a stop."
  },
  {
   "id": "s0276_01a74",

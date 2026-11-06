@@ -45,7 +45,7 @@
    "イングヴェイイングヴェイ・フォン・マルムステ"
   ],
   "jp": "ここは……溶岩は流れ込んでこない{n}のか？",
-  "en": "This place... Does the lava not flow in{n}here?"
+  "en": "This place... Does the lava not flow{n}in here?"
  },
  {
   "id": "s0337_00898",
@@ -261,7 +261,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "突如、凄まじい殺気が接近してきた。{page}血路の先、からではない。それはここ{n}とは違う空間から、急速に迫りつつ{n}あった。",
-  "en": "Suddenly, a fearsome killing intent drew{n}near.{page}Not from ahead along the blood vessel. It{n}closed in fast, from a space other than{n}this one."
+  "en": "Suddenly, a fearsome killing intent{n}drew near.{page}Not from ahead along the blood vessel. It{n}closed in fast, from a space other than{n}this one."
  },
  {
   "id": "s0337_00c14",
@@ -333,7 +333,7 @@
    "サイクス"
   ],
   "jp": "唐突に空間が破れ、サイクスが転がり{n}出てきた。即座に修復された次元の{n}壁の向こうから、魂を凍てつかせる{n}おぞましい咆哮が洞窟に響き渡る。",
-  "en": "Space abruptly tore, and Sykes came{n}rolling out. From beyond the dimensional{n}wall, mended at once, a horrible howl{n}that froze the soul rang through the{n}cave."
+  "en": "Space abruptly tore, and Sykes came{n}rolling out. From beyond the dimensional{n}wall, mended at once, a horrible howl{n}that froze the soul rang through{n}the cave."
  },
  {
   "id": "s0337_00cbc",
@@ -405,7 +405,7 @@
    "サイクス"
   ],
   "jp": "サイクスが出現した、今はもうただの{n}虚空となった空間に、みしり、と何か{n}の圧力が生じた。見えない次元の壁が{n}じりじりと押し開かれ、こちら側に{n}飛び出してこようとするものの透明な{n}影が浮かび上がる。サイクスを追い{n}続けた獰猛な妖獣が、遂にこの世界{n}へと実体化しようとしていた。",
-  "en": "In the space where Sykes had appeared,{n}now only empty air, a creaking pressure{n}arose. The unseen dimensional wall was{n}forced slowly open, and the transparent{n}shadow of something about to leap{n}through to this side stood out. The savage{n}beast that had hunted Sykes all this while{n}was at last taking solid form in this{page}world."
+  "en": "In the space where Sykes had appeared,{n}now only empty air, a creaking pressure{n}arose. The unseen dimensional wall was{n}forced slowly open, and the transparent{n}shadow of something about to leap{n}through to this side stood out. The savage{n}beast that had hunted Sykes all this{page}while was at last taking solid form in this{n}world."
  },
  {
   "id": "s0337_00e1c",
@@ -573,7 +573,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "乗りかかった船だ。チョロチョロと{n}こうるさいワンコロとやらを、{n}蹴散らしてやろーじゃねえか！",
-  "en": "We're in this far already. Let's go kick this{n}yappy little doggie around, what do you{n}say!"
+  "en": "We're in this far already. Let's go kick this{n}yappy little doggie around, what do{n}you say!"
  },
  {
   "id": "s0337_010ac",
@@ -645,7 +645,7 @@
    "サイクス"
   ],
   "jp": "死を目前にした猟犬の、最期の咆哮が{n}大気を震わせる。風景が歪みそうな、{n}凄まじいまでの絶叫であった。",
-  "en": "The last howl of the hound, facing death,{n}shook the air. It was a scream so terrible{n}that the very landscape seemed to{n}warp."
+  "en": "The last howl of the hound, facing death,{n}shook the air. It was a scream so terrible{n}that the very landscape seemed{n}to warp."
  },
  {
   "id": "s0337_01150",
@@ -861,6 +861,6 @@
    "Ｄ・Ｓ"
   ],
   "jp": "溶岩は閉じちまった。もう後戻りは{n}できねえぜ",
-  "en": "The lava's closed up. There's no going back{n}now."
+  "en": "The lava's closed up. There's no going{n}back now."
  }
 ]

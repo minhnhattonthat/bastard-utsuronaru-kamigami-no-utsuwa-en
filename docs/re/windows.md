@@ -43,7 +43,7 @@ Field messages (`exe_012f0 宝箱は開かない`), map names (`exe_00974`), par
 - Table 386/388 names: 17 bytes + NUL (`_write_fixed` refuses 18). Table 393 name 19, description 63. Table 382 short 11; long is up to 31, field by field (`insert._field_room`), not the 36 `max` says.
 - Enemy names, `label` tables 551-736: **19 bytes** + NUL in a 20-byte field. Some Japanese names fill all 20 with no NUL and the next field follows at once; the build always writes a NUL and never touches that field.
 - Ending blurbs, `ov4`: 199 bytes each, fixed slots, 228 px.
-- Script strings can grow: they move to the end of `prg`, 64 KB from `$gp`, and the build refuses more. The game loads that much: entry 321, the largest, padded from 50,056 to 65,164 bytes (`tools/debug/ssg_stress.py`) ran `map_4_04`, `ev_4_04_0001` and `ev_4_04_0003`, its strings on screen. The ring holding queued text is cols x rows x 4 bytes (a narration: 648), so keep one string under 640 bytes.
+- Script strings can grow: they move to the end of `prg`, 64 KB from `$gp`, and the build refuses more. The game loads that much: entry 321, the largest, padded from 50,056 to 65,164 bytes (`tools/debug/ssg_stress.py`) ran `map_4_04`, `ev_4_04_0001` and `ev_4_04_0003`, its strings on screen. The ring holding queued text is cols x rows x 4 bytes (narration 648; dialogue 304 in a 228 px box, 288 in a 216 px one; cols = px / 12). **Measured** on `ev_1_01_0003` with `build.py --qa`: the string's bytes count, its closing `0C` too, and past the ring only the tail survives (length mod 304: 620 bytes showed the last 12, a 304-byte one showed nothing and skipped its wait). 288 and 302 bytes showed every page. `batches.RING` caps narration at 640 and dialogue at 288; the longest dialogue is 220.
 - **Stack buffers.** These strings are expanded by sprintf into a fixed buffer on the stack; past its end they overwrite the saved registers and the return address. `insert.FORMAT_ROOM` holds the limits and the build refuses more; `tools/debug/fmt_sites.py` lists every sprintf in the EXE. Battle text (`80052E88`) uses a 4 KB work area, and the menu printer (`80049ED4`) has 128 bytes and an assert, so neither needs a limit beyond its box.
 
 | String | Buffer | Literal text, tokens not counted | Longest argument |
@@ -59,6 +59,11 @@ Field messages (`exe_012f0 宝箱は開かない`), map names (`exe_00974`), par
 
 ## Which `label`s show
 Enemy names in tables 551-736 do show: the tail `00a50` and others are drawn in battle messages (`%sが現れた！`), so **translate them**. Table 392 (`テスト２６`, `細くて眠りのマップ`) has not been seen on screen: developer labels, leave them.
+
+## Strings read as pieces
+- **Enemy letters, `ov1_00288`:** the code takes 2 bytes per enemy from this string (it was `ＡＢＣＤ`), so plain `ABCD` gave "Soldier AB". It's ` A B C D`: a space and a letter per enemy.
+- **Choices, `ov2_00560`, `ov1_01220`:** each option has its button icon or cursor at a fixed x. Half-width spaces draw 12 px in Japanese and 4 px in English, so the English is padded to the Japanese offsets (`ov2_00560`: 0, 48, 108 px, from the icon xs in `ov2` at 0xA7B0-0xA800). Not seen on screen yet.
+- **Name + `ov2_004b8`:** strcat onto a character's name (`ov2` 0x96A4, the only strcat of a literal in the game), so it starts with a space.
 
 ## Battle codes
 Substitutions, keep each one and keep their order, since arguments are consumed in order: `%s` a name, `%d` a number, `%M` a spell, `%i` an item, `%m` a cause of death, `%l` a character (level up), `%a` a side (read from where each sits in the Japanese; `%M %i %m %l %a` are not traced in the code).

@@ -21,7 +21,7 @@
    ""
   ],
   "jp": "そこは、外輪山にぐるりと囲まれて{n}擦り鉢状になった、巨大なカルデラ{n}盆地であった。裏側から見た鬼哭関が{n}外輪の一画を形成しているのが眺望{n}できる。盆地の中央には岩山が高く{n}聳え、そしてその頂上に、羽化直前の{n}サナギのようにあの自走砦が鎮座して{n}いた。",
-  "en": "It was a vast caldera basin, ringed by the{n}crater rim into the shape of a mortar.{n}From here they could see the Ogre Wail{n}Gate, from behind, forming one stretch of{n}the rim. A rocky mountain towered at the{n}center of the basin, and on its peak, like a{n}chrysalis about to hatch, sat the walking{n}fort."
+  "en": "It was a vast caldera basin, ringed by the{n}crater rim into the shape of a mortar.{n}From here they could see the Ogre Wail{n}Gate, from behind, forming one stretch of{n}the rim. A rocky mountain towered at the{n}center of the basin, and on its peak, like a{n}chrysalis about to hatch, sat the{n}walking fort."
  },
  {
   "id": "s0050_00910",
@@ -189,7 +189,7 @@
    "ヴァイ"
   ],
   "jp": "ひいいっ！　ツネらないで！　痛い{n}けどガマンしますぅ",
-  "en": "Eeek! Don't pinch me! It hurts, but I'll bear{n}it!"
+  "en": "Eeek! Don't pinch me! It hurts, but I'll{n}bear it!"
  },
  {
   "id": "s0050_00bd8",
@@ -285,7 +285,7 @@
    "サイクス"
   ],
   "jp": "Ｄ・Ｓの懐で、ヨーコ球がシーラを{n}気遣うように身震いした。天空の門は{n}あまりに禍々しく、それを開くために{n}シーラがどのような責め苦を負って{n}いるのか、思わず想起させられる{n}不吉な眺めであった。",
-  "en": "Inside D.S.'s jacket, the Yoko orb trembled,{n}as if in concern for Sheila. The gate in the{n}sky was deeply sinister, an ill-omened{n}sight that made one imagine, unbidden,{n}what torment Sheila was bearing to open{n}it."
+  "en": "Inside D.S.'s jacket, the Yoko orb trembled,{n}as if in concern for Sheila. The gate in the{n}sky was deeply sinister, an ill-omened{n}sight that made one imagine, unbidden,{n}what torment Sheila was bearing to{n}open it."
  },
  {
   "id": "s0050_00d7c",
@@ -549,7 +549,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "そう言やあ、前に妙なことで楽器を{n}拾ったな、ヴァイ？",
-  "en": "Now that you mention it, we picked up an{n}instrument in a weird way before, huh,{n}Vai?"
+  "en": "Now that you mention it, we picked up an{n}instrument in a weird way before,{n}huh, Vai?"
  },
  {
   "id": "s0050_011ec",
@@ -597,7 +597,7 @@
    "シェラ"
   ],
   "jp": "そ、それは！　何と言う偶然か！{n}いや、それともこれは大自然に宿る{n}神の導きなのか……私の、私の竪琴に{n}ここで巡り会えるとは！",
-  "en": "Th-That is...! What a coincidence! No, or is{n}this the guidance of the god who dwells in{n}nature... To meet my lyre, my own lyre,{n}here!"
+  "en": "Th-That is...! What a coincidence! No, or is{n}this the guidance of the god who dwells in{n}nature... To meet my lyre, my own{n}lyre, here!"
  },
  {
   "id": "s0050_012bc",
@@ -621,7 +621,7 @@
    "シェラ"
   ],
   "jp": "満面に喜びの表情を浮かべたシェラは、{n}それまでよりもずっと、本来あるべき{n}美少女らしさを取り戻していた。受け{n}取った竪琴を軽く掻き鳴らし、音階を{n}確かめるようにして、先刻より遥かに{n}心に沁みる調べを、彼女はひとしきり{n}奏でてみせた。大気に満ちた重苦しい{n}気配が、すっと溶けていくようだった。",
-  "en": "Her whole face beaming with joy, Shella{n}looked far more than before like the{n}beautiful girl she truly was. She lightly{n}strummed the lyre she was given, as if{n}testing its scale, then played for a while{n}a melody that sank far deeper into the{n}heart than before. The heavy air that had{n}filled the place seemed to melt quietly{page}away."
+  "en": "Her whole face beaming with joy, Shella{n}looked far more than before like the{n}beautiful girl she truly was. She lightly{n}strummed the lyre she was given, as if{n}testing its scale, then played for a while{n}a melody that sank far deeper into the{n}heart than before. The heavy air that{page}had filled the place seemed to melt{n}quietly away."
  },
  {
   "id": "s0050_013dc",
@@ -1077,7 +1077,7 @@
    "イングヴェイイングヴェイ・フォン・マルムステ"
   ],
   "jp": "去り際、シェラは振り返って告げた。",
-  "en": "As she left, Shella turned back and told{n}them:"
+  "en": "As she left, Shella turned back and{n}told them:"
  },
  {
   "id": "s0050_01904",
@@ -1197,7 +1197,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "しかし、そんな見え見えの罠で{n}俺たちをおびき寄せようって考える{n}とも思えねえんだよな。ま、伏兵は{n}なさそうだし、近づいてみるか",
-  "en": "Still, I can't see them trying to lure us with{n}a trap that obvious. Well, there don't seem{n}to be any ambushers, so let's take a closer{n}look."
+  "en": "Still, I can't see them trying to lure us with{n}a trap that obvious. Well, there don't seem{n}to be any ambushers, so let's take a{n}closer look."
  },
  {
   "id": "s0050_02118",
@@ -1509,7 +1509,7 @@
    "バ・ソリー"
   ],
   "jp": "バ・ソリーの全身の傷が、体内から{n}湧き出す小さな蟲の群れによって{n}急速に癒されていく。男は蟲使いと{n}呼ばれる異能の一族であり、肉体に{n}蟲を寄生させることで身体機能を{n}飛躍的に高める能力を有していた。{n}致命傷となる深傷も、宿主を護る{n}再生蟲が即座に塞いでいくのである。",
-  "en": "The wounds all over Ba Thory's body were{n}swiftly healing, closed by swarms of small{n}bugs welling up from within him. He was of{n}an uncanny clan known as bug tamers,{n}who could vastly improve their bodily{n}powers by letting bugs live in their flesh.{n}Even a mortal wound was at once sealed{n}by the regeneration bugs that guarded{page}their host."
+  "en": "The wounds all over Ba Thory's body were{n}swiftly healing, closed by swarms of small{n}bugs welling up from within him. He was of{n}an uncanny clan known as bug tamers,{n}who could vastly improve their bodily{n}powers by letting bugs live in their flesh.{n}Even a mortal wound was at once{page}sealed by the regeneration bugs that{n}guarded their host."
  },
  {
   "id": "s0050_02600",
@@ -1773,7 +1773,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "そうだとも。で、オメエも鬼忍将に{n}いいように利用されたクチだよな。{n}どうだ？　ひとつその力を役立てて{n}みねえか",
-  "en": "Sure I do. And you're another guy the High{n}Ninja played for all you're worth, right? How{n}about it? Why not put that power to some{n}use?"
+  "en": "Sure I do. And you're another guy the High{n}Ninja played for all you're worth, right? How{n}about it? Why not put that power to{n}some use?"
  },
  {
   "id": "s0050_02a38",
@@ -1893,7 +1893,7 @@
    "バ・ソリー"
   ],
   "jp": "そんなに喜ばれるなんて、俺様も{n}何か嬉しくなっちゃうなあ。ところで{n}奇蟲は貰っちゃっていいか？",
-  "en": "Being so welcome makes me feel kinda happy{n}myself. By the way, can I have the strange{n}bug?"
+  "en": "Being so welcome makes me feel kinda happy{n}myself. By the way, can I have the{n}strange bug?"
  },
  {
   "id": "s0050_02bb4",
@@ -2109,7 +2109,7 @@
    "バ・ソリー"
   ],
   "jp": "大きくよろめいた瞬間、バ・ソリーは{n}岬から足を踏み外して湖に転落した。{page}と、にわかに湖面が波打ち、そして{n}水底から黒い影が浮上してくるや、{n}それは巨大な怪魚の顎となって、疑似{n}餌よろしく湖面でもがくバ・ソリーを{n}丸飲みに連れ去った。それほどまでの{n}大きさであった。",
-  "en": "Staggering wildly, Ba Thory stepped off{n}the cape and tumbled into the lake.{page}All at once the surface heaved, a black{n}shadow rose from the depths, and it{n}became the jaws of a giant monster fish{n}that swallowed Ba Thory whole and bore{n}him away, as he struggled on the water{n}like so much bait. That was how huge it{n}was."
+  "en": "Staggering wildly, Ba Thory stepped off{n}the cape and tumbled into the lake.{page}All at once the surface heaved, a black{n}shadow rose from the depths, and it{n}became the jaws of a giant monster fish{n}that swallowed Ba Thory whole and bore{n}him away, as he struggled on the water{n}like so much bait. That was how huge{n}it was."
  },
  {
   "id": "s0050_02f7c",
@@ -2181,7 +2181,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "ま、あんなに高速で再生するヤツは{n}胃袋でも消化されねえだろうが――{n}それにしてもこの湖にはとんでもねえ{n}魚が放流されてやがるな",
-  "en": "Well, a guy who regenerates that fast won't{n}get digested even in a stomach-- But man,{n}they've stocked this lake with some crazy{n}fish."
+  "en": "Well, a guy who regenerates that fast won't{n}get digested even in a stomach-- But man,{n}they've stocked this lake with some{n}crazy fish."
  },
  {
   "id": "s0050_03044",
@@ -2253,7 +2253,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "何とかしてあの鬼哭関を解放するか、{n}ブチ壊すかして湖の水を排出するしか{n}ねーだろうな",
-  "en": "All we can do is find some way to open that{n}Ogre Wail Gate or smash it, and drain the{n}lake."
+  "en": "All we can do is find some way to open that{n}Ogre Wail Gate or smash it, and drain{n}the lake."
  },
  {
   "id": "s0050_0310c",
@@ -2301,7 +2301,7 @@
    "ヴァイ"
   ],
   "jp": "とりあえず鬼哭関に戻るか？",
-  "en": "Should we go back to the Ogre Wail Gate for{n}now?"
+  "en": "Should we go back to the Ogre Wail Gate{n}for now?"
  },
  {
   "id": "s0050_03180",

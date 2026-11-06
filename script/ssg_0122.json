@@ -381,7 +381,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "テメエこそ不細工なツラ近づけんじゃ{n}ねーよ！　一生消せねえツラい記憶を{n}植え付けられるトコだったじゃねえか",
-  "en": "Keep your ugly mug out of my face, you{n}bastard! You nearly burned a painful{n}memory into my head that'll never go{n}away."
+  "en": "Keep your ugly mug out of my face, you{n}bastard! You nearly burned a painful{n}memory into my head that'll never{n}go away."
  },
  {
   "id": "s0122_00b94",
@@ -429,7 +429,7 @@
    "ヴァイ"
   ],
   "jp": "竜船が辿り着いたのは、見渡す限りの{n}樹木で覆われた大森林地帯のとば口と{n}なる岸辺であった。",
-  "en": "The Dragon Ship had reached a shore at{n}the entrance to a vast forest region,{n}covered in trees as far as the eye could{n}see."
+  "en": "The Dragon Ship had reached a shore at{n}the entrance to a vast forest region,{n}covered in trees as far as the eye{n}could see."
  },
  {
   "id": "s0122_00c38",
@@ -693,6 +693,6 @@
    "ヴァイ"
   ],
   "jp": "こんな門が造られてるってことは、{n}この森を根城にしてるヤツがいるって{n}コトか？",
-  "en": "If somebody built a gate like this, does that{n}mean someone's made this forest their{n}base?"
+  "en": "If somebody built a gate like this, does that{n}mean someone's made this forest{n}their base?"
  }
 ]

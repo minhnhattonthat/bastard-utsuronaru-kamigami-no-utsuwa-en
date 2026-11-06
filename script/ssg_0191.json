@@ -189,7 +189,7 @@
    "ウンディーネＡ"
   ],
   "jp": "外見は人間にそっくりであったが、{n}娘たちは水妖と呼ばれる妖精の一種、{n}ウンディーネだった。澄んだ水辺を{n}その棲処とし、悪戯半分に男を誘惑{n}しては水中に引きずり込んでしまうと{n}いう。また、人間と恋に落ちることも{n}あるが、もし裏切られれば相手の命を{n}必ず水難にて奪う、愛憎深き水の精霊{n}である。",
-  "en": "They looked just like humans, but the girls{n}were a kind of fairy called water spirits:{n}Undines. They make their homes by clear{n}waters, and half for fun they tempt men{n}and drag them under. They may fall in{n}love with humans too, but if betrayed,{n}these beings of deep love and hate are{n}sure to take the betrayer's life by{page}drowning."
+  "en": "They looked just like humans, but the girls{n}were a kind of fairy called water spirits:{n}Undines. They make their homes by clear{n}waters, and half for fun they tempt men{n}and drag them under. They may fall in{n}love with humans too, but if betrayed,{n}these beings of deep love and hate are{page}sure to take the betrayer's life by{n}drowning."
  },
  {
   "id": "s0191_00c20",
@@ -405,7 +405,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "ここはギブアンドテイクでいくしか{n}ねーようだな。一番の美形と言えば{n}２位を宇宙の果てまで引き離して俺様{n}なんだが、そうもいかねえし――",
-  "en": "Looks like we gotta play this give-and-take.{n}When it comes to the best-looking, it's the{n}great me, leaving number two at the far{n}end of the universe, but that ain't gonna{page}work here--"
+  "en": "Looks like we gotta play this give-and-take.{n}When it comes to the best-looking, it's the{n}great me, leaving number two at the far{page}end of the universe, but that ain't gonna{n}work here--"
  },
  {
   "id": "s0191_01060",
@@ -621,7 +621,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "……毎回逃げてるのはオメエだろが",
-  "en": "...You're the one who runs away every{n}time."
+  "en": "...You're the one who runs away{n}every time."
  },
  {
   "id": "s0191_01258",
@@ -693,7 +693,7 @@
    "マカパイン"
   ],
   "jp": "前にも言ったはずだ。もはや褒賞は{n}関係ないと。妖縛士の面子にかけて、{n}貴様だけは我が手で必ず倒す！",
-  "en": "I told you before. The reward no longer{n}matters. By my honor as a demon binder,{n}you alone I shall surely defeat by my own{n}hand!"
+  "en": "I told you before. The reward no longer{n}matters. By my honor as a demon binder,{n}you alone I shall surely defeat by my{n}own hand!"
  },
  {
   "id": "s0191_01388",
@@ -1555,7 +1555,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "だって女に選んでもらったらカドが{n}立つじゃねえか",
-  "en": "Well, if we let the girls pick, feelings'd get{n}hurt."
+  "en": "Well, if we let the girls pick, feelings'd{n}get hurt."
  },
  {
   "id": "s0191_01cb0",
@@ -1675,7 +1675,7 @@
    "ヨルグ"
   ],
   "jp": "俺が？　それは光栄だが……世辞では{n}ないのか、Ｄ・Ｓ？",
-  "en": "I? It is an honor, but... Is this not flattery,{n}D.S.?"
+  "en": "I? It is an honor, but... Is this not{n}flattery, D.S.?"
  },
  {
   "id": "s0191_01e04",
@@ -2253,7 +2253,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "ウンディーネたちにゃモテてるみたい{n}だな。知性にあまり差がない、と",
-  "en": "Seems you're real popular with the Undines.{n}Guess there ain't much of a gap in intellect,{n}then."
+  "en": "Seems you're real popular with the Undines.{n}Guess there ain't much of a gap in{n}intellect, then."
  },
  {
   "id": "s0191_02410",
@@ -3119,7 +3119,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "退がってろよ、シーラ。すぐにカタ{n}つけてやるからよ！",
-  "en": "Stand back, Sheila. I'll finish this in no{n}time!"
+  "en": "Stand back, Sheila. I'll finish this in{n}no time!"
  },
  {
   "id": "s0191_03b00",
@@ -3335,7 +3335,7 @@
    "シーラ"
   ],
   "jp": "珍蟲は大量に水分を放出すると、以前{n}の奇蟲の同様に急速に縮まっていく。{n}バ・ソリーはそれを嬉しそうに{n}丸飲みし、体内に寄生させた。",
-  "en": "Letting out a large amount of water, the{n}rare bug shrank fast, just like the{n}strange bug before. Ba Thory gleefully{n}swallowed it whole and let it live in his{n}body."
+  "en": "Letting out a large amount of water, the{n}rare bug shrank fast, just like the{n}strange bug before. Ba Thory gleefully{n}swallowed it whole and let it live in{n}his body."
  },
  {
   "id": "s0191_03d5c",
@@ -3536,7 +3536,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "あとでバ・ソリーのヤツにくれて{n}やろう。ヴァイ、拾っときなさい",
-  "en": "We'll give it to Ba Thory later. Vai, pick it{n}up."
+  "en": "We'll give it to Ba Thory later. Vai, pick{n}it up."
  },
  {
   "id": "s0191_03f60",
@@ -5046,7 +5046,7 @@
    "ヨルグ"
   ],
   "jp": "はは……ありがとう、またね。あ、{n}やあ！　Ｄ・Ｓ！",
-  "en": "Ha ha... Thank you, until next time. Ah, hey!{n}D.S.!"
+  "en": "Ha ha... Thank you, until next time. Ah,{n}hey! D.S.!"
  },
  {
   "id": "s0191_059fc",
@@ -5190,7 +5190,7 @@
    "ボル"
   ],
   "jp": "わははは。熟女キラー・ボル・ギル{n}・ボルは健在でござった！　わはは！",
-  "en": "Wa ha ha ha. Bol Gil Bol, killer of mature{n}women, is alive and well, forsooth! Wa ha{n}ha!"
+  "en": "Wa ha ha ha. Bol Gil Bol, killer of mature{n}women, is alive and well, forsooth! Wa{n}ha ha!"
  },
  {
   "id": "s0191_05b80",
@@ -5382,7 +5382,7 @@
    "ウンディーネＢ"
   ],
   "jp": "教えませーん。でも、結構楽しんでた{n}わよー",
-  "en": "We're not telling! But he had quite a good{n}time!"
+  "en": "We're not telling! But he had quite a{n}good time!"
  },
  {
   "id": "s0191_05d20",
@@ -6246,7 +6246,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "で、最終的には樹棺城へ向かうつもり{n}だぜ。どうもあの魔雷妃って女は、{n}俺と深い関わりがあるようだからな",
-  "en": "And in the end I mean to head for the{n}Tree-Coffin Castle. Seems that Demon{n}Thunder Queen woman's got deep ties to{n}me."
+  "en": "And in the end I mean to head for the{n}Tree-Coffin Castle. Seems that Demon{n}Thunder Queen woman's got deep ties{n}to me."
  },
  {
   "id": "s0191_06508",
@@ -6342,6 +6342,6 @@
    "カイ"
   ],
   "jp": "うむ……。まずはこの場を離れ、{n}道すがら話すことにしよう――",
-  "en": "Mm... Let's leave here first and talk on the{n}way--"
+  "en": "Mm... Let's leave here first and talk on{n}the way--"
  }
 ]

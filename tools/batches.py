@@ -5,6 +5,7 @@
     python -X utf8 tools/batches.py merge bNNN ... [--overwrite]   check, then write the English into script/
     python -X utf8 tools/batches.py fix FILE              lines `id English`: replace those lines, repeats included (review fixes)
     python -X utf8 tools/batches.py fit "text" ID         print the wrapped lines and widths for that entry's box
+    python -X utf8 tools/batches.py reflow                re-wrap shipped lines with the current wrap (breaks only, no word changes)
 
 From the skill's assets/batches.py, fitted to this game. To save tokens over ~9,000 lines a batch line is `N speaker|JP` and
 the output `N English`. Identical text is one line: N stands for every entry in the map file with that text.
@@ -26,17 +27,20 @@ SCRIPT = ROOT / "script"
 GLOSSARY = ROOT / "glossary.md"
 WINDOWS = json.loads((ROOT / "tools/windows.json").read_text(encoding="utf-8"))
 MAX_ENTRIES = 150
+FORCED = {"s0153_00a30", "s0153_00b4c", "s0170_031b4", "s0268_011a0"}  # poems and chants, a line per verse: reflow leaves their breaks
 
 CODE = r"\{c\}|\{n\}|\{page\}|\[[0-9A-F]{2}\]|%[a-zA-Z]"
 TOKEN = re.compile(CODE)
 HEAD = re.compile(r"^(?:\[[0-9A-F]{2}\]|\{c\}|%z)+")
 TAIL = re.compile(r"(?:\{n\}|\{page\}|%z)+$")
 ARG = re.compile(r"%[a-zA-Z]")
-# Widest a substitution prints: enemy name 19 bytes, item 17, at about 6 px a letter.
-ARG_PX = {"%s": 102, "%M": 72, "%i": 102, "%m": 60, "%l": 60, "%a": 48, "%d": 18, "%z": 0}
+# Widest a substitution prints: enemy name 19 bytes and its letter (" A"), item 17, at about 6 px a letter.
+ARG_PX = {"%s": 112, "%M": 72, "%i": 102, "%m": 60, "%l": 60, "%a": 48, "%d": 18, "%z": 0}
 HONORIFICS = {"さん": "-san", "様": "-sama", "ちゃん": "-chan", "くん": "-kun", "君": "-kun", "殿": "-dono", "先生": "-sensei"}
-# shortcut: string caps from one measurement (narration 640) and a guess from the ring size (cols x rows x 4); phase 7 tests them.
+# The text ring is cols x rows x 4 bytes and overflow keeps only the tail (docs/re/windows.md): 304 in a 228 px dialogue box, 288 in a 216 one.
 RING = {"narration": 640, "dialogue": 288}
+STUB_LINE = 6  # characters on a last line: under this, it's one orphaned word
+STUB_PAGE = 3  # words on an added last page
 
 
 def docs():
@@ -67,11 +71,11 @@ def box(e):
             return (216, 8, 204, True) if 560 in fn and w != 228 else (216, 4, 204, True)
         return 228, 4, 216, True
     if i.startswith("ov1"):
-        if i == "ov1_011e4":  # %s = a party name and Unison/Chain, far under ARG_PX's 102 px each
-            return 300, 1, 300, False
+        if i == "ov1_011e4":  # %s = a party name and Unison/Chain, far under ARG_PX's 112 px each
+            return 320, 1, 320, False
         if not HEAD.match(jp) and "{n}" not in jp and "{page}" not in jp:
             return (32 if w and w <= 36 else 200), 1, 200, False  # labels
-        return 228, 3, 216, True
+        return (216 if w == 216 else 228), 3, 216, True
     if i.startswith("ov2"):
         return (32 if len(jp) <= 2 else 212), 1, 212, False
     if i.startswith("ov4"):
@@ -91,16 +95,51 @@ def px(text):
     return sum(ARG_PX.get(t, 0) for t in ARG.findall(text)) + engine.width(ARG.sub("", text))
 
 
+def fill(words, width):
+    lines, cur = [], ""
+    for word in words:
+        if cur and px(cur + " " + word) > width:
+            lines.append(cur)
+            cur = word
+        else:
+            cur = cur + " " + word if cur else word
+    return lines + [cur]
+
+
+def unstub_line(lines, start, last):
+    """lines[start:] came from one run of text: give an orphaned last word company from the line above."""
+    if len(lines) - start > 1 and len(lines[-1].strip()) < STUB_LINE and " " in lines[-2].strip():
+        head, word = lines[-2].rsplit(" ", 1)
+        if px(word + " " + lines[-1]) <= last:
+            lines[-2:] = [head, word + " " + lines[-1]]
+
+
+def unstub_page(chunks, width, last):
+    """An added page of a word or two: end the page before it a row early, so the last page has a full row."""
+    if len(chunks) < 2 or len(chunks[-1]) > 1 or len(chunks[-1][0].split()) > STUB_PAGE or len(chunks[-2]) < 2:
+        return
+    words = (chunks[-2].pop() + " " + chunks[-1][0]).split()
+    while px(chunks[-2][-1]) > last:  # now the page's last row, so it has the arrow
+        chunks[-2][-1], word = chunks[-2][-1].rsplit(" ", 1)
+        words.insert(0, word)
+    chunks[-1] = fill(words, width)
+    if px(chunks[-1][-1]) > last:
+        chunks[-1][-1:] = chunks[-1][-1].rsplit(" ", 1)
+    unstub_line(chunks[-1], 0, last)
+
+
 def wrap(text, e):
     """Authored English -> `{n}`/`{page}` text for e's box, or raises ValueError."""
     width, rows, last, pages = box(e)
     out = []
     for page in text.split(" | "):
         lines = []
+        start = 0
         for forced in page.split(" // "):
             if rows == 1:
                 lines.append(forced)
                 continue
+            start = len(lines)
             indent = forced[:len(forced) - len(forced.lstrip(" "))]  # centred lines keep their spaces
             cur = indent
             for word in forced.split():
@@ -111,9 +150,13 @@ def wrap(text, e):
                 else:
                     cur = cur + " " + word if cur.strip() else cur + word
             lines.append(cur)
+            unstub_line(lines, start, last)
         if px(lines[-1]) > last and " " in lines[-1].strip():  # so has the page's last row, wherever it falls
             lines[-1:] = lines[-1].rsplit(" ", 1)
-        out += ["{n}".join(lines[k:k + rows]) for k in range(0, len(lines), rows)]
+            unstub_line(lines, start, last)
+        chunks = [lines[k:k + rows] for k in range(0, len(lines), rows)]
+        unstub_page(chunks, width, last)
+        out += ["{n}".join(c) for c in chunks]
     if len(out) > 1 and not pages:
         raise ValueError(f"{len(out)} pages in a {rows}-line box")
     return "{page}".join(out)
@@ -135,6 +178,12 @@ def core(jp):
 def render(e, text):
     a, z = affixes(e["jp"])
     return a + wrap(text, e) + z
+
+
+def core_raw(jp):
+    """jp without its outer codes, {page} still in."""
+    a, z = affixes(jp)
+    return jp[len(a):len(jp) - len(z)] if z else jp[len(a):]
 
 
 def authored(e):
@@ -176,6 +225,15 @@ def has_term(jp, term):
     return False
 
 
+def has_word(low, form):
+    """form as a whole word, plural allowed: "Di" isn't in "did", "Gain" isn't in "again"."""
+    return re.search(rf"(?<!\w){re.escape(form)}(?:e?s)?(?!\w)", low) is not None
+
+
+def inner_codes(s):
+    return Counter(t for t in TOKEN.findall(s) if t not in ("{n}", "{page}"))
+
+
 def problems(e, en, terms):
     """Every rule, on one entry's finished `en`."""
     jp = e["jp"]
@@ -186,16 +244,18 @@ def problems(e, en, terms):
         out.append(f"unencodable or reserved characters {bad}")
     if ARG.findall(jp.replace("%z", "")) != ARG.findall(en.replace("%z", "")):
         out.append("arguments differ or moved (order is fixed)")
-    if Counter(TOKEN.findall(jp))["%z"] != Counter(TOKEN.findall(en))["%z"]:
-        out.append("%z count differs")
+    if inner_codes(jp) != inner_codes(en):
+        out.append("control codes differ")
     if affixes(jp)[0] != affixes(en)[0] or not en.endswith(affixes(jp)[1]):
         out.append("outer codes differ")
     if re.search(r"%d(st|nd|rd|th)\b", en):
         out.append("ordinal suffix after a variable")
+    if re.search(r"\b[Aa]n? %[a-zA-Z]", en):
+        out.append("a/an before a variable")
     jp_plain = TOKEN.sub("", jp)
     low = en.lower().replace("{n}", " ").replace("{page}", " ")
     for jps, ens, avoid, is_char in terms:
-        if any(has_term(jp_plain, j) for j in jps) and not any(x.lower() in low for x in ens):
+        if any(has_term(jp_plain, j) for j in jps) and not any(has_word(low, x.lower()) for x in ens):
             out.append(f"glossary: {jps[0]} -> {ens[0]}")
         out += [f"glossary Avoid: {a}" for a in avoid if re.search(rf"\b{re.escape(a)}\b", en)]
         if is_char:
@@ -213,6 +273,18 @@ def problems(e, en, terms):
         over = [ln for ln in lines if px(ln) > width] or ([lines[-1]] if px(lines[-1]) > last else [])
         if over:
             out.append(f"over {width}px: {over[0]!r} is {px(over[0])}")
+        # A fixed box the tour measured (tools/windows.json). Scripts and the EXE have boxes that grow with the text: box() covers those.
+        seen = WINDOWS.get(e["id"])
+        wide = max(lines, key=px)
+        if seen and e["id"][0] != "s" and not e["id"].startswith(("exe", "t0393")) and px(wide) > seen:  # t0393 names: the tour saw the marker's short id, the box is 110 px
+            out.append(f"over the measured {seen}px box: {wide!r} is {px(wide)}")
+    if rows > 1 and not e["id"].startswith(("exe", "t0")) and e["id"] not in FORCED:  # stat sheets and tables are laid out by hand
+        pages = body.split("{page}")
+        tail = pages[-1].split("{n}")
+        if len(tail) > 1 and len(tail[-1].strip()) < STUB_LINE and " " in tail[-2].strip():
+            out.append(f"stub last line: {tail[-1]!r}")
+        if len(pages) > jp.count("{page}") + 1 and len(pages[-1].replace("{n}", " ").split()) <= STUB_PAGE:
+            out.append(f"stub last page: {pages[-1]!r}")
     n = len(en.replace("{n}", "\n").replace("{page}", "\n"))
     if e["id"].startswith("t") or e["id"].startswith("ov4"):
         if n + 1 > e["max"]:
@@ -363,6 +435,25 @@ def fix(path, entries, terms):
     return 0
 
 
+def reflow(entries):
+    """Re-wrap shipped lines with the current wrap(): only line and page breaks change, never a word. Pages the Japanese has stay."""
+    new, kept = {}, []
+    for i, e in entries.items():
+        if not e.get("en") or i in FORCED or not i.startswith(("s", "ov1", "ov4")) or box(e)[1] == 1:
+            continue
+        text = authored(e)
+        if "{page}" not in core_raw(e["jp"]):
+            text = text.replace(" | ", " ")
+        try:
+            new[i] = render(e, text)
+        except ValueError as err:
+            kept.append(f"{i}: {err}")
+    if kept:
+        print("\n".join(kept))
+    write(new, True)
+    return 1 if kept else 0
+
+
 def main(argv):
     if not argv:
         sys.exit(__doc__)
@@ -382,10 +473,13 @@ def main(argv):
         return 0
     if cmd == "fix":
         return fix(args[0], entries, terms)
+    if cmd == "reflow":
+        return reflow(entries)
     overwrite = "--overwrite" in args
     names = [a for a in args if a != "--overwrite"]
     if cmd == "check" and not names:
         bad = [f"{i}: {p}: {e['en']!r}" for i, e in entries.items() if e.get("en") for p in problems(e, e["en"], terms)]
+        bad += [f"{i}: no English: {e['jp']!r}" for i, e in entries.items() if needs_english(e)]
         print(f"{len(entries)} entries, {len(bad)} problems")
         print("\n".join(bad[:200]))
         return 1 if bad else 0

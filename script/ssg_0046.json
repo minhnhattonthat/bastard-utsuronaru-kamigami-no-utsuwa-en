@@ -21,7 +21,7 @@
    ""
   ],
   "jp": "洞窟はすぐに上向きのきつい勾配と{n}なった。通路には常に空気が流れ、{n}遠くから風の鳴る音が反響しながら{n}聞こえてくる。",
-  "en": "The cave soon turned into a steep{n}upward slope. Air flowed constantly{n}through the passage, and the echoing{n}sound of wind could be heard from{n}afar."
+  "en": "The cave soon turned into a steep{n}upward slope. Air flowed constantly{n}through the passage, and the echoing{n}sound of wind could be heard{n}from afar."
  },
  {
   "id": "s0046_008d0",
@@ -165,7 +165,7 @@
    "ヴァイ"
   ],
   "jp": "遠くから激しい水音が聞こえてくる。{n}膨大な水量が、ごうごうと流れ落ちる{n}音であった。",
-  "en": "From afar came a violent sound of water,{n}of a vast quantity pouring down with a{n}roar."
+  "en": "From afar came a violent sound of water,{n}of a vast quantity pouring down with{n}a roar."
  },
  {
   "id": "s0046_00ae0",
@@ -573,7 +573,7 @@
    "ヴァイ"
   ],
   "jp": "ええーっ!?　もしかして喰うの？",
-  "en": "Whaaat!? Don't tell me you're gonna eat{n}it?"
+  "en": "Whaaat!? Don't tell me you're gonna{n}eat it?"
  },
  {
   "id": "s0046_010cc",
@@ -669,7 +669,7 @@
    "ヴァイ"
   ],
   "jp": "ここは……あっ、湖に向かう洞窟の{n}ところじゃねえか！　こんな場所に{n}通じてたのか",
-  "en": "This is... Hey, it's that spot where the cave{n}heads for the lake! So this is where it comes{n}out."
+  "en": "This is... Hey, it's that spot where the cave{n}heads for the lake! So this is where it{n}comes out."
  },
  {
   "id": "s0046_014d0",
@@ -765,7 +765,7 @@
    "ヴァイ"
   ],
   "jp": "アイツ、悪いヤツじゃなかったぜ！{n}助けにいこうぜ、Ｄ・Ｓ！",
-  "en": "He wasn't a bad guy! Let's go save him,{n}D.S.!"
+  "en": "He wasn't a bad guy! Let's go save{n}him, D.S.!"
  },
  {
   "id": "s0046_01680",
@@ -813,7 +813,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "関までは辿り着けるかも知れねえが、{n}恐らくそこから避難する時間はねえ",
-  "en": "We might make it to the gate, but odds are{n}there'd be no time to get clear after{n}that."
+  "en": "We might make it to the gate, but odds are{n}there'd be no time to get clear{n}after that."
  },
  {
   "id": "s0046_0171c",

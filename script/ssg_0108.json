@@ -309,7 +309,7 @@
    "ボル"
   ],
   "jp": "今はかように濡れネズミの情けない{n}姿でござるが、それがし、必ずお役に{n}立ってみせるでござる。何卒、ご恩を{n}返す機会をくだされ！",
-  "en": "Now this one is a wretched sight, a drowned{n}rat as you see, but this one shall surely{n}prove useful, forsooth. Please, good sirs,{n}grant this one a chance to repay your{page}kindness!"
+  "en": "Now this one is a wretched sight, a drowned{n}rat as you see, but this one shall surely{n}prove useful, forsooth. Please, good sirs,{page}grant this one a chance to repay your{n}kindness!"
  },
  {
   "id": "s0108_00c9c",
@@ -453,7 +453,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "これが自走砦――天守閣への転送機{n}だな。機能は死んじゃいねえようだが、{n}動力を他に回されてんのか？",
-  "en": "So this is the transporter to the walking{n}fort -- to the keep. Its functions ain't dead,{n}but is the power being routed somewhere{n}else?"
+  "en": "So this is the transporter to the walking{n}fort -- to the keep. Its functions ain't dead,{n}but is the power being routed{n}somewhere else?"
  },
  {
   "id": "s0108_01090",

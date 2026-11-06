@@ -45,7 +45,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "雷神塔に大した電力消費の仕掛けが{n}見当たらねえところを見ると、塔自体{n}はただの蓄電設備のようだぜ。ここ{n}から先に電力を供給するための、な",
-  "en": "Seeing as there's no big power-hungry gear{n}in the Thunder God Tower, the tower itself{n}looks like just a power storage facility. For{n}feeding power to whatever's ahead of{page}here, that is."
+  "en": "Seeing as there's no big power-hungry gear{n}in the Thunder God Tower, the tower itself{n}looks like just a power storage facility.{page}For feeding power to whatever's ahead of{n}here, that is."
  },
  {
   "id": "s0076_00918",
@@ -453,7 +453,7 @@
    "サイクス"
   ],
   "jp": "私もそう考えていた。だが、話を{n}聞くうちに私はある確証を得た。即ち、{n}我々は皆、記憶を失う前に何らかの{n}関わりを持つ者同士である、と",
-  "en": "So I thought too. But as I listened to you{n}all, I arrived at a certain conviction. Namely,{n}that we are all people with some connection{n}to one another, from before we lost our{page}memories."
+  "en": "So I thought too. But as I listened to you{n}all, I arrived at a certain conviction. Namely,{n}that we are all people with some{page}connection to one another, from before we{n}lost our memories."
  },
  {
   "id": "s0076_01024",
@@ -525,7 +525,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "だが、誰がそんな真似を？",
-  "en": "But who the hell would pull a stunt like{n}that?"
+  "en": "But who the hell would pull a stunt{n}like that?"
  },
  {
   "id": "s0076_010dc",
@@ -813,7 +813,7 @@
    "シェン"
   ],
   "jp": "兄者……どうもあの蟲使い――バ・{n}ソリーとか言ったか、奴を見ると三途{n}の川辺の花畑とやらが思い起こされて{n}ならん。傷による錯覚か……？",
-  "en": "Brother... Somehow, when I see that bug{n}tamer -- Ba Thory, was it? -- I can't help{n}picturing the field of flowers on the bank of{n}the River of Death. An illusion from my{page}wound...?"
+  "en": "Brother... Somehow, when I see that bug{n}tamer -- Ba Thory, was it? -- I can't help{n}picturing the field of flowers on the bank{page}of the River of Death. An illusion from my{n}wound...?"
  },
  {
   "id": "s0076_014c0",
@@ -1077,7 +1077,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "……他の奴もそうか。やっぱりな",
-  "en": "...Same for the rest of you, huh? Thought{n}so."
+  "en": "...Same for the rest of you, huh?{n}Thought so."
  },
  {
   "id": "s0076_018e4",
@@ -1125,7 +1125,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "サイクスの奴も言ってたが、ここは{n}次元的・空間的に孤立した世界らしい。{n}そこにいる人間は、放り込まれた{n}俺たちの係累だけってこった",
-  "en": "Like Sykes said, this place seems to be a{n}world cut off in space and between{n}dimensions. The only humans here are the{n}ones who got tossed in, and they're all{page}tied to us."
+  "en": "Like Sykes said, this place seems to be a{n}world cut off in space and between{n}dimensions. The only humans here are the{page}ones who got tossed in, and they're all tied{n}to us."
  },
  {
   "id": "s0076_019d0",
@@ -1173,7 +1173,7 @@
    "ヨルグ"
   ],
   "jp": "……記憶を奪い、同士討ちを誘って{n}いるのか？　俺たちをこの地に導いた{n}何者かが？",
-  "en": "...They steal our memories to lure us into{n}killing each other? Whoever led us to this{n}land?"
+  "en": "...They steal our memories to lure us into{n}killing each other? Whoever led us to{n}this land?"
  },
  {
   "id": "s0076_01a88",
@@ -1461,7 +1461,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "姿を現したのは異風の忍び装束に身を{n}包んだ若い男であった。線は細いが{n}鍛え抜かれた肉体は、剃刀の冴えを{n}思わせる。生前は疑うことなく手練れ{n}だったであろう青年忍者の霊体である。{page}生真面目そうな、その端正な顔立ちは、{n}紛れもなく先刻、Ｄ・Ｓを導くべく{n}ヨーコ球に宿った亡霊の容貌であった。",
-  "en": "The figure that appeared was a young{n}man in foreign ninja garb. His slender but{n}finely honed body called to mind the keen{n}edge of a razor. It was the spirit of a{n}young ninja who had doubtless been a{n}master in life.{page}That earnest, handsome face was{n}unmistakably that of the phantom who{n}had just possessed the Yoko orb to guide{n}D.S."
+  "en": "The figure that appeared was a young{n}man in foreign ninja garb. His slender but{n}finely honed body called to mind the keen{n}edge of a razor. It was the spirit of a{n}young ninja who had doubtless been a{n}master in life.{page}That earnest, handsome face was{n}unmistakably that of the phantom who{n}had just possessed the Yoko orb to{n}guide D.S."
  },
  {
   "id": "s0076_02404",
@@ -1893,7 +1893,7 @@
    "ジン"
   ],
   "jp": "“長年宿り続けた刀だけに、離れて{n}いてもその様子は伝わってくる。{n}あろうことか刀は持ち主の元さえ離れ、{n}邪な封印として悪用されているんだ！”",
-  "en": "\"I lived inside that sword for so many years{n}that I can sense it even from afar. And of{n}all things, the sword has left even its{n}owner's side, and it's being misused as an{page}evil seal!\""
+  "en": "\"I lived inside that sword for so many years{n}that I can sense it even from afar. And of{n}all things, the sword has left even its{page}owner's side, and it's being misused as an evil{n}seal!\""
  },
  {
   "id": "s0076_02b2c",
@@ -2013,7 +2013,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "あり得るな。亡霊が宿る刀ってのも、{n}妖気漂う鋼って話に符合する。それに{n}地龍が封印されてる場所も、この塔の{n}近辺が臭そうだしな",
-  "en": "Could be. A sword with a ghost in it fits the{n}story about steel that reeks of demon{n}energy. And the place where the Earth{n}Dragon's sealed smells like it's around this{page}tower, too."
+  "en": "Could be. A sword with a ghost in it fits the{n}story about steel that reeks of demon{n}energy. And the place where the Earth{page}Dragon's sealed smells like it's around this{n}tower, too."
  },
  {
   "id": "s0076_02cd8",
@@ -2181,7 +2181,7 @@
    "ジン"
   ],
   "jp": "“刀もだが、友のことが気になる。{n}それに、そもそもが妖刀の異名を取る{n}刀だ。オレが戻らない限り、封印から{n}外せないかも知れないぞ”",
-  "en": "\"I care about the sword, but I'm also{n}worried about my friend. Besides, that{n}sword's known as a cursed blade. Unless I{n}return to it, it may not come out of the{page}seal.\""
+  "en": "\"I care about the sword, but I'm also{n}worried about my friend. Besides, that{n}sword's known as a cursed blade. Unless I{page}return to it, it may not come out of the{n}seal.\""
  },
  {
   "id": "s0076_02f00",
@@ -2421,7 +2421,7 @@
    "ヴァイ"
   ],
   "jp": "駄々ってもしょうがないだろ。{n}ホント、ヨーコのコトになるとガキ{n}だよな、アンタは！",
-  "en": "Throwing a tantrum won't help. Seriously,{n}you turn into a little kid when it comes to{n}Yoko!"
+  "en": "Throwing a tantrum won't help. Seriously,{n}you turn into a little kid when it comes{n}to Yoko!"
  },
  {
   "id": "s0076_0336c",
@@ -2445,7 +2445,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "呼び捨てにすんなーっ！　あーもう、{n}仕方ねえ！　その刀とやらを探して、{n}早いところジンのヤツをひっぺがして{n}やらあ！",
-  "en": "Don't you drop the -san! Argh, fine! We'll find{n}that sword and peel that guy Jin off her,{n}fast!"
+  "en": "Don't you drop the -san! Argh, fine! We'll find{n}that sword and peel that guy Jin off{n}her, fast!"
  },
  {
   "id": "s0076_03928",

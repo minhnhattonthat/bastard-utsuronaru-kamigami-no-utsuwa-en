@@ -357,7 +357,7 @@
    "サイクス"
   ],
   "jp": "強力な催眠念波に操られているな。{n}この馬頭の石像が怪しい。ひとまず{n}ここを離れたほうがいいだろう",
-  "en": "A powerful hypnotic psychic wave is{n}controlling him. This horsehead statue looks{n}suspicious. I suggest we leave here for{n}now."
+  "en": "A powerful hypnotic psychic wave is{n}controlling him. This horsehead statue looks{n}suspicious. I suggest we leave here{n}for now."
  },
  {
   "id": "s0158_00c34",
@@ -621,7 +621,7 @@
    "ジオン"
   ],
   "jp": "凄まじい勢いをもって降り注ぐ巨大な{n}白刃を、ジオンのかざした漆黒の刀身{n}――黒夜叉が弾いた。刃の擦れ合う音{n}が響き、飛び散る火花が大気に焦げた{n}匂いを残す。",
-  "en": "The huge white blade pouring down with{n}terrific force was knocked aside by Zion's{n}raised jet-black sword, the Black Yaksha.{n}Blades shrieked against each other, and{n}flying sparks left a scorched smell in the{n}air."
+  "en": "The huge white blade pouring down with{n}terrific force was knocked aside by Zion's{n}raised jet-black sword, the Black Yaksha.{n}Blades shrieked against each other, and{n}flying sparks left a scorched smell in{n}the air."
  },
  {
   "id": "s0158_01304",
@@ -741,7 +741,7 @@
    "ラン"
   ],
   "jp": "母なる森を踏みにじる侵略者どもめ。{n}樹海の守人たるこの黒騎士ラン、神聖{n}不可侵の母御がため、貴様らの血肉を{n}木々の滋養としてくれよう！",
-  "en": "Invaders who trample our mother forest. I,{n}Ran the Black Knight, guardian of the sea of{n}trees, shall make your flesh and blood food{n}for the trees, for the sake of our sacred,{page}inviolable mother!"
+  "en": "Invaders who trample our mother forest. I,{n}Ran the Black Knight, guardian of the sea of{n}trees, shall make your flesh and blood{page}food for the trees, for the sake of our{n}sacred, inviolable mother!"
  },
  {
   "id": "s0158_0155c",
@@ -909,7 +909,7 @@
    "ヴァイ"
   ],
   "jp": "う……やっぱりココだよ……俺は{n}ダメェ……",
-  "en": "Ugh... It's this place after all... I can't take{n}it..."
+  "en": "Ugh... It's this place after all... I can't{n}take it..."
  },
  {
   "id": "s0158_01980",
@@ -1269,7 +1269,7 @@
    "カイ"
   ],
   "jp": "鎮座する三体の石像の、その中央に{n}魔雷妃の最後の幻体であろう、ハーフ{n}エルフの姿が浮かび上がっていた。",
-  "en": "In the midst of three seated statues{n}there floated a half-elf figure, surely the{n}Demon Thunder Queen's last phantom{n}body."
+  "en": "In the midst of three seated statues{n}there floated a half-elf figure, surely the{n}Demon Thunder Queen's last{n}phantom body."
  },
  {
   "id": "s0158_01ce4",
@@ -1365,7 +1365,7 @@
    "カイ"
   ],
   "jp": "お前はその程度の男ではなかった{n}はずだぞ、ラン！",
-  "en": "You were never so small a man as this,{n}Ran!"
+  "en": "You were never so small a man as{n}this, Ran!"
  },
  {
   "id": "s0158_01ecc",
@@ -1581,7 +1581,7 @@
    "ネイ"
   ],
   "jp": "鎧の拘束が弛み、ランは激しく息を{n}吐いて意識を失った。動揺した幻体は{n}輪郭を不規則に歪め、妖婦の衣を剥ぎ{n}取られそうに揺らめく。{page}と、中央の石像の目が妖しく光り、{n}そこから真紅の巨馬の幻影が躍り出て{n}魔雷妃の幻体と融合した。",
-  "en": "The armor's grip loosened, and Ran let out{n}a violent breath and lost consciousness.{n}The shaken phantom's outline warped{n}unevenly and wavered, as if her{n}seductress's robe were being torn{n}away.{page}Then the eyes of the central statue{n}gleamed strangely, a phantom of a giant{n}crimson horse leapt out, and it merged{n}with the Demon Thunder Queen's{n}phantom."
+  "en": "The armor's grip loosened, and Ran let out{n}a violent breath and lost consciousness.{n}The shaken phantom's outline warped{n}unevenly and wavered, as if her{n}seductress's robe were being{n}torn away.{page}Then the eyes of the central statue{n}gleamed strangely, a phantom of a giant{n}crimson horse leapt out, and it merged{n}with the Demon Thunder Queen's{n}phantom."
  },
  {
   "id": "s0158_022f0",
@@ -2013,7 +2013,7 @@
    "マカパイン"
   ],
   "jp": "フ……余計な手出しだったかも知れん{n}な。ともに闘ってみて判ったが、{n}今の私では歯が立たぬ強さだ、貴様は{n}――",
-  "en": "Heh... Perhaps I need not have meddled.{n}Fighting beside you has shown me that you{n}are stronger than I can match as I am{n}now--"
+  "en": "Heh... Perhaps I need not have meddled.{n}Fighting beside you has shown me that you{n}are stronger than I can match as I{n}am now--"
  },
  {
   "id": "s0158_029a4",
@@ -2253,7 +2253,7 @@
    "マカパイン"
   ],
   "jp": "……いいのか？　また裏切るかも{n}知れんのだぞ？",
-  "en": "...Are you sure? I may betray you again, you{n}know?"
+  "en": "...Are you sure? I may betray you again,{n}you know?"
  },
  {
   "id": "s0158_02be0",
@@ -2397,7 +2397,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "おっ！　首筋にウンディーネのキス{n}マークが！",
-  "en": "Whoa! There's an Undine kiss mark on your{n}neck!"
+  "en": "Whoa! There's an Undine kiss mark on{n}your neck!"
  },
  {
   "id": "s0158_02e08",
@@ -2829,7 +2829,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "ランはこの森の番人を任されていた{n}ため、龍樹の入口を開くための鍵も{n}授けられていた。",
-  "en": "Having been charged with guarding this{n}forest, Ran had also been given the key{n}to open the entrance to the Dragon{n}Tree."
+  "en": "Having been charged with guarding this{n}forest, Ran had also been given the key{n}to open the entrance to the{n}Dragon Tree."
  },
  {
   "id": "s0158_03480",
@@ -3311,7 +3311,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "あれれじゃねーよ。訊きてえのは{n}コッチのほうだぜ",
-  "en": "Don't \"huh\" me. That's what I wanna ask{n}you."
+  "en": "Don't \"huh\" me. That's what I wanna{n}ask you."
  },
  {
   "id": "s0158_043b4",

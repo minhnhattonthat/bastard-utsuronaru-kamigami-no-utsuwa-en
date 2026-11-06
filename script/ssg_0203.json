@@ -213,7 +213,7 @@
    "シーン"
   ],
   "jp": "今のネイ様は、Ｄ・Ｓの娘のネイ様な{n}のよ。考えて見ればわたしたち、いつ{n}も鬼道衆の前で気を張っていた、母親{n}としてのネイ様しか知らないものね",
-  "en": "The Nei-sama we see now is Nei-sama as{n}D.S.'s daughter. When you think about it,{n}we've only ever known her as a mother,{n}always on her guard before the Kido{page}Corps."
+  "en": "The Nei-sama we see now is Nei-sama as{n}D.S.'s daughter. When you think about it,{n}we've only ever known her as a mother,{page}always on her guard before the Kido{n}Corps."
  },
  {
   "id": "s0203_00b10",
@@ -381,6 +381,6 @@
    "ネイ"
   ],
   "jp": "娘じゃないわよー！　私はダーシュの{n}恋人でしょーっ！　キィーッ！",
-  "en": "I'm not your daughter! I'm your lover, Dahsh!{n}Grrr!"
+  "en": "I'm not your daughter! I'm your lover,{n}Dahsh! Grrr!"
  }
 ]

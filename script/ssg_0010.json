@@ -141,7 +141,7 @@
    ""
   ],
   "jp": "その瞬間、『彼』――Ｄ・Ｓは{n}覚醒した。眠りの罠が閉じる寸前、{n}彼の意識は光なき深海から{n}一瞬に浮上を遂げたのであった。",
-  "en": "In that instant 'he' -- D.S. -- awoke. As the{n}trap of sleep was about to snap shut, his{n}mind rose at a stroke from the lightless{n}deep."
+  "en": "In that instant 'he' -- D.S. -- awoke. As the{n}trap of sleep was about to snap shut, his{n}mind rose at a stroke from the{n}lightless deep."
  },
  {
   "id": "s0010_00aa4",
@@ -525,7 +525,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "キミは俺の大切な女だ。そして{n}俺に助けを求めてる……それだけは{n}ハッキリと判るぜ。待ってろよ。{n}必ず見つけだしてやるからな",
-  "en": "You're my precious woman. And you're calling{n}to me for help... that much I know for damn{n}sure. Hang on. I'll find you, no matter{n}what."
+  "en": "You're my precious woman. And you're calling{n}to me for help... that much I know for damn{n}sure. Hang on. I'll find you, no{n}matter what."
  },
  {
   "id": "s0010_013c4",
@@ -789,7 +789,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "！　ヨーコさんのコトが判るのか!?{n}おい、はっきりしやがれ！",
-  "en": "! You know about Yoko-san!? Hey, spit it{n}out!"
+  "en": "! You know about Yoko-san!? Hey, spit{n}it out!"
  },
  {
   "id": "s0010_01b94",
@@ -981,7 +981,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "何がうーんだ。テキトーなこと{n}抜かしやがって。大体テメエはどこの{n}誰だ？　何でヨーコさんを知ってる？{n}それからここはどこだ？",
-  "en": "What's with the \"hmmm\"? Quit spouting crap.{n}Who the hell are you, anyway? How do you{n}know Yoko-san? And where the hell is{n}this?"
+  "en": "What's with the \"hmmm\"? Quit spouting crap.{n}Who the hell are you, anyway? How do you{n}know Yoko-san? And where the hell{n}is this?"
  },
  {
   "id": "s0010_01e78",
@@ -1077,7 +1077,7 @@
    "ヴァイ"
   ],
   "jp": "それが、その珠を見た途端にパッと{n}ヨーコのことだけ頭に蘇ったんだ。{n}アンタ……いや、名前は思い出せるぜ。{n}Ｄ・Ｓ……そうだよな？",
-  "en": "But the second I saw that orb, Yoko alone{n}popped back in my head. You're... no wait, I{n}can remember your name. D.S.... that's right,{n}huh?"
+  "en": "But the second I saw that orb, Yoko alone{n}popped back in my head. You're... no wait, I{n}can remember your name. D.S.... that's{n}right, huh?"
  },
  {
   "id": "s0010_02028",
@@ -1701,7 +1701,7 @@
    "ヴァイ"
   ],
   "jp": "浅瀬に引っかかるようにして、小さな{n}舟が岩壁の下で波に洗われていた。{n}恐らくは竜船に装備された救命艇が{n}外れ、ここに打ち寄せられたのだろう。",
-  "en": "Snagged in the shallows, a small boat was{n}being washed by the waves below the{n}cliff. It was likely a lifeboat from the{n}Dragon Ship, broken loose and cast up{n}here."
+  "en": "Snagged in the shallows, a small boat was{n}being washed by the waves below the{n}cliff. It was likely a lifeboat from the{n}Dragon Ship, broken loose and cast{n}up here."
  },
  {
   "id": "s0010_02c68",
@@ -1725,7 +1725,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "さっきまでは流れ着いてなかったんだ{n}がな、こんな舟――",
-  "en": "This boat sure as hell wasn't here a minute{n}ago--"
+  "en": "This boat sure as hell wasn't here a{n}minute ago--"
  },
  {
   "id": "s0010_02ca0",

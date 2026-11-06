@@ -21,7 +21,7 @@
    ""
   ],
   "jp": "洞窟に侵入して少し進むと、背後の{n}入口が再び塞がれる音が響いた。",
-  "en": "They entered the cave and had gone only{n}a little way when the sound of the{n}entrance sealing again echoed behind{n}them."
+  "en": "They entered the cave and had gone only{n}a little way when the sound of the{n}entrance sealing again echoed{n}behind them."
  },
  {
   "id": "s0034_0085c",
@@ -465,7 +465,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "奇妙な柱の間を通過した途端、鋭い{n}痛みが一行を襲った。見ると、返り血{n}を浴びて浮かび上がった妖斬糸が、{n}そこに無数に仕掛けられていた。",
-  "en": "The moment they passed between the{n}strange pillars, a sharp pain struck the{n}party. They looked, and there, standing{n}out in the spatter of their own blood,{n}were countless strands of demon-slash{n}wire."
+  "en": "The moment they passed between the{n}strange pillars, a sharp pain struck the{n}party. They looked, and there, standing{n}out in the spatter of their own blood,{n}were countless strands of{n}demon-slash wire."
  },
  {
   "id": "s0034_0120c",
@@ -1111,6 +1111,6 @@
    "ヴァイ"
   ],
   "jp": "こっちからじゃ開けられそうにないぜ",
-  "en": "Doesn't look like we can open it from this{n}side."
+  "en": "Doesn't look like we can open it from{n}this side."
  }
 ]

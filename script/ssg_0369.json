@@ -45,7 +45,7 @@
    ""
   ],
   "jp": "クリスタルの中心に、ティア・ノート・{n}ヨーコがいた。",
-  "en": "At the center of the crystal was Tia Noto{n}Yoko."
+  "en": "At the center of the crystal was Tia{n}Noto Yoko."
  },
  {
   "id": "s0369_0089c",
@@ -120,7 +120,7 @@
    "ヨーコ"
   ],
   "jp": "Ｄ・Ｓの呼びかけに、ヨーコは何ら{n}反応を示さなかった。光のない瞳は{n}何も映すことなく、意志なき人形の{n}如くに虚空を見つめている。",
-  "en": "Yoko showed no reaction to D.S.'s call. Her{n}lightless eyes reflected nothing, gazing{n}into empty space like a doll without a{n}will."
+  "en": "Yoko showed no reaction to D.S.'s call. Her{n}lightless eyes reflected nothing, gazing{n}into empty space like a doll without{n}a will."
  },
  {
   "id": "s0369_00934",
@@ -242,7 +242,7 @@
    "カル"
   ],
   "jp": "ククク……少々遅かったようだな",
-  "en": "Heh heh heh... It seems you are a little{n}late."
+  "en": "Heh heh heh... It seems you are a{n}little late."
  },
  {
   "id": "s0369_00a18",
@@ -362,7 +362,7 @@
    "ヨーコ"
   ],
   "jp": "不可視の縛鎖に囚われたヨーコの{n}傍らに、ひとりの男がいた。",
-  "en": "Beside Yoko, held by invisible chains, was a{n}man."
+  "en": "Beside Yoko, held by invisible chains, was{n}a man."
  },
  {
   "id": "s0369_00bb8",
@@ -914,7 +914,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "創造神も地獄の魔王も、我々の前には{n}ひれ伏すほかなくなるだろう。かつて{n}お前が望んだ世界征服――いや、宇宙{n}を掌握することさえ可能なのだ！",
-  "en": "The Creator God and the Demon King of Hell{n}alike will have no choice but to prostrate{n}themselves before us. The world conquest{n}you once desired-- no, even grasping the{page}universe is possible!"
+  "en": "The Creator God and the Demon King of Hell{n}alike will have no choice but to prostrate{n}themselves before us. The world conquest{page}you once desired-- no, even grasping the{n}universe is possible!"
  },
  {
   "id": "s0369_0139c",
@@ -2475,7 +2475,7 @@
    "アビゲイル"
   ],
   "jp": "かつて、絶命したヨーコを救うため、{n}Ｄ・Ｓは“輸魂の秘法”と呼ばれる{n}秘術を用いた。己の生命エネルギーを{n}分け与えることにより、死にゆく者の{n}魂を現世に繋ぎ止める高等秘術――{n}それは結果として、Ｄ・Ｓとヨーコの{n}魂に共有部分を生み出すことになった。",
-  "en": "Long ago, to save Yoko, who had{n}breathed her last, D.S. used a hidden{n}technique called the \"secret art of Soul{n}Transfusion\". A high art that ties a dying{n}soul to this world by sharing one's own{n}life energy-- as a result, it created a{n}shared part in the souls of D.S. and{n}Yoko."
+  "en": "Long ago, to save Yoko, who had{n}breathed her last, D.S. used a hidden{n}technique called the \"secret art of Soul{n}Transfusion\". A high art that ties a dying{n}soul to this world by sharing one's own{n}life energy-- as a result, it created a{n}shared part in the souls of D.S.{n}and Yoko."
  },
  {
   "id": "s0369_02a0c",
@@ -2577,7 +2577,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "だが、それはほんの紙一重の差で間に{n}合った。ヨーコの認識はほぼ完全に{n}書き替わり、Ｄ・Ｓは指一本動かせぬ{n}呪縛に自由を奪われた。あとはわずか{n}に残るヨーコの抵抗を取り除くことで、{n}Ｄ・Ｓと呼ばれる人格は完璧に抹消{n}される。九分通り、虚神王は勝利を{n}手中にしたのだった。",
-  "en": "Yet it was done in time, by a hair's{n}breadth. Yoko's recognition was almost{n}wholly rewritten, and D.S. lost his freedom{n}to a curse that left him unable to move a{n}finger. Now, removing what little{n}resistance Yoko had left would erase the{n}personality called D.S. completely. Victory{n}was nine-tenths in the Hollow God King's{page}grasp."
+  "en": "Yet it was done in time, by a hair's{n}breadth. Yoko's recognition was almost{n}wholly rewritten, and D.S. lost his freedom{n}to a curse that left him unable to move a{n}finger. Now, removing what little{n}resistance Yoko had left would erase the{n}personality called D.S. completely.{page}Victory was nine-tenths in the Hollow God{n}King's grasp."
  },
  {
   "id": "s0369_02dac",
@@ -2601,7 +2601,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "お前たちももう、観念するがいい。{n}頼りとする魔人はもはや虫の息だ。{n}この精神世界の消滅の後、現世で我と{n}創造神の闘いを見守るがいい――",
-  "en": "You too may as well resign yourselves. The{n}fiend you rely on is at his last breath. After{n}this spirit world is gone, you may watch my{n}battle with the Creator God from the{page}mortal world--"
+  "en": "You too may as well resign yourselves. The{n}fiend you rely on is at his last breath. After{n}this spirit world is gone, you may watch{page}my battle with the Creator God from the{n}mortal world--"
  },
  {
   "id": "s0369_02e34",
@@ -2745,7 +2745,7 @@
    "カル"
   ],
   "jp": "――身の程知らずが。まだ力の差が{n}判らぬのか、カル＝スよ？　良かろう。{n}お前たちが相手にしてきた虚神がどれ{n}だけ格下か、教えてやるとしよう",
-  "en": "--You do not know your place. Can you not{n}yet see the difference in power, Kall-Su?{n}Very well. I shall teach you how far beneath{n}me the Hollow Gods you have faced truly{page}are."
+  "en": "--You do not know your place. Can you not{n}yet see the difference in power, Kall-Su?{n}Very well. I shall teach you how far{page}beneath me the Hollow Gods you have faced{n}truly are."
  },
  {
   "id": "s0369_02ff4",
@@ -3258,7 +3258,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "――身の程知らずが。お前たちが{n}相手にしてきた虚神がどれだけ格下か{n}教えてやろう。その後でゆっくりと、{n}お前の人格を抹消してくれるわ――",
-  "en": "--You do not know your place. I shall teach{n}you how far beneath me the Hollow Gods{n}you have faced truly are. And after that, at{n}my leisure, I shall erase your{page}personality--"
+  "en": "--You do not know your place. I shall teach{n}you how far beneath me the Hollow Gods{n}you have faced truly are. And after that,{page}at my leisure, I shall erase your{n}personality--"
  },
  {
   "id": "s0369_037cc",
@@ -3666,7 +3666,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "ここは俺の世界だぜ！　こいつらを{n}別の精神チャンネルに放り込んでおく{n}のは大して難しい話じゃねえ",
-  "en": "This is my world! Tossing these guys into{n}another mental channel ain't all that{n}hard."
+  "en": "This is my world! Tossing these guys into{n}another mental channel ain't all{n}that hard."
  },
  {
   "id": "s0369_03dbc",
@@ -3978,7 +3978,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "多層次元に響き渡る断末魔の叫びを{n}残し、古代の神は完全に、あらゆる{n}次元から消滅した。虚ろなる神々の、{n}数百年をかけた企てとともに――。",
-  "en": "With a death scream echoing through the{n}many-layered dimensions, the ancient god{n}vanished utterly from every dimension.{n}Together with the scheme the hollow{n}gods had spent several hundred years{n}on--."
+  "en": "With a death scream echoing through the{n}many-layered dimensions, the ancient god{n}vanished utterly from every dimension.{n}Together with the scheme the hollow{n}gods had spent several hundred{n}years on--."
  },
  {
   "id": "s0369_04294",
@@ -4626,7 +4626,7 @@
    "ヴァイ"
   ],
   "jp": "さよなら！　アンガスぅ！",
-  "en": "Goodbye! Angusss!"
+  "en": "Goodbye! Angus!!"
  },
  {
   "id": "s0369_048e8",
@@ -5274,6 +5274,6 @@
    "ヨーコ"
   ],
   "jp": "ゴメンね、ルーシェ……。{n}でも、ボクたちはいつも一緒なんだよ。{n}心がいつも、繋がってる……{n}キミのこと……好きだよ",
-  "en": "Sorry, Lucien... But we're always together.{n}Our hearts are always joined... You... I love{n}you."
+  "en": "Sorry, Lucien... But we're always together.{n}Our hearts are always joined... You... I{n}love you."
  }
 ]

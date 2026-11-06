@@ -141,7 +141,7 @@
    "ヴァイ"
   ],
   "jp": "ヨシュアよう……お前も元気そうで{n}良かったぜ！",
-  "en": "Joshua, man... Glad to see you're doing okay{n}too!"
+  "en": "Joshua, man... Glad to see you're doing{n}okay too!"
  },
  {
   "id": "s0181_009cc",
@@ -189,7 +189,7 @@
    "ヨシュア"
   ],
   "jp": "ヨルグ……俺の勝手な頼み通り、{n}良くＤ・Ｓたちを支えてくれたな……{n}ありがとう",
-  "en": "Jorg... You have done well to support D.S.{n}and the others, as I selfishly asked... Thank{n}you."
+  "en": "Jorg... You have done well to support D.S.{n}and the others, as I selfishly asked...{n}Thank you."
  },
  {
   "id": "s0181_00a2c",
@@ -285,7 +285,7 @@
    "ヨシュア"
   ],
   "jp": "ヨシュアは宝石を受け取ると、その{n}大きさを測るように丹念に調べ始めた。",
-  "en": "Taking the jewel, Joshua began to{n}examine it with care, as if gauging its{n}size."
+  "en": "Taking the jewel, Joshua began to{n}examine it with care, as if gauging{n}its size."
  },
  {
   "id": "s0181_00b90",
@@ -333,7 +333,7 @@
    "ヨシュア"
   ],
   "jp": "壁画はこの先だ。俺も一緒に行こう",
-  "en": "The mural lies ahead. I shall come with{n}you."
+  "en": "The mural lies ahead. I shall come{n}with you."
  },
  {
   "id": "s0181_00c40",
@@ -1461,7 +1461,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "ここは差し当たっての目的とは関係{n}ねえようだが……強い魔力の波動が{n}ビンビン伝わってきやがるぜ",
-  "en": "Don't look like this has anything to do with{n}what we're after right now... But I'm getting{n}strong waves of magic coming off it, real{n}loud."
+  "en": "Don't look like this has anything to do with{n}what we're after right now... But I'm getting{n}strong waves of magic coming off it,{n}real loud."
  },
  {
   "id": "s0181_021f0",

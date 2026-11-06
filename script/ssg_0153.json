@@ -171,7 +171,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "　　　　　　　　　　　　　　　　　{n}　　哀れなるは風孕む龍　　　　　　{n}　　　翼の自由は失われ　　　　　　{n}　　　　樹の床に繋ぎ止められ　　　{n}　　　　　　　　　　　　　　　　　{n}　　戯れの死に　ただただ囚われ　　{n}　　　　　　　　　　　　　　　　　",
-  "en": "Pity the dragon that carries the wind{n}The freedom of its wings is lost{n}Bound fast upon a bed of wood{n}Prisoner of a death in jest, and nothing{n}more"
+  "en": "Pity the dragon that carries the wind{n}The freedom of its wings is lost{n}Bound fast upon a bed of wood{n}Prisoner of a death in jest, no more"
  },
  {
   "id": "s0153_00c44",
@@ -219,7 +219,7 @@
    "シェラ"
   ],
   "jp": "木々の声、風の嘆きが聞こえた……。{n}この森は残忍な悪意に満ちている。{n}龍は囚われ、この地もまた苦痛の{n}翳りに覆われているようだ……",
-  "en": "I heard the voices of the trees, the lament{n}of the wind... This forest is filled with cruel{n}malice. A dragon is held captive, and this{n}land, too, seems veiled in a shadow of{page}pain..."
+  "en": "I heard the voices of the trees, the lament{n}of the wind... This forest is filled with cruel{n}malice. A dragon is held captive, and this{page}land, too, seems veiled in a shadow of{n}pain..."
  },
  {
   "id": "s0153_00d4c",
@@ -1395,7 +1395,7 @@
    "シェン"
   ],
   "jp": "酷くやつれた様子のシェンが、牢獄の{n}中で身を起こそうとした。その周囲の{n}暗がりから無数の、糸のように細い{n}子蛇がさあっと散り、樹幹の亀裂に{n}潜り込んで姿を消した。見ればシェン{n}の剥き出しの肌には点々と小さな牙の{n}噛み痕が穿たれ、子蛇の群れが生き血{n}を啜ってじわじわと弱らせていたと{n}判る。",
-  "en": "Looking terribly haggard, Schen tried to{n}sit up inside the prison. From the darkness{n}around him countless baby snakes, thin as{n}thread, scattered in a rush, slipped into{n}cracks in the trunk and were gone. On{n}Schen's bare skin were dotted the marks{n}of tiny fangs, a sign that the swarm had{n}been drinking his blood and slowly{page}wearing him down."
+  "en": "Looking terribly haggard, Schen tried to{n}sit up inside the prison. From the darkness{n}around him countless baby snakes, thin as{n}thread, scattered in a rush, slipped into{n}cracks in the trunk and were gone. On{n}Schen's bare skin were dotted the marks{n}of tiny fangs, a sign that the swarm{page}had been drinking his blood and slowly{n}wearing him down."
  },
  {
   "id": "s0153_026d0",
@@ -1803,7 +1803,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "Ｄ・Ｓの声に、娘の幻体はハッとして{n}振り返った。その幼さを残した貌に、{n}一瞬悪戯を見咎められた子供のような{n}表情が過ぎる。だが、その刹那、娘の{n}衣服の胸元から滑り出てきた細い蛇が、{n}その褐色の首筋に鋭い牙を立てた。{page}少女の姿は急速に薄れ、幻体はそれに{n}憑いた、妖魔の人格と姿を表層に{n}浮かび上がらせる。",
-  "en": "At D.S.'s voice, the girl's phantom gasped{n}and whirled around. Across her{n}still-childish face passed, for a moment,{n}the look of a child caught in some{n}mischief. But in that same moment, a thin{n}snake slid from the bosom of her dress{n}and sank its sharp fangs into her brown{n}neck.{page}The girl's form faded fast, and to the{n}surface of the phantom rose the persona{n}and shape of the demon possessing it."
+  "en": "At D.S.'s voice, the girl's phantom gasped{n}and whirled around. Across her{n}still-childish face passed, for a moment,{n}the look of a child caught in some{n}mischief. But in that same moment, a thin{n}snake slid from the bosom of her dress{n}and sank its sharp fangs into her{n}brown neck.{page}The girl's form faded fast, and to the{n}surface of the phantom rose the persona{n}and shape of the demon possessing it."
  },
  {
   "id": "s0153_02d9c",
@@ -2597,7 +2597,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "オマエ……誰だ？　俺の知っている{n}女じゃねえのか？",
-  "en": "You... Who are you? Ain't you a woman I{n}know?"
+  "en": "You... Who are you? Ain't you a woman{n}I know?"
  },
  {
   "id": "s0153_03974",
@@ -3483,6 +3483,6 @@
    "ジオン"
   ],
   "jp": "シェンが捕まってるのはそっちじゃ{n}ない！　急いでくれＤ・Ｓ！",
-  "en": "That is not where Schen is caught! Hurry,{n}D.S.!"
+  "en": "That is not where Schen is caught!{n}Hurry, D.S.!"
  }
 ]

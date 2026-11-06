@@ -621,7 +621,7 @@
    "ブラド"
   ],
   "jp": "貴様ぁ、数の脅しにこのブラドが{n}屈すると思ったか！　婦女子を多勢で{n}追い回すなど卑劣の極み、これでも{n}くらえい！",
-  "en": "Cur! Did you think I, Blad, would bow to a{n}threat of numbers! A whole gang hounding{n}one lady is the height of villainy! Have at{n}you!"
+  "en": "Cur! Did you think I, Blad, would bow to a{n}threat of numbers! A whole gang hounding{n}one lady is the height of villainy! Have{n}at you!"
  },
  {
   "id": "s0038_01554",
@@ -1533,7 +1533,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "アホウ。判らねえガキだぜ",
-  "en": "You moron. You really don't get it, do you,{n}kid."
+  "en": "You moron. You really don't get it, do{n}you, kid."
  },
  {
   "id": "s0038_022e4",
@@ -1797,7 +1797,7 @@
    "ボル"
   ],
   "jp": "その時であった。彼らの眼前の空間{n}――何も存在せぬ虚空に、そこだけ{n}陽炎が揺らめくような、あるいは{n}大気に波紋が生じたかの如き変化が{n}起こり始めた。向こう側の風景は{n}歪なレンズを通して見たかに屈折し、{n}やがて全く異なる光景――ねじれた{n}異次元の眺めを映す窓となる。",
-  "en": "It was then. In the space before their{n}eyes, an empty void with nothing in it, a{n}change began, as though a heat haze{n}wavered there alone, or ripples had{n}formed in the air. The scenery beyond{n}bent as if seen through a warped lens,{n}and at last became a window on another{n}sight entirely: the view of a twisted{page}other dimension."
+  "en": "It was then. In the space before their{n}eyes, an empty void with nothing in it, a{n}change began, as though a heat haze{n}wavered there alone, or ripples had{n}formed in the air. The scenery beyond{n}bent as if seen through a warped lens,{n}and at last became a window on{page}another sight entirely: the view of a{n}twisted other dimension."
  },
  {
   "id": "s0038_02730",
@@ -2229,7 +2229,7 @@
    "サイクス"
   ],
   "jp": "鬼忍将はあの自走砦を異次元に持ち{n}出すのが目的らしい。砦が所定位置に{n}つく前に門――“破界門”が開いては{n}元も子もないということさ",
-  "en": "The High Ninja's aim seems to be carrying{n}that walking fort off to another dimension.{n}If the gate, the \"World-Breaker Gate\",{n}opened before the fort was in position, all{page}would be lost."
+  "en": "The High Ninja's aim seems to be carrying{n}that walking fort off to another dimension.{n}If the gate, the \"World-Breaker Gate\",{page}opened before the fort was in position, all{n}would be lost."
  },
  {
   "id": "s0038_02da4",
@@ -2373,7 +2373,7 @@
    "サイクス"
   ],
   "jp": "次元的にはひとつ、孤立した世界で{n}あるらしい。私の移動する亜空間も、{n}この世界以外にはアクセスできない。{n}我々はそこに放り出されているわけだ",
-  "en": "In dimensional terms it appears to be a{n}single, isolated world. Even the subspace I{n}travel in has no access to anywhere but{n}this world. And we have been cast out{page}into it."
+  "en": "In dimensional terms it appears to be a{n}single, isolated world. Even the subspace I{n}travel in has no access to anywhere but{page}this world. And we have been cast out{n}into it."
  },
  {
   "id": "s0038_03008",
@@ -2421,7 +2421,7 @@
    "サイクス"
   ],
   "jp": "……恐ろしい男だな。ビンゴだよ。{n}正体は私にも判らないが、途轍もない{n}魔力を持つ者たちの存在が察知できる。{n}それらが我々をこの事態に陥れ……！",
-  "en": "...You are a frightening man. Bingo. Even I do{n}not know who they are, but I can sense{n}beings of tremendous magical power. They{n}are the ones who put us in this situation,{page}and...!"
+  "en": "...You are a frightening man. Bingo. Even I do{n}not know who they are, but I can sense{n}beings of tremendous magical power. They{page}are the ones who put us in this situation,{n}and...!"
  },
  {
   "id": "s0038_03128",
@@ -2709,7 +2709,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "死を目前にした猟犬の、最期の咆哮が{n}大気を震わせる。風景が歪みそうな、{n}凄まじいまでの絶叫であった。",
-  "en": "The last howl of the hound, facing death,{n}shook the air. It was a scream so terrible{n}that the very landscape seemed to{n}warp."
+  "en": "The last howl of the hound, facing death,{n}shook the air. It was a scream so terrible{n}that the very landscape seemed{n}to warp."
  },
  {
   "id": "s0038_03568",
@@ -3240,7 +3240,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "勝手にしやがれ！　おっ死んでも{n}知らねーぞ",
-  "en": "Do what you want! If you croak, I don't{n}care."
+  "en": "Do what you want! If you croak, I{n}don't care."
  },
  {
   "id": "s0038_03d10",
@@ -3264,7 +3264,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "ようし、俺たちも自走砦を追うぜ",
-  "en": "All right, let's go after the walking fort{n}too."
+  "en": "All right, let's go after the walking{n}fort too."
  },
  {
   "id": "s0038_03d30",
@@ -3432,7 +3432,7 @@
    "ヴァイ"
   ],
   "jp": "胴を真っ二つに両断された屍を見て、{n}Ｄ・Ｓは先刻感じた忍者たちの歪さの{n}正体を知った。全身を包む忍び装束の{n}下に隠されていたのは、人類の敵対{n}種族である邪悪な亜人種ゴブリンの{n}醜悪な肉体であり、他の屍も例外なく、{n}人間はただの一人も存在しなかった。",
-  "en": "Looking at a corpse cut clean in two at{n}the waist, D.S. learned the truth of the{n}deformity he had sensed in the ninjas.{n}Hidden beneath the ninja garb was the{n}hideous body of a goblin, of the evil{n}demi-human race that was mankind's{n}enemy. The other corpses were no{n}exception. Not one human was among{page}them."
+  "en": "Looking at a corpse cut clean in two at{n}the waist, D.S. learned the truth of the{n}deformity he had sensed in the ninjas.{n}Hidden beneath the ninja garb was the{n}hideous body of a goblin, of the evil{n}demi-human race that was mankind's{n}enemy. The other corpses were no{page}exception. Not one human was{n}among them."
  },
  {
   "id": "s0038_05020",
@@ -3528,7 +3528,7 @@
    "ヴァイ"
   ],
   "jp": "おっ！　どうやら俺たちにも相手が{n}残ってるみたいだぜ",
-  "en": "Hey! Looks like there's still some left for{n}us."
+  "en": "Hey! Looks like there's still some left{n}for us."
  },
  {
   "id": "s0038_05168",
@@ -3888,7 +3888,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "今は構ってるヒマはねえ！　急ぐぜ！",
-  "en": "We got no time to mess with it now! Hurry{n}up!"
+  "en": "We got no time to mess with it now!{n}Hurry up!"
  },
  {
   "id": "s0038_05930",
@@ -3984,7 +3984,7 @@
    "サイクス"
   ],
   "jp": "それがだな……猟犬を封印した際の{n}次元断層が亜空間に歪みを発生させて、{n}どうも私の越次元能力に過干渉して{n}いるらしい",
-  "en": "About that... The dimensional fault from{n}when I sealed the hound has caused a{n}distortion in subspace, and it seems to be{n}interfering badly with my{page}dimension-crossing ability."
+  "en": "About that... The dimensional fault from{n}when I sealed the hound has caused a{n}distortion in subspace, and it seems to be{page}interfering badly with my dimension-crossing{n}ability."
  },
  {
   "id": "s0038_05b10",
@@ -4008,7 +4008,7 @@
    "サイクス"
   ],
   "jp": "ブースターの増幅が効き過ぎたのか、{n}歪みは一向に収まる気配がない。{n}有り体に言って、やり過ぎたという{n}わけだな。ハハハッ",
-  "en": "Perhaps the booster's amplification was too{n}strong, but the distortion shows no sign of{n}settling. To put it plainly, I overdid it. Ha ha{n}ha!"
+  "en": "Perhaps the booster's amplification was too{n}strong, but the distortion shows no sign of{n}settling. To put it plainly, I overdid it. Ha{n}ha ha!"
  },
  {
   "id": "s0038_05b88",
@@ -4320,7 +4320,7 @@
    "ザック"
   ],
   "jp": "お前みたいに若い頃から性根が{n}曲がった野郎はきっと将来取り返しが{n}つかない悪党になる。今のうちに俺の{n}拳で矯正してやるからな",
-  "en": "A guy who's rotten this young is gonna grow{n}up into a villain past saving. I'll straighten{n}you out with my fists while there's still{n}time."
+  "en": "A guy who's rotten this young is gonna grow{n}up into a villain past saving. I'll straighten{n}you out with my fists while there's{n}still time."
  },
  {
   "id": "s0038_06270",
@@ -4560,7 +4560,7 @@
    "ザック"
   ],
   "jp": "うぐぐ……確かに口の悪さも親玉級{n}だぜ……だが、これではっきりしたぜ！{n}Ｄ・Ｓって奴に関して鬼忍将が言った{n}コトに偽りはない！　成敗してやる！",
-  "en": "Ugh... He's got a boss-level bad mouth, all{n}right... But now it's clear! What the High Ninja{n}said about this guy D.S. was no lie! I'll punish{n}you!"
+  "en": "Ugh... He's got a boss-level bad mouth, all{n}right... But now it's clear! What the High Ninja{n}said about this guy D.S. was no lie! I'll{n}punish you!"
  },
  {
   "id": "s0038_066f4",
@@ -5014,7 +5014,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "そうなんだよな。ここで時間を{n}つぶしてていいわきゃねーし",
-  "en": "That's the thing. We can't sit here killing{n}time."
+  "en": "That's the thing. We can't sit here{n}killing time."
  },
  {
   "id": "s0038_06b68",
@@ -5062,7 +5062,7 @@
    "ヴァイ"
   ],
   "jp": "あーあ、意地になっちゃったよ。{n}ガキだねー",
-  "en": "Oh, boy. Now he's being stubborn. What a{n}kid."
+  "en": "Oh, boy. Now he's being stubborn. What{n}a kid."
  },
  {
   "id": "s0038_06bf0",
@@ -5420,7 +5420,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "この鬼哭関とやらが開かないことは{n}ハッキリしてんだ。これ以上テメエに{n}かかずらってるヒマはねーんだよ",
-  "en": "It's clear this Ogre Wail Gate thing ain't{n}opening. I got no more time to waste on{n}you."
+  "en": "It's clear this Ogre Wail Gate thing ain't{n}opening. I got no more time to waste{n}on you."
  },
  {
   "id": "s0038_06f80",
@@ -5828,6 +5828,6 @@
    "ヴァイ"
   ],
   "jp": "おい！　早く関を調べようぜ！",
-  "en": "Hey! Let's hurry up and check out the{n}gate!"
+  "en": "Hey! Let's hurry up and check out{n}the gate!"
  }
 ]

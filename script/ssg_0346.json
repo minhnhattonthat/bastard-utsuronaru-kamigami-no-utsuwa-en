@@ -69,7 +69,7 @@
    "暗黒僧"
   ],
   "jp": "よもやこの癌臓宮の最奥部まで辿り{n}着こうとはな。さすがは伝説の魔人、{n}地獄の皇太子とまで謳われたＤ・Ｓだ。{n}癌生物どもでは足止めにもならん……",
-  "en": "So you have reached the very depths of{n}this Cancer Palace. Truly the legendary{n}fiend, D.S., sung of as the Crown Prince of{n}Hell. The cancer creatures could not even{page}slow you..."
+  "en": "So you have reached the very depths of{n}this Cancer Palace. Truly the legendary{n}fiend, D.S., sung of as the Crown Prince of{page}Hell. The cancer creatures could not even{n}slow you..."
  },
  {
   "id": "s0346_009a4",
@@ -93,7 +93,7 @@
    "暗黒僧"
   ],
   "jp": "ゆらり、と暗黒僧は立ち上がった。",
-  "en": "The Dark Priest swayed slowly to his{n}feet."
+  "en": "The Dark Priest swayed slowly to{n}his feet."
  },
  {
   "id": "s0346_009c8",
@@ -309,7 +309,7 @@
    "アビゲイル"
   ],
   "jp": "アビゲイル――予測した通り、暗黒僧{n}の正体はＤ・Ｓ四天王最後のひとりで{n}あった。彼もまたガラやネイと同じく{n}敵の精神支配を受けていることは明白{n}であったが、ふたりとは違って名前を{n}封じられてはおらぬ。記憶も奪われて{n}はいない様子で、彼の精神を拘束して{n}いるのは、これまでとは全く異なる術{n}であるらしかった。",
-  "en": "Abigail-- As predicted, the Dark Priest{n}proved to be the last of D.S.'s Divine Kings.{n}Clearly he too, like Gara and Nei, was{n}under the enemy's mind control, but unlike{n}those two his name had not been sealed.{n}Nor did his memories seem to have been{n}stolen; what bound his mind was, it{n}appeared, an art wholly unlike those{page}before."
+  "en": "Abigail-- As predicted, the Dark Priest{n}proved to be the last of D.S.'s Divine Kings.{n}Clearly he too, like Gara and Nei, was{n}under the enemy's mind control, but unlike{n}those two his name had not been sealed.{n}Nor did his memories seem to have been{n}stolen; what bound his mind was, it{page}appeared, an art wholly unlike those{n}before."
  },
  {
   "id": "s0346_00d8c",
@@ -885,7 +885,7 @@
    "アビゲイル"
   ],
   "jp": "Ｄ・Ｓもまた、霊子力理論によって{n}派生した科学の産物であった。破壊神{n}とはコンセプトを全く異にした、人の{n}脳に施された霊的能力のリミッターを{n}外すことで無限の霊子力を生み出そうと{n}する試み――その実験の中でＤ・Ｓ{n}は誕生した。",
-  "en": "D.S. too was a product of science, born of{n}spirit power theory. His concept was{n}wholly unlike that of the god of{n}destruction: an attempt to produce{n}infinite spirit power by removing the{n}limiter on spiritual ability set in the human{n}brain. From that experiment D.S. was{n}born."
+  "en": "D.S. too was a product of science, born of{n}spirit power theory. His concept was{n}wholly unlike that of the god of{n}destruction: an attempt to produce{n}infinite spirit power by removing the{n}limiter on spiritual ability set in the human{n}brain. From that experiment D.S.{n}was born."
  },
  {
   "id": "s0346_01af0",
@@ -909,7 +909,7 @@
    "アビゲイル"
   ],
   "jp": "人の男女から生み出されたのではなく、{n}無から合成された完璧な人体――そこ{n}には人類が生まれた時から背負う霊的{n}リミッターは存在しなかった。人類は{n}神に倣い、新たな人間を創造したので{n}ある。汲めども尽きぬ無限の霊子力を{n}生み出す器――それがＤ・Ｓだった。",
-  "en": "Not begotten by man and woman, but a{n}perfect human body synthesized from{n}nothing-- In it was no spiritual limiter,{n}such as humans bear from birth.{n}Humankind, following God's example, had{n}created a new human. A vessel producing{n}endless, infinite spirit power-- That was{n}D.S."
+  "en": "Not begotten by man and woman, but a{n}perfect human body synthesized from{n}nothing-- In it was no spiritual limiter,{n}such as humans bear from birth.{n}Humankind, following God's example, had{n}created a new human. A vessel producing{n}endless, infinite spirit power-- That{n}was D.S."
  },
  {
   "id": "s0346_01be8",
@@ -1029,7 +1029,7 @@
    "アビゲイル"
   ],
   "jp": "引き上げられた後、その縄で縛り上げ{n}られると知りつつも、溺れかけた彼は{n}掴む他に道がなかった。暗黒僧として、{n}虚神に従うしかなかった。",
-  "en": "He knew he would be bound by that rope{n}once he was pulled up, but a drowning{n}man had no choice but to grasp it. As the{n}Dark Priest, he could only obey the Hollow{n}Gods."
+  "en": "He knew he would be bound by that rope{n}once he was pulled up, but a drowning{n}man had no choice but to grasp it. As the{n}Dark Priest, he could only obey the{n}Hollow Gods."
  },
  {
   "id": "s0346_0201c",
@@ -1197,7 +1197,7 @@
    "アビゲイル"
   ],
   "jp": "アビゲイルの唱えた呪文が、何も存在{n}しないはずの虚空に放たれた。{page}次の瞬間、高エネルギーを帯びた怨霊{n}の群れは、そこに潜んでいたものに{n}幾重にも巻き付いて、その姿を淡く{n}浮かび上がらせる。",
-  "en": "The spell Abigail chanted was loosed into{n}the empty air, where nothing should have{n}been.{page}The next instant, the swarm of vengeful{n}spirits, charged with high energy, wound{n}themselves many times around what{n}lurked there, and its form dimly stood{n}out."
+  "en": "The spell Abigail chanted was loosed into{n}the empty air, where nothing should{n}have been.{page}The next instant, the swarm of vengeful{n}spirits, charged with high energy, wound{n}themselves many times around what{n}lurked there, and its form dimly{n}stood out."
  },
  {
   "id": "s0346_022f0",
@@ -1752,7 +1752,7 @@
    "イーカル"
   ],
   "jp": "さあ、どうでしょうね。あたしと{n}闘って、確かめてご覧なさい――",
-  "en": "Well, who can say? Fight me and find{n}out--"
+  "en": "Well, who can say? Fight me and{n}find out--"
  },
  {
   "id": "s0346_02d7c",
@@ -1944,7 +1944,7 @@
    "イーカル"
   ],
   "jp": "我はこの世界を廃棄する。癌生物に{n}よる汚染は失敗に終わったが、もはや{n}事の収拾は虚神王に任せる他はない。{n}Ｄ・Ｓ――貴様の力は諦めようぞ",
-  "en": "I shall discard this world. The pollution by{n}cancer creatures has failed, and now there{n}is nothing for it but to leave the rest to the{n}Hollow God King. D.S.-- I shall give up on{page}your power."
+  "en": "I shall discard this world. The pollution by{n}cancer creatures has failed, and now there{n}is nothing for it but to leave the rest to{page}the Hollow God King. D.S.-- I shall give up on{n}your power."
  },
  {
   "id": "s0346_02fec",
@@ -2136,7 +2136,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "ケッ！　下等な三流神が、吹き上がっ{n}てくれるじゃねーか",
-  "en": "Tch! Big talk for a low-class, third-rate{n}god."
+  "en": "Tch! Big talk for a low-class,{n}third-rate god."
  },
  {
   "id": "s0346_033f8",
@@ -2376,7 +2376,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "ふははは！　当たりめーだ、このタコ！{n}龍とはひとつの力、この世界の背骨を{n}巡る生命の力――そしてそれは俺自身{n}だ！　第四の龍とは、この俺様だ！",
-  "en": "Hah hah hah! You bet your ass, you octopus!{n}The dragons are one power, the power of{n}life running through this world's spine-- And{n}that's me! The fourth dragon is the great{page}me!"
+  "en": "Hah hah hah! You bet your ass, you octopus!{n}The dragons are one power, the power of{n}life running through this world's spine--{page}And that's me! The fourth dragon is the{n}great me!"
  },
  {
   "id": "s0346_037c4",
@@ -2640,7 +2640,7 @@
    "アビゲイル"
   ],
   "jp": "ご迷惑をおかけしました。この私と{n}したことが――",
-  "en": "I have caused you much trouble. How unlike{n}me--"
+  "en": "I have caused you much trouble. How{n}unlike me--"
  },
  {
   "id": "s0346_03c5c",
@@ -2808,7 +2808,7 @@
    "イーカル"
   ],
   "jp": "イーカルの貌から、急速に生気が失せ{n}ていくのが判る。オクトールに注入{n}された毒素が、彼女の肉体を凄まじい{n}勢いで冒しつつあった。",
-  "en": "The life was plainly draining fast from{n}Ichael's face. The toxin Octol had injected{n}was ravaging her body at a fearsome{n}rate."
+  "en": "The life was plainly draining fast from{n}Ichael's face. The toxin Octol had injected{n}was ravaging her body at a{n}fearsome rate."
  },
  {
   "id": "s0346_03e6c",
@@ -2856,7 +2856,7 @@
    "イーカル"
   ],
   "jp": "ははっ……ずいぶん優しくなったわね、{n}貴方も……虚神王が手中に収めようと{n}躍起になってる、あのヨーコって娘の{n}せいなのかしら――うっ！",
-  "en": "Hah... You've grown awfully gentle too... I{n}wonder if it's that Yoko girl the Hollow God{n}King is so desperate to get his hands on--{n}Ugh!"
+  "en": "Hah... You've grown awfully gentle too... I{n}wonder if it's that Yoko girl the Hollow God{n}King is so desperate to get his hands{n}on-- Ugh!"
  },
  {
   "id": "s0346_03f40",
@@ -2928,7 +2928,7 @@
    "イーカル"
   ],
   "jp": "オクトールが用意したあたしの肉体は、{n}癌龍やこの宮殿にはびこる細胞と同じ、{n}癌生命体……どのみち、長くは生きら{n}れない身体なのよ……",
-  "en": "The body Octol prepared for me is a cancer{n}life form, the same as the cancer dragon{n}and the cells overrunning this palace... It{n}wasn't a body that could live long, either{page}way..."
+  "en": "The body Octol prepared for me is a cancer{n}life form, the same as the cancer dragon{n}and the cells overrunning this palace... It{page}wasn't a body that could live long, either{n}way..."
  },
  {
   "id": "s0346_0401c",
@@ -3912,7 +3912,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "電撃の如き応酬の果て、Ｄ・Ｓもまた{n}記憶を奪われ、辛うじて虚神の侵攻{n}から確保した海岸地帯――精神の中枢{n}から最も離れた場所へと追いやられた{n}のだった。",
-  "en": "At the end of this lightning exchange, D.S.{n}too was robbed of his memory, and driven{n}back to the coast, a strip barely kept{n}from the Hollow Gods' advance-- the{n}place farthest from the center of his{n}mind."
+  "en": "At the end of this lightning exchange, D.S.{n}too was robbed of his memory, and driven{n}back to the coast, a strip barely kept{n}from the Hollow Gods' advance-- the{n}place farthest from the center of{n}his mind."
  },
  {
   "id": "s0346_05424",
@@ -4200,7 +4200,7 @@
    "アビゲイル"
   ],
   "jp": "死んでしまったなら、それはこの世界{n}においての現実の死となる――そう{n}いうことですね、Ｄ・Ｓ",
-  "en": "If you die, it will be a real death in this{n}world-- That is how it works, is it not,{n}D.S.?"
+  "en": "If you die, it will be a real death in this{n}world-- That is how it works, is it{n}not, D.S.?"
  },
  {
   "id": "s0346_05960",
@@ -4536,7 +4536,7 @@
    "イングヴェイイングヴェイ・フォン・マルムステ"
   ],
   "jp": "いつの頃よりか歳を取らぬ、少年の{n}如く美しい貌を荒野に這わせ、カルは{n}力尽きたようにそこに横たわっていた。{page}その周囲には激闘の痕を示す、魔力で{n}抉り取られたクレーター状の窪みが{n}広がっている。",
-  "en": "His face, boyishly beautiful and for ages{n}unaging, pressed to the wasteland, Kall{n}lay there as if his strength had given{n}out.{page}Around him spread crater-like hollows{n}gouged by magic, the signs of a fierce{n}fight."
+  "en": "His face, boyishly beautiful and for ages{n}unaging, pressed to the wasteland, Kall{n}lay there as if his strength had{n}given out.{page}Around him spread crater-like hollows{n}gouged by magic, the signs of a fierce{n}fight."
  },
  {
   "id": "s0346_05eec",
@@ -4632,7 +4632,7 @@
    "シェラ"
   ],
   "jp": "熱烈な崇拝者である魔戦将軍たちは、{n}色を失って一斉にカルへと駆け寄った。{page}とりわけ、記憶を失ってさえカルを{n}探し求めたイングヴェイの動揺は{n}凄まじいまでだった。死んだように{n}動かぬカルを前に立ち竦む彼の肩を、{n}Ｄ・Ｓが力強く叩く――。",
-  "en": "The Sorcerer Generals, ardent{n}worshippers, went pale and ran to Kall as{n}one.{page}Above all, Yngwei, who had sought Kall{n}even with his memories gone, was terribly{n}shaken. Before the deathly still Kall he{n}stood rooted, and D.S. slapped him hard on{n}the shoulder--."
+  "en": "The Sorcerer Generals, ardent{n}worshippers, went pale and ran to Kall{n}as one.{page}Above all, Yngwei, who had sought Kall{n}even with his memories gone, was terribly{n}shaken. Before the deathly still Kall he{n}stood rooted, and D.S. slapped him hard on{n}the shoulder--."
  },
  {
   "id": "s0346_06008",

@@ -93,7 +93,7 @@
    ""
   ],
   "jp": "紛うことなく、翼龍であった。だが、{n}それは今や空を駆けることはない。{page}内側を囲む樹壁から伸びた無数の蔦が{n}龍を絡め取り、縛り上げ、締め付けて{n}その全身を空中に拘束しているのだ。{n}それは龍の骸であり、無惨に吊られた{n}処刑の光景のようであった。",
-  "en": "It was a wyvern without a doubt. But it{n}would never again race through the{n}sky.{page}Countless vines stretching from the{n}surrounding walls of the tree tangled,{n}bound and squeezed the dragon, holding{n}its entire body in midair. It was the{n}dragon's corpse, and looked like the cruel{n}scene of a hanged criminal."
+  "en": "It was a wyvern without a doubt. But it{n}would never again race through{n}the sky.{page}Countless vines stretching from the{n}surrounding walls of the tree tangled,{n}bound and squeezed the dragon, holding{n}its entire body in midair. It was the{n}dragon's corpse, and looked like the cruel{n}scene of a hanged criminal."
  },
  {
   "id": "s0146_00b70",
@@ -645,7 +645,7 @@
    "サイクス"
   ],
   "jp": "それが近くにあり、エネルギーを{n}受け取ることができるからこそ、{n}翼龍の生命は尽きていないのだろう",
-  "en": "Since it lies nearby and the energy can be{n}received, the wyvern's life has not run{n}out."
+  "en": "Since it lies nearby and the energy can be{n}received, the wyvern's life has not{n}run out."
  },
  {
   "id": "s0146_015c0",
@@ -981,7 +981,7 @@
    "サイクス"
   ],
   "jp": "まだヤツに追われているのでね。{n}これまでに私の知り得た情報を手短に{n}伝えよう",
-  "en": "The thing is still after me, you see. In brief,{n}I shall tell you what I have learned so{n}far."
+  "en": "The thing is still after me, you see. In brief,{n}I shall tell you what I have learned{n}so far."
  },
  {
   "id": "s0146_01910",
@@ -1221,7 +1221,7 @@
    "サイクス"
   ],
   "jp": "そのようだ。猟犬の追跡能力は着実に{n}上昇してきている。逃げ足で敵わなく{n}なる前に、対抗できる力を手に入れ{n}なければな――",
-  "en": "So it seems. The hound's tracking ability is{n}steadily improving. I must obtain a power to{n}oppose it, before I can no longer outrun{n}it--"
+  "en": "So it seems. The hound's tracking ability is{n}steadily improving. I must obtain a power to{n}oppose it, before I can no longer{n}outrun it--"
  },
  {
   "id": "s0146_01ce4",
@@ -1797,7 +1797,7 @@
    "サイクス"
   ],
   "jp": "我はタラニス。うぬらを殺す。翼龍と{n}ともに、龍樹とともに、焼けて死ね",
-  "en": "I am Taranis. I will kill you. Burn and die,{n}along with the wyvern, and with the Dragon{n}Tree."
+  "en": "I am Taranis. I will kill you. Burn and die,{n}along with the wyvern, and with the{n}Dragon Tree."
  },
  {
   "id": "s0146_02f48",
@@ -2085,7 +2085,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "炎上する龍樹の中で、一段と激しい{n}炎の光輝が見てとれた。それは上昇を{n}始め、やがて凄まじい勢いで火柱の{n}頂に達する。燃え盛る龍樹ですら{n}霞ませる、他を圧する輝きであった。",
-  "en": "Within the burning Dragon Tree, a still{n}fiercer radiance of flame could be seen.{n}It began to rise, and soon reached the{n}top of the pillar of fire with terrific{n}force, a brilliance that overwhelmed all{n}else and dimmed even the blazing Dragon{n}Tree."
+  "en": "Within the burning Dragon Tree, a still{n}fiercer radiance of flame could be seen.{n}It began to rise, and soon reached the{n}top of the pillar of fire with terrific{n}force, a brilliance that overwhelmed all{n}else and dimmed even the blazing{n}Dragon Tree."
  },
  {
   "id": "s0146_033a8",

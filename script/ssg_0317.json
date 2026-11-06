@@ -189,7 +189,7 @@
    "ガラ"
   ],
   "jp": "ま、オメエはゆっくりしてなって。{n}うっ！　ボクの心臓が……とか言われ{n}るとコッチの心臓にも悪りいからよ",
-  "en": "Just take it easy, pal. If you go \"Urk, my{n}poor heart...\" on us, it's bad for my heart{n}too."
+  "en": "Just take it easy, pal. If you go \"Urk, my{n}poor heart...\" on us, it's bad for my{n}heart too."
  },
  {
   "id": "s0317_00bc4",
@@ -213,7 +213,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "んだぁ？　このゴリラ野郎！　テメー{n}がもっとしっかりしてりゃ俺様は鼻歌{n}混じりでのんびりできるのによ！{n}四天王ならビッとしろ、ビッと！",
-  "en": "What the hell? You gorilla bastard! If you{n}were doing your job, the great me could be{n}humming a tune and taking it easy! You're{n}one of the Divine Kings, so shape up,{page}shape up!"
+  "en": "What the hell? You gorilla bastard! If you{n}were doing your job, the great me could be{n}humming a tune and taking it easy! You're{page}one of the Divine Kings, so shape up,{n}shape up!"
  },
  {
   "id": "s0317_00c4c",
@@ -621,7 +621,7 @@
    "ブラド"
   ],
   "jp": "おう、ザックか！{n}貴公も無事で何よりだわ！",
-  "en": "Ah, Zakk! I am glad to see you safe as well,{n}sir!"
+  "en": "Ah, Zakk! I am glad to see you safe as{n}well, sir!"
  },
  {
   "id": "s0317_0100c",
@@ -645,7 +645,7 @@
    "ブラド"
   ],
   "jp": "この洞窟で目覚めたブラドは、仲間の{n}消息を求めて歩き回っていたらしい。{n}例によってまた迷っており、洞窟の{n}構造を把握してはいないようであった。",
-  "en": "Waking in this cave, Blad had apparently{n}been walking around in search of news of{n}his comrades. As usual he was lost again,{n}and had no grasp of the layout of the{n}cave."
+  "en": "Waking in this cave, Blad had apparently{n}been walking around in search of news of{n}his comrades. As usual he was lost again,{n}and had no grasp of the layout of{n}the cave."
  },
  {
   "id": "s0317_0109c",
@@ -981,7 +981,7 @@
    "ネイ"
   ],
   "jp": "アンタだって、忍者の秘法だか何だか{n}で全然年を取らないじゃない。初めて{n}会った時からン十年、見かけも中身も{n}成長してないわよ",
-  "en": "You don't age at all either, with that ninja{n}secret art or whatever. Decades since we{n}met, and you haven't grown up inside or{n}out."
+  "en": "You don't age at all either, with that ninja{n}secret art or whatever. Decades since we{n}met, and you haven't grown up inside{n}or out."
  },
  {
   "id": "s0317_0135c",
@@ -1489,7 +1489,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "合流したばっかだってのに、相変わら{n}ずテキパキしてやがんな",
-  "en": "You just joined us, and you're as brisk as{n}ever."
+  "en": "You just joined us, and you're as brisk{n}as ever."
  },
  {
   "id": "s0317_01fe0",
@@ -2281,7 +2281,7 @@
    "暗黒僧"
   ],
   "jp": "ここから先は私がお相手しよう。やが{n}て、お前たちは何も信じられなくなる。{n}――人間とは滅ぶべき罪深きものだと、{n}その目で確かめるがいい……",
-  "en": "From here on, I shall be your opponent. In{n}time you will be unable to believe in{n}anything. --See with your own eyes that{n}humans are sinful creatures, fit only to{page}perish..."
+  "en": "From here on, I shall be your opponent. In{n}time you will be unable to believe in{n}anything. --See with your own eyes that{page}humans are sinful creatures, fit only to{n}perish..."
  },
  {
   "id": "s0317_02d04",

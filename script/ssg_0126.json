@@ -45,7 +45,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "解放された門を抜けて目に入ったのは、{n}天高く聳える巨大な緑の塊であった。{page}樹海の中央に位置するそれは、あまり{n}に並外れた大きさであるが故に、初め{n}は森が山となって隆起しているとしか{n}見えなかった。",
-  "en": "Passing through the open gate, they saw{n}a giant green mass towering high into the{n}sky.{page}It stood at the center of the sea of{n}trees, and so far beyond normal was its{n}size that at first it looked simply like the{n}forest rising up into a mountain."
+  "en": "Passing through the open gate, they saw{n}a giant green mass towering high into{n}the sky.{page}It stood at the center of the sea of{n}trees, and so far beyond normal was its{n}size that at first it looked simply like the{n}forest rising up into a mountain."
  },
  {
   "id": "s0126_008ec",
@@ -264,7 +264,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "宿り木の短刀を近づけると、樫の根は{n}怯えたように震え、いとも簡単に{n}千切れて門を解放した。",
-  "en": "When he brought the Mistletoe Dagger{n}close, the oak roots trembled as if afraid,{n}snapped apart with ease and released the{n}gate."
+  "en": "When he brought the Mistletoe Dagger{n}close, the oak roots trembled as if afraid,{n}snapped apart with ease and released{n}the gate."
  },
  {
   "id": "s0126_00d74",
@@ -456,7 +456,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "……やい女、オメエの目は節穴か？{n}それともオトコを見る目がネエのか？{n}この俺様の他に、この世に超絶美形と{n}称される男が存在するワケねーだろ！",
-  "en": "...Hey, woman, are your eyes just holes in{n}your head? Or do you have no eye for men?{n}There's no man in this world who could be{n}called super-gorgeous besides the great{page}me!"
+  "en": "...Hey, woman, are your eyes just holes in{n}your head? Or do you have no eye for men?{n}There's no man in this world who could be{page}called super-gorgeous besides the{n}great me!"
  },
  {
   "id": "s0126_0117c",
@@ -576,7 +576,7 @@
    "カイ"
   ],
   "jp": "あの魔女を知らずに、良くもこの森を{n}歩き回れたものだな。樹海に潜む{n}魔性の類は、ほとんどが魔雷妃の{n}手下であると言うのに――",
-  "en": "How did you manage to walk around this{n}forest without knowing that witch? Nearly{n}every demon lurking in this sea of trees is{n}one of the Demon Thunder Queen's{page}minions--"
+  "en": "How did you manage to walk around this{n}forest without knowing that witch? Nearly{n}every demon lurking in this sea of trees is{page}one of the Demon Thunder Queen's{n}minions--"
  },
  {
   "id": "s0126_01268",
@@ -1008,7 +1008,7 @@
    "カイ"
   ],
   "jp": "……シーンが――仲間が魔雷妃の{n}手の者に捕らえられたようだ。そこの{n}森を越えた場所にある湖に連れ去られ、{n}魔性の生け贄に捧げられるらしい――",
-  "en": "...Sean-- It seems my companion's been{n}captured by the Demon Thunder Queen's{n}people. Taken to a lake past that forest{n}there, to be offered as a sacrifice to a{page}demon--"
+  "en": "...Sean-- It seems my companion's been{n}captured by the Demon Thunder Queen's{n}people. Taken to a lake past that forest{page}there, to be offered as a sacrifice to a{n}demon--"
  },
  {
   "id": "s0126_019fc",
@@ -1200,7 +1200,7 @@
    "カイ"
   ],
   "jp": "木を削って作られた刃は、通常の切断{n}能力はないように思えた。しかし、{n}ドルイド僧に神聖視される宿り木の{n}持つ力は、樫の根を断つ魔力の刃と{n}なって木製の短刀に不思議な輝きを{n}与えていた。",
-  "en": "The blade, carved from wood, seemed to{n}have no ordinary power to cut. Yet the{n}power of mistletoe, held sacred by druids,{n}became a magic blade to sever oak roots,{n}lending the wooden dagger a strange{n}glow."
+  "en": "The blade, carved from wood, seemed to{n}have no ordinary power to cut. Yet the{n}power of mistletoe, held sacred by druids,{n}became a magic blade to sever oak roots,{n}lending the wooden dagger a{n}strange glow."
  },
  {
   "id": "s0126_01d9c",
@@ -1753,6 +1753,6 @@
    "ジオン"
   ],
   "jp": "シェンが捕まってるのはそっちじゃ{n}ない！　急いでくれＤ・Ｓ！",
-  "en": "That is not where Schen is caught! Hurry,{n}D.S.!"
+  "en": "That is not where Schen is caught!{n}Hurry, D.S.!"
  }
 ]

@@ -405,7 +405,7 @@
    ""
   ],
   "jp": "ケーブルの上に、ふたりの男の姿が{n}あった。妖縛士マカパイン、そして{n}侍ヨルグ――Ｄ・Ｓ襲撃に失敗し、{n}逃走したふたりが再び、眼前に立ち{n}はだかっていた。",
-  "en": "On the cable stood two figures. Macalpine{n}the demon binder and Jorg the samurai:{n}the pair who had failed in their attack on{n}D.S. and fled were once again blocking the{n}way."
+  "en": "On the cable stood two figures. Macalpine{n}the demon binder and Jorg the samurai:{n}the pair who had failed in their attack on{n}D.S. and fled were once again blocking{n}the way."
  },
  {
   "id": "s0064_00f10",
@@ -1101,7 +1101,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "オメエ、今回も見捨てられたみてえ{n}だな。言ったハズだぜ、次に仕掛けて{n}きたら手加減しねえって",
-  "en": "Looks like he ditched you this time too. I{n}told you: come at me again and I won't hold{n}back."
+  "en": "Looks like he ditched you this time too. I{n}told you: come at me again and I won't{n}hold back."
  },
  {
   "id": "s0064_01804",
@@ -1989,7 +1989,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "だとすりゃ、さっきまでこの送電線を{n}通じて膨大な電力を注ぎ込まれていた{n}対岸の塔が怪しいってことになる",
-  "en": "In that case, the shady one's that tower on{n}the other side, which was getting a huge{n}current through this power line until just{n}now."
+  "en": "In that case, the shady one's that tower on{n}the other side, which was getting a huge{n}current through this power line until{n}just now."
  },
  {
   "id": "s0064_02420",
@@ -2133,6 +2133,6 @@
    "ヨルグ"
   ],
   "jp": "ヨシュアは風神塔へととって返し、{n}送電線を駆け抜けて視界から消えた。{page}一行は再び、対岸の塔へとケーブルを{n}渡り始めた。",
-  "en": "Joshua turned back to the Wind God{n}Tower, ran off along the power line and{n}passed out of sight.{page}The party once more began to cross the{n}cable toward the tower on the far{n}bank."
+  "en": "Joshua turned back to the Wind God{n}Tower, ran off along the power line and{n}passed out of sight.{page}The party once more began to cross the{n}cable toward the tower on the{n}far bank."
  }
 ]

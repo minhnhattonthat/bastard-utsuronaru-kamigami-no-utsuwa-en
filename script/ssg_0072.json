@@ -117,7 +117,7 @@
    "ヨルグ"
   ],
   "jp": "ヨルグのかざした白刃が、Ｄ・Ｓを{n}正確に狙った斬撃を辛うじて弾いた。",
-  "en": "The bare blade Jorg raised barely{n}knocked aside the slash aimed squarely at{n}D.S."
+  "en": "The bare blade Jorg raised barely{n}knocked aside the slash aimed squarely{n}at D.S."
  },
  {
   "id": "s0072_00ab4",
@@ -285,7 +285,7 @@
    "ヴァイ"
   ],
   "jp": "おい、待てよ！　俺たちゃ別に戦う{n}つもりなんかないぜ！",
-  "en": "Hey, wait! We've got no intention of fighting{n}you!"
+  "en": "Hey, wait! We've got no intention of{n}fighting you!"
  },
  {
   "id": "s0072_00d48",
@@ -691,7 +691,7 @@
    "ジオン"
   ],
   "jp": "……聞けば貴殿らは砦に打ち入り、{n}囚われの姫を救う心算とか。我ら兄弟、{n}剣にいささか心得がある。せめてもの{n}礼に、暫し同道させては貰えぬか？",
-  "en": "...I hear you mean to storm the fort and{n}save a captive princess. We brothers have{n}some skill with the sword. As small thanks,{n}would you let us travel with you for a{page}time?"
+  "en": "...I hear you mean to storm the fort and{n}save a captive princess. We brothers have{n}some skill with the sword. As small thanks,{page}would you let us travel with you for{n}a time?"
  },
  {
   "id": "s0072_01234",
@@ -883,7 +883,7 @@
    "ジオン"
   ],
   "jp": "今は、少しでも我ら兄弟の記憶を{n}取り戻す手がかりを探す他にない。{n}貴殿らがやってきたと言う、海岸線も{n}調べてみるつもりだ",
-  "en": "For now we can only search for any clue{n}that might restore our memories. I intend to{n}look over the coastline you say you came{n}from."
+  "en": "For now we can only search for any clue{n}that might restore our memories. I intend to{n}look over the coastline you say you{n}came from."
  },
  {
   "id": "s0072_014d0",
@@ -907,7 +907,7 @@
    "シェン"
   ],
   "jp": "……オレには妻がいたような記憶が{n}ある。ああ、しかし曖昧としてそれが{n}事実であるのかどうかも判らない",
-  "en": "...I have a memory of having a wife, I think.{n}Ah, but it's so vague I can't tell if it's even{n}true."
+  "en": "...I have a memory of having a wife, I think.{n}Ah, but it's so vague I can't tell if it's{n}even true."
  },
  {
   "id": "s0072_01534",

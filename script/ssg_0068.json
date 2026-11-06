@@ -101,7 +101,7 @@
    ""
   ],
   "jp": "最上層になるこの部屋に、塔全体の{n}電力を束ねる送電設備があることは{n}間違いなさそうだった。低い動力音が、{n}扉を隔てて伝わってくる。",
-  "en": "It seemed certain that this room, on the{n}top level, held the transmission equipment{n}that bundled all the tower's power. A low{n}hum of machinery came through the{n}door."
+  "en": "It seemed certain that this room, on the{n}top level, held the transmission equipment{n}that bundled all the tower's power. A low{n}hum of machinery came through{n}the door."
  },
  {
   "id": "s0068_00a6c",
@@ -197,7 +197,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "つまりこの部屋に番人をつけるって{n}こった。ロスも言ってたろ？　塔は{n}最重要警備地点らしいって",
-  "en": "In other words, you'd put a guard in this{n}room. You heard what Ros said, right? That{n}the towers are the most heavily guarded{n}spot."
+  "en": "In other words, you'd put a guard in this{n}room. You heard what Ros said, right? That{n}the towers are the most heavily{n}guarded spot."
  },
  {
   "id": "s0068_00b6c",
@@ -413,7 +413,7 @@
    "ヴァイ"
   ],
   "jp": "あれ？　悔しがったり悪態ついたり{n}しないの？",
-  "en": "Huh? You're not gonna get mad or curse him{n}out?"
+  "en": "Huh? You're not gonna get mad or curse{n}him out?"
  },
  {
   "id": "s0068_0121c",
@@ -509,7 +509,7 @@
    "ヴァイ"
   ],
   "jp": "なあＤ・Ｓ。ロスの奴のこと、気に{n}ならねーか？",
-  "en": "Hey, D.S. Aren't you curious about that guy{n}Ros?"
+  "en": "Hey, D.S. Aren't you curious about that{n}guy Ros?"
  },
  {
   "id": "s0068_01858",
@@ -581,6 +581,6 @@
    "Ｄ・Ｓ"
   ],
   "jp": "おー、そうだったそうだった。ロスの{n}奴も何か探してやがったしな。もう{n}ちょいこの塔を調べてみるか",
-  "en": "Oh, yeah, that's right. Ros was looking for{n}something too. Let's check this tower a bit{n}more."
+  "en": "Oh, yeah, that's right. Ros was looking for{n}something too. Let's check this tower a{n}bit more."
  }
 ]

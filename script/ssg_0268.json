@@ -261,7 +261,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "ふーん。ところでオメエ、どうして{n}俺たちがここにいるのか判ってんのか？",
-  "en": "Huh. By the way, you know how we got{n}here?"
+  "en": "Huh. By the way, you know how we{n}got here?"
  },
  {
   "id": "s0268_00ba8",
@@ -357,7 +357,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "同じ手が、オマエにも使えるかもなあ{n}……ふふはははは",
-  "en": "Might work on you, too... heh heh hah hah{n}hah."
+  "en": "Might work on you, too... heh heh hah{n}hah hah."
  },
  {
   "id": "s0268_00d2c",
@@ -501,7 +501,7 @@
    "カイ"
   ],
   "jp": "お前のその不死身ぶりは、氷獄塔に{n}向かう俺たちの大きな助けになる。{n}鬼道衆のよしみで、頼む！",
-  "en": "Your immortality would be a great help as{n}we head for the Ice Hell Tower. For old{n}times' sake in the Kido Corps, I'm asking{n}you!"
+  "en": "Your immortality would be a great help as{n}we head for the Ice Hell Tower. For old{n}times' sake in the Kido Corps, I'm{n}asking you!"
  },
  {
   "id": "s0268_00f38",
@@ -621,7 +621,7 @@
    "ダイ"
   ],
   "jp": "断固イヤですね。大体、あなたがたが{n}どーなろうと私の知ったこっちゃあり{n}ません。わっはっはーだ！",
-  "en": "Absolutely not. Besides, what becomes of{n}you all is no concern of mine. Wah hah{n}hah!"
+  "en": "Absolutely not. Besides, what becomes of{n}you all is no concern of mine. Wah{n}hah hah!"
  },
  {
   "id": "s0268_010e8",

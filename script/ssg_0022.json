@@ -333,7 +333,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "鈍い野郎だな。テメエもそっちの{n}踏み板に乗れよ。どうしてふたつも{n}あると思ってんだ？",
-  "en": "You're slow, you know that? Get on that{n}other plate. Why do you think there's two of{n}'em?"
+  "en": "You're slow, you know that? Get on that{n}other plate. Why do you think there's two{n}of 'em?"
  },
  {
   "id": "s0022_00db0",
@@ -597,7 +597,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "左右の踏み板が両方沈んでいねえと{n}扉はすぐに閉まるようになってやがる。{n}二ヶ所を踏んだままじゃねえと、次の{n}扉の前には辿り着けねえってワケか",
-  "en": "The door's rigged to shut unless both plates{n}stay down. So you can't reach the next{n}door unless two people keep standing on{n}them."
+  "en": "The door's rigged to shut unless both plates{n}stay down. So you can't reach the next{n}door unless two people keep standing{n}on them."
  },
  {
   "id": "s0022_0109c",
@@ -837,7 +837,7 @@
    "ヨシュア"
   ],
   "jp": "そこにいるのはＤ・Ｓとヴァイか。{n}ふたりだけなのか？",
-  "en": "Is that D.S. and Vai there? Just the two of{n}you?"
+  "en": "Is that D.S. and Vai there? Just the two{n}of you?"
  },
  {
   "id": "s0022_01368",

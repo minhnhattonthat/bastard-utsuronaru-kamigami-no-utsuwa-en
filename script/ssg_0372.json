@@ -117,7 +117,7 @@
    "アビゲイル"
   ],
   "jp": "フム……どうやらこの世界では、時間{n}も完全に停止しているようです。後ろ{n}の転移フィールドから元の場所には{n}戻れそうですが、どうします、Ｄ・Ｓ？",
-  "en": "Hmm... It appears time has stopped{n}completely in this world. We can likely{n}return to the original place through the{n}transfer field behind us, but what shall{page}we do, D.S.?"
+  "en": "Hmm... It appears time has stopped{n}completely in this world. We can likely{n}return to the original place through the{page}transfer field behind us, but what shall we{n}do, D.S.?"
  },
  {
   "id": "s0372_00ab8",
@@ -693,7 +693,7 @@
    ""
   ],
   "jp": "土塊から創り出された者、人間よ。{n}汝ら、いと脆弱なる者どもよ。{n}我を求めよ。我を求めよ。",
-  "en": "O man, ye who were made from clay. Ye{n}most frail of creatures. Seek me. Seek{n}me."
+  "en": "O man, ye who were made from clay. Ye{n}most frail of creatures. Seek me.{n}Seek me."
  },
  {
   "id": "s0372_01e70",

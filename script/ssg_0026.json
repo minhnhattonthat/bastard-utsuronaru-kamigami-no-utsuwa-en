@@ -309,7 +309,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "慌てるな。この手の強力な呪法は、{n}それなりの環境を整えたうえで、かつ{n}近距離からしか封印をくくることが{n}できねえ。当然のリスクってワケだ",
-  "en": "Calm down. Curses this strong can only tie a{n}seal if you set up the right conditions, and{n}only at close range. That's the risk you{n}run."
+  "en": "Calm down. Curses this strong can only tie a{n}seal if you set up the right conditions, and{n}only at close range. That's the risk{n}you run."
  },
  {
   "id": "s0026_00da4",
@@ -526,7 +526,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "とにかく、もう一度あそこに行って{n}みようぜ",
-  "en": "Anyway, let's go back there one more{n}time."
+  "en": "Anyway, let's go back there one{n}more time."
  },
  {
   "id": "s0026_01268",

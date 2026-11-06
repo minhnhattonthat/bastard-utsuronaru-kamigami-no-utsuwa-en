@@ -67,7 +67,7 @@
    ""
   ],
   "jp": "この先は記録できなくなります。{n}セーブしますか？",
-  "en": "You cannot save past this point. Save{n}now?"
+  "en": "You cannot save past this point.{n}Save now?"
  },
  {
   "id": "s0357_00908",

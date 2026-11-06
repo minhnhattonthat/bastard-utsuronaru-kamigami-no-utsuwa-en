@@ -69,7 +69,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "こんなトコに玄室があったのか……{n}むっ!?　何かきやがる！",
-  "en": "So there was a burial chamber in a place{n}like this... Whoa!? Something's coming, damn{n}it!"
+  "en": "So there was a burial chamber in a place{n}like this... Whoa!? Something's coming,{n}damn it!"
  },
  {
   "id": "s0080_009cc",
@@ -645,7 +645,7 @@
    "ジン"
   ],
   "jp": "“うむ。思った通り、オレが離された{n}せいで刀の妖気が暴走しているな。{n}だが、オレが宿り直せば大丈夫だろう。{n}アンタにも刀を引き抜けるはずだ”",
-  "en": "\"Yes. Just as I thought, tearing me away has{n}sent the sword's demon energy out of{n}control. But it should be fine once I inhabit{n}it again. You should be able to draw it{page}too.\""
+  "en": "\"Yes. Just as I thought, tearing me away has{n}sent the sword's demon energy out of{n}control. But it should be fine once I{page}inhabit it again. You should be able to draw{n}it too.\""
  },
  {
   "id": "s0080_01514",
@@ -789,7 +789,7 @@
    "ジン"
   ],
   "jp": "“アンタを男と見込んで、頼む！”",
-  "en": "\"I ask you because I see you're a true{n}man!\""
+  "en": "\"I ask you because I see you're a{n}true man!\""
  },
  {
   "id": "s0080_01724",
@@ -1125,7 +1125,7 @@
    "シェラ"
   ],
   "jp": "ああ……これが私に呼びかけてきた{n}龍なのか……",
-  "en": "Ah... So this is the dragon that called to{n}me..."
+  "en": "Ah... So this is the dragon that called{n}to me..."
  },
  {
   "id": "s0080_01eb0",
@@ -1293,7 +1293,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "せき止められてた力が奔出しかけて{n}やがるのか！　くそっ、これじゃ暴走{n}しちまうぞ！",
-  "en": "The dammed-up power's about to burst out!{n}Damn it, it'll go out of control at this{n}rate!"
+  "en": "The dammed-up power's about to burst out!{n}Damn it, it'll go out of control at{n}this rate!"
  },
  {
   "id": "s0080_02248",
@@ -1509,7 +1509,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "エネルギーが増大し過ぎて理性まで{n}飛びやがったか！　こいつは、早く{n}逃げねえとアブねえ！",
-  "en": "Too much energy, and it blew out its mind{n}too! We gotta get the hell out, or this'll get{n}ugly!"
+  "en": "Too much energy, and it blew out its mind{n}too! We gotta get the hell out, or this'll{n}get ugly!"
  },
  {
   "id": "s0080_02508",

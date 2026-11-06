@@ -69,7 +69,7 @@
    ""
   ],
   "jp": "枯れ木の森で、その荊だけが艶やかに、{n}樹液の代わりに血液が流れているかに{n}赤黒く精気を放っていた。鋭い棘が{n}生き物の血を求めるが如く突き出し、{n}登ることも潜ることもできぬほど高く{n}厚く繁茂している。荊の壁がこの森の{n}養分を根こそぎ吸い上げているようで{n}あった。",
-  "en": "In a forest of dead trees those thorns{n}alone were lustrous, and gave off a dark{n}red vigor, as if blood flowed in them{n}instead of sap. Sharp spines jutted out as{n}if craving the blood of the living, growing{n}too high and too thick to climb or crawl{n}through. The Wall of Thorns seemed to be{n}sucking up all the nourishment in this{page}forest."
+  "en": "In a forest of dead trees those thorns{n}alone were lustrous, and gave off a dark{n}red vigor, as if blood flowed in them{n}instead of sap. Sharp spines jutted out as{n}if craving the blood of the living, growing{n}too high and too thick to climb or crawl{n}through. The Wall of Thorns seemed to{page}be sucking up all the nourishment in this{n}forest."
  },
  {
   "id": "s0174_00af8",
@@ -117,7 +117,7 @@
    ""
   ],
   "jp": "城壁は無数の蔓や荊に覆われ、まるで{n}城それ自体が樹木でできているように{n}見える。尖塔が高くそそり立ち、空に{n}黒々と、不吉な翳りを落としていた。",
-  "en": "Its walls were covered in countless vines{n}and thorns, as if the castle itself were{n}made of trees. Spires rose high, casting a{n}dark and ominous shadow across the{n}sky."
+  "en": "Its walls were covered in countless vines{n}and thorns, as if the castle itself were{n}made of trees. Spires rose high, casting a{n}dark and ominous shadow across{n}the sky."
  },
  {
   "id": "s0174_00bc4",
@@ -285,7 +285,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "さっきのカラスどもが騒いでいやがる{n}……気になるな。戻ってみるか",
-  "en": "Those crows from before are making a{n}racket... That bugs me. Let's go back and{n}see."
+  "en": "Those crows from before are making a{n}racket... That bugs me. Let's go back{n}and see."
  },
  {
   "id": "s0174_00d50",
@@ -477,7 +477,7 @@
    "ヴァイ"
   ],
   "jp": "それと、魔雷妃の本体もな",
-  "en": "And so's the Demon Thunder Queen's real{n}body."
+  "en": "And so's the Demon Thunder Queen's{n}real body."
  },
  {
   "id": "s0174_0110c",
@@ -717,7 +717,7 @@
    "ヨルグ"
   ],
   "jp": "枯れ木に羽根を休めていたカラスたち{n}が、一斉に飛び立って羽音を響かせた。{n}脂じみた黒い羽根が吹雪のように舞い、{n}けたたましい鳴き声が耳を圧する。",
-  "en": "The crows resting on the dead trees took{n}flight all at once in a roar of wings.{n}Greasy black feathers danced like a{n}blizzard, and their shrill cries beat at the{n}ears."
+  "en": "The crows resting on the dead trees took{n}flight all at once in a roar of wings.{n}Greasy black feathers danced like a{n}blizzard, and their shrill cries beat at{n}the ears."
  },
  {
   "id": "s0174_01608",
@@ -1077,7 +1077,7 @@
    "ネイ"
   ],
   "jp": "娘が平静さを失った瞬間、肩に留まっ{n}ていたカラスの絶叫が響き渡った。{page}娘の輪郭がぼやけ、溶け崩れたカラス{n}がその身体を包み込むように融合する。{n}消えた少女と同様、その娘も幻影――{n}あるいは思念体と呼ぶべき存在で{n}あった。それが今、別の何かに姿を{n}変えようとしている。",
-  "en": "The instant she lost her calm, the crow{n}on her shoulder screamed.{page}The girl's outline blurred, and the crow{n}melted and merged with her as if to{n}enfold her body. Like the girl who had{n}vanished, she too was a phantom--or{n}what might be called a thought-form. And{n}now it was changing into something{n}else."
+  "en": "The instant she lost her calm, the crow{n}on her shoulder screamed.{page}The girl's outline blurred, and the crow{n}melted and merged with her as if to{n}enfold her body. Like the girl who had{n}vanished, she too was a phantom--or{n}what might be called a thought-form. And{n}now it was changing into{n}something else."
  },
  {
   "id": "s0174_01be8",
@@ -1245,7 +1245,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "負け惜しみかよ！　ザマァねえぜ、{n}アーハッハッハッ！",
-  "en": "Sore loser, huh! Serves you right, ah ha ha{n}ha!"
+  "en": "Sore loser, huh! Serves you right, ah ha{n}ha ha!"
  },
  {
   "id": "s0174_01e34",
@@ -1317,7 +1317,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "お城に撤退かぁ？　ぎゃはははは！",
-  "en": "Running back to your castle? Gyah ha ha{n}ha!"
+  "en": "Running back to your castle? Gyah ha{n}ha ha!"
  },
  {
   "id": "s0174_01f04",
@@ -1365,7 +1365,7 @@
    "ヴァイ"
   ],
   "jp": "……どのみち貴様らはこの樹海で{n}野垂れ死ぬのだ。我が妹に囚われた{n}男がなぶり殺されるのとどちらが先か{n}――鴉どもの報せを楽しみに待とうぞ",
-  "en": "...You will all die like dogs in this sea of trees{n}either way. Which will come first, that, or{n}my sister torturing to death the man she{n}holds captive-- I shall look forward to{page}the crows' news."
+  "en": "...You will all die like dogs in this sea of trees{n}either way. Which will come first, that, or{n}my sister torturing to death the man she{page}holds captive-- I shall look forward to the{n}crows' news."
  },
  {
   "id": "s0174_01fa4",

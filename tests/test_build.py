@@ -1,0 +1,37 @@
+"""The shipped build, made fresh here: every write in its place and every pointer leading to its English (tools/verify_build.py)."""
+import sys
+from pathlib import Path
+
+ROOT = Path(__file__).resolve().parents[1]
+sys.path[:0] = [str(ROOT), str(ROOT / "tools")]
+import batches
+import build
+import verify_build
+
+
+def test_built_disc_verifies(tmp_path):
+    out = build.build(tmp_path / "bastard_en.bin")
+    assert verify_build.verify(out) == []
+
+
+def test_wrap_gives_a_lone_last_word_company():
+    e = {"id": "s0000_00000", "jp": "x", "fn": [624], "kind": "text", "en": ""}
+    text = "In dimensional terms it appears to be a single, isolated world. Even the subspace I travel in has no access to anywhere but this world. And we have been cast out into it."
+    pages = batches.wrap(text, e).split("{page}")
+    assert pages[-1].split("{n}")[-1] == "into it."
+
+
+def test_wrap_ends_a_page_early_rather_than_leave_a_word_or_two():
+    e = {"id": "s0000_00000", "jp": "x", "fn": [624], "kind": "text", "en": ""}
+    text = "...You are a frightening man. Bingo. Even I do not know who they are, but I can sense beings of tremendous magical power. They are the ones who put us in this situation, and...!"
+    pages = batches.wrap(text, e).split("{page}")
+    assert len(pages[-1].replace("{n}", " ").split()) > batches.STUB_PAGE
+
+
+def test_lint_catches_codes_a_before_a_variable_and_word_substrings():
+    terms = [(["ダイ"], ["Di"], [], False)]
+    e = {"id": "s0000_00000", "jp": "ダイ[02]x", "fn": [624], "kind": "text"}
+    probs = batches.problems(e, "So did a %s", terms)
+    assert any("control codes" in p for p in probs)
+    assert any("a/an" in p for p in probs)
+    assert any("glossary" in p for p in probs)

@@ -117,7 +117,7 @@
    "ヴァイ"
   ],
   "jp": "ザック！　無事だったのか？{n}オマエも魔戦将軍なのかよ!?",
-  "en": "Zakk! You okay? You're a Sorcerer General{n}too!?"
+  "en": "Zakk! You okay? You're a Sorcerer{n}General too!?"
  },
  {
   "id": "s0301_009c4",
@@ -189,7 +189,7 @@
    "ザック"
   ],
   "jp": "久しぶりだな、Ｄ・Ｓ。アンタにも{n}救われた命だが、俺はカル様のために{n}使わなくちゃならない。カル様がいな{n}かったなら、今の俺はないんだ――",
-  "en": "Long time no see, D.S. You saved my life too,{n}but I gotta use it for Kall-sama. If it{n}weren't for Kall-sama, I wouldn't be who I{n}am--"
+  "en": "Long time no see, D.S. You saved my life too,{n}but I gotta use it for Kall-sama. If it{n}weren't for Kall-sama, I wouldn't be who{n}I am--"
  },
  {
   "id": "s0301_00af0",
@@ -237,7 +237,7 @@
    "ザック"
   ],
   "jp": "ヴァイ……こんな形じゃなく、戦えれ{n}ば良かったな。だが、俺は魔戦将軍{n}なんだ――行くぜ！",
-  "en": "Vai... Wish we could've fought some other{n}way. But I'm a Sorcerer General-- Here I{n}come!"
+  "en": "Vai... Wish we could've fought some other{n}way. But I'm a Sorcerer General-- Here{n}I come!"
  },
  {
   "id": "s0301_00b78",
@@ -549,7 +549,7 @@
    ""
   ],
   "jp": "仁王像の如く、完全武装の巨大な{n}騎士がそこに立ち塞がっていた。",
-  "en": "Like a temple guardian statue, a huge{n}knight in full armor stood blocking the{n}way."
+  "en": "Like a temple guardian statue, a huge{n}knight in full armor stood blocking{n}the way."
  },
  {
   "id": "s0301_012a8",
@@ -717,7 +717,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "その通り、修行が足りねえ！　盲目的{n}に主に従うだけなら誰でもできる！{n}違うか？　ブラド",
-  "en": "That's right, your training's lacking! Anybody{n}can follow a master blindly! Am I wrong?{n}Blad."
+  "en": "That's right, your training's lacking! Anybody{n}can follow a master blindly! Am I{n}wrong? Blad."
  },
  {
   "id": "s0301_014b0",
@@ -957,7 +957,7 @@
    ""
   ],
   "jp": "Ｄ・Ｓ一行は、氷獄塔の最上層と思し{n}きフロアに到達していた。塔頂への{n}出口が近いらしく、高空の冷たい空気{n}と、風が鳴る音が幽かに感じられる。",
-  "en": "D.S. and the party had reached what{n}appeared to be the top floor of the Ice{n}Hell Tower. The exit to the summit seemed{n}close, for they could faintly sense the{n}cold air of the high sky and the sound of{n}wind."
+  "en": "D.S. and the party had reached what{n}appeared to be the top floor of the Ice{n}Hell Tower. The exit to the summit seemed{n}close, for they could faintly sense the{n}cold air of the high sky and the sound{n}of wind."
  },
  {
   "id": "s0301_01a74",
@@ -1483,7 +1483,7 @@
    "イングヴェイイングヴェイ・フォン・マルムステ"
   ],
   "jp": "イングヴェイはとある国の騎士階級に{n}ある男であった。出自正しき彼は騎士{n}を継ぐ者として幼い頃から訓練を受け、{n}正式に叙位されてからは、諸国に並ぶ{n}ものなしと称された剣の腕もあって、{n}瞬く間に騎士団の要職へと抜擢された。{n}はた目には順風満帆の、将来を約束{n}された人生であった――。",
-  "en": "Yngwei was a man of the knightly class of{n}a certain country. Of good birth, he had{n}trained from childhood to inherit the rank{n}of knight, and once formally dubbed, his{n}swordsmanship, said to be unrivaled in any{n}land, swiftly raised him to high office in{n}the order of knights. To all eyes it was a{n}life of smooth sailing, with a future{page}assured--"
+  "en": "Yngwei was a man of the knightly class of{n}a certain country. Of good birth, he had{n}trained from childhood to inherit the rank{n}of knight, and once formally dubbed, his{n}swordsmanship, said to be unrivaled in any{n}land, swiftly raised him to high office in{n}the order of knights. To all eyes it was{page}a life of smooth sailing, with a future{n}assured--"
  },
  {
   "id": "s0301_0235c",
@@ -1819,7 +1819,7 @@
    "イングヴェイイングヴェイ・フォン・マルムステ"
   ],
   "jp": "シェラ……世話をかけた。確かめよう。{n}俺たちの信じた理想を――",
-  "en": "Shella... I am sorry for the trouble. Let us{n}see for ourselves, the ideal we believed{n}in--"
+  "en": "Shella... I am sorry for the trouble. Let us{n}see for ourselves, the ideal we{n}believed in--"
  },
  {
   "id": "s0301_02c14",

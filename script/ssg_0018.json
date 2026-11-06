@@ -45,7 +45,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "へへっ、こいつは無駄足には{n}なりそうにねーぜ",
-  "en": "Heh heh, this ain't looking like a wasted{n}trip."
+  "en": "Heh heh, this ain't looking like a{n}wasted trip."
  },
  {
   "id": "s0018_00954",
@@ -93,7 +93,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "こういう場所はな、結界を張るには{n}もってこいなんだぜ。見つけ出したら{n}俺様の呪文でバラッバラに砕いてやる。{n}フッフッフッハッハ――",
-  "en": "This kind of place is just right for putting up{n}a barrier. Once I find it, the great me'll{n}smash it to bits with a spell. Hah hah hah HA{n}HA--"
+  "en": "This kind of place is just right for putting up{n}a barrier. Once I find it, the great me'll{n}smash it to bits with a spell. Hah hah hah{n}HA HA--"
  },
  {
   "id": "s0018_00a10",
@@ -343,7 +343,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "……ま、幸い罠じゃなかったようだ。{n}それにしても、どうしてモノリスが{n}振動なんかしてやがんだ……むっ!?",
-  "en": "...Well, lucky for you it wasn't a trap. But{n}why the hell's a monolith vibrating anyway...{n}hm!?"
+  "en": "...Well, lucky for you it wasn't a trap. But{n}why the hell's a monolith vibrating{n}anyway... hm!?"
  },
  {
   "id": "s0018_00f70",
@@ -369,7 +369,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "Ｄ・Ｓが触れた途端、その手を通じて{n}一連の言葉が意識に飛び込んできた。{page}モノリス自体に変化はなく、ヴァイも{n}触っていながら言葉を受け取った{n}様子はない。どうやらこのモノリスは、{n}ちょうどＤ・Ｓの意識にのみ同調する{n}周波数で振動しているようだった。",
-  "en": "The moment D.S. touched it, a string of{n}words leapt into his mind through his{n}hand.{page}The monolith itself did not change, and{n}Vai, touching it too, seemed to receive no{n}words. It seemed to vibrate at a{n}frequency tuned to D.S.'s mind alone."
+  "en": "The moment D.S. touched it, a string of{n}words leapt into his mind through{n}his hand.{page}The monolith itself did not change, and{n}Vai, touching it too, seemed to receive no{n}words. It seemed to vibrate at a{n}frequency tuned to D.S.'s mind alone."
  },
  {
   "id": "s0018_01064",
@@ -863,7 +863,7 @@
    "ヴァイ"
   ],
   "jp": "待てよＤ・Ｓ。さっき言ってた{n}力試しってこれのコトなんだろ？{n}そんなに簡単に済むのかよ？",
-  "en": "Wait, D.S. This is that power test you were{n}talking about, right? You think it'll be that{n}easy?"
+  "en": "Wait, D.S. This is that power test you were{n}talking about, right? You think it'll be{n}that easy?"
  },
  {
   "id": "s0018_01ba4",
@@ -1498,7 +1498,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "“されどまだ、大地にはびこり我を{n}封ずる者どもを払拭するには能わず”",
-  "en": "\"Yet thou art not able to sweep away{n}those who overrun the earth and seal{n}me.\""
+  "en": "\"Yet thou art not able to sweep away{n}those who overrun the earth and{n}seal me.\""
  },
  {
   "id": "s0018_022e0",

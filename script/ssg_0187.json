@@ -21,7 +21,7 @@
    ""
   ],
   "jp": "そこは古い、太古に忘れられた神聖{n}――あるいは邪悪な神を祀る神殿で{n}あると思われた。ひんやりした空気の{n}中に、今もこの場所で神を崇める{n}儀式が行われていることを示す、{n}微かな香の匂いが漂っている。",
-  "en": "It seemed to be a temple to a god long{n}ago forgotten, either holy or evil. In the{n}chill air hung a faint scent of incense, a{n}sign that rites of worship were still held{n}here."
+  "en": "It seemed to be a temple to a god long{n}ago forgotten, either holy or evil. In the{n}chill air hung a faint scent of incense, a{n}sign that rites of worship were still{n}held here."
  },
  {
   "id": "s0187_00930",
@@ -165,7 +165,7 @@
    "イダ"
   ],
   "jp": "これは失礼。私はイダ・ディースナ、{n}美しきものの奴隷と自ら任ずる者です。{n}今はこの神殿の神に仕え、その美を{n}侵す者を追い払う責務を負う身――",
-  "en": "Pardon my rudeness. I am Ida Deesna, who{n}has named himself a slave of beautiful{n}things. I now serve the god of this temple,{n}charged with driving out those who would{page}profane its beauty--"
+  "en": "Pardon my rudeness. I am Ida Deesna, who{n}has named himself a slave of beautiful{n}things. I now serve the god of this{page}temple, charged with driving out those who{n}would profane its beauty--"
  },
  {
   "id": "s0187_00b60",
@@ -573,7 +573,7 @@
    "カイ"
   ],
   "jp": "大男のクセに化粧などして……{n}ああいう輩は許せん！　叩っ斬って{n}やりたいわ！",
-  "en": "A big guy like that wearing makeup... I won't{n}stand for that type! I want to cut him{n}down!"
+  "en": "A big guy like that wearing makeup... I won't{n}stand for that type! I want to cut{n}him down!"
  },
  {
   "id": "s0187_010ec",
@@ -693,7 +693,7 @@
    ""
   ],
   "jp": "神殿の最奥に当たるその祭壇が、滲み{n}出す強大な妖気の源であるようだった。",
-  "en": "That altar at the deepest part of the{n}temple seemed to be the source of the{n}vast demonic aura that was seeping{n}out."
+  "en": "That altar at the deepest part of the{n}temple seemed to be the source of the{n}vast demonic aura that was{n}seeping out."
  },
  {
   "id": "s0187_01538",

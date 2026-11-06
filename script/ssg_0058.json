@@ -69,7 +69,7 @@
    "ヴァイ"
   ],
   "jp": "（パチッ）痛てッ！　何だかやけに{n}静電気が溜まりやすくなってるな",
-  "en": "(Zap) Ow! Static's really building up around{n}here."
+  "en": "(Zap) Ow! Static's really building up{n}around here."
  },
  {
   "id": "s0058_00940",
@@ -237,7 +237,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "さっきからの静電気やイオン臭は{n}コイツのせいか。凄まじい高電圧が{n}溜め込まれてやがる。大峡谷の風車も、{n}こっちの塔に電気を送ってやがったな",
-  "en": "So this is what's behind the static and the{n}ion smell. There's a monster voltage stored{n}up in there. So the windmills in the great{n}gorge were sending power to this tower{page}too."
+  "en": "So this is what's behind the static and the{n}ion smell. There's a monster voltage stored{n}up in there. So the windmills in the great{page}gorge were sending power to this{n}tower too."
  },
  {
   "id": "s0058_00d34",
@@ -693,7 +693,7 @@
    "ロス"
   ],
   "jp": "あ！　あーあ！　アナタがＤ・Ｓね。{n}そこらをうろつく鬼忍将の手下どもが{n}ウワサしてるわよー。アタシはロス。{n}よろしくー！",
-  "en": "Oh! Oh, I get it! You're D.S. The High Ninja's{n}flunkies wandering around here are all{n}gossiping about you. I'm Ros. Nice to meet{n}you!"
+  "en": "Oh! Oh, I get it! You're D.S. The High Ninja's{n}flunkies wandering around here are all{n}gossiping about you. I'm Ros. Nice to{n}meet you!"
  },
  {
   "id": "s0058_0145c",

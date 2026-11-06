@@ -261,7 +261,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "ボルを襲ったのは強烈な恐怖の記憶で{n}あるらしかった。五感は暗闇に絡め{n}取られ、圧し包む無数の殺意がボルの{n}命を絶とうと襲いくる。船で目覚めて{n}以来、ボルを苦しめてきた焦燥感が{n}具現化したかのような、抵抗できぬ{n}恐怖が彼を苛んでいたようであった。",
-  "en": "It seemed Bol had been struck by a{n}memory of intense terror. His five senses{n}tangled in darkness, countless killing{n}intents closed in to end his life.{n}Irresistible fear had tormented him, as{n}though the dread that had plagued him{n}ever since waking on the ship had taken{n}form."
+  "en": "It seemed Bol had been struck by a{n}memory of intense terror. His five senses{n}tangled in darkness, countless killing{n}intents closed in to end his life.{n}Irresistible fear had tormented him, as{n}though the dread that had plagued him{n}ever since waking on the ship had{n}taken form."
  },
  {
   "id": "s0100_00ba8",
@@ -669,7 +669,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "操影術とは、人里離れた地に隠れ住む{n}一族に密かに受け継がれてきた特殊な{n}技能であった。戦局すらも左右する{n}諜報能力ゆえに、一族は代々その力を{n}外の世界には出さず、里の者の多くは{n}極めて閉鎖的な社会で一生を終えた。",
-  "en": "Shadow manipulation was a special skill{n}handed down in secret by a clan living{n}hidden in a remote land. Because its{n}powers of espionage could sway the{n}course of a war, the clan had for{n}generations kept that power from the{n}outside world, and most of the villagers{n}ended their lives in a tightly closed{page}society."
+  "en": "Shadow manipulation was a special skill{n}handed down in secret by a clan living{n}hidden in a remote land. Because its{n}powers of espionage could sway the{n}course of a war, the clan had for{n}generations kept that power from the{n}outside world, and most of the villagers{page}ended their lives in a tightly closed{n}society."
  },
  {
   "id": "s0100_0139c",
@@ -1125,7 +1125,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "恨むとすりゃ、テメエが今みたいな{n}弱音を吐いた時だ。死ねば良かったと{n}思うくらいなら、討たれてくれりゃ{n}いーじゃねーかってな！",
-  "en": "If they hate you for anything, it's for{n}whining like you just did. \"If you wish you{n}were dead, you could've just let us kill{n}you!\""
+  "en": "If they hate you for anything, it's for{n}whining like you just did. \"If you wish you{n}were dead, you could've just let us{n}kill you!\""
  },
  {
   "id": "s0100_01c80",

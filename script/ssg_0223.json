@@ -357,7 +357,7 @@
    "サイクス"
   ],
   "jp": "――あれは電磁嵐だぞ。迂闊に踏み{n}込めば命も危うい。あんなものが山を{n}覆っていては、とても登攀して氷獄塔{n}まで行き着くことはできまい",
-  "en": "--That is an electromagnetic storm. Step in{n}carelessly and your life is in danger. With{n}such a thing covering the mountains, we{n}could never climb up to the Ice Hell{page}Tower."
+  "en": "--That is an electromagnetic storm. Step in{n}carelessly and your life is in danger. With{n}such a thing covering the mountains, we{page}could never climb up to the Ice Hell{n}Tower."
  },
  {
   "id": "s0223_00f0c",
@@ -549,7 +549,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "電磁波の影響を受けてやがるのか？{n}しょうがねえ、ここから離れるぜ！",
-  "en": "Are the electromagnetic waves getting to{n}him? Can't be helped, let's get away from{n}here!"
+  "en": "Are the electromagnetic waves getting to{n}him? Can't be helped, let's get away{n}from here!"
  },
  {
   "id": "s0223_0134c",
@@ -621,7 +621,7 @@
    "サイクス"
   ],
   "jp": "いくら強力な電磁嵐でも、この距離で{n}……はっ！　まさか、あなたは――？",
-  "en": "No matter how strong the electromagnetic{n}storm, at this distance... Ah! Could you{n}be--?"
+  "en": "No matter how strong the electromagnetic{n}storm, at this distance... Ah! Could{n}you be--?"
  },
  {
   "id": "s0223_013f0",
@@ -955,6 +955,6 @@
    ""
   ],
   "jp": "登山口は雪崩に塞がれ、大規模な除雪{n}を行わなければ登れそうにない。",
-  "en": "The entry path was blocked by an{n}avalanche, and it seemed impossible to{n}climb without large-scale clearing of the{n}snow."
+  "en": "The entry path was blocked by an{n}avalanche, and it seemed impossible to{n}climb without large-scale clearing of{n}the snow."
  }
 ]

@@ -501,7 +501,7 @@
    "ダイ"
   ],
   "jp": "ヒィッ！　……お、脅かしたってダメ{n}ですよネイ様。私はね、もはや母代わ{n}りの貴女すら超えた魔力を身につけた{n}のです！　人間以上、エルフ以上のね！",
-  "en": "Eek! ...Y-you cannot frighten me, Nei-sama.{n}For I have now gained magic that surpasses{n}even you, who were as a mother to me!{n}Greater than a human's, greater than an{page}elf's!"
+  "en": "Eek! ...Y-you cannot frighten me, Nei-sama.{n}For I have now gained magic that surpasses{n}even you, who were as a mother to me!{page}Greater than a human's, greater than an{n}elf's!"
  },
  {
   "id": "s0329_00f6c",
@@ -1605,7 +1605,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "んだとぉ？　虚弱たあ上等じゃねーか！{n}久々に勝負してやっかぁ？",
-  "en": "What was that? Sickly, huh? Now you've{n}done it! Wanna go a round, for old times'{n}sake?"
+  "en": "What was that? Sickly, huh? Now you've{n}done it! Wanna go a round, for old{n}times' sake?"
  },
  {
   "id": "s0329_024c0",
@@ -1677,7 +1677,7 @@
    "ガラ"
   ],
   "jp": "そー思うのはオメエだけだっつーの",
-  "en": "Like I said, you're the only one who thinks{n}so."
+  "en": "Like I said, you're the only one who{n}thinks so."
  },
  {
   "id": "s0329_02550",
@@ -1893,7 +1893,7 @@
    "ネイ"
   ],
   "jp": "何かの増幅器のようね。拾っといて",
-  "en": "It looks like some sort of amplifier. Go pick it{n}up."
+  "en": "It looks like some sort of amplifier. Go pick{n}it up."
  },
  {
   "id": "s0329_0280c",
@@ -2133,7 +2133,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "感じるぜ……俺の中にいる二匹の神が{n}呼応して吠えてやがる。そうかよ……{n}ここにいやがるのかよ",
-  "en": "I can feel it... The two gods inside me are{n}howling back. Is that so... So it's in here,{n}huh."
+  "en": "I can feel it... The two gods inside me are{n}howling back. Is that so... So it's in{n}here, huh."
  },
  {
   "id": "s0329_02e14",
@@ -2157,7 +2157,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "以前迷い込んだ、太古の邪神を祀った{n}神殿と同質のものだな。と、すると、{n}ここにも何かいやがるってコトだ",
-  "en": "It's the same kinda thing as that temple to{n}an ancient evil god we wandered into{n}before. Which means there's something here{n}too."
+  "en": "It's the same kinda thing as that temple to{n}an ancient evil god we wandered into{n}before. Which means there's something{n}here too."
  },
  {
   "id": "s0329_02e7c",
@@ -2469,7 +2469,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "今の俺に不可能はねーぜ。抑え込まれ{n}ていた炎の力が漲ってきやがる……{n}俺様は人呼んで爆炎の征服者！{n}たかが溶岩流の熱で阻めやしねえ！",
-  "en": "Nothing's impossible for me now. The flame{n}power that was held down is surging back...{n}The great me, known as the Conqueror of{n}Explosive Flame! No puny lava heat's{page}gonna stop me!"
+  "en": "Nothing's impossible for me now. The flame{n}power that was held down is surging back...{n}The great me, known as the Conqueror of{page}Explosive Flame! No puny lava heat's gonna{n}stop me!"
  },
  {
   "id": "s0329_03470",

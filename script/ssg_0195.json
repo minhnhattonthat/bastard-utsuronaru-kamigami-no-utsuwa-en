@@ -141,7 +141,7 @@
    "ダイ"
   ],
   "jp": "わ、私の魔力を吸収しましたね？{n}今の私とは比較にならぬほど漲って{n}いた時に抽出した、吸血鬼の暗黒の{n}パワーを！",
-  "en": "Y-You absorbed my magic, did you not? The{n}vampire's dark power, extracted when I was{n}surging with it far beyond what I have{n}now!"
+  "en": "Y-You absorbed my magic, did you not? The{n}vampire's dark power, extracted when I was{n}surging with it far beyond what I{n}have now!"
  },
  {
   "id": "s0195_00b18",
@@ -909,7 +909,7 @@
    "ラン"
   ],
   "jp": "妖魔ども、西の塔に逃げると言って{n}いたな。すぐに追おう！",
-  "en": "Those demons said they would flee to the{n}western tower. Let us chase them at{n}once!"
+  "en": "Those demons said they would flee to the{n}western tower. Let us chase them{n}at once!"
  },
  {
   "id": "s0195_017fc",
@@ -1245,7 +1245,7 @@
    "ヴァイ"
   ],
   "jp": "ヨルグ！　しっかりしろ！{n}引き返すぞ！",
-  "en": "Jorg! Pull yourself together! We're heading{n}back!"
+  "en": "Jorg! Pull yourself together! We're{n}heading back!"
  },
  {
   "id": "s0195_01c28",
@@ -1318,7 +1318,7 @@
    "ヨルグ"
   ],
   "jp": "……俺が、行く。あの鏡を砕くこと{n}さえできれば、ここを通れるように{n}なるだろう",
-  "en": "...I'll go. Smash that mirror, and we can{n}pass."
+  "en": "...I'll go. Smash that mirror, and we{n}can pass."
  },
  {
   "id": "s0195_01cc8",
@@ -1486,7 +1486,7 @@
    "ヨルグ"
   ],
   "jp": "俺は大丈夫だ。自分の生み出した幻影{n}などに負けるものか……いや、勝たな{n}ければならないんだ。お前に秘して{n}いた罪の意識を乗り越えるために――",
-  "en": "I shall be fine. As if I would lose to an{n}illusion born of myself... No, I must win. To{n}overcome the guilt I kept hidden from{n}you--"
+  "en": "I shall be fine. As if I would lose to an{n}illusion born of myself... No, I must win. To{n}overcome the guilt I kept hidden{n}from you--"
  },
  {
   "id": "s0195_01e88",
@@ -2086,7 +2086,7 @@
    "ヨルグ"
   ],
   "jp": "闇が消えていく。そして、ヨルグと{n}重なった少年の幻も、その身の中に{n}溶け込むように薄れていく。",
-  "en": "The darkness faded away. And the{n}phantom boy who had overlapped with{n}Jorg, too, faded as if melting into his{n}body."
+  "en": "The darkness faded away. And the{n}phantom boy who had overlapped with{n}Jorg, too, faded as if melting into{n}his body."
  },
  {
   "id": "s0195_02a38",
@@ -2542,7 +2542,7 @@
    "ヨルグ"
   ],
   "jp": "それ故に指南役は信望も厚く、そして{n}例外なく存在する、それを妬む姦悪な{n}輩の罠に落とされた。不忠義の汚名を{n}着せられた父は幼いヨルグとともに{n}国を逐われ、旅路の果てに胸を病んで{n}無念のうちに死んでいった。",
-  "en": "For that reason the master enjoyed deep{n}trust, and so, without exception, there{n}were those who envied him, and he fell{n}into the trap of such villains. Branded{n}with the shame of disloyalty, his father{n}was driven from the land together with{n}the young Jorg, and at the end of his{n}travels he died of a chest ailment, his{page}hopes unfulfilled."
+  "en": "For that reason the master enjoyed deep{n}trust, and so, without exception, there{n}were those who envied him, and he fell{n}into the trap of such villains. Branded{n}with the shame of disloyalty, his father{n}was driven from the land together with{n}the young Jorg, and at the end of his{page}travels he died of a chest ailment, his{n}hopes unfulfilled."
  },
  {
   "id": "s0195_03168",
@@ -2614,7 +2614,7 @@
    "ヨルグ"
   ],
   "jp": "守りの堅い集落には手を出さず、{n}無防備な旅人や小商隊だけを襲う{n}ハイエナのような盗賊たち――その{n}けちで怯懦な者たちですら、幼い彼に{n}とっては従う他ない強者であった。{page}彼らに奴隷のように扱われ、その残飯{n}を漁ること以外にヨルグの生きる方法{n}はなかった。",
-  "en": "These hyena-like thieves left{n}well-guarded villages alone, and attacked{n}only helpless travelers and small{n}caravans. Yet even those petty, craven{n}men were, to the young boy, the strong{n}he had no choice but to obey.{page}Treated like a slave and scavenging their{n}leftovers, Jorg had no other way to{n}live."
+  "en": "These hyena-like thieves left{n}well-guarded villages alone, and attacked{n}only helpless travelers and small{n}caravans. Yet even those petty, craven{n}men were, to the young boy, the strong{n}he had no choice but to obey.{page}Treated like a slave and scavenging their{n}leftovers, Jorg had no other way{n}to live."
  },
  {
   "id": "s0195_033b0",
@@ -3190,7 +3190,7 @@
    "ヴァイ"
   ],
   "jp": "何だよこの宝箱、開かねえぞ？",
-  "en": "What the hell's with this chest? It won't{n}open!"
+  "en": "What the hell's with this chest? It{n}won't open!"
  },
  {
   "id": "s0195_04c94",
@@ -3694,7 +3694,7 @@
    "ヨルグ"
   ],
   "jp": "俺の目の前で裏口に取り付き、錠を{n}外そうと躍起になっていた。無防備な{n}背を向けて……。俺は憎悪に駆られて、{n}後ろから、頭に、この刀を……おお！",
-  "en": "Right in front of me he was at the back{n}door, frantic to get the lock off. His{n}defenseless back to me... Driven by hatred,{n}from behind, into his head, with this{page}blade... oh!"
+  "en": "Right in front of me he was at the back{n}door, frantic to get the lock off. His{n}defenseless back to me... Driven by{page}hatred, from behind, into his head, with this{n}blade... oh!"
  },
  {
   "id": "s0195_05388",
@@ -3718,7 +3718,7 @@
    "ヨルグ"
   ],
   "jp": "侍には、憎き仇といえども背を向けて{n}いる者を斬ってはならぬと言う鉄の掟{n}がある。忠義を尽くし、徳を高めねば{n}ならぬ武士道においては、それは到底{n}許されぬ、唾棄すべき、恥ずべき行為{n}であったのだ。",
-  "en": "Among samurai there is an iron law: even{n}a hated enemy may not be cut down while{n}his back is turned. In the way of the{n}warrior, where one must keep faith and{n}raise one's virtue, this was an utterly{n}unforgivable, despicable and shameful{n}act."
+  "en": "Among samurai there is an iron law: even{n}a hated enemy may not be cut down while{n}his back is turned. In the way of the{n}warrior, where one must keep faith and{n}raise one's virtue, this was an utterly{n}unforgivable, despicable and{n}shameful act."
  },
  {
   "id": "s0195_05448",
@@ -3910,7 +3910,7 @@
    "ヨルグ"
   ],
   "jp": "――いや、もう一度、あの夢幻鏡の{n}場所へ行こう",
-  "en": "--No. Let us go to the Dream Mirror once{n}more."
+  "en": "--No. Let us go to the Dream Mirror{n}once more."
  },
  {
   "id": "s0195_05680",
@@ -4174,7 +4174,7 @@
    "ブラド"
   ],
   "jp": "人生これ修行！　迷い、壁に当たる{n}ことも騎士への道の肥やしなのだ。{n}誘いは有り難く受け取っておこう！{n}ワシはあくまで独力で切り開く！",
-  "en": "Life is all training! Wandering and hitting{n}walls are fertilizer on the road to{n}knighthood. I gratefully accept your{n}invitation in spirit! I shall carve my own{page}path, alone!"
+  "en": "Life is all training! Wandering and hitting{n}walls are fertilizer on the road to{n}knighthood. I gratefully accept your{page}invitation in spirit! I shall carve my own{n}path, alone!"
  },
  {
   "id": "s0195_05e20",
@@ -4270,7 +4270,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "騎士って、実は結構臨機応変なんじゃ{n}ねーのか？",
-  "en": "So knights are actually pretty damn flexible,{n}huh?"
+  "en": "So knights are actually pretty damn{n}flexible, huh?"
  },
  {
   "id": "s0195_063c0",

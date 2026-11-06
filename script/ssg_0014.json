@@ -285,7 +285,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "……そうか。戦いに関する経験も、{n}記憶と一緒に消されてやがるのか！{n}少しずつ勘を取り戻していくしかねえ{n}ってコトか……くそっ、イラつくぜ！",
-  "en": "...I get it. My battle experience got wiped{n}along with my memory! So I gotta get my{n}edge back bit by bit... damn, that pisses me{n}off!"
+  "en": "...I get it. My battle experience got wiped{n}along with my memory! So I gotta get my{n}edge back bit by bit... damn, that pisses{n}me off!"
  },
  {
   "id": "s0014_00d04",
@@ -501,7 +501,7 @@
    "ヨシュア"
   ],
   "jp": "いや、そうではない。あれは船内に{n}侵入してくる者を襲うよう命令されて{n}いるらしい。私とてこの部屋を出れば{n}襲われるかも知れないのだ、Ｄ・Ｓ",
-  "en": "No, they are not. They appear to be ordered{n}to attack any who enter the ship. I, too,{n}may well be attacked if I leave this room,{n}D.S."
+  "en": "No, they are not. They appear to be ordered{n}to attack any who enter the ship. I, too,{n}may well be attacked if I leave this{n}room, D.S."
  },
  {
   "id": "s0014_01188",
@@ -1005,7 +1005,7 @@
    "ヨシュア"
   ],
   "jp": "言うなり、ヨシュアは室外へと走り{n}去った。止める間もない、風の如き{n}迅さだった。",
-  "en": "With that, Joshua ran from the room, as{n}swift as the wind, before they could stop{n}him."
+  "en": "With that, Joshua ran from the room, as{n}swift as the wind, before they could{n}stop him."
  },
  {
   "id": "s0014_01780",
@@ -1221,7 +1221,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "この像を作ったヤツは、きっと{n}俺様のような超絶美形にお目に{n}かかったことがねえんだろう。{n}芸術的題材だからな、俺様は",
-  "en": "Whoever made this statue must've never laid{n}eyes on a super-gorgeous specimen like the{n}great me. I am a subject for art, after{n}all."
+  "en": "Whoever made this statue must've never laid{n}eyes on a super-gorgeous specimen like the{n}great me. I am a subject for art,{n}after all."
  },
  {
   "id": "s0014_01e88",
@@ -2043,7 +2043,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "手遅れにしねえタメには手段を選ば{n}ねえ――それがモテる男、頼りになる{n}スーパー美形の信条だぜ。要は結果だ、{n}結果ぁ！　過程は問題じゃないね",
-  "en": "To never be too late, I'll use whatever it{n}takes -- that's the creed of a ladykiller, a{n}reliable super-gorgeous guy. Results are{n}what count, results! How you got there{page}don't matter!"
+  "en": "To never be too late, I'll use whatever it{n}takes -- that's the creed of a ladykiller, a{n}reliable super-gorgeous guy. Results are{page}what count, results! How you got there{n}don't matter!"
  },
  {
   "id": "s0014_02a00",
@@ -2715,7 +2715,7 @@
    "ボル"
   ],
   "jp": "極限の恐怖に追い詰められた者の{n}絶叫であった。他者の目には映らぬ{n}何かが、絶え間なく男を責め苛んで{n}いるかに見える。Ｄ・Ｓたちが部屋に{n}入ってきたことにも気づいておらぬ{n}様子だった。",
-  "en": "It was the shriek of one driven to the{n}limit of terror. Something unseen by{n}others seemed to be torturing him{n}without end. He did not seem to notice{n}that D.S. and the others had entered the{n}room."
+  "en": "It was the shriek of one driven to the{n}limit of terror. Something unseen by{n}others seemed to be torturing him{n}without end. He did not seem to notice{n}that D.S. and the others had entered{n}the room."
  },
  {
   "id": "s0014_03a8c",
@@ -2953,7 +2953,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "とにかく、起こしてみるか。また{n}暴れだしたりしねえように、しっかり{n}押さえつけておけよ……オラッ！",
-  "en": "Anyway, let's wake him up. Hold him down{n}tight so he don't start thrashing again...{n}hup!"
+  "en": "Anyway, let's wake him up. Hold him down{n}tight so he don't start thrashing{n}again... hup!"
  },
  {
   "id": "s0014_03d4c",
@@ -3073,7 +3073,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "なあヒゲ面、その化け物ってどんな{n}ヤツらだった？",
-  "en": "Hey, beardface, what were these monsters{n}like?"
+  "en": "Hey, beardface, what were these{n}monsters like?"
  },
  {
   "id": "s0014_03eb0",
@@ -3361,7 +3361,7 @@
    "ボル"
   ],
   "jp": "お願いでござる！　このご恩を{n}返せなくば、それがし武人として{n}生きるに筋が通りませぬ。何卒、{n}それがしをお供させて下され！",
-  "en": "This one begs you! If this debt goes{n}unrepaid, this one cannot live as a warrior.{n}Please, grant this one leave to accompany{n}you!"
+  "en": "This one begs you! If this debt goes{n}unrepaid, this one cannot live as a warrior.{n}Please, grant this one leave to{n}accompany you!"
  },
  {
   "id": "s0014_04360",
@@ -3505,7 +3505,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "まずは落ち着かせるのがいいだろう。{n}そっと後ろに回り込んで、ぶん殴って{n}気絶させるってのはどうだ？",
-  "en": "Calming him down comes first. How about we{n}sneak around behind him and knock him{n}out?"
+  "en": "Calming him down comes first. How about we{n}sneak around behind him and knock{n}him out?"
  },
  {
   "id": "s0014_04568",
@@ -3769,7 +3769,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "同時に、その影は蜘蛛の巣の如くに、{n}主に接近する者の存在を伝えた。{page}男は弾かれたようにＤ・Ｓを見た。{n}その眼は恐怖に見開かれ、意味の{n}判らぬ絶叫が唇から迸る。そして、{n}男は襲いかかってきた。",
-  "en": "At the same time, like a spider's web, the{n}shadow told its master someone was{n}near.{page}The man whipped round to look at D.S. His{n}eyes bulged with fear, and a meaningless{n}scream burst from his lips. Then the man{n}attacked."
+  "en": "At the same time, like a spider's web, the{n}shadow told its master someone{n}was near.{page}The man whipped round to look at D.S. His{n}eyes bulged with fear, and a meaningless{n}scream burst from his lips. Then the man{n}attacked."
  },
  {
   "id": "s0014_04828",
@@ -4057,7 +4057,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "それで、トチ狂って俺たちを襲った{n}ってのか。迷惑な話だぜ",
-  "en": "So he went nuts and attacked us? What a{n}pain."
+  "en": "So he went nuts and attacked us? What{n}a pain."
  },
  {
   "id": "s0014_0531c",
@@ -4297,7 +4297,7 @@
    ""
   ],
   "jp": "その船室の中心に、柔らかな光を放つ{n}球体が浮かんでいた。それは実体ある{n}物質ではなく、空間を越えて現出する{n}エネルギーの通り道のようであった。{n}それに触れると、Ｄ・Ｓの肉体と精神{n}に癒しのエネルギーが流れ込んできた。",
-  "en": "A sphere giving off a soft light floated at{n}the center of the cabin. It was not solid{n}matter but seemed a channel of energy{n}appearing across space. At its touch,{n}healing energy poured into D.S.'s body and{n}mind."
+  "en": "A sphere giving off a soft light floated at{n}the center of the cabin. It was not solid{n}matter but seemed a channel of energy{n}appearing across space. At its touch,{n}healing energy poured into D.S.'s body{n}and mind."
  },
  {
   "id": "s0014_056dc",
@@ -4417,7 +4417,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "それを肯定するように、聖玉は青く{n}点滅してみせた。",
-  "en": "As if to agree, the Holy Orb blinked{n}blue."
+  "en": "As if to agree, the Holy Orb{n}blinked blue."
  },
  {
   "id": "s0014_058b8",

@@ -309,7 +309,7 @@
    "鬼忍将"
   ],
   "jp": "それもまた、鬼の貌であった。鬼気に{n}取り憑かれ、鬼相と化した男の貌――。{n}鬼を象った面よりも、それはなおさら{n}悪鬼に近く見えた。",
-  "en": "It too was an ogre's face. The face of a{n}man possessed by a demonic spirit, turned{n}demon himself--. It looked more like a{n}fiend than the mask carved like an{n}ogre."
+  "en": "It too was an ogre's face. The face of a{n}man possessed by a demonic spirit, turned{n}demon himself--. It looked more like a{n}fiend than the mask carved like{n}an ogre."
  },
  {
   "id": "s0118_00ccc",
@@ -477,7 +477,7 @@
    "ボル"
   ],
   "jp": "その時、Ｄ・Ｓに呼びかける声がした。",
-  "en": "At that moment a voice called out to{n}D.S."
+  "en": "At that moment a voice called out{n}to D.S."
  },
  {
   "id": "s0118_01038",
@@ -837,7 +837,7 @@
    "ガラ"
   ],
   "jp": "うおおっ!?　バカな！　体中の力が{n}抜ける!?　魂が吸い尽くされる――",
-  "en": "Waugh!? Impossible! The strength's leaving{n}my whole body!? My soul's being sucked{n}dry--"
+  "en": "Waugh!? Impossible! The strength's leaving{n}my whole body!? My soul's being{n}sucked dry--"
  },
  {
   "id": "s0118_015b8",
@@ -1101,7 +1101,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "オウデイ？　けっ、神罰たあ大きく{n}出やがったじゃねえか。テメエが俺を{n}この世界に放り込みやがった張本人か？{n}ご丁寧に記憶まで消しやがって",
-  "en": "Slaughter Emperor? Tch, \"divine{n}punishment\", that's big talk. So you're the{n}bastard who tossed me into this world? And{n}you were kind enough to wipe my memory{page}too."
+  "en": "Slaughter Emperor? Tch, \"divine{n}punishment\", that's big talk. So you're the{n}bastard who tossed me into this world?{page}And you were kind enough to wipe my{n}memory too."
  },
  {
   "id": "s0118_01b28",
@@ -1173,7 +1173,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "こうなっては砦は諦め、この身だけ{n}でも破界門よりかの次元へ帰還せねば{n}……彼奴らに嘲笑されようとも、{n}ここで消滅するわけにはゆかぬ――",
-  "en": "It has come to this. I must abandon the{n}fort, and return through the World-Breaker{n}Gate to that dimension, in this body at{n}least... Let those others jeer. I cannot{page}perish here--"
+  "en": "It has come to this. I must abandon the{n}fort, and return through the World-Breaker{n}Gate to that dimension, in this body at{page}least... Let those others jeer. I cannot{n}perish here--"
  },
  {
   "id": "s0118_01c50",
@@ -1557,7 +1557,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "圧倒的な七鍵守護神のエネルギーは{n}なおも天に昇り、破界門の中心に注ぎ{n}込まれる。渦は規則的な回転を失い、{n}もはや次元の門としての機能を停止{n}したようであった。",
-  "en": "The overwhelming energy of the{n}Seven-Key Guardian still rose into the sky,{n}pouring into the center of the{n}World-Breaker Gate. The vortex lost its{n}regular rotation, and seemed to have{n}ceased functioning as a dimensional{n}gate."
+  "en": "The overwhelming energy of the{n}Seven-Key Guardian still rose into the sky,{n}pouring into the center of the{n}World-Breaker Gate. The vortex lost its{n}regular rotation, and seemed to have{n}ceased functioning as a{n}dimensional gate."
  },
  {
   "id": "s0118_02200",
@@ -2181,7 +2181,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "やがて船は、鬼哭関跡とは反対の位置{n}にある外輪山の裂け目へと侵入して{n}いった。竜船が通れる程度の幅しか{n}ない水路で、左右は聳え立つ崖が空{n}まで覆うように挟んでいる。竜船は{n}なおも速度を上げ、この隠された水路{n}を矢のように進んでいく。",
-  "en": "In time the ship entered a rift in the{n}outer rim of the caldera, opposite the{n}ruins of the Ogre Wail Gate. It was a{n}waterway just wide enough for the{n}Dragon Ship, with towering cliffs on either{n}side seeming to roof over the sky. The{n}Dragon Ship picked up still more speed,{n}shooting like an arrow along this hidden{page}waterway."
+  "en": "In time the ship entered a rift in the{n}outer rim of the caldera, opposite the{n}ruins of the Ogre Wail Gate. It was a{n}waterway just wide enough for the{n}Dragon Ship, with towering cliffs on either{n}side seeming to roof over the sky. The{n}Dragon Ship picked up still more speed,{page}shooting like an arrow along this hidden{n}waterway."
  },
  {
   "id": "s0118_02bb4",
@@ -2373,7 +2373,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "自分はガラに勝てないのではないか？{n}師はそれを哀れみ、ムラサメを自分に{n}託したのではないか？{page}この小さな疑いの点が、後にどす黒い{n}雲となってジンの生涯を覆い尽くす{n}ことになる。",
-  "en": "Could he not beat Gara? Had the master,{n}out of pity, entrusted the Murasame to{n}him?{page}That small dot of doubt would later{n}become a black cloud that blotted out all{n}of Jin's life."
+  "en": "Could he not beat Gara? Had the master,{n}out of pity, entrusted the Murasame{n}to him?{page}That small dot of doubt would later{n}become a black cloud that blotted out all{n}of Jin's life."
  },
  {
   "id": "s0118_03020",
@@ -2757,7 +2757,7 @@
    "ガラ"
   ],
   "jp": "オメエ……そうか。そうだよな。{n}Ｄ・Ｓって野郎も、そーゆームカつく{n}男だったぜ。くくく、間違いねーや、{n}はははははは……",
-  "en": "You... Right. Yeah, you're right. That guy D.S.{n}was just that kind of pain in the ass too.{n}Heh heh heh, no doubt about it, ha ha ha ha{n}ha..."
+  "en": "You... Right. Yeah, you're right. That guy D.S.{n}was just that kind of pain in the ass too.{n}Heh heh heh, no doubt about it, ha ha ha{n}ha ha..."
  },
  {
   "id": "s0118_03b34",
@@ -2781,7 +2781,7 @@
    "ガラ"
   ],
   "jp": "水路は長く、霧はさらに濃く立ちこめ{n}て、いつしか時間がどれほど経過した{n}のかも判らなくなっていた。ある者は{n}眠り、ある者は己の記憶の糸を手繰る{n}ように思索に耽り、これまでの冒険の{n}疲れを癒していた。",
-  "en": "The waterway was long, the mist hung{n}thicker still, and before they knew it they{n}could no longer tell how much time had{n}passed. Some slept, while others lost{n}themselves in thought, following the{n}threads of their memories, resting from{n}the weariness of their adventure so{n}far."
+  "en": "The waterway was long, the mist hung{n}thicker still, and before they knew it they{n}could no longer tell how much time had{n}passed. Some slept, while others lost{n}themselves in thought, following the{n}threads of their memories, resting from{n}the weariness of their adventure{n}so far."
  },
  {
   "id": "s0118_03bf8",

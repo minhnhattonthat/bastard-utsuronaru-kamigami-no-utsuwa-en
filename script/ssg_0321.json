@@ -21,7 +21,7 @@
    ""
   ],
   "jp": "洞窟を抜けると、そこはこれまでとは{n}比べものにならぬほど広い、岩壁の{n}天蓋に覆われた巨大な地底空間だった。",
-  "en": "Beyond the cave lay a vast underground{n}space, roofed by a canopy of rock,{n}incomparably wider than anything before{n}it."
+  "en": "Beyond the cave lay a vast underground{n}space, roofed by a canopy of rock,{n}incomparably wider than anything{n}before it."
  },
  {
   "id": "s0321_00884",
@@ -45,7 +45,7 @@
    ""
   ],
   "jp": "目が眩むほど高い天蓋との間には、{n}薄い層雲がかかっていた。その雲から{n}落ちてくるのか、それとも天蓋から{n}滲み出しているのか、霧雨状の水滴が{n}静かに視界を煙らせている。",
-  "en": "Thin layers of cloud hung beneath that{n}dizzyingly high canopy. Whether falling{n}from the clouds or seeping from the rock{n}above, a fine drizzle silently veiled the{n}view."
+  "en": "Thin layers of cloud hung beneath that{n}dizzyingly high canopy. Whether falling{n}from the clouds or seeping from the rock{n}above, a fine drizzle silently veiled{n}the view."
  },
  {
   "id": "s0321_00928",
@@ -333,7 +333,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "ところでオメエ、牛の骨みたいなモン{n}被った、見るからに怪しい黒ローブの{n}奴を見なかったか？",
-  "en": "Hey, you see a guy in a black robe wearing{n}something like a cow skull? Looks shady as{n}hell."
+  "en": "Hey, you see a guy in a black robe wearing{n}something like a cow skull? Looks shady{n}as hell."
  },
  {
   "id": "s0321_00ea8",
@@ -381,7 +381,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "ここまで一本道のハズなんだが……{n}奴には毒の湿地も関係ねえのかも{n}知れねえな――",
-  "en": "There oughta be just the one road this far...{n}Maybe a poison marsh don't mean squat to{n}him--"
+  "en": "There oughta be just the one road this far...{n}Maybe a poison marsh don't mean squat{n}to him--"
  },
  {
   "id": "s0321_0105c",
@@ -525,7 +525,7 @@
    "ヨシュア"
   ],
   "jp": "――その暗黒僧とやらかどうかは断言{n}できないが、不意を衝かれて術をかけ{n}られてしまったようだ。魔法剣士たる{n}侍として、情けない限りだ……",
-  "en": "--I cannot say for certain that it was this{n}Dark Priest of yours, but it seems I was{n}taken unawares and put under an art. For a{n}samurai, a magic swordsman, it is utterly{page}shameful..."
+  "en": "--I cannot say for certain that it was this{n}Dark Priest of yours, but it seems I was{n}taken unawares and put under an art. For{page}a samurai, a magic swordsman, it is utterly{n}shameful..."
  },
  {
   "id": "s0321_01210",
@@ -717,7 +717,7 @@
    "カイ"
   ],
   "jp": "抱き起こされ、カイは薄く目を開けた。{page}日頃、男勝りな言動が目立つカイだけ{n}に、気だるく目覚めた表情は新鮮で、{n}はっとする美貌を気づかせる。特に{n}外傷らしきものは見当たらず、カイも{n}また瞬間的な催眠術にかけられていた{n}ようであった。",
-  "en": "Lifted in his arms, Kai faintly opened her{n}eyes.{page}With Kai so often mannish in word and{n}deed, the languid face she woke with{n}came as a surprise, and revealed a{n}startling beauty. There was no sign of any{n}outward wound; it seemed that Kai too{n}had been put under a moment's{n}hypnosis."
+  "en": "Lifted in his arms, Kai faintly opened{n}her eyes.{page}With Kai so often mannish in word and{n}deed, the languid face she woke with{n}came as a surprise, and revealed a{n}startling beauty. There was no sign of any{n}outward wound; it seemed that Kai too{n}had been put under a moment's{n}hypnosis."
  },
  {
   "id": "s0321_015f0",
@@ -1797,7 +1797,7 @@
    "ヨシュア"
   ],
   "jp": "ともかく、先に進もう。Ｄ・Ｓの身体{n}のこともあるし、何よりまだこの地に{n}散らばっている仲間が心配だ",
-  "en": "In any case, let us go on. There is D.S.'s{n}condition to think of, and above all I fear{n}for our comrades still scattered across this{n}land."
+  "en": "In any case, let us go on. There is D.S.'s{n}condition to think of, and above all I fear{n}for our comrades still scattered across{n}this land."
  },
  {
   "id": "s0321_0278c",
@@ -2925,7 +2925,7 @@
    "ジオン"
   ],
   "jp": "故に、影流を統べる者が惰弱であれば、{n}王家は間違いなく家を取り潰すことに{n}なる。影流宗家は常に優秀な世継ぎを{n}――強い雄を欲してきた。それを得る{n}ためならば、侍が守らねばならぬ徳や{n}礼節は何ら拘束力を持たなかった。",
-  "en": "Thus, were the one who led the Shadow{n}School a weakling, the royal house would{n}surely destroy the family. The head family{n}always craved a superior heir-- a strong{n}male. To gain one, the virtue and courtesy{n}a samurai must uphold bound them not at{n}all."
+  "en": "Thus, were the one who led the Shadow{n}School a weakling, the royal house would{n}surely destroy the family. The head family{n}always craved a superior heir-- a strong{n}male. To gain one, the virtue and courtesy{n}a samurai must uphold bound them not{n}at all."
  },
  {
   "id": "s0321_03ef0",
@@ -3093,7 +3093,7 @@
    "ジオン"
   ],
   "jp": "良く気がつく、芯の強い武家の娘――{n}父にあてがわれたようで、当初は多少{n}の反発を抱いていたジオンも、次第に{n}マリエへと傾倒していく。ふたりに{n}真実の恋が生まれるまで、さしたる{n}時間はかからなかった。",
-  "en": "An attentive, strong-willed daughter of a{n}warrior house-- She seemed foisted on{n}him by his father, and Zion at first felt{n}some resistance, but little by little he{n}came to be devoted to Marie. It took no{n}great time for true love to grow between{n}them."
+  "en": "An attentive, strong-willed daughter of a{n}warrior house-- She seemed foisted on{n}him by his father, and Zion at first felt{n}some resistance, but little by little he{n}came to be devoted to Marie. It took no{n}great time for true love to grow{n}between them."
  },
  {
   "id": "s0321_04454",
@@ -3957,7 +3957,7 @@
    "ジオン"
   ],
   "jp": "絶叫した。ジオンは狂ったように、{n}暗い天に向かって吼えた。泣いている{n}はずだった。だが、降りしきる雨が{n}彼に、己の涙はもはや枯れ果てている{n}かのように感じさせた。",
-  "en": "He screamed. Like a madman, Zion howled{n}at the dark heavens. He must have been{n}weeping. But the pouring rain made him{n}feel as if his own tears had long since run{n}dry."
+  "en": "He screamed. Like a madman, Zion howled{n}at the dark heavens. He must have been{n}weeping. But the pouring rain made him{n}feel as if his own tears had long since{n}run dry."
  },
  {
   "id": "s0321_05c44",
@@ -4101,7 +4101,7 @@
    "ジオン"
   ],
   "jp": "そして――忌まわしき記憶の全てを{n}取り戻した兄弟は、ここに巡り会った{n}のだった。",
-  "en": "And so-- the brothers, having recovered{n}all their cursed memories, had met again{n}here."
+  "en": "And so-- the brothers, having recovered{n}all their cursed memories, had met{n}again here."
  },
  {
   "id": "s0321_06048",
@@ -4125,7 +4125,7 @@
    "ジオン"
   ],
   "jp": "兄弟の背負うあまりにも重い宿命に、{n}声を発する者は誰もなかった。",
-  "en": "Before the all too heavy fate the{n}brothers bore, none could utter a{n}word."
+  "en": "Before the all too heavy fate the{n}brothers bore, none could utter{n}a word."
  },
  {
   "id": "s0321_0608c",
@@ -5705,7 +5705,7 @@
    "ジオン"
   ],
   "jp": "――吠えなくともいい。{n}すぐに、決着をつけてやる",
-  "en": "--No need to bark. I shall settle this at{n}once."
+  "en": "--No need to bark. I shall settle this{n}at once."
  },
  {
   "id": "s0321_07550",
@@ -6167,7 +6167,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "やかましーや！　どうしてもやり合お{n}うってんなら、俺を倒してからにしな。{n}その程度の業に縛られてるテメーらに{n}やられる俺様じゃねーけどよ",
-  "en": "Shaddap! If you gotta fight so bad, go{n}through me first. Not that the great me{n}could lose to guys tied up in karma that{n}puny."
+  "en": "Shaddap! If you gotta fight so bad, go{n}through me first. Not that the great me{n}could lose to guys tied up in karma{n}that puny."
  },
  {
   "id": "s0321_07c20",
@@ -6239,7 +6239,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "小僧どもに多少斬られてヒイヒイゆー{n}ほどヤワじゃねーよ。任しとけ……う",
-  "en": "I ain't so soft I'll squeal over a few nicks{n}from a couple of brats. Leave it to me...{n}Ugh."
+  "en": "I ain't so soft I'll squeal over a few nicks{n}from a couple of brats. Leave it to{n}me... Ugh."
  },
  {
   "id": "s0321_07d28",
@@ -6503,7 +6503,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "へ、へ……記憶を失ってる時は仲が{n}良くて、思い出したら殺し合う――{n}そーいうのはよ、オカシーじゃねえか？",
-  "en": "Heh, heh... Best pals when you got no{n}memories, then you kill each other once you{n}remember-- Don't you think that's messed{n}up?"
+  "en": "Heh, heh... Best pals when you got no{n}memories, then you kill each other once you{n}remember-- Don't you think that's{n}messed up?"
  },
  {
   "id": "s0321_07fc0",
@@ -7247,7 +7247,7 @@
    "シェン"
   ],
   "jp": "兄者……ジオン兄さん。オレは……{n}こんなことがしたかったんじゃない",
-  "en": "Brother... My brother, Zion. I... didn't want{n}this."
+  "en": "Brother... My brother, Zion. I... didn't{n}want this."
  },
  {
   "id": "s0321_08a20",
@@ -7391,7 +7391,7 @@
    "シェン"
   ],
   "jp": "ああ、兄さん……見えるよ。マリエも、{n}笑っ、て、る――",
-  "en": "Ah, brother... I can see it. Marie's, smil, ing,{n}too--"
+  "en": "Ah, brother... I can see it. Marie's, smil,{n}ing, too--"
  },
  {
   "id": "s0321_08c30",
@@ -8115,7 +8115,7 @@
    "暗黒僧"
   ],
   "jp": "まあ良い。どのみちお前たちが辿り{n}着くのは滅びと言う名の絶望だ。{n}今はわずかに余命が延びたことを、{n}喜び合うが良かろう――",
-  "en": "No matter. Either way, where you are{n}headed is the despair called ruin. For now{n}you may rejoice together that your{n}remaining lives have been stretched a{page}little--"
+  "en": "No matter. Either way, where you are{n}headed is the despair called ruin. For now{n}you may rejoice together that your{page}remaining lives have been stretched a{n}little--"
  },
  {
   "id": "s0321_0aae8",
@@ -8379,7 +8379,7 @@
    "ヴァイ"
   ],
   "jp": "う……ん？　か、母ちゃん、もう食え{n}ねえよ……ムニャ",
-  "en": "Uh... Hm? M-Ma, I can't eat any more...{n}Mmf."
+  "en": "Uh... Hm? M-Ma, I can't eat any{n}more... Mmf."
  },
  {
   "id": "s0321_0bad8",

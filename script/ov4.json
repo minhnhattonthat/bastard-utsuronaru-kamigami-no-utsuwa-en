@@ -129,7 +129,7 @@
    "ov4:table"
   ],
   "jp": "呪われた影流の運命から逃れられず、{n}異母兄ジオンをその手に掛けたシェン。{n}だが、彼は気づいた。亡き妻マリエが{n}望んだのは血塗られた復讐ではないと。{n}現実世界で、彼らはやり直せるだろう。",
-  "en": "Unable to escape the curse of the Shadow{n}School, Schen slew half-brother Zion. But he{n}saw that his late wife Marie never wanted{n}bloody revenge. In reality, they can start{n}over."
+  "en": "Unable to escape the curse of the Shadow{n}School, Schen slew half-brother Zion. But he{n}saw that his late wife Marie never wanted{n}bloody revenge. In reality, they can{n}start over."
  },
  {
   "id": "ov4_02398",
@@ -249,7 +249,7 @@
    "ov4:table"
   ],
   "jp": "強靱な肉体と並外れたパワーで、重い{n}槍を振るう巨漢の侍アンガス。その{n}正体はアビゲイルが旧世界の技術を{n}駆使して製造した、外骨格型ロボット{n}であった。中に潜むのは無論アビだ。",
-  "en": "Angus, giant samurai, swings a heavy spear{n}with tough flesh and huge power. In truth{n}he is an exoskeleton robot Abigail built with{n}old-world technology. Inside, of course, is{n}Abi."
+  "en": "Angus, giant samurai, swings a heavy spear{n}with tough flesh and huge power. In truth{n}he is an exoskeleton robot Abigail built with{n}old-world technology. Inside, of course,{n}is Abi."
  },
  {
   "id": "ov4_02b68",
@@ -321,7 +321,7 @@
    "ov4:table"
   ],
   "jp": "巨大生物の生け贄にまでされかけた{n}シーン。鬼道衆として悲しい過去を{n}背負いながらも、前を向いて進む彼女{n}の健気さに、仲間たちは大いに勇気{n}づけられてきた。これからも、きっと。",
-  "en": "Sean was nearly sacrificed to a giant{n}creature. Bearing the sad past of the Kido{n}Corps, she still faces forward, and her pluck{n}has long cheered her comrades. As it surely{n}will."
+  "en": "Sean was nearly sacrificed to a giant{n}creature. Bearing the sad past of the Kido{n}Corps, she still faces forward, and her pluck{n}has long cheered her comrades. As it{n}surely will."
  },
  {
   "id": "ov4_03018",
@@ -465,7 +465,7 @@
    "ov4:table"
   ],
   "jp": "暗殺剣影流に縛られ、憎み合う兄弟が{n}辿り着く救いの地は、無惨な死しか{n}なかったのだろうか。過去に囚われた{n}時点で、彼らの運命は決していたのか。{n}そうは思えない……道は必ずあるのだ。",
-  "en": "Bound by the Shadow School, could these{n}hating brothers find salvation only in{n}wretched death? Was their fate sealed by{n}the past? I think not... There is always a{n}way."
+  "en": "Bound by the Shadow School, could these{n}hating brothers find salvation only in{n}wretched death? Was their fate sealed by{n}the past? I think not... There is always{n}a way."
  },
  {
   "id": "ov4_03978",
@@ -537,7 +537,7 @@
    "ov4:table"
   ],
   "jp": "恩あるＤ・Ｓのため、命をなげうって{n}獰悪な蓮塔の護衛を引きつけたボル。{n}しかし彼はＤ・Ｓと再度合流すること{n}はできなかった。この義理堅い男を、{n}ともに帰還させたかったものである。",
-  "en": "For D.S., to whom he owed much, Bol staked{n}his life to draw off the savage guards of{n}the Lotus Tower. But he could not rejoin D.S.{n}If only this loyal man had returned with{n}them."
+  "en": "For D.S., to whom he owed much, Bol staked{n}his life to draw off the savage guards of{n}the Lotus Tower. But he could not rejoin D.S.{n}If only this loyal man had returned{n}with them."
  },
  {
   "id": "ov4_03e28",
@@ -549,7 +549,7 @@
    "ov4:table"
   ],
   "jp": "いかに不死身とも言うべき肉体再生{n}能力を持つ蟲使いバ・ソリーと言えど、{n}生命の龍の化身である巨獣の餌にされ{n}ては、その世界での生に終止符を打た{n}ざるを得なかったようである。",
-  "en": "Even Ba Thory the bug tamer, with flesh{n}regeneration near to immortality, could not{n}but end his life in that world when fed to{n}the great beast, avatar of the dragon of{n}life."
+  "en": "Even Ba Thory the bug tamer, with flesh{n}regeneration near to immortality, could not{n}but end his life in that world when fed to{n}the great beast, avatar of the dragon{n}of life."
  },
  {
   "id": "ov4_03ef0",
@@ -573,7 +573,7 @@
    "ov4:table"
   ],
   "jp": "蓮塔の悪魔を足止めするべく、ひとり{n}隊列を離れたバ・ソリー。しかし、{n}いかに不死身の蟲使いと言えど、再び{n}合流することはできなかった。残念な{n}ことである。",
-  "en": "Ba Thory left the ranks alone to hold back{n}the demons of the Lotus Tower. But even an{n}undying bug tamer could not rejoin them. A{n}pity."
+  "en": "Ba Thory left the ranks alone to hold back{n}the demons of the Lotus Tower. But even an{n}undying bug tamer could not rejoin them.{n}A pity."
  },
  {
   "id": "ov4_04080",
@@ -609,7 +609,7 @@
    "ov4:table"
   ],
   "jp": "竜船以降、幾度となく巡り会った頑固{n}な騎士ブラド。最後に彼は己の盲従が{n}過ちであったと悟るが、Ｄ・Ｓに下る{n}ことなく傷心のまま立ち去る。彼を{n}感服させることはできないものなのか。",
-  "en": "Blad, stubborn knight, met D.S. again and{n}again since the Dragon Ship. At the end he{n}saw his blind obedience was wrong, but left{n}heartbroken, unbowed. Can no one win him{n}over?"
+  "en": "Blad, stubborn knight, met D.S. again and{n}again since the Dragon Ship. At the end he{n}saw his blind obedience was wrong, but left{n}heartbroken, unbowed. Can no one win{n}him over?"
  },
  {
   "id": "ov4_042d8",
@@ -693,7 +693,7 @@
    "ov4:table"
   ],
   "jp": "記憶を失ったまま、古代の鬼神の醸す{n}邪悪な美の虜となったイダ。結局、{n}彼の記憶は戻らなかった。彼の心の{n}奥底まで震わせる真の美――それを{n}見せつけない限り、イダは目覚めない。",
-  "en": "Memory lost, Ida became prisoner of the{n}evil beauty of an ancient demon god. In the{n}end his memory never returned. Only a true{n}beauty to shake his very soul will awaken{n}Ida."
+  "en": "Memory lost, Ida became prisoner of the{n}evil beauty of an ancient demon god. In the{n}end his memory never returned. Only a true{n}beauty to shake his very soul will{n}awaken Ida."
  },
  {
   "id": "ov4_04850",

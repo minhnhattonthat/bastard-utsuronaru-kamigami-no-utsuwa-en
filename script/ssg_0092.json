@@ -93,7 +93,7 @@
    "サイクス"
   ],
   "jp": "自走砦の土台となる巨岩部分は、{n}それ自体が結界――魔法陣なのだ。{n}天守閣にあるはずの霊子炉を増幅する{n}ためのブースターなのだよ、ここは",
-  "en": "The huge rock that forms the base of the{n}walking fort is itself a barrier -- a magic{n}circle. This place, gentlemen, is a booster to{n}amplify the spirit reactor that must be in{page}the keep."
+  "en": "The huge rock that forms the base of the{n}walking fort is itself a barrier -- a magic{n}circle. This place, gentlemen, is a booster{page}to amplify the spirit reactor that must be in{n}the keep."
  },
  {
   "id": "s0092_0095c",
@@ -141,7 +141,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "ははあ。そういやこの岩塊、六角形に{n}なってやがった。この洞窟がその{n}一角か。六点の安定したエネルギー点{n}を設置して増幅してやがるのか！",
-  "en": "Ah-ha. Come to think of it, this rock's a{n}hexagon. So this cave's one corner of it.{n}They set six stable energy points to amplify{n}it!"
+  "en": "Ah-ha. Come to think of it, this rock's a{n}hexagon. So this cave's one corner of it.{n}They set six stable energy points to{n}amplify it!"
  },
  {
   "id": "s0092_00a6c",
@@ -333,7 +333,7 @@
    "サイクス"
   ],
   "jp": "ああ。だが、一時的に過ぎない。{n}こうしてこちら側に出た瞬間から、{n}奴は私の思考波を嗅ぎつけて追尾を{n}開始しているだろう",
-  "en": "Yes. But only for now. From the moment I{n}came out on this side, it will have smelled{n}out my thought waves and started tracking{n}me."
+  "en": "Yes. But only for now. From the moment I{n}came out on this side, it will have smelled{n}out my thought waves and started{n}tracking me."
  },
  {
   "id": "s0092_00ca0",
@@ -573,7 +573,7 @@
    "サイクス"
   ],
   "jp": "言い残して、サイクスは迅速に亜空間{n}へと撤退した。猟犬と呼ばれるものは{n}その次元移動を敏感に察知し、即座に{n}追撃の顎を方向修正する。獰猛な気配{n}は再び遠ざかり、開きかけた亜空間の{n}亀裂も修復されていく。",
-  "en": "With those words, Sykes swiftly withdrew{n}into subspace. The thing called the hound{n}keenly sensed his dimensional shift and at{n}once turned its pursuing jaws. The savage{n}presence receded once more, and the{n}half-open rift in subspace closed itself{n}up."
+  "en": "With those words, Sykes swiftly withdrew{n}into subspace. The thing called the hound{n}keenly sensed his dimensional shift and at{n}once turned its pursuing jaws. The savage{n}presence receded once more, and the{n}half-open rift in subspace closed{n}itself up."
  },
  {
   "id": "s0092_01110",
@@ -621,7 +621,7 @@
    ""
   ],
   "jp": "この岩洞のエネルギー源らしき、輝く{n}クリスタルの結晶が浮かんでいた。",
-  "en": "A shining crystal floated there,{n}apparently the energy source of this rock{n}cave."
+  "en": "A shining crystal floated there,{n}apparently the energy source of this{n}rock cave."
  },
  {
   "id": "s0092_01498",
@@ -741,7 +741,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "Ｄ・Ｓが低く詠唱し、水晶の周囲に{n}指先で複雑な印を描く。と、結晶の{n}放つ光が収束し、それは純白の輝き{n}へと変化した。",
-  "en": "D.S. chanted in a low voice and traced a{n}complex seal around the crystal with his{n}fingertip. The light it gave off drew{n}together and changed to a pure white{n}glow."
+  "en": "D.S. chanted in a low voice and traced a{n}complex seal around the crystal with his{n}fingertip. The light it gave off drew{n}together and changed to a pure{n}white glow."
  },
  {
   "id": "s0092_0164c",

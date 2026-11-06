@@ -21,7 +21,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "チッ……塔の中にも魔物どもが{n}入り込んでいやがる",
-  "en": "Tch... The monsters got inside the tower{n}too."
+  "en": "Tch... The monsters got inside the{n}tower too."
  },
  {
   "id": "s0361_0084c",
@@ -849,7 +849,7 @@
    "ヨルグ"
   ],
   "jp": "皆に、借りを返す時が来たな――",
-  "en": "The time has come to repay my debt to you{n}all--"
+  "en": "The time has come to repay my debt to{n}you all--"
  },
  {
   "id": "s0361_00fbc",
@@ -1539,7 +1539,7 @@
    "カイ"
   ],
   "jp": "先に行け、Ｄ・Ｓ！{n}異形どもはオレが引きつける！",
-  "en": "Go on ahead, D.S.! I'll draw these freaks{n}off!"
+  "en": "Go on ahead, D.S.! I'll draw these{n}freaks off!"
  },
  {
   "id": "s0361_0148c",
@@ -2079,7 +2079,7 @@
    "マカパイン"
   ],
   "jp": "フ……妖縛士の失地回復に相応しい{n}相手だな。Ｄ・Ｓ、ここは私が{n}引き受ける",
-  "en": "Heh... A fitting foe for a demon binder to{n}regain lost ground. D.S., I will take this{n}one."
+  "en": "Heh... A fitting foe for a demon binder to{n}regain lost ground. D.S., I will take{n}this one."
  },
  {
   "id": "s0361_017ec",
@@ -2409,7 +2409,7 @@
    "ロス"
   ],
   "jp": "せっかく重力剣も完璧になったんだか{n}ら、活躍したいワケよ。だからそっち{n}も、間に合わなかったなんて間抜けな{n}真似しちゃダメよ！",
-  "en": "The Gravity Sword's finally complete, so of{n}course I want to show off. So don't you{n}dare do anything as silly as arriving too{n}late!"
+  "en": "The Gravity Sword's finally complete, so of{n}course I want to show off. So don't you{n}dare do anything as silly as arriving{n}too late!"
  },
  {
   "id": "s0361_01a94",
@@ -2949,7 +2949,7 @@
    "イダ"
   ],
   "jp": "何と醜き悪魔たち……召喚士の名に{n}かけても、私が地獄の底に送還して{n}差し上げましょう。Ｄ・Ｓ、カル様、{n}先をお急ぎ下さい",
-  "en": "What ugly demons... By my name as a{n}summoner, I shall send them back to the{n}depths of hell. D.S., Kall-sama, please hurry{n}on."
+  "en": "What ugly demons... By my name as a{n}summoner, I shall send them back to the{n}depths of hell. D.S., Kall-sama, please{n}hurry on."
  },
  {
   "id": "s0361_01eec",
@@ -3129,7 +3129,7 @@
    "ブラド"
   ],
   "jp": "手遅れになってはならんのだろう？{n}ならばここは効率を追い、先に進む{n}道を選べい！　ワシはこの奴原に、{n}目にもの見せてくれるわぁ！",
-  "en": "You must not be too late, must you? Then{n}choose efficiency, and take the road ahead!{n}I shall show these wretches a thing or{n}two!"
+  "en": "You must not be too late, must you? Then{n}choose efficiency, and take the road ahead!{n}I shall show these wretches a thing{n}or two!"
  },
  {
   "id": "s0361_02078",
@@ -3549,7 +3549,7 @@
    ""
   ],
   "jp": "塔の最上層にも、それらは待ち構えて{n}いた。",
-  "en": "They lay in wait on the tower's top floor{n}too."
+  "en": "They lay in wait on the tower's top{n}floor too."
  },
  {
   "id": "s0361_04dec",

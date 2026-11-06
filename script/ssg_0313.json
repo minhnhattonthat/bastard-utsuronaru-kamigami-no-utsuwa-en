@@ -333,7 +333,7 @@
    "ロス"
   ],
   "jp": "……想像しただけで気絶しそう。いく{n}らでもアヤまるからそれだけはヤメテ",
-  "en": "...The very thought makes me want to faint.{n}I'll apologize as much as you like, just not{n}that."
+  "en": "...The very thought makes me want to faint.{n}I'll apologize as much as you like, just{n}not that."
  },
  {
   "id": "s0313_00f48",
@@ -861,7 +861,7 @@
    "ダイ"
   ],
   "jp": "効きませんねぇネイ様。私はもはや、{n}母代わりである貴女を超えたのです！{n}魔雷妃であった貴女に奪われた以上の{n}闇の魔力を取り戻したのですよぉぉ！",
-  "en": "That had no effect, Nei-sama. I have now{n}surpassed you, who were as a mother to me!{n}I have regained more dark magic than you{n}stole from me as the Demon Thunder{page}Queen!"
+  "en": "That had no effect, Nei-sama. I have now{n}surpassed you, who were as a mother to me!{n}I have regained more dark magic than you{page}stole from me as the Demon Thunder{n}Queen!"
  },
  {
   "id": "s0313_01904",
@@ -1387,7 +1387,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "ホントに、イイんだなぁ？　俺様が{n}考えるドレイのよーに扱って？",
-  "en": "You really mean that? Treat you like a{n}slave, the way the great me thinks of{n}one?"
+  "en": "You really mean that? Treat you like a{n}slave, the way the great me thinks{n}of one?"
  },
  {
   "id": "s0313_0207c",
@@ -1867,7 +1867,7 @@
    "イングヴェイイングヴェイ・フォン・マルムステ"
   ],
   "jp": "いや……我々魔戦将軍が皆そのように{n}考えることができれば、我々はもっと{n}カル様のお役に立てただろう。そして{n}それは、これからでも遅くはない",
-  "en": "No... If all of us Sorcerer Generals could{n}think that way, we would have been of more{n}use to Kall-sama. And it is not too late, even{n}now."
+  "en": "No... If all of us Sorcerer Generals could{n}think that way, we would have been of more{n}use to Kall-sama. And it is not too late,{n}even now."
  },
  {
   "id": "s0313_02c5c",
@@ -2011,7 +2011,7 @@
    "イングヴェイイングヴェイ・フォン・マルムステ"
   ],
   "jp": "シェン？　どうした、恐い貌をして？",
-  "en": "Schen? What is the matter? That frightening{n}look?"
+  "en": "Schen? What is the matter? That{n}frightening look?"
  },
  {
   "id": "s0313_02e24",
@@ -2059,7 +2059,7 @@
    "シェン"
   ],
   "jp": "イングヴェイはこの小部屋で癌細胞の{n}番兵と戦い、鍵を入手していた。",
-  "en": "In this small room Yngwei had fought a{n}sentry of cancer cells and obtained a{n}key."
+  "en": "In this small room Yngwei had fought a{n}sentry of cancer cells and obtained{n}a key."
  },
  {
   "id": "s0313_02e8c",
@@ -2161,7 +2161,7 @@
    ""
   ],
   "jp": "それは、洞窟にはびこる黒肉腫だった。{page}肉腫は蠕動しながら溝へゆっくりと{n}移動し、そのまま次々と落下していく。{n}恐らくは溝の底から洞窟へと通じる{n}排出孔があり、そこから肉腫が外に{n}送り出されているのだろう。",
-  "en": "It was the black tumors that infested the{n}cave.{page}The tumors slowly writhed their way to{n}the trench, and fell in, one after another.{n}No doubt at the bottom of the trench{n}was a drain leading to the cave, by which{n}the tumors were sent out."
+  "en": "It was the black tumors that infested{n}the cave.{page}The tumors slowly writhed their way to{n}the trench, and fell in, one after another.{n}No doubt at the bottom of the trench{n}was a drain leading to the cave, by which{n}the tumors were sent out."
  },
  {
   "id": "s0313_032fc",
@@ -2213,7 +2213,7 @@
    "ガラ"
   ],
   "jp": "こっからじゃチョイと渡れそうにねえ{n}な。真ン中の扉から入ってこねえとよ",
-  "en": "Doesn't look like we can get across from{n}here. We gotta come in through the middle{n}door."
+  "en": "Doesn't look like we can get across from{n}here. We gotta come in through the{n}middle door."
  },
  {
   "id": "s0313_03520",
@@ -2489,7 +2489,7 @@
    "ネイ"
   ],
   "jp": "コラ！　ガラ！　アンタがビビって{n}どうするの！　魔神剣出しなさいよ、{n}ホラ！",
-  "en": "Hey! Gara! What are you doing getting{n}scared! Get out your Demon Sword, come{n}on!"
+  "en": "Hey! Gara! What are you doing getting{n}scared! Get out your Demon Sword,{n}come on!"
  },
  {
   "id": "s0313_03afc",
@@ -2873,7 +2873,7 @@
    "ザック"
   ],
   "jp": "同時に、館全体が激しく鳴動し始めた。{page}この建物を構成する建材の大部分が{n}魔神から発生した生きた細胞部品で{n}あり、主を失った今、それらは接合{n}する力をなくして崩壊、死滅を始めた{n}のである。",
-  "en": "At the same time, the whole mansion{n}began to rumble violently.{page}Most of the materials of this building{n}were living cell parts born of the demon{n}god, and now that they had lost their{n}master they lost the power to hold{n}together, and began to fall apart and{n}die."
+  "en": "At the same time, the whole mansion{n}began to rumble violently.{page}Most of the materials of this building{n}were living cell parts born of the demon{n}god, and now that they had lost their{n}master they lost the power to hold{n}together, and began to fall apart{n}and die."
  },
  {
   "id": "s0313_03fb8",

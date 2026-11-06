@@ -117,7 +117,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "蠢くオーロラの光が生んだ幻影なのか{n}――その時、遥か地平線に並び聳える{n}双子のような山の頂を繋ぐ巨大な氷の{n}橋が――そしてそこから天高くそそり{n}立つ塔らしき建造物が、彼方の空に{n}はっきりと浮かび上がった。",
-  "en": "Was it a phantom born of the writhing{n}aurora light? At that moment, far off on{n}the horizon, a huge bridge of ice linking{n}the peaks of two twin mountains, and{n}rising high above it what seemed to be a{n}tower, stood out clearly in the distant{n}sky."
+  "en": "Was it a phantom born of the writhing{n}aurora light? At that moment, far off on{n}the horizon, a huge bridge of ice linking{n}the peaks of two twin mountains, and{n}rising high above it what seemed to be a{n}tower, stood out clearly in the{n}distant sky."
  },
  {
   "id": "s0207_00b3c",
@@ -837,7 +837,7 @@
    "至高王"
   ],
   "jp": "言い残し、仮面の至高王は馬首を{n}返して駆け去った。彼方の空で煌めく、{n}氷の塔に向かって――。",
-  "en": "With those words, the masked High King{n}turned his horse and rode away, toward{n}the tower of ice gleaming in the distant{n}sky--"
+  "en": "With those words, the masked High King{n}turned his horse and rode away, toward{n}the tower of ice gleaming in the{n}distant sky--"
  },
  {
   "id": "s0207_012ac",
@@ -1389,7 +1389,7 @@
    "マカパイン"
   ],
   "jp": "……魔戦将軍は一騎当千の強者たちだ。{n}カル様を戴いた今、その力はこれまで{n}とは比ぶべくもない。油断するなよ",
-  "en": "...The Sorcerer Generals are warriors, each a{n}match for a thousand. With Kall-sama at{n}their head, their strength is beyond{n}compare with what it was. Be on your{page}guard."
+  "en": "...The Sorcerer Generals are warriors, each a{n}match for a thousand. With Kall-sama at{n}their head, their strength is beyond{page}compare with what it was. Be on your{n}guard."
  },
  {
   "id": "s0207_01ad8",
@@ -1461,7 +1461,7 @@
    "マカパイン"
   ],
   "jp": "かつての宿敵であった妖縛士は、再び{n}敵陣へと身を翻していった。その左目{n}に微かな躊躇いの色を残して――。",
-  "en": "The demon binder, once a sworn rival,{n}turned back toward the enemy camp, with{n}a faint trace of hesitation left in his left{n}eye--"
+  "en": "The demon binder, once a sworn rival,{n}turned back toward the enemy camp, with{n}a faint trace of hesitation left in his{n}left eye--"
  },
  {
   "id": "s0207_01bac",
@@ -1581,7 +1581,7 @@
    "ラン"
   ],
   "jp": "Ｄ・Ｓ……黒騎士だった俺を快く迎え{n}てくれたあなたに刃を向ける不逞は{n}重々承知しているつもりだ。この上、{n}あなたに頼み事をする非礼も――",
-  "en": "D.S.... I know full well the insolence of{n}turning my blade on you, who gladly took me{n}in when I was the Black Knight. And the{n}discourtesy of asking you a favor on top{page}of that--"
+  "en": "D.S.... I know full well the insolence of{n}turning my blade on you, who gladly took me{n}in when I was the Black Knight. And the{page}discourtesy of asking you a favor on top of{n}that--"
  },
  {
   "id": "s0207_01d20",
@@ -1749,7 +1749,7 @@
    "ラン"
   ],
   "jp": "ヨシュアか……貴公とは別の形で、{n}存分にやりあってみたかったな。{n}男同士なら拳がいい。だが、それも{n}もう叶うまい――",
-  "en": "Joshua, is it... I wish I could have had it out{n}with you in a different way. Between men,{n}fists are best. But that can no longer{n}be--"
+  "en": "Joshua, is it... I wish I could have had it out{n}with you in a different way. Between men,{n}fists are best. But that can no{n}longer be--"
  },
  {
   "id": "s0207_01ef0",
@@ -1941,7 +1941,7 @@
    "サイクス"
   ],
   "jp": "カル様への忠誠を忘れた訳ではない。{n}だが、我々の置かれた現況を考えれば、{n}今のカル様に従うことがプラスに働く{n}とは思えんからな――",
-  "en": "I have not forgotten my loyalty to{n}Kall-sama. But given our present{n}circumstances, I doubt that obeying{n}Kall-sama as he is now would work in our{page}favor--"
+  "en": "I have not forgotten my loyalty to{n}Kall-sama. But given our present{n}circumstances, I doubt that obeying{page}Kall-sama as he is now would work in our{n}favor--"
  },
  {
   "id": "s0207_02198",
@@ -2305,7 +2305,7 @@
    "ネイ"
   ],
   "jp": "ねえダーシュ。気になることがあるの",
-  "en": "Say, Dahsh. There's something that bothers{n}me."
+  "en": "Say, Dahsh. There's something that{n}bothers me."
  },
  {
   "id": "s0207_02554",
@@ -2425,7 +2425,7 @@
    "ネイ"
   ],
   "jp": "ガラも私も、名を伏し、禁ずることで{n}仲間との関わりを断たれ、敵の走狗と{n}して利用されていたわ。それが鍵にな{n}って、私たちは記憶を取り戻した――",
-  "en": "Gara and I were cut off from our friends by{n}having our names hidden and forbidden, and{n}were used as the enemy's lackeys. That was{n}the key, and it let us regain our{page}memories--"
+  "en": "Gara and I were cut off from our friends by{n}having our names hidden and forbidden, and{n}were used as the enemy's lackeys. That{page}was the key, and it let us regain our{n}memories--"
  },
  {
   "id": "s0207_026f0",
@@ -2545,7 +2545,7 @@
    "ネイ"
   ],
   "jp": "ひとりなら敵方のマークも甘くなるで{n}しょう。きっと役に立つ手がかりを{n}掴んで帰ってくるわ。少し、気になる{n}こともあるし……",
-  "en": "The enemy will watch one person less{n}closely. I'll be back with a useful lead, I{n}promise. There's also something that bothers{n}me..."
+  "en": "The enemy will watch one person less{n}closely. I'll be back with a useful lead, I{n}promise. There's also something that{n}bothers me..."
  },
  {
   "id": "s0207_02940",
@@ -3001,7 +3001,7 @@
    ""
   ],
   "jp": "ズ、ズ、ズと低い地響きが足下を埋め{n}尽くす雪から伝わってきた。",
-  "en": "A low rumbling, on and on, rose through{n}the snow that buried the ground at their{n}feet."
+  "en": "A low rumbling, on and on, rose through{n}the snow that buried the ground at{n}their feet."
  },
  {
   "id": "s0207_03e38",
@@ -3289,7 +3289,7 @@
    "シェラ"
   ],
   "jp": "龍とは違うが……あの生き物から強い{n}力を感じるな。邪悪なものではないと{n}思う",
-  "en": "It is no dragon, but... I feel a strong power{n}from that creature. I do not think it is{n}evil."
+  "en": "It is no dragon, but... I feel a strong power{n}from that creature. I do not think it{n}is evil."
  },
  {
   "id": "s0207_043ec",
@@ -3961,7 +3961,7 @@
    "バ・ソリー"
   ],
   "jp": "遠く聳える氷獄塔を見やり、しかし{n}バ・ソリーは首を振った。",
-  "en": "Ba Thory gazed at the Ice Hell Tower{n}soaring in the distance, yet shook his{n}head."
+  "en": "Ba Thory gazed at the Ice Hell Tower{n}soaring in the distance, yet shook{n}his head."
  },
  {
   "id": "s0207_04bb8",
@@ -3985,7 +3985,7 @@
    "バ・ソリー"
   ],
   "jp": "俺様にとって、カル様はただひとり、{n}我が理想を理解してもらえたお方……{n}だから俺様が忠誠を誓う人間もカル様{n}おひとりだぁが――",
-  "en": "To the great me, Kall-sama is the one and{n}only person who understood my ideal... So{n}the only man I swear loyalty to is Kall-sama,{n}but--"
+  "en": "To the great me, Kall-sama is the one and{n}only person who understood my ideal... So{n}the only man I swear loyalty to is{n}Kall-sama, but--"
  },
  {
   "id": "s0207_04c38",
@@ -4276,7 +4276,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "コイツすぐ回復するからな、{n}とりあえず縛り上げとこう――",
-  "en": "This guy heals fast, so let's tie him up for{n}now--"
+  "en": "This guy heals fast, so let's tie him up{n}for now--"
  },
  {
   "id": "s0207_05068",
@@ -4348,7 +4348,7 @@
    "ヴァイ"
   ],
   "jp": "いや……でもちょっと、それは{n}ヤリ過ぎじゃねーの？",
-  "en": "Nah... but hey, isn't that going a little too{n}far?"
+  "en": "Nah... but hey, isn't that going a little{n}too far?"
  },
  {
   "id": "s0207_05174",
@@ -5475,7 +5475,7 @@
    "シェラ"
   ],
   "jp": "そのようだ。潜ってみる必要があり{n}そうだな",
-  "en": "It would seem so. We will need to go{n}down."
+  "en": "It would seem so. We will need to{n}go down."
  },
  {
   "id": "s0207_06a88",

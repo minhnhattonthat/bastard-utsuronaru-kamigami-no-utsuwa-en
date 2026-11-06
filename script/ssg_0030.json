@@ -165,7 +165,7 @@
    "ボル"
   ],
   "jp": "我が妖斬糸を躱すとは――なるほど、{n}影使いがいるな。良かろう。罠如きで{n}片付いてしまっては面白味もない",
-  "en": "So you dodged my demon-slash wire -- I{n}see, you have a shadow user. Very well. It{n}would be no fun if a mere trap finished{n}you."
+  "en": "So you dodged my demon-slash wire -- I{n}see, you have a shadow user. Very well. It{n}would be no fun if a mere trap{n}finished you."
  },
  {
   "id": "s0030_00ba0",
@@ -595,7 +595,7 @@
    "ヨシュア"
   ],
   "jp": "いつしか、竜船で別れたきり姿を{n}くらましていたヨシュアが背後の{n}洞窟から追いついてきていた。",
-  "en": "Joshua, who had vanished after they{n}parted on the Dragon Ship, had at some{n}point caught up from the cave behind{n}them."
+  "en": "Joshua, who had vanished after they{n}parted on the Dragon Ship, had at some{n}point caught up from the cave{n}behind them."
  },
  {
   "id": "s0030_01410",
@@ -1291,7 +1291,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "……（クソバカ！）。それとも{n}拷問の定番で、目玉でもくり抜いて{n}やろうかあ？　眼球ってのはよ、{n}意外に簡単に外れちまうんだぜ",
-  "en": "...(You stupid moron!) Or how about the{n}torture classic, gouging out your eye?{n}Y'know, eyeballs come out surprisingly{n}easy."
+  "en": "...(You stupid moron!) Or how about the{n}torture classic, gouging out your eye?{n}Y'know, eyeballs come out{n}surprisingly easy."
  },
  {
   "id": "s0030_01b94",
@@ -1315,7 +1315,7 @@
    "ヴァイ"
   ],
   "jp": "ほ、ホント？　そんなに簡単に{n}外れるなんて俺ヤダなあ",
-  "en": "R-really? I'd hate that, them coming out so{n}easy."
+  "en": "R-really? I'd hate that, them coming out{n}so easy."
  },
  {
   "id": "s0030_01bcc",
@@ -1459,7 +1459,7 @@
    "マカパイン"
   ],
   "jp": "知る限りのことは話す。だから……{n}この、右目だけは――",
-  "en": "I will tell you all I know. So... only this right{n}eye--"
+  "en": "I will tell you all I know. So... only this{n}right eye--"
  },
  {
   "id": "s0030_01d98",

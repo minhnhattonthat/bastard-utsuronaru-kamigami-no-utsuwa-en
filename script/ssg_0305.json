@@ -93,7 +93,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "やい、カル！　テメエまだ思い出さ{n}ねえのか？　何に取っ憑かれてるのか{n}知らねえが、これ以上俺様の邪魔を{n}すっと承知しねーぞ！",
-  "en": "Hey, Kall! You still don't remember? I don't{n}know what's got hold of you, but get in the{n}great me's way any more and you're dead{n}meat!"
+  "en": "Hey, Kall! You still don't remember? I don't{n}know what's got hold of you, but get in the{n}great me's way any more and you're{n}dead meat!"
  },
  {
   "id": "s0305_00a28",
@@ -285,7 +285,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "思い出させてやるぜ、カル！{n}テメエは俺のモンだってな！",
-  "en": "I'll make you remember, Kall! That you're{n}mine!"
+  "en": "I'll make you remember, Kall! That{n}you're mine!"
  },
  {
   "id": "s0305_00c34",
@@ -1005,7 +1005,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "これを好機と見たガインは四天王軍を{n}離脱し、単身Ｄ・Ｓのもとへ向かった。{page}目的は暗殺である。圧倒的魔力と不死{n}性で君臨してきた魔人も、魔力の源が{n}枯渇した土地で恐れる必要はない。{n}ガインの必殺の剣をもってすれば、{n}半死半生のＤ・Ｓにとどめをさすこと{n}など造作もないはずであった――。",
-  "en": "Seeing his chance, Gain left the army of{n}the Divine Kings and set out alone for{n}D.S.{page}His aim was assassination. There was no{n}need to fear the demon, who reigned by{n}overwhelming magic and immortality, in a{n}land where the source of magic had run{n}dry. With Gain's deadly sword, finishing off{n}the half-dead D.S. should have been no{n}trouble at all--"
+  "en": "Seeing his chance, Gain left the army of{n}the Divine Kings and set out alone{n}for D.S.{page}His aim was assassination. There was no{n}need to fear the demon, who reigned by{n}overwhelming magic and immortality, in a{n}land where the source of magic had run{n}dry. With Gain's deadly sword, finishing off{n}the half-dead D.S. should have been no{n}trouble at all--"
  },
  {
   "id": "s0305_01768",
@@ -1101,7 +1101,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "百年も昔にくたばったはずのガインが、{n}どうしてこんなところに出てきやがる？",
-  "en": "Why the hell would Gain, who croaked a{n}hundred years ago, turn up in a place like{n}this?"
+  "en": "Why the hell would Gain, who croaked a{n}hundred years ago, turn up in a place{n}like this?"
  },
  {
   "id": "s0305_01908",
@@ -1269,7 +1269,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "ガイン……何を迷って出てきやがった",
-  "en": "Gain... What the hell made you crawl back{n}out?"
+  "en": "Gain... What the hell made you crawl{n}back out?"
  },
  {
   "id": "s0305_01bb4",
@@ -1293,7 +1293,7 @@
    "ガイン"
   ],
   "jp": "フハハハ！　長いこと待ってたんだぜ。{n}カルのガキや、テメエに復讐してやる{n}機会をよ！　迷ったなんて、言って{n}欲しくはねえなあ",
-  "en": "Fwah hah hah! I've been waiting a long time.{n}For a chance to take revenge on Kall the{n}brat, and on you! Don't call it crawling{n}back."
+  "en": "Fwah hah hah! I've been waiting a long time.{n}For a chance to take revenge on Kall the{n}brat, and on you! Don't call it{n}crawling back."
  },
  {
   "id": "s0305_01c30",
@@ -1389,7 +1389,7 @@
    "ガイン"
   ],
   "jp": "ククク……いい気味だ。俺は忘れちゃ{n}いねえ。油断していたとは言え、あの{n}ガキの呪文で腕を千切られ、氷の魔剣{n}で頭を貫かれた痛みをよう――",
-  "en": "Heh heh heh... Serves him right. I haven't{n}forgotten. Off guard or not, that brat's{n}spell tore off my arm, and his ice sword{n}stabbed through my head. I remember{page}that pain--"
+  "en": "Heh heh heh... Serves him right. I haven't{n}forgotten. Off guard or not, that brat's{n}spell tore off my arm, and his ice sword{page}stabbed through my head. I remember that{n}pain--"
  },
  {
   "id": "s0305_01e14",
@@ -1965,7 +1965,7 @@
    "ガラ"
   ],
   "jp": "へへっ。お待たせしちゃったかあ？{n}やっぱしオレがいないとダメかね。{n}よお、ネイもいたのかよ？",
-  "en": "Heh heh. Keep you waiting? I guess you guys{n}are useless without me. Hey, Nei, you here{n}too?"
+  "en": "Heh heh. Keep you waiting? I guess you guys{n}are useless without me. Hey, Nei, you{n}here too?"
  },
  {
   "id": "s0305_02494",
@@ -2277,7 +2277,7 @@
    "ガラ"
   ],
   "jp": "魔剣“魂喰らい”が弾かれ、床に{n}突き立った。続けて魔剣士ガインが、{n}どう、とくずおれる。",
-  "en": "The demon sword Soul Eater was knocked{n}away, and stuck into the floor. Then the{n}demon swordsman Gain crumpled with a{n}thud."
+  "en": "The demon sword Soul Eater was knocked{n}away, and stuck into the floor. Then the{n}demon swordsman Gain crumpled with{n}a thud."
  },
  {
   "id": "s0305_02858",
@@ -2517,7 +2517,7 @@
    "ガイン"
   ],
   "jp": "獣神――狼麒と名乗る巨神は、まだ{n}肉に未練を残して纏わりつくガインの{n}亡霊を掌で払い、魂喰らいの方向へと{n}漂わせた。と、魔剣の紅玉が輝き始め、{n}蛇腹状の鍔が自動的に開く。まるで{n}紅玉が強大な引力を発しているかの{n}如く、ガインの霊体は急速に吸い寄せ{n}られていった。",
-  "en": "The beast god, the giant who named{n}himself Loki, brushed away with his palm{n}the ghost of Gain, who still clung to the{n}flesh, and sent it drifting toward the Soul{n}Eater. Then the demon sword's ruby{n}began to glow, and the bellows-like guard{n}opened by itself. As though the ruby gave{n}off a mighty pull, Gain's spirit body was{page}swiftly drawn in."
+  "en": "The beast god, the giant who named{n}himself Loki, brushed away with his palm{n}the ghost of Gain, who still clung to the{n}flesh, and sent it drifting toward the Soul{n}Eater. Then the demon sword's ruby{n}began to glow, and the bellows-like guard{n}opened by itself. As though the ruby{page}gave off a mighty pull, Gain's spirit body{n}was swiftly drawn in."
  },
  {
   "id": "s0305_02e1c",
@@ -2589,7 +2589,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "テメエが裏で糸を引いていたヤロウか。{n}狼麒とか言ったな。ツケはまとめて{n}テメエに払ってもらうぜ――",
-  "en": "So you're the bastard pulling the strings.{n}Loki, was it? You're paying off the whole{n}tab--"
+  "en": "So you're the bastard pulling the strings.{n}Loki, was it? You're paying off the{n}whole tab--"
  },
  {
   "id": "s0305_02f5c",
@@ -2613,7 +2613,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "ふはははは――。貴様たちの戦闘力は{n}すでに見定めてあるわ。余りある勝算{n}があるからこそ、こうして私が出向い{n}たと何故判らぬ――愚昧よな、Ｄ・Ｓ",
-  "en": "Fwah hah hah hah-- I have already gauged{n}your fighting strength. Why do you not see{n}that I have come because I have more than{n}enough chance of victory? How dull you{page}are, D.S."
+  "en": "Fwah hah hah hah-- I have already gauged{n}your fighting strength. Why do you not see{n}that I have come because I have more{page}than enough chance of victory? How dull{n}you are, D.S."
  },
  {
   "id": "s0305_02fec",
@@ -2877,7 +2877,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "パーラ・ノードイ・フォーモー{n}ブルール・ネーイ・ヴァセ・イー{n}ダー・イー・エイター・ナール",
-  "en": "Para Noid Fomo Blur Ney Va Se Ida Y Eter{n}Nal"
+  "en": "Para Noid Fomo Blur Ney Va Se Ida Y{n}Eter Nal"
  },
  {
   "id": "s0305_032fc",
@@ -3021,7 +3021,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "結界内に複数の空間を転移させ、原子{n}を重ね合わせることで発生した爆発{n}エネルギーが超高熱の負の炎を生み{n}出したのである。瞬間的に数億度にも{n}達する熱量が、狼麒の肉体から思念体{n}――アストラルボディに至るまでを{n}完全に灼き尽くしていく。",
-  "en": "By teleporting multiple spaces within the{n}barrier and superimposing their atoms, the{n}resulting explosive energy produced a{n}negative flame of extreme heat. Heat{n}reaching hundreds of millions of degrees{n}in an instant burned Loki away, from his{n}flesh to his thought-body, his very astral{n}body."
+  "en": "By teleporting multiple spaces within the{n}barrier and superimposing their atoms, the{n}resulting explosive energy produced a{n}negative flame of extreme heat. Heat{n}reaching hundreds of millions of degrees{n}in an instant burned Loki away, from his{n}flesh to his thought-body, his very{n}astral body."
  },
  {
   "id": "s0305_0353c",
@@ -3309,7 +3309,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "あーっはっはっはあ！　ホントもウソ{n}もねー！　現にこうやってブッ壊れ{n}始めたじゃねえか！　計算通り！{n}ゲラゲラゲラゲラ！　ぎゃははーっ！",
-  "en": "Ah hah hah hah! Never mind true or not! It's{n}falling apart right before your eyes! Right{n}on schedule! Cackle cackle cackle! Gyah hah{n}hah!"
+  "en": "Ah hah hah hah! Never mind true or not! It's{n}falling apart right before your eyes! Right{n}on schedule! Cackle cackle cackle! Gyah{n}hah hah!"
  },
  {
   "id": "s0305_03a90",
@@ -3381,7 +3381,7 @@
    "ヴァイ"
   ],
   "jp": "死黒核爆烈地獄の火球は、遂に塔の{n}最下層を突破し、直下の永久氷河へと{n}落下した。凄まじい熱量は衰えること{n}なく、やがて落下地点を中心に熱が{n}伝播し始める。あたかも水滴が起こし{n}た波紋の如く、それは同心円上に広が{n}って凍土を瞬時に溶かしていった――。",
-  "en": "The fireball of the Black Death Nuclear{n}Hell at last broke through the tower's{n}lowest level and fell into the eternal{n}glacier directly below. Its terrific heat{n}undiminished, it soon began to spread{n}outward from where it fell. Like ripples{n}from a drop of water, it spread in{n}concentric rings, instantly melting the{page}frozen earth--"
+  "en": "The fireball of the Black Death Nuclear{n}Hell at last broke through the tower's{n}lowest level and fell into the eternal{n}glacier directly below. Its terrific heat{n}undiminished, it soon began to spread{n}outward from where it fell. Like ripples{n}from a drop of water, it spread in{page}concentric rings, instantly melting the{n}frozen earth--"
  },
  {
   "id": "s0305_03c30",
@@ -3885,7 +3885,7 @@
    "ヴァイ"
   ],
   "jp": "ともに育てられた彼女は、天涯孤独の{n}ルーシェにとって姉のように強く、{n}母のように優しく、恋人のように温か{n}い存在だった。そのルーシェの想いが{n}影に封じられたＤ・Ｓの人格に融合{n}したのか、それともヨーコという鍵が{n}Ｄ・Ｓの中の欠落した感情の扉を開い{n}たのかは判らない。だが、彼は見つけ{n}たのだ。求め続けたものを。",
-  "en": "Raised with him, she was to the orphaned{n}Lucien strong as a sister, gentle as a{n}mother, warm as a lover. Whether Lucien's{n}love merged with the personality of D.S.,{n}sealed in the shadows, or Yoko was the{n}key that opened the door to the feelings{n}D.S. lacked, no one knows. But he had{n}found it. What he had sought for so{page}long."
+  "en": "Raised with him, she was to the orphaned{n}Lucien strong as a sister, gentle as a{n}mother, warm as a lover. Whether Lucien's{n}love merged with the personality of D.S.,{n}sealed in the shadows, or Yoko was the{n}key that opened the door to the feelings{n}D.S. lacked, no one knows. But he had{page}found it. What he had sought for{n}so long."
  },
  {
   "id": "s0305_04c30",

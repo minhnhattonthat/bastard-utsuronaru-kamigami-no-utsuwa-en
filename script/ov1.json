@@ -21,7 +21,7 @@
    "ov1:c:19064/19068"
   ],
   "jp": "ＡＢＣＤ",
-  "en": "ABCD"
+  "en": " A B C D"
  },
  {
   "id": "ov1_00c3c",
@@ -441,7 +441,7 @@
    "ov1:d:47ab4"
   ],
   "jp": "　並び換え",
-  "en": "Swap"
+  "en": "   Swap"
  },
  {
   "id": "ov1_0108c",
@@ -681,7 +681,7 @@
    "ov1:d:47cb4"
   ],
   "jp": "　変更する　　　変更しない",
-  "en": "  Change     Keep"
+  "en": "   Change            Keep"
  },
  {
   "id": "ov1_01360",
@@ -729,7 +729,7 @@
    "ov1:d:47e1c"
   ],
   "jp": "%s達は、{n}一斉に襲いかかってきた",
-  "en": "%s's group struck all at{n}once."
+  "en": "%s's group struck all{n}at once."
  },
  {
   "id": "ov1_0140c",
@@ -789,7 +789,7 @@
    "ov1:d:47e30"
   ],
   "jp": "%sは、{n}激しく尻尾を打ちつけてきた！",
-  "en": "%s lashed out fiercely with{n}its tail!"
+  "en": "%s lashed out fiercely{n}with its tail!"
  },
  {
   "id": "ov1_014b4",
@@ -849,7 +849,7 @@
    "ov1:d:47e44"
   ],
   "jp": "%s達は、{n}ときの声とともに突撃を開始した",
-  "en": "%s's group charged with a{n}war cry."
+  "en": "%s's group charged with{n}a war cry."
  },
  {
   "id": "ov1_0158c",
@@ -873,7 +873,7 @@
    "ov1:d:47e4c"
   ],
   "jp": "凶々しい牙をむき出して、{n}%sは噛みついた",
-  "en": "Baring wicked fangs, %s bit{n}down."
+  "en": "Baring wicked fangs, %s{n}bit down."
  },
  {
   "id": "ov1_015d4",
@@ -945,7 +945,7 @@
    "ov1:d:47e64"
   ],
   "jp": "高々と宙を舞い、{n}強烈な蹴りをあびせてきた！",
-  "en": "Soaring high into the air, it landed a fierce{n}kick!"
+  "en": "Soaring high into the air, it landed a{n}fierce kick!"
  },
  {
   "id": "ov1_016e8",
@@ -1029,7 +1029,7 @@
    "ov1:d:47e80"
   ],
   "jp": "%sは、{n}まとわりついて血を吸いだした",
-  "en": "%s clung on and began to{n}suck blood."
+  "en": "%s clung on and began{n}to suck blood."
  },
  {
   "id": "ov1_0180c",
@@ -1041,7 +1041,7 @@
    "ov1:d:47e84"
   ],
   "jp": "%sの両目が{n}妖しく真紅に輝きはじめた",
-  "en": "%s's eyes began to glow an{n}eerie crimson."
+  "en": "%s's eyes began to glow{n}an eerie crimson."
  },
  {
   "id": "ov1_01830",
@@ -1258,7 +1258,7 @@
    "ov1:d:47ecc"
   ],
   "jp": "ブルブルと震える体から、{n}酸のしずくがまき散らされた",
-  "en": "Drops of acid scattered from the quivering{n}body."
+  "en": "Drops of acid scattered from the{n}quivering body."
  },
  {
   "id": "ov1_01b64",
@@ -1294,7 +1294,7 @@
    "ov1:d:47ed8"
   ],
   "jp": "%s達は、{n}上空から次々と襲ってきた！",
-  "en": "%s's group attacked from{n}above, one after another!"
+  "en": "%s's group attacked{n}from above, one after another!"
  },
  {
   "id": "ov1_01bf4",
@@ -1402,7 +1402,7 @@
    "ov1:d:47efc"
   ],
   "jp": "%sは、{n}狂ったように暴れはじめた",
-  "en": "%s began to thrash about{n}madly."
+  "en": "%s began to thrash{n}about madly."
  },
  {
   "id": "ov1_01d70",
@@ -1450,7 +1450,7 @@
    "ov1:d:47f0c"
   ],
   "jp": "タールのような質感の、{n}粘り気のある物体があふれでた",
-  "en": "A sticky substance, like tar, came flowing{n}out."
+  "en": "A sticky substance, like tar, came{n}flowing out."
  },
  {
   "id": "ov1_01e34",
@@ -1570,7 +1570,7 @@
    "ov1:d:47f34"
   ],
   "jp": "あらゆる物を吹き飛ばす、{n}はげしい風が巻きおこった！",
-  "en": "A fierce wind arose, blowing everything{n}away!"
+  "en": "A fierce wind arose, blowing{n}everything away!"
  },
  {
   "id": "ov1_02018",
@@ -1630,7 +1630,7 @@
    "ov1:d:47f48"
   ],
   "jp": "猛烈な冷気を伴った、{n}大竜巻が向かってきた",
-  "en": "A great tornado came on, bearing fierce{n}cold."
+  "en": "A great tornado came on, bearing{n}fierce cold."
  },
  {
   "id": "ov1_020f0",
@@ -1714,7 +1714,7 @@
    "ov1:d:47f64"
   ],
   "jp": "ギシギシと耳障りな音をたて、{n}ず太い枝が振りおろされる",
-  "en": "With a harsh creak, a thick branch swung{n}down."
+  "en": "With a harsh creak, a thick branch{n}swung down."
  },
  {
   "id": "ov1_0226c",
@@ -1930,7 +1930,7 @@
    "ov1:d:47fac"
   ],
   "jp": "%sの周囲に{n}闘気がみなぎる！",
-  "en": "Battle aura filled the air around{n}%s!"
+  "en": "Battle aura filled the air{n}around %s!"
  },
  {
   "id": "ov1_0258c",
@@ -1942,7 +1942,7 @@
    "ov1:d:47fb0"
   ],
   "jp": "無数の氷の小片が、{n}つぶてと化して撃ちだされた",
-  "en": "Countless shards of ice were fired like{n}hail."
+  "en": "Countless shards of ice were fired{n}like hail."
  },
  {
   "id": "ov1_025bc",
@@ -2170,7 +2170,7 @@
    "ov1:d:47ffc"
   ],
   "jp": "巧みな手つきで、{n}軽々と剣を振り回してきた！",
-  "en": "With a deft hand, it swung its sword with{n}ease!"
+  "en": "With a deft hand, it swung its sword{n}with ease!"
  },
  {
   "id": "ov1_02960",
@@ -2206,7 +2206,7 @@
    "ov1:d:4800c"
   ],
   "jp": "%sの周囲を{n}ゆらめく光が包み込む……",
-  "en": "A wavering light wrapped around{n}%s..."
+  "en": "A wavering light wrapped{n}around %s..."
  },
  {
   "id": "ov1_029d8",
@@ -2290,7 +2290,7 @@
    "ov1:d:48028"
   ],
   "jp": "開いたボディの一部から、{n}空気の渦がほとばしった",
-  "en": "A vortex of air burst from an opening in the{n}body."
+  "en": "A vortex of air burst from an opening in{n}the body."
  },
  {
   "id": "ov1_02b30",
@@ -2314,7 +2314,7 @@
    "ov1:d:48030"
   ],
   "jp": "いくつもの残像を残しつつ、{n}%sは高速で移動しはじめた！",
-  "en": "Leaving many afterimages,{n}%s began to move at high{n}speed!"
+  "en": "Leaving many afterimages,{n}%s began to move at{n}high speed!"
  },
  {
   "id": "ov1_02b9c",
@@ -2326,7 +2326,7 @@
    "ov1:d:48034"
   ],
   "jp": "切れ味鋭い斬撃が、{n}衝撃波とともに襲い来る！",
-  "en": "A razor-sharp slash came with a shock{n}wave!"
+  "en": "A razor-sharp slash came with a{n}shock wave!"
  },
  {
   "id": "ov1_02bc8",
@@ -2506,7 +2506,7 @@
    "ov1:d:48070"
   ],
   "jp": "%sから、{n}青白い光線がほとばしった",
-  "en": "A pale blue ray burst from{n}%s."
+  "en": "A pale blue ray burst{n}from %s."
  },
  {
   "id": "ov1_02e84",
@@ -2518,7 +2518,7 @@
    "ov1:d:48074"
   ],
   "jp": "%sは、{n}無数の光球を撃ち出してきた",
-  "en": "%s fired countless orbs of{n}light."
+  "en": "%s fired countless orbs{n}of light."
  },
  {
   "id": "ov1_02ea8",
@@ -2542,7 +2542,7 @@
    "ov1:d:4807c"
   ],
   "jp": "%sが力むと{n}突然目の前の空間が爆発した!",
-  "en": "%s strained, and the space{n}ahead suddenly exploded!"
+  "en": "%s strained, and the{n}space ahead suddenly exploded!"
  },
  {
   "id": "ov1_02ef8",
@@ -2638,7 +2638,7 @@
    "ov1:d:4809c"
   ],
   "jp": "%sは、{n}大音声で神の威光を歌いだした",
-  "en": "%s began to sing the glory{n}of the gods in a great voice."
+  "en": "%s began to sing the{n}glory of the gods in a great voice."
  },
  {
   "id": "ov1_03050",
@@ -2950,7 +2950,7 @@
    "ov1:d:48104"
   ],
   "jp": "Ｖの字の軌跡をえがき、{n}鋭い斬撃が襲いくる！",
-  "en": "Tracing the path of a V, a sharp slash came{n}on!"
+  "en": "Tracing the path of a V, a sharp slash{n}came on!"
  },
  {
   "id": "ov1_0353c",
@@ -3298,7 +3298,7 @@
    "ov1:d:48178"
   ],
   "jp": "赤くけぶった、{n}不気味なガスが吐きだされた",
-  "en": "An eerie gas, smoking red, was spewed{n}out."
+  "en": "An eerie gas, smoking red, was{n}spewed out."
  },
  {
   "id": "ov1_03afc",
@@ -3310,7 +3310,7 @@
    "ov1:d:4817c"
   ],
   "jp": "毒々しい黒い光が、{n}あたり一帯に満ちあふれた",
-  "en": "A poisonous black light filled the whole{n}area."
+  "en": "A poisonous black light filled the{n}whole area."
  },
  {
   "id": "ov1_03b28",
@@ -3682,7 +3682,7 @@
    "ov1:d:481f8"
   ],
   "jp": "液体のように濃密な、{n}緑色のガスを吐きかけられた！",
-  "en": "A green gas, thick as liquid, was breathed{n}out!"
+  "en": "A green gas, thick as liquid, was{n}breathed out!"
  },
  {
   "id": "ov1_04164",
@@ -3694,7 +3694,7 @@
    "ov1:d:481fc"
   ],
   "jp": "%sは{n}大音声で悪魔の栄光を歌いだした",
-  "en": "%s began to sing the glory{n}of demons in a great voice."
+  "en": "%s began to sing the{n}glory of demons in a great voice."
  },
  {
   "id": "ov1_04188",
@@ -3766,7 +3766,7 @@
    "ov1:d:48214"
   ],
   "jp": "生臭い瘴気とともに、{n}腐食性の液体が吐きかけられる！",
-  "en": "With a rank miasma, corrosive liquid was spat{n}out!"
+  "en": "With a rank miasma, corrosive liquid was{n}spat out!"
  },
  {
   "id": "ov1_042b4",
@@ -3838,7 +3838,7 @@
    "ov1:d:48244"
   ],
   "jp": "[01]%sの魔法攻撃！%M%z%z",
-  "en": "[01]%s's magic attack!{n}%M%z%z"
+  "en": "[01]%s's magic{n}attack! %M%z%z"
  },
  {
   "id": "ov1_04398",
@@ -3874,7 +3874,7 @@
    "ov1:d:48250"
   ],
   "jp": "[01]%sの必殺技！%M%z%z",
-  "en": "[01]%s's special move!{n}%M%z%z"
+  "en": "[01]%s's special{n}move! %M%z%z"
  },
  {
   "id": "ov1_043ec",
@@ -3886,7 +3886,7 @@
    "ov1:d:48254"
   ],
   "jp": "[01]%s達の一体技！%M%z%z%z%z%z",
-  "en": "[01]%s's group uses a Unison!{n}%M%z%z%z%z%z"
+  "en": "[01]%s's group uses a{n}Unison! %M%z%z%z%z%z"
  },
  {
   "id": "ov1_04408",
@@ -3898,7 +3898,7 @@
    "ov1:d:48258"
   ],
   "jp": "[01]%s達の連続技！%M%z%z%z%z%z",
-  "en": "[01]%s's group uses a Chain!{n}%M%z%z%z%z%z"
+  "en": "[01]%s's group uses a{n}Chain! %M%z%z%z%z%z"
  },
  {
   "id": "ov1_04424",
@@ -3910,7 +3910,7 @@
    "ov1:d:4825c"
   ],
   "jp": "[01]%sの対地魔法！%M%z%z",
-  "en": "[01]%s's ground magic!{n}%M%z%z"
+  "en": "[01]%s's ground{n}magic! %M%z%z"
  },
  {
   "id": "ov1_0443c",
@@ -3922,7 +3922,7 @@
    "ov1:d:48260"
   ],
   "jp": "[01]%sの防御魔法！%M%z",
-  "en": "[01]%s's defense magic!{n}%M%z"
+  "en": "[01]%s's defense{n}magic! %M%z"
  },
  {
   "id": "ov1_04450",
@@ -4030,7 +4030,7 @@
    "ov1:d:48290"
   ],
   "jp": "[03]%sは、{n}いわれのない憎悪にかられている！{page}",
-  "en": "[03]%s is seized by groundless{n}hatred!{page}"
+  "en": "[03]%s is seized by{n}groundless hatred!{page}"
  },
  {
   "id": "ov1_04544",
@@ -4078,7 +4078,7 @@
    "ov1:d:482a0"
   ],
   "jp": "[03]%sは、{n}勝手に道具を使った{page}",
-  "en": "[03]%s used an item on a{n}whim.{page}"
+  "en": "[03]%s used an item on{n}a whim.{page}"
  },
  {
   "id": "ov1_045d0",
@@ -4102,7 +4102,7 @@
    "ov1:d:482a8"
   ],
   "jp": "[03]%sは、{n}腹をかかえて爆笑している{page}",
-  "en": "[03]%s is doubled over, roaring{n}with laughter.{page}"
+  "en": "[03]%s is doubled over,{n}roaring with laughter.{page}"
  },
  {
   "id": "ov1_0461c",
@@ -4150,7 +4150,7 @@
    "ov1:d:482b8"
   ],
   "jp": "[02]%sは、{n}撒かれたトラップを踏みつけた！{page}",
-  "en": "[02]%s stepped on a laid{n}trap!{page}"
+  "en": "[02]%s stepped on a{n}laid trap!{page}"
  },
  {
   "id": "ov1_046b8",
@@ -4162,7 +4162,7 @@
    "ov1:d:482bc"
   ],
   "jp": "[02]%sは、{n}トラップにＭＰを吸収された！{page}",
-  "en": "[02]%s had MP drained by a{n}trap!{page}"
+  "en": "[02]%s had MP drained by{n}a trap!{page}"
  },
  {
   "id": "ov1_046e0",
@@ -4174,7 +4174,7 @@
    "ov1:d:482c0"
   ],
   "jp": "[02]%sは、{n}トラップに挟まれた！{page}",
-  "en": "[02]%s was caught in a trap!{page}"
+  "en": "[02]%s was caught in{n}a trap!{page}"
  },
  {
   "id": "ov1_04700",
@@ -4186,7 +4186,7 @@
    "ov1:d:482c4"
   ],
   "jp": "[02]%sは、{n}催眠トラップを踏みつけた！{page}",
-  "en": "[02]%s stepped on a Sleep{n}Trap!{page}"
+  "en": "[02]%s stepped on a{n}Sleep Trap!{page}"
  },
  {
   "id": "ov1_04724",
@@ -4198,7 +4198,7 @@
    "ov1:d:482c8"
   ],
   "jp": "[02]%sは、{n}不和トラップを踏みつけた！{page}",
-  "en": "[02]%s stepped on a Discord{n}Trap!{page}"
+  "en": "[02]%s stepped on a{n}Discord Trap!{page}"
  },
  {
   "id": "ov1_04748",
@@ -4210,7 +4210,7 @@
    "ov1:d:482cc"
   ],
   "jp": "[02]%sは、{n}脱力トラップを踏みつけた！{page}",
-  "en": "[02]%s stepped on a Lethargy{n}Trap!{page}"
+  "en": "[02]%s stepped on a{n}Lethargy Trap!{page}"
  },
  {
   "id": "ov1_0476c",
@@ -4222,7 +4222,7 @@
    "ov1:d:482d0"
   ],
   "jp": "[02]%sは、{n}ノイズトラップを踏みつけた！{page}",
-  "en": "[02]%s stepped on a Noise{n}Trap!{page}"
+  "en": "[02]%s stepped on a{n}Noise Trap!{page}"
  },
  {
   "id": "ov1_04794",
@@ -4234,7 +4234,7 @@
    "ov1:d:482d4"
   ],
   "jp": "[02]%sは、{n}魅了トラップを踏みつけた！{page}",
-  "en": "[02]%s stepped on a Charm{n}Trap!{page}"
+  "en": "[02]%s stepped on a{n}Charm Trap!{page}"
  },
  {
   "id": "ov1_047b8",
@@ -4246,7 +4246,7 @@
    "ov1:d:482d8"
   ],
   "jp": "[02]%sは、{n}トラップに防御力を下げられた！{page}",
-  "en": "[02]%s had defense lowered by{n}a trap!{page}"
+  "en": "[02]%s had defense lowered{n}by a trap!{page}"
  },
  {
   "id": "ov1_047e0",
@@ -4258,7 +4258,7 @@
    "ov1:d:482dc"
   ],
   "jp": "[02]%sは、{n}昏倒トラップを踏みつけた！{page}",
-  "en": "[02]%s stepped on a Stun{n}Trap!{page}"
+  "en": "[02]%s stepped on a{n}Stun Trap!{page}"
  },
  {
   "id": "ov1_04804",
@@ -4270,7 +4270,7 @@
    "ov1:d:482e0"
   ],
   "jp": "[02]%sは、{n}毒トラップを踏みつけた！{page}",
-  "en": "[02]%s stepped on a Poison{n}Trap!{page}"
+  "en": "[02]%s stepped on a{n}Poison Trap!{page}"
  },
  {
   "id": "ov1_04828",
@@ -4354,7 +4354,7 @@
    "ov1:d:482fc"
   ],
   "jp": "[03]%sは、{n}トラップで移動ができない！{page}",
-  "en": "[03]%s can't move because of{n}a trap!{page}"
+  "en": "[03]%s can't move because{n}of a trap!{page}"
  },
  {
   "id": "ov1_04900",
@@ -4366,7 +4366,7 @@
    "ov1:d:48300"
   ],
   "jp": "[03]%sは、{n}停止魔法の呪縛で移動できない！{page}",
-  "en": "[03]%s can't move, bound by a{n}Stop spell!{page}"
+  "en": "[03]%s can't move, bound by{n}a Stop spell!{page}"
  },
  {
   "id": "ov1_04928",
@@ -4414,7 +4414,7 @@
    "ov1:d:48310"
   ],
   "jp": "[03]%s達は、{n}一体技の発動に失敗した{page}%z",
-  "en": "[03]%s's group failed to use a{n}Unison.{page}%z"
+  "en": "[03]%s's group failed to use{n}a Unison.{page}%z"
  },
  {
   "id": "ov1_049b8",
@@ -4426,7 +4426,7 @@
    "ov1:d:48314"
   ],
   "jp": "[03]%s達は、{n}連続技の発動に失敗した{page}%z",
-  "en": "[03]%s's group failed to use a{n}Chain.{page}%z"
+  "en": "[03]%s's group failed to use{n}a Chain.{page}%z"
  },
  {
   "id": "ov1_049e0",
@@ -4450,7 +4450,7 @@
    "ov1:d:48320"
   ],
   "jp": "[01]%sの防御技！%M%z",
-  "en": "[01]%s's defense art!{n}%M%z"
+  "en": "[01]%s's defense{n}art! %M%z"
  },
  {
   "id": "ov1_04a04",
@@ -4479,7 +4479,7 @@
    "ov1:d:4834c"
   ],
   "jp": "[02]%z%sへの攻撃は、{n}当たらなかった{page}",
-  "en": "[02]%zThe attack on %s missed.{page}"
+  "en": "[02]%zThe attack on %s{n}missed.{page}"
  },
  {
   "id": "ov1_04a48",
@@ -4522,7 +4522,7 @@
    "ov1:d:48370"
   ],
   "jp": "[02]%sの攻撃は、{n}避けられた{page}%z",
-  "en": "[02]%s's attack was dodged.{page}%z"
+  "en": "[02]%s's attack was{n}dodged.{page}%z"
  },
  {
   "id": "ov1_04a9c",
@@ -4534,7 +4534,7 @@
    "ov1:d:48380"
   ],
   "jp": "[02]%sは、{n}魔法を反射した{page}%z",
-  "en": "[02]%s reflected the magic.{page}%z"
+  "en": "[02]%s reflected the{n}magic.{page}%z"
  },
  {
   "id": "ov1_04ab8",
@@ -4546,7 +4546,7 @@
    "ov1:d:48384"
   ],
   "jp": "[02]%sの反射壁により{n}無効！{page}%z",
-  "en": "[02]Nullified by %s's reflecting{n}wall!{page}%z"
+  "en": "[02]Nullified by %s's{n}reflecting wall!{page}%z"
  },
  {
   "id": "ov1_04ad4",
@@ -4706,7 +4706,7 @@
    "ov1:d:483c8"
   ],
   "jp": "[01]%s達の一体技！",
-  "en": "[01]%s's group uses a Unison!"
+  "en": "[01]%s's group uses a{n}Unison!"
  },
  {
   "id": "ov1_04c78",
@@ -4718,7 +4718,7 @@
    "ov1:d:483cc"
   ],
   "jp": "[01]%s達の連続技！",
-  "en": "[01]%s's group uses a Chain!"
+  "en": "[01]%s's group uses a{n}Chain!"
  },
  {
   "id": "ov1_04c88",
@@ -4755,7 +4755,7 @@
    "ov1:d:483d8"
   ],
   "jp": "[02]%z%sに必殺技命中！{page}",
-  "en": "[02]%zThe special move hit %s!{page}"
+  "en": "[02]%zThe special move{n}hit %s!{page}"
  },
  {
   "id": "ov1_04cc8",
@@ -4840,7 +4840,7 @@
    "ov1:d:48400"
   ],
   "jp": "[02]しかし%sは、{n}ダメージを受けなかった{page}",
-  "en": "[02]But %s took no damage.{page}"
+  "en": "[02]But %s took no{n}damage.{page}"
  },
  {
   "id": "ov1_04d80",
@@ -4852,7 +4852,7 @@
    "ov1:d:48404"
   ],
   "jp": "[02]しかし%sは、{n}ＭＰが減らなかった{page}",
-  "en": "[02]But %s's MP did not drop.{page}"
+  "en": "[02]But %s's MP did{n}not drop.{page}"
  },
  {
   "id": "ov1_04da4",
@@ -4984,7 +4984,7 @@
    "ov1:d:48434"
   ],
   "jp": "[02]%sの{n}体内に毒が流れ込んだ！{page}",
-  "en": "[02]Poison flowed into %s's{n}body!{page}"
+  "en": "[02]Poison flowed into{n}%s's body!{page}"
  },
  {
   "id": "ov1_04ef4",
@@ -5008,7 +5008,7 @@
    "ov1:d:4843c"
   ],
   "jp": "[02]%sは、{n}魅了され、自分を失った！{page}",
-  "en": "[02]%s was charmed, and lost{n}all self-control!{page}"
+  "en": "[02]%s was charmed, and{n}lost all self-control!{page}"
  },
  {
   "id": "ov1_04f3c",
@@ -5032,7 +5032,7 @@
    "ov1:d:48444"
   ],
   "jp": "[02]%sは、{n}防御力を下げられた！{page}",
-  "en": "[02]%s had defense lowered!{page}"
+  "en": "[02]%s had defense{n}lowered!{page}"
  },
  {
   "id": "ov1_04f84",
@@ -5080,7 +5080,7 @@
    "ov1:d:48454"
   ],
   "jp": "[02]%sは、{n}%mで死んだ{page}",
-  "en": "[02]%s died by %m.{page}"
+  "en": "[02]%s died{n}by %m.{page}"
  },
  {
   "id": "ov1_05004",
@@ -5116,7 +5116,7 @@
    "ov1:d:48460"
   ],
   "jp": "[02]%sは、{n}魔法反射のオーラに包まれた！{page}",
-  "en": "[02]%s was wrapped in an aura{n}of magic reflection!{page}"
+  "en": "[02]%s was wrapped in an{n}aura of magic reflection!{page}"
  },
  {
   "id": "ov1_05060",
@@ -5128,7 +5128,7 @@
    "ov1:d:48464"
   ],
   "jp": "[02]%sは、{n}疾風のごとき素早さを身につけた！{page}",
-  "en": "[02]%s gained the speed of a{n}gale!{page}"
+  "en": "[02]%s gained the speed{n}of a gale!{page}"
  },
  {
   "id": "ov1_0508c",
@@ -5164,7 +5164,7 @@
    "ov1:d:48470"
   ],
   "jp": "[02]%sは、{n}ふわりと宙に浮かんだ！{page}",
-  "en": "[02]%s floated softly into the{n}air!{page}"
+  "en": "[02]%s floated softly into{n}the air!{page}"
  },
  {
   "id": "ov1_050fc",
@@ -5212,7 +5212,7 @@
    "ov1:d:48480"
   ],
   "jp": "[02]%sは、{n}常ならぬ速度と力を身につけた！{page}",
-  "en": "[02]%s gained uncommon speed{n}and power!{page}"
+  "en": "[02]%s gained uncommon{n}speed and power!{page}"
  },
  {
   "id": "ov1_05190",
@@ -5644,7 +5644,7 @@
    "ov1:d:48544"
   ],
   "jp": "[02]しかし%sには、{n}効果がなかった{page}",
-  "en": "[02]But it had no effect on{n}%s.{page}"
+  "en": "[02]But it had no effect{n}on %s.{page}"
  },
  {
   "id": "ov1_05508",
@@ -5693,7 +5693,7 @@
    "ov1:d:48560"
   ],
   "jp": "[02]しかし%sは、{n}これをこらえた！{page}",
-  "en": "[02]But %s held out against{n}it!{page}"
+  "en": "[02]But %s held out{n}against it!{page}"
  },
  {
   "id": "ov1_0559c",
@@ -5718,7 +5718,7 @@
    "ov1:d:4855c"
   ],
   "jp": "[02]しかし%sは、{n}これを打ち破った！{page}",
-  "en": "[02]But %s broke through it!{page}"
+  "en": "[02]But %s broke{n}through it!{page}"
  },
  {
   "id": "ov1_055e4",
@@ -5730,7 +5730,7 @@
    "ov1:d:48564"
   ],
   "jp": "[02]しかし%sは、{n}%mで死ななかった{page}",
-  "en": "[02]But %s didn't die by{n}%m.{page}"
+  "en": "[02]But %s didn't die{n}by %m.{page}"
  },
  {
   "id": "ov1_05604",
@@ -5742,7 +5742,7 @@
    "ov1:d:4856c"
   ],
   "jp": "[02]しかし%sを成仏させることができなかった{page}",
-  "en": "[02]But %s couldn't be laid to{n}rest.{page}"
+  "en": "[02]But %s couldn't be laid{n}to rest.{page}"
  },
  {
   "id": "ov1_05630",
@@ -5754,7 +5754,7 @@
    "ov1:d:48570"
   ],
   "jp": "[02]しかし%sは、{n}%mには倒されなかった{page}",
-  "en": "[02]But %s wasn't felled by{n}%m.{page}"
+  "en": "[02]But %s wasn't felled{n}by %m.{page}"
  },
  {
   "id": "ov1_05654",
@@ -5838,7 +5838,7 @@
    "ov1:d:485a8"
   ],
   "jp": "[02]%sは、{n}既にHPがいっぱいだった{page}",
-  "en": "[02]%s's HP was already full.{page}"
+  "en": "[02]%s's HP was{n}already full.{page}"
  },
  {
   "id": "ov1_05704",
@@ -5850,7 +5850,7 @@
    "ov1:d:485ac"
   ],
   "jp": "[02]%sは、{n}既にMPがいっぱいだった{page}",
-  "en": "[02]%s's MP was already full.{page}"
+  "en": "[02]%s's MP was{n}already full.{page}"
  },
  {
   "id": "ov1_05724",
@@ -5910,7 +5910,7 @@
    "ov1:d:485c0"
   ],
   "jp": "[02]%sは、{n}HPとMPが全快した{page}",
-  "en": "[02]%s's HP and MP were fully{n}restored.{page}"
+  "en": "[02]%s's HP and MP were{n}fully restored.{page}"
  },
  {
   "id": "ov1_057a0",
@@ -5946,7 +5946,7 @@
    "ov1:d:485cc"
   ],
   "jp": "[02]%sは、{n}この効果を打ち消した！{page}",
-  "en": "[02]%s canceled this effect!{page}"
+  "en": "[02]%s canceled this{n}effect!{page}"
  },
  {
   "id": "ov1_057fc",
@@ -5994,7 +5994,7 @@
    "ov1:d:485dc"
   ],
   "jp": "[02]%sはそのＭＰを、{n}%d吸い取った{page}",
-  "en": "[02]%s drained %d of that{n}MP.{page}"
+  "en": "[02]%s drained %d of{n}that MP.{page}"
  },
  {
   "id": "ov1_0587c",
@@ -6042,7 +6042,7 @@
    "ov1:d:485f4"
   ],
   "jp": "[02]%a側の地形に波動をかけた{page}",
-  "en": "[02]A wave struck the ground on the %a{n}side.{page}"
+  "en": "[02]A wave struck the ground on the{n}%a side.{page}"
  },
  {
   "id": "ov1_058dc",
@@ -6066,7 +6066,7 @@
    "ov1:d:485fc"
   ],
   "jp": "[02]さらに%sは、{n}気絶させようとしている{page}%z",
-  "en": "[02]And %s tries to knock the{n}target out.{page}%z"
+  "en": "[02]And %s tries to knock{n}the target out.{page}%z"
  },
  {
   "id": "ov1_05920",
@@ -6114,7 +6114,7 @@
    "ov1:d:48628"
   ],
   "jp": "[01]さらに%sの追撃！{page}",
-  "en": "[01]And a follow-up attack from{n}%s!{page}"
+  "en": "[01]And a follow-up attack{n}from %s!{page}"
  },
  {
   "id": "ov1_059a0",
@@ -6138,7 +6138,7 @@
    "ov1:d:48640"
   ],
   "jp": "[02]%sは、{n}%sをかばった！{page}",
-  "en": "[02]%s shielded{n}%s!{page}"
+  "en": "[02]%s{n}shielded %s!{page}"
  },
  {
   "id": "ov1_059d4",
@@ -6186,7 +6186,7 @@
    "ov1:d:48660"
   ],
   "jp": "[02]%sは、{n}%iで受け流した{page}",
-  "en": "[02]%s parried with{n}%i.{page}"
+  "en": "[02]%s parried{n}with %i.{page}"
  },
  {
   "id": "ov1_05a50",
@@ -6198,7 +6198,7 @@
    "ov1:d:48664"
   ],
   "jp": "[02]%sは、{n}%iで防いだ{page}",
-  "en": "[02]%s blocked with{n}%i.{page}"
+  "en": "[02]%s blocked{n}with %i.{page}"
  },
  {
   "id": "ov1_05a64",
@@ -6210,7 +6210,7 @@
    "ov1:d:48668"
   ],
   "jp": "[02]%sは、{n}%iで防げなかった{page}",
-  "en": "[02]%s couldn't block with{n}%i.{page}"
+  "en": "[02]%s couldn't block{n}with %i.{page}"
  },
  {
   "id": "ov1_05a80",
@@ -6270,7 +6270,7 @@
    "ov1:d:48684"
   ],
   "jp": "[02]%sは、{n}被害地帯にいる{page}",
-  "en": "[02]%s is in a Damage Zone.{page}"
+  "en": "[02]%s is in a{n}Damage Zone.{page}"
  },
  {
   "id": "ov1_05b08",
@@ -6294,7 +6294,7 @@
    "ov1:d:4868c"
   ],
   "jp": "[03]%sは、{n}停止トラップから開放された{page}",
-  "en": "[03]%s was freed from a Stop{n}Trap.{page}"
+  "en": "[03]%s was freed from a{n}Stop Trap.{page}"
  },
  {
   "id": "ov1_05b40",
@@ -6546,7 +6546,7 @@
    "ov1:d:48734"
   ],
   "jp": "[02]%sは、{n}既に防御力下がっている{page}",
-  "en": "[02]%s's defense is already{n}down.{page}"
+  "en": "[02]%s's defense is{n}already down.{page}"
  },
  {
   "id": "ov1_05d6c",
@@ -6558,7 +6558,7 @@
    "ov1:d:48738"
   ],
   "jp": "[02]%sは、{n}既に不和の状態にある{page}",
-  "en": "[02]%s is already in discord.{page}"
+  "en": "[02]%s is already in{n}discord.{page}"
  },
  {
   "id": "ov1_05d8c",
@@ -6582,7 +6582,7 @@
    "ov1:d:48740"
   ],
   "jp": "[02]%sは、{n}既にレジストが下がっている{page}",
-  "en": "[02]%s's resistance is already{n}down.{page}"
+  "en": "[02]%s's resistance is{n}already down.{page}"
  },
  {
   "id": "ov1_05dd8",
@@ -6630,7 +6630,7 @@
    "ov1:d:48750"
   ],
   "jp": "[02]%sは、{n}既に怪力に満たされている{page}",
-  "en": "[02]%s is already full of great{n}strength.{page}"
+  "en": "[02]%s is already full of{n}great strength.{page}"
  },
  {
   "id": "ov1_05e58",
@@ -6642,7 +6642,7 @@
    "ov1:d:48754"
   ],
   "jp": "[02]%sは、{n}既に防御力が上がっている{page}",
-  "en": "[02]%s's defense is already{n}up.{page}"
+  "en": "[02]%s's defense is{n}already up.{page}"
  },
  {
   "id": "ov1_05e7c",
@@ -6666,7 +6666,7 @@
    "ov1:d:4875c"
   ],
   "jp": "[02]%sは、{n}既に精神波防御している{page}",
-  "en": "[02]%s already has mind-wave{n}defense.{page}"
+  "en": "[02]%s already has{n}mind-wave defense.{page}"
  },
  {
   "id": "ov1_05eb8",
@@ -6678,7 +6678,7 @@
    "ov1:d:48760"
   ],
   "jp": "[02]%sは、{n}既にレジストが上がっている{page}",
-  "en": "[02]%s's resistance is already{n}up.{page}"
+  "en": "[02]%s's resistance is{n}already up.{page}"
  },
  {
   "id": "ov1_05edc",
@@ -6690,7 +6690,7 @@
    "ov1:d:48764"
   ],
   "jp": "[02]%sは、{n}既に瞬間移動が可能だ{page}",
-  "en": "[02]%s can already teleport.{page}"
+  "en": "[02]%s can already{n}teleport.{page}"
  },
  {
   "id": "ov1_05efc",
@@ -6702,7 +6702,7 @@
    "ov1:d:48768"
   ],
   "jp": "[02]%sの急所は、{n}とらえられなかった{page}",
-  "en": "[02]%s's vital spot couldn't be{n}struck.{page}"
+  "en": "[02]%s's vital spot couldn't{n}be struck.{page}"
  },
  {
   "id": "ov1_05f20",
@@ -6726,7 +6726,7 @@
    "ov1:d:48770"
   ],
   "jp": "[02]%sには、{n}ノイズは効かない{page}",
-  "en": "[02]Noise has no effect on{n}%s.{page}"
+  "en": "[02]Noise has no effect{n}on %s.{page}"
  },
  {
   "id": "ov1_05f5c",
@@ -6738,7 +6738,7 @@
    "ov1:d:48774"
   ],
   "jp": "[02]%sには、{n}毒が効かない{page}",
-  "en": "[02]Poison has no effect on{n}%s.{page}"
+  "en": "[02]Poison has no effect{n}on %s.{page}"
  },
  {
   "id": "ov1_05f74",
@@ -6786,7 +6786,7 @@
    "ov1:d:48784"
   ],
   "jp": "[02]%sに{n}防御力低下は効き目がない{page}",
-  "en": "[02]Defense Down has no effect on{n}%s.{page}"
+  "en": "[02]Defense Down has no effect{n}on %s.{page}"
  },
  {
   "id": "ov1_05ff4",
@@ -6810,7 +6810,7 @@
    "ov1:d:4878c"
   ],
   "jp": "[02]%sは、{n}停止効果は効き目がない{page}",
-  "en": "[02]Stop has no effect on{n}%s.{page}"
+  "en": "[02]Stop has no effect{n}on %s.{page}"
  },
  {
   "id": "ov1_06034",
@@ -6822,7 +6822,7 @@
    "ov1:d:48790"
   ],
   "jp": "[02]%sに{n}レジスト低下は効き目がない{page}",
-  "en": "[02]Resistance Down has no effect on{n}%s.{page}"
+  "en": "[02]Resistance Down has no effect{n}on %s.{page}"
  },
  {
   "id": "ov1_06058",
@@ -6846,7 +6846,7 @@
    "ov1:d:487b8"
   ],
   "jp": "[02]%sは、{n}昏倒から回復した{page}",
-  "en": "[02]%s recovered from Stun.{page}"
+  "en": "[02]%s recovered{n}from Stun.{page}"
  },
  {
   "id": "ov1_06098",
@@ -6870,7 +6870,7 @@
    "ov1:d:487c0"
   ],
   "jp": "[02]%sの{n}体内から毒が消え去った{page}",
-  "en": "[02]The poison left %s's{n}body.{page}"
+  "en": "[02]The poison left{n}%s's body.{page}"
  },
  {
   "id": "ov1_060d4",
@@ -6894,7 +6894,7 @@
    "ov1:d:487c8"
   ],
   "jp": "[02]%sは、{n}己を取り戻した{page}",
-  "en": "[02]%s regained self-control.{page}"
+  "en": "[02]%s regained{n}self-control.{page}"
  },
  {
   "id": "ov1_06104",
@@ -6918,7 +6918,7 @@
    "ov1:d:487d0"
   ],
   "jp": "[02]%sに{n}再び力が戻った{page}",
-  "en": "[02]Strength returned to{n}%s.{page}"
+  "en": "[02]Strength returned{n}to %s.{page}"
  },
  {
   "id": "ov1_06138",
@@ -6978,7 +6978,7 @@
    "ov1:d:487e4"
   ],
   "jp": "[02]%sの{n}体は清められた{page}",
-  "en": "[02]%s's body was cleansed.{page}"
+  "en": "[02]%s's body was{n}cleansed.{page}"
  },
  {
   "id": "ov1_061c0",
@@ -7062,7 +7062,7 @@
    "ov1:d:48834"
   ],
   "jp": "[02]%sは、{n}成仏しない{page}",
-  "en": "[02]%s won't be laid to rest.{page}"
+  "en": "[02]%s won't be laid{n}to rest.{page}"
  },
  {
   "id": "ov1_06294",
@@ -7074,7 +7074,7 @@
    "ov1:d:48838"
   ],
   "jp": "[02]%sは、{n}成仏するはずなかった{page}",
-  "en": "[02]%s could never have been{n}laid to rest.{page}"
+  "en": "[02]%s could never have{n}been laid to rest.{page}"
  },
  {
   "id": "ov1_062b4",
@@ -7170,7 +7170,7 @@
    "ov1:d:488b8"
   ],
   "jp": "[02]%sは、{n}移動禁止地帯にいる{page}",
-  "en": "[02]%s is in a No-Move Zone.{page}"
+  "en": "[02]%s is in a{n}No-Move Zone.{page}"
  },
  {
   "id": "ov1_063a8",
@@ -7182,7 +7182,7 @@
    "ov1:d:488bc"
   ],
   "jp": "[02]%sは、{n}脱力地帯にいる{page}",
-  "en": "[02]%s is in a Lethargy Zone.{page}"
+  "en": "[02]%s is in a{n}Lethargy Zone.{page}"
  },
  {
   "id": "ov1_063c0",
@@ -7194,7 +7194,7 @@
    "ov1:d:488c0"
   ],
   "jp": "[02]%sは、{n}防御力低下地帯にいる{page}",
-  "en": "[02]%s is in a Defense Down{n}Zone.{page}"
+  "en": "[02]%s is in a Defense{n}Down Zone.{page}"
  },
  {
   "id": "ov1_063e0",
@@ -8094,7 +8094,7 @@
    "ov1:d:48a2c"
   ],
   "jp": "[03]%z侮るは即ち心の隙……常に力を尽くす！{page}",
-  "en": "[03]%zContempt leaves an opening... give your{n}all!{page}"
+  "en": "[03]%zContempt leaves an opening... give{n}your all!{page}"
  },
  {
   "id": "ov1_06c74",

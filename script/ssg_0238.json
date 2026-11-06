@@ -405,7 +405,7 @@
    "ヨシュア"
   ],
   "jp": "あれなら、この程度の人数なら一度に{n}運んでくれるだろう",
-  "en": "It should carry this many of us all at{n}once."
+  "en": "It should carry this many of us all{n}at once."
  },
  {
   "id": "s0238_011b0",
@@ -549,7 +549,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "……そうか！　この遺跡の仕組みが{n}判ってきたぜ",
-  "en": "...I get it! I'm figuring out how these ruins{n}work."
+  "en": "...I get it! I'm figuring out how these{n}ruins work."
  },
  {
   "id": "s0238_01564",
@@ -597,7 +597,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "ここは天体の運行を模して造られた{n}建造物群だ。恐らくは黄道の並びを{n}なぞってたんだろうが、それが移動さ{n}せられて機能を狂わされてやがる――",
-  "en": "These buildings were made to imitate the{n}movement of the heavens. They probably{n}followed the order of the zodiac, but{n}they've been moved around and their{page}function's screwed up--"
+  "en": "These buildings were made to imitate the{n}movement of the heavens. They probably{n}followed the order of the zodiac, but{page}they've been moved around and their{n}function's screwed up--"
  },
  {
   "id": "s0238_01604",
@@ -693,7 +693,7 @@
    "シェラ"
   ],
   "jp": "その推測は間違いではあるまい。あの{n}宮殿が元の位置に納まった時、嫌な{n}波動は確実に消えていた……ねじ曲げ{n}られた自然の理が回復したようだった",
-  "en": "I doubt that guess is wrong. When that{n}palace settled in its original position, the{n}unpleasant waves definitely disappeared... It{n}was as if the twisted law of nature had{page}been restored."
+  "en": "I doubt that guess is wrong. When that{n}palace settled in its original position, the{n}unpleasant waves definitely disappeared...{page}It was as if the twisted law of nature had{n}been restored."
  },
  {
   "id": "s0238_01794",
@@ -813,7 +813,7 @@
    "シェラ"
   ],
   "jp": "凄まじい力を感じる……この力こそが、{n}水龍の示そうとした秘密――？",
-  "en": "I sense a terrific power... Is this power the{n}secret the Water Dragon tried to point{n}to--?"
+  "en": "I sense a terrific power... Is this power the{n}secret the Water Dragon tried to{n}point to--?"
  },
  {
   "id": "s0238_01b40",

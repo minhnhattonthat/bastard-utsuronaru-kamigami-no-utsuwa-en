@@ -165,7 +165,7 @@
    "アンガス"
   ],
   "jp": "突然アンガスが白目を剥き、動かなく{n}なった。全身が硬直し、時折痙攣が{n}疾り抜ける。",
-  "en": "Suddenly Angus's eyes rolled back and he{n}stopped moving. His whole body stiffened,{n}with spasms running through it now and{n}then."
+  "en": "Suddenly Angus's eyes rolled back and he{n}stopped moving. His whole body stiffened,{n}with spasms running through it now{n}and then."
  },
  {
   "id": "s0084_00a00",
@@ -549,7 +549,7 @@
    ""
   ],
   "jp": "扉が開いた時、宝箱との間を阻んで{n}いた水は完全に引いていた。",
-  "en": "When the door opened, the water that{n}had stood between them and the{n}treasure chest had completely drained{n}away."
+  "en": "When the door opened, the water that{n}had stood between them and the{n}treasure chest had completely{n}drained away."
  },
  {
   "id": "s0084_01180",
