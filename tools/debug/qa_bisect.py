@@ -12,6 +12,7 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parents[2]
 sys.path.insert(0, str(ROOT / "tools"))
 import batches  # noqa: E402
+import extract  # noqa: E402
 import insert  # noqa: E402
 
 CUE = ROOT / "build/bisect.cue"
@@ -37,7 +38,9 @@ def main():
     entries = batches.index()
     for prefix in sys.argv[2:]:
         # A stack-buffer string can't take its Japanese back at full length in this build's check: those stay English.
-        ids = sorted(i for i, e in entries.items() if i.startswith(prefix) and e.get("en") and insert.buffer_cap(e) is None)
+        # So can't a table name that fills its field: the build always writes a NUL.
+        ids = sorted(i for i, e in entries.items() if i.startswith(prefix) and e.get("en") and insert.buffer_cap(e) is None
+                     and not (i[0] == "t" and len(extract.encode(e["jp"])) >= e["max"]))
         if not ids or not passes(s, ids, entries):
             continue
         while len(ids) > 1:

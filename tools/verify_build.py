@@ -34,6 +34,7 @@ FONT_LOOKALIKES = {0x2884, 0x179C0}  # kanji bitmaps in the EXE whose bytes happ
 # The hook's fixed sites in the EXE, as file offsets.
 SITES = [engine.FONT_TABLE + 4 * f - EXE_BASE for f in engine.ORIG] + [engine.METRIC_TABLE + 4 * f - EXE_BASE for f in engine.METRIC]
 SITES += [engine.POOL_SIZE_ARG - EXE_BASE, engine.CHAR_COUNT - EXE_BASE, engine.CHAR_COUNT + 4 - EXE_BASE]
+SITES += [engine.LIST_PAD - EXE_BASE, engine.LIST_WIDEN - EXE_BASE]
 
 
 def sectors(orig_path, new_path):

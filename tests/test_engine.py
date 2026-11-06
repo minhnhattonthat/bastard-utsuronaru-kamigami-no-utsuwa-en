@@ -182,6 +182,20 @@ def test_window_pools_double_in_the_one_move_that_sets_size_and_limit():
     assert struct.unpack_from("<I", exe, 0x8004A8D0 - 0x8000F800)[0] == 0xAE110064
 
 
+def test_save_list_keeps_row_1_as_ascii_and_widens_only_the_rest():
+    uc, syms = machine()
+    uc.mem_write(phys(engine.LIST_WIDEN_FN), struct.pack("<II", 0x03E00008, 0))  # stub: jr $ra; nop
+    src, dst = BUF, BUF + 0x100
+    uc.mem_write(phys(src), b"Forgotten Beach".ljust(24) + b"rest\0")
+    uc.reg_write(M.UC_MIPS_REG_A0, dst)
+    uc.reg_write(M.UC_MIPS_REG_A1, src)
+    uc.reg_write(M.UC_MIPS_REG_RA, RET)
+    uc.emu_start(syms["listname"], RET)
+    assert bytes(uc.mem_read(phys(dst), 24)) == b"Forgotten Beach".ljust(24)
+    # 80053E64 was entered with (dst + 24, src + 24)
+    assert uc.reg_read(M.UC_MIPS_REG_A0) == dst + 24 and uc.reg_read(M.UC_MIPS_REG_A1) == src + 24
+
+
 def test_rebuilt_script_ends_every_string_on_its_own_nul():
     import json
 

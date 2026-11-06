@@ -31,6 +31,10 @@ CHAR_COUNT = 0x8004FA7C
 # English can be wider than the Japanese it replaces; an overrun fails the assert at 8004A534 (sprman.cpp), which spins forever:
 # the box never appears and input stops. All pools double: the one move sets both the allocation and the limit at +0x64.
 POOL_SIZE_ARG = 0x8004A884
+LIST_PAD = 0x80045DD0  # delay slot: the %-Ns width of the save list line
+LIST_WIDEN = 0x80045DF0  # jal 80053E64: ASCII to full width
+LIST_WIDEN_FN = 0x80053E64
+LIST_COLUMN = 23  # a map name's longest; the format's own space makes it 24
 
 
 def load_font(path=FONT_FILE):
@@ -293,7 +297,22 @@ rowdone:
     nop
     jr    $ra
     nop
+listname:
+    move  $t0, $zero
+listloop:
+    lbu   $t1, 0($a1)
+    sb    $t1, 0($a0)
+    addiu $a1, $a1, 1
+    addiu $t0, $t0, 1
+    sltiu $at, $t0, 24
+    bnez  $at, listloop
+    addiu $a0, $a0, 1
+    lui   $at, 0x8005
+    ori   $at, $at, 0x3e64
+    jr    $at
+    nop
 """
+LISTNAME_WORDS = 12  # instructions in listname, the last thing in ASM
 
 
 def assemble(addr=HOOK, qa=False):
@@ -316,7 +335,7 @@ def assemble(addr=HOOK, qa=False):
     met8 = met1 + 9 * 4
     cells = met8 + 9 * 4 + 11 * 4
     return code + font_bytes(), {"vwf1": addr, "vwf8": addr + entry, "met1": met1, "met8": met8, "cells": cells,
-                                 "font": addr + len(code)}
+                                 "listname": addr + len(code) - LISTNAME_WORDS * 4, "font": addr + len(code)}
 
 
 def _s16(a):
@@ -342,4 +361,13 @@ def patch_exe(exe, base=0x8000F800, qa=False):
     at = POOL_SIZE_ARG - base
     assert struct.unpack_from("<I", exe, at)[0] == 0x00A08821  # move $s1,$a1
     struct.pack_into("<I", exe, at, 0x00058840)  # sll $s1,$a1,1
+    # Save list line, 80045D40: it pads the map name by its Japanese cells, then 80053E64 widens all ASCII to two bytes, so an
+    # English name of 16+ letters overran the 64-byte record and the caller's stack. The name is now a plain 23-byte column;
+    # listname copies the 24 bytes the caller shows as row 1, and only the rest (row 2) is widened.
+    at = LIST_PAD - base
+    assert struct.unpack_from("<I", exe, at)[0] == 0x2446000B  # addiu $a2,$v0,11
+    struct.pack_into("<I", exe, at, 0x24060000 | LIST_COLUMN)  # addiu $a2,$zero,23
+    at = LIST_WIDEN - base
+    assert struct.unpack_from("<I", exe, at)[0] == 0x0C000000 | (LIST_WIDEN_FN & 0x0FFFFFFF) >> 2
+    struct.pack_into("<I", exe, at, 0x0C000000 | (syms["listname"] & 0x0FFFFFFF) >> 2)
     return (HOOK + len(blob) + 3) & ~3

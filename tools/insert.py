@@ -26,7 +26,7 @@ GP_OFF = 0x818  # file offset of $gp in every ssg: payload 0x18 + 0x800
 SPEECH_KINDS = ("text", "label")
 # Strings expanded into stack buffers (tools/debug/fmt_sites.py): an overrun smashes the return address and the game hangs.
 # id -> bytes of literal text, tokens not counted, after room for the longest argument. Buffer sizes: docs/re/windows.md.
-MAP_NAME_ROOM = 30
+MAP_NAME_ROOM = engine.LIST_COLUMN  # the save list's column (engine.patch_exe); the go-to messages would take 30
 ITEM_ROOM = 17
 FORMAT_ROOM = {
     "exe_00920": 56 - 1 - ITEM_ROOM - 2,  # item name and a count up to 99
