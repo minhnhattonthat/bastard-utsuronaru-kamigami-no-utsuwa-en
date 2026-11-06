@@ -31,6 +31,9 @@ Each row names the JP markers and the English that carries them. A line any spea
 | Kai | `俺`, `オマエ`, `〜のだ` | Blunt woman warrior, proud; contractions fine; never swoons. |
 | Sean | `わたし`, `〜わ` | Young, warm, plain; `兄さん` = "brother". |
 | Ran | `俺`, `貴様`, `魔雷妃様` | Cold, curt; brainwashed, "Demon Thunder Queen-sama". |
+| Di-Amon | `私`, `〜ですよ`, `〜なさい`, `ギャワー` | Prissy, vain, over-polite, few contractions; shrieks "Gwaaah!", whines "Do not look!"; `美しい` for his own hideous macho form. D.S. "treads" (`踏み！` = "Tread!") on him. |
+| Ida | `私`, `〜です`, `美しい` | Soft, ceremonious, no contractions; everything is judged by beauty. |
+| Undines | `〜でーす`, `〜ねー`, `ステキ` | Giggly, drawn-out vowels ("cuuute", "Yes!"), simple minds. Speak as a chorus. |
 | Old or formal speakers | `わし`, `じゃ`, `のう`, `〜であろう`, `貴様`, `〜ぬ` | Stiff, archaic: "I shall", "you dare", "boy", "eh?". |
 | Women | `〜わ`, `〜のよ`, `かしら` | "I wonder", "you know", "dear" as fits the character; Nei is commanding, Yoko warm. |
 
@@ -53,3 +56,4 @@ Update this table when a new voice is settled (name, markers, devices).
 - Speaker labels are hints: a line tagged with a name can be narration (third-person description).
 - Keep the 『彼』 quote marks in the opening: 'him', 'he'.
 - Keep lines plain ASCII; `--` for ――; `...` for ……; `!?` for ！？.
+- The name Nei is a pun: `いいえ（ネイ）`, `違う（ネイ）`: she is "no", "not". The reveal (b048) says "No (Nei).", "I am not (Nei).", "Nei is a word that means "no"". Carry it if it returns.

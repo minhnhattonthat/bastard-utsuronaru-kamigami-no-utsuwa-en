@@ -21,7 +21,7 @@
    ""
   ],
   "jp": "その森の内側には、刈り込まれた高い{n}生け垣で構成された迷路状の庭園が{n}広がっていた。密生した垣根は向こう{n}側を見通すこともできず、中を探索{n}するには狭い通路に沿って歩くしか{n}なさそうだった。",
-  "en": ""
+  "en": "Inside that forest spread a maze-like{n}garden made of tall, clipped hedges. The{n}dense hedges hid what lay beyond, and it{n}seemed the only way to explore was to{n}walk along the narrow paths."
  },
  {
   "id": "s0181_008d4",
@@ -45,7 +45,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "ご大層な迷路が造られてやがる。{n}これも妖魔どもの趣味かな",
-  "en": ""
+  "en": "Somebody built a mighty fancy maze. Guess{n}that's demon taste too."
  },
  {
   "id": "s0181_00910",
@@ -69,7 +69,7 @@
    "ヨシュア"
   ],
   "jp": "Ｄ・Ｓ！　良くぞ無事で！",
-  "en": ""
+  "en": "D.S.! You are safe, and well done!"
  },
  {
   "id": "s0181_0092c",
@@ -93,7 +93,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "ヨシュアか！",
-  "en": ""
+  "en": "Joshua!"
  },
  {
   "id": "s0181_0093c",
@@ -117,7 +117,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "迷路の中で出くわしたのは、これまで{n}度々Ｄ・Ｓたちの窮地を救ってくれた{n}侍・ヨシュアであった。",
-  "en": ""
+  "en": "The one they ran into in the maze was{n}the samurai Joshua, who had saved D.S.{n}and the others from many a tight spot."
  },
  {
   "id": "s0181_0099c",
@@ -141,7 +141,7 @@
    "ヴァイ"
   ],
   "jp": "ヨシュアよう……お前も元気そうで{n}良かったぜ！",
-  "en": ""
+  "en": "Joshua, man... Glad to see you're doing okay{n}too!"
  },
  {
   "id": "s0181_009cc",
@@ -165,7 +165,7 @@
    "ヨルグ"
   ],
   "jp": "ヨシュア……",
-  "en": ""
+  "en": "Joshua..."
  },
  {
   "id": "s0181_009dc",
@@ -189,7 +189,7 @@
    "ヨシュア"
   ],
   "jp": "ヨルグ……俺の勝手な頼み通り、{n}良くＤ・Ｓたちを支えてくれたな……{n}ありがとう",
-  "en": ""
+  "en": "Jorg... You have done well to support D.S.{n}and the others, as I selfishly asked... Thank{n}you."
  },
  {
   "id": "s0181_00a2c",
@@ -213,7 +213,7 @@
    "ヨルグ"
   ],
   "jp": "礼などよせ！　それを言い始めたら、{n}俺はお前に幾ら言っても足りぬ！",
-  "en": ""
+  "en": "Spare me your thanks! If we start on that, I{n}could never say enough to you!"
  },
  {
   "id": "s0181_00a70",
@@ -237,7 +237,7 @@
    "ヨルグ"
   ],
   "jp": "Ｄ・Ｓたちは短く情報を伝え合い、{n}魔雷妃と妖魔のこと、そして今は{n}翼龍を救うべく動いていることを{n}ヨシュアに告げた。",
-  "en": ""
+  "en": "D.S. and the others traded news briefly,{n}telling Joshua of the Demon Thunder{n}Queen and the demons, and that they{n}were now working to save the wyvern."
  },
  {
   "id": "s0181_00ae4",
@@ -261,7 +261,7 @@
    "ヨシュア"
   ],
   "jp": "そうか……龍の心臓が抜き取られて{n}いるのか。その“翼龍の左眼”とやら{n}を、良く見せてはもらえないか？",
-  "en": ""
+  "en": "I see... So the dragon's heart was torn out.{n}May I take a good look at this \"Wyvern's{n}Left Eye\"?"
  },
  {
   "id": "s0181_00b48",
@@ -285,7 +285,7 @@
    "ヨシュア"
   ],
   "jp": "ヨシュアは宝石を受け取ると、その{n}大きさを測るように丹念に調べ始めた。",
-  "en": ""
+  "en": "Taking the jewel, Joshua began to{n}examine it with care, as if gauging its{n}size."
  },
  {
   "id": "s0181_00b90",
@@ -309,7 +309,7 @@
    "ヨシュア"
   ],
   "jp": "……先刻迷い込んだ場所に、翼龍{n}らしきものが描かれた壁画があった。{n}確証はないが、その左眼の窪みが同じ{n}くらいの大きさだったように思う――",
-  "en": ""
+  "en": "...In a place I strayed into earlier, there was{n}a mural that seemed to show a wyvern. I am{n}not certain, but I believe the hollow of its{n}left eye was about the same size--"
  },
  {
   "id": "s0181_00c1c",
@@ -333,7 +333,7 @@
    "ヨシュア"
   ],
   "jp": "壁画はこの先だ。俺も一緒に行こう",
-  "en": ""
+  "en": "The mural lies ahead. I shall come with{n}you."
  },
  {
   "id": "s0181_00c40",
@@ -357,7 +357,7 @@
    "カイ"
   ],
   "jp": "この男は……信用できるのか？",
-  "en": ""
+  "en": "This man... Can he be trusted?"
  },
  {
   "id": "s0181_00c60",
@@ -381,7 +381,7 @@
    "ヨルグ"
   ],
   "jp": "カイ！　何を言うんだ？",
-  "en": ""
+  "en": "Kai! What are you saying?"
  },
  {
   "id": "s0181_00c78",
@@ -405,7 +405,7 @@
    "カイ"
   ],
   "jp": "話を聞いたところでは、都合のいい{n}場所で姿をくらますそうではないか？{n}俺はそんな男を信用せんぞ",
-  "en": ""
+  "en": "From what I've heard, he disappears{n}whenever it suits him, doesn't he? I don't{n}trust a man like that."
  },
  {
   "id": "s0181_00cd8",
@@ -429,7 +429,7 @@
    "ヨシュア"
   ],
   "jp": "君は……カイ？",
-  "en": ""
+  "en": "You are... Kai?"
  },
  {
   "id": "s0181_00ce8",
@@ -453,7 +453,7 @@
    "カイ"
   ],
   "jp": "！　俺を知っているのか!?",
-  "en": ""
+  "en": "! You know me!?"
  },
  {
   "id": "s0181_00d04",
@@ -477,7 +477,7 @@
    "ヨシュア"
   ],
   "jp": "いや――今は名前しか……。だが、{n}知っている。決して忘れ得ぬ名として{n}――",
-  "en": ""
+  "en": "No--for now only the name... But I do know{n}it. As a name I could never forget--"
  },
  {
   "id": "s0181_00d50",
@@ -501,7 +501,7 @@
    "カイ"
   ],
   "jp": "な……何を真顔で言っている！　お、{n}俺はお前のように綺麗な顔をした男は{n}キライなんだ！　そういう奴に限って{n}なよなよしてたりするからなっ！",
-  "en": ""
+  "en": "Wh... What are you saying with such a{n}straight face! I-I hate men with pretty{n}faces like yours! Guys like that always turn{n}out to be wimps!"
  },
  {
   "id": "s0181_00ddc",
@@ -525,7 +525,7 @@
    "ヨシュア"
   ],
   "jp": "済まない……混乱させるつもりは{n}なかった。どうか許して欲しい。ただ、{n}君を見た瞬間、カイと言う名が記憶に{n}蘇ったのだ",
-  "en": ""
+  "en": "Forgive me... I did not mean to confuse you.{n}Please pardon me. It is only that the{n}moment I saw you, the name Kai came back{n}to my memory."
  },
  {
   "id": "s0181_00e50",
@@ -549,7 +549,7 @@
    "カイ"
   ],
   "jp": "あ、ああ、気にするな！　俺も急に{n}名前を呼ばれて、取り乱してしまった{n}だけだ！",
-  "en": ""
+  "en": "Y-Yeah, forget it! I just got rattled when{n}you suddenly called my name, that's all!"
  },
  {
   "id": "s0181_00ea0",
@@ -573,7 +573,7 @@
    "ヨシュア"
   ],
   "jp": "うん。許してくれてありがとう……{n}ところで、そちらの彼は――？",
-  "en": ""
+  "en": "Yes. Thank you for forgiving me... By the{n}way, and this one--?"
  },
  {
   "id": "s0181_00ee0",
@@ -597,7 +597,7 @@
    "ラン"
   ],
   "jp": "ランだ。カイとシーンのナイト役と{n}言ったところだ。よろしくな",
-  "en": ""
+  "en": "I am Ran. You might call me the knight of Kai{n}and Sean. A pleasure."
  },
  {
   "id": "s0181_00f20",
@@ -621,7 +621,7 @@
    "ヨシュア"
   ],
   "jp": "カイの騎士……ああ、よろしく",
-  "en": ""
+  "en": "Kai's knight... Ah, a pleasure."
  },
  {
   "id": "s0181_00f40",
@@ -645,7 +645,7 @@
    "ヨシュア"
   ],
   "jp": "ふたりはややぎこちなく、はたから{n}見ても力の入り過ぎた握手を交わした。",
-  "en": ""
+  "en": "The two exchanged a rather stiff{n}handshake that even a bystander could{n}see held far too much force."
  },
  {
   "id": "s0181_00f88",
@@ -669,7 +669,7 @@
    "ヴァイ"
   ],
   "jp": "あれで二人とも笑ってるのが不気味{n}だなぁ。血の気がなくなって手が白く{n}なってるけど……",
-  "en": ""
+  "en": "Creepy how they're both smiling through{n}that. Their hands've gone white from no{n}blood, though..."
  },
  {
   "id": "s0181_00fe0",
@@ -693,7 +693,7 @@
    "ヨシュア"
   ],
   "jp": "……マカパイン。仲間に加わって{n}くれたそうだな",
-  "en": ""
+  "en": "...Macalpine. I hear you have joined us."
  },
  {
   "id": "s0181_01010",
@@ -717,7 +717,7 @@
    "マカパイン"
   ],
   "jp": "貴様か……あの時は悪かったな",
-  "en": ""
+  "en": "So it is you... I was wrong that time."
  },
  {
   "id": "s0181_01030",
@@ -741,7 +741,7 @@
    "ヨシュア"
   ],
   "jp": "いいさ。判ってくれさえすればいい。{n}我々は助け合わねばならぬのだと言う{n}ことを――",
-  "en": ""
+  "en": "It is fine, so long as you understand. That{n}we must help one another--"
  },
  {
   "id": "s0181_01084",
@@ -765,7 +765,7 @@
    "マカパイン"
   ],
   "jp": "……ああ",
-  "en": ""
+  "en": "...Yes."
  },
  {
   "id": "s0181_01460",
@@ -789,7 +789,7 @@
    "ブラド"
   ],
   "jp": "む……ぐぐ……ごがご……",
-  "en": ""
+  "en": "Mmf... Ggh... Gohgah..."
  },
  {
   "id": "s0181_0147c",
@@ -813,7 +813,7 @@
    "ブラド"
   ],
   "jp": "迷路の奥まった生け垣から、奇怪な{n}物体が生えていた。",
-  "en": ""
+  "en": "From a hedge deep in the maze, a bizarre{n}object was growing."
  },
  {
   "id": "s0181_014b4",
@@ -837,7 +837,7 @@
    "ブラド"
   ],
   "jp": "ブラドであった。どうやら森を彷徨う{n}うちに、この庭園に入り込んでさらに{n}迷ったらしい。癇癪を起こして垣根に{n}突進し、上半身をめり込ませた見ての{n}通りの有様となったようであった。",
-  "en": ""
+  "en": "It was Blad. It seemed that as he{n}wandered the forest he had entered this{n}garden and got further lost. He had{n}evidently flown into a temper and{n}charged the hedge, burying his upper{n}body in it, and here was the result for all{n}to see."
  },
  {
   "id": "s0181_01564",
@@ -861,7 +861,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "……情けねえカッコウだ。おい、{n}助けてやれ",
-  "en": ""
+  "en": "...Pathetic sight. Hey, somebody help him."
  },
  {
   "id": "s0181_01590",
@@ -885,7 +885,7 @@
    "ブラド"
   ],
   "jp": "うお？　……あ痛ててて、うーっ、{n}ぶはっ！",
-  "en": ""
+  "en": "Uwoh? ...Ow, ow, ow, ngh, pwah!"
  },
  {
   "id": "s0181_015bc",
@@ -909,7 +909,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "よお。しっかしオメエはホントに{n}方向音痴だな",
-  "en": ""
+  "en": "Yo. Damn, you really got no sense of{n}direction."
  },
  {
   "id": "s0181_015ec",
@@ -933,7 +933,7 @@
    "ブラド"
   ],
   "jp": "うう……面目ない姿を晒してしまった{n}わい。どうにもこの樹海から脱出{n}できなくてな",
-  "en": ""
+  "en": "Ugh... I have shown you a shameful sight. I{n}simply cannot escape this sea of trees."
  },
  {
   "id": "s0181_0163c",
@@ -957,7 +957,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "出口は恐らく荊の壁だけだろうぜ。{n}言っとくがブラド、あの壁にヤケを{n}起こして突っ込んだりすんなよ。幾ら{n}オメエが頑丈でも命を落としかねねえ",
-  "en": ""
+  "en": "The only way out's probably the Wall of{n}Thorns. Fair warning, Blad, don't go charging{n}that wall in a tantrum. Tough as you are,{n}you could get yourself killed."
  },
  {
   "id": "s0181_016c8",
@@ -981,7 +981,7 @@
    "ブラド"
   ],
   "jp": "そ……そんな軽率な真似をするワケが{n}なかろう！　バカにするなよっ！",
-  "en": ""
+  "en": "Wh... Why would I do anything so rash! Do not{n}mock me!"
  },
  {
   "id": "s0181_0170c",
@@ -1005,7 +1005,7 @@
    "ヴァイ"
   ],
   "jp": "あ、マジで考えてやがったな",
-  "en": ""
+  "en": "Ah, he was seriously thinking about it."
  },
  {
   "id": "s0181_01728",
@@ -1029,7 +1029,7 @@
    "ブラド"
   ],
   "jp": "む……ま、まあとにかく、またも{n}助けられてしまったな。礼を言う。{n}今後も騎士として精進せいよ！",
-  "en": ""
+  "en": "Hm... W-Well, at any rate, you have saved me{n}again. You have my thanks. Keep training as{n}knights from now on!"
  },
  {
   "id": "s0181_01788",
@@ -1053,7 +1053,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "ドコ行くんだよ？　荊の壁は越えられ{n}ねえぜ？",
-  "en": ""
+  "en": "Where you going? You can't get past the{n}Wall of Thorns, y'know?"
  },
  {
   "id": "s0181_017b8",
@@ -1077,7 +1077,7 @@
    "ブラド"
   ],
   "jp": "不可能であろうと邁進するのが騎士で{n}あーる！　不屈の男ブラドがゆく！",
-  "en": ""
+  "en": "A knight marches on even against the{n}impossible! Blad the unyielding is on his{n}way!"
  },
  {
   "id": "s0181_01800",
@@ -1101,7 +1101,7 @@
    "ヴァイ"
   ],
   "jp": "また迷わなきゃいーけど",
-  "en": ""
+  "en": "Hope he doesn't get lost again."
  },
  {
   "id": "s0181_019c8",
@@ -1125,7 +1125,7 @@
    ""
   ],
   "jp": "ヨシュアの語った通り、左向きに{n}描かれた翼龍の左眼に当たる位置に、{n}宝石を嵌め込むのにちょうど良い{n}大きさの窪みがあった。",
-  "en": ""
+  "en": "Just as Joshua had said, on the{n}left-facing wyvern, where the Wyvern's{n}Left Eye belonged, there was a hollow of{n}just the right size to set a jewel in."
  },
  {
   "id": "s0181_01a44",
@@ -1149,7 +1149,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "手がかりはこれしかねえからな。{n}“翼龍の左眼”を嵌め込んでみるか",
-  "en": ""
+  "en": "It's the only lead we got. Let's try setting{n}the \"Wyvern's Left Eye\" in it."
  },
  {
   "id": "s0181_01a88",
@@ -1173,7 +1173,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "宝石を嵌めたものの、何かが起こる{n}気配はない。{page}一行が失望しかけたその時、幽かに{n}壁画の龍が身じろぎしたように思えた。{n}宝石の左眼は少しずつ、やがて爛々と{n}輝き始め、翼龍の絵は魂を得たかに{n}その鮮やかな翼を羽ばたかせ始める。",
-  "en": ""
+  "en": "Though they set the jewel, nothing{n}seemed to happen.{page}Just as the party started to despair, the{n}dragon on the mural seemed to stir{n}faintly. The jeweled left eye began to{n}shine, little by little and then blazing, and{n}the painted wyvern began to beat its{n}vivid wings as if it had gained a soul."
  },
  {
   "id": "s0181_01b64",
@@ -1197,7 +1197,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "こりゃあ……龍の分霊か！",
-  "en": ""
+  "en": "This is... a split spirit of the dragon!"
  },
  {
   "id": "s0181_01b80",
@@ -1221,7 +1221,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "翼龍は壁の中で一声吼えると、壁画{n}から抜け出して空に舞い上がる。{page}翼の巻き起こす突風の中で、一行は{n}翼龍が彼方の空――龍樹の上空を包む{n}雨雲へと一瞬に飛び去るのを見た。",
-  "en": ""
+  "en": "The wyvern gave a single roar within the{n}wall, broke free of the mural and soared{n}into the sky.{page}In the gale of its wings the party saw it{n}fly in an instant to the far-off sky--to{n}the rainclouds wrapping the air over the{n}Dragon Tree."
  },
  {
   "id": "s0181_01c28",
@@ -1245,7 +1245,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "龍の突進を受けた雨雲は、暴風に吹き{n}散らされたかの如くに霧散し、消滅{n}した。天頂から射し込む太陽光が、{n}遮るもののなくなった龍樹に真っ直ぐ{n}降り注いでいるのが見える。",
-  "en": ""
+  "en": "Struck by the dragon's charge, the{n}rainclouds scattered as if blown apart by{n}a storm and were gone. They could see{n}the sunlight from the zenith pouring{n}straight down on the now unshielded{n}Dragon Tree."
  },
  {
   "id": "s0181_01ccc",
@@ -1341,7 +1341,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "心臓を抜かれる前に、翼龍は分霊を{n}ここに封じておいたんだ。俺たちが{n}訪れた時に、心臓の位置を伝える術と{n}してな――",
-  "en": ""
+  "en": "Before its heart got torn out, the wyvern{n}sealed a split spirit in here. As a way to tell{n}us where the heart was, once we came{n}along--"
  },
  {
   "id": "s0181_01d58",
@@ -1365,7 +1365,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "龍樹に戻ってみよう。何か起こって{n}いるはずだぜ",
-  "en": ""
+  "en": "Let's go back to the Dragon Tree.{n}Something's gotta be happening."
  },
  {
   "id": "s0181_01d88",
@@ -1389,7 +1389,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "巨大な壁画が、そこに祀られていた。{page}色鮮やかな顔料を用いて、天駆ける{n}翼龍の姿が生き生きと描かれている。{n}間違いなくそれがこの聖域の核となる{n}場所であり、妖魔が封鎖してでも他者{n}を近づけたくない要所であった。",
-  "en": ""
+  "en": "A giant mural was enshrined there.{page}With vivid pigments, a wyvern racing{n}across the heavens was lifelike in its{n}detail. This was surely the core of the{n}sanctuary, the key spot the demons{n}would seal off to keep others away."
  },
  {
   "id": "s0181_01e58",
@@ -1413,7 +1413,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "何か謎が隠されているようだが……{n}今は何の手がかりも見つからねえな。{n}先によそを当たるか",
-  "en": ""
+  "en": "Looks like there's some kinda riddle hidden{n}here... But we got no clue for now. Let's try{n}elsewhere first."
  },
  {
   "id": "s0181_020fc",
@@ -1437,7 +1437,7 @@
    ""
   ],
   "jp": "ひっそりと隠れ潜むように、岩壁の{n}内部へと続く入口があった。しかし、{n}そこはこの樹海にあって極めて異質な、{n}妖魔のものですらない邪気を放って{n}いる。",
-  "en": ""
+  "en": "Quietly, as if lying in hiding, there was an{n}entrance leading into the rock wall. But it{n}gave off an evil aura that was deeply out{n}of place in this sea of trees, not even{n}that of the demons."
  },
  {
   "id": "s0181_02190",
@@ -1461,7 +1461,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "ここは差し当たっての目的とは関係{n}ねえようだが……強い魔力の波動が{n}ビンビン伝わってきやがるぜ",
-  "en": ""
+  "en": "Don't look like this has anything to do with{n}what we're after right now... But I'm getting{n}strong waves of magic coming off it, real{n}loud."
  },
  {
   "id": "s0181_021f0",
@@ -1485,7 +1485,7 @@
    "ロス"
   ],
   "jp": "せっかく見つけたんだから入って{n}みましょうよぅ。スゴイお宝が隠され{n}てるかも知れないし――",
-  "en": ""
+  "en": "Since we went to the trouble of finding it,{n}let's go in! There might be fabulous treasure{n}hidden there--"
  },
  {
   "id": "s0181_0224c",
@@ -1509,7 +1509,7 @@
    "ヴァイ"
   ],
   "jp": "オマエってホント、お宝探しが{n}好きなのな",
-  "en": ""
+  "en": "You sure do love hunting treasure."
  },
  {
   "id": "s0181_02278",
@@ -1533,6 +1533,6 @@
    "ボル"
   ],
   "jp": "探索するにしても、リスクは少なく{n}なさそうでござるな",
-  "en": ""
+  "en": "Even if we explore it, the risk appears no{n}small one, forsooth."
  }
 ]

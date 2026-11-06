@@ -21,7 +21,7 @@
    ""
   ],
   "jp": "この湖は、もうひとつの湖と、樹海を{n}挟んで正反対の位置にあるようだった。{n}樹海の中心部を貫く川がふたつの湖を{n}結んでおり、こちらの湖から水が流れ{n}込んでいる。どうやら潤沢に湧き出す{n}水源があるらしかった。",
-  "en": ""
+  "en": "This lake seemed to lie directly across the{n}sea of trees from the other one. The{n}river running through the heart of the{n}sea of trees joined the two lakes, and{n}water flowed from this one. It seemed to{n}have an abundant spring at its source."
  },
  {
   "id": "s0191_00938",
@@ -45,7 +45,7 @@
    ""
   ],
   "jp": "湖上に霞んだ島影が見える。カイの{n}仲間が囚われている場所はその島に{n}間違いなさそうだったが、この岸辺{n}からは遠く隔たり、泳いでいくのも{n}難しそうだった。加えてこの湖には、{n}生け贄を求める凶暴な魔物が潜んで{n}いると言う。迂闊な方法で湖水を渡る{n}のは自殺行為にも等しかった。",
-  "en": ""
+  "en": "A misty island could be seen out on the{n}lake. It seemed certain that the island{n}was where Kai's comrade was held, but it{n}was far from this shore and looked hard{n}to swim to. What was more, a savage{n}monster craving sacrifices was said to{n}lurk in this lake. To cross it carelessly{n}would be near suicide."
  },
  {
   "id": "s0191_00a44",
@@ -69,7 +69,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "カイの奴は水妖がどうとか言って{n}やがったが――",
-  "en": ""
+  "en": "Kai was going on about some water{n}spirit--"
  },
  {
   "id": "s0191_00a74",
@@ -93,7 +93,7 @@
    "ウンディーネＢ"
   ],
   "jp": "……男よ",
-  "en": ""
+  "en": "...Men."
  },
  {
   "id": "s0191_00a80",
@@ -117,7 +117,7 @@
    "ウンディーネＣ"
   ],
   "jp": "……男ね",
-  "en": ""
+  "en": "...Men, yes."
  },
  {
   "id": "s0191_00a8c",
@@ -141,7 +141,7 @@
    "ウンディーネＡ"
   ],
   "jp": "……男だわ。それもいっぱい",
-  "en": ""
+  "en": "...They're men. A whole lot of them."
  },
  {
   "id": "s0191_00aa8",
@@ -165,7 +165,7 @@
    "ウンディーネＡ"
   ],
   "jp": "一行の姿を水中から見咎めたのか、{n}深緑の美しい髪を伸ばした若い娘たち{n}が湖面に姿を現した。",
-  "en": ""
+  "en": "Perhaps having spied the party from{n}under the water, young girls with{n}beautiful long dark green hair appeared{n}on the surface."
  },
  {
   "id": "s0191_00b04",
@@ -189,7 +189,7 @@
    "ウンディーネＡ"
   ],
   "jp": "外見は人間にそっくりであったが、{n}娘たちは水妖と呼ばれる妖精の一種、{n}ウンディーネだった。澄んだ水辺を{n}その棲処とし、悪戯半分に男を誘惑{n}しては水中に引きずり込んでしまうと{n}いう。また、人間と恋に落ちることも{n}あるが、もし裏切られれば相手の命を{n}必ず水難にて奪う、愛憎深き水の精霊{n}である。",
-  "en": ""
+  "en": "They looked just like humans, but the girls{n}were a kind of fairy called water spirits:{n}Undines. They make their homes by clear{n}waters, and half for fun they tempt men{n}and drag them under. They may fall in{n}love with humans too, but if betrayed,{n}these beings of deep love and hate are{n}sure to take the betrayer's life by{page}drowning."
  },
  {
   "id": "s0191_00c20",
@@ -213,7 +213,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "よお。ウンディーネとはずいぶん{n}変わった住人がいるんだな、この湖は",
-  "en": ""
+  "en": "Yo. So this lake's got some mighty unusual{n}residents. Undines, huh."
  },
  {
   "id": "s0191_00c64",
@@ -237,7 +237,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "ウンディーネたちはクスクスと笑い{n}さざめき、人間の男が珍しいのか、{n}盛んにウインクや投げキッスを飛ばし{n}て誘惑してくる。しかし、同性に{n}対しては目をくれようともしない。{n}カイの語っていた、男でなければ駄目{n}だというのは、水妖たちのこの極端な{n}性癖のことであった。",
-  "en": ""
+  "en": "The Undines giggled and chattered and,{n}perhaps finding human men a rarity,{n}tempted them with winks and blown kisses.{n}But they would not so much as glance at{n}those of their own sex. So this was what{n}Kai had meant by saying only a man would{n}do: the extreme tastes of the water{n}spirits."
  },
  {
   "id": "s0191_00d68",
@@ -261,7 +261,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "どうやらウンディーネたちは、魔雷妃{n}の配下とは別の、湖に根付いた精霊で{n}あるようだった。魔物を操り傍若無人{n}に振る舞う魔雷妃には反感を抱いて{n}いるらしく、そのことを訊ねると口々{n}に稚拙な悪口を並べ立てた。",
-  "en": ""
+  "en": "The Undines seemed to be spirits native to{n}the lake, not the Demon Thunder Queen's{n}minions. They appeared to resent how she{n}ordered monsters about and did as she{n}pleased, and when asked about it they all{n}spouted childish insults."
  },
  {
   "id": "s0191_00e34",
@@ -285,7 +285,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "しかし彼女たちの知性は見かけほど{n}高くはないようで、この湖に放たれた{n}魔性に関しても重要な情報は何ひとつ{n}得られなかった。",
-  "en": ""
+  "en": "But they seemed less clever than they{n}looked, and could give no useful word{n}about the demons loosed on this lake."
  },
  {
   "id": "s0191_00eb0",
@@ -309,7 +309,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "……弱ったな。お、そうだ。ひとつ{n}頼みがあるんだが、俺たちを向こうの{n}島まで渡してもらえねえかな？",
-  "en": ""
+  "en": "...Well, that's a pain. Oh, right. I got a favor{n}to ask. Could you take us across to that{n}island?"
  },
  {
   "id": "s0191_00f14",
@@ -333,7 +333,7 @@
    "ウンディーネＢ"
   ],
   "jp": "いいわ。でも、ごほうびがないと{n}イヤー",
-  "en": ""
+  "en": "Okay. But not without a reward!"
  },
  {
   "id": "s0191_00f3c",
@@ -357,7 +357,7 @@
    "ウンディーネＣ"
   ],
   "jp": "アナタが戻ってくるまで、イチバン{n}カッコイイ男のヒトがアタシたちと{n}遊んでてくれるのがイイー",
-  "en": ""
+  "en": "Until you come back, the hunkiest man's{n}gotta stay and play with us!"
  },
  {
   "id": "s0191_00f98",
@@ -381,7 +381,7 @@
    "ウンディーネＡ"
   ],
   "jp": "それ、ステキだわ。そしたらみんな、{n}島までそっと運んであげるー",
-  "en": ""
+  "en": "Oh, that sounds lovely. Then we'll carry you{n}all gently to the island!"
  },
  {
   "id": "s0191_00fd8",
@@ -405,7 +405,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "ここはギブアンドテイクでいくしか{n}ねーようだな。一番の美形と言えば{n}２位を宇宙の果てまで引き離して俺様{n}なんだが、そうもいかねえし――",
-  "en": ""
+  "en": "Looks like we gotta play this give-and-take.{n}When it comes to the best-looking, it's the{n}great me, leaving number two at the far{n}end of the universe, but that ain't gonna{page}work here--"
  },
  {
   "id": "s0191_01060",
@@ -429,7 +429,7 @@
    "ヴァイ"
   ],
   "jp": "でもよ、水妖って男を水の中に引き{n}ずり込んだりするんだろ？　ひとりで{n}居残りってコワイんじゃあ――",
-  "en": ""
+  "en": "But hey, don't water spirits drag men{n}underwater? Staying behind all alone sounds{n}scary--"
  },
  {
   "id": "s0191_010c4",
@@ -453,7 +453,7 @@
    "ヴァイ"
   ],
   "jp": "と、その時木々の梢をざあっと鳴らし、{n}怪鳥の如き影が頭上から舞い降りて{n}きた。",
-  "en": ""
+  "en": "Just then the treetops rustled, and a{n}shadow like a monstrous bird came{n}swooping down from above."
  },
  {
   "id": "s0191_01114",
@@ -477,7 +477,7 @@
    "ヨルグ"
   ],
   "jp": "むっ!?　妖魔か黒騎士か？",
-  "en": ""
+  "en": "Hm!? A demon, or the Black Knight?"
  },
  {
   "id": "s0191_01130",
@@ -501,7 +501,7 @@
    "ヴァイ"
   ],
   "jp": "あ！　オマエは！",
-  "en": ""
+  "en": "Ah! You!"
  },
  {
   "id": "s0191_01144",
@@ -525,7 +525,7 @@
    "ザック"
   ],
   "jp": "俺に殴られたヤツ！",
-  "en": ""
+  "en": "That guy I punched!"
  },
  {
   "id": "s0191_01158",
@@ -549,7 +549,7 @@
    "マカパイン"
   ],
   "jp": "ふふっ、久しいなＤ・Ｓ！",
-  "en": ""
+  "en": "Heh heh, it has been a long time, D.S.!"
  },
  {
   "id": "s0191_01174",
@@ -573,7 +573,7 @@
    "マカパイン"
   ],
   "jp": "現れたのは、かつて鬼忍将ガラの命を{n}受け、褒賞目当てに度々Ｄ・Ｓの首を{n}狙った妖縛士、マカパインであった。",
-  "en": ""
+  "en": "The one who appeared was Macalpine the{n}demon binder, who once served under the{n}High Ninja Gara, and had gone after D.S.'s{n}head time and again for the reward."
  },
  {
   "id": "s0191_011e0",
@@ -597,7 +597,7 @@
    "マカパイン"
   ],
   "jp": "ようやく見つけたぞ！　こんな森に{n}まで逃げ込みおって、今度こそ決着を{n}つけてやる！",
-  "en": ""
+  "en": "I have found you at last! Running away even{n}to a forest like this. This time we settle it{n}once and for all!"
  },
  {
   "id": "s0191_01234",
@@ -621,7 +621,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "……毎回逃げてるのはオメエだろが",
-  "en": ""
+  "en": "...You're the one who runs away every{n}time."
  },
  {
   "id": "s0191_01258",
@@ -645,7 +645,7 @@
    "マカパイン"
   ],
   "jp": "ええい、うるさい！　今までの私だと{n}思うなよ。冴えに冴えた妖斬糸の舞い、{n}とくと味わわせてくれる！",
-  "en": ""
+  "en": "Bah, silence! Do not think me what I was. You{n}shall have your fill of my razor-keen dance{n}of the demon-slash wire!"
  },
  {
   "id": "s0191_012bc",
@@ -669,7 +669,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "そんなに痛い目に遭いてえのかね？{n}大体もう鬼忍将なんていねえんだぞ。{n}ガラはすっかり素に戻っちまったし",
-  "en": ""
+  "en": "You really want a beating that bad?{n}Anyway, there ain't no High Ninja anymore.{n}Gara's gone back to normal."
  },
  {
   "id": "s0191_01324",
@@ -693,7 +693,7 @@
    "マカパイン"
   ],
   "jp": "前にも言ったはずだ。もはや褒賞は{n}関係ないと。妖縛士の面子にかけて、{n}貴様だけは我が手で必ず倒す！",
-  "en": ""
+  "en": "I told you before. The reward no longer{n}matters. By my honor as a demon binder,{n}you alone I shall surely defeat by my own{n}hand!"
  },
  {
   "id": "s0191_01388",
@@ -715,7 +715,7 @@
    "マカパイン"
   ],
   "jp": "マカパインをどう対処します？",
-  "en": ""
+  "en": "How will you deal with Macalpine?"
  },
  {
   "id": "s0191_013a8",
@@ -739,7 +739,7 @@
    "マカパイン"
   ],
   "jp": "丸め込んでみるか",
-  "en": ""
+  "en": "Try to talk him around"
  },
  {
   "id": "s0191_013bc",
@@ -763,7 +763,7 @@
    "マカパイン"
   ],
   "jp": "無駄でも説得すっか",
-  "en": ""
+  "en": "Reason with him, even if it's useless"
  },
  {
   "id": "s0191_013d0",
@@ -787,7 +787,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "でもよ、残念だよなあ、ヴァイ？{n}（ウインク！）",
-  "en": ""
+  "en": "Still, it's a real shame, huh, Vai? (Wink!)"
  },
  {
   "id": "s0191_01400",
@@ -811,7 +811,7 @@
    "ヴァイ"
   ],
   "jp": "え……あーあ、おお、残念だなあ。{n}なあヨルグ（わかんねーけどウインク）",
-  "en": ""
+  "en": "Huh... Uh, yeah, it's a real shame. Right, Jorg?{n}(Don't get it, but wink)"
  },
  {
   "id": "s0191_01448",
@@ -835,7 +835,7 @@
    "ヨルグ"
   ],
   "jp": "ななな……何とも残念だ。まったく。{n}かつて行動をともにした者としても、{n}実に残念だぞマカパイン！",
-  "en": ""
+  "en": "Y-Y-Yes... A great shame indeed. Truly. As{n}one who once traveled with you, it is truly a{n}shame, Macalpine!"
  },
  {
   "id": "s0191_014a8",
@@ -859,7 +859,7 @@
    "マカパイン"
   ],
   "jp": "何を言っているのだ、貴様ら？",
-  "en": ""
+  "en": "What are you people talking about?"
  },
  {
   "id": "s0191_014c8",
@@ -883,7 +883,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "ここにいる女の娘たちがな、オマエに{n}一目でのぼせちまったみたいなんだ。{n}な、ホラ、あの濡れたような瞳を見て{n}みろ（水で濡れてんだけどな）",
-  "en": ""
+  "en": "These young ladies here, see, seem to have{n}fallen head over heels for you at first sight.{n}Yeah, look, look at those moist eyes.{n}(They're wet with water, but hey.)"
  },
  {
   "id": "s0191_01550",
@@ -907,7 +907,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "そんな娘さんたちの前で、どっちが{n}勝つにしても血生臭い闘いをしなきゃ{n}ならないなんて、妖縛士の面子から{n}見ても残念なコトじゃねーかなあ？",
-  "en": ""
+  "en": "To have a bloody fight in front of these{n}sweet girls, no matter who wins, isn't that a{n}shame, even by a demon binder's honor?"
  },
  {
   "id": "s0191_015d8",
@@ -931,7 +931,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "俺としても、オマエの挑戦はいつなり{n}と受けるつもりだぜ。好敵手よ！{n}だが今このひととき、キミは疲れた{n}体をこの娘たちとともに癒すべきだ！",
-  "en": ""
+  "en": "For my part, I'll take your challenge any{n}time. My worthy rival! But for this moment,{n}you oughta rest your weary body with{n}these girls!"
  },
  {
   "id": "s0191_01660",
@@ -955,7 +955,7 @@
    "ヴァイ"
   ],
   "jp": "（うわあ、凄え舌先）その通り！",
-  "en": ""
+  "en": "(Wow, what a silver tongue.) Absolutely!"
  },
  {
   "id": "s0191_01680",
@@ -979,7 +979,7 @@
    "ヨルグ"
   ],
   "jp": "まったくその通りだぞ（もしや、{n}俺もダマされているのでわ……）",
-  "en": ""
+  "en": "Absolutely right (Could it be that I am being{n}fooled as well...)"
  },
  {
   "id": "s0191_016c0",
@@ -1003,7 +1003,7 @@
    "マカパイン"
   ],
   "jp": "……ううむ",
-  "en": ""
+  "en": "...Hmmm."
  },
  {
   "id": "s0191_016cc",
@@ -1027,7 +1027,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "なっ、キミたち？　このカッコイイ{n}お兄さんとしばらくお話ししたいよな？{n}この心なごむ水辺で！",
-  "en": ""
+  "en": "Right, girls? You'd love to chat with this cool{n}guy for a while, wouldn't you? On this{n}heartwarming shore!"
  },
  {
   "id": "s0191_01728",
@@ -1051,7 +1051,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "はーい",
-  "en": ""
+  "en": "Yes!"
  },
  {
   "id": "s0191_01730",
@@ -1075,7 +1075,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "――ってコトで、ここは彼女たちの{n}気持ちを汲んでやっちゃもらえねえか？{n}もう俺とオマエだけの問題じゃなく{n}なっちまったんだよ。な？",
-  "en": ""
+  "en": "--So there you have it. Won't you take these{n}girls' feelings to heart here? It's not just{n}about you and me anymore. Right?"
  },
  {
   "id": "s0191_017b4",
@@ -1099,7 +1099,7 @@
    "マカパイン"
   ],
   "jp": "――判った。そうまで言われては{n}私も我を通してばかりはいられまい。{n}だが！　後の再戦、決して忘れるなよ",
-  "en": ""
+  "en": "--Very well. Put that way, I cannot stand{n}only on my own will. But! Do not forget our{n}rematch."
  },
  {
   "id": "s0191_0181c",
@@ -1123,7 +1123,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "もちろんだとも！　ささ、キミたち、{n}水辺にお一人様ご案内！",
-  "en": ""
+  "en": "Of course not! Now, ladies, one customer,{n}right this way to the waterside!"
  },
  {
   "id": "s0191_01858",
@@ -1147,7 +1147,7 @@
    "ウンディーネＢ"
   ],
   "jp": "はいはーい。わーい",
-  "en": ""
+  "en": "Okay, okay! Yaaay!"
  },
  {
   "id": "s0191_0186c",
@@ -1171,7 +1171,7 @@
    "マカパイン"
   ],
   "jp": "あ！　ちょ、ちょっと待て！　そんな{n}に引っ張るものじゃない！　あれ、{n}あれ？　ちょっと……",
-  "en": ""
+  "en": "Ah! W-Wait a moment! You must not pull so{n}hard! What, what? Hold on..."
  },
  {
   "id": "s0191_018c8",
@@ -1195,7 +1195,7 @@
    "マカパイン"
   ],
   "jp": "水妖たちに強引に連れ去られ、水面{n}から突き出すたくさんの腕に乗せら{n}れたマカパインは、あれよと言う間に{n}湖上へ運び出されていった。",
-  "en": ""
+  "en": "Hauled off by the water spirits and lifted{n}on many arms thrust from the water,{n}Macalpine was carried out onto the lake{n}before anyone could say a word."
  },
  {
   "id": "s0191_0194c",
@@ -1219,7 +1219,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "よーし。あとはアイツ、好きにして{n}いいから。さ、早いトコ向こうの島へ{n}運んでくれ",
-  "en": ""
+  "en": "All right. He's all yours. Now hurry up and{n}take us over to that island."
  },
  {
   "id": "s0191_0199c",
@@ -1243,7 +1243,7 @@
    "ヴァイ"
   ],
   "jp": "えげつネエ……",
-  "en": ""
+  "en": "That's dirty..."
  },
  {
   "id": "s0191_019ac",
@@ -1267,7 +1267,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "うはは。知略と呼べ、知略と！",
-  "en": ""
+  "en": "Ha ha. Call it strategy, strategy!"
  },
  {
   "id": "s0191_019cc",
@@ -1291,7 +1291,7 @@
    "ヨルグ"
   ],
   "jp": "もうよせマカパイン！　この連中は{n}――Ｄ・Ｓは必ずオマエも迎え入れて{n}くれる！　そんな意地を通して{n}どうなると言うのだ！",
-  "en": ""
+  "en": "Stop this, Macalpine! These people--D.S. will{n}surely welcome you as well! What good will{n}such stubbornness do!"
  },
  {
   "id": "s0191_01a44",
@@ -1315,7 +1315,7 @@
    "マカパイン"
   ],
   "jp": "フ、笑止な！　私に見捨てられたとは{n}言え、すぐさま敵方に寝返った貴様に{n}あれこれ意見される覚えはないわ！{n}Ｄ・Ｓ、覚悟！",
-  "en": ""
+  "en": "Heh, how absurd! Abandoned by me or not,{n}you went straight over to the enemy, so I{n}need no advice from you! D.S., prepare{n}yourself!"
  },
  {
   "id": "s0191_01abc",
@@ -1339,7 +1339,7 @@
    "マカパイン"
   ],
   "jp": "くそうっ！　またもや……だが私は{n}諦めんぞ、Ｄ・Ｓ！　貴様を足下に{n}這いつくばらせるまで、私は諦めん！",
-  "en": ""
+  "en": "Curse it! Again... But I will not give up, D.S.!{n}Until I have you crawling at my feet, I will{n}not give up!"
  },
  {
   "id": "s0191_01b24",
@@ -1363,7 +1363,7 @@
    "ヨルグ"
   ],
   "jp": "マカパイン……",
-  "en": ""
+  "en": "Macalpine..."
  },
  {
   "id": "s0191_01b34",
@@ -1387,7 +1387,7 @@
    "マカパイン"
   ],
   "jp": "また会うぞ！",
-  "en": ""
+  "en": "We shall meet again!"
  },
  {
   "id": "s0191_01b44",
@@ -1411,7 +1411,7 @@
    "マカパイン"
   ],
   "jp": "梢まで張ってあった糸の上を駆け登り、{n}マカパインは樹上に消えた。",
-  "en": ""
+  "en": "Running up a wire strung to the treetops,{n}Macalpine vanished into the trees."
  },
  {
   "id": "s0191_01b88",
@@ -1435,7 +1435,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "ま、いいさ。気の済むまで相手して{n}やるしかねえだろ",
-  "en": ""
+  "en": "Ah, well. Guess I'll just have to take him on{n}till he's satisfied."
  },
  {
   "id": "s0191_01bbc",
@@ -1459,7 +1459,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "退屈でーす",
-  "en": ""
+  "en": "We're bored!"
  },
  {
   "id": "s0191_01bc8",
@@ -1483,7 +1483,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "お、悪ィ。待たせたな",
-  "en": ""
+  "en": "Oh, sorry. Kept you waiting."
  },
  {
   "id": "s0191_01be0",
@@ -1507,7 +1507,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "さて、諸君の中から俺様に次いで{n}カッチョイイ、ただしその差は大きい{n}という美男を選出しなければならん。{n}ここは公正を期して俺が指名しよう",
-  "en": ""
+  "en": "Now then, I must pick from among you the{n}handsome man next in coolness after the{n}great me, though by a wide margin. To be{n}fair, I shall name him myself."
  },
  {
   "id": "s0191_01c68",
@@ -1531,7 +1531,7 @@
    "ヴァイ"
   ],
   "jp": "どこが公正なんだか",
-  "en": ""
+  "en": "What's fair about that?"
  },
  {
   "id": "s0191_01c7c",
@@ -1555,7 +1555,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "だって女に選んでもらったらカドが{n}立つじゃねえか",
-  "en": ""
+  "en": "Well, if we let the girls pick, feelings'd get{n}hurt."
  },
  {
   "id": "s0191_01cb0",
@@ -1579,7 +1579,7 @@
    "ヴァイ"
   ],
   "jp": "う……そりゃそうだけどさ",
-  "en": ""
+  "en": "Ugh... That's true, but still."
  },
  {
   "id": "s0191_01ccc",
@@ -1603,7 +1603,7 @@
    "ヴァイ"
   ],
   "jp": "どなたをこの場に残しますか？",
-  "en": ""
+  "en": "Who will you leave here?"
  },
  {
   "id": "s0191_01cec",
@@ -1627,7 +1627,7 @@
    "ヴァイ"
   ],
   "jp": "オ、オレ？　いやあ、ハハハ、照れ{n}ちまうなあ……ってチョット待てよ。{n}Ｄ・Ｓ、アンタ俺をイケニエにする{n}つもりじゃあ……",
-  "en": ""
+  "en": "M-Me? Well, ha ha ha, you're making me{n}blush... Hang on a sec. D.S., you're not trying{n}to make me the sacrifice, are you..."
  },
  {
   "id": "s0191_01d64",
@@ -1651,7 +1651,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "（ギクゥ！）そんなワケねーじゃん！{n}さあ、胸を張りたまえナンバー２！{n}作戦の成否はキミにかかっている！",
-  "en": ""
+  "en": "(Yikes!) Of course not! Now, chest out,{n}Number Two! The whole plan rests on you!"
  },
  {
   "id": "s0191_01dcc",
@@ -1675,7 +1675,7 @@
    "ヨルグ"
   ],
   "jp": "俺が？　それは光栄だが……世辞では{n}ないのか、Ｄ・Ｓ？",
-  "en": ""
+  "en": "I? It is an honor, but... Is this not flattery,{n}D.S.?"
  },
  {
   "id": "s0191_01e04",
@@ -1699,7 +1699,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "その褐色の肌とか、エキゾチックな{n}顔立ちとか、結構人気あんだよ",
-  "en": ""
+  "en": "That brown skin, those exotic looks, that{n}stuff's real popular."
  },
  {
   "id": "s0191_01e44",
@@ -1723,7 +1723,7 @@
    "ボル"
   ],
   "jp": "そ、それがしでござるか？　まあ、{n}確かにモテないほうではなかったで{n}ござるよ。とりわけ女盛りの御婦人は{n}このダンディズムにメロメロ……",
-  "en": ""
+  "en": "Th-This one, is it? Well, it is true this one{n}has not been unpopular. Ladies in their{n}prime, above all, swoon at this dandyism..."
  },
  {
   "id": "s0191_01ecc",
@@ -1747,7 +1747,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "チョーシに乗るんじゃネエ！　たま{n}にはいい目に遭わせてやろうと思った{n}だけでえ！",
-  "en": ""
+  "en": "Don't get cocky! I just figured you oughta{n}get lucky once in a while!"
  },
  {
   "id": "s0191_01f1c",
@@ -1771,7 +1771,7 @@
    "ウンディーネＡ"
   ],
   "jp": "おヒゲがス・テ・キ。シブーい",
-  "en": ""
+  "en": "Your beard is sooo lovely. So classy."
  },
  {
   "id": "s0191_01f3c",
@@ -1795,7 +1795,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "ウソ……モテてる……",
-  "en": ""
+  "en": "No way... He's popular..."
  },
  {
   "id": "s0191_01f54",
@@ -1819,7 +1819,7 @@
    "ザック"
   ],
   "jp": "い？　俺かあ？　へへ、照れるぜ！{n}でもさあ、俺あんまし女ってキョーミ{n}ないんだよなあ",
-  "en": ""
+  "en": "Huh? Me? Heh heh, I'm blushing! But y'know, I{n}ain't all that into women."
  },
  {
   "id": "s0191_01fa8",
@@ -1843,7 +1843,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "コドモだね！　オメエはまだ女の{n}良さを知らねえ！　男ってのは最後は{n}ハーレム建設の夢を持たなきゃならん",
-  "en": ""
+  "en": "What a kid! You don't know how great women{n}are yet! In the end, a man's gotta dream of{n}building himself a harem."
  },
  {
   "id": "s0191_02010",
@@ -1867,7 +1867,7 @@
    "ザック"
   ],
   "jp": "ハ、ハーレム？　それってどんなもの{n}なんだ？",
-  "en": ""
+  "en": "A h-harem? What's that?"
  },
  {
   "id": "s0191_02040",
@@ -1891,7 +1891,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "そこはだな、たくさんの女が囲われて{n}いて、男と言えば自分ひとり！{n}もお日替わりで手を変え品を変え――！{n}はぐぅ……",
-  "en": ""
+  "en": "See, it's this place with loads of women{n}locked away, and the only man is you! Every{n}day a different one, all kinds of ways--!{n}Hngh..."
  },
  {
   "id": "s0191_020b4",
@@ -1915,7 +1915,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "ヨーコ球がＤ・Ｓの顎を砕かんばかり{n}の勢いで炸裂した。",
-  "en": ""
+  "en": "The Yoko orb blasted D.S. with force fit to{n}shatter his jaw."
  },
  {
   "id": "s0191_020ec",
@@ -1939,7 +1939,7 @@
    "シーラ"
   ],
   "jp": "若者に有害なコトを吹き込むな――{n}と言うコトみたいですわね",
-  "en": ""
+  "en": "It seems it is saying not to fill young{n}people's heads with harmful things."
  },
  {
   "id": "s0191_02128",
@@ -1963,7 +1963,7 @@
    "ザック"
   ],
   "jp": "なあ、続き教えてくれよう",
-  "en": ""
+  "en": "Hey, tell me the rest."
  },
  {
   "id": "s0191_02144",
@@ -1987,7 +1987,7 @@
    "シェン"
   ],
   "jp": "オレには、心に決めた女がいるはず{n}なんだ。思い出せないにしろ、とても{n}そんな気には……",
-  "en": ""
+  "en": "I'm sure there's a woman I've given my{n}heart to. Even if I can't remember her, I'm{n}hardly in the mood for that..."
  },
  {
   "id": "s0191_0219c",
@@ -2011,7 +2011,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "たまにゃあ気晴らしも必要だって！{n}いや、ホント！　ウソ、イワナイヨ！",
-  "en": ""
+  "en": "You need to cut loose once in a while! No,{n}really! I no lie!"
  },
  {
   "id": "s0191_021e4",
@@ -2035,7 +2035,7 @@
    "シェン"
   ],
   "jp": "しかし……まあ、これも人助けか",
-  "en": ""
+  "en": "Still... Well, this is helping people too."
  },
  {
   "id": "s0191_02204",
@@ -2059,7 +2059,7 @@
    "ヴァイ"
   ],
   "jp": "いかがわしい客引きみたいだな……",
-  "en": ""
+  "en": "Sounds like some shady street tout..."
  },
  {
   "id": "s0191_02228",
@@ -2109,7 +2109,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "栄えある役目に選ばれたというに、{n}ったく！　何か言葉はネエのか？{n}感激デスとかよ！",
-  "en": ""
+  "en": "You get picked for this honor, sheesh! Got{n}nothing to say? Like \"I'm so moved\"?"
  },
  {
   "id": "s0191_02284",
@@ -2133,7 +2133,7 @@
    "アンガス"
   ],
   "jp": "……（ニッ）",
-  "en": ""
+  "en": "...(Grin)"
  },
  {
   "id": "s0191_02294",
@@ -2157,7 +2157,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "一応喜んでるのか？",
-  "en": ""
+  "en": "Guess that means he's happy?"
  },
  {
   "id": "s0191_022a8",
@@ -2181,7 +2181,7 @@
    "サイクス"
   ],
   "jp": "外見を褒められるのは慣れっこだが{n}……まあ、結局貴婦人たちは私の知性、{n}つまりは中身に惹かれてゆくのだがね",
-  "en": ""
+  "en": "I am accustomed to praise for my looks...{n}But, you see, in the end the ladies are{n}drawn to my intellect, that is, what lies{n}within."
  },
  {
   "id": "s0191_02314",
@@ -2205,7 +2205,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "ケッ……ヤな野郎。オマエ、男の{n}友達がいないタイプだろ",
-  "en": ""
+  "en": "Tch... What a jerk. You're the type with no{n}guy friends, ain't you?"
  },
  {
   "id": "s0191_0234c",
@@ -2229,7 +2229,7 @@
    "サイクス"
   ],
   "jp": "いやいや。中身に自信のある者は、{n}互いの知性に魅かれ合うものさ。逆に{n}そこで差がありすぎると、なかなか{n}うまくはゆかないものだよ",
-  "en": ""
+  "en": "Not so. Those confident in what lies within{n}are drawn to one another's intellect.{n}Conversely, if the gap there is too wide,{n}things seldom go well."
  },
  {
   "id": "s0191_023cc",
@@ -2253,7 +2253,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "ウンディーネたちにゃモテてるみたい{n}だな。知性にあまり差がない、と",
-  "en": ""
+  "en": "Seems you're real popular with the Undines.{n}Guess there ain't much of a gap in intellect,{n}then."
  },
  {
   "id": "s0191_02410",
@@ -2277,7 +2277,7 @@
    "サイクス"
   ],
   "jp": "はっ！　しまった！",
-  "en": ""
+  "en": "Ah! Blast!"
  },
  {
   "id": "s0191_02424",
@@ -2301,7 +2301,7 @@
    "バ・ソリー"
   ],
   "jp": "うほっ？",
-  "en": ""
+  "en": "Uho?"
  },
  {
   "id": "s0191_02430",
@@ -2325,7 +2325,7 @@
    "ヴァイ"
   ],
   "jp": "待て待て待てえい！　それだけは{n}納得できーん！",
-  "en": ""
+  "en": "Hold it, hold it, hold it! That I won't{n}accept!"
  },
  {
   "id": "s0191_02460",
@@ -2349,7 +2349,7 @@
    "ボル"
   ],
   "jp": "そ、それがしもチョットだけ傷ついた{n}でござる",
-  "en": ""
+  "en": "Th-This one is a little hurt as well,{n}forsooth."
  },
  {
   "id": "s0191_02490",
@@ -2373,7 +2373,7 @@
    "サイクス"
   ],
   "jp": "Ｄ・Ｓ。君がまっとうな審美眼を{n}持っていないと言うことが判って非常{n}に残念だよ。遺憾と言ってもいい",
-  "en": ""
+  "en": "D.S., it is most disappointing to learn that{n}you have no proper eye for beauty. One{n}might even say regrettable."
  },
  {
   "id": "s0191_024f4",
@@ -2397,7 +2397,7 @@
    "バ・ソリー"
   ],
   "jp": "コラ、貴様らぁ！　俺様が選ばれた{n}だけでそこまで抜かすか！　ええい、{n}このカメムシくんのニオイを嗅げえ！",
-  "en": ""
+  "en": "You there, you people! All that, only{n}because the great me was chosen! Bah, then{n}have a whiff of little Mister Stinkbug!"
  },
  {
   "id": "s0191_0255c",
@@ -2421,7 +2421,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "うわっ！　テメエ身体ん中にそんな{n}モンまで飼ってやがんのか!?",
-  "en": ""
+  "en": "Whoa! You keep that kinda thing inside you{n}too, you bastard!?"
  },
  {
   "id": "s0191_0259c",
@@ -2445,7 +2445,7 @@
    "ヴァイ"
   ],
   "jp": "ぎゃーっ！　し、しみる！　目が、{n}目がぁーっ！",
-  "en": ""
+  "en": "Gyaah! I-It stings! My eyes, my eyes!"
  },
  {
   "id": "s0191_025cc",
@@ -2469,7 +2469,7 @@
    "ウンディーネＣ"
   ],
   "jp": "ワイルドね。ステキよぅ",
-  "en": ""
+  "en": "So wild. I love it!"
  },
  {
   "id": "s0191_025e4",
@@ -2493,7 +2493,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "……オマエら、男なら誰でもいいんじゃ{n}ねーのか？",
-  "en": ""
+  "en": "...You girls'd take any guy, wouldn't you?"
  },
  {
   "id": "s0191_02618",
@@ -2517,7 +2517,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "さて、それじゃ早いトコ島まで渡して{n}くれ。モタモタしてるとカイの仲間が{n}喰われちまうかも知れねえ",
-  "en": ""
+  "en": "All right, then hurry up and take us to the{n}island. We dawdle, and Kai's comrade might{n}get eaten."
  },
  {
   "id": "s0191_02678",
@@ -2541,7 +2541,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "それでは、参りまーす",
-  "en": ""
+  "en": "Here we goooo!"
  },
  {
   "id": "s0191_02690",
@@ -2565,7 +2565,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "水面から数え切れないほどの水妖の{n}腕が突き出され、一行がそのまま{n}乗れるほどの足場を作った。{page}歩き始めると、背後のウンディーネは{n}素早く前に回って新たな橋を築く。",
-  "en": ""
+  "en": "Countless arms of water spirits thrust{n}from the surface, forming a footing that{n}the whole party could walk on.{page}As they began to walk, the Undines behind{n}swiftly came round to the front and built{n}a new bridge."
  },
  {
   "id": "s0191_02730",
@@ -2589,7 +2589,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "結構な人数がいたんだなぁ。こりゃ、{n}居残ったヤツは大変かもな",
-  "en": ""
+  "en": "Quite a lot of them, huh. Whoever stays{n}behind could be in for it."
  },
  {
   "id": "s0191_02770",
@@ -2613,7 +2613,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "水妖の橋を渡り、Ｄ・Ｓたちは無事、{n}湖の中央に浮かぶ島へと辿り着いた。",
-  "en": ""
+  "en": "Crossing the water spirits' bridge, D.S. and{n}the others safely reached the island in{n}the middle of the lake."
  },
  {
   "id": "s0191_027b8",
@@ -2637,7 +2637,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "それじゃ、帰りもよろしく頼むぜ",
-  "en": ""
+  "en": "All right, I'm counting on you for the trip{n}back too."
  },
  {
   "id": "s0191_027d8",
@@ -2661,7 +2661,7 @@
    "ウンディーネＡ"
   ],
   "jp": "はーい。承りましたー",
-  "en": ""
+  "en": "Yes! Understooood!"
  },
  {
   "id": "s0191_03540",
@@ -2685,7 +2685,7 @@
    "バ・ソリー"
   ],
   "jp": "む！　クンクン……クンクン",
-  "en": ""
+  "en": "Hm! Sniff, sniff... Sniff, sniff."
  },
  {
   "id": "s0191_0355c",
@@ -2709,7 +2709,7 @@
    "ボル"
   ],
   "jp": "そ、それがしではないでござるよ！",
-  "en": ""
+  "en": "Th-This one did not do it, forsooth!"
  },
  {
   "id": "s0191_03580",
@@ -2733,7 +2733,7 @@
    "バ・ソリー"
   ],
   "jp": "誰が喜んで屁の匂いなどを探るかい！{n}シッ！　静かにせんか。クンクン……",
-  "en": ""
+  "en": "Who would gladly seek out the smell of a{n}fart! Shh! Quiet, you! Sniff, sniff..."
  },
  {
   "id": "s0191_035c8",
@@ -2757,7 +2757,7 @@
    "ヴァイ"
   ],
   "jp": "何だよ、いきなり匂いを嗅ぎだして？{n}先祖返りでもしたのか、オッチャン",
-  "en": ""
+  "en": "What's with the sudden sniffing? Throwback{n}to your ancestors or something, old guy?"
  },
  {
   "id": "s0191_03610",
@@ -2781,7 +2781,7 @@
    "バ・ソリー"
   ],
   "jp": "誰がオッチャンだ！　シッ！　静かに{n}せんか。クンクン……",
-  "en": ""
+  "en": "Who are you calling old guy! Shh! Quiet, you!{n}Sniff, sniff..."
  },
  {
   "id": "s0191_0364c",
@@ -2805,7 +2805,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "静かだと鼻が利くってワケでもねー{n}だろうが",
-  "en": ""
+  "en": "Being quiet ain't gonna make your nose work{n}any better."
  },
  {
   "id": "s0191_03678",
@@ -2829,7 +2829,7 @@
    "バ・ソリー"
   ],
   "jp": "――間違いない！　この窪地の中に、{n}ワシの可愛い蟲ちゃんが潜んでおるわ！{n}ぐふふふふふ……",
-  "en": ""
+  "en": "--No doubt about it! In this hollow, my dear{n}little bug-kins is hiding! Guh hu hu hu hu..."
  },
  {
   "id": "s0191_036d4",
@@ -2853,7 +2853,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "おいおい、まーたあの凶暴な蟲かぁ？{n}襲ってきたりしねえだろうな？",
-  "en": ""
+  "en": "Hey now, not another one of those nasty{n}bugs? It ain't gonna attack us, is it?"
  },
  {
   "id": "s0191_03718",
@@ -2877,7 +2877,7 @@
    "ヴァイ"
   ],
   "jp": "えーっ？　またあの蟲ィ？　襲って{n}きたりしねえだろうなあ？",
-  "en": ""
+  "en": "What? That bug again? It's not gonna attack{n}us, is it?"
  },
  {
   "id": "s0191_03754",
@@ -2901,7 +2901,7 @@
    "バ・ソリー"
   ],
   "jp": "ダイジョーブ！　大丈夫だって！{n}このバ・ソリー様と蟲たちは一心同体！{n}ナウシカだってビックリだって！",
-  "en": ""
+  "en": "Fine! It's fine, I tell you! Ba Thory-sama and{n}his bugs are as one body, one mind!{n}Nausicaa'd be floored!"
  },
  {
   "id": "s0191_037b8",
@@ -2925,7 +2925,7 @@
    "バ・ソリー"
   ],
   "jp": "さあ出ておいで！　ワシの愛しい{n}珍蟲よ！",
-  "en": ""
+  "en": "Come on out! My beloved rare bug!"
  },
  {
   "id": "s0191_037e4",
@@ -2949,7 +2949,7 @@
    "バ・ソリー"
   ],
   "jp": "バ・ソリーが耳障りな鳴き真似をする{n}と、それに呼応して窪地の底の柔らか{n}な泥土が盛り上がり、以前遭遇した{n}奇蟲に似た生物が出現した。{page}だが、この珍妙な蟲は、Ｄ・Ｓたちを{n}見るなり唸り声をあげて突進してきた。",
-  "en": ""
+  "en": "When Ba Thory made a grating imitation of{n}its cry, the soft mud at the bottom of{n}the hollow swelled up in answer, and a{n}creature like the strange bug they had{n}met before appeared.{page}But the moment this bizarre bug saw D.S.{n}and the others, it let out a growl and{n}charged."
  },
  {
   "id": "s0191_038b0",
@@ -2973,7 +2973,7 @@
    "ヴァイ"
   ],
   "jp": "バ・ソリーさん、どう見ても捕食{n}しようとしているのですが……",
-  "en": ""
+  "en": "Ba Thory-san, it sure looks like it's trying to{n}eat us..."
  },
  {
   "id": "s0191_038f0",
@@ -2997,7 +2997,7 @@
    "バ・ソリー"
   ],
   "jp": "おお、珍蟲ちゃんの眼が赤い！{n}空腹に我を忘れておるのかあ――!?",
-  "en": ""
+  "en": "Oh, little rare bug's eyes are red! Has{n}hunger made it lose itself!?"
  },
  {
   "id": "s0191_03930",
@@ -3021,7 +3021,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "このバカたれが。余計な戦闘に{n}巻き込みやがって！",
-  "en": ""
+  "en": "You damn idiot. Dragging us into a pointless{n}fight!"
  },
  {
   "id": "s0191_03964",
@@ -3046,7 +3046,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "窪地の底には、洞窟の岩盤を通じて{n}少量の湖水が滲み出していた。粒子の{n}細かな土は軟泥状になり、そうした{n}環境を好む生物の棲処として格好の{n}環境が作り出されていた。",
-  "en": ""
+  "en": "At the bottom of the hollow a little lake{n}water was seeping through the bedrock{n}of the cave. The fine soil had turned to a{n}soft ooze, creating just the home for{n}creatures that favor such a place."
  },
  {
   "id": "s0191_03a04",
@@ -3071,7 +3071,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "突如、目の前の泥地でボコリと水泡が{n}弾けた。何か大きな生き物の呼気だと{n}気づいた瞬間に、数本の触手が泥を{n}突き破って生え出す。やがて、本体が{n}軟泥を掻き分けて浮上してきた。",
-  "en": ""
+  "en": "All at once a bubble burst with a blorp in{n}the mud before them. The instant they{n}realized it was the breath of something{n}big, several tentacles sprang up through{n}the mud. Soon the main body came surging{n}up through the ooze."
  },
  {
   "id": "s0191_03ab0",
@@ -3095,7 +3095,7 @@
    "シーラ"
   ],
   "jp": "Ｄ・Ｓ！　何かいます！",
-  "en": ""
+  "en": "D.S.! There is something there!"
  },
  {
   "id": "s0191_03ac8",
@@ -3119,7 +3119,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "退がってろよ、シーラ。すぐにカタ{n}つけてやるからよ！",
-  "en": ""
+  "en": "Stand back, Sheila. I'll finish this in no{n}time!"
  },
  {
   "id": "s0191_03b00",
@@ -3239,7 +3239,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "強いダメージを受け、狂暴化した珍蟲{n}はバ・ソリーの存在に気づいたようで{n}あった。眼の色を穏やかな青に変え、{n}甘えたように蟲使いに近づいてくる。",
-  "en": ""
+  "en": "Having taken heavy damage, the frenzied{n}rare bug seemed to notice Ba Thory. The{n}color of its eyes turned a gentle blue,{n}and it came up to the bug tamer as if{n}fawning on him."
  },
  {
   "id": "s0191_03c5c",
@@ -3263,7 +3263,7 @@
    "バ・ソリー"
   ],
   "jp": "おうおう！　俺様のコトが判るかぁ！{n}可愛いヤツよ。コイツめ、コイツめ！",
-  "en": ""
+  "en": "Ohoho! You know the great me, do you! Cute{n}little thing. You rascal, you rascal!"
  },
  {
   "id": "s0191_03ca4",
@@ -3287,7 +3287,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "可愛いのかねえ……",
-  "en": ""
+  "en": "Cute, is it..."
  },
  {
   "id": "s0191_03cb8",
@@ -3311,7 +3311,7 @@
    "シーラ"
   ],
   "jp": "悪い生き物ではなさそうですわ",
-  "en": ""
+  "en": "It does not seem to be a bad creature."
  },
  {
   "id": "s0191_03cd8",
@@ -3335,7 +3335,7 @@
    "シーラ"
   ],
   "jp": "珍蟲は大量に水分を放出すると、以前{n}の奇蟲の同様に急速に縮まっていく。{n}バ・ソリーはそれを嬉しそうに{n}丸飲みし、体内に寄生させた。",
-  "en": ""
+  "en": "Letting out a large amount of water, the{n}rare bug shrank fast, just like the{n}strange bug before. Ba Thory gleefully{n}swallowed it whole and let it live in his{n}body."
  },
  {
   "id": "s0191_03d5c",
@@ -3361,7 +3361,7 @@
    "シーラ"
   ],
   "jp": "な……な、な？",
-  "en": ""
+  "en": "Wh... Wh, wh?"
  },
  {
   "id": "s0191_03d6c",
@@ -3385,7 +3385,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "このアホウ！　シーラがビックリ{n}してんじゃねーか",
-  "en": ""
+  "en": "You moron! You scared Sheila."
  },
  {
   "id": "s0191_03da0",
@@ -3409,7 +3409,7 @@
    "バ・ソリー"
   ],
   "jp": "……？　何で？",
-  "en": ""
+  "en": "...? Why?"
  },
  {
   "id": "s0191_03db0",
@@ -3435,7 +3435,7 @@
    "シーラ"
   ],
   "jp": "いえ……いいんです。人それぞれに{n}好き嫌いがありますし、私も強いて{n}あげればセロリが苦手で……",
-  "en": ""
+  "en": "No... It is all right. Everyone has their likes{n}and dislikes, and if pressed, I myself am not{n}fond of celery..."
  },
  {
   "id": "s0191_03e10",
@@ -3461,7 +3461,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "そーゆー話じゃねーって",
-  "en": ""
+  "en": "That ain't what this is about."
  },
  {
   "id": "s0191_03e28",
@@ -3512,7 +3512,7 @@
    "シーラ"
   ],
   "jp": "仮死状態になったのですか……",
-  "en": ""
+  "en": "So it has gone into a state of suspended{n}life..."
  },
  {
   "id": "s0191_03f20",
@@ -3536,7 +3536,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "あとでバ・ソリーのヤツにくれて{n}やろう。ヴァイ、拾っときなさい",
-  "en": ""
+  "en": "We'll give it to Ba Thory later. Vai, pick it{n}up."
  },
  {
   "id": "s0191_03f60",
@@ -3560,7 +3560,7 @@
    "ヴァイ"
   ],
   "jp": "どーして自分で拾わねーんだよ！",
-  "en": ""
+  "en": "Why don't you pick it up yourself!"
  },
  {
   "id": "s0191_03f80",
@@ -3584,7 +3584,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "だって何かバッチイもん",
-  "en": ""
+  "en": "'Cause it's kinda icky."
  },
  {
   "id": "s0191_03f98",
@@ -3606,7 +3606,7 @@
    "ヴァイ"
   ],
   "jp": "きぃーっ！　俺に押しつけんなーっ！",
-  "en": ""
+  "en": "Gaaah! Quit dumping it on me!"
  },
  {
   "id": "s0191_03fbc",
@@ -3702,7 +3702,7 @@
    ""
   ],
   "jp": "岬となって湖面に突き出した草地に、{n}屹立する巨石のオブジェがあった。{n}祭礼に用いられる場所らしく、湖の{n}魔物に生け贄を捧げる儀式は、恐らく{n}ここで行われてきたと思われる。",
-  "en": ""
+  "en": "On a grassy cape jutting out into the lake{n}towered an object of giant stones. It{n}appeared to be a site for rites, and it was{n}likely here that the sacrifices to the{n}lake's monster had been made."
  },
  {
   "id": "s0191_04684",
@@ -3726,7 +3726,7 @@
    ""
   ],
   "jp": "二本に分かれた石柱の間に、ひとりの{n}乙女が吊り下げられるように囚われて{n}いた。捧げ物であると示すためか、{n}巫女を思わせる白絹の衣装を着せられ{n}ている。カイのさらわれた仲間とは、{n}この娘のことであろう。",
-  "en": ""
+  "en": "Between two stone pillars, a maiden was{n}held as if hung up. Perhaps to mark her as{n}an offering, she had been dressed in{n}white silk that recalled a shrine maiden.{n}This girl must be Kai's kidnapped{n}comrade."
  },
  {
   "id": "s0191_0474c",
@@ -3750,7 +3750,7 @@
    ""
   ],
   "jp": "淡い金色の髪を持つ、まだ少女の面影{n}を残した美しい娘だった。愛くるしさ{n}と女性的な魅力を兼ね備えた貌立ちで、{n}目覚めればその魅了の力はより強く{n}発揮されることになるだろう。",
-  "en": ""
+  "en": "She was a beautiful girl with pale golden{n}hair, still touched with the look of{n}childhood. Her features combined{n}loveliness with womanly charm, and when{n}she woke that power to enchant would{n}only show the more."
  },
  {
   "id": "s0191_047f8",
@@ -3774,7 +3774,7 @@
    ""
   ],
   "jp": "一見か弱く、他人に庇護されるべき{n}存在と見える彼女は、式神を操る呪符{n}魔術の達者であった。カイに遠隔で{n}式神を送り届けた技量を見れば、その{n}身に己を守る以上の能力を秘めている{n}ことは容易に推察できる。",
-  "en": ""
+  "en": "Seemingly frail, a being to be sheltered by{n}others, she was in fact a master of{n}talisman magic who commanded spirit{n}servants. Seeing the skill with which she{n}had sent one to Kai from afar, it was{n}easy to guess she held powers beyond{n}what was needed to protect herself."
  },
  {
   "id": "s0191_048c0",
@@ -3798,7 +3798,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "仲間ってのは女だったのか……{n}まだ生け贄好きの化け物はきちゃあ{n}いねえようだな。{n}どうやら間に合ったぜ――",
-  "en": ""
+  "en": "So this comrade's a woman... That{n}sacrifice-loving monster ain't here yet, looks{n}like. We made it in time--"
  },
  {
   "id": "s0191_0492c",
@@ -3822,7 +3822,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "その時、石柱の向こうの湖面が小山の{n}如くに盛り上がった。それを挟んで{n}二本の巨大なハサミが水面から現れ、{n}次いで山を覆う水が割れて鎧とも甲羅{n}ともつかぬゴツゴツした体表が露と{n}なる。",
-  "en": ""
+  "en": "Just then the surface beyond the pillars{n}heaved up like a small hill. Two giant{n}pincers rose from the water on either{n}side of it, then the water covering the hill{n}parted to bare a rugged hide, whether{n}armor or shell it was hard to say."
  },
  {
   "id": "s0191_049e0",
@@ -3846,7 +3846,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "ハサミで左右の石柱を掴み、それを{n}支点に這いずるようにして、巨大な{n}甲殻類の怪物は岬に上陸した。生け贄{n}のそばにいるＤ・Ｓたちを見咎め、{n}それは怒りに全身の関節をぎちぎちと{n}軋ませた。口吻と思しき位置から、{n}唾液混じりの排気が激しく噴出する。",
-  "en": ""
+  "en": "Gripping the pillars left and right in its{n}pincers and hauling itself up by them, the{n}giant crustacean monster crawled ashore{n}on the cape. Spying D.S. and the others{n}beside the sacrifice, it creaked every{n}joint in its body with rage. From what{n}seemed to be its mouth, a blast of{n}spit-laden breath burst out."
  },
  {
   "id": "s0191_04ad0",
@@ -3870,7 +3870,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "このバカでけえザリガニが湖の魔物{n}かよ――やい、テメエなんぞの下等{n}生物にこの女はもったいねえ！{n}茹でロブスターにしてやるぜ！",
-  "en": ""
+  "en": "So this giant crayfish is the lake's monster--{n}Hey, this woman's way too good for a lowlife{n}like you! I'll make you into boiled lobster!"
  },
  {
   "id": "s0191_04b50",
@@ -3894,7 +3894,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "絶命した巨大甲殻類の屍は、岬を{n}離れて湖上を漂ってゆく。この湖には{n}川へと続く流れがあり、屍はそれに{n}乗って流されているようだった。{page}このままいけば川の水源は堰き止め{n}られ、もうひとつの湖へ流れ込む水も{n}止まるものと思われた。",
-  "en": ""
+  "en": "The dead giant crustacean's corpse left{n}the cape and drifted over the lake. A{n}current here led into the river, and it{n}seemed the corpse was being carried{n}along it.{page}At this rate it would dam the river at its{n}source, and the water flowing into the{n}other lake would stop too."
  },
  {
   "id": "s0191_04c30",
@@ -3918,7 +3918,7 @@
    "シーン"
   ],
   "jp": "……はっ!?　あなたたちは？",
-  "en": ""
+  "en": "...Ah!? Who are you?"
  },
  {
   "id": "s0191_04c4c",
@@ -3942,7 +3942,7 @@
    "シーン"
   ],
   "jp": "石柱から助け下ろされ、娘はようやく{n}意識を取り戻した。式神を放ったこと{n}を気取られ、今まで強力な麻酔性の{n}薬草で眠らされていたようだった。",
-  "en": ""
+  "en": "Helped down from the pillars, the girl{n}finally came to. It seemed she had been{n}caught sending her spirit servant, and had{n}been kept asleep ever since by a{n}powerful narcotic herb."
  },
  {
   "id": "s0191_04cd8",
@@ -3966,7 +3966,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "安心しな。カイとの約束でよ、助けに{n}きてやったのさ",
-  "en": ""
+  "en": "Relax. We made a deal with Kai, so we came{n}to save you."
  },
  {
   "id": "s0191_04d0c",
@@ -3990,7 +3990,7 @@
    "シーン"
   ],
   "jp": "あ、ありがとう。眠らされた時には{n}もうダメだと思ったわ――",
-  "en": ""
+  "en": "Oh, thank you. When they put me to sleep, I{n}thought it was all over--"
  },
  {
   "id": "s0191_04d48",
@@ -4014,7 +4014,7 @@
    "シーン"
   ],
   "jp": "娘――呪符魔導士シーン・ハリは、{n}もうひとつの湖で魔性に拉致されたの{n}だと語った。カイのもとに戻る途中、{n}湖に映る城らしきものが見えた――{n}そう思った瞬間、湖面を波立たせて{n}現れた妖魔に捕まり、水棲の魔物に{n}川を通じてこの島まで運ばれてきたと{n}いうことであった。",
-  "en": ""
+  "en": "The girl--Sean Ari, the talisman{n}sorceress--said a demon had abducted{n}her at the other lake. On her way back to{n}Kai she had seen what looked like a castle{n}reflected on the lake. The moment she{n}thought so, a demon rose from the{n}rippling surface and seized her, and a{n}water monster carried her to this{page}island by way of the river."
  },
  {
   "id": "s0191_04e4c",
@@ -4038,7 +4038,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "――で、オマエを捕らえた妖魔は、{n}魔雷妃の幻体に憑いてる奴らじゃあ{n}なかったってのか？　もっとも二匹は{n}樹棺城とやらに逃げたハズだがよ",
-  "en": ""
+  "en": "--So the demon who caught you ain't one of{n}those possessing the Demon Thunder Queen's{n}phantoms? Though two of them oughta have{n}fled to that Tree-Coffin Castle."
  },
  {
   "id": "s0191_04ed4",
@@ -4062,7 +4062,7 @@
    "シーン"
   ],
   "jp": "ええ。水の中から現れたそいつは、{n}三妖魅とは違って男の姿をしていたわ。{n}あなたたちが倒してくれたこの湖の{n}魔物も、そいつに飼われていたみたい",
-  "en": ""
+  "en": "Yes. The one who came out of the water{n}had a man's form, unlike the Three Fiends.{n}This lake monster you defeated seems to{n}have been his pet as well."
  },
  {
   "id": "s0191_04f60",
@@ -4086,7 +4086,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "なるほどな。王鴉や毒乙女の他にも、{n}まだ妖魔の類がいるってワケか――",
-  "en": ""
+  "en": "I see. So besides King Raven and the Poison{n}Maiden, there's more demon types{n}around--"
  },
  {
   "id": "s0191_04fa8",
@@ -4110,7 +4110,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "イングヴェイもあの湖で城の幻を{n}見たって言ってたな。妖魔が現れた{n}ことと言い、湖の中がアヤシーぜ",
-  "en": ""
+  "en": "Yngwei said he saw a phantom castle on{n}that lake too. That and the demon showing{n}up, something fishy's going on in that lake."
  },
  {
   "id": "s0191_05008",
@@ -4134,7 +4134,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "妖魔が現れたってのがアヤシーな。{n}そりゃあ多分、湖の中に何かあるぜ",
-  "en": ""
+  "en": "Fishy, that demon showing up. There's gotta{n}be something in that lake."
  },
  {
   "id": "s0191_0504c",
@@ -4158,7 +4158,7 @@
    "シーン"
   ],
   "jp": "とにかく今はカイと合流しましょう。{n}わたしのコト、きっと心配してるわ",
-  "en": ""
+  "en": "Anyway, let's meet up with Kai for now. I'm{n}sure she's worried about me."
  },
  {
   "id": "s0191_05094",
@@ -4182,7 +4182,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "そう言やウンディーネどもはお手{n}柔らかにやってるかな。ちっと心配に{n}なってきたぜ",
-  "en": ""
+  "en": "Speaking of which, I wonder if those Undines{n}are going easy. I'm starting to get a little{n}worried."
  },
  {
   "id": "s0191_050e4",
@@ -4278,7 +4278,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "おーい！　用事は済んだぜ！　また{n}運んでくれー！",
-  "en": ""
+  "en": "Hey! We're all done! Carry us back again!"
  },
  {
   "id": "s0191_053f4",
@@ -4302,7 +4302,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "はーい。お待ちどおさまー",
-  "en": ""
+  "en": "Yes! Sorry to keep you!"
  },
  {
   "id": "s0191_05410",
@@ -4326,7 +4326,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "ところでマカパインはどうした？",
-  "en": ""
+  "en": "By the way, what about Macalpine?"
  },
  {
   "id": "s0191_05430",
@@ -4350,7 +4350,7 @@
    "ウンディーネＢ"
   ],
   "jp": "照れ屋でカワイかったでーす",
-  "en": ""
+  "en": "He was so bashful and cuuute."
  },
  {
   "id": "s0191_0544c",
@@ -4374,7 +4374,7 @@
    "ウンディーネＣ"
   ],
   "jp": "名残り惜しいけど、約束通り返して{n}あげましょう",
-  "en": ""
+  "en": "Sad to see him go, but we'll give him back{n}like we promised."
  },
  {
   "id": "s0191_0547c",
@@ -4398,7 +4398,7 @@
    "ウンディーネＣ"
   ],
   "jp": "何やら着衣が乱れた様子のマカパイン{n}が、連れ去られた時と同様に水妖たち{n}の腕に乗せられて岸まで戻ってきた。{n}陸に戻ったことも判らないようで、{n}妖縛士はハフハフと口元を動かして{n}いる。",
-  "en": ""
+  "en": "Looking somewhat disheveled, Macalpine{n}came back to shore lifted on the water{n}spirits' arms, just as when he had been{n}carried off. Seeming not to realize he was{n}back on land, the demon binder was{n}gasping and working his lips."
  },
  {
   "id": "s0191_05530",
@@ -4422,7 +4422,7 @@
    "マカパイン"
   ],
   "jp": "ハア、ハア……やめ、やめてーっ！{n}そこはダメ、ダメだって！　うわーっ",
-  "en": ""
+  "en": "Hah, hah... Stop, stop it! Not there, not{n}there, I said! Waaah!"
  },
  {
   "id": "s0191_05578",
@@ -4446,7 +4446,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "……壊れてる",
-  "en": ""
+  "en": "...He's broken."
  },
  {
   "id": "s0191_05588",
@@ -4470,7 +4470,7 @@
    "ヨルグ"
   ],
   "jp": "よほど恐ろしい目に遭ったのか……",
-  "en": ""
+  "en": "Whatever terrors he must have suffered..."
  },
  {
   "id": "s0191_055ac",
@@ -4494,7 +4494,7 @@
    "シーラ"
   ],
   "jp": "でも何か嬉しそうでもありますわ",
-  "en": ""
+  "en": "Yet somehow he looks happy as well."
  },
  {
   "id": "s0191_055cc",
@@ -4518,7 +4518,7 @@
    "シーラ"
   ],
   "jp": "と、ようやくマカパインはもう水の{n}上ではないことに気づいた。",
-  "en": ""
+  "en": "At last Macalpine realized he was no{n}longer on the water."
  },
  {
   "id": "s0191_0560c",
@@ -4542,7 +4542,7 @@
    "マカパイン"
   ],
   "jp": "はっ!?　ここは……あっ！　Ｄ・Ｓ！{n}貴様、私を騙したな！",
-  "en": ""
+  "en": "Huh!? This is... Ah! D.S.! You tricked me, you{n}wretch!"
  },
  {
   "id": "s0191_05648",
@@ -4566,7 +4566,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "何を人聞きの悪い。キレイどころとの{n}ひとときの語らい、楽しんで頂けた{n}でしょーか？",
-  "en": ""
+  "en": "Don't say such awful things. Did you enjoy{n}your little chat with the lovely ladies?"
  },
  {
   "id": "s0191_0569c",
@@ -4590,7 +4590,7 @@
    "マカパイン"
   ],
   "jp": "語らいどころか、私はあんなコトや{n}こんなコトまでされて……ううう",
-  "en": ""
+  "en": "Chat! I was subjected to this, and that, and{n}even... Ugh..."
  },
  {
   "id": "s0191_056e0",
@@ -4614,7 +4614,7 @@
    "ウンディーネＢ"
   ],
   "jp": "このヒト、見かけによらず××なの{n}でーす",
-  "en": ""
+  "en": "You wouldn't think it to look at him, but he's{n}a real XX!"
  },
  {
   "id": "s0191_0570c",
@@ -4638,7 +4638,7 @@
    "ウンディーネＡ"
   ],
   "jp": "とってもビンカン！",
-  "en": ""
+  "en": "Sooo sensitive!"
  },
  {
   "id": "s0191_05720",
@@ -4662,7 +4662,7 @@
    "マカパイン"
   ],
   "jp": "うわーっ！　ダマれー！　も、もう{n}私は……。それもこれもＤ・Ｓ、全て{n}貴様のせいだ！　必ずフクシューして{n}やるからな！　再戦を忘れるな！",
-  "en": ""
+  "en": "Waaah! Silence! I-I can never... And all of{n}this, D.S., all of it is your fault! I shall have{n}my revenge! Do not forget our rematch!"
  },
  {
   "id": "s0191_057a8",
@@ -4686,7 +4686,7 @@
    "マカパイン"
   ],
   "jp": "左目を少し潤ませて、マカパインは{n}後ろも見ずに森へと駆け込んでいった。",
-  "en": ""
+  "en": "His left eye a little wet, Macalpine ran{n}into the forest without a backward{n}glance."
  },
  {
   "id": "s0191_057f0",
@@ -4710,7 +4710,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "オマエら、ヤリ過ぎ！",
-  "en": ""
+  "en": "You girls went too far!"
  },
  {
   "id": "s0191_05808",
@@ -4734,7 +4734,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "テヘー",
-  "en": ""
+  "en": "Tee-hee."
  },
  {
   "id": "s0191_05810",
@@ -4758,7 +4758,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "んで、仲間は？",
-  "en": ""
+  "en": "So where's my guy?"
  },
  {
   "id": "s0191_05820",
@@ -4782,7 +4782,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "今きまーす",
-  "en": ""
+  "en": "Coming nooow!"
  },
  {
   "id": "s0191_0582c",
@@ -4806,7 +4806,7 @@
    "ヴァイ"
   ],
   "jp": "え……あれ、もう終わり？　そんな{n}コト言わないでもう少し続けよーよ",
-  "en": ""
+  "en": "Huh... What, it's over already? Don't say that,{n}let's keep going a little longer."
  },
  {
   "id": "s0191_05870",
@@ -4830,7 +4830,7 @@
    "ウンディーネＢ"
   ],
   "jp": "やー！　このヒトすごーくエッチー",
-  "en": ""
+  "en": "Eww! This guy's sooo dirty!"
  },
  {
   "id": "s0191_05894",
@@ -4854,7 +4854,7 @@
    "ウンディーネＡ"
   ],
   "jp": "お返ししまーす",
-  "en": ""
+  "en": "Here, you can have him back!"
  },
  {
   "id": "s0191_058a4",
@@ -4878,7 +4878,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "……コラ。テメエは何楽しんでやがる{n}んだ？　あんなに疑ってたクセしや{n}がって、このエロガキ！",
-  "en": ""
+  "en": "...Hey. What the hell are you enjoying{n}yourself for? After all that suspicion, you{n}horny little brat!"
  },
  {
   "id": "s0191_05900",
@@ -4902,7 +4902,7 @@
    "ヴァイ"
   ],
   "jp": "あ……見てた？",
-  "en": ""
+  "en": "Oh... You saw?"
  },
  {
   "id": "s0191_05910",
@@ -4926,7 +4926,7 @@
    "ヨルグ"
   ],
   "jp": "ぶ……武士道地に堕ちたり……",
-  "en": ""
+  "en": "Th... The way of the warrior has fallen to{n}the dust..."
  },
  {
   "id": "s0191_05930",
@@ -4950,7 +4950,7 @@
    "ヨルグ"
   ],
   "jp": "ありがとう、キミたち。俺、何だか{n}自信が湧いてきたよ",
-  "en": ""
+  "en": "Thank you, you girls. I find my confidence is{n}welling up somehow."
  },
  {
   "id": "s0191_05968",
@@ -4974,7 +4974,7 @@
    "ウンディーネＢ"
   ],
   "jp": "ステキよう、ヨルグさん",
-  "en": ""
+  "en": "You're so lovely, Jorg-san!"
  },
  {
   "id": "s0191_05980",
@@ -4998,7 +4998,7 @@
    "ウンディーネＣ"
   ],
   "jp": "メチャメチャにしてえー",
-  "en": ""
+  "en": "Mess me up!"
  },
  {
   "id": "s0191_05998",
@@ -5022,7 +5022,7 @@
    "ウンディーネＡ"
   ],
   "jp": "褐色のお肌に、こぼれる白い歯！{n}シビレるぅー",
-  "en": ""
+  "en": "That brown skin and those flashing white{n}teeth! I'm melting!"
  },
  {
   "id": "s0191_059c8",
@@ -5046,7 +5046,7 @@
    "ヨルグ"
   ],
   "jp": "はは……ありがとう、またね。あ、{n}やあ！　Ｄ・Ｓ！",
-  "en": ""
+  "en": "Ha ha... Thank you, until next time. Ah, hey!{n}D.S.!"
  },
  {
   "id": "s0191_059fc",
@@ -5070,7 +5070,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "すっかりゲーノー人みたいになっち{n}まったか……",
-  "en": ""
+  "en": "He's turned into a total TV star..."
  },
  {
   "id": "s0191_05a2c",
@@ -5094,7 +5094,7 @@
    "ボル"
   ],
   "jp": "んー？　出迎えか。ご苦労ご苦労。{n}それがしがいない間、何か変わった{n}ことはなかったかね？　Ｄ・Ｓ君",
-  "en": ""
+  "en": "Hmm? Come to greet this one? Well done,{n}well done. Did anything change while this one{n}was away? D.S.-kun."
  },
  {
   "id": "s0191_05a90",
@@ -5118,7 +5118,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "ヤロウ……すっかり態度をデカく{n}しやがって。コラ、ウンディーネども！{n}あんましチョーシづかせんじゃねーよ",
-  "en": ""
+  "en": "Bastard... Gone all high and mighty. Hey,{n}Undines! Quit letting him get so cocky."
  },
  {
   "id": "s0191_05af8",
@@ -5142,7 +5142,7 @@
    "ウンディーネＡ"
   ],
   "jp": "だって、おヒゲがとってもイイんです{n}ものー",
-  "en": ""
+  "en": "But his beard's just so nice!"
  },
  {
   "id": "s0191_05b24",
@@ -5166,7 +5166,7 @@
    "ヴァイ"
   ],
   "jp": "い、イイって何が!?",
-  "en": ""
+  "en": "N-Nice how!?"
  },
  {
   "id": "s0191_05b38",
@@ -5190,7 +5190,7 @@
    "ボル"
   ],
   "jp": "わははは。熟女キラー・ボル・ギル{n}・ボルは健在でござった！　わはは！",
-  "en": ""
+  "en": "Wa ha ha ha. Bol Gil Bol, killer of mature{n}women, is alive and well, forsooth! Wa ha{n}ha!"
  },
  {
   "id": "s0191_05b80",
@@ -5214,7 +5214,7 @@
    "ザック"
   ],
   "jp": "スゴかったぜ……",
-  "en": ""
+  "en": "That was amazing..."
  },
  {
   "id": "s0191_05b94",
@@ -5238,7 +5238,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "お、どうした？　やけに大人びた面に{n}なっちまって？",
-  "en": ""
+  "en": "Oh, what's up? You've got a real grown-up{n}look on your face."
  },
  {
   "id": "s0191_05bc8",
@@ -5262,7 +5262,7 @@
    "ザック"
   ],
   "jp": "Ｄ・Ｓか……アンタの言ってた{n}ハーレムっての、判ったような気が{n}するぜ……。世の中って、まだまだ{n}知らないコトがいっぱいだよなあ――",
-  "en": ""
+  "en": "D.S.... I think I get what you meant by that{n}harem thing... There's still so much in this{n}world I don't know, y'know--"
  },
  {
   "id": "s0191_05c4c",
@@ -5286,7 +5286,7 @@
    "ウンディーネＣ"
   ],
   "jp": "刺激が強かったみたいー",
-  "en": ""
+  "en": "Seems it was a bit much for him!"
  },
  {
   "id": "s0191_05c64",
@@ -5310,7 +5310,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "よ、汚れちまってる……",
-  "en": ""
+  "en": "H-He's been defiled..."
  },
  {
   "id": "s0191_05c7c",
@@ -5334,7 +5334,7 @@
    "シェン"
   ],
   "jp": "ああ……オレは流されるままに……{n}うおおっ！　最低だ、ううう……",
-  "en": ""
+  "en": "Ah... I just let myself get swept along...{n}Uwooh! I'm the lowest, ugh..."
  },
  {
   "id": "s0191_05cc0",
@@ -5358,7 +5358,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "何があったんだ、コイツ？　情緒{n}不安定になってるぞ",
-  "en": ""
+  "en": "What the hell happened to him? He's a{n}nervous wreck."
  },
  {
   "id": "s0191_05cf4",
@@ -5382,7 +5382,7 @@
    "ウンディーネＢ"
   ],
   "jp": "教えませーん。でも、結構楽しんでた{n}わよー",
-  "en": ""
+  "en": "We're not telling! But he had quite a good{n}time!"
  },
  {
   "id": "s0191_05d20",
@@ -5406,7 +5406,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "いるんだよな。冷めると後悔し始める{n}ヤツっての",
-  "en": ""
+  "en": "There's always one who starts regretting it{n}once he cools down."
  },
  {
   "id": "s0191_05d50",
@@ -5430,7 +5430,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "コイツは変わらねえなあ",
-  "en": ""
+  "en": "This guy never changes."
  },
  {
   "id": "s0191_05d68",
@@ -5454,7 +5454,7 @@
    "ウンディーネＣ"
   ],
   "jp": "あ、でもね、このヒトね……",
-  "en": ""
+  "en": "Oh, but you know, this guy, see..."
  },
  {
   "id": "s0191_05d84",
@@ -5478,7 +5478,7 @@
    "アンガス"
   ],
   "jp": "……（シッ！）",
-  "en": ""
+  "en": "...(Shh!)"
  },
  {
   "id": "s0191_05d94",
@@ -5502,7 +5502,7 @@
    "ウンディーネＣ"
   ],
   "jp": "あ！　何でもなーい",
-  "en": ""
+  "en": "Oh! Never mind!"
  },
  {
   "id": "s0191_05da8",
@@ -5526,7 +5526,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "？　口に出せねえよーな真似でも{n}しやがったのか？　このムッツリめ！",
-  "en": ""
+  "en": "? You do something you can't even say out{n}loud? You sneaky bastard!"
  },
  {
   "id": "s0191_05dec",
@@ -5550,7 +5550,7 @@
    "アンガス"
   ],
   "jp": "……（ニッ！）",
-  "en": ""
+  "en": "...(Grin!)"
  },
  {
   "id": "s0191_05dfc",
@@ -5574,7 +5574,7 @@
    "サイクス"
   ],
   "jp": "判ったぞ、Ｄ・Ｓ。ウンディーネ{n}たちは思ったよりも知性が高いのだ！{n}だから私に惹かれてしまったりするの{n}だな、うん",
-  "en": ""
+  "en": "I see it now, D.S. The Undines are more{n}intelligent than I thought! That is why they{n}are drawn to me, yes."
  },
  {
   "id": "s0191_05e70",
@@ -5598,7 +5598,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "よお、オメエら。２×３は？",
-  "en": ""
+  "en": "Hey, you girls. What's two times three?"
  },
  {
   "id": "s0191_05e8c",
@@ -5622,7 +5622,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "ワカリませーん",
-  "en": ""
+  "en": "Dunnooo!"
  },
  {
   "id": "s0191_05e9c",
@@ -5646,7 +5646,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "じゃ、“海豚”読んでみろ",
-  "en": ""
+  "en": "Okay, then what's a \"dolphin\"?"
  },
  {
   "id": "s0191_05eb8",
@@ -5670,7 +5670,7 @@
    "ウンディーネＢ"
   ],
   "jp": "うみぶたー",
-  "en": ""
+  "en": "A sea pig!"
  },
  {
   "id": "s0191_05ec4",
@@ -5694,7 +5694,7 @@
    "ウンディーネＣ"
   ],
   "jp": "違うって。フグよねー",
-  "en": ""
+  "en": "No, silly. It's a blowfish!"
  },
  {
   "id": "s0191_05edc",
@@ -5718,7 +5718,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "そりゃ“河豚”だ。そんなボケする{n}ヤツがイルカ！　……と言う結果が{n}出ましたが、サイクスさん？",
-  "en": ""
+  "en": "That's a blowfish. Nobody's this dumb on{n}porpoise! ...And those are the results,{n}Sykes-san?"
  },
  {
   "id": "s0191_05f3c",
@@ -5742,7 +5742,7 @@
    "サイクス"
   ],
   "jp": "高度なボケだと思うのだがなあ",
-  "en": ""
+  "en": "I believe that was a highly advanced form{n}of comedy."
  },
  {
   "id": "s0191_05f5c",
@@ -5766,7 +5766,7 @@
    "ウンディーネＣ"
   ],
   "jp": "待って！　行かないで！",
-  "en": ""
+  "en": "Wait! Don't go!"
  },
  {
   "id": "s0191_05f74",
@@ -5790,7 +5790,7 @@
    "バ・ソリー"
   ],
   "jp": "ええい、離せ離せぃ！　女などに{n}未練はないわぁ！",
-  "en": ""
+  "en": "Bah, let go, let go! I have no regrets over{n}mere women!"
  },
  {
   "id": "s0191_05fa8",
@@ -5814,7 +5814,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "ウソ……引き留められてる。しかも{n}ふってる……",
-  "en": ""
+  "en": "No way... They're begging him to stay. And{n}he's dumping them..."
  },
  {
   "id": "s0191_05fd8",
@@ -5838,7 +5838,7 @@
    "バ・ソリー"
   ],
   "jp": "このバ・ソリー様の夢は、俺様の蟲{n}たちの王国、パラダイスを建設する{n}ことだあぁ！",
-  "en": ""
+  "en": "The dream of Ba Thory-sama is to build a{n}kingdom of my bugs, a paradise!"
  },
  {
   "id": "s0191_06028",
@@ -5862,7 +5862,7 @@
    "バ・ソリー"
   ],
   "jp": "大地はウジが群れをなし、水辺に{n}ヒルが震え、空には毒虫が舞い狂う！{n}いくら引き留められようと、この{n}壮大な夢を諦めるコトはできぬわ！",
-  "en": ""
+  "en": "Maggots swarm on the land, leeches quiver{n}at the waterside, poisonous bugs dance mad{n}in the sky! No matter how you beg, I cannot{n}give up this grand dream!"
  },
  {
   "id": "s0191_060ac",
@@ -5886,7 +5886,7 @@
    "ウンディーネＣ"
   ],
   "jp": "ああ……よよよよよ",
-  "en": ""
+  "en": "Ah... Boo-hoo-hoo-hoo..."
  },
  {
   "id": "s0191_060c0",
@@ -5910,7 +5910,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "そんな夢を語るほうもアッパレなら、{n}引き留めるほうもアッパレ！　しかし{n}そーゆー蟲地獄建設は阻止したいです",
-  "en": ""
+  "en": "Bravo for telling a dream like that, and{n}bravo for begging him to stay! Still, I'd like{n}to stop this bug hell from being built."
  },
  {
   "id": "s0191_0612c",
@@ -5934,7 +5934,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "あ、そーだ。この蟲も、やっぱオメエ{n}のトモダチか？",
-  "en": ""
+  "en": "Oh, right. This bug's a buddy of yours too,{n}right?"
  },
  {
   "id": "s0191_06160",
@@ -5958,7 +5958,7 @@
    "バ・ソリー"
   ],
   "jp": "おおっ!?　珍蟲ちゃんではないか！{n}この湖がクサいとは思っていたが……{n}礼を言うぞ、Ｄ・Ｓ！",
-  "en": ""
+  "en": "Ooh!? Why, it's my little rare bug! I knew this{n}lake smelled fishy... I thank you, D.S.!"
  },
  {
   "id": "s0191_061bc",
@@ -5982,7 +5982,7 @@
    "バ・ソリー"
   ],
   "jp": "バ・ソリーは以前と同じく、蟲の干物{n}に水分を与えて蘇生させると、それを{n}丸飲みして体内に寄生させた。",
-  "en": ""
+  "en": "As before, Ba Thory gave the dried bug{n}water to revive it, then swallowed it{n}whole and let it live in his body."
  },
  {
   "id": "s0191_06220",
@@ -6006,7 +6006,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "ヤなモン見ちまったなぁ、シーラ。{n}やい、バソ公！　いきなり人前で{n}ソレはやめろ！",
-  "en": ""
+  "en": "Sorry you had to see that, Sheila. Hey, Ba{n}Thory, you pest! Don't just up and do that in{n}front of people!"
  },
  {
   "id": "s0191_06270",
@@ -6030,7 +6030,7 @@
    "バ・ソリー"
   ],
   "jp": "何でぇ？",
-  "en": ""
+  "en": "Why not?"
  },
  {
   "id": "s0191_0627c",
@@ -6054,7 +6054,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "それじゃ、ウンディーネたちよ！{n}元気でな！",
-  "en": ""
+  "en": "All right, Undines! Take care!"
  },
  {
   "id": "s0191_062a8",
@@ -6078,7 +6078,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "さよならー",
-  "en": ""
+  "en": "Good-byeee!"
  },
  {
   "id": "s0191_062b4",
@@ -6102,7 +6102,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "水飛沫を上げ、ウンディーネたちは{n}脅威のなくなった湖底へと、嬉しそう{n}に潜っていった。",
-  "en": ""
+  "en": "With a splash, the Undines happily dived to{n}the lake bottom, now free of danger."
  },
  {
   "id": "s0191_0630c",
@@ -6126,7 +6126,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "それと入れ替わりに、ひとりの女剣士{n}が森の岸辺に姿を現した。",
-  "en": ""
+  "en": "In their place, a woman swordsman{n}appeared on the forest shore."
  },
  {
   "id": "s0191_0634c",
@@ -6150,7 +6150,7 @@
    "シーン"
   ],
   "jp": "カイ！",
-  "en": ""
+  "en": "Kai!"
  },
  {
   "id": "s0191_06354",
@@ -6174,7 +6174,7 @@
    "カイ"
   ],
   "jp": "シーンか!?　おお、無事だったのか！{n}恩に着るぞ、お前たち！",
-  "en": ""
+  "en": "Sean!? Oh, you're safe! I owe you for this,{n}all of you!"
  },
  {
   "id": "s0191_06390",
@@ -6198,7 +6198,7 @@
    "カイ"
   ],
   "jp": "カイは樹海中央部を横切る川の水量が{n}激減したのを目撃し、湖の異変を察知{n}して駆けつけてきたのだった。情報を{n}交換した後、カイは改めてＤ・Ｓに{n}礼を言い、当面の目的を尋ねた。",
-  "en": ""
+  "en": "Having seen the water in the river across{n}the heart of the sea of trees drop{n}sharply, Kai had sensed trouble at the{n}lake and rushed over. After they traded{n}news, Kai thanked D.S. again, and asked{n}what he meant to do for now."
  },
  {
   "id": "s0191_0643c",
@@ -6222,7 +6222,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "龍樹に囚われてるって話の、龍の{n}解放だな。そのためにはあの樹への{n}扉を開く方法を見つけなきゃならねえ",
-  "en": ""
+  "en": "Free the dragon they say's being held in the{n}Dragon Tree. To do that, we gotta find a{n}way to open the door to that tree."
  },
  {
   "id": "s0191_064a0",
@@ -6246,7 +6246,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "で、最終的には樹棺城へ向かうつもり{n}だぜ。どうもあの魔雷妃って女は、{n}俺と深い関わりがあるようだからな",
-  "en": ""
+  "en": "And in the end I mean to head for the{n}Tree-Coffin Castle. Seems that Demon{n}Thunder Queen woman's got deep ties to{n}me."
  },
  {
   "id": "s0191_06508",
@@ -6270,7 +6270,7 @@
    "カイ"
   ],
   "jp": "そうか……ならば俺とシーンも同行{n}させてくれないか",
-  "en": ""
+  "en": "I see... Then will you let Sean and me come{n}along?"
  },
  {
   "id": "s0191_0653c",
@@ -6294,7 +6294,7 @@
    "カイ"
   ],
   "jp": "正直な話、俺たちだけでは荊の壁を{n}越える方策が見つからん。お前たちと{n}一緒なら、その方法も見つかるかも{n}知れんしな――",
-  "en": ""
+  "en": "Honestly, we can't find a way past the Wall{n}of Thorns on our own. With you, we might{n}find a way--"
  },
  {
   "id": "s0191_065b4",
@@ -6318,7 +6318,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "そりゃ構わねえけどよ。そもそも{n}オメエらの目的は何だ？　魔雷妃を{n}倒すってワケでもねえんだろ",
-  "en": ""
+  "en": "That's fine by me. But what's your goal,{n}anyway? You ain't out to kill the Demon{n}Thunder Queen, right?"
  },
  {
   "id": "s0191_06610",
@@ -6342,6 +6342,6 @@
    "カイ"
   ],
   "jp": "うむ……。まずはこの場を離れ、{n}道すがら話すことにしよう――",
-  "en": ""
+  "en": "Mm... Let's leave here first and talk on the{n}way--"
  }
 ]

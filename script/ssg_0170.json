@@ -21,7 +21,7 @@
    ""
   ],
   "jp": "城の中は、先刻まで湖水に没していた{n}にもかかわらず、乾いた空気に満たさ{n}れている。やはり何らかの結界が、{n}城内への浸水を遮断していたようで{n}あった。",
-  "en": ""
+  "en": "Inside the castle the air was dry, though{n}until a short time ago it had been sunk{n}under the lake. As expected, some barrier{n}had kept the water out."
  },
  {
   "id": "s0170_008ac",
@@ -45,7 +45,7 @@
    ""
   ],
   "jp": "床は塵ひとつなく、この城の住人の{n}ために手入れされていることが判る。{page}同時に、侵入者を排除すべく放たれた{n}守護者たちの気配も、城内を濃密に{n}漂っていた。",
-  "en": ""
+  "en": "The floor was free of a single speck of{n}dust, a sign that it was tended for those{n}who lived here.{page}At the same time, the presence of{n}guardians let loose to drive out intruders{n}hung thick about the castle."
  },
  {
   "id": "s0170_009a8",
@@ -69,7 +69,7 @@
    "ボル"
   ],
   "jp": "むっ？　何か背後から近づいてくるで{n}ござる",
-  "en": ""
+  "en": "Hm? Something approaches from behind,{n}forsooth."
  },
  {
   "id": "s0170_009d4",
@@ -93,7 +93,7 @@
    "ロス"
   ],
   "jp": "あら？　先客がいたのね",
-  "en": ""
+  "en": "Oh my? Someone beat me here."
  },
  {
   "id": "s0170_009ec",
@@ -117,7 +117,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "何だ。ロスじゃねーか",
-  "en": ""
+  "en": "Oh, it's just Ros."
  },
  {
   "id": "s0170_00a04",
@@ -141,7 +141,7 @@
    "ロス"
   ],
   "jp": "みんな、お久しぶりー。初めての人{n}たちもいるわねー、女のコたちとか。{n}ロスでーす、よろしくねー",
-  "en": ""
+  "en": "Long time no see, everyone. And some new{n}faces too, like the girls. I'm Ros, nice to{n}meet you."
  },
  {
   "id": "s0170_00a64",
@@ -165,7 +165,7 @@
    "カイ"
   ],
   "jp": "何だ？　この不愉快なオカマは？",
-  "en": ""
+  "en": "What's this? This nauseating queen?"
  },
  {
   "id": "s0170_00a84",
@@ -189,7 +189,7 @@
    "ロス"
   ],
   "jp": "オカマじゃないわよー",
-  "en": ""
+  "en": "I'm no queen, dear."
  },
  {
   "id": "s0170_00a9c",
@@ -213,7 +213,7 @@
    "カイ"
   ],
   "jp": "だったらシャキっとしろおっ！{n}どうしてこんなのが男に生まれて、{n}俺は女なんだ！　ったく！",
-  "en": ""
+  "en": "Then stand up straight! Why does a thing like{n}that get born a man when I'm a woman!{n}Honestly!"
  },
  {
   "id": "s0170_00af4",
@@ -237,7 +237,7 @@
    "シーン"
   ],
   "jp": "カイ！　言い過ぎでしょ！",
-  "en": ""
+  "en": "Kai! You're going too far!"
  },
  {
   "id": "s0170_00b10",
@@ -261,7 +261,7 @@
    "ヴァイ"
   ],
   "jp": "まあまあ。コイツも慣れるとイイ奴{n}だからさ",
-  "en": ""
+  "en": "Now, now. He's a good guy once you get{n}used to him."
  },
  {
   "id": "s0170_00b3c",
@@ -285,7 +285,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "で、オメエはどうしてここに？",
-  "en": ""
+  "en": "So what are you doing here?"
  },
  {
   "id": "s0170_00b5c",
@@ -309,7 +309,7 @@
    "ロス"
   ],
   "jp": "当然お宝探し。湖の水が引いたんで{n}慌てて来てみたんだけど、アナタたち{n}に先を越されてるとは思わなかったわ{n}――",
-  "en": ""
+  "en": "Treasure hunting, of course. The lake{n}drained, so I came rushing over, but I never{n}thought you'd get here first--"
  },
  {
   "id": "s0170_00bcc",
@@ -333,7 +333,7 @@
    "ロス"
   ],
   "jp": "アタシの流儀として、お宝は先に{n}取ったモン勝ちなんだけど……ね？{n}Ｄ・Ｓ、賭けをしない？",
-  "en": ""
+  "en": "By my rules, treasure goes to whoever{n}grabs it first, but... you know? D.S., shall we{n}make a bet?"
  },
  {
   "id": "s0170_00c24",
@@ -357,7 +357,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "賭け？",
-  "en": ""
+  "en": "A bet?"
  },
  {
   "id": "s0170_00c2c",
@@ -381,7 +381,7 @@
    "ロス"
   ],
   "jp": "そ。アタシの勘じゃココには結構な{n}お宝が眠ってる気がするのよ。どっち{n}が先にステキな宝物をゲットできるか、{n}競争ってコトでどう？",
-  "en": ""
+  "en": "Right. My instincts say quite a treasure's{n}sleeping in here. How about a race, to see{n}who gets their hands on a lovely prize{n}first?"
  },
  {
   "id": "s0170_00cac",
@@ -405,7 +405,7 @@
    "ロス"
   ],
   "jp": "もし先にアタシのお目当てが取られ{n}ちゃったなら、腕の立つ剣士がともに{n}困難に立ち向かったげる……ってのは{n}どーお？",
-  "en": ""
+  "en": "And if you should get the thing I'm after{n}first, a sword of real skill will help you face{n}your troubles... Well, how's that?"
  },
  {
   "id": "s0170_00d20",
@@ -429,7 +429,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "フン……どっちみちオメエには損が{n}ねーじゃねえか。ま、いーケドよ。{n}黙って宝を荒らすよりは良心的だって{n}ところを買おうじゃねーか",
-  "en": ""
+  "en": "Hmph... Either way you lose nothing. Well,{n}fine. I'll give you credit, it's more honest{n}than looting behind my back."
  },
  {
   "id": "s0170_00da0",
@@ -453,7 +453,7 @@
    "ロス"
   ],
   "jp": "さっすが！　大物は話が早くって、{n}しかも話がワカるからいーわあ！{n}それじゃ、ヨーイドン！",
-  "en": ""
+  "en": "There you go! Great men are so quick and so{n}understanding, I just love it! Well then,{n}ready, set, go!"
  },
  {
   "id": "s0170_00df8",
@@ -477,7 +477,7 @@
    "ヴァイ"
   ],
   "jp": "あ……もう行っちまった。でも、{n}アイツ何を探してんのかな？",
-  "en": ""
+  "en": "Ah... He's gone already. But what's he looking{n}for, anyway?"
  },
  {
   "id": "s0170_0104c",
@@ -501,7 +501,7 @@
    "ヴァイ"
   ],
   "jp": "おいおい、ロスに負けちゃうよ",
-  "en": ""
+  "en": "Hey, hey, Ros is gonna beat us."
  },
  {
   "id": "s0170_0106c",
@@ -525,7 +525,7 @@
    "カイ"
   ],
   "jp": "まだ妖魔とやらを見つけていないぞ",
-  "en": ""
+  "en": "We haven't found this demon yet."
  },
  {
   "id": "s0170_01090",
@@ -549,7 +549,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "そうだな。もう少し調べてみるか",
-  "en": ""
+  "en": "Right. Let's look around some more."
  },
  {
   "id": "s0170_010b0",
@@ -573,7 +573,7 @@
    "ヴァイ"
   ],
   "jp": "結局ロスの奴とは出くわさなかったな",
-  "en": ""
+  "en": "We never ran into Ros after all, huh."
  },
  {
   "id": "s0170_010d4",
@@ -597,7 +597,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "ま、アイツのこったからもうお宝と{n}やらは手に入れちまってるだろ。また{n}どこかで会えるんじゃねーか？",
-  "en": ""
+  "en": "Knowing him, he's already got his treasure{n}or whatever. Guess we'll run into him{n}somewhere again."
  },
  {
   "id": "s0170_01278",
@@ -621,7 +621,7 @@
    ""
   ],
   "jp": "薄暗い中で淡く燐光を放つような、{n}病的に青白い肌を持つ小柄な青年が、{n}そこに四つん這いになっていた。{page}そばには掃除のための道具が置かれ、{n}青年はブツブツと何か呟きながら床を{n}布で磨いている。どうやら城内を{n}手入れしているのは、その男のようで{n}あった。",
-  "en": ""
+  "en": "A small young man with sickly pale skin{n}that seemed to give off a faint{n}phosphorescence in the gloom was there{n}on all fours.{page}Cleaning tools lay beside him, and he was{n}polishing the floor with a cloth, muttering{n}something to himself. It seemed he was{n}the one who tended the castle."
  },
  {
   "id": "s0170_01370",
@@ -645,7 +645,7 @@
    "ダイ"
   ],
   "jp": "どうしてこの私が、このような場所で{n}奴隷働きなどしなければならんのか{n}……しかも、しかも極限に美しかった{n}私が、今やこのような姿で……うう",
-  "en": ""
+  "en": "Why must I of all people work like a slave in{n}such a place... And I, I who was beautiful to{n}the ultimate degree, now in such a shape as{n}this... Ugh..."
  },
  {
   "id": "s0170_013fc",
@@ -669,7 +669,7 @@
    "ダイ"
   ],
   "jp": "ああ！　磨けば磨くほどに床は鏡の{n}如くに輝き、私の醜い姿をイヤと言う{n}ほど間近に見せつける！　これでは{n}繊細な私はたまりませんね――",
-  "en": ""
+  "en": "Ah! The more I polish, the more the floor{n}gleams like a mirror, and thrusts my hideous{n}form right up in my face! My delicate nature{n}simply cannot bear it--"
  },
  {
   "id": "s0170_01480",
@@ -693,7 +693,7 @@
    "ダイ"
   ],
   "jp": "独り言を延々と呟き続ける青年は、{n}その言葉とは逆に、非常に整った容姿{n}を備えていた。中性的な美形と呼ぶべ{n}き顔立ちで、少年のような細身である。{n}女性を装った服を身につけ、その長い{n}睫毛の奥の瞳で見つめたなら、誰もが{n}彼を女と信じて疑わぬであろう。",
-  "en": ""
+  "en": "Quite unlike what he kept muttering on{n}and on to himself, the young man had{n}very fine looks. The features could be{n}called an androgynous beauty, and he{n}was as slender as a boy. In a woman's{n}clothes, gazing out from behind those{n}long lashes, anyone would believe him a{n}woman without a doubt."
  },
  {
   "id": "s0170_01574",
@@ -717,7 +717,7 @@
    "ダイ"
   ],
   "jp": "しかし、それは陽光のもとで光り輝く{n}美しさではなかった。日の射さぬ深い{n}鍾乳洞、あるいは光の届かぬ漆黒の{n}深海――そのような場所でこそ映える、{n}どこか背徳と退廃を漂わせた美である。{page}言葉を吐く度に唇から覗く、白い犬歯{n}が奇妙に長く、鋭く見えた。",
-  "en": ""
+  "en": "But it was not a beauty that shone in the{n}sunlight. It was the beauty of a place the{n}sun never touches, a deep limestone cave{n}or the lightless black ocean deep--a{n}beauty adrift with a hint of depravity and{n}decadence.{page}The white canines that showed between{n}his lips with every word looked strangely{n}long and sharp."
  },
  {
   "id": "s0170_01664",
@@ -741,7 +741,7 @@
    "ダイ"
   ],
   "jp": "……はっ！　そこにいるのはどなた{n}です？　私、ちゃんとお掃除をして{n}おりますよ。文句も言っておりません。{n}報告はそのように……おや？",
-  "en": ""
+  "en": "...Ah! Who is there? I am doing my cleaning{n}properly, you know. I am not complaining{n}either. Report that, if you would... Oh my?"
  },
  {
   "id": "s0170_016e8",
@@ -765,7 +765,7 @@
    "ダイ"
   ],
   "jp": "ラン？　それにカイとシーン……？{n}ははあ、ついにそのふたりも黒騎士の{n}手に落ちたということですな",
-  "en": ""
+  "en": "Ran? And Kai and Sean...? Aha, so those two{n}have finally fallen to the Black Knight, I{n}see."
  },
  {
   "id": "s0170_01748",
@@ -789,7 +789,7 @@
    "ダイ"
   ],
   "jp": "アナタたちはカイとシーン……それに{n}やけに醜いオトコども――ははあ、{n}さては魔雷妃様への捧げ物を持参して{n}投降してきたのですね",
-  "en": ""
+  "en": "You are Kai and Sean... and some extremely{n}ugly men--aha, I see you have come to{n}surrender with an offering for Demon{n}Thunder Queen-sama."
  },
  {
   "id": "s0170_017c8",
@@ -813,7 +813,7 @@
    "カイ"
   ],
   "jp": "……？　もしやお前はダイなのか？",
-  "en": ""
+  "en": "...? Can you be Di?"
  },
  {
   "id": "s0170_017ec",
@@ -837,7 +837,7 @@
    "シーン"
   ],
   "jp": "ええっ!?　に、似ても似つかない{n}この人が！",
-  "en": ""
+  "en": "What!? Th-This person, who looks nothing like{n}him!"
  },
  {
   "id": "s0170_01818",
@@ -861,7 +861,7 @@
    "ラン"
   ],
   "jp": "信じられん……だが、確かに……",
-  "en": ""
+  "en": "Unbelievable... But surely..."
  },
  {
   "id": "s0170_01838",
@@ -885,7 +885,7 @@
    "ダイ"
   ],
   "jp": "はっ！　み、見るなあ！　私のこの{n}醜い姿を視界に捉えるのはヤメなさい！{n}今すぐ目をつぶって、美しかった私の{n}マッチョバディを想像するのです！",
-  "en": ""
+  "en": "Ah! D-Do not look! Stop taking this hideous{n}form of mine into your sight! Shut your eyes{n}this instant, and picture my once beautiful{n}macho body!"
  },
  {
   "id": "s0170_018c4",
@@ -909,7 +909,7 @@
    "カイ"
   ],
   "jp": "間違いないな。しかしどうしてまた、{n}そのように変わり果てた姿に？",
-  "en": ""
+  "en": "It's him, all right. But how in the world did{n}you end up so changed?"
  },
  {
   "id": "s0170_01908",
@@ -933,7 +933,7 @@
    "ダイ"
   ],
   "jp": "見ないでえええ――！",
-  "en": ""
+  "en": "Do not looook--!"
  },
  {
   "id": "s0170_01920",
@@ -957,7 +957,7 @@
    "ダイ"
   ],
   "jp": "カイたちと同じく鬼道衆の一員である{n}というその青年――ダイ・アモンは、{n}特異な体質の持ち主であった。人の{n}生き血を糧とし、不死に限りなく近い{n}肉体を持つ、しかし生者ではない存在{n}――即ち、吸血鬼である。",
-  "en": ""
+  "en": "The young man said to be one of the Kido{n}Corps like Kai and the{n}others--Di-Amon--had a peculiar{n}constitution. He fed on the blood of living{n}people and had a body very nearly{n}immortal, yet he was not among the living:{n}in short, a vampire."
  },
  {
   "id": "s0170_019e8",
@@ -981,7 +981,7 @@
    "ダイ"
   ],
   "jp": "元は人間であったが、元来その血筋が{n}秘めていた因子を魔術儀式によって{n}顕在化させ、人間以上の能力を有する{n}不死怪物の王へと自らを変質させた{n}異能の術者であった。",
-  "en": ""
+  "en": "Originally human, he was a gifted sorcerer{n}who had used a magic ritual to bring out{n}a factor hidden in his bloodline,{n}transforming himself into a king of the{n}undead with powers beyond those of{n}humans."
  },
  {
   "id": "s0170_01a88",
@@ -1005,7 +1005,7 @@
    "ダイ"
   ],
   "jp": "しかしランと同じく失った記憶の隙を{n}衝かれ、魔雷妃の誘惑に乗ったダイは{n}妖魔に樹棺城へと連行され、そこで{n}吸血鬼の魔力を根こそぎ搾り取る儀式{n}を強要された。魔力を吸引されたダイ{n}の肉体は吸血鬼としての強靱さを失い、{n}今の、元の人間だった頃の貧弱な身体{n}に戻ってしまったのである。",
-  "en": ""
+  "en": "But as with Ran, the gap in his lost{n}memory was exploited, and Di fell for the{n}Demon Thunder Queen's temptation.{n}Demons took him to the Tree-Coffin{n}Castle, where he was forced through a{n}ritual that wrung out his vampire magic to{n}the last drop. His magic drained, Di's body{n}lost its vampiric might and went back to{page}the feeble body he had once had as a{n}human."
  },
  {
   "id": "s0170_01b9c",
@@ -1029,7 +1029,7 @@
    "ダイ"
   ],
   "jp": "その後、搾りカスとなったダイはこの、{n}幻影城と呼ばれる妖魔の居城に移され、{n}奴隷のような屈辱的な扱いを受けて{n}こき使われていたのであった。",
-  "en": ""
+  "en": "Then Di, the wrung-out dregs, was moved{n}to this demon castle called the Phantom{n}Castle, where he was worked like a slave{n}and treated with humiliation."
  },
  {
   "id": "s0170_01c28",
@@ -1053,7 +1053,7 @@
    "ダイ"
   ],
   "jp": "この身体にあの漲る魔力さえ戻って{n}くれば、私には恐れるものなど何も{n}ないのですが……ああ、美しかった私！{n}カムバックマイパワーッ！　あうう",
-  "en": ""
+  "en": "If only that surging magic would return to{n}this body, I should have nothing to fear... Ah,{n}my beautiful self! Come back, my power!{n}Ohhh..."
  },
  {
   "id": "s0170_01cb4",
@@ -1077,7 +1077,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "なあ、コイツ今よりも美形だったり{n}したのか？　俺様はともかく、コイツ{n}が自分のコトを醜いとか蔑んでると、{n}ヴァイとかはムカっとくるだろが",
-  "en": ""
+  "en": "Hey, was this guy actually better-looking{n}than he is now? The great me aside, it's{n}gotta tick off guys like Vai when he calls{n}himself ugly."
  },
  {
   "id": "s0170_01d3c",
@@ -1101,7 +1101,7 @@
    "ヴァイ"
   ],
   "jp": "誰が！",
-  "en": ""
+  "en": "Who's ticked!"
  },
  {
   "id": "s0170_01d44",
@@ -1125,7 +1125,7 @@
    "ボル"
   ],
   "jp": "それがしはちょっとばかし……",
-  "en": ""
+  "en": "This one is a little, perhaps..."
  },
  {
   "id": "s0170_01d64",
@@ -1149,7 +1149,7 @@
    "シーン"
   ],
   "jp": "いいえ。今のほうがずっとマシ――{n}って言うより、魔力があった時はもう{n}化け物みたいだったわ。大きい声じゃ{n}言えないけど……",
-  "en": ""
+  "en": "No. He's much better now--I mean, when he{n}had his magic he was like a monster. I{n}wouldn't say so out loud, but..."
  },
  {
   "id": "s0170_01de0",
@@ -1173,7 +1173,7 @@
    "カイ"
   ],
   "jp": "どうやら自分を含めて、男の容姿に{n}関しての美的感覚が歪みきっている{n}らしいぞ",
-  "en": ""
+  "en": "It seems his sense of beauty in men, himself{n}included, is completely warped."
  },
  {
   "id": "s0170_01e2c",
@@ -1197,7 +1197,7 @@
    "ダイ"
   ],
   "jp": "あ、そこのオマエ、オマエですよ。{n}もっと私にその顔をお見せなさい",
-  "en": ""
+  "en": "Ah, you there. Yes, you. Show me that face{n}of yours some more."
  },
  {
   "id": "s0170_01e70",
@@ -1221,7 +1221,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "俺か？　なるほど、この超絶美形様の{n}御尊顔を拝んで、過酷な奴隷生活の{n}支えにしようってんだな",
-  "en": ""
+  "en": "Me? I get it, you wanna gaze upon the{n}august countenance of this super-gorgeous{n}me, to keep you going through your brutal{n}slave life."
  },
  {
   "id": "s0170_01ecc",
@@ -1245,7 +1245,7 @@
    "ダイ"
   ],
   "jp": "おお……この顔！　きますきます、{n}元気が湧いてきますよおぉ！　私より{n}醜い姿で、そーやって平気で生きて{n}いける人間もいるのだと思うと――",
-  "en": ""
+  "en": "Oooh... This face! It's coming, it's coming, I{n}feel my strength welling up! To think some{n}people go on living without a care, looking{n}even uglier than me--"
  },
  {
   "id": "s0170_01f54",
@@ -1269,7 +1269,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "……殺しちゃっていーかな？",
-  "en": ""
+  "en": "...Mind if I kill him?"
  },
  {
   "id": "s0170_01f70",
@@ -1293,7 +1293,7 @@
    "カイ"
   ],
   "jp": "ま、弱っても吸血鬼だからそうそう{n}簡単に死んだりしないだろ。どぞ！",
-  "en": ""
+  "en": "Well, weak or not he's a vampire, he won't{n}die that easily. Go ahead!"
  },
  {
   "id": "s0170_01fb4",
@@ -1317,7 +1317,7 @@
    "ダイ"
   ],
   "jp": "ひー！　やめ、やめなさい！　そ、{n}そんなトコ踏まれたら私わはあ――！",
-  "en": ""
+  "en": "Eek! Stop it, stop it at once! I-If you tread{n}on me there, I shall--!"
  },
  {
   "id": "s0170_01ffc",
@@ -1341,7 +1341,7 @@
    "ダイ"
   ],
   "jp": "その時、ダイを踏みつけるＤ・Ｓの{n}懐からイヤリングがこぼれた。以前、{n}森で蝙蝠の死骸から入手したもので、{n}月を模した水晶の飾りの中には青白く{n}輝く液体が詰まっている。",
-  "en": ""
+  "en": "Just then an earring fell from the breast{n}of D.S.'s clothes as he trod on Di. He had{n}gotten it from a dead bat in the forest{n}earlier, and inside its crystal ornament,{n}shaped like a moon, was a pale, glowing{n}liquid."
  },
  {
   "id": "s0170_020a0",
@@ -1365,7 +1365,7 @@
    "ダイ"
   ],
   "jp": "おお――っ！　それは！　この叡智の{n}塊ダイ・アモンが、儀式を受ける前に{n}少しだけ退避させておいた魔力の{n}エキスではないですかぁ！",
-  "en": ""
+  "en": "Ooooh! That is! That is the extract of magic{n}that I, Di-Amon, that mass of wisdom, set{n}aside just a little before I underwent the{n}ritual!"
  },
  {
   "id": "s0170_02120",
@@ -1389,7 +1389,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "ほおー。こりゃオメエのか。水晶の{n}中身は魔力の凝縮液で、コレを使えば{n}吸血鬼の力が戻ってくる、と",
-  "en": ""
+  "en": "Oho. So this is yours. What's in the crystal is{n}concentrated magic, and using it brings your{n}vampire power back."
  },
  {
   "id": "s0170_02180",
@@ -1413,7 +1413,7 @@
    "ダイ"
   ],
   "jp": "そうです！　早くそれを返しなさい！{n}さもないと吸血鬼パワーが炸裂して{n}しまいますよ！　あっ、踏むのはもう{n}ヤメなさい！",
-  "en": ""
+  "en": "Yes! Give it back at once! Or else my vampire{n}power will explode! Ah, and stop treading on{n}me!"
  },
  {
   "id": "s0170_021f8",
@@ -1437,7 +1437,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "この状態で良く強気なセリフを吐き{n}やがるな。大体、返してもらえねえと{n}パワーの炸裂もクソもねーんだろが。{n}面白過ぎるヤツだぜ、オメエ？",
-  "en": ""
+  "en": "Big talk from a guy in your position. Anyway,{n}without it, there's no power to explode in{n}the first place, is there? You're way too{n}hilarious, y'know that?"
  },
  {
   "id": "s0170_02280",
@@ -1461,7 +1461,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "返してやらねーでもねえが、ひとつ{n}条件がある――",
-  "en": ""
+  "en": "I might give it back, but I got one{n}condition--"
  },
  {
   "id": "s0170_022b4",
@@ -1485,7 +1485,7 @@
    "ダイ"
   ],
   "jp": "何？　何？　何です？　そのエキス{n}さえ返してくれるなら、できる限り{n}アナタの希望に沿うよう努力する気を{n}起こさないワケでもありません",
-  "en": ""
+  "en": "What? What? What is it? If you will just{n}return that extract, it is not as though I{n}might not be moved to make some effort to{n}meet your wishes as far as I can."
  },
  {
   "id": "s0170_02338",
@@ -1509,7 +1509,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "吸血鬼と言やタフで不死身で何かと{n}便利だからな。ひとつこのＤ・Ｓ様{n}御一行に加わって、樹棺城の魔雷妃ん{n}トコまで付き合ってもらおうか",
-  "en": ""
+  "en": "Vampires are tough and undying and handy{n}all around. So you're gonna join the party of{n}the great D.S.-sama and come along with us{n}to the Demon Thunder Queen at the{page}Tree-Coffin Castle."
  },
  {
   "id": "s0170_023bc",
@@ -1533,7 +1533,7 @@
    "ダイ"
   ],
   "jp": "いええ？　イヤです。また魔力を{n}吸われでもしたらどーするのです",
-  "en": ""
+  "en": "Ehhh? No thank you. What would I do if my{n}magic got sucked out again?"
  },
  {
   "id": "s0170_023fc",
@@ -1557,7 +1557,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "踏み！",
-  "en": ""
+  "en": "Tread!"
  },
  {
   "id": "s0170_02404",
@@ -1581,7 +1581,7 @@
    "ダイ"
   ],
   "jp": "ぎゃああおうっ！　わ、判りました！{n}条件を飲ませていただきましょう！",
-  "en": ""
+  "en": "Gyaaaoh! F-Fine! I accept your condition!"
  },
  {
   "id": "s0170_0244c",
@@ -1605,7 +1605,7 @@
    "ダイ"
   ],
   "jp": "ダイは満月のエキスを受け取ると、{n}丸ごと口に放り込んで噛み砕いた。{n}水晶の容器が割れ、魔力を蓄えた液体{n}がダイの体内に流れ込んでいく。",
-  "en": ""
+  "en": "Di took the full-moon extract, popped the{n}whole thing in his mouth and crunched it.{n}The crystal case broke, and the{n}magic-filled liquid flowed into his body."
  },
  {
   "id": "s0170_024d4",
@@ -1629,7 +1629,7 @@
    "ダイ"
   ],
   "jp": "きたきたきたキターッ！　我ながら{n}このエキスは効きますよおぉ！　五臓{n}六腑に染み渡って、邪悪な闇のパワー{n}が漲ってきましたよゥオゥオゥ――",
-  "en": ""
+  "en": "Here it comes, here it comes, HERE IT COMES!{n}I must say this extract of mine has a kick!{n}It's soaking through my very guts, and evil{n}power of darkness is surging through me,{page}Whoa-oh-oh--"
  },
  {
   "id": "s0170_02560",
@@ -1653,7 +1653,7 @@
    "ダイ"
   ],
   "jp": "雄叫びとともに、天井を仰いだダイの{n}喉から赤い水蒸気が噴き上がる。{page}それは霧となってダイの貧弱な肢体に{n}纏わりつき、白い肌に染み込んでいく。{n}内と外から魔力の源を吸収し、その{n}肉体は急激な変化をきたし始めた。",
-  "en": ""
+  "en": "With a howl, Di looked to the ceiling and{n}red vapor burst from his throat.{page}It became a mist that clung to his puny{n}limbs and soaked into his white skin.{n}Absorbing the source of magic from within{n}and without, his body began to change{n}violently."
  },
  {
   "id": "s0170_02630",
@@ -1677,7 +1677,7 @@
    "ダイ"
   ],
   "jp": "肌の薄皮が弾け、剥き出しとなった{n}筋肉繊維が凄まじい速度で紡がれて{n}いく。骨格すらも変化し、シーンや{n}カイと同じ程度だった身長は見る間に{n}１メートル近くも伸び上がる。それを{n}筋肉の束が何重にも包み込み、新たな{n}肌が瞬時に全身を覆い尽くす。魔力に{n}よってもたらされた質量の変化は優に{n}三倍を越えていた。",
-  "en": ""
+  "en": "The thin skin burst, and bared muscle{n}fibers wove themselves with terrifying{n}speed. Even his skeleton changed: his{n}height, once about that of Sean or Kai,{n}shot up nearly a meter before their eyes.{n}Layers of muscle wrapped around it, and{n}new skin covered his whole body in an{n}instant. The change in mass wrought by{page}magic came to well over threefold."
  },
  {
   "id": "s0170_02758",
@@ -1701,7 +1701,7 @@
    "ダイ"
   ],
   "jp": "おおおおお――っ！　今ここに、{n}究極の美が復活ゥ！　私を崇めよ！{n}私は今、世界で一番美しいぃぃぃ！",
-  "en": ""
+  "en": "Ooooooh! Here and now, ultimate beauty is{n}reborn! Worship me! I am now the most{n}beautiful in all the world!"
  },
  {
   "id": "s0170_027bc",
@@ -1725,7 +1725,7 @@
    "ダイ"
   ],
   "jp": "そこに誕生したのは、呪術的効果を{n}生む奇怪な刺青に顔面を彩られた、{n}見るもおぞましい筋肉質の巨漢吸血鬼{n}であった。先刻までのはかなげな面影{n}は全く消え去り、闇の眷属特有の邪悪{n}な魔力が全身から放射されている。{page}頭部の骨格も根底から変形し、美形で{n}あった容貌は今や暑苦しい大顔面と{n}化していた。",
-  "en": ""
+  "en": "There stood newborn a hideous,{n}musclebound giant vampire, his face{n}adorned with bizarre tattoos that worked{n}curses. The former frail air had vanished{n}without a trace, and the evil magic{n}peculiar to the kin of darkness radiated{n}from his whole body.{page}Even the bones of his head had changed{n}from the root, and that once-fine face{n}was now a sweltering giant mug."
  },
  {
   "id": "s0170_028dc",
@@ -1749,7 +1749,7 @@
    "カイ"
   ],
   "jp": "おお！　まさしくもとのダイだ！",
-  "en": ""
+  "en": "Oh! That's Di, all right!"
  },
  {
   "id": "s0170_028fc",
@@ -1773,7 +1773,7 @@
    "シーン"
   ],
   "jp": "ニセ者かと思うほど違ってたものね",
-  "en": ""
+  "en": "He was so different I took him for an{n}impostor."
  },
  {
   "id": "s0170_02920",
@@ -1797,7 +1797,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "ははあ。コイツにとっちゃコレが{n}美しいワケか……その観点なら、対極{n}にある俺様は確かに不細工だわな",
-  "en": ""
+  "en": "Ah. So for him, this is beautiful... By that{n}standard, the great me on the far opposite{n}end sure is ugly."
  },
  {
   "id": "s0170_02984",
@@ -1822,7 +1822,7 @@
    "ダイ"
   ],
   "jp": "ハァーッハッハッハーッ！　この姿に{n}戻ってしまえばコッチのもの！",
-  "en": ""
+  "en": "Hah hah hah hah haaah! Now that I am back{n}in this form, the game is mine!"
  },
  {
   "id": "s0170_029c8",
@@ -1846,7 +1846,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "へええ。ヤッパリね",
-  "en": ""
+  "en": "Oho. Figures."
  },
  {
   "id": "s0170_029dc",
@@ -1870,7 +1870,7 @@
    "ダイ"
   ],
   "jp": "ハイ？　驚いたりズルイぞおぅとか{n}叫んで涙ながらに抗議したりしないの{n}ですか？",
-  "en": ""
+  "en": "Yes? Will you not be shocked, or cry \"No{n}fair!\" and protest in tears?"
  },
  {
   "id": "s0170_02a2c",
@@ -1894,7 +1894,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "オメエが先に魔力を取り戻したら、{n}もう目的は果たしたんだから条件を{n}ホゴにするに決まってるもんなあ。{n}驚くワケがねーじゃねえか、ククク",
-  "en": ""
+  "en": "Once you got your magic back, your goal's{n}done, so of course you'd welsh on the deal.{n}Why would I be shocked? Heh heh heh."
  },
  {
   "id": "s0170_02ab4",
@@ -1918,7 +1918,7 @@
    "ダイ"
   ],
   "jp": "……その余裕、まさか何か仕掛けが{n}あったんじゃあ……あの、エキスに？",
-  "en": ""
+  "en": "...That composure, can it be that there was{n}some trick... In that... extract?"
  },
  {
   "id": "s0170_02afc",
@@ -1942,7 +1942,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "勘がいいな。アレには遅効性の魔力{n}分解呪文を織り込んでおいた。俺様が{n}定期的に時間を延ばしてやらないと、{n}今度は完全に魔力を失うコトになるぜ",
-  "en": ""
+  "en": "Good instincts. I wove a slow-acting{n}magic-decay spell into it. Unless the great{n}me extends the time on a regular basis,{n}you'll lose your magic for good this time."
  },
  {
   "id": "s0170_02b88",
@@ -1966,7 +1966,7 @@
    "ダイ"
   ],
   "jp": "ひえっ！　ず、ズルイぞおうぉぅ！",
-  "en": ""
+  "en": "Eek! N-No fair!"
  },
  {
   "id": "s0170_02bac",
@@ -1990,7 +1990,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "一度条件をのんだ以上、テメエに{n}選択の余地はねえ。俺からはぐれねえ{n}ようにしっかりついてくるんだな",
-  "en": ""
+  "en": "You took the deal, so you got no choice.{n}Stick close, so you don't get separated from{n}me."
  },
  {
   "id": "s0170_02c10",
@@ -2014,7 +2014,7 @@
    "ダイ"
   ],
   "jp": "うう……吸血鬼が泣かされるなんて{n}世も末ですよぉぉぉぉ",
-  "en": ""
+  "en": "Ugh... When a vampire is reduced to tears,{n}the end of the world is nigh..."
  },
  {
   "id": "s0170_02c48",
@@ -2038,7 +2038,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "頼り甲斐のある仲間が増えたトコで、{n}この城を仕切ってるヤツのことが聞き{n}てえんだけどな。湖でシーンを襲った{n}妖魔だと踏んでるんだけどよ",
-  "en": ""
+  "en": "Now that we got a dependable new friend, I{n}wanna hear about whoever's running this{n}castle. My bet's on the demon who jumped{n}Sean at the lake."
  },
  {
   "id": "s0170_02cd0",
@@ -2062,7 +2062,7 @@
    "ダイ"
   ],
   "jp": "……私はずっとこの男のそばに仕え{n}続けなければならないのでしょうか。{n}ううう……これなら奴隷働きをさせら{n}れていたほうがマシだったかも……",
-  "en": ""
+  "en": "...Must I keep serving at this man's side{n}forever? Ugh... Being worked like a slave{n}might have been better than this..."
  },
  {
   "id": "s0170_02d5c",
@@ -2086,7 +2086,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "人の話を聞かないヤツは、魔力消滅{n}までの時間がどんどん早くなるので{n}注意するように",
-  "en": ""
+  "en": "Note that guys who ignore people lose their{n}magic faster and faster."
  },
  {
   "id": "s0170_02db0",
@@ -2110,7 +2110,7 @@
    "ダイ"
   ],
   "jp": "ハイハイィッ！　この城を統括して{n}いるのは暴凶の三男神、その長兄とか{n}名乗る妖魔です！　だから延長の呪文{n}をかけてチョーダイ！　お願いぃぃ！",
-  "en": ""
+  "en": "Yes, yes, yes! The one in command of this{n}castle is a demon who calls himself the{n}eldest of the savage Three Male Gods! So{n}cast your extension spell! Pretty{page}pleeease!"
  },
  {
   "id": "s0170_02e3c",
@@ -2134,7 +2134,7 @@
    "カイ"
   ],
   "jp": "……ところでさっきの魔力消滅の話、{n}本当なのか？",
-  "en": ""
+  "en": "...By the way, that magic-decay story of{n}yours, is it true?"
  },
  {
   "id": "s0170_02e70",
@@ -2158,7 +2158,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "クックック、ハッタリだ。あのバカ、{n}ホントに信じてやがるぜ",
-  "en": ""
+  "en": "Heh heh heh, it's a bluff. That idiot actually{n}bought it."
  },
  {
   "id": "s0170_02eac",
@@ -2182,7 +2182,7 @@
    "ヴァイ"
   ],
   "jp": "うわあ……相変わらずダマすのが{n}うまいぜ",
-  "en": ""
+  "en": "Wow... Still as good a con man as ever."
  },
  {
   "id": "s0170_02ed8",
@@ -2206,7 +2206,7 @@
    "ボル"
   ],
   "jp": "詐術にかけては入神の域でござるな",
-  "en": ""
+  "en": "In the art of deceit you have reached the{n}realm of the divine, forsooth."
  },
  {
   "id": "s0170_02efc",
@@ -2230,7 +2230,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "おいおい、そんなにホメんなよ",
-  "en": ""
+  "en": "Hey now, don't flatter me so much."
  },
  {
   "id": "s0170_02f1c",
@@ -2254,7 +2254,7 @@
    "ヴァイ"
   ],
   "jp": "いや、ホメてないと思うよ",
-  "en": ""
+  "en": "Nah, I don't think that was flattery."
  },
  {
   "id": "s0170_02f38",
@@ -2281,7 +2281,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "ダイは幻影城を隅々まで清掃するため、{n}妖魔から鍵を渡されていた。",
-  "en": ""
+  "en": "Di had been given a key by the demons, so{n}that he could clean the Phantom Castle{n}from end to end."
  },
  {
   "id": "s0170_02f7c",
@@ -2305,7 +2305,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "何ィ？",
-  "en": ""
+  "en": "What?"
  },
  {
   "id": "s0170_02f84",
@@ -2329,7 +2329,7 @@
    "ダイ"
   ],
   "jp": "オマエとの約束なんか反故ですよ、{n}ホゴ！　どうしてこの美しく高貴な{n}支配者ダイ・アモンが、劣った人間{n}との約束など守らねばならんのです？",
-  "en": ""
+  "en": "Your deal is void, you hear me, void! Why{n}should the beautiful and noble ruler Di-Amon{n}keep a deal with some inferior human?"
  },
  {
   "id": "s0170_0300c",
@@ -2353,7 +2353,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "へへえ？　なかなか卑劣じゃねーか",
-  "en": ""
+  "en": "Oh-ho? Pretty low of you, ain't it?"
  },
  {
   "id": "s0170_03030",
@@ -2377,7 +2377,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "この時、Ｄ・Ｓの脳裏にはある呪文が、{n}記憶の底から浮かび上がってきていた。{page}蘇るきっかけとなったのは、恐らく{n}ダイのマッチョ姿であると思われる。{n}それは極めて邪悪な、太古の呪いを{n}相手に施す術であった。",
-  "en": ""
+  "en": "Just then a certain spell floated up in{n}D.S.'s mind from the depths of his{n}memory.{page}What had brought it back was, in all{n}likelihood, the sight of the macho Di. It{n}was an extremely evil art for laying an{n}ancient curse upon a foe."
  },
  {
   "id": "s0170_030f8",
@@ -2399,7 +2399,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "ダイを呪文で服従させるか？",
-  "en": ""
+  "en": "Subdue Di with the spell?"
  },
  {
   "id": "s0170_03114",
@@ -2423,7 +2423,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "やっちまおう",
-  "en": ""
+  "en": "Let's do it"
  },
  {
   "id": "s0170_03124",
@@ -2471,7 +2471,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "オメエみたいに嗜虐心をソソるバカは{n}探してもそーそーいるモンじゃねーが、{n}どうも昔もこんなコトがあったような{n}記憶が蘇ってきたぜ――",
-  "en": ""
+  "en": "You don't often find idiots who stir up my{n}sadism like you do, but I've got this memory{n}coming back, like something like this{n}happened a long time ago--"
  },
  {
   "id": "s0170_031b4",
@@ -2495,7 +2495,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "キー・オーブス・プラタ・ロー{n}蝙蝠の羽根より来たれ　夜魔の王{n}我が爪に宿り　契約の効力となれ",
-  "en": ""
+  "en": "Ki Orbs Plata Ro{n}Come forth from the wing of the bat{n}King of night demons, dwell in my nail{n}Become the power of the pact"
  },
  {
   "id": "s0170_03210",
@@ -2519,7 +2519,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "イヤリングとともに手に入れた蝙蝠の{n}ミイラから剥ぎ取った皮膜が、Ｄ・Ｓ{n}の指先で炎となり、次いで青い爪と{n}なって不気味に蠢き始める。",
-  "en": ""
+  "en": "The membrane stripped from the{n}mummified bat, obtained along with the{n}earring, turned to flame at D.S.'s fingertip,{n}then to a blue nail, and began to writhe{n}eerily."
  },
  {
   "id": "s0170_03294",
@@ -2543,7 +2543,7 @@
    "ダイ"
   ],
   "jp": "は!?　な、何をするのです!?",
-  "en": ""
+  "en": "What!? Wh-What are you doing!?"
  },
  {
   "id": "s0170_032b0",
@@ -2567,7 +2567,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "コイツはとびっきり邪悪な呪いでな。{n}このＤ・Ｓ様をナメた野郎にピッタリ{n}の魔法だぜ――",
-  "en": ""
+  "en": "This is one mighty evil curse. Perfect for a{n}guy who screwed with the great{n}D.S.-sama--"
  },
  {
   "id": "s0170_03308",
@@ -2591,7 +2591,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "オラぁ！　青爪邪核呪詛!!",
-  "en": ""
+  "en": "Take this! Blue Nail Evil Core Curse!!"
  },
  {
   "id": "s0170_03324",
@@ -2615,7 +2615,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "Ｄ・Ｓの指が突き出され、ダイの顔に{n}青い爪が食い込んだ。",
-  "en": ""
+  "en": "D.S.'s finger shot out, and a blue nail bit{n}into Di's face."
  },
  {
   "id": "s0170_03360",
@@ -2639,7 +2639,7 @@
    "ダイ"
   ],
   "jp": "ぎゃああ――何コレ!?　はあっ!?{n}もしかして裏切ったりすると……",
-  "en": ""
+  "en": "Gyaaah--What is this!? Hah!? Could it be that{n}if I betray you..."
  },
  {
   "id": "s0170_033a0",
@@ -2663,7 +2663,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "ご明察。テメエが何か良からぬコトを{n}考えただけで、その爪は青から紫、{n}そして赤へと変色していく。もし、{n}それが真紅に染まったなら――",
-  "en": ""
+  "en": "You got it. Think one bad thought and that{n}nail changes color from blue to purple, then{n}to red. And if it ever turns deep crimson--"
  },
  {
   "id": "s0170_03424",
@@ -2687,7 +2687,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "テメエの五体はバラバラに引き裂か{n}れて、醜い無力なヒキガエルになる。{n}クックック……たとえ吸血鬼でも、{n}そうなっちまえばシマイだぜぇ",
-  "en": ""
+  "en": "Your body gets torn limb from limb, and you{n}turn into an ugly, helpless toad. Heh heh{n}heh... Even a vampire's finished after that."
  },
  {
   "id": "s0170_034a8",
@@ -2711,7 +2711,7 @@
    "ダイ"
   ],
   "jp": "ウッキャアァ――！　ゴメ、ゴメン{n}なさいぃぃ！　もうウソつきません！{n}だからヤメてぇぇぇ！",
-  "en": ""
+  "en": "Wyaaaah--! I'm sorry, I'm sorry! I won't lie{n}anymore! So please stooop!"
  },
  {
   "id": "s0170_03504",
@@ -2735,7 +2735,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "ダーメ",
-  "en": ""
+  "en": "Nope."
  },
  {
   "id": "s0170_0350c",
@@ -2759,7 +2759,7 @@
    "ダイ"
   ],
   "jp": "ウギャアアアア――ッ！",
-  "en": ""
+  "en": "Ugyaaaaah--!"
  },
  {
   "id": "s0170_03524",
@@ -2783,7 +2783,7 @@
    "ダイ"
   ],
   "jp": "呪いの爪はダイの体内深くにめり込み、{n}その呪詛の効力を振りまきながら左の{n}人差し指へと移動、爪と同化した。",
-  "en": ""
+  "en": "The cursed nail sank deep into Di's body{n}and, spreading its curse's force, moved{n}along to his left index finger, where it{n}merged with the nail."
  },
  {
   "id": "s0170_03590",
@@ -2807,7 +2807,7 @@
    "ヴァイ"
   ],
   "jp": "うっひー、ムゴいぜ",
-  "en": ""
+  "en": "Yikes, that's brutal."
  },
  {
   "id": "s0170_035a4",
@@ -2831,7 +2831,7 @@
    "カイ"
   ],
   "jp": "ま、あのような虚言を吐いたダイも{n}悪いが……ひょっとして、力を失った{n}ままここで床を磨いていたほうがマシ{n}だったかも知れんな",
-  "en": ""
+  "en": "Well, Di was wrong to tell such lies, but...{n}perhaps he'd have been better off polishing{n}the floor here with no power."
  },
  {
   "id": "s0170_03620",
@@ -2855,7 +2855,7 @@
    "ダイ"
   ],
   "jp": "絶対マシ！　ギャワーン！",
-  "en": ""
+  "en": "Much better off! Gwaaaah!"
  },
  {
   "id": "s0170_0363c",
@@ -2879,7 +2879,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "そんで、この城を仕切ってやがるのは{n}誰だ？　シーンがここの湖で男の{n}妖魔にさらわれたって話だが",
-  "en": ""
+  "en": "So who the hell's running this castle? Sean{n}says a male demon nabbed her at the lake{n}here."
  },
  {
   "id": "s0170_0369c",
@@ -2903,7 +2903,7 @@
    "ダイ"
   ],
   "jp": "うう……私のビューテホーな爪が、{n}こんな真っ青サオにいぃ……",
-  "en": ""
+  "en": "Ugh... My beautiful nail, all blue like this..."
  },
  {
   "id": "s0170_036dc",
@@ -2927,7 +2927,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "俺様の問いを無視したりしても、{n}爪が赤くなったりするから気をつける{n}よーにな",
-  "en": ""
+  "en": "Ignoring the great me's questions can turn{n}your nail red too, so watch it."
  },
  {
   "id": "s0170_03728",
@@ -2951,7 +2951,7 @@
    "ダイ"
   ],
   "jp": "ハイハイィッ！　この城を統括して{n}いるのは暴凶の三男神、その長兄とか{n}名乗る妖魔です！",
-  "en": ""
+  "en": "Yes, yes, yes! The one in command of this{n}castle is a demon who calls himself the{n}eldest of the savage Three Male Gods!"
  },
  {
   "id": "s0170_03780",
@@ -2976,7 +2976,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "三姉妹の次は三兄弟かよ",
-  "en": ""
+  "en": "Three sisters, and now three brothers,{n}huh."
  },
  {
   "id": "s0170_03798",
@@ -3000,7 +3000,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "とびっきりヤベえ呪文で言うことを{n}聞かせるって手もあるんだけどな。{n}テメエみてえに笑えてイビリ甲斐の{n}ある男に使うのはもったいねえ――",
-  "en": ""
+  "en": "I could make you do as I say with one{n}mighty nasty spell. But it'd be a waste on a{n}guy as funny and fun to torment as you--"
  },
  {
   "id": "s0170_03820",
@@ -3024,7 +3024,7 @@
    "ダイ"
   ],
   "jp": "ワハハハハ！　負け惜しみはおヤメ{n}なさい。こうなった以上、もう私を{n}止められるモノはぬぁーい！",
-  "en": ""
+  "en": "Wa ha ha ha ha! Spare me your sour grapes.{n}Now that it has come to this, nothing can{n}stop me!"
  },
  {
   "id": "s0170_03880",
@@ -3048,7 +3048,7 @@
    "カイ"
   ],
   "jp": "卑怯だぞダイ！　約束も守れぬなど、{n}鬼道衆の風上にも置けぬ！",
-  "en": ""
+  "en": "Dirty coward, Di! Can't even keep a promise,{n}you shame the Kido Corps!"
  },
  {
   "id": "s0170_038c0",
@@ -3072,7 +3072,7 @@
    "ダイ"
   ],
   "jp": "ふふん。そうですねぇ。一緒に行動{n}するつもりはないですが、鬼道衆の{n}よしみでこの幻影城を統括する妖魔の{n}ことを教えといてあげましょう",
-  "en": ""
+  "en": "Hmph. Quite so. I have no intention of{n}traveling with you, but for old times' sake in{n}the Kido Corps, I shall tell you of the demon{n}who commands this Phantom Castle."
  },
  {
   "id": "s0170_03944",
@@ -3096,7 +3096,7 @@
    "ダイ"
   ],
   "jp": "何でも、暴凶の三男神の長兄とか{n}名乗る、タチの悪い醜いヤツですよ。{n}掃除をサボったくらいで、私をヒドイ{n}目に遭わせる超凶悪な輩です",
-  "en": ""
+  "en": "They say he calls himself the eldest of the{n}savage Three Male Gods, a nasty, ugly{n}creature. A most vicious brute, who treats{n}me cruelly for so little as skipping my{page}cleaning."
  },
  {
   "id": "s0170_039c8",
@@ -3120,7 +3120,7 @@
    "ダイ"
   ],
   "jp": "アナタたち程度では、とっとと逃げ{n}出したほうが賢明かも知れませんねぇ",
-  "en": ""
+  "en": "For the likes of you, it may be wisest to run{n}away right now."
  },
  {
   "id": "s0170_03a10",
@@ -3144,7 +3144,7 @@
    "シーン"
   ],
   "jp": "もうコワイものがないんだったら、{n}アナタがアイツに仕返しして行ったら{n}どう？",
-  "en": ""
+  "en": "If you've got nothing left to fear, why don't{n}you go pay him back on your way out?"
  },
  {
   "id": "s0170_03a5c",
@@ -3168,7 +3168,7 @@
    "ダイ"
   ],
   "jp": "う……ハッハッハァ、何を言うのです。{n}そんなコトしたら弱い者イジメに{n}なってしまうでしょう？　さーて、{n}それでは失礼しましょーかね",
-  "en": ""
+  "en": "Ugh... Ha ha hah, what are you saying? Why,{n}that would be bullying the weak, would it{n}not? Well now, I shall take my leave."
  },
  {
   "id": "s0170_03ae0",
@@ -3192,7 +3192,7 @@
    "カイ"
   ],
   "jp": "ビビってるな",
-  "en": ""
+  "en": "You're scared."
  },
  {
   "id": "s0170_03af0",
@@ -3216,7 +3216,7 @@
    "ダイ"
   ],
   "jp": "し……失敬ですよっ！　誰があんな{n}妖魔になど！",
-  "en": ""
+  "en": "Th-That is rude! Scared of such a demon?{n}Me!"
  },
  {
   "id": "s0170_03b20",
@@ -3240,7 +3240,7 @@
    "カイ"
   ],
   "jp": "あ、お前の後ろに……",
-  "en": ""
+  "en": "Oh, right behind you..."
  },
  {
   "id": "s0170_03b38",
@@ -3264,7 +3264,7 @@
    "ダイ"
   ],
   "jp": "ギャワアァァ――ッ！",
-  "en": ""
+  "en": "Gwaaaaah--!"
  },
  {
   "id": "s0170_03b50",
@@ -3288,7 +3288,7 @@
    "ダイ"
   ],
   "jp": "よほど酷い目に遭わされていたのか、{n}ダイは巨体に似合わぬ、魔物の迅さで{n}逃げ去っていった。",
-  "en": ""
+  "en": "Whatever cruelties he had suffered, Di{n}ran off with monstrous speed quite unlike{n}his bulk."
  },
  {
   "id": "s0170_03bac",
@@ -3312,7 +3312,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "三姉妹の次は三兄弟かよ。それも{n}かなり凶悪なヤツらしいな",
-  "en": ""
+  "en": "Three sisters, and now three brothers, huh.{n}And nasty ones, sounds like."
  },
  {
   "id": "s0170_03be8",
@@ -3337,7 +3337,7 @@
    "カイ"
   ],
   "jp": "ん？　ダイめ、鍵を落としていったぞ",
-  "en": ""
+  "en": "Hm? Di dropped a key on his way out, the{n}fool."
  },
  {
   "id": "s0170_03c0c",
@@ -3362,7 +3362,7 @@
    "シーン"
   ],
   "jp": "掃除には必要だもんね",
-  "en": ""
+  "en": "He'd need one for the cleaning."
  },
  {
   "id": "s0170_03c24",
@@ -3386,7 +3386,7 @@
    "ヴァイ"
   ],
   "jp": "でもよ、オマエは別に閉じ込められ{n}てるワケじゃねえんだろ？　ランと{n}違って洗脳されてねえんなら、逃げ{n}出せば良かったんじゃねーか？",
-  "en": ""
+  "en": "But hey, it's not like you're locked up, right?{n}If you ain't brainwashed like Ran, why not{n}just run away?"
  },
  {
   "id": "s0170_03ca8",
@@ -3410,7 +3410,7 @@
    "ダイ"
   ],
   "jp": "ヒーッ！　ってこのバァカ。逃げよう{n}にも外は深い湖の底ではないですか。{n}私はココで床を磨く以外ないのです{n}……アーッ、もうヤメテ！",
-  "en": ""
+  "en": "Eek! You stupid fool. Even if I ran, outside is{n}the bottom of a deep lake, is it not? I have{n}no choice but to polish floors here... Aaah,{n}stop it!"
  },
  {
   "id": "s0170_03d2c",
@@ -3434,7 +3434,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "このこのコノッ！　バカはテメエだ！{n}俺たちがどうしてこの城にいるのか{n}考えてみろオラ。ん？　どうしてかな？{n}判らないならココも踏んじゃいまーす",
-  "en": ""
+  "en": "Take that, and that! You're the idiot! Think{n}about how we got into this castle, punk.{n}Hmm? How'd we do it? If you can't figure it{n}out, I'm treading here too."
  },
  {
   "id": "s0170_03dbc",
@@ -3458,7 +3458,7 @@
    "ダイ"
   ],
   "jp": "やめるダスー！　え、どーゆうコト{n}ですかそれは、あへ。もしかして、{n}湖の水がなくなってるとか？",
-  "en": ""
+  "en": "Stop it, I say! Oh, whatever do you mean, ah.{n}Could it be that the lake has run dry?"
  },
  {
   "id": "s0170_03e1c",
@@ -3482,7 +3482,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "とっくだアホウ！　踏み！",
-  "en": ""
+  "en": "Ages ago, moron! Tread!"
  },
  {
   "id": "s0170_03e38",
@@ -3506,7 +3506,7 @@
    "ダイ"
   ],
   "jp": "ぎいやあああ――！",
-  "en": ""
+  "en": "Gyaaaaah--!"
  },
  {
   "id": "s0170_03e4c",
@@ -3530,7 +3530,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "ハァ、ハァ……仕置きはこんなモン{n}だろ。ところでこの幻影城とやらは{n}誰の城なんだ？　シーンをさらった{n}妖魔がいると踏んでるんだがな",
-  "en": ""
+  "en": "Huff, huff... That oughta do for punishment.{n}Now, whose castle is this Phantom Castle? I{n}bet the demon who nabbed Sean is here."
  },
  {
   "id": "s0170_03ed0",
@@ -3554,7 +3554,7 @@
    "ダイ"
   ],
   "jp": "はうう……クセになりそうですよぉ。{n}え、妖魔？　えーえ、残虐なのがこの{n}城を統括していますよ。暴凶の三男神、{n}その長兄とか名乗ってましたね",
-  "en": ""
+  "en": "Oooh... I could grow to like this. What, the{n}demon? Oh, yes, a brutal one commands this{n}castle. He called himself the eldest of the{n}savage Three Male Gods."
  },
  {
   "id": "s0170_03f5c",
@@ -3578,7 +3578,7 @@
    "ダイ"
   ],
   "jp": "凶悪なヤツですからね。アナタたちも{n}とっとと逃げ出したほうがいーかも{n}知れません",
-  "en": ""
+  "en": "He is a vicious one. You might all do well to{n}run away right now."
  },
  {
   "id": "s0170_03fac",
@@ -3602,7 +3602,7 @@
    "ダイ"
   ],
   "jp": "水がなくなったと判った以上、私が{n}こんな場所で掃除などするいわれは{n}ありません。早く魔力を回復させ、{n}あの美しいバディを取り戻さねば――",
-  "en": ""
+  "en": "Now that I know the water is gone, there is{n}no reason for me to clean in such a place. I{n}must recover my magic quickly, and regain{n}that beautiful body--"
  },
  {
   "id": "s0170_04034",
@@ -3626,7 +3626,7 @@
    "ダイ"
   ],
   "jp": "ふんむむむ……変・身！",
-  "en": ""
+  "en": "Hnnnngh... Trans-form!"
  },
  {
   "id": "s0170_0404c",
@@ -3650,7 +3650,7 @@
    "ダイ"
   ],
   "jp": "ポン！　と白煙を上げてダイの身体が{n}弾け、代わりにパタパタと翼を羽ばた{n}かせる小さな蝙蝠が現れた。魔力を{n}ほとんど失ったとは言え、吸血鬼の{n}変身能力は辛うじて残っているようで{n}あった。",
-  "en": ""
+  "en": "With a pop and a puff of white smoke Di's{n}body burst, and in its place appeared a{n}small bat flapping its wings. Though he{n}had lost nearly all his magic, a vampire's{n}power of transformation had barely{n}stayed with him."
  },
  {
   "id": "s0170_04104",
@@ -3674,7 +3674,7 @@
    "ダイ"
   ],
   "jp": "“ああ……この姿まで貧弱です……。{n}それでは皆さん、さよーならー。次は{n}私の高貴で美しいマッチョバディを{n}お目にかけましょーおうおう――”",
-  "en": ""
+  "en": "\"Oh... Even this form is puny... Well then,{n}everyone, good-bye. Next time I shall show{n}you my noble, beautiful macho bodyyy--\""
  },
  {
   "id": "s0170_04190",
@@ -3698,7 +3698,7 @@
    "ダイ"
   ],
   "jp": "ダイ蝙蝠は幾度か旋回を繰り返し、{n}出口へと向かって飛び去っていった。",
-  "en": ""
+  "en": "The bat Di circled a few times, then flew{n}off toward the exit."
  },
  {
   "id": "s0170_0512c",
@@ -3722,7 +3722,7 @@
    ""
   ],
   "jp": "宝箱に入っていたのは、丸く巻かれた{n}１メートルほどの長さのケーブルで{n}あった。両端には何かに接続する針の{n}ような端子が付いていたが、使い道を{n}推し量れるものではなかった。",
-  "en": ""
+  "en": "In the chest was a coiled cable about a{n}meter long. At each end was a needle-like{n}terminal for plugging into something, but{n}there was no guessing its use."
  },
  {
   "id": "s0170_051d4",
@@ -3746,7 +3746,7 @@
    "ヴァイ"
   ],
   "jp": "何だ？　このコードみたいなのは？",
-  "en": ""
+  "en": "What's this? Some kinda cord?"
  },
  {
   "id": "s0170_051f8",
@@ -3770,7 +3770,7 @@
    "サイクス"
   ],
   "jp": "この端子――生体部品のようにも{n}見えるな。だが、何に使うケーブル{n}なのかはハッキリしない",
-  "en": ""
+  "en": "These terminals--they appear to be living{n}parts. But it is not clear what the cable is{n}for."
  },
  {
   "id": "s0170_05250",
@@ -3794,7 +3794,7 @@
    "サイクス"
   ],
   "jp": "その時、背後から足早に近づいてくる{n}靴音が聴こえた。",
-  "en": ""
+  "en": "Just then they heard footsteps coming{n}quickly from behind."
  },
  {
   "id": "s0170_05288",
@@ -3818,7 +3818,7 @@
    "ロス"
   ],
   "jp": "……この辺りがクサいわねっと……{n}ああっ！　先を越されてるじゃない！{n}思ったより素早いわね、アナタたち。{n}あれからずいぶん腕を上げた？",
-  "en": ""
+  "en": "...Smells like it's around here... Oh no!{n}Someone beat me to it! You're faster than I{n}thought, you lot. Have you gotten that{n}much better since then?"
  },
  {
   "id": "s0170_05310",
@@ -3842,7 +3842,7 @@
    "ヴァイ"
   ],
   "jp": "へへ。それなりにな",
-  "en": ""
+  "en": "Heh heh. Not too shabby."
  },
  {
   "id": "s0170_05324",
@@ -3866,7 +3866,7 @@
    "ロス"
   ],
   "jp": "あっ！　それってシナプスケーブル！{n}ここにホントにあるなんて、アタシの{n}勘ってスッゴイわあ――",
-  "en": ""
+  "en": "Oh! That's a synapse cable! To think it's{n}actually here, my instincts are simply{n}amazing--"
  },
  {
   "id": "s0170_05384",
@@ -3890,7 +3890,7 @@
    "ロス"
   ],
   "jp": "ね！　そのケーブルもらっていいわよ{n}ね？　他の人には多分役に立たない{n}――と言うより使いようがない品物{n}だからさ",
-  "en": ""
+  "en": "Say! You'll let me have that cable, won't{n}you? Nobody else would have any use for{n}it--or rather, couldn't use it if they tried."
  },
  {
   "id": "s0170_053f4",
@@ -3914,7 +3914,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "オメエが探してたのはコレなのか。{n}いーぜ。約束だし、俺たちに必要な{n}ものでもねえからな。それにしても、{n}おかしなモノ欲しがるな",
-  "en": ""
+  "en": "So that's what you were after. Sure. A{n}deal's a deal, and we got no use for it. Still,{n}you want some weird stuff."
  },
  {
   "id": "s0170_05474",
@@ -3938,7 +3938,7 @@
    "ロス"
   ],
   "jp": "アタシにとってはスゴく役に立つのよ、{n}このシナプスケーブルは。ただ、{n}これ単体じゃどうしようもないんだ{n}ケド――",
-  "en": ""
+  "en": "It's terribly useful to me, this synapse cable.{n}But it won't do anything all on its own--"
  },
  {
   "id": "s0170_054e4",
@@ -3962,7 +3962,7 @@
    "ロス"
   ],
   "jp": "賭けはアタシの負けねー。ここは潔く、{n}ソッチの目的にも付き合わせてもらい{n}ましょ",
-  "en": ""
+  "en": "I lose the bet, then. Fair's fair, I'll tag along{n}with whatever you're up to."
  },
  {
   "id": "s0170_05534",
@@ -3986,7 +3986,7 @@
    "カイ"
   ],
   "jp": "げ……オカマが仲間に",
-  "en": ""
+  "en": "Ugh... That queen's joining us."
  },
  {
   "id": "s0170_0554c",
@@ -4010,7 +4010,7 @@
    "ロス"
   ],
   "jp": "オカマじゃないってば。みやびな{n}言葉遣いなのよコレは。ちなみに、{n}アンタのは野卑、お下品っつーのよ",
-  "en": ""
+  "en": "I told you, I'm no queen. This is refined{n}speech, dear. Yours, by the way, is what we{n}call coarse and vulgar."
  },
  {
   "id": "s0170_055b0",
@@ -4034,7 +4034,7 @@
    "カイ"
   ],
   "jp": "何だとぉ！　俺のどこが野卑だ！",
-  "en": ""
+  "en": "What did you say! What's coarse about me!"
  },
  {
   "id": "s0170_055d0",
@@ -4058,7 +4058,7 @@
    "シーン"
   ],
   "jp": "……カイ、もうちょっと女らしく{n}いきましょう",
-  "en": ""
+  "en": "...Kai, let's try being a bit more ladylike."
  },
  {
   "id": "s0170_057e8",
@@ -4082,7 +4082,7 @@
    ""
   ],
   "jp": "そこはこの城の、玉座らしき場所で{n}あった。薄暗い広間には妖魔の姿は{n}見えなかったが、幽かに異質な気配が{n}漂っているように思える。",
-  "en": ""
+  "en": "This was what looked to be the castle's{n}throne room. There was no sign of the{n}demon in the dim hall, but something alien{n}seemed to hang faintly in the air."
  },
  {
   "id": "s0170_05868",
@@ -4106,7 +4106,7 @@
    "ダイ"
   ],
   "jp": "ヤツはいつもこの玉座で魔物の報告{n}を受けたり、貧弱だった私を、それは{n}もーウレシそーに小突き回したりして{n}いたのですよ",
-  "en": ""
+  "en": "He always sat on this throne to hear his{n}monsters' reports, or shove around the{n}puny me, ever so gleefully."
  },
  {
   "id": "s0170_058e0",
@@ -4130,7 +4130,7 @@
    "ダイ"
   ],
   "jp": "しかし留守のようですねぇ。いや、{n}誠に残念です！　せっかく復讐の機会{n}に恵まれたと言うのにねえ！　さあ、{n}早くこの城から出ましょうってば！",
-  "en": ""
+  "en": "But he seems to be out. Oh, what a pity! And{n}when I had such a nice chance for revenge!{n}Well, let us leave this castle right away,{n}shall we!"
  },
  {
   "id": "s0170_0596c",
@@ -4154,7 +4154,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "留守じゃあねえようだぜ",
-  "en": ""
+  "en": "He ain't out, by the look of it."
  },
  {
   "id": "s0170_05984",
@@ -4178,7 +4178,7 @@
    "ダイ"
   ],
   "jp": "え？　ひ、ヒイイィィィ――",
-  "en": ""
+  "en": "What? Hi, eeeeeek--"
  },
  {
   "id": "s0170_059a0",
@@ -4202,7 +4202,7 @@
    "ダイ"
   ],
   "jp": "一行の気配を察したのか、あるいは{n}彼らの観察を終えたのか――広間を{n}囲む鉄柵の向こうから、床に滲み{n}出した大量の水が重力を無視して玉座{n}へと集まり、そこに水のフィールドを{n}形成する。",
-  "en": ""
+  "en": "Whether it had sensed the party or had{n}finished watching them--from beyond the{n}iron railings around the hall a mass of{n}water seeped across the floor, gathered{n}at the throne against all gravity, and{n}formed a field of water there."
  },
  {
   "id": "s0170_05a54",
@@ -4226,7 +4226,7 @@
    "ダイ"
   ],
   "jp": "さして深さのないはずのフィールド{n}から、あたかもそこが数メートルの{n}水深があるかの如く、直立した巨大な{n}妖魔が迫り上がってきた。",
-  "en": ""
+  "en": "From a field that could not have been so{n}deep, a giant demon rose upright, as if{n}the water there were meters deep."
  },
  {
   "id": "s0170_05ad4",
@@ -4250,7 +4250,7 @@
    "シーン"
   ],
   "jp": "こ、コイツよ！　私を捕まえて、{n}水妖の湖の化け物に食べさせようと{n}した妖魔は！",
-  "en": ""
+  "en": "Th-That's him! That's the demon who caught{n}me and tried to feed me to the monster in{n}the water spirits' lake!"
  },
  {
   "id": "s0170_05b24",
@@ -4274,7 +4274,7 @@
    "シーン"
   ],
   "jp": "その娘がいるということは、俺の{n}ペットを殺したうえ、上幻の湖の水を{n}干上がらせ、この城の姿を露にした{n}不届き者どもは貴様らだな――",
-  "en": ""
+  "en": "If that girl is here, then you are the{n}insolent wretches who killed my pet, dried{n}up the Upper Phantom Lake, and laid this{n}castle bare--"
  },
  {
   "id": "s0170_05ba8",
@@ -4298,7 +4298,7 @@
    "シーン"
   ],
   "jp": "吸血鬼も魔力を取り戻しおったか。{n}ふん。すぐにまた魔力を吸い出して{n}くれるわ。魔雷妃にくれてやれば、{n}精神制御もより安定するだろう――",
-  "en": ""
+  "en": "So the vampire has his magic back. Hmph. I{n}shall soon suck it out of him again. Handed{n}to the Demon Thunder Queen, it will steady{n}her mind control further--"
  },
  {
   "id": "s0170_05c30",
@@ -4322,7 +4322,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "テメエが三男神の長兄とやらか",
-  "en": ""
+  "en": "So you're the eldest of the Three Male Gods{n}or whatever."
  },
  {
   "id": "s0170_05c50",
@@ -4346,7 +4346,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "いかにも。俺の名はテウターテス。{n}貴様らの生涯で最後の記憶に刻まれる{n}名だ――その殺害者としてな",
-  "en": ""
+  "en": "Indeed. My name is Teutates. The name that{n}will be carved into your last memory on this{n}earth--as your killer."
  },
  {
   "id": "s0170_05cb0",
@@ -4370,7 +4370,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "水底に沈め、そのもがき苦しむ様を{n}堪能した後で魂を刈り取ってくれる！",
-  "en": ""
+  "en": "I shall sink you in the deep, savor your{n}thrashing agony, then reap your souls!"
  },
  {
   "id": "s0170_05cf8",
@@ -4394,7 +4394,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "ぬう……。三姉妹めが敗走の恥辱を{n}減ずるべく過大に評したと思っていた{n}が、これほどとは……ここで決着を{n}つけるのは危険に過ぎる",
-  "en": ""
+  "en": "Ngh... I thought those three sisters inflated{n}your strength to lessen the shame of their{n}rout, but to think you were this... Settling it{n}here is too dangerous."
  },
  {
   "id": "s0170_05d78",
@@ -4418,7 +4418,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "さすがと言っておこう。Ｄ・Ｓよ！{n}だが、貴様は決して樹海を出ることは{n}できぬ！　もう二度と遭うこともある{n}まいよ。迷い死ね！　ハハハ――",
-  "en": ""
+  "en": "I will grant you that much, D.S.! But you{n}shall never leave the sea of trees! We shall{n}never meet again. Go on, get lost and die!{n}Hah hah hah--"
  },
  {
   "id": "s0170_05e00",
@@ -4442,7 +4442,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "水の妖魔テウターテスは床に溜まった{n}厚みのない水に没し、次いでその水が{n}石床の継ぎ目に染み込んで消えた。",
-  "en": ""
+  "en": "Teutates, the demon of water, sank into{n}the shallow water pooled on the floor,{n}and then that water soaked into the{n}joints of the stone floor and was gone."
  },
  {
   "id": "s0170_05e68",
@@ -4466,7 +4466,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "だが、傷を受けて水への親和力が弱ま{n}っていたのか、妖魔とともに液状化{n}しなかった物体がそこに残されていた。",
-  "en": ""
+  "en": "But perhaps his wound had weakened his{n}bond with water, for an object that had{n}not turned liquid with the demon was left{n}behind."
  },
  {
   "id": "s0170_05ed4",
@@ -4490,7 +4490,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "暴凶の三男神か――今ので仕留め{n}きれねえとは厄介だぜ……",
-  "en": ""
+  "en": "The savage Three Male Gods, huh-- Damn{n}pain in the ass if that wasn't enough to{n}finish him..."
  },
  {
   "id": "s0170_05f10",
@@ -4514,7 +4514,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "鍵を落としていきやがった……ただの{n}鍵じゃねーな。開錠のための魔力が{n}宿ってやがら",
-  "en": ""
+  "en": "He dropped a key... And no ordinary key. It's{n}got unlocking magic in it."
  },
  {
   "id": "s0170_05f64",
@@ -4538,7 +4538,7 @@
    "カイ"
   ],
   "jp": "……俺とシーンが落ち合う予定だった{n}高台のそばに、森の外周へと続く門が{n}あったな。そこの鍵ではないのか？",
-  "en": ""
+  "en": "...Near the high ground where Sean and I{n}were to meet, there was a gate leading out{n}to the forest's outer edge. Isn't it the key{n}to that?"
  },
  {
   "id": "s0170_05fcc",
@@ -4562,7 +4562,7 @@
    "ラン"
   ],
   "jp": "聖域の森と呼ばれているところだ。{n}俺も入ることを禁じられていたため、{n}何があるのかは判らんが――",
-  "en": ""
+  "en": "It's the place called the Sanctuary Forest. I{n}was forbidden to enter too, so I don't know{n}what's in there--"
  },
  {
   "id": "s0170_0602c",
@@ -4586,7 +4586,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "ますます匂うじゃねえか。だが、{n}オメエの持ってた鍵でまずは龍樹に{n}行ってみようぜ",
-  "en": ""
+  "en": "Smells better and better. But first let's use{n}the key you had and go check out the{n}Dragon Tree."
  },
  {
   "id": "s0170_0607c",
@@ -4610,7 +4610,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "その可能性が高いな。だが、そっちに{n}向かう前に馬頭石像の森を片づけねえ{n}とな。ランのことがあるしよ",
-  "en": ""
+  "en": "Good chance of that. But before we head{n}over, we gotta deal with the Horsehead{n}Statue Woods. There's Ran to think of."
  },
  {
   "id": "s0170_060e0",
@@ -4634,7 +4634,7 @@
    "シーン"
   ],
   "jp": "ありがとう……Ｄ・Ｓ",
-  "en": ""
+  "en": "Thank you... D.S."
  },
  {
   "id": "s0170_060f8",
@@ -4658,7 +4658,7 @@
    "カイ"
   ],
   "jp": "ラン……思い出してくれ、俺たちの{n}絆を――",
-  "en": ""
+  "en": "Ran... Please remember the bond between{n}us--"
  },
  {
   "id": "s0170_06430",
@@ -4682,7 +4682,7 @@
    ""
   ],
   "jp": "その宝箱はすでに開けられた形跡が{n}あり、中には一枚の紙切れが入って{n}いた。顎の割れた男の似顔絵が描かれ、{n}メッセージが添えられている。",
-  "en": ""
+  "en": "This chest had clearly been opened{n}already, and inside was a slip of paper. On{n}it was drawn a portrait of a man with a{n}cleft chin, along with a message."
  },
  {
   "id": "s0170_064b8",
@@ -4706,7 +4706,7 @@
    ""
   ],
   "jp": "ここのお宝は頂いたわよーん。また{n}会いましょうねー。ちゃお",
-  "en": ""
+  "en": "I've taken the treasure here, hon. See{n}you again. Ciao!"
  },
  {
   "id": "s0170_064f4",
@@ -4730,7 +4730,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "ロスの奴に先を越されちまったか。{n}すばしっこいヤロウだぜ",
-  "en": ""
+  "en": "Ros beat us to it. Slippery little bastard."
  },
  {
   "id": "s0170_06530",
@@ -4754,6 +4754,6 @@
    "ヴァイ"
   ],
   "jp": "何が“ちゃお”だか……それにしても、{n}どんなものが入ってたのかな？",
-  "en": ""
+  "en": "What's with \"ciao\"... Anyway, I wonder what{n}was in it?"
  }
 ]

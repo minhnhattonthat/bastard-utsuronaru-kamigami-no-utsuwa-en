@@ -21,7 +21,7 @@
    ""
   ],
   "jp": "この一画は、葉の落ちた木ばかりで{n}構築された森であった。枯死している{n}としか見えないが、どの樹木も辛うじ{n}て生きている。葉のない枝を天に伸ば{n}している様は、生命の残り火を求めて{n}虚空を掻く亡者の指を彷彿とさせる。",
-  "en": ""
+  "en": "This corner was a forest made up wholly{n}of bare trees. They looked as dead as{n}could be, yet every one was barely alive.{n}The sight of their leafless branches{n}reaching for the heavens recalled the{n}fingers of the dead, clawing at the air for{n}the last embers of life."
  },
  {
   "id": "s0174_00980",
@@ -45,7 +45,7 @@
    ""
   ],
   "jp": "樹海の北端――竜船が漂着したとば口{n}から見てちょうど森林地帯の反対側に{n}続く道は、密生する巨大な荊の壁に{n}阻まれていた。",
-  "en": ""
+  "en": "At the northern end of the sea of trees,{n}the road leading to the far side of the{n}forest from the edge where the Dragon{n}Ship had drifted ashore was blocked by{n}the Wall of Thorns, a dense growth of{n}giant briars."
  },
  {
   "id": "s0174_009f8",
@@ -69,7 +69,7 @@
    ""
   ],
   "jp": "枯れ木の森で、その荊だけが艶やかに、{n}樹液の代わりに血液が流れているかに{n}赤黒く精気を放っていた。鋭い棘が{n}生き物の血を求めるが如く突き出し、{n}登ることも潜ることもできぬほど高く{n}厚く繁茂している。荊の壁がこの森の{n}養分を根こそぎ吸い上げているようで{n}あった。",
-  "en": ""
+  "en": "In a forest of dead trees those thorns{n}alone were lustrous, and gave off a dark{n}red vigor, as if blood flowed in them{n}instead of sap. Sharp spines jutted out as{n}if craving the blood of the living, growing{n}too high and too thick to climb or crawl{n}through. The Wall of Thorns seemed to be{n}sucking up all the nourishment in this{page}forest."
  },
  {
   "id": "s0174_00af8",
@@ -93,7 +93,7 @@
    ""
   ],
   "jp": "その壁の向こうに、巨大な城が黒々と{n}聳えているのが見えた。",
-  "en": ""
+  "en": "Beyond that wall a huge castle towered{n}darkly."
  },
  {
   "id": "s0174_00b34",
@@ -117,7 +117,7 @@
    ""
   ],
   "jp": "城壁は無数の蔓や荊に覆われ、まるで{n}城それ自体が樹木でできているように{n}見える。尖塔が高くそそり立ち、空に{n}黒々と、不吉な翳りを落としていた。",
-  "en": ""
+  "en": "Its walls were covered in countless vines{n}and thorns, as if the castle itself were{n}made of trees. Spires rose high, casting a{n}dark and ominous shadow across the{n}sky."
  },
  {
   "id": "s0174_00bc4",
@@ -141,7 +141,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "いかにも、森の魔性が棲みついて{n}いますってな城だな",
-  "en": ""
+  "en": "Sure looks like the kind of castle where the{n}forest's demons would hole up."
  },
  {
   "id": "s0174_00bf8",
@@ -165,7 +165,7 @@
    "ジオン"
   ],
   "jp": "この荊の壁……通り抜けることは{n}できそうにないのか――",
-  "en": ""
+  "en": "This Wall of Thorns... There is no passing{n}through it, then--"
  },
  {
   "id": "s0174_00c30",
@@ -189,7 +189,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "樫の牢獄と一緒で火も刃も通じねえ。{n}いや……もっと強力な呪力で守られて{n}やがる",
-  "en": ""
+  "en": "Same as the oak prison, fire and blades{n}don't work. No... It's guarded by an even{n}stronger curse."
  },
  {
   "id": "s0174_00c80",
@@ -213,7 +213,7 @@
    "ヴァイ"
   ],
   "jp": "だとすりゃ、あの女も向こうの城に{n}隠れてるんじゃねえのか？",
-  "en": ""
+  "en": "In that case, ain't that woman hiding in the{n}castle on the other side?"
  },
  {
   "id": "s0174_00cbc",
@@ -237,7 +237,7 @@
    "ジオン"
   ],
   "jp": "く……",
-  "en": ""
+  "en": "Ngh..."
  },
  {
   "id": "s0174_00cc4",
@@ -261,7 +261,7 @@
    "ジオン"
   ],
   "jp": "その時、乾いた森に不吉な木霊を響か{n}せる、無数のカラスの鳴き声がした。",
-  "en": ""
+  "en": "Just then the cries of countless crows{n}rang out, sending ominous echoes through{n}the dry forest."
  },
  {
   "id": "s0174_00d0c",
@@ -285,7 +285,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "さっきのカラスどもが騒いでいやがる{n}……気になるな。戻ってみるか",
-  "en": ""
+  "en": "Those crows from before are making a{n}racket... That bugs me. Let's go back and{n}see."
  },
  {
   "id": "s0174_00d50",
@@ -309,7 +309,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "どこかでカラスが騒いでいやがる……{n}気になるな",
-  "en": ""
+  "en": "Crows are making a racket somewhere... That{n}bugs me."
  },
  {
   "id": "s0174_00d80",
@@ -333,7 +333,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "Ｄ・Ｓの予想通り、荊の壁は翼龍の{n}螺旋軌道に直撃され、ズタズタに引き{n}裂かれたうえに焼き尽くされていた。{page}何者をも拒む死の壁も、解放された龍{n}のエネルギーの前には無力な植物の塊{n}に過ぎなかった。",
-  "en": ""
+  "en": "Just as D.S. had guessed, the wyvern's{n}spiral path had struck the Wall of Thorns{n}head-on, ripping it to shreds and burning{n}it away.{page}The wall of death that had refused all{n}comers was, before the freed dragon's{n}energy, no more than a helpless mass of{n}plants."
  },
  {
   "id": "s0174_00e40",
@@ -357,7 +357,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "翼龍はそこから樹棺城を掠め、遥か{n}北へと飛び去ったようであった。",
-  "en": ""
+  "en": "From there the wyvern seemed to have{n}grazed the Tree-Coffin Castle and flown{n}far off to the north."
  },
  {
   "id": "s0174_00e84",
@@ -381,7 +381,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "龍樹の直上に輝いたのは、果たして{n}陽光であったのか――あれから何刻と{n}過ぎてはおらぬはずだったが、今や{n}周囲は薄暗く翳り、夜の帳が静かに{n}舞い降りようとしていた。",
-  "en": ""
+  "en": "Had that really been sunlight shining right{n}above the Dragon Tree? Not many hours{n}could have passed since then, yet now{n}the surroundings were dim and shadowed,{n}and the curtain of night was quietly{n}falling."
  },
  {
   "id": "s0174_00f24",
@@ -405,7 +405,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "森の彼方の空が燃え上がるかに、夕陽{n}の残滓を浴びて血の色に染まる。否、{n}地軸がずれておらぬ限り、北の空が{n}かように赤く焼けることがあろうか。{n}この夕景ですら、太陽がもたらした{n}ものではないのかも知れなかった。",
-  "en": ""
+  "en": "The sky beyond the forest, as if ablaze,{n}was dyed the color of blood in the dregs{n}of the setting sun. No: unless the earth's{n}axis had shifted, how could the northern{n}sky burn so red? Perhaps even this sunset{n}was not the sun's doing."
  },
  {
   "id": "s0174_00ff4",
@@ -429,7 +429,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "消えゆく血の赤を背負い、蔦に荊に{n}覆われた城は、ねじくれたシルエット{n}を黒く空に突き立てている。{page}ところどころの窓から幽かな明かりが{n}漏れ、その中に蠢くものたちの気配を{n}漂わせていた。",
-  "en": ""
+  "en": "With the fading blood-red at its back, the{n}castle, covered in ivy and thorns, thrust{n}its twisted black silhouette into the sky.{page}A faint light leaked from a window here{n}and there, hinting at the things that{n}writhed within."
  },
  {
   "id": "s0174_010ac",
@@ -453,7 +453,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "どうやら妖魔どもが手ぐすね引いて、{n}歓迎の準備を整えてやがるようだ",
-  "en": ""
+  "en": "Looks like the demons are all set and waiting{n}to give us a real warm welcome."
  },
  {
   "id": "s0174_010f0",
@@ -477,7 +477,7 @@
    "ヴァイ"
   ],
   "jp": "それと、魔雷妃の本体もな",
-  "en": ""
+  "en": "And so's the Demon Thunder Queen's real{n}body."
  },
  {
   "id": "s0174_0110c",
@@ -501,7 +501,7 @@
    "カイ"
   ],
   "jp": "魔雷妃……",
-  "en": ""
+  "en": "The Demon Thunder Queen..."
  },
  {
   "id": "s0174_01118",
@@ -525,7 +525,7 @@
    "シーン"
   ],
   "jp": "何だか、怖い……確かめるのが……",
-  "en": ""
+  "en": "Somehow I'm afraid... To find out..."
  },
  {
   "id": "s0174_0113c",
@@ -549,7 +549,7 @@
    "ラン"
   ],
   "jp": "……何があろうと、もはや俺は{n}惑うまい。決して――",
-  "en": ""
+  "en": "...Whatever comes, I shall waver no more.{n}Never--"
  },
  {
   "id": "s0174_01170",
@@ -597,7 +597,7 @@
    ""
   ],
   "jp": "周囲の枯れ木には、数え切れぬほどの{n}カラスが羽を休め、その赤みがかった{n}黒い瞳をＤ・Ｓたちに向けていた。{page}鳴き声ひとつ立てず、身動きひとつ{n}せずに一行を見つめるその様子には、{n}どこかしら邪悪な意志が感じられる。",
-  "en": ""
+  "en": "On the dead trees around them rested{n}countless crows, turning their reddish{n}black eyes on D.S. and the others.{page}Watching the party without one cry,{n}without one movement, they gave off{n}some sense of an evil will."
  },
  {
   "id": "s0174_014c8",
@@ -621,7 +621,7 @@
    "ヴァイ"
   ],
   "jp": "薄っ気味悪いカラスどもだな",
-  "en": ""
+  "en": "Creepy damn crows."
  },
  {
   "id": "s0174_014e4",
@@ -645,7 +645,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "全くだぜ。奇妙に統制されてやがる",
-  "en": ""
+  "en": "No kidding. They're weirdly disciplined."
  },
  {
   "id": "s0174_01508",
@@ -669,7 +669,7 @@
    "ボル"
   ],
   "jp": "嫌な目つきでござる。一斉に襲いかか{n}られては厄介でござるな……",
-  "en": ""
+  "en": "Unpleasant eyes, forsooth. It would be a{n}nuisance, should they attack all at once..."
  },
  {
   "id": "s0174_01548",
@@ -693,7 +693,7 @@
    "ヨルグ"
   ],
   "jp": "気になるが……ここは後回しにしよう、{n}Ｄ・Ｓ",
-  "en": ""
+  "en": "It troubles me... but let us leave this for{n}later, D.S."
  },
  {
   "id": "s0174_01578",
@@ -717,7 +717,7 @@
    "ヨルグ"
   ],
   "jp": "枯れ木に羽根を休めていたカラスたち{n}が、一斉に飛び立って羽音を響かせた。{n}脂じみた黒い羽根が吹雪のように舞い、{n}けたたましい鳴き声が耳を圧する。",
-  "en": ""
+  "en": "The crows resting on the dead trees took{n}flight all at once in a roar of wings.{n}Greasy black feathers danced like a{n}blizzard, and their shrill cries beat at the{n}ears."
  },
  {
   "id": "s0174_01608",
@@ -741,7 +741,7 @@
    "ヨルグ"
   ],
   "jp": "それが止んだ時、目の前にひとりの{n}女が立っていた。",
-  "en": ""
+  "en": "When it stopped, a single woman was{n}standing before them."
  },
  {
   "id": "s0174_0163c",
@@ -765,7 +765,7 @@
    "ヨルグ"
   ],
   "jp": "灰色の鎧を着込み、肩に一際大きな{n}カラスを乗せた女は、間違いなく{n}樫の牢獄にシェンを閉じ込めた、あの{n}ハーフエルフの娘だった。しかし、{n}あれから数年――娘がエルフの歩みで{n}齢を重ねるなら数十年が過ぎ去ったと{n}考えるならであった。",
-  "en": ""
+  "en": "Clad in gray armor, an especially large{n}crow on her shoulder, the woman was{n}surely the half-elf girl who had locked{n}Schen in the oak prison. Yet only if{n}several years had passed since then--or{n}several decades, if the girl aged at an{n}elf's pace."
  },
  {
   "id": "s0174_0171c",
@@ -789,7 +789,7 @@
    "ヨルグ"
   ],
   "jp": "シェンを想って焦燥に駆られるジオン{n}には、この明らかな年齢の差も目に{n}映らないようであった。",
-  "en": ""
+  "en": "To Zion, driven by worry for Schen, even{n}this plain difference in age seemed{n}invisible."
  },
  {
   "id": "s0174_01778",
@@ -813,7 +813,7 @@
    "ジオン"
   ],
   "jp": "貴様！　早くシェンを解放しろ！{n}さもなくば……この黒夜叉の錆にして{n}くれる！",
-  "en": ""
+  "en": "You! Release Schen at once! Or else... I shall{n}make you rust on this Black Yaksha!"
  },
  {
   "id": "s0174_017c4",
@@ -837,7 +837,7 @@
    "ジオン"
   ],
   "jp": "漆黒の刃を抜き払い、怒気による震え{n}を懸命に抑制しながらジオンは吼えた。{n}だが、この恫喝にわずかでも心を動か{n}された風もなく、ハーフエルフの娘は{n}軽蔑の色を唇の端に浮かべた。",
-  "en": ""
+  "en": "Drawing the jet-black blade, Zion roared,{n}struggling to hold down a quaking rage.{n}But the half-elf girl seemed unmoved by{n}the threat in the least, and a hint of{n}scorn came to the corner of her lips."
  },
  {
   "id": "s0174_01870",
@@ -861,7 +861,7 @@
    "ネイ"
   ],
   "jp": "フフフ……あの牢獄如きが破れない{n}のか。呆れたものだ",
-  "en": ""
+  "en": "Heh heh heh... You cannot even break a{n}prison like that one. How pathetic."
  },
  {
   "id": "s0174_018a8",
@@ -885,7 +885,7 @@
    "ネイ"
   ],
   "jp": "ならばなおさら、我が樹棺城への道を{n}守る荊の壁は破れぬであろうな。{n}わざわざ様子を見に来るまでも{n}なかったわ",
-  "en": ""
+  "en": "All the less, then, will you break the Wall of{n}Thorns that guards the way to my{n}Tree-Coffin Castle. I need not have come to{n}take a look."
  },
  {
   "id": "s0174_01914",
@@ -909,7 +909,7 @@
    "ジオン"
   ],
   "jp": "シェンを返せ！",
-  "en": ""
+  "en": "Give Schen back!"
  },
  {
   "id": "s0174_01924",
@@ -933,7 +933,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "待てジオン！　どうやらこの女は、{n}シェンをさらった小娘とは違うようだ",
-  "en": ""
+  "en": "Hold it, Zion! Looks like this woman ain't the{n}little girl who snatched Schen."
  },
  {
   "id": "s0174_0196c",
@@ -957,7 +957,7 @@
    "ジオン"
   ],
   "jp": "何？",
-  "en": ""
+  "en": "What?"
  },
  {
   "id": "s0174_01974",
@@ -981,7 +981,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "同じ女だが、明らかに小娘と気配が{n}違うぜ……オマエ、俺を知ってるな？",
-  "en": ""
+  "en": "Same woman, but she's got a whole{n}different feel from the little girl... You know{n}me, don't you?"
  },
  {
   "id": "s0174_019bc",
@@ -1005,7 +1005,7 @@
    "ネイ"
   ],
   "jp": "……お前は……誰だ？",
-  "en": ""
+  "en": "...You are... who?"
  },
  {
   "id": "s0174_019d4",
@@ -1029,7 +1029,7 @@
    "ネイ"
   ],
   "jp": "あの少女と同じように、娘の瞳に怪訝{n}な色が浮かんだ。Ｄ・Ｓを見つめ、{n}自分の記憶を揺り起こそうとしている、{n}そんな色の光であった。Ｄ・Ｓの眼光{n}が娘の視線と交錯し、そして弾かれた{n}ように娘が目を逸らした。",
-  "en": ""
+  "en": "Just like the girl before, a dubious hint{n}came to her eyes. It was a light that{n}gazed at D.S., trying to shake her own{n}memory awake. D.S.'s gaze crossed hers,{n}and she looked away as if flung back."
  },
  {
   "id": "s0174_01aa0",
@@ -1053,7 +1053,7 @@
    "ネイ"
   ],
   "jp": "その瞳……その目で私を見るな！{n}お前に見つめられると、私は……",
-  "en": ""
+  "en": "Those eyes... Do not look at me with those{n}eyes! When you look at me, I..."
  },
  {
   "id": "s0174_01ae0",
@@ -1077,7 +1077,7 @@
    "ネイ"
   ],
   "jp": "娘が平静さを失った瞬間、肩に留まっ{n}ていたカラスの絶叫が響き渡った。{page}娘の輪郭がぼやけ、溶け崩れたカラス{n}がその身体を包み込むように融合する。{n}消えた少女と同様、その娘も幻影――{n}あるいは思念体と呼ぶべき存在で{n}あった。それが今、別の何かに姿を{n}変えようとしている。",
-  "en": ""
+  "en": "The instant she lost her calm, the crow{n}on her shoulder screamed.{page}The girl's outline blurred, and the crow{n}melted and merged with her as if to{n}enfold her body. Like the girl who had{n}vanished, she too was a phantom--or{n}what might be called a thought-form. And{n}now it was changing into something{n}else."
  },
  {
   "id": "s0174_01be8",
@@ -1101,7 +1101,7 @@
    "ネイ"
   ],
   "jp": "く……何と不安定な。{n}統制すらままならぬわ",
-  "en": ""
+  "en": "Ngh... So unstable. I can barely keep{n}control."
  },
  {
   "id": "s0174_01c14",
@@ -1125,7 +1125,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "テメエ、今の女に憑いてやがるな！{n}それがテメエの正体か！",
-  "en": ""
+  "en": "You're possessing that woman just now, you{n}bitch! So that's what you really are!"
  },
  {
   "id": "s0174_01c50",
@@ -1149,7 +1149,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "思念体が変じたのは、鴉を象った鎧を{n}纏った女の姿だった。先刻までの娘で{n}はなく、美しいがより猛々しい容貌に{n}変じている。戦の女神――そう形容{n}するのが最も相応しい、人間的な{n}感情の削ぎ落とされた貌であった。",
-  "en": ""
+  "en": "The thought-form changed into a woman{n}in armor shaped like a crow. She was not{n}the girl of a moment ago, but had taken{n}on features beautiful yet far fiercer. A{n}goddess of war--that was the fittest way{n}to describe that face, with all human{n}feeling pared away."
  },
  {
   "id": "s0174_01d1c",
@@ -1173,7 +1173,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "正体？　ハハハ、笑わせてくれる。{n}まあ良い。姿を晒すことになった以上、{n}この王鴉が直々に貴様らの相手をして{n}やろうではないか――",
-  "en": ""
+  "en": "What I really am? Hah hah hah, you make me{n}laugh. No matter. Now that I am exposed,{n}this King Raven shall deal with you{n}personally--"
  },
  {
   "id": "s0174_01d9c",
@@ -1197,7 +1197,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "それは恐慌をもたらす叫びを上げ、{n}襲いかかってきた。",
-  "en": ""
+  "en": "It let out a cry that brought panic, and{n}attacked."
  },
  {
   "id": "s0174_01dd4",
@@ -1221,7 +1221,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "くくっ……この不完全な身体では{n}……",
-  "en": ""
+  "en": "Ngh... In this imperfect body..."
  },
  {
   "id": "s0174_01dfc",
@@ -1245,7 +1245,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "負け惜しみかよ！　ザマァねえぜ、{n}アーハッハッハッ！",
-  "en": ""
+  "en": "Sore loser, huh! Serves you right, ah ha ha{n}ha!"
  },
  {
   "id": "s0174_01e34",
@@ -1269,7 +1269,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "おのれ……結界の維持ができぬ……{n}樹海中心部への門が開いてしまう……",
-  "en": ""
+  "en": "Curse you... I cannot hold the barrier... The{n}gate to the heart of the sea of trees will{n}open..."
  },
  {
   "id": "s0174_01e7c",
@@ -1293,7 +1293,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "――貴様ら、この屈辱は忘れぬぞ。{n}本来の身体であれば、その五体を引き{n}裂いて啖うてくれるものを……",
-  "en": ""
+  "en": "--I shall not forget this humiliation. In my{n}true body, I would tear you limb from limb{n}and devour you..."
  },
  {
   "id": "s0174_01ee0",
@@ -1317,7 +1317,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "お城に撤退かぁ？　ぎゃはははは！",
-  "en": ""
+  "en": "Running back to your castle? Gyah ha ha{n}ha!"
  },
  {
   "id": "s0174_01f04",
@@ -1341,7 +1341,7 @@
    "ヴァイ"
   ],
   "jp": "あんまり刺激すんなって",
-  "en": ""
+  "en": "Quit pissing her off."
  },
  {
   "id": "s0174_01f1c",
@@ -1365,7 +1365,7 @@
    "ヴァイ"
   ],
   "jp": "……どのみち貴様らはこの樹海で{n}野垂れ死ぬのだ。我が妹に囚われた{n}男がなぶり殺されるのとどちらが先か{n}――鴉どもの報せを楽しみに待とうぞ",
-  "en": ""
+  "en": "...You will all die like dogs in this sea of trees{n}either way. Which will come first, that, or{n}my sister torturing to death the man she{n}holds captive-- I shall look forward to{page}the crows' news."
  },
  {
   "id": "s0174_01fa4",
@@ -1389,7 +1389,7 @@
    "ジオン"
   ],
   "jp": "ぬうっ！　待てっ！",
-  "en": ""
+  "en": "Ngh! Wait!"
  },
  {
   "id": "s0174_01fb8",
@@ -1413,7 +1413,7 @@
    "ジオン"
   ],
   "jp": "王鴉と名乗る女怪がマントを翻すと、{n}女は一瞬に巨大な鴉の姿に変じ、荊の{n}壁を越えて城へと飛び去っていった。",
-  "en": ""
+  "en": "The fiend called King Raven swept her{n}cloak, and in an instant turned into a{n}giant raven and flew off over the Wall of{n}Thorns toward the castle."
  },
  {
   "id": "s0174_02024",
@@ -1437,7 +1437,7 @@
    "ジオン"
   ],
   "jp": "くそっ……どうしたらシェンを{n}救い出せるのだ！",
-  "en": ""
+  "en": "Damn it... How am I to save Schen!"
  },
  {
   "id": "s0174_02054",
@@ -1461,7 +1461,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "樹海の中心部への扉は、奴が魔力を{n}張って閉じてたようだ。とりあえず{n}そっちを探ってみるしかねえ",
-  "en": ""
+  "en": "Looks like her magic was keeping the door to{n}the heart of the sea of trees shut. For now,{n}that's the only place left to look."
  },
  {
   "id": "s0174_020b4",
@@ -1485,7 +1485,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "……それにしても、あの思念体の{n}ハーフエルフ……俺を見ると様子が{n}おかしくなるな。まさか俺が――{n}超絶美形様だからだろーか？",
-  "en": ""
+  "en": "...Still, that half-elf thought-form... She goes{n}all funny when she sees me. Could it{n}be--because I'm so super-gorgeous?"
  },
  {
   "id": "s0174_02130",
@@ -1509,7 +1509,7 @@
    "ヴァイ"
   ],
   "jp": "深刻なトコでボケをありがとー！",
-  "en": ""
+  "en": "Thanks for the gag at such a serious{n}moment!"
  },
  {
   "id": "s0174_025f8",
@@ -1535,7 +1535,7 @@
    "ラン"
   ],
   "jp": "夜になるとこの森は危険だ。一刻も{n}早く樹棺城を目指そう",
-  "en": ""
+  "en": "This forest is dangerous at night. Let us{n}make for the Tree-Coffin Castle at once."
  },
  {
   "id": "s0174_02684",
@@ -1559,7 +1559,7 @@
    ""
   ],
   "jp": "一行が辿り着いた時、枯れ木の森は{n}夕陽に赤く染め上げられていた。風は{n}なく、乾ききった枝々は、血の色に{n}似た空で凍てついたかに動かない。",
-  "en": ""
+  "en": "When the party arrived, the forest of{n}dead trees was stained red by the setting{n}sun. There was no wind, and the bone-dry{n}branches stood motionless, as if frozen in{n}a blood-colored sky."
  },
  {
   "id": "s0174_0270c",
@@ -1583,7 +1583,7 @@
    "ヨシュア"
   ],
   "jp": "陽が傾いてきたな",
-  "en": ""
+  "en": "The sun has begun to sink."
  },
  {
   "id": "s0174_02720",
@@ -1607,6 +1607,6 @@
    "Ｄ・Ｓ"
   ],
   "jp": "日が暮れると厄介だ。急ぐぜ――",
-  "en": ""
+  "en": "Things get nasty once it's dark. Let's{n}hurry--"
  }
 ]

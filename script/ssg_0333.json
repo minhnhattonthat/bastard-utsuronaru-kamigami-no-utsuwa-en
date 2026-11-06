@@ -429,7 +429,7 @@
    ""
   ],
   "jp": "その通路の中央に、大きな人影が{n}立ちはだかっていた。",
-  "en": ""
+  "en": "In the middle of the passage a large{n}figure stood barring the way."
  },
  {
   "id": "s0333_010cc",
@@ -453,7 +453,7 @@
    ""
   ],
   "jp": "巨漢であった。だが、それ以上に奇異{n}な風貌がまず人目を引く。逞しい肉体{n}に不似合いなトーガを身につけ、様々{n}なアクセサリーで全身を飾っている。{n}その貌には厚く化粧が施され、素顔が{n}どのようであるのかすら判断できぬ。",
-  "en": ""
+  "en": "He was a giant of a man. But more than{n}that, his strange looks caught the eye{n}first. On his powerful body he wore a toga{n}that did not suit it, and adorned himself{n}all over with assorted accessories. His{n}face was so thickly made up that one{n}could not tell what it was like beneath."
  },
  {
   "id": "s0333_011a0",
@@ -477,7 +477,7 @@
    ""
   ],
   "jp": "赤く紅を塗った唇が軽く吊り上がり、{n}男は想像よりも高い声で話しだした。",
-  "en": ""
+  "en": "Rouged red lips curled up slightly, and the{n}man began to speak in a higher voice than{n}one might imagine."
  },
  {
   "id": "s0333_011e8",
@@ -501,7 +501,7 @@
    "イダ"
   ],
   "jp": "おやおや。野卑な闖入者にしては、{n}なかなかに美しい方もいらっしゃる",
-  "en": ""
+  "en": "Well, well. For coarse intruders, some among{n}you are quite beautiful."
  },
  {
   "id": "s0333_0122c",
@@ -525,7 +525,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "テメエは？",
-  "en": ""
+  "en": "Who the hell are you?"
  },
  {
   "id": "s0333_01238",
@@ -549,7 +549,7 @@
    "イダ"
   ],
   "jp": "これは失礼。私はイダ・ディースナ、{n}美しきものの奴隷と自ら任ずる者です。{n}今はこの神殿の神に仕え、その美を{n}侵す者を追い払う責務を負う身――",
-  "en": ""
+  "en": "Pardon my rudeness. I am Ida Deesna, who{n}has named himself a slave of beautiful{n}things. I now serve the god of this temple,{n}charged with driving out those who would{page}profane its beauty--"
  },
  {
   "id": "s0333_012c4",
@@ -573,7 +573,7 @@
    "イダ"
   ],
   "jp": "貴方たちに個人的な敵意は抱いて{n}いませんが、これも私の役目――{n}悪く思わず、黄泉路へと旅立って{n}戴きましょうか",
-  "en": ""
+  "en": "I bear you no personal enmity, but this is my{n}duty. Think nothing ill of it, and kindly set{n}off on the road to the underworld."
  },
  {
   "id": "s0333_01334",
@@ -597,7 +597,7 @@
    "イダ"
   ],
   "jp": "イダは腰に下げた二つの水晶球を手に、{n}短い詠唱とともに印を結んだ。どこ{n}からか獣の咆哮が響き、床に生じた{n}法印から何かが飛び出してくる。",
-  "en": ""
+  "en": "Ida took the two crystal balls hanging at{n}his waist and, with a short chant, wove a{n}sign. A beast's roar rang out from{n}somewhere, and something burst from a{n}seal that appeared on the floor."
  },
  {
   "id": "s0333_013bc",
@@ -621,7 +621,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "チッ……めんどくせえ。いーだろう、{n}テメエに本当の美ってヤツを教えて{n}やらあ！",
-  "en": ""
+  "en": "Tch... What a pain. Fine, I'll teach you what{n}real beauty is, punk!"
  },
  {
   "id": "s0333_0140c",
@@ -861,7 +861,7 @@
    "イダ"
   ],
   "jp": "おおっ!?　うっ、美しい――っ！",
-  "en": ""
+  "en": "Ohh!? B-Beautiful!"
  },
  {
   "id": "s0333_0171c",
@@ -885,7 +885,7 @@
    "イダ"
   ],
   "jp": "Ｄ・Ｓたちの見事な連携に心を打たれ{n}たのか、イダはその場にへたり込んで{n}はらはらと涙を流した。",
-  "en": ""
+  "en": "Perhaps struck to the heart by the{n}splendid teamwork of D.S. and his party,{n}Ida sank to the floor on the spot and{n}wept freely."
  },
  {
   "id": "s0333_0177c",
@@ -909,7 +909,7 @@
    "イダ"
   ],
   "jp": "このように美しい闘いを見せられては、{n}私は自らに課した戒律に則って、{n}貴方たちの軍門に下る他ありません。{n}私は常に、最も美しき者の従者――",
-  "en": ""
+  "en": "Shown so beautiful a battle, I can only{n}follow the precepts I have set myself and{n}yield to you. I am ever the servant of the{n}most beautiful--"
  },
  {
   "id": "s0333_01808",
@@ -933,7 +933,7 @@
    "イダ"
   ],
   "jp": "どうやらイダは、この世界について{n}何も知らないようであった。この神殿{n}の神に魅せられ、唯一残る記憶――{n}美しき者に従えとの声に導かれるまま、{n}ここで守護者を任じていたという。",
-  "en": ""
+  "en": "It seemed Ida knew nothing about this{n}world. Enchanted by the god of this{n}temple, he said, and led by a voice from{n}the one memory he had left--\"follow the{n}beautiful\"--he had taken the post of{n}guardian here."
  },
  {
   "id": "s0333_018b4",

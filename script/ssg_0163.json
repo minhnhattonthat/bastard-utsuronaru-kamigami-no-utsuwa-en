@@ -21,7 +21,7 @@
    ""
   ],
   "jp": "森の中に、神秘的な色の水をたたえた{n}湖があった。樹海の中心を貫く川から{n}潤沢な水量を注ぎ込まれているらしく、{n}鏡のように細波ひとつない湖面からは、{n}水深がどれだけあるのかを見通すこと{n}はできなかった。",
-  "en": ""
+  "en": "In the forest lay a lake full of water of a{n}mysterious hue. It seemed to be fed{n}abundantly by the river running through{n}the heart of the sea of trees, and from{n}its mirror-still surface, without a single{n}ripple, there was no telling how deep it{n}was."
  },
  {
   "id": "s0163_00970",
@@ -45,7 +45,7 @@
    ""
   ],
   "jp": "湖の半ばで途切れた橋の突端に、湖面{n}に立ち上る霧を纏ってイングヴェイが{n}佇んでいた。謎めいた湖水を見つめる{n}彼の表情は沈み、恐らくはその記憶に{n}かかった霧の向こうにいる、主の安否{n}を気遣って苦悩しているようであった。",
-  "en": ""
+  "en": "At the tip of a bridge broken off halfway{n}across the lake stood Yngwei, wrapped in{n}the mist rising from the water. His face{n}was sunk in gloom as he gazed at the{n}mysterious lake, and he seemed{n}tormented by fear for his lord, who was{n}perhaps beyond the mist that clouded his{n}memory."
  },
  {
   "id": "s0163_00a48",
@@ -69,7 +69,7 @@
    "シーラ"
   ],
   "jp": "イングヴェイ――",
-  "en": ""
+  "en": "Yngwei--"
  },
  {
   "id": "s0163_00a5c",
@@ -93,7 +93,7 @@
    "イングヴェイイングヴェイ・フォン・マルムステ"
   ],
   "jp": "む……ああ、また出会ってしまった{n}ようですね。シーラ姫",
-  "en": ""
+  "en": "Hm... Ah, it seems we have met again,{n}Princess Sheila."
  },
  {
   "id": "s0163_00a94",
@@ -117,7 +117,7 @@
    "イングヴェイイングヴェイ・フォン・マルムステ"
   ],
   "jp": "Ｄ・Ｓも……勝手を通す申し訳なさ{n}から、あなたが目覚める前に去らせて{n}もらったのだが――",
-  "en": ""
+  "en": "And D.S.... I am sorry to have gone my own{n}way, which is why I took my leave before{n}you woke--"
  },
  {
   "id": "s0163_00aec",
@@ -141,7 +141,7 @@
    "イングヴェイイングヴェイ・フォン・マルムステ"
   ],
   "jp": "どうやらイングヴェイも、樹海の要所{n}に設えられた堅固な門に、主の探索を{n}阻まれているようだった。囚われの{n}シェンに己の主の姿を投影したのか、{n}憔悴するジオンに同情した目を向ける。",
-  "en": ""
+  "en": "It seemed that Yngwei, too, had been{n}barred in the search for his lord by the{n}sturdy gates set at key points of the sea{n}of trees. Perhaps seeing his own lord in{n}the captive Schen, he turned a{n}sympathetic eye on the haggard Zion."
  },
  {
   "id": "s0163_00b9c",
@@ -165,7 +165,7 @@
    "イングヴェイイングヴェイ・フォン・マルムステ"
   ],
   "jp": "兄弟が引き裂かれるとは、何と気の{n}毒な……しかし、残念だがその幻術を{n}使う娘とやらには出会っていない",
-  "en": ""
+  "en": "To see brothers torn apart, how sad... But{n}alas, I have not met this girl who uses{n}illusions."
  },
  {
   "id": "s0163_00c00",
@@ -189,7 +189,7 @@
    "ジオン"
   ],
   "jp": "そうか……",
-  "en": ""
+  "en": "I see..."
  },
  {
   "id": "s0163_00c0c",
@@ -213,7 +213,7 @@
    "イングヴェイイングヴェイ・フォン・マルムステ"
   ],
   "jp": "心中察するぞ、ジオン――",
-  "en": ""
+  "en": "I understand how you feel, Zion--"
  },
  {
   "id": "s0163_00c28",
@@ -237,7 +237,7 @@
    "イングヴェイイングヴェイ・フォン・マルムステ"
   ],
   "jp": "私もずいぶんと焦っているようだ。{n}遠くから湖面に聳える古城を目にした{n}ように思ったのだが、ここにあるのは{n}霧ばかり……幻覚を見るようではな",
-  "en": ""
+  "en": "I too seem to be quite impatient. From afar{n}I thought I saw an ancient castle towering{n}over the lake, but here there is only mist...{n}When one begins seeing illusions..."
  },
  {
   "id": "s0163_00cb4",
@@ -261,7 +261,7 @@
    "イングヴェイイングヴェイ・フォン・マルムステ"
   ],
   "jp": "少し頭を冷やして、もう一度樹海を{n}探索してみることにしよう。それでは{n}Ｄ・Ｓ、あなたがたの頭上に幸運が{n}あらんことを――",
-  "en": ""
+  "en": "I shall cool my head a little and search the{n}sea of trees once more. Then, D.S., may good{n}fortune be upon you all--"
  },
  {
   "id": "s0163_00d2c",
@@ -285,7 +285,7 @@
    "イングヴェイイングヴェイ・フォン・マルムステ"
   ],
   "jp": "祈る仕草を見せ、イングヴェイは{n}桟橋を引き返して森に消えていった。",
-  "en": ""
+  "en": "With a gesture of prayer, Yngwei went{n}back down the pier and vanished into the{n}forest."
  },
  {
   "id": "s0163_00d70",
@@ -309,7 +309,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "古城ね……あながち幻とも言えねえ{n}大がかりな代物だがな。だが、確かに{n}この湖上にゃ何もねえ",
-  "en": ""
+  "en": "An old castle, huh... A thing that big ain't{n}necessarily an illusion. Still, there's sure{n}nothing on this lake."
  },
  {
   "id": "s0163_00f44",
@@ -333,7 +333,7 @@
    ""
   ],
   "jp": "あの神秘的な湖水は、水妖の湖から{n}流入する水量が激減したのを受けて、{n}あたかも幻のように消失していた。{page}どうやらこの湖の底は際限なく水を{n}吸い込む地質らしく、常に膨大な水が{n}供給されていなければ、湖としての{n}外観を保てないようであった。",
-  "en": ""
+  "en": "As the water flowing in from the water{n}spirits' lake dropped sharply, that{n}mysterious lake had vanished like an{n}illusion.{page}It seemed that the lake's bed was of a{n}kind to swallow water without end, and it{n}could keep its look as a lake only so long{n}as a vast flow was always supplied."
  },
  {
   "id": "s0163_01098",
@@ -357,7 +357,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "もうこれといった用はねえが、ここで{n}戦いの勘を取り戻すのも悪くねえ――",
-  "en": ""
+  "en": "Nothing much left to do here, but it ain't a{n}bad spot to get my fighting edge back--"
  },
  {
   "id": "s0163_010e0",
@@ -409,7 +409,7 @@
    ""
   ],
   "jp": "剥き出しになった湖底に、奇怪な城が{n}露となっていた。",
-  "en": ""
+  "en": "On the exposed lake bed, a bizarre castle{n}lay bare."
  },
  {
   "id": "s0163_01188",
@@ -433,7 +433,7 @@
    ""
   ],
   "jp": "水藻に覆われながら、それは決して{n}水没した城の残骸などではなかった。{n}今もって何者かが棲む、水中にあって{n}魔法の結界に守られた城砦――それが、{n}湖面に幻影の如くに映り込んでいた{n}謎の城の正体であった。",
-  "en": ""
+  "en": "Though covered in water weed, it was by{n}no means the wreck of a sunken castle. It{n}was a fortress still inhabited by someone,{n}kept under water by a magic{n}barrier--that was the true form of the{n}mysterious castle that had shown in the{n}lake's surface like an illusion."
  },
  {
   "id": "s0163_01250",
@@ -457,7 +457,7 @@
    "シーン"
   ],
   "jp": "あれだわ！　私が見た古城は！",
-  "en": ""
+  "en": "That's it! The ancient castle I saw!"
  },
  {
   "id": "s0163_01270",
@@ -481,7 +481,7 @@
    "カイ"
   ],
   "jp": "すると、お前を捕らえた男の妖魔も{n}あの城に潜んでいる可能性が高いと{n}いうことか――",
-  "en": ""
+  "en": "So the male demon who captured you is{n}likely lurking in that castle too--"
  },
  {
   "id": "s0163_012c4",
@@ -505,7 +505,7 @@
    "ボル"
   ],
   "jp": "ここから降りられそうでござるな",
-  "en": ""
+  "en": "It seems one can climb down from here,{n}forsooth."
  },
  {
   "id": "s0163_012e4",
@@ -529,7 +529,7 @@
    "ヨルグ"
   ],
   "jp": "敵方の城であることに間違いはない。{n}みんな、油断するな！",
-  "en": ""
+  "en": "There is no doubt it is an enemy castle.{n}Everyone, stay on your guard!"
  },
  {
   "id": "s0163_01320",
@@ -553,7 +553,7 @@
    "ヨルグ"
   ],
   "jp": "干上がった湖底のぬかるみで、編み笠{n}を被った男がひとり、泥まみれになり{n}ながらあちこちを掘り返している。{n}何かを探している様子であった。",
-  "en": ""
+  "en": "In the muck of the dried-up lake bed a{n}man in a woven hat, covered in mud, was{n}digging up one spot after another. He{n}appeared to be looking for something."
  },
  {
   "id": "s0163_013a8",
@@ -577,7 +577,7 @@
    "ヴァイ"
   ],
   "jp": "おい！　Ｄ・Ｓ、アイツは――",
-  "en": ""
+  "en": "Hey! D.S., that guy's--"
  },
  {
   "id": "s0163_013c8",
@@ -601,7 +601,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "おーおー。やっぱり生きてやがった",
-  "en": ""
+  "en": "Well, well. Knew he was still alive."
  },
  {
   "id": "s0163_013ec",
@@ -625,7 +625,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "その男はかつて一行の襲撃に失敗し、{n}巨大魚に飲まれて消息不明となってい{n}た異能の蟲使い、バ・ソリーであった。{n}その不死身の再生能力により、何とか{n}消化されずに魚の胃袋から逃げ延びた{n}ようであった。",
-  "en": ""
+  "en": "This was Ba Thory, the gifted bug tamer{n}who had once failed to ambush the party,{n}and had gone missing after a giant fish{n}swallowed him. His undying powers of{n}regeneration had, it seemed, somehow{n}kept him undigested until he got away{n}from the fish's stomach."
  },
  {
   "id": "s0163_014b0",
@@ -649,7 +649,7 @@
    "バ・ソリー"
   ],
   "jp": "む？　ぬおお!?　貴様らわあっ！",
-  "en": ""
+  "en": "Hm? Nwooh!? You people!"
  },
  {
   "id": "s0163_014d0",
@@ -673,7 +673,7 @@
    "バ・ソリー"
   ],
   "jp": "Ｄ・Ｓたちに気づいた蟲使いは、泥の{n}飛沫を撒き散らしながら駆け寄って{n}きた。",
-  "en": ""
+  "en": "Noticing D.S. and the others, the bug{n}tamer ran up, flinging splashes of mud."
  },
  {
   "id": "s0163_0151c",
@@ -697,7 +697,7 @@
    "バ・ソリー"
   ],
   "jp": "ここで遭ったが百年目えぇ――！{n}あの時の恨みを晴らしてくれるわぁ！",
-  "en": ""
+  "en": "Now that I've found you, your hundred{n}years are up! I'll have my revenge for that{n}day!"
  },
  {
   "id": "s0163_01560",
@@ -721,7 +721,7 @@
    "ヴァイ"
   ],
   "jp": "恨みったって、ありゃオマエが襲って{n}きて、しかも勝手に湖に落ちたんじゃ{n}ねーか",
-  "en": ""
+  "en": "Revenge? You're the one who attacked us,{n}and then fell in the lake on your own!"
  },
  {
   "id": "s0163_015b0",
@@ -745,7 +745,7 @@
    "バ・ソリー"
   ],
   "jp": "ウルサイうるさいっ！　あれから{n}俺様は大変だったんだぞお！　魚の{n}胃袋の中なんて、貴様ら入ったコトが{n}あるのか！",
-  "en": ""
+  "en": "Shut up, shut up! I've been through hell{n}since then! Have you people ever been inside{n}a fish's stomach!"
  },
  {
   "id": "s0163_01620",
@@ -769,7 +769,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "だからそりゃテメエのせいだろが",
-  "en": ""
+  "en": "Like I said, that's your own damn fault."
  },
  {
   "id": "s0163_01640",
@@ -793,7 +793,7 @@
    "バ・ソリー"
   ],
   "jp": "ええい、やかましい！　バ・ソリー様{n}の怒りの一撃を受けてみろぉぉぉ！",
-  "en": ""
+  "en": "Ee-yah, silence! Take the furious blow of Ba{n}Thory-sama!"
  },
  {
   "id": "s0163_01688",
@@ -817,7 +817,7 @@
    "バ・ソリー"
   ],
   "jp": "あぐう……きょ、今日はこのくらいで{n}カンベンしてやるう――",
-  "en": ""
+  "en": "Agugh... I-I'll let you off with this much for{n}today--"
  },
  {
   "id": "s0163_016c4",
@@ -841,7 +841,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "ナニが勘弁だ。逃げるんじゃねーか",
-  "en": ""
+  "en": "Let us off, my ass. You're running away."
  },
  {
   "id": "s0163_016e8",
@@ -865,7 +865,7 @@
    "バ・ソリー"
   ],
   "jp": "む、蟲も見つからんし、もお俺様{n}泣きたいわぁ――ん",
-  "en": ""
+  "en": "I c-can't even find my bugs, the great me{n}wants to cryyy--"
  },
  {
   "id": "s0163_0171c",
@@ -889,7 +889,7 @@
    "バ・ソリー"
   ],
   "jp": "半ベソの絶叫を残し、バ・ソリーは{n}一目散に走り去っていった。",
-  "en": ""
+  "en": "Leaving a half-sobbing wail behind, Ba{n}Thory ran off at full speed."
  },
  {
   "id": "s0163_0175c",
@@ -913,7 +913,7 @@
    "ヴァイ"
   ],
   "jp": "蟲って何だろ？",
-  "en": ""
+  "en": "What's with the bugs?"
  },
  {
   "id": "s0163_0176c",
@@ -937,7 +937,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "さあ？　体の中に新種の寄生虫でも{n}飼いたいんじゃねーの？",
-  "en": ""
+  "en": "Dunno. Maybe he wants to raise some new{n}breed of parasite in his guts?"
  },
  {
   "id": "s0163_017a8",
@@ -961,7 +961,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "おーい！　バ・ソリーとか言ったよな。{n}そんなトコで何してんだ？",
-  "en": ""
+  "en": "Hey! Ba Thory, was it? The hell are you{n}doing down there?"
  },
  {
   "id": "s0163_017e8",
@@ -985,7 +985,7 @@
    "バ・ソリー"
   ],
   "jp": "ぬ？　貴様らは……！　あの時は{n}よくも！",
-  "en": ""
+  "en": "Hm? You people...! That was some nerve you{n}had that day!"
  },
  {
   "id": "s0163_01814",
@@ -1009,7 +1009,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "あれはテメエが襲ってきたんだろが。{n}それに、無事だったなら別に今さら{n}争う理由もねえんじゃねーのか？",
-  "en": ""
+  "en": "You're the one who attacked us. Anyway,{n}you made it out fine, so we got no reason{n}to fight now, do we?"
  },
  {
   "id": "s0163_01878",
@@ -1033,7 +1033,7 @@
    "バ・ソリー"
   ],
   "jp": "うーん？　ウム。考えてみるとそう{n}かも知れん。あの時は鬼忍将にダマさ{n}れていたようだったからなあ――",
-  "en": ""
+  "en": "Hmmm? Mmm. Come to think of it, perhaps{n}not. It seems the High Ninja had fooled me{n}that day--"
  },
  {
   "id": "s0163_018dc",
@@ -1057,7 +1057,7 @@
    "バ・ソリー"
   ],
   "jp": "バ・ソリーは記憶とともに失った蟲を{n}探していた。以前Ｄ・Ｓたちを襲った{n}のも、鬼忍将に貴重な蟲の引き渡しを{n}交換条件として持ちかけられたからで{n}あった。今も湿地を好む珍蟲を探して、{n}水の引いた湖底をほじくり返していた{n}らしい。",
-  "en": ""
+  "en": "Ba Thory was looking for the bugs he had{n}lost along with his memory. He had{n}attacked D.S. and the others before{n}because the High Ninja had offered him a{n}precious bug in exchange. Now, it seemed,{n}he was digging up the drained lake bed{n}for a rare bug fond of wetlands."
  },
  {
   "id": "s0163_019bc",
@@ -1081,7 +1081,7 @@
    "ヴァイ"
   ],
   "jp": "そういや、さっき変な蟲を拾って{n}きてるんだよな。何か干物みたいに{n}乾いて仮死状態になってるんだけど、{n}オッサン見る？",
-  "en": ""
+  "en": "Oh yeah, I picked up this weird bug a while{n}back. It's all dried up like jerky, kinda half{n}dead. Wanna see it, old man?"
  },
  {
   "id": "s0163_01a30",
@@ -1105,7 +1105,7 @@
    "バ・ソリー"
   ],
   "jp": "オッサンと呼ぶなあっ……おおっ!?{n}そ、それはまさしく俺様の探し求める{n}可愛い珍蟲ちゃんではないかあ！",
-  "en": ""
+  "en": "Don't call me old man... Ooh!? Wh-Why, that is{n}the very rare little bug-kins the great me{n}has been seeking!"
  },
  {
   "id": "s0163_01a94",
@@ -1129,7 +1129,7 @@
    "バ・ソリー"
   ],
   "jp": "くれっ！　すぐくれっ！　それを{n}プレゼントしてくれっ！　できるコト{n}であれば礼は何でもするからあ！",
-  "en": ""
+  "en": "Give it! Give it now! Give it to me as a{n}present! I'll pay you back any way I can!"
  },
  {
   "id": "s0163_01af8",
@@ -1153,7 +1153,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "ふーん。それじゃ俺たちに力を貸せ。{n}オメエみたいに自己再生するタフな{n}ヤロウが欲しいと思ってたトコだ。{n}どーだ？",
-  "en": ""
+  "en": "Oh yeah? Then lend us your strength. I've{n}been wanting a tough bastard who{n}regenerates like you. How about it?"
  },
  {
   "id": "s0163_01b68",
@@ -1177,7 +1177,7 @@
    "バ・ソリー"
   ],
   "jp": "そんなコトでいいなら、むわったく{n}問題なし！　どこでもついて行かせて{n}もらおうでわないかあ！",
-  "en": ""
+  "en": "If that's all, there is no problem{n}whatsoever! I shall follow you anywhere,{n}yes indeed!"
  },
  {
   "id": "s0163_01bc4",
@@ -1201,7 +1201,7 @@
    "バ・ソリー"
   ],
   "jp": "バ・ソリーは愛おしそうに蟲の干物を{n}受け取ると、霧吹きのように唾液を{n}吹きかけた。",
-  "en": ""
+  "en": "Ba Thory lovingly took the dried bug and{n}sprayed spit on it like a mist."
  },
  {
   "id": "s0163_01c18",
@@ -1225,7 +1225,7 @@
    "バ・ソリー"
   ],
   "jp": "すると水分を感知したのか、蟲は見る{n}間にそれを吸収して蘇生を開始する。{n}やがて拳大のサイズのまま蠕動し始め{n}た蟲は、バ・ソリーの口腔にさらなる{n}水分を求めて入り込んでいく。食道、{n}胃を経由し、それは蟲使いの体内に{n}同化吸収されたようであった。",
-  "en": ""
+  "en": "As if sensing moisture, the bug drank it up{n}before their eyes and began to revive.{n}Soon it began to writhe, still the size of a{n}fist, and crawled into Ba Thory's mouth in{n}search of more moisture. By way of the{n}gullet and stomach, it seemed to be{n}absorbed into the bug tamer's body."
  },
  {
   "id": "s0163_01d08",
@@ -1273,7 +1273,7 @@
    "シーラ"
   ],
   "jp": "む……蟲使いとは、こんなにも凄い{n}能力なのですね",
-  "en": ""
+  "en": "B-Bug tamers truly have such amazing{n}powers..."
  },
  {
   "id": "s0163_01d48",
@@ -1297,7 +1297,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "シーラ……言っとくがアレをまた口{n}から出したりするワケじゃねーからな",
-  "en": ""
+  "en": "Sheila... Just so you know, he ain't gonna{n}bring that thing back up through his{n}mouth."
  },
  {
   "id": "s0163_01d90",
@@ -1321,7 +1321,7 @@
    "シーラ"
   ],
   "jp": "え……違うのですか？　あの、金魚を{n}飲んだり吐いたりとか……",
-  "en": ""
+  "en": "What... He will not? You know, like swallowing{n}goldfish and spitting them out..."
  },
  {
   "id": "s0163_01dd0",
@@ -1345,6 +1345,6 @@
    "ヴァイ"
   ],
   "jp": "人間ポンプじゃないんだから",
-  "en": ""
+  "en": "He's not a sideshow act."
  }
 ]

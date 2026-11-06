@@ -21,7 +21,7 @@
    ""
   ],
   "jp": "巨石を彫り上げて造られた、馬の{n}頭部を象った石像が、林道の途中に{n}開けた空き地に据えられている。{page}人間を見下ろす高さにある巨馬の顔は、{n}どこか獰猛な魔物の類を想像させた。",
-  "en": ""
+  "en": "A stone statue carved from a huge rock{n}in the shape of a horse's head stood in a{n}clearing along the forest path.{page}Looking down on humans from on high, the{n}giant horse's face called to mind some{n}savage monster."
  },
  {
   "id": "s0158_008c0",
@@ -45,7 +45,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "こんなデカい石像、誰が作りやがった{n}んだ",
-  "en": ""
+  "en": "Who the hell made a statue this huge?"
  },
  {
   "id": "s0158_008ec",
@@ -69,7 +69,7 @@
    "ヨルグ"
   ],
   "jp": "少々薄気味が悪いな。彫像とは判って{n}いても、まるでこちらを見られている{n}ように感じるな",
-  "en": ""
+  "en": "Somewhat eerie. I know it is a statue, yet I{n}feel as if it is watching us."
  },
  {
   "id": "s0158_00944",
@@ -93,7 +93,7 @@
    "ザック"
   ],
   "jp": "ん？　どうした、ヴァイ？",
-  "en": ""
+  "en": "Hm? What's up, Vai?"
  },
  {
   "id": "s0158_00960",
@@ -117,7 +117,7 @@
    "ヴァイ"
   ],
   "jp": "う……うああ",
-  "en": ""
+  "en": "Uh... Uhhh..."
  },
  {
   "id": "s0158_00970",
@@ -141,7 +141,7 @@
    "ヴァイ"
   ],
   "jp": "馬頭の石像に近づいた途端、ヴァイの{n}様子が一変した。目は見開かれ、両手{n}は頭を掻きむしるように短い痙攣を{n}繰り返す。脂汗の噴き出た顔は苦痛に{n}歪み、激しい頭痛がヴァイを襲って{n}いることを物語っていた。",
-  "en": ""
+  "en": "The moment he neared the horsehead{n}statue, Vai changed completely. His eyes{n}flew wide, and both hands twitched again{n}and again as if to claw at his head. His{n}face, streaming with greasy sweat, was{n}twisted in pain, telling of the violent{n}headache that had struck him."
  },
  {
   "id": "s0158_00a38",
@@ -165,7 +165,7 @@
    "ヴァイ"
   ],
   "jp": "あ、頭が割れそうだ……誰の、声？{n}か、母ちゃん……？",
-  "en": ""
+  "en": "M-My head's splitting... Whose voice is that?{n}M-Mom...?"
  },
  {
   "id": "s0158_00a70",
@@ -189,7 +189,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "おい、ヴァイ！　しっかりしろ！{n}頭が痛えのか？",
-  "en": ""
+  "en": "Hey, Vai! Get a grip! Your head hurts?"
  },
  {
   "id": "s0158_00aa0",
@@ -213,7 +213,7 @@
    "ヴァイ"
   ],
   "jp": "ぐ、あああ、止めて……",
-  "en": ""
+  "en": "Gah, aaah, stop..."
  },
  {
   "id": "s0158_00ab8",
@@ -237,7 +237,7 @@
    "ヴァイ"
   ],
   "jp": "Ｄ・Ｓが近づくと、一瞬ヴァイの{n}動きが止まった。焦点の合わぬ瞳で、{n}微かに何かを呟いている。",
-  "en": ""
+  "en": "When D.S. came closer, Vai stopped moving{n}for a moment. With unfocused eyes, he{n}was muttering something faintly."
  },
  {
   "id": "s0158_00b14",
@@ -261,7 +261,7 @@
    "ヴァイ"
   ],
   "jp": "あ……コイツを……Ｄ・Ｓを倒せば{n}いいのかい？　判ったよ……母ちゃん{n}……",
-  "en": ""
+  "en": "Ah... This guy... I just gotta take down D.S.?{n}Okay... Mom..."
  },
  {
   "id": "s0158_00b60",
@@ -285,7 +285,7 @@
    "ヴァイ"
   ],
   "jp": "俯いた顔をゆっくりと上げ、ヴァイは{n}襲いかかってきた。",
-  "en": ""
+  "en": "Slowly raising his lowered face, Vai{n}attacked."
  },
  {
   "id": "s0158_00b98",
@@ -309,7 +309,7 @@
    "ヴァイ"
   ],
   "jp": "うう……",
-  "en": ""
+  "en": "Uhh..."
  },
  {
   "id": "s0158_00ba4",
@@ -333,7 +333,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "ようやく静かになりやがったぜ。{n}このバカ力め",
-  "en": ""
+  "en": "Finally shut up. Stupid muscle-head."
  },
  {
   "id": "s0158_00bd4",
@@ -357,7 +357,7 @@
    "サイクス"
   ],
   "jp": "強力な催眠念波に操られているな。{n}この馬頭の石像が怪しい。ひとまず{n}ここを離れたほうがいいだろう",
-  "en": ""
+  "en": "A powerful hypnotic psychic wave is{n}controlling him. This horsehead statue looks{n}suspicious. I suggest we leave here for{n}now."
  },
  {
   "id": "s0158_00c34",
@@ -381,7 +381,7 @@
    "ヨルグ"
   ],
   "jp": "こいつ、母親のことを呟いていたか？{n}……妙だな。一度この場を離れてから{n}活を入れたほうがいいだろう",
-  "en": ""
+  "en": "Was he muttering about his mother...?{n}Strange. We had best leave this spot first,{n}then bring him round."
  },
  {
   "id": "s0158_00c98",
@@ -405,7 +405,7 @@
    "ヴァイ"
   ],
   "jp": "だ、ダメだ！　近づくんじゃねえ{n}Ｄ・Ｓァ！",
-  "en": ""
+  "en": "N-No! Don't come near me, D.S.!"
  },
  {
   "id": "s0158_00cc4",
@@ -429,7 +429,7 @@
    "ヴァイ"
   ],
   "jp": "絶叫し、そのまま白目を剥いてヴァイ{n}は失神した。何かに強烈に抗ったのか、{n}力をこめた指の痕がこめかみの辺りに{n}残っている。",
-  "en": ""
+  "en": "With a scream Vai rolled his eyes back and{n}fainted. As if he had fought something{n}with all his strength, marks of his{n}clenching fingers remained around his{n}temples."
  },
  {
   "id": "s0158_00d40",
@@ -453,7 +453,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "どうしちまったんだ？",
-  "en": ""
+  "en": "What the hell's wrong with him?"
  },
  {
   "id": "s0158_00d58",
@@ -477,7 +477,7 @@
    "サイクス"
   ],
   "jp": "石像から奇妙な念波が出ているようだ。{n}ヴァイの命に別状はないようだが、{n}一度離れたほうがいいだろう",
-  "en": ""
+  "en": "The statue seems to be giving off some{n}strange psychic wave. Vai's life appears not{n}to be in danger, but it would be best to{n}leave for now."
  },
  {
   "id": "s0158_00dbc",
@@ -501,7 +501,7 @@
    "ヨルグ"
   ],
   "jp": "気を失っているだけのようだ。だが、{n}この様子はただごとじゃないな。一度{n}この場所を離れよう、Ｄ・Ｓ",
-  "en": ""
+  "en": "He only seems to have fainted. But this is no{n}ordinary thing. Let us leave this place for{n}now, D.S."
  },
  {
   "id": "s0158_00e20",
@@ -525,7 +525,7 @@
    "ヴァイ"
   ],
   "jp": "うう……やっぱりこの森、何か囁いて{n}くるぅ……俺、ダメだぁ",
-  "en": ""
+  "en": "Ugh... This forest really is whispering at me...{n}I can't take it..."
  },
  {
   "id": "s0158_00e5c",
@@ -549,7 +549,7 @@
    "ヨルグ"
   ],
   "jp": "仕方あるまい。ヴァイ、休んでいろ",
-  "en": ""
+  "en": "It cannot be helped. Vai, rest."
  },
  {
   "id": "s0158_01210",
@@ -573,7 +573,7 @@
    ""
   ],
   "jp": "突如、空中から黒い影が、白い鋼の{n}閃きとともに落雷の如く襲いかかって{n}きた。",
-  "en": ""
+  "en": "Suddenly a black shadow fell upon them{n}from midair like a thunderbolt, with a{n}flash of white steel."
  },
  {
   "id": "s0158_0125c",
@@ -597,7 +597,7 @@
    "ジオン"
   ],
   "jp": "ぬううっ!?",
-  "en": ""
+  "en": "Nnngh!?"
  },
  {
   "id": "s0158_01268",
@@ -621,7 +621,7 @@
    "ジオン"
   ],
   "jp": "凄まじい勢いをもって降り注ぐ巨大な{n}白刃を、ジオンのかざした漆黒の刀身{n}――黒夜叉が弾いた。刃の擦れ合う音{n}が響き、飛び散る火花が大気に焦げた{n}匂いを残す。",
-  "en": ""
+  "en": "The huge white blade pouring down with{n}terrific force was knocked aside by Zion's{n}raised jet-black sword, the Black Yaksha.{n}Blades shrieked against each other, and{n}flying sparks left a scorched smell in the{n}air."
  },
  {
   "id": "s0158_01304",
@@ -645,7 +645,7 @@
    "ジオン"
   ],
   "jp": "馬頭石像の上から飛び降りてきた影は、{n}剣を止められた反動を利用して大きく{n}飛び退った。",
-  "en": ""
+  "en": "The shadow that had dropped from atop{n}the horsehead statue used the recoil of{n}its blocked sword to leap far back."
  },
  {
   "id": "s0158_0135c",
@@ -669,7 +669,7 @@
    "ジオン"
   ],
   "jp": "何奴か！",
-  "en": ""
+  "en": "Who goes there!"
  },
  {
   "id": "s0158_01368",
@@ -693,7 +693,7 @@
    "ジオン"
   ],
   "jp": "俺の飛翔の太刀を躱すとは、剣士、{n}貴様なかなかの手練れだな――",
-  "en": ""
+  "en": "To dodge my flying sword, swordsman, you{n}are quite skilled--"
  },
  {
   "id": "s0158_013a8",
@@ -717,7 +717,7 @@
    "ジオン"
   ],
   "jp": "黒い影と見えたのは、黒く染め上げら{n}れた鎧を着込み、幅広の大剣を手に{n}した戦士であった。美しいブロンドの{n}巻き毛と、彫像造形の模範となるほど{n}に整った容貌、そして肉体賛美の象徴{n}となりそうな、均整の取れた筋肉に{n}覆われた逞しい体躯――。{page}だが、青年の目には尋常ではない、{n}狂信的とも言うべき光が宿っていた。",
-  "en": ""
+  "en": "What had seemed a black shadow was a{n}warrior in black-dyed armor, holding a{n}broad greatsword. Beautiful curly blond{n}hair, features so perfect they could{n}serve as a sculptor's model, and a{n}powerful frame clad in balanced muscle, a{n}very emblem of the glory of the{n}body--.{page}But in the young man's eyes dwelt an{n}abnormal light, one that could only be{n}called fanatical."
  },
  {
   "id": "s0158_014d4",
@@ -741,7 +741,7 @@
    "ラン"
   ],
   "jp": "母なる森を踏みにじる侵略者どもめ。{n}樹海の守人たるこの黒騎士ラン、神聖{n}不可侵の母御がため、貴様らの血肉を{n}木々の滋養としてくれよう！",
-  "en": ""
+  "en": "Invaders who trample our mother forest. I,{n}Ran the Black Knight, guardian of the sea of{n}trees, shall make your flesh and blood food{n}for the trees, for the sake of our sacred,{page}inviolable mother!"
  },
  {
   "id": "s0158_0155c",
@@ -765,7 +765,7 @@
    "ラン"
   ],
   "jp": "ふ、やるな！　だが、この樹海は俺の{n}狩り場だ。目障りな反逆者ともども、{n}どこに隠れようと葬ってくれる。{n}小手調べはこれで止めるとしよう",
-  "en": ""
+  "en": "Heh, not bad! But this sea of trees is my{n}hunting ground. Wherever you hide, I will{n}bury you, along with those loathsome rebels.{n}That will do for a first test."
  },
  {
   "id": "s0158_015e4",
@@ -789,7 +789,7 @@
    "ラン"
   ],
   "jp": "まだ充分に余力を残した様子で、{n}ランは高笑いとともに去っていった。",
-  "en": ""
+  "en": "With plenty of strength clearly to spare,{n}Ran left with a loud laugh."
  },
  {
   "id": "s0158_01628",
@@ -813,7 +813,7 @@
    "ジオン"
   ],
   "jp": "黒夜叉でなければ、初撃で俺の身体は{n}止めた刀ごと断ち割られていた……。{n}我流だが、恐ろしく実戦的な剣だ",
-  "en": ""
+  "en": "Were it not for the Black Yaksha, that first{n}stroke would have split my body, blocking{n}sword and all... His style is self-taught, but{n}terribly practical."
  },
  {
   "id": "s0158_01690",
@@ -837,7 +837,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "手強いな……何てえ森だ。厄介な{n}番人までいやがるのか。ヴァイは全然{n}役に立たねえしよ",
-  "en": ""
+  "en": "Tough customer... What a forest. It's even{n}got a nasty watchman. And Vai's no damn{n}use at all."
  },
  {
   "id": "s0158_016e4",
@@ -861,7 +861,7 @@
    "ヴァイ"
   ],
   "jp": "うう……あんまり石像に近づかない{n}でぇ……アタマがぁ",
-  "en": ""
+  "en": "Uuugh... Don't go near the statue so much...{n}My heeead..."
  },
  {
   "id": "s0158_0171c",
@@ -885,7 +885,7 @@
    "ボル"
   ],
   "jp": "気になる言葉も残していったで{n}ござるな。母御と――反逆者とは、{n}誰のことでござろう？",
-  "en": ""
+  "en": "He left behind some troubling words,{n}forsooth. \"Mother\", and \"rebels\"--who could{n}those be?"
  },
  {
   "id": "s0158_01954",
@@ -909,7 +909,7 @@
    "ヴァイ"
   ],
   "jp": "う……やっぱりココだよ……俺は{n}ダメェ……",
-  "en": ""
+  "en": "Ugh... It's this place after all... I can't take{n}it..."
  },
  {
   "id": "s0158_01980",
@@ -933,7 +933,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "俺にも感じ取れるほど念波が高まって{n}やがる。ランの精神拘束を強めようと{n}してるな",
-  "en": ""
+  "en": "The psychic wave's so strong even I can{n}feel it. It's trying to tighten its mind-binding{n}on Ran."
  },
  {
   "id": "s0158_019d0",
@@ -957,7 +957,7 @@
    "シーン"
   ],
   "jp": "早く……早く兄さんの呪縛を解いて{n}あげたい――",
-  "en": ""
+  "en": "Quickly... I want to break my brother's curse{n}quickly--"
  },
  {
   "id": "s0158_01a00",
@@ -981,7 +981,7 @@
    "ヴァイ"
   ],
   "jp": "うおお……",
-  "en": ""
+  "en": "Uwooh..."
  },
  {
   "id": "s0158_01a0c",
@@ -1005,7 +1005,7 @@
    "ヨルグ"
   ],
   "jp": "ヴァイ？",
-  "en": ""
+  "en": "Vai?"
  },
  {
   "id": "s0158_01a18",
@@ -1029,7 +1029,7 @@
    "ヴァイ"
   ],
   "jp": "ダメだ……今までになく、声が、{n}強、まって、き……やがる……！",
-  "en": ""
+  "en": "It's no good... The voice is, getting, stronger,{n}than, ever...!"
  },
  {
   "id": "s0158_01a58",
@@ -1053,7 +1053,7 @@
    "ヴァイ"
   ],
   "jp": "ヨルグ！　俺に当て身を入れてくれ！{n}こ……このままじゃ、操られちまう！",
-  "en": ""
+  "en": "Jorg! Knock me out! Th-The way this is going,{n}I'm gonna get controlled!"
  },
  {
   "id": "s0158_01aa0",
@@ -1077,7 +1077,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "判ったぜ！　うるああっ！",
-  "en": ""
+  "en": "You got it! Hrraaah!"
  },
  {
   "id": "s0158_01abc",
@@ -1101,7 +1101,7 @@
    "ヴァイ"
   ],
   "jp": "ア、アンタじゃなくって……{n}アガァッ！（ガクリ）",
-  "en": ""
+  "en": "N-Not you, I meant... Agah! (Slump)"
  },
  {
   "id": "s0158_01af0",
@@ -1125,7 +1125,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "ふう……アブねえトコだったぜ",
-  "en": ""
+  "en": "Whew... That was a close one."
  },
  {
   "id": "s0158_01b10",
@@ -1149,7 +1149,7 @@
    "ヨルグ"
   ],
   "jp": "Ｄ・Ｓ……。アゴを殴るのは当て身{n}とは言わないぞ……",
-  "en": ""
+  "en": "D.S.... Punching someone in the jaw is not{n}what one calls \"knocking out\"..."
  },
  {
   "id": "s0158_01b48",
@@ -1173,7 +1173,7 @@
    "ボル"
   ],
   "jp": "手加減なしでござるな",
-  "en": ""
+  "en": "No mercy at all, forsooth."
  },
  {
   "id": "s0158_01b60",
@@ -1197,7 +1197,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "ヴァイがおかしくなったってコトは、{n}いよいよこの近くに念波の源がある{n}って証拠だぜ",
-  "en": ""
+  "en": "If Vai's gone funny, that proves the source{n}of the psychic wave's finally close by."
  },
  {
   "id": "s0158_01bb4",
@@ -1221,7 +1221,7 @@
    "カイ"
   ],
   "jp": "……歌？　歌が聴こえる――",
-  "en": ""
+  "en": "...A song? I hear a song--"
  },
  {
   "id": "s0158_01bd0",
@@ -1245,7 +1245,7 @@
    "カイ"
   ],
   "jp": "耳を澄ますと、幽かに子守歌のような{n}旋律が聴こえてきた。警戒心を真綿で{n}くるみ、言いなりに操ろうとする甘い{n}囁くような歌声――それは毒を含んだ、{n}淫靡とも言える甘味である。",
-  "en": ""
+  "en": "When they strained their ears, they could{n}faintly hear a melody like a lullaby. A{n}sweet, whispering song that wrapped{n}wariness in floss silk and made its hearer{n}an obedient puppet--a sweetness laced{n}with poison, one might even call it lewd."
  },
  {
   "id": "s0158_01c7c",
@@ -1269,7 +1269,7 @@
    "カイ"
   ],
   "jp": "鎮座する三体の石像の、その中央に{n}魔雷妃の最後の幻体であろう、ハーフ{n}エルフの姿が浮かび上がっていた。",
-  "en": ""
+  "en": "In the midst of three seated statues{n}there floated a half-elf figure, surely the{n}Demon Thunder Queen's last phantom{n}body."
  },
  {
   "id": "s0158_01ce4",
@@ -1293,7 +1293,7 @@
    "カイ"
   ],
   "jp": "これまでの幻体の中では、最も年齢の{n}高い女の姿であった。それでも人間で{n}二十四、五といったところであるが、{n}その容姿はあまりにも妖艶で、もっと{n}成熟した女性の印象を醸し出している。",
-  "en": ""
+  "en": "Of the phantom bodies so far, this one{n}had the oldest look. Even so she would{n}pass for a human of twenty-four or{n}twenty-five, but her looks were so{n}bewitching that she gave the impression{n}of a far more mature woman."
  },
  {
   "id": "s0158_01d98",
@@ -1317,7 +1317,7 @@
    "カイ"
   ],
   "jp": "幻体に背を抱かれる形で、そこにラン{n}がひざまづいていた。母親の腕で眠る{n}幼子のような姿であったが、瞳には{n}念波の洗脳に抗おうとする意志の光が{n}灯っている。しかし、魔雷妃の甘美な{n}歌声は支配力を強め、ランの眼光は{n}次第に衰え始めた。",
-  "en": ""
+  "en": "Kneeling there, embraced from behind by{n}the phantom, was Ran. He looked like a{n}little child asleep in his mother's arms, but{n}in his eyes burned a light of will that{n}fought the brainwashing wave. But the{n}Demon Thunder Queen's sweet singing{n}grew in power, and the light in Ran's eyes{n}began little by little to fade."
  },
  {
   "id": "s0158_01e7c",
@@ -1341,7 +1341,7 @@
    "シーン"
   ],
   "jp": "兄さん！　負けちゃダメ！",
-  "en": ""
+  "en": "Brother! You mustn't give in!"
  },
  {
   "id": "s0158_01e98",
@@ -1365,7 +1365,7 @@
    "カイ"
   ],
   "jp": "お前はその程度の男ではなかった{n}はずだぞ、ラン！",
-  "en": ""
+  "en": "You were never so small a man as this,{n}Ran!"
  },
  {
   "id": "s0158_01ecc",
@@ -1389,7 +1389,7 @@
    "ラン"
   ],
   "jp": "う……うおおおっ！",
-  "en": ""
+  "en": "Ugh... Uwoooh!"
  },
  {
   "id": "s0158_01ee0",
@@ -1413,7 +1413,7 @@
    "ラン"
   ],
   "jp": "ふたりの呼びかけが、屈服しかけた{n}ランの抵抗の炎を再び燃え上がらせた。{page}瞳に激しい輝きが戻り、幻体を振り{n}払うようにして飛び退く。その瞬間、{n}幻惑の子守歌は止まり、子供を慈しむ{n}母のようであった魔雷妃の表情は、{n}狂気の母性を露にした鬼のものへと{n}一変した。",
-  "en": ""
+  "en": "The two voices calling out rekindled the{n}flame of resistance in Ran, who had been{n}on the verge of yielding.{page}A fierce glow returned to his eyes, and he{n}leapt back as if to shake off the phantom.{n}In that instant the bewitching lullaby{n}stopped, and the Demon Thunder Queen's{n}face, like a mother cherishing her child,{n}became that of an ogress, baring a mad{n}motherhood."
  },
  {
   "id": "s0158_01fdc",
@@ -1437,7 +1437,7 @@
    "ネイ"
   ],
   "jp": "私を拒否するのだね！　お前までが！{n}ならばその黒き鎧に抱き殺されるが{n}いい。お前なんて、いらない――",
-  "en": ""
+  "en": "You reject me! Even you! Then let that black{n}armor hug you to death. I have no more use{n}for you--"
  },
  {
   "id": "s0158_02040",
@@ -1461,7 +1461,7 @@
    "ラン"
   ],
   "jp": "ぐうおおお――！",
-  "en": ""
+  "en": "Gwuoooh--!"
  },
  {
   "id": "s0158_02054",
@@ -1485,7 +1485,7 @@
    "ラン"
   ],
   "jp": "魔雷妃の呪詛とともに、黒騎士の象徴{n}たる闇色の鎧が、みしりとランの肉体{n}を締め付ける。万力の如き、狂った{n}母性の抱擁であった。肉体を搾られる{n}凄まじい激痛に、ランは絶叫を残して{n}倒れ伏す。その叫びに被さって、{n}鬼母の哄笑が響き渡る。",
-  "en": ""
+  "en": "At the Demon Thunder Queen's curse, the{n}dark armor that was the Black Knight's{n}emblem creaked and clamped tight on{n}Ran's body. It was an embrace of mad{n}motherhood, like a vise. In terrible agony{n}as his flesh was wrung, Ran collapsed with{n}a scream. Over his cry echoed the ogress{n}mother's shrieking laugh."
  },
  {
   "id": "s0158_02138",
@@ -1509,7 +1509,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "やめねえか！",
-  "en": ""
+  "en": "Knock it off!"
  },
  {
   "id": "s0158_02148",
@@ -1533,7 +1533,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "Ｄ・Ｓの怒声に、魔雷妃は鞭で打たれ{n}たように嗤笑を止めた。Ｄ・Ｓに向け{n}られた瞳には、これまでの幻体の時と{n}同様の、戸惑いの色が浮かんでいる。",
-  "en": ""
+  "en": "At D.S.'s angry shout, the Demon Thunder{n}Queen stopped her mocking laughter as if{n}struck by a whip. In the eyes turned to{n}D.S. was the same hint of confusion as in{n}her earlier phantom bodies."
  },
  {
   "id": "s0158_021d8",
@@ -1557,7 +1557,7 @@
    "ネイ"
   ],
   "jp": "あ……あなたは……？　何故私を{n}そんな瞳で見るの――ああ！",
-  "en": ""
+  "en": "Ah... You are...? Why do you look at me with{n}those eyes--ah!"
  },
  {
   "id": "s0158_02214",
@@ -1581,7 +1581,7 @@
    "ネイ"
   ],
   "jp": "鎧の拘束が弛み、ランは激しく息を{n}吐いて意識を失った。動揺した幻体は{n}輪郭を不規則に歪め、妖婦の衣を剥ぎ{n}取られそうに揺らめく。{page}と、中央の石像の目が妖しく光り、{n}そこから真紅の巨馬の幻影が躍り出て{n}魔雷妃の幻体と融合した。",
-  "en": ""
+  "en": "The armor's grip loosened, and Ran let out{n}a violent breath and lost consciousness.{n}The shaken phantom's outline warped{n}unevenly and wavered, as if her{n}seductress's robe were being torn{n}away.{page}Then the eyes of the central statue{n}gleamed strangely, a phantom of a giant{n}crimson horse leapt out, and it merged{n}with the Demon Thunder Queen's{n}phantom."
  },
  {
   "id": "s0158_022f0",
@@ -1605,7 +1605,7 @@
    "ネイ"
   ],
   "jp": "正体を現したのは、馬頭を象った兜を{n}被り、血の色に染め上げた甲冑を纏う{n}女妖魔であった。王鴉、毒乙女と{n}似通った容貌であり、この妖魔を{n}含めて三姉妹となることが窺い知れる。{n}美しいが、やはり拭い難い邪悪と{n}狂気を漂わせた魔性であった。",
-  "en": ""
+  "en": "What now showed itself was a demon{n}woman wearing a helmet shaped like a{n}horse's head and armor dyed the color of{n}blood. Her features were like those of{n}King Raven and the Poison Maiden, and it{n}could be guessed that with this demon{n}they made three sisters. She was{n}beautiful, yet she was indeed a thing of{page}evil, drifting with ineradicable malice and{n}madness."
  },
  {
   "id": "s0158_023d8",
@@ -1629,7 +1629,7 @@
    "ネイ"
   ],
   "jp": "邪魔をしてくれたものよ。あと少しで{n}あの男の意識を全て我が忠実な息子と{n}して書き換えることができたものを{n}……",
-  "en": ""
+  "en": "You got in my way. Just a little more, and I{n}could have rewritten that man's whole mind{n}into my faithful son..."
  },
  {
   "id": "s0158_02448",
@@ -1653,7 +1653,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "テメエが催眠念波を出してやがるな。{n}この森の石像どもはその増幅器って{n}ワケかよ",
-  "en": ""
+  "en": "So you're the one putting out the hypnotic{n}wave, you bitch. And the statues in this{n}forest are the amplifiers, huh."
  },
  {
   "id": "s0158_02498",
@@ -1677,7 +1677,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "それが判ったところでどうなるもの{n}でもないわ。お前たちはここで死ぬの{n}だからな。この馬頭母を姉者や妹と{n}一緒にしてもらっては困る",
-  "en": ""
+  "en": "Knowing that changes nothing. For you will{n}all die here. It would be a mistake to lump{n}this Horsehead Mother in with my sisters."
  },
  {
   "id": "s0158_02518",
@@ -1701,7 +1701,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "そしてＤ・Ｓ――お前はこの私が{n}直々に洗脳してあげるよ。ヨーコなど{n}という娘を使うより、そのほうが早い{n}というものだ――",
-  "en": ""
+  "en": "And D.S.--I shall brainwash you personally.{n}That will be quicker than using some girl{n}called Yoko--"
  },
  {
   "id": "s0158_02590",
@@ -1725,7 +1725,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "馬の嘶きに似た叫びを上げて、{n}馬頭母は手にした剣をかざした。{n}それが、闘いの合図となった。",
-  "en": ""
+  "en": "With a cry like the neighing of a horse,{n}the Horsehead Mother raised the sword in{n}her hand. That was the signal for{n}battle."
  },
  {
   "id": "s0158_025ec",
@@ -1749,7 +1749,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "さあ、血を流しておくれ。私の身体を{n}もっと美しく染め上げておくれ！",
-  "en": ""
+  "en": "Come, shed your blood. Dye my body even{n}more beautifully!"
  },
  {
   "id": "s0158_02630",
@@ -1773,7 +1773,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "馬頭母が剣を振り上げた、その時で{n}あった。微かな風切り音とともに、{n}鋼がしなる響きが一瞬に近づく。と、{n}馬頭母の頬に細い傷が一筋刻まれる。",
-  "en": ""
+  "en": "Just as the Horsehead Mother raised her{n}sword, it happened. With a faint rush of{n}air, the sound of flexing steel drew near{n}in an instant. Then a single thin wound{n}was carved into the Horsehead Mother's{n}cheek."
  },
  {
   "id": "s0158_026bc",
@@ -1797,7 +1797,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "何!?",
-  "en": ""
+  "en": "What!?"
  },
  {
   "id": "s0158_026c4",
@@ -1821,7 +1821,7 @@
    "マカパイン"
   ],
   "jp": "その男は私の獲物だ。手を出そうと{n}言うなら妖魅であろうと容赦せぬぞ",
-  "en": ""
+  "en": "That man is my prey. If you mean to lay a{n}hand on him, I will show no mercy, even to a{n}fiend."
  },
  {
   "id": "s0158_02708",
@@ -1845,7 +1845,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "マカパインか！",
-  "en": ""
+  "en": "Macalpine!"
  },
  {
   "id": "s0158_02718",
@@ -1869,7 +1869,7 @@
    "マカパイン"
   ],
   "jp": "Ｄ・Ｓ……貴様を倒すのはこの私だ。{n}それまでに誰かに負けてもらっては{n}困るのでな。助太刀させてもらうぞ",
-  "en": ""
+  "en": "D.S.... I am the one who will defeat you. I{n}cannot have you losing to anyone else{n}before then. I shall lend you my aid."
  },
  {
   "id": "s0158_02780",
@@ -1893,7 +1893,7 @@
    "マカパイン"
   ],
   "jp": "ぐうっ……魔雷妃め……どこまでも{n}弱く不安定な女よ。これでは姉君も{n}毒乙女も苦杯を舐めるわけよな……",
-  "en": ""
+  "en": "Ngh... That Demon Thunder Queen... A woman{n}weak and unstable to the last. No wonder{n}my sisters and the Poison Maiden drank the{n}bitter cup..."
  },
  {
   "id": "s0158_027e4",
@@ -1917,7 +1917,7 @@
    "マカパイン"
   ],
   "jp": "これでは本体に戻らぬわけにはゆかぬ。{n}口惜しいが、私も樹棺城へ……",
-  "en": ""
+  "en": "This leaves me no choice but to return to{n}my true body. To my chagrin, I too must go{n}to the Tree-Coffin Castle..."
  },
  {
   "id": "s0158_02828",
@@ -1941,7 +1941,7 @@
    "マカパイン"
   ],
   "jp": "再び馬の姿に戻った妖魔は、跳躍する{n}とそのまま虚空に蹄の音を響かせ、{n}天を駆けて樹棺城の方角へと走り去っ{n}ていく。その姿はさながら、悪夢を{n}運ぶ魔性の馬――夢魔の如くであった。",
-  "en": ""
+  "en": "Once more a horse, the demon leapt and,{n}the sound of her hooves ringing in empty{n}air, galloped across the heavens toward{n}the Tree-Coffin Castle. She was for all{n}the world a demon horse that carries{n}nightmares--a very mare of the night."
  },
  {
   "id": "s0158_028d8",
@@ -1965,7 +1965,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "テメエッ！　待ちやがれ！　ヨーコ{n}さんのことを言ったな……くそっ！",
-  "en": ""
+  "en": "You bitch! Get back here! You said Yoko-san's{n}name... Dammit!"
  },
  {
   "id": "s0158_0291c",
@@ -1989,7 +1989,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "……助かったぜ、マカパイン",
-  "en": ""
+  "en": "...Thanks for the help, Macalpine."
  },
  {
   "id": "s0158_02938",
@@ -2013,7 +2013,7 @@
    "マカパイン"
   ],
   "jp": "フ……余計な手出しだったかも知れん{n}な。ともに闘ってみて判ったが、{n}今の私では歯が立たぬ強さだ、貴様は{n}――",
-  "en": ""
+  "en": "Heh... Perhaps I need not have meddled.{n}Fighting beside you has shown me that you{n}are stronger than I can match as I am{n}now--"
  },
  {
   "id": "s0158_029a4",
@@ -2037,7 +2037,7 @@
    "マカパイン"
   ],
   "jp": "またいずれ、腕を磨いてから決着を{n}つけるとしよう。さらば――",
-  "en": ""
+  "en": "One day, when I have honed my skill, we{n}shall settle this. Farewell--"
  },
  {
   "id": "s0158_029e4",
@@ -2061,7 +2061,7 @@
    "ヨルグ"
   ],
   "jp": "待つんだ！　マカパイン！",
-  "en": ""
+  "en": "Wait! Macalpine!"
  },
  {
   "id": "s0158_02a00",
@@ -2085,7 +2085,7 @@
    "マカパイン"
   ],
   "jp": "……何だ",
-  "en": ""
+  "en": "...What is it?"
  },
  {
   "id": "s0158_02a0c",
@@ -2109,7 +2109,7 @@
    "ヨルグ"
   ],
   "jp": "もうそろそろ判っているのだろう？{n}お前の本当の敵は他にいることを――",
-  "en": ""
+  "en": "Surely you have seen it by now? That your{n}true enemy is someone else--"
  },
  {
   "id": "s0158_02a54",
@@ -2133,7 +2133,7 @@
    "マカパイン"
   ],
   "jp": "――ああ",
-  "en": ""
+  "en": "--Yes."
  },
  {
   "id": "s0158_02a60",
@@ -2157,7 +2157,7 @@
    "ヨルグ"
   ],
   "jp": "ならば、もういいではないか。その{n}類なき力、俺たちに貸してもらえない{n}だろうか？",
-  "en": ""
+  "en": "Then let that be enough. Will you not lend{n}us that matchless power?"
  },
  {
   "id": "s0158_02ab0",
@@ -2181,7 +2181,7 @@
    "マカパイン"
   ],
   "jp": "……だが、私は幾度となくＤ・Ｓの{n}首を狙った人間だ。それに、貴様を{n}裏切ったこともある――",
-  "en": ""
+  "en": "...But I am a man who has gone after D.S.'s{n}head time and again. And I have betrayed{n}you, too--"
  },
  {
   "id": "s0158_02b0c",
@@ -2205,7 +2205,7 @@
    "ヨルグ"
   ],
   "jp": "そのお陰で、俺は真の仲間を得る{n}ことができた。お前にできないこと{n}ではあるまい",
-  "en": ""
+  "en": "Because of that, I have found true{n}comrades. It is not beyond you."
  },
  {
   "id": "s0158_02b5c",
@@ -2229,7 +2229,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "俺も構わねえぜ。どうしても気に{n}してえってんなら、今の助太刀で{n}チャラにしてやるよ",
-  "en": ""
+  "en": "I'm fine with it too. If you really gotta fret{n}about it, we'll call that little assist just now{n}square."
  },
  {
   "id": "s0158_02bb0",
@@ -2253,7 +2253,7 @@
    "マカパイン"
   ],
   "jp": "……いいのか？　また裏切るかも{n}知れんのだぞ？",
-  "en": ""
+  "en": "...Are you sure? I may betray you again, you{n}know?"
  },
  {
   "id": "s0158_02be0",
@@ -2277,7 +2277,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "その時は気紛れじゃねーんだろ？{n}戦わなきゃならねえなら、気が済む{n}まで相手してやるぜ",
-  "en": ""
+  "en": "If you do, it won't be on a whim, right? If{n}we gotta fight, I'll take you on till you're{n}good and satisfied."
  },
  {
   "id": "s0158_02c34",
@@ -2301,7 +2301,7 @@
    "マカパイン"
   ],
   "jp": "フ……とっくに判っていたのかも{n}知れんな。その度量の広さ、私には{n}真似のできぬものだ。これでは勝てる{n}わけもあるまい――",
-  "en": ""
+  "en": "Heh... Perhaps I knew it long ago. Such{n}breadth of spirit is beyond me to imitate. No{n}wonder I cannot win--"
  },
  {
   "id": "s0158_02cac",
@@ -2325,7 +2325,7 @@
    "マカパイン"
   ],
   "jp": "改めてお願いしよう。よろしく頼む",
-  "en": ""
+  "en": "Let me ask you properly, then. I am in your{n}hands."
  },
  {
   "id": "s0158_02cd0",
@@ -2349,7 +2349,7 @@
    "マカパイン"
   ],
   "jp": "勘違いしてもらっては困る。Ｄ・Ｓ、{n}貴様を倒すのはあくまで私でなければ{n}ならんのだ。礼など言っていると、{n}あとで後悔することになるぞ",
-  "en": ""
+  "en": "Do not mistake me. D.S., it must be I, and I{n}alone, who defeats you. Thank me now, and{n}you will regret it later."
  },
  {
   "id": "s0158_02d54",
@@ -2373,7 +2373,7 @@
    "マカパイン"
   ],
   "jp": "――仮にも共闘の直後とあっては、{n}今は決着をつける気にはなれん。だが、{n}次に飛来する妖斬糸の目標は貴様だ！{n}首を洗っておくがいい！",
-  "en": ""
+  "en": "--Having fought at your side, however{n}briefly, I am in no mood to settle it now. But{n}the next demon-slash wire to fly will be{n}aimed at you! Go wash your neck and wait!"
  },
  {
   "id": "s0158_02dd8",
@@ -2397,7 +2397,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "おっ！　首筋にウンディーネのキス{n}マークが！",
-  "en": ""
+  "en": "Whoa! There's an Undine kiss mark on your{n}neck!"
  },
  {
   "id": "s0158_02e08",
@@ -2421,7 +2421,7 @@
    "マカパイン"
   ],
   "jp": "えっ！　……こ、この！　そういう{n}引っかけはキタナイぞ！　覚えておけ{n}よ、Ｄ・Ｓ！",
-  "en": ""
+  "en": "What! ...Y-You! That kind of trick is dirty pool!{n}Remember this, D.S.!"
  },
  {
   "id": "s0158_02e5c",
@@ -2445,7 +2445,7 @@
    "ヨルグ"
   ],
   "jp": "……行ってしまったか。あいつも{n}本当は、俺たちの仲間に加わりたいの{n}ではないだろうか？",
-  "en": ""
+  "en": "...He has gone, then. Might that man truly{n}wish to join us as well?"
  },
  {
   "id": "s0158_02eb4",
@@ -2469,7 +2469,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "つまらねー意地張ってやがら",
-  "en": ""
+  "en": "Stubborn over nothing, the jerk."
  },
  {
   "id": "s0158_02ed0",
@@ -2493,7 +2493,7 @@
    "シーラ"
   ],
   "jp": "殿方の意地と言うのは、とかく厄介な{n}ものなのですね",
-  "en": ""
+  "en": "A gentleman's pride is ever a troublesome{n}thing, it seems."
  },
  {
   "id": "s0158_02f04",
@@ -2517,7 +2517,7 @@
    "カイ"
   ],
   "jp": "しっかりしろ、ラン！　目を……{n}目を覚ませ！",
-  "en": ""
+  "en": "Pull yourself together, Ran! Open... open{n}your eyes!"
  },
  {
   "id": "s0158_02f34",
@@ -2541,7 +2541,7 @@
    "シーン"
   ],
   "jp": "兄さん！",
-  "en": ""
+  "en": "Brother!"
  },
  {
   "id": "s0158_02f40",
@@ -2565,7 +2565,7 @@
    "ラン"
   ],
   "jp": "う……うう。カイ？　シーンも……",
-  "en": ""
+  "en": "Ugh... Uhh. Kai? And Sean..."
  },
  {
   "id": "s0158_02f64",
@@ -2589,7 +2589,7 @@
    "ラン"
   ],
   "jp": "息を吹き返したランは、鎧に締め付け{n}られた時間が短かったせいか、重大な{n}怪我を負ってはいないようであった。{page}もっとも、鍛え上げられた肉体を持つ{n}ランでなければ、黒い鎧は一瞬に犠牲{n}者の胴体を圧し潰していたであろう。{n}彫像の如き筋肉の壁が、収縮の強烈な{n}圧力から骨や内臓を護ったのであった。",
-  "en": ""
+  "en": "Ran came back to life and, perhaps since{n}the armor had not squeezed him for long,{n}seemed to have no grave injury.{page}Yet with anyone but the forged body of{n}Ran, the black armor would have crushed{n}its victim's torso in an instant. That{n}statue-like wall of muscle had protected{n}his bones and organs from the terrible{n}force of the contraction."
  },
  {
   "id": "s0158_03080",
@@ -2613,7 +2613,7 @@
    "ラン"
   ],
   "jp": "馬頭母が撤退したためか、魔性の鎧は{n}拘束力を失って分解し、ランはすでに{n}自由の身となっていた。",
-  "en": ""
+  "en": "Perhaps because the Horsehead Mother{n}had withdrawn, the demon armor lost its{n}binding power and fell apart, and Ran was{n}now a free man."
  },
  {
   "id": "s0158_030e0",
@@ -2637,7 +2637,7 @@
    "ラン"
   ],
   "jp": "ランは、黒騎士として操られていた{n}記憶がある程度残っているようだった。{n}わずかな説明をされただけで、現状を{n}ほぼ正確に把握した。",
-  "en": ""
+  "en": "Ran seemed to retain some memory of{n}being controlled as the Black Knight. With{n}only a brief explanation, he grasped the{n}situation almost exactly."
  },
  {
   "id": "s0158_03160",
@@ -2661,7 +2661,7 @@
    "ラン"
   ],
   "jp": "……どのように詫びたら良いのか、{n}それすらも判らぬ。Ｄ・Ｓ――それに{n}カイ、シーンも……操られていたとは{n}言え、それも俺の心の弱さゆえ――",
-  "en": ""
+  "en": "...How I should apologize, even that I do not{n}know. D.S.--and Kai, and Sean... I was{n}controlled, yes, but that too came of the{n}weakness of my heart--"
  },
  {
   "id": "s0158_031ec",
@@ -2685,7 +2685,7 @@
    "カイ"
   ],
   "jp": "いいさ。それにお前は、俺たちの{n}呼びかけで目を覚まそうとしてくれた{n}じゃないか",
-  "en": ""
+  "en": "It's fine. Besides, you tried to wake up when{n}we called to you, didn't you?"
  },
  {
   "id": "s0158_0323c",
@@ -2709,7 +2709,7 @@
    "シーン"
   ],
   "jp": "兄さん……うん、もうはっきりと{n}思い出せるわ。子供の頃からずっと、{n}ラン兄さんはわたしを守ってくれた。{n}あの時も、そうだったんでしょう？",
-  "en": ""
+  "en": "Brother... Yes, I can remember clearly now.{n}All the way back to when we were children,{n}you always protected me, Ran. That time{n}too, didn't you?"
  },
  {
   "id": "s0158_032c4",
@@ -2733,7 +2733,7 @@
    "ラン"
   ],
   "jp": "シーン……。だが、何故俺たちは、{n}この森に目覚めた時にそんなことまで{n}忘れてしまっていたのだろう？",
-  "en": ""
+  "en": "Sean... But why did we forget even that{n}when we woke in this forest?"
  },
  {
   "id": "s0158_03328",
@@ -2757,7 +2757,7 @@
    "カイ"
   ],
   "jp": "鬼道衆としての記憶も、核となる部分{n}には靄がかかったように思い出せない{n}……いずれにせよその鍵は樹棺城に{n}――魔雷妃の正体にあるはずだ",
-  "en": ""
+  "en": "Even our memories of being the Kido Corps{n}are hazy at the core, I can't recall them...{n}Either way, the key to that must lie in the{n}Tree-Coffin Castle--in what the Demon{page}Thunder Queen truly is."
  },
  {
   "id": "s0158_033b0",
@@ -2781,7 +2781,7 @@
    "ラン"
   ],
   "jp": "うむ……Ｄ・Ｓ。このようなことを{n}頼めた筋ではないが、俺も仲間に{n}加えてもらえるだろうか",
-  "en": ""
+  "en": "Indeed... D.S. I have no right to ask this, but{n}may I join you as well?"
  },
  {
   "id": "s0158_03408",
@@ -2805,7 +2805,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "おう。もう黒騎士じゃねーんだしな",
-  "en": ""
+  "en": "Sure. You ain't the Black Knight anymore,{n}after all."
  },
  {
   "id": "s0158_0342c",
@@ -2829,7 +2829,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "ランはこの森の番人を任されていた{n}ため、龍樹の入口を開くための鍵も{n}授けられていた。",
-  "en": ""
+  "en": "Having been charged with guarding this{n}forest, Ran had also been given the key{n}to open the entrance to the Dragon{n}Tree."
  },
  {
   "id": "s0158_03480",
@@ -2853,7 +2853,7 @@
    "シーン"
   ],
   "jp": "ところで兄さん、ダイはどこへ連れて{n}行かれたのかしら。一緒に樹海に{n}消えてしまったけれど……",
-  "en": ""
+  "en": "By the way, brother, where did they take{n}Di? He vanished into the sea of trees along{n}with you..."
  },
  {
   "id": "s0158_034dc",
@@ -2877,7 +2877,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "ダイってのは誰だ？",
-  "en": ""
+  "en": "Who's this Di?"
  },
  {
   "id": "s0158_034f0",
@@ -2901,7 +2901,7 @@
    "カイ"
   ],
   "jp": "もうひとりの仲間で鬼道衆のひとりだ。{n}もっとも俺たちとは故郷も、拾われた{n}経緯も違うのだが、正直なところ{n}詳しくは思い出せん",
-  "en": ""
+  "en": "Another comrade, one of the Kido Corps. His{n}homeland's different from ours, though, and{n}so is how he was taken in. Honestly, I can't{n}recall the details."
  },
  {
   "id": "s0158_0356c",
@@ -2925,7 +2925,7 @@
    "ラン"
   ],
   "jp": "あいつは何かの儀式に参加させられる{n}ということだったが……どこにいるの{n}かまでは、黒騎士の任務外だったので{n}判らないな――",
-  "en": ""
+  "en": "They were going to have him take part in{n}some sort of ritual... But where he is lay{n}outside the Black Knight's duties, so I do not{n}know--"
  },
  {
   "id": "s0158_035e8",
@@ -2949,7 +2949,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "ダイ……ダイね。どーも不愉快な{n}よーな、笑えるよーな名前だな。{n}何かヘンな縁でもありやがるのか……",
-  "en": ""
+  "en": "Di... Di, huh. Somehow that name pisses me{n}off and cracks me up at the same time. We{n}got some weird history or something..."
  },
  {
   "id": "s0158_0364c",
@@ -2973,7 +2973,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "――そうだ。龍樹に向かう前に、{n}この先の湖を確認してみねえとな",
-  "en": ""
+  "en": "--Right. Before we head for the Dragon{n}Tree, we oughta check out that lake up{n}ahead."
  },
  {
   "id": "s0158_04098",
@@ -2999,7 +2999,7 @@
    "ヴァイ"
   ],
   "jp": "……はっ!?",
-  "en": ""
+  "en": "...Huh!?"
  },
  {
   "id": "s0158_040a4",
@@ -3025,7 +3025,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "お。ようやく目を覚ましやがった",
-  "en": ""
+  "en": "Oh. Finally woke up."
  },
  {
   "id": "s0158_040c4",
@@ -3051,7 +3051,7 @@
    "ヴァイ"
   ],
   "jp": "俺は一体……あーっ！　Ｄ・Ｓ！{n}テメエさっきはよくも――誰が顔面{n}殴ってくれって頼んだよ！",
-  "en": ""
+  "en": "What the hell was... Aaah! D.S.! You bastard,{n}that was some nerve back there--who asked{n}you to punch me in the face!"
  },
  {
   "id": "s0158_04120",
@@ -3077,7 +3077,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "（チッ。覚えてんのか）それって{n}何の話だ？　オメエは電波が、電波が{n}とか言ってぶっ倒れちまったんだよ。{n}顎はその時に打ったんじゃないかあ？",
-  "en": ""
+  "en": "(Tch. He remembers.) What are you talking{n}about? You went \"the waves, the waves\"{n}and keeled over. Maybe you hit your jaw on{n}the way down?"
  },
  {
   "id": "s0158_041ac",
@@ -3103,7 +3103,7 @@
    "ヴァイ"
   ],
   "jp": "そ、そうだっけ……ってダマされて{n}たまるかあ！　何でアゴだって知って{n}んだよ。俺は顔としか言ってねえぞ！",
-  "en": ""
+  "en": "O-Oh, did I... Like hell I'm falling for that!{n}How'd you know it was my jaw? I only said{n}my face!"
  },
  {
   "id": "s0158_04214",
@@ -3129,7 +3129,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "げ……知恵がつきやがった。打ち{n}どころが良かったのか？　だったら{n}感謝されこそすれ責められる筋合いは{n}――",
-  "en": ""
+  "en": "Crap... He got smart. Must've hit him in just{n}the right spot? Then you oughta be thanking{n}me, not blaming me--"
  },
  {
   "id": "s0158_04280",
@@ -3155,7 +3155,7 @@
    "ヴァイ"
   ],
   "jp": "やかましーい！",
-  "en": ""
+  "en": "Shut the hell up!"
  },
  {
   "id": "s0158_04290",
@@ -3181,7 +3181,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "あっ、痛えなコイツ！　やんのか！",
-  "en": ""
+  "en": "Ow, you little punk! You wanna go!"
  },
  {
   "id": "s0158_042b4",
@@ -3207,7 +3207,7 @@
    "ヴァイ"
   ],
   "jp": "じょおとおだぜ！",
-  "en": ""
+  "en": "Bring it on!"
  },
  {
   "id": "s0158_042c8",
@@ -3233,7 +3233,7 @@
    "カイ"
   ],
   "jp": "うるさいな、もう。だから男ってのは{n}ダメなんだよな、ガキでさ……",
-  "en": ""
+  "en": "So noisy. That's what's wrong with men,{n}they're such brats..."
  },
  {
   "id": "s0158_0430c",
@@ -3259,7 +3259,7 @@
    "シーン"
   ],
   "jp": "そお？　どんな時でも元気でいいじゃ{n}ない。カイって頑なだもんね",
-  "en": ""
+  "en": "Really? Isn't it nice they're lively no matter{n}what? You're so stiff, Kai."
  },
  {
   "id": "s0158_0434c",
@@ -3285,7 +3285,7 @@
    "ヴァイ"
   ],
   "jp": "……あれれ？　俺どうしたんだ？{n}痛、イテテテ……？",
-  "en": ""
+  "en": "...Huh? What happened to me? Ow, ow,{n}ow...?"
  },
  {
   "id": "s0158_04380",
@@ -3311,7 +3311,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "あれれじゃねーよ。訊きてえのは{n}コッチのほうだぜ",
-  "en": ""
+  "en": "Don't \"huh\" me. That's what I wanna ask{n}you."
  },
  {
   "id": "s0158_043b4",
@@ -3335,7 +3335,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "何があったのかを聞いても、ヴァイ{n}には良く思い出せないようであった。{n}ただ、石像に睨まれたと思った瞬間、{n}抗い難い声が頭に直接響き、逆らおう{n}とすると頭蓋が割れるほどの激痛に{n}襲われたのだと言う。",
-  "en": ""
+  "en": "When asked what had happened, Vai{n}seemed unable to recall it well. He said{n}only that the moment he felt the statue{n}glare at him, a voice he could not resist{n}rang straight in his head, and when he{n}tried to defy it, a pain struck fit to split{n}his skull."
  },
  {
   "id": "s0158_04478",
@@ -3361,7 +3361,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "石像が原因と見て間違いねえだろう。{n}となると、ヴァイはあの森じゃあ役に{n}立ちそうにねえな",
-  "en": ""
+  "en": "The statue's gotta be the cause, no{n}question. In that case, Vai's gonna be no use{n}in that forest."
  },
  {
   "id": "s0158_044d0",
@@ -3387,7 +3387,7 @@
    "ヨルグ"
   ],
   "jp": "ヴァイ……母親のことを何か口走って{n}いたようだが？",
-  "en": ""
+  "en": "Vai... You seemed to be babbling something{n}about your mother?"
  },
  {
   "id": "s0158_04504",
@@ -3413,7 +3413,7 @@
    "ヴァイ"
   ],
   "jp": "俺が？　……そう言われてみると、{n}少しだけ思い出せるような気がするぜ{n}……",
-  "en": ""
+  "en": "Me? ...Now that you mention it, I think I can{n}remember a little..."
  },
  {
   "id": "s0158_04550",
@@ -3439,7 +3439,7 @@
    "ヴァイ"
   ],
   "jp": "自分のお袋の記憶はまだ戻ってねえん{n}だけどよ、頭痛と一緒に囁きかけて{n}くる声が、まるで母親に言い聞かせ{n}られてるみてえで――",
-  "en": ""
+  "en": "I still ain't got any memory of my own mom{n}back, but that voice whispering to me with{n}the headache, it felt just like my mother{n}lecturing me--"
  },
  {
   "id": "s0158_045cc",
@@ -3465,7 +3465,7 @@
    "ヴァイ"
   ],
   "jp": "それがＤ・Ｓ……アンタを襲えって{n}囁くんだ。そうすりゃ痛みから解放{n}されるって……そこで、もう頭ン中が{n}真っ白になっちまった",
-  "en": ""
+  "en": "And it was whispering at me to attack you,{n}D.S.... That I'd be free of the pain if I did...{n}Right then my head just went totally{n}blank."
  },
  {
   "id": "s0158_04648",
@@ -3491,7 +3491,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "母親の声、か……すると、さっきの{n}小娘は関係ねえのか――？",
-  "en": ""
+  "en": "A mother's voice, huh... So that little girl{n}from before's got nothing to do with it--?"
  },
  {
   "id": "s0158_04684",
@@ -3517,7 +3517,7 @@
    "ヴァイ"
   ],
   "jp": "……楽になってきた。もう大丈夫だぜ",
-  "en": ""
+  "en": "...It's easing off. I'm okay now."
  },
  {
   "id": "s0158_04a70",
@@ -3541,6 +3541,6 @@
    "Ｄ・Ｓ"
   ],
   "jp": "何があったのかを聞いても、ヴァイに{n}は良く思い出せないようであった。{n}ただ、石像に睨まれたと思った瞬間、{n}抗い難い声が頭に直接響き、逆らおう{n}とすると頭蓋が割れるほどの激痛に{n}襲われたのだと言う。",
-  "en": ""
+  "en": "When asked what had happened, Vai{n}seemed unable to recall it well. He said{n}only that the moment he felt the statue{n}glare at him, a voice he could not resist{n}rang straight in his head, and when he{n}tried to defy it, a pain struck fit to split{n}his skull."
  }
 ]

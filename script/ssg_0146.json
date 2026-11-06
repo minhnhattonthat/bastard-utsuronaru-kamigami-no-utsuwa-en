@@ -1989,7 +1989,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "脱出した一行が見たのは、空を焦がす{n}かの如くに噴き上がる壮大な火柱で{n}あった。龍樹は巨大な松明と化し、{n}再び空を覆った雲の下腹を赤い血の{n}色で染め上げる。",
-  "en": ""
+  "en": "What the escaped party saw was a{n}magnificent pillar of fire erupting as if to{n}scorch the sky. The Dragon Tree had{n}become a giant torch, staining the{n}underbelly of the clouds that again{n}covered the sky the red of blood."
  },
  {
   "id": "s0146_03248",
@@ -2013,7 +2013,7 @@
    "ラン"
   ],
   "jp": "龍樹が、燃える……",
-  "en": ""
+  "en": "The Dragon Tree is burning..."
  },
  {
   "id": "s0146_0325c",
@@ -2037,7 +2037,7 @@
    "ヴァイ"
   ],
   "jp": "畜生っ！　せっかく心臓を見つけた{n}のに、翼龍が焼き殺されちまった……",
-  "en": ""
+  "en": "Dammit! We finally find the heart, and the{n}wyvern gets burned to death..."
  },
  {
   "id": "s0146_032a4",
@@ -2061,7 +2061,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "――いいや、死んでねえ。判るぜ。{n}翼龍の鼓動がまだ伝わってくる……。{n}いや！　強まってるぜ！",
-  "en": ""
+  "en": "--Nope, it ain't dead. I can tell. I can still{n}feel the wyvern's heartbeat... No! It's getting{n}stronger!"
  },
  {
   "id": "s0146_03300",
@@ -2085,7 +2085,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "炎上する龍樹の中で、一段と激しい{n}炎の光輝が見てとれた。それは上昇を{n}始め、やがて凄まじい勢いで火柱の{n}頂に達する。燃え盛る龍樹ですら{n}霞ませる、他を圧する輝きであった。",
-  "en": ""
+  "en": "Within the burning Dragon Tree, a still{n}fiercer radiance of flame could be seen.{n}It began to rise, and soon reached the{n}top of the pillar of fire with terrific{n}force, a brilliance that overwhelmed all{n}else and dimmed even the blazing Dragon{n}Tree."
  },
  {
   "id": "s0146_033a8",
@@ -2109,7 +2109,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "それは不死鳥の如く、全身に炎を{n}纏った翼龍であった。妖魔の放った{n}雷撃すらも、復活を遂げた翼龍を灼き{n}殺すことはできなかった。むしろその{n}高熱を自らのエネルギーに転化し、{n}巨体をさらに膨張させながら、翼龍は{n}怒りの咆哮を樹海に轟かせた。",
-  "en": ""
+  "en": "It was the wyvern, clad in flame from{n}head to tail like a phoenix. Not even the{n}demon's lightning could burn the reborn{n}wyvern to death. It turned that heat into{n}its own energy instead and, its huge body{n}swelling further, roared its fury across{n}the sea of trees."
  },
  {
   "id": "s0146_03490",
@@ -2133,7 +2133,7 @@
    "カイ"
   ],
   "jp": "何という存在だ……むっ！　翼龍が{n}向きを変えるぞ！　あっちは……北、{n}そうだ！　樹棺城の――荊の壁の{n}方角だぞ！",
-  "en": ""
+  "en": "What a creature... Hm! The wyvern's turning!{n}That way is... north, yes! Toward the{n}Tree-Coffin Castle--toward the Wall of{n}Thorns!"
  },
  {
   "id": "s0146_03500",
@@ -2157,7 +2157,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "地龍の時と一緒だぜ……“螺の道”が{n}開きやがるのか――",
-  "en": ""
+  "en": "Same as with the Earth Dragon... So the{n}\"spiral road\" is opening up, huh--"
  },
  {
   "id": "s0146_03538",
@@ -2181,7 +2181,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "限界までエネルギーをたわめた翼龍は、{n}引き絞った弦から放たれる矢の如く、{n}凄まじい勢いで螺旋軌道を描きながら{n}飛び去った。突進する龍の巻き起こし{n}た衝撃に、龍樹は瞬時にその炎を{n}かき消されていた。",
-  "en": ""
+  "en": "Its energy drawn taut to the limit, the{n}wyvern flew off with terrific force along{n}a spiral path, like an arrow loosed from a{n}bowstring. The shock of the charging{n}dragon instantly blew out the flames of{n}the Dragon Tree."
  },
  {
   "id": "s0146_035fc",
@@ -2205,7 +2205,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "彼方で激しい破砕音が響き、強力な{n}結界が破られる際の、一瞬鼓膜が痛く{n}なるほどの大気の緊張が疾り抜ける。{page}膨大な龍のエネルギーは遠ざかり、{n}やがて樹海には静寂が訪れた。",
-  "en": ""
+  "en": "A violent crash of breaking rang out in{n}the distance, and a tension ran through{n}the air, sharp enough to hurt the{n}eardrums for a moment, as when a{n}powerful barrier is broken.{page}The dragon's vast energy receded, and at{n}last silence came to the sea of trees."
  },
  {
   "id": "s0146_036a4",
@@ -2229,7 +2229,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "圧倒的な光景に、一行は暫し言葉を{n}失っていた。その沈黙を破ったのは、{n}やはりＤ・Ｓであった。",
-  "en": ""
+  "en": "Before that overwhelming sight the party{n}stood speechless for a time. The one who{n}broke the silence was, as ever, D.S."
  },
  {
   "id": "s0146_03700",
@@ -2253,7 +2253,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "――恐らく、今ので荊の壁はブチ{n}破られているハズだぜ。結界が{n}砕かれる感じ……間違いねえ",
-  "en": ""
+  "en": "--I bet that just smashed the Wall of{n}Thorns wide open. That feeling of a barrier{n}shattering... No doubt about it."
  },
  {
   "id": "s0146_03758",
@@ -2277,7 +2277,7 @@
    "カイ"
   ],
   "jp": "行こう……確かめたいんだ。魔雷妃の{n}正体を――",
-  "en": ""
+  "en": "Let us go... I need to see it for myself. What{n}the Demon Thunder Queen truly is--"
  },
  {
   "id": "s0146_03788",
@@ -2301,7 +2301,7 @@
    "シーン"
   ],
   "jp": "樹棺城へ――",
-  "en": ""
+  "en": "To the Tree-Coffin Castle--"
  },
  {
   "id": "s0146_03798",
