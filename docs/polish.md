@@ -19,3 +19,12 @@ Minor style notes from the review pass, for one polish pass before release. Phas
 - [ ] s0046_015dc - "The moment ... by the moment" repeats: "The dragon's release was drawing nearer with every second."
 - [ ] s0050_017c0 - 痛…… is a wince, not a statement: "Ah... Forgive me."
 - [ ] s0050_03180 - "go back there once" is a calque of 一度: "so let's head back there."
+- [ ] s0064_010b8 - Ros flat, 戦い難いわね: "...My, this really is a tough place to fight."
+- [ ] s0064_02218 - "it could be read from this that" is stiff: "and it was plain that Macalpine had always been ready to betray them."
+- [ ] s0072_00a60 - おおっ as "Ooh!" reads camp for terse Jorg parrying a blow: "Hah!"
+- [ ] s0072_01098 - 懸命にこらえている as "holding it in" is ambiguous: "He was bearing it with all his might, but Schen's wound appeared to be worse than it looked."
+- [ ] s0076_00e28 - grammar, "appear to be cast": "appear to have been cast into this world".
+- [ ] s0076_0194c - "the kin of us who got tossed in" is awkward: "The only humans here are the ones who got tossed in, and they're all tied to us."
+- [ ] s0080_01404 - 許すかタコッ as "dumb octopus" is a calque of the insult: "Like hell I'd allow it, you moron!"
+- [ ] s0100_019ec - "Mug like a scowling hairy brute" is stiff: "With a mean bearded mug like that, and all you do is whine and whine!"
+- [ ] s0118_01918 - 送り出せれば is an unmet wish: "Could I but send the fort I built in this land to the original world, I would no longer endure my humiliating station, and would regain my former might--"
