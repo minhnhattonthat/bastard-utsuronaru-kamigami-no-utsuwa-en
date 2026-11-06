@@ -25,7 +25,13 @@ No Japanese seen, leave alone: event CG art, enemy sprites, map textures, the 15
 
 Still to tour: **in-game screens** (battle, menus, save, shop-less item screens, game over). Text there goes through the BIOS font unless this list says otherwise. The marker build in phase 5 is the real test: any Japanese that stays is a new row here.
 
-**Redrawn by `tools/cards.py` (rows 1-5):** 94 cards keep the rule and their own English subtitle, with the area name above it (canyon names follow the furigana: Little Canyon, Great Canyon). 1483/3 is 304×192 8bpp, whatever its header says (mode 0, 256-colour CLUT). Icons: `魔` -> `M`, `技` -> `A` (Arts). Row 6 still needs a ruling from the script's context. Rows 7-9 are open.
+**Redrawn by `tools/cards.py` (rows 1-5):** 94 cards keep the rule and their own English subtitle, with the area name above it (canyon names follow the furigana: Little Canyon, Great Canyon). 1483/3 is 304×192 8bpp, whatever its header says (mode 0, 256-colour CLUT). Icons: `魔` -> `M`, `技` -> `A` (Arts). Row 6 still needs a ruling from the script's context.
 
-## Movies: open question
-The skill's route is jPSXdec `-replaceframes`. Running a freshly downloaded jPSXdec was **refused by the auto-mode classifier** on 2026-11-06 (downloaded code), and I did not work around it. Options, phase 8 or earlier: user approves it; or write an MDEC encoder in Python for the two affected movies (frames must fit the original sector counts). Non-blocking.
+## Movies (rows 7-9)
+No jPSXdec: `tools/mdec.py` reads and writes STR v2 frames itself, and `tools/movie_text.py` draws `tools/movie_text.tsv` into #157 and #162; `build.py` writes the changed sectors, cached in `work/fmv/`.
+
+- Format, proved by re-encoding all 9,282 frames of the 6 ANIME movies byte-identical: 8-byte header (`words` = MDEC codes / 2, rounded up to 32; `0x3800`; qscale; version 2), 16-bit LE words read MSB first, macroblocks in columns, Cr Cb Y1-Y4, end marker `0111111111`, zero padding to a multiple of 4. Each sector's STR header holds the frame size and a copy of those 8 bytes. All frames are intra, 15 fps, 8 or 9 video sectors.
+- Only macroblocks a caption box touches are re-encoded; every other macroblock keeps its original bits. A frame that outgrows its sectors or the movie's largest `words` gets a higher qscale, re-quantised whole.
+- The box is a dark blur of the frame itself, opaque where the Japanese sits, soft at the edges. It fades in faster than the caption, so the Japanese doesn't show through. `movie_text.py edges OUT` shows each caption at its edges with frames just outside it.
+- Row 9: #158-161 hold no text at the sample rates read (every 32 frames on #158-159, every 12 on #160-161).
+- ffmpeg logs `ac-tex damaged at 0 0` on some frames, including an untouched original frame in a one-frame file. That isn't a fault in the frame: compare its samples instead.

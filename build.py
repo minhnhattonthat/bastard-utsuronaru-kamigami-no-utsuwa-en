@@ -61,6 +61,9 @@ def build(out=OUT, edits=True, marker=False, qa=None):
                 disc.write_file(f, "DUMMY", spill)
             disc.write_file(f, "SLPS_005.42", exe)
             disc.write_file(f, "RSRCALL.RBB", arc)
+            import movie_text
+
+            report["movie_sectors"] = movie_text.apply(f)
         else:
             disc.write_file(f, "SLPS_005.42", exe)
             disc.write_file(f, "RSRCALL.RBB", rbb.pack(arc))

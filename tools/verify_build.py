@@ -24,6 +24,8 @@ import disc  # noqa: E402
 import engine  # noqa: E402
 import extract  # noqa: E402
 import insert  # noqa: E402
+import mdec  # noqa: E402
+import movie_text  # noqa: E402
 import rbb  # noqa: E402
 import romdiff  # noqa: E402
 
@@ -49,8 +51,34 @@ def sectors(orig_path, new_path):
     for name in EDITED:
         lba, size = disc.FILES[name]
         keep[lba:lba + (size + 2047) // 2048] = False
+    keep[movie_text.caption_lbas(orig_path)] = False
     bad = np.flatnonzero(keep & (a != b).any(axis=1))
-    return [f"sector {s} changed, outside the EDITED files" for s in bad[:20]]
+    return [f"sector {s} changed, outside the EDITED files and the movie caption frames" for s in bad[:20]]
+
+
+def check_movies(orig_path, new_path):
+    """A redrawn frame parses to its full block count, fills only its own sectors, keeps its STR header but for size, and stays in the decoder's buffer."""
+    errs = []
+    with open(orig_path, "rb") as fa, open(new_path, "rb") as fb:
+        for movie, (lba, count) in movie_text.MOVIES.items():
+            fa.seek(lba * disc.SS)
+            fb.seek(lba * disc.SS)
+            old, new = mdec.frames(fa.read(count * disc.SS)), mdec.frames(fb.read(count * disc.SS))
+            max_words = max(struct.unpack_from("<H", f["data"])[0] for f in old.values())
+            for n, f in new.items():
+                o = old[n]
+                if f["sectors"] != o["sectors"] or (f["w"], f["h"]) != (o["w"], o["h"]):
+                    errs.append(f"movie {movie} frame {n}: sectors or size changed")
+                    continue
+                if f["data"] == o["data"]:
+                    continue
+                d = bytes(f["data"][:f["size"]])
+                q, blocks, _ = mdec.parse(d, f["w"], f["h"])
+                if mdec.encode(q, blocks) != d or f["data"][f["size"]:].strip(b"\0"):
+                    errs.append(f"movie {movie} frame {n}: not a clean frame")
+                if struct.unpack_from("<H", d)[0] > max_words:
+                    errs.append(f"movie {movie} frame {n}: {struct.unpack_from('<H', d)[0]} words, the movie's largest is {max_words}")
+    return errs
 
 
 def read_all(path):
@@ -250,6 +278,7 @@ def check_hook_spans(exe, errs):
 
 def verify(new_path):
     errs = sectors(disc.BIN, new_path)
+    errs += check_movies(disc.BIN, new_path)
     exe0, arc0, _ = read_all(disc.BIN)
     exe1, arc1, spill = read_all(new_path)
     old_e, new_e = entries(arc0, b""), entries(arc1, spill)
