@@ -69,7 +69,7 @@
    ""
   ],
   "jp": "そして――。{page}見上げた空に、巨大な影が覆い被さっ{n}ていた。風を孕み、天空を駆けるため{n}の雄々しき巨翼。尾は古代の鳥の祖の{n}ように鮮やかな羽根に包まれ、その{n}首は空を渡る風を読み取るが如くに{n}長く伸ばされている。",
-  "en": "And then--{page}A huge shadow loomed in the sky{n}overhead. Mighty giant wings, to take the{n}wind and race through the heavens. Its{n}tail was wrapped in vivid feathers, like the{n}ancestor of ancient birds, and its neck{n}stretched long, as if reading the winds{n}crossing the sky."
+  "en": "And then--{page}A huge shadow loomed in the sky{n}overhead. Mighty giant wings, to take the{n}wind and race through the heavens. Its{n}tail was wrapped in vivid feathers, like the{n}ancient forebear of all birds, and its neck{n}stretched long, as if reading the winds{n}crossing the sky."
  },
  {
   "id": "s0146_00a84",
@@ -93,7 +93,7 @@
    ""
   ],
   "jp": "紛うことなく、翼龍であった。だが、{n}それは今や空を駆けることはない。{page}内側を囲む樹壁から伸びた無数の蔦が{n}龍を絡め取り、縛り上げ、締め付けて{n}その全身を空中に拘束しているのだ。{n}それは龍の骸であり、無惨に吊られた{n}処刑の光景のようであった。",
-  "en": "It was a wyvern without a doubt. But it{n}would never again race through{n}the sky.{page}Countless vines stretching from the{n}surrounding walls of the tree tangled,{n}bound and squeezed the dragon, holding{n}its entire body in midair. It was the{n}dragon's corpse, and looked like the cruel{n}scene of a hanged criminal."
+  "en": "It was a wyvern without a doubt. But it{n}would never again race through{n}the sky.{page}Countless vines stretching from the{n}surrounding walls of the tree tangled,{n}bound and squeezed the dragon, holding{n}its entire body in midair. It was the{n}dragon's corpse, strung up like the victim{n}of some cruel execution."
  },
  {
   "id": "s0146_00b70",
@@ -645,7 +645,7 @@
    "サイクス"
   ],
   "jp": "それが近くにあり、エネルギーを{n}受け取ることができるからこそ、{n}翼龍の生命は尽きていないのだろう",
-  "en": "Since it lies nearby and the energy can be{n}received, the wyvern's life has not{n}run out."
+  "en": "It must lie nearby, where its energy can still{n}be received, or the wyvern's life would have{n}run out by now."
  },
  {
   "id": "s0146_015c0",
@@ -1677,7 +1677,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "ハハ！　凄え！　陽電子の渦に頭を{n}突っ込んだみてえだぜ――！",
-  "en": "Ha ha! Amazing! It's like sticking my head in a{n}vortex of positrons--!"
+  "en": "Ha ha! Hot damn! It's like I stuck my head in{n}a vortex of positrons--!"
  },
  {
   "id": "s0146_02c7c",
@@ -1701,7 +1701,7 @@
    "サイクス"
   ],
   "jp": "こ、この波動に影響されないのか？{n}いや、Ｄ・Ｓの力はむしろ増幅されて{n}いる……完全なる同調……龍とは、{n}龍とは一体――!?",
-  "en": "Y-You are unaffected by these waves? No,{n}D.S.'s power is in fact being amplified...{n}Perfect harmony... A dragon -- what in the{n}world is a dragon--!?"
+  "en": "Y-You are unaffected by these waves? No,{n}D.S.'s power is in fact being amplified...{n}Perfect harmony... A dragon... What in the{n}world is a dragon--!?"
  },
  {
   "id": "s0146_02cf4",
@@ -1845,7 +1845,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "最も殺し専門の妖魔ってワケかよ。{n}ケッ、焼殺は俺の専売特許だぜ！",
-  "en": "So you're the killing specialist of the{n}demons, huh? Tch, burning folks to death is{n}the great me's trademark!"
+  "en": "So you're the killing specialist of the{n}demons, huh? Tch, burning folks to death is{n}MY trademark!"
  },
  {
   "id": "s0146_03018",
@@ -2277,7 +2277,7 @@
    "カイ"
   ],
   "jp": "行こう……確かめたいんだ。魔雷妃の{n}正体を――",
-  "en": "Let us go... I need to see it for myself. What{n}the Demon Thunder Queen truly is--"
+  "en": "Let's go... I need to see it for myself. What{n}the Demon Thunder Queen truly is--"
  },
  {
   "id": "s0146_03788",

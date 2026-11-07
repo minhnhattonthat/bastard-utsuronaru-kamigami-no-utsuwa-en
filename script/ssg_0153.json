@@ -555,7 +555,7 @@
    "シェラ"
   ],
   "jp": "大いなる森は我々ドルイダスの故郷{n}――この地ならきっと、錆びついた{n}私の腕を蘇らせてくれる。その時こそ、{n}あなたがたの力となれるはず……",
-  "en": "The great forest is the homeland of we{n}druidesses--surely here my rusted skill can{n}be revived. When it is, I shall be able to lend{n}you my strength..."
+  "en": "The great forest is the homeland of us{n}druidesses--surely here my rusted skill can{n}be revived. When it is, I shall be able to lend{n}you my strength..."
  },
  {
   "id": "s0153_012f4",
@@ -1011,7 +1011,7 @@
    "ジオン"
   ],
   "jp": "それが……シェンが忽然と消えて{n}しまったのだ。ほんの一秒かそこらの{n}うちに、後ろにいたはずのあいつの{n}姿は煙のように――",
-  "en": "It is... Schen has vanished without a trace. In{n}a second or so, he who should have been{n}behind me was gone, like smoke--"
+  "en": "That is just it... Schen has vanished without{n}a trace. In a second or so he was gone from{n}behind me, like smoke--"
  },
  {
   "id": "s0153_01c0c",
@@ -1131,7 +1131,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "放っとくワケにゃいかねえ。{n}こっちには誰も来てねえんだから、{n}森の奥を探してみようぜ",
-  "en": "Can't just leave it be. Nobody came this way,{n}so let's check the deep forest."
+  "en": "Can't just leave it be. Nobody came this way,{n}so let's try deeper in the woods."
  },
  {
   "id": "s0153_02150",
@@ -1851,7 +1851,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "お前たちか？　姉君を傷つけて城に{n}追い返したというのは",
-  "en": "So it's you? The ones who wounded my big{n}sister and sent her running back to{n}the castle."
+  "en": "So it's you? The ones who wounded my elder{n}sister and sent her running back to{n}the castle."
  },
  {
   "id": "s0153_02e8c",
@@ -1875,7 +1875,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "――こんな奴らに敗北を喫するとは、{n}戦の魔女もやきが回ったものだね。{n}王鴉姉も、そろそろ主導権を私に{n}譲れば良いものを……",
-  "en": "--If she lost to this lot, the witch of war{n}must be losing her edge. Big sister King{n}Raven really ought to hand the lead over to{n}me by now..."
+  "en": "--If she lost to this lot, the witch of war{n}must be losing her edge. My elder sister King{n}Raven really ought to hand the lead over to{n}me by now..."
  },
  {
   "id": "s0153_02f08",
@@ -1899,7 +1899,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "まあ良いさ。私は姉君のような失策は{n}犯さない。魔雷妃の邪魔な意識には{n}完全に眠ってもらっているからね",
-  "en": "Oh well. I won't blunder the way my sister{n}did. I've put the Demon Thunder Queen's{n}meddling mind fast asleep."
+  "en": "Oh well. I won't blunder the way my elder{n}sister did. I've put the Demon Thunder{n}Queen's meddling mind fast asleep."
  },
  {
   "id": "s0153_02f6c",
@@ -1995,7 +1995,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "く……なるほど、姉君が負けたのは{n}油断ではなかったか……",
-  "en": "Ngh... I see, my sister's defeat wasn't{n}just carelessness..."
+  "en": "Ngh... I see, my elder sister's defeat wasn't{n}just carelessness..."
  },
  {
   "id": "s0153_030d8",
