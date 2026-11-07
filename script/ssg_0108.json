@@ -165,7 +165,7 @@
    "ボル"
   ],
   "jp": "？　何故その名前を？　おぬし、{n}それがしを知っているのでござるか!?",
-  "en": "? How do you know that name? Good sir, do{n}you know this one, forsooth!?"
+  "en": "Eh? How do you know that name? Good sir,{n}do you know this one, forsooth!?"
  },
  {
   "id": "s0108_00968",
@@ -333,7 +333,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "そーゆー暑苦しーのは苦手なんだよ。{n}ついてきたきゃ勝手にしろい。オメエ{n}以外はたいがいそんなヤツばっかだぜ",
-  "en": "I can't stand that sweaty, earnest stuff.{n}Follow us if you want. Everyone here but{n}you is pretty much that kind of{n}guy anyway."
+  "en": "I can't stand that sweaty, earnest stuff.{n}Tag along if you want. Everyone else here's{n}pretty much doing the same."
  },
  {
   "id": "s0108_00d08",

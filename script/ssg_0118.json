@@ -93,7 +93,7 @@
    "鬼忍将"
   ],
   "jp": "あの時始末をつけなかったツケが、{n}よもやこのような局面で訪れようとは{n}な。運命とは、皮肉なものよ――",
-  "en": "The price of not finishing you that day{n}comes due at such a moment. How ironic{n}fate is--"
+  "en": "To think the price of not finishing you that{n}day would come due at such a moment. How{n}ironic fate is--"
  },
  {
   "id": "s0118_009a8",
@@ -189,7 +189,7 @@
    "鬼忍将"
   ],
   "jp": "ならばそのクリスタルの霊力を奪い{n}返してくれよう。そして破界門を完全{n}とし、我らは異世界の新たな王となる{n}のだ！",
-  "en": "Then I shall take back the spirit power of{n}those crystals. Then the World-Breaker Gate{n}will be complete, and we shall be the new{n}kings of another world!"
+  "en": "Then I shall take back the spirit power of{n}those crystals. The World-Breaker Gate will{n}be complete, and we shall be the new kings{n}of another world!"
  },
  {
   "id": "s0118_00b8c",
@@ -2325,7 +2325,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "師より、後継の証として秘伝の名刀{n}ムラサメを託されたのはジンであった。{n}だが、それが優劣の差によるものでは{n}ないことをジンは知っていた。ガラの{n}肉体が生み出す力は、ジンの技術とは{n}違い後の世に伝えられるものではない。{n}それはあくまでガラ個人の強さであり、{n}決して真似のできぬ力であった。",
-  "en": "It was Jin whom the master entrusted{n}with the secret famed sword Murasame,{n}as the mark of his successor. But Jin knew{n}this was not a matter of who was better.{n}Gara's bodily power, unlike Jin's technique,{n}could not be passed down to later{n}generations. It was Gara's strength alone,{n}a power no one could ever imitate."
+  "en": "It was Jin whom the master entrusted{n}with the famed secret sword Murasame,{n}as the mark of his successor. But Jin knew{n}this was not a matter of who was better.{n}Gara's bodily power, unlike Jin's technique,{n}could not be passed down to later{n}generations. It was Gara's strength alone,{n}a power no one could ever imitate."
  },
  {
   "id": "s0118_02ef8",
@@ -2373,7 +2373,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "自分はガラに勝てないのではないか？{n}師はそれを哀れみ、ムラサメを自分に{n}託したのではないか？{page}この小さな疑いの点が、後にどす黒い{n}雲となってジンの生涯を覆い尽くす{n}ことになる。",
-  "en": "Could he not beat Gara? Had the master,{n}out of pity, entrusted the Murasame{n}to him?{page}That small dot of doubt would later{n}become a black cloud that blotted out all{n}of Jin's life."
+  "en": "Could he never beat Gara? Had the{n}master, out of pity, entrusted the{n}Murasame to him? That small dot of doubt{n}would later become a black cloud that{n}blotted out all of Jin's life."
  },
  {
   "id": "s0118_03020",
@@ -2949,7 +2949,7 @@
    "ガラ"
   ],
   "jp": "オレがいねえと心細いかも知れねえが、{n}よ",
-  "en": "I know you might feel lonely without{n}me, though."
+  "en": "You might get lonely without me, though."
  },
  {
   "id": "s0118_03df4",
