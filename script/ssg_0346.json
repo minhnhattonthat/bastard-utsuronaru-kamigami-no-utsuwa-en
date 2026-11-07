@@ -309,7 +309,7 @@
    "アビゲイル"
   ],
   "jp": "アビゲイル――予測した通り、暗黒僧{n}の正体はＤ・Ｓ四天王最後のひとりで{n}あった。彼もまたガラやネイと同じく{n}敵の精神支配を受けていることは明白{n}であったが、ふたりとは違って名前を{n}封じられてはおらぬ。記憶も奪われて{n}はいない様子で、彼の精神を拘束して{n}いるのは、これまでとは全く異なる術{n}であるらしかった。",
-  "en": "Abigail-- As predicted, the Dark Priest{n}proved to be the last of D.S.'s Divine Kings.{n}Clearly he too, like Gara and Nei, was{n}under the enemy's mind control, but unlike{n}those two his name had not been sealed.{n}Nor did his memories seem to have been{n}stolen; what bound his mind was, it{page}appeared, an art wholly unlike{n}those before."
+  "en": "Abigail-- As predicted, the Dark Priest{n}proved to be the last of D.S.'s Divine Kings.{n}Clearly he too, like Gara and Nei, was{n}under the enemy's mind control, but unlike{n}those two his name had not been sealed.{n}Nor did his memories seem to have been{n}stolen. What bound his mind appeared to{n}be an art wholly unlike those before."
  },
  {
   "id": "s0346_00d8c",
@@ -525,7 +525,7 @@
    "アビゲイル"
   ],
   "jp": "あはあああああぁ…神の加護を受けた{n}この私が、破れるなんて……これが、{n}人間の――力？",
-  "en": "Ahaaaaaah... That I, blessed with divine{n}protection, should be defeated... Is this the,{n}power, of humans?"
+  "en": "Ahaaaaaah... That I, blessed with divine{n}protection, should be defeated... Is this... the{n}power... of humans?"
  },
  {
   "id": "s0346_01070",
@@ -597,7 +597,7 @@
    "アビゲイル"
   ],
   "jp": "う……うう……これは、探していた、{n}答えなのか――？",
-  "en": "Ugh... Uhh... Is this, the answer, I was{n}looking for--?"
+  "en": "Ugh... Uhh... Is this... the answer... I was{n}looking for--?"
  },
  {
   "id": "s0346_01180",
@@ -1944,7 +1944,7 @@
    "イーカル"
   ],
   "jp": "我はこの世界を廃棄する。癌生物に{n}よる汚染は失敗に終わったが、もはや{n}事の収拾は虚神王に任せる他はない。{n}Ｄ・Ｓ――貴様の力は諦めようぞ",
-  "en": "I shall discard this world. The pollution by{n}cancer creatures has failed, and now there{n}is nothing for it but to leave the rest to the{n}Hollow God King. D.S.--{page}I shall give up on your power."
+  "en": "I shall discard this world. The pollution by{n}cancer creatures has failed, and now there{n}is nothing for it but to leave the rest to the{n}Hollow God King.{page}I shall give up on your power, D.S."
  },
  {
   "id": "s0346_02fec",
@@ -2448,7 +2448,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "三匹の龍の頭が、一斉に吐息を放射{n}した。水龍からは限りなく絶対零度に{n}近い極低温のブレス、翼龍は超高電圧{n}を内包した雷のブレスを――そして{n}地龍は炭素を一瞬にダイヤモンドへと{n}変換するほどの、極大の質量を秘めた{n}気化金属のブレスを超圧力で浴びせ{n}かける。",
-  "en": "The three dragon heads loosed their{n}breath at once. From the Water Dragon, a{n}breath of extreme cold, near absolute{n}zero; from the wyvern, a breath of{n}lightning holding ultra-high voltage; and{n}the Earth Dragon poured out under{n}super-pressure a breath of vaporized{n}metal, of such colossal mass as to turn{page}carbon to diamond in an instant."
+  "en": "The three dragon heads loosed their{n}breath at once. From the Water Dragon, a{n}breath of extreme cold, near absolute{n}zero. From the wyvern, a breath of{n}lightning holding ultra-high voltage.{page}And the Earth Dragon poured out under{n}super-pressure a breath of vaporized{n}metal, of such colossal mass as to turn{n}carbon to diamond in an instant."
  },
  {
   "id": "s0346_03928",
@@ -2664,7 +2664,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "テメーのソレは聞き飽きたぜ。前にゃ{n}アンスラのヤツにも操られやがったし{n}よお。そもそもそのナス頭がちゃんと{n}働いたコトあんのかぁ？",
-  "en": "I'm sick of hearing that from you. You got{n}controlled by Anthra before too. Has that{n}eggplant head of yours ever worked right{n}even once?"
+  "en": "I'm sick of hearing that from you. You got{n}controlled by Anthra before too. Has that{n}eggplant-head of yours ever worked right{n}even once?"
  },
  {
   "id": "s0346_03ce0",
@@ -4728,7 +4728,7 @@
    "カル"
   ],
   "jp": "ダーク……シュナイダ……{n}本物、なの、か？",
-  "en": "Dark... Schneider... Are you, real?"
+  "en": "Dark... Schneider... Are... you... real?"
  },
  {
   "id": "s0346_060ec",
@@ -4872,7 +4872,7 @@
    "ボル"
   ],
   "jp": "ガルざまぁー、えぐっえぐっ、ぐふぅ",
-  "en": "Kall-samaaa, hic, hic, gwuh, forsooth."
+  "en": "Gall-zamaaa, hic, hic, gwuh, forsooth."
  },
  {
   "id": "s0346_061e4",
@@ -4944,7 +4944,7 @@
    "バ・ソリー"
   ],
   "jp": "カル様に早く回復して頂かねばっ！{n}このバ・ソリーの体内より取り出し{n}たる再生蟲をお飲み頂いてぇ――",
-  "en": "Kall-sama must recover quick! Drink this, this{n}regeneration bug drawn from the body of{n}Ba Thory--"
+  "en": "Kall-sama must recover quickly! Drink this{n}regeneration bug, drawn from the very{n}body of Ba Thory--"
  },
  {
   "id": "s0346_062a0",
@@ -5232,7 +5232,7 @@
    "ガラ"
   ],
   "jp": "ヨーコ玉の癒しによって力を取り戻し{n}たカルは、迅速に状況を語り始めた。",
-  "en": "His strength restored by the Yoko orb's{n}healing, Kall quickly began to tell{n}the situation."
+  "en": "His strength restored by the Yoko orb's{n}healing, Kall quickly laid out{n}the situation."
  },
  {
   "id": "s0346_06584",
@@ -5304,7 +5304,7 @@
    "ガラ"
   ],
   "jp": "虚神から見れば、カルは最も精神支配{n}しやすい標的であった。だが、かつて{n}Ｄ・Ｓによりこのトラウマから救われ{n}たカルはもはや惑うことなく、予想外{n}に強靱な意志力をもって洗脳の網を{n}くぐり抜けた。そしてその精神支配の{n}念波を辿り、ただひとり高次意識界へ{n}とシフトしたのであった。",
-  "en": "To the Hollow Gods, Kall was the easiest{n}target for mind control. But Kall, once{n}saved from this trauma by D.S., no longer{n}wavered, and with unexpectedly tough{n}willpower slipped through the net of{n}brainwashing. Following the mental waves{n}of that control, he then shifted alone to{n}the Higher Consciousness Realm."
+  "en": "To the Hollow Gods, Kall was the easiest{n}target for mind control. But Kall, once{n}saved from this trauma by D.S., no longer{n}wavered, and with unexpectedly tough{n}willpower slipped through the net of{n}brainwashing. Following the mind waves of{n}that control, he then shifted alone to the{n}Higher Consciousness Realm."
  },
  {
   "id": "s0346_067d8",
