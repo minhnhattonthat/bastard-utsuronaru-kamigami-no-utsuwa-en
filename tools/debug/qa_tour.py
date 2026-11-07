@@ -41,6 +41,8 @@ def main():
         rows = [r.split("\t")[0] for r in (WARP / f"results_{g}.tsv").read_text(encoding="utf-8").splitlines()]
         if g in ("system", "menu", "battle", "ending"):
             for name in rows:
+                if name.startswith("ending_blurbs_") and name != "ending_blurbs_19":  # same screen; the draw log has each blurb
+                    continue
                 for i, p in enumerate(sorted(glob.glob(str(WARP / name / "sheet*.png")))):
                     if name in FIRST_ONLY and i:
                         break

@@ -70,9 +70,10 @@ def main():
     sheet([W / n / "final.png" for n in maps_dirs], SHEETS / "maps.png")
     sheet([W / n / "f001200.png" for n in maps_dirs], SHEETS / "map_cards.png")
     with open(Path(__file__).with_name("scenes.tsv"), encoding="utf-8", newline="") as f:
-        special = [r["name"] for r in csv.DictReader(f, delimiter="\t", quoting=csv.QUOTE_NONE) if r["group"] not in ("event", "map")]
+        special = [r["name"] for r in csv.DictReader(f, delimiter="\t", quoting=csv.QUOTE_NONE) if r["group"] not in ("event", "map", "sweep", "battlemap")]
     # the last shot, unless the scene has faded out by then (ending_thanks): then its fullest shot
-    sheet([W / n / "final.png" if (W / n / "final.png").stat().st_size >= BLACK_BYTES
+    # (a sweep scene stops itself and has no final shot)
+    sheet([W / n / "final.png" if (W / n / "final.png").exists() and (W / n / "final.png").stat().st_size >= BLACK_BYTES
            else max((W / n).glob("f0*.png"), key=lambda p: p.stat().st_size) for n in special], SHEETS / "special.png")
     proofs = W.parent / "warp_proofs"  # a directory: 400 paths overflow the Windows command line
     shutil.rmtree(proofs, ignore_errors=True)
