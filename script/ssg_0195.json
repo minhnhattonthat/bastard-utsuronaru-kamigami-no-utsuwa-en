@@ -909,7 +909,7 @@
    "ラン"
   ],
   "jp": "妖魔ども、西の塔に逃げると言って{n}いたな。すぐに追おう！",
-  "en": "Those demons said they would flee to the{n}western tower. Let us chase them{n}at once!"
+  "en": "Those demons said they would flee to the{n}western spire. Let us chase them at once!"
  },
  {
   "id": "s0195_017fc",
@@ -1318,7 +1318,7 @@
    "ヨルグ"
   ],
   "jp": "……俺が、行く。あの鏡を砕くこと{n}さえできれば、ここを通れるように{n}なるだろう",
-  "en": "...I'll go. Smash that mirror, and we{n}can pass."
+  "en": "...I will go. Smash that mirror, and we{n}can pass."
  },
  {
   "id": "s0195_01cc8",
@@ -1798,7 +1798,7 @@
    "ヴァイ"
   ],
   "jp": "うおっ！　……ヨルグはこれ以上の{n}痛みに耐えてやがんのか？",
-  "en": "Uwoh! ...Jorg's taking pain worse than this?"
+  "en": "Whoa! ...Jorg's taking pain worse than this?"
  },
  {
   "id": "s0195_02430",
@@ -1918,7 +1918,7 @@
    "ヨシュア"
   ],
   "jp": "ほとんど思考が停止した意識の中で、{n}ぼんやりと呟く自分がいた。酷使され{n}た神経は、もはや筋肉にろくに命令を{n}伝えようとしない。激痛への無意識の{n}恐怖が、次の一歩を踏み出させないの{n}かも知れなかった。",
-  "en": "In a mind with thought nearly stopped,{n}there was a self murmuring vaguely. His{n}overworked nerves would hardly send{n}orders to his muscles anymore. Perhaps it{n}was unconscious fear of the agony that{n}would not let him take the next step."
+  "en": "In a mind with thought all but stopped, he{n}heard himself murmuring vaguely. His{n}overworked nerves would hardly send{n}orders to his muscles anymore. Perhaps it{n}was unconscious fear of the agony that{n}would not let him take the next step."
  },
  {
   "id": "s0195_026d0",
@@ -2038,7 +2038,7 @@
    "ヨルグ"
   ],
   "jp": "おおおおおお――っ！",
-  "en": "Oooooooooh--!"
+  "en": "Raaaaaaah--!"
  },
  {
   "id": "s0195_02950",
@@ -2638,7 +2638,7 @@
    "ヨルグ"
   ],
   "jp": "彼は決して、野盗たちの仲間などでは{n}なかった。都合良く労働を押しつけ、{n}気晴らしに殴り、何かを得れば奪い{n}取る――それだけの存在であり、使い{n}抜いて潰しても構わぬ家畜の如き扱い{n}を受け続けた。そうして過ごした数年{n}は、本来純粋で優しい彼の心に拭い{n}ようのない猜疑と、他者への深い憎悪{n}を植え付けてしまっていた。",
-  "en": "He was by no means one of the bandits.{n}They pushed their labor on him as they{n}pleased, beat him for fun, and took{n}whatever he got: that was all he was to{n}them, and he went on being treated like{n}livestock that could be worked to death.{n}Those few years planted indelible{n}suspicion and a deep hatred of others{page}in his once pure, gentle heart."
+  "en": "He was by no means one of the bandits.{n}They pushed their labor on him, beat him{n}for fun, and took whatever he got: to{n}them he was livestock that could be{n}worked to death. Those few years planted{n}an indelible suspicion and a deep hatred{n}of others in his once pure,{n}gentle heart."
  },
  {
   "id": "s0195_034e0",
@@ -3406,7 +3406,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "見覚えがあるな……！　そうだぜ！{n}あの幻覚の中で、ガキが手にして{n}やがったマチェットだ！",
-  "en": "I've seen that before...! Hell yeah! That's the{n}machete the brat had in that vision!"
+  "en": "I've seen that before...! Yeah, that's it! That's{n}the machete the brat had in that vision!"
  },
  {
   "id": "s0195_04f30",
@@ -3622,7 +3622,7 @@
    "ヨルグ"
   ],
   "jp": "あの時、あいつはアジトから真っ先に{n}逃げようとした。蓄えた金目のものを{n}集め、仲間には徹底抗戦を命じて、{n}裏側の出口から独り脱出を図った――",
-  "en": "That time, he was the first to try to run{n}from the hideout.{page}He gathered up the valuables they'd stored,{n}ordered his men to fight to the last, and{n}tried to slip out alone through the{n}back way--"
+  "en": "That time, he was the first to try to run{n}from the hideout.{page}He gathered up the valuables they had{n}stored, ordered his men to fight to the last,{n}and tried to slip out alone through the{n}back way--"
  },
  {
   "id": "s0195_05230",

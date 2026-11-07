@@ -333,7 +333,7 @@
    "ウンディーネＢ"
   ],
   "jp": "いいわ。でも、ごほうびがないと{n}イヤー",
-  "en": "Okay. But not without a reward!"
+  "en": "Okay. But no reward, no deeeal!"
  },
  {
   "id": "s0191_00f3c",
@@ -405,7 +405,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "ここはギブアンドテイクでいくしか{n}ねーようだな。一番の美形と言えば{n}２位を宇宙の果てまで引き離して俺様{n}なんだが、そうもいかねえし――",
-  "en": "Looks like we gotta play this give-and-take.{n}When it comes to the best-looking, it's the{n}great me, leaving number two at the far{page}end of the universe, but that ain't gonna{n}work here--"
+  "en": "Looks like we gotta play give-and-take.{n}Best-looking is the great me, with number{n}two way off at the end of the universe, but{n}that ain't gonna work here--"
  },
  {
   "id": "s0191_01060",
@@ -979,7 +979,7 @@
    "ヨルグ"
   ],
   "jp": "まったくその通りだぞ（もしや、{n}俺もダマされているのでわ……）",
-  "en": "Absolutely right (Could it be that I am being{n}fooled as well...)"
+  "en": "Absolutely right. (Could it be that I am being{n}fooled as well...)"
  },
  {
   "id": "s0191_016c0",
@@ -1051,7 +1051,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "はーい",
-  "en": "Yes!"
+  "en": "Yeees!"
  },
  {
   "id": "s0191_01730",
@@ -1459,7 +1459,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "退屈でーす",
-  "en": "We're bored!"
+  "en": "We're boooored!"
  },
  {
   "id": "s0191_01bc8",
@@ -1723,7 +1723,7 @@
    "ボル"
   ],
   "jp": "そ、それがしでござるか？　まあ、{n}確かにモテないほうではなかったで{n}ござるよ。とりわけ女盛りの御婦人は{n}このダンディズムにメロメロ……",
-  "en": "Th-This one, is it? Well, it is true this one{n}has not been unpopular. Ladies in their{n}prime, above all, swoon at this dandyism..."
+  "en": "Th-This one, is it? Well, it is true this one{n}has not been unpopular, forsooth. Ladies in{n}their prime, above all, swoon at{n}this dandyism..."
  },
  {
   "id": "s0191_01ecc",
@@ -2301,7 +2301,7 @@
    "バ・ソリー"
   ],
   "jp": "うほっ？",
-  "en": "Uho?"
+  "en": "Oho?"
  },
  {
   "id": "s0191_02430",
@@ -2997,7 +2997,7 @@
    "バ・ソリー"
   ],
   "jp": "おお、珍蟲ちゃんの眼が赤い！{n}空腹に我を忘れておるのかあ――!?",
-  "en": "Oh, little rare bug's eyes are red! Has{n}hunger made it lose itself!?"
+  "en": "Oh, little rare bug's eyes are red! Has{n}hunger driven it out of its mind!?"
  },
  {
   "id": "s0191_03930",
@@ -3361,7 +3361,7 @@
    "シーラ"
   ],
   "jp": "な……な、な？",
-  "en": "Wh... Wh, wh?"
+  "en": "Wh... Wh-what?"
  },
  {
   "id": "s0191_03d6c",
@@ -3512,7 +3512,7 @@
    "シーラ"
   ],
   "jp": "仮死状態になったのですか……",
-  "en": "So it has gone into a state of{n}suspended life..."
+  "en": "So it has gone into suspended animation..."
  },
  {
   "id": "s0191_03f20",
@@ -3536,7 +3536,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "あとでバ・ソリーのヤツにくれて{n}やろう。ヴァイ、拾っときなさい",
-  "en": "We'll give it to Ba Thory later. Vai, pick{n}it up."
+  "en": "We'll give it to Ba Thory later. Vai, be a dear{n}and pick it up."
  },
  {
   "id": "s0191_03f60",
@@ -3894,7 +3894,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "絶命した巨大甲殻類の屍は、岬を{n}離れて湖上を漂ってゆく。この湖には{n}川へと続く流れがあり、屍はそれに{n}乗って流されているようだった。{page}このままいけば川の水源は堰き止め{n}られ、もうひとつの湖へ流れ込む水も{n}止まるものと思われた。",
-  "en": "The dead giant crustacean's corpse left{n}the cape and drifted over the lake. A{n}current here led into the river, and it{n}seemed the corpse was being carried{n}along it.{page}At this rate it would dam the river at its{n}source, and the water flowing into the{n}other lake would stop too."
+  "en": "The corpse of the giant crustacean left{n}the cape and drifted over the lake. A{n}current here led into the river, and it{n}seemed the corpse was being carried{n}along it.{page}At this rate it would dam the river at its{n}source, and the water flowing into the{n}other lake would stop too."
  },
  {
   "id": "s0191_04c30",
@@ -4302,7 +4302,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "はーい。お待ちどおさまー",
-  "en": "Yes! Sorry to keep you!"
+  "en": "Yeees! Sorry to keep youuu!"
  },
  {
   "id": "s0191_05410",
@@ -5334,7 +5334,7 @@
    "シェン"
   ],
   "jp": "ああ……オレは流されるままに……{n}うおおっ！　最低だ、ううう……",
-  "en": "Ah... I just let myself get swept along...{n}Uwooh! I'm the lowest, ugh..."
+  "en": "Ah... I just let myself get swept along...{n}Aaargh! I'm the lowest, ugh..."
  },
  {
   "id": "s0191_05cc0",
@@ -5526,7 +5526,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "？　口に出せねえよーな真似でも{n}しやがったのか？　このムッツリめ！",
-  "en": "Huh? You do something you can't even say{n}out loud? You sneaky bastard!"
+  "en": "Huh? You do something you can't even say{n}out loud? You closet perv!"
  },
  {
   "id": "s0191_05dec",
@@ -5718,7 +5718,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "そりゃ“河豚”だ。そんなボケする{n}ヤツがイルカ！　……と言う結果が{n}出ましたが、サイクスさん？",
-  "en": "That's a blowfish. Nobody's this dumb on{n}porpoise! ...And those are the{n}results, Sykes-san?"
+  "en": "A blowfish is a blowfish. Nobody's this dumb{n}on porpoise! ...And those are the{n}results, Sykes-san?"
  },
  {
   "id": "s0191_05f3c",

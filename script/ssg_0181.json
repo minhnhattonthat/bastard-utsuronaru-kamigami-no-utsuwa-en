@@ -669,7 +669,7 @@
    "ヴァイ"
   ],
   "jp": "あれで二人とも笑ってるのが不気味{n}だなぁ。血の気がなくなって手が白く{n}なってるけど……",
-  "en": "Creepy how they're both smiling through{n}that. Their hands've gone white from no{n}blood, though..."
+  "en": "Creepy how they're both smiling through{n}that. Their hands've gone white, though. No{n}blood left in 'em..."
  },
  {
   "id": "s0181_00fe0",
@@ -885,7 +885,7 @@
    "ブラド"
   ],
   "jp": "うお？　……あ痛ててて、うーっ、{n}ぶはっ！",
-  "en": "Uwoh? ...Ow, ow, ow, ngh, pwah!"
+  "en": "Wha? ...Ow, ow, ow, ngh, pwah!"
  },
  {
   "id": "s0181_015bc",
@@ -1173,7 +1173,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "宝石を嵌めたものの、何かが起こる{n}気配はない。{page}一行が失望しかけたその時、幽かに{n}壁画の龍が身じろぎしたように思えた。{n}宝石の左眼は少しずつ、やがて爛々と{n}輝き始め、翼龍の絵は魂を得たかに{n}その鮮やかな翼を羽ばたかせ始める。",
-  "en": "Though they set the jewel, nothing{n}seemed to happen.{page}Just as the party started to despair, the{n}dragon on the mural seemed to stir{n}faintly. The jeweled left eye began to{n}shine, little by little and then blazing, and{n}the painted wyvern began to beat its{n}vivid wings as if it had gained a soul."
+  "en": "They set the jewel, but nothing seemed{n}to happen.{page}Just as the party started to despair, the{n}dragon on the mural seemed to stir{n}faintly. The jeweled left eye began to{n}shine, little by little and then blazing, and{n}the painted wyvern began to beat its{n}vivid wings as if it had gained a soul."
  },
  {
   "id": "s0181_01b64",
@@ -1389,7 +1389,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "巨大な壁画が、そこに祀られていた。{page}色鮮やかな顔料を用いて、天駆ける{n}翼龍の姿が生き生きと描かれている。{n}間違いなくそれがこの聖域の核となる{n}場所であり、妖魔が封鎖してでも他者{n}を近づけたくない要所であった。",
-  "en": "A giant mural was enshrined there.{page}With vivid pigments, a wyvern racing{n}across the heavens was lifelike in its{n}detail. This was surely the core of the{n}sanctuary, the key spot the demons{n}would seal off to keep others away."
+  "en": "A giant mural was enshrined there.{page}In vivid pigments, a wyvern racing across{n}the heavens had been painted to the life.{n}This was surely the core of the{n}sanctuary, the key spot the demons{n}would seal off to keep others away."
  },
  {
   "id": "s0181_01e58",
