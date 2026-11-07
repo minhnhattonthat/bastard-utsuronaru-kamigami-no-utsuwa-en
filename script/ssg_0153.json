@@ -843,7 +843,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "！　血の痕は森の奥に続いてるぜ！{n}この程度の出血ならシェンは死んじゃ{n}いねえ。すぐに追うぞ！",
-  "en": "! The blood trail goes deeper into the forest!{n}A little blood like that ain't gonna kill Schen.{n}We go after him now!"
+  "en": "Look! The blood trail goes deeper into the{n}forest! A little blood like that ain't gonna kill{n}Schen. We go after him now!"
  },
  {
   "id": "s0153_01a64",
@@ -2525,7 +2525,7 @@
    "ジオン"
   ],
   "jp": "！　幻影か――",
-  "en": "! An illusion--"
+  "en": "What!? An illusion--"
  },
  {
   "id": "s0153_03870",
