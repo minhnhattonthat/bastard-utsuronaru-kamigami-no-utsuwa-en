@@ -141,7 +141,7 @@
    "シーン"
   ],
   "jp": "何がいるの？",
-  "en": "What is here?"
+  "en": "What's in here?"
  },
  {
   "id": "s0215_00a7c",
@@ -165,7 +165,7 @@
    "カイ"
   ],
   "jp": "何がいるんだ？",
-  "en": "What's here?"
+  "en": "What's in here?"
  },
  {
   "id": "s0215_00a8c",
@@ -1365,7 +1365,7 @@
    "ヴァイ"
   ],
   "jp": "遺跡から離れて浮上してきたのは、{n}雪原で見たあの巨獣であった。{n}この巨大な生物は天を覆う雪の層を{n}抜け、エーテルの海を自在に泳ぎ{n}回っていたのだ。",
-  "en": "What had left the ruins and come floating{n}up was that great beast they had seen{n}on the snowfield. This huge creature{n}passed through the layer of snow{n}covering the sky, and swam freely{n}through the sea of ether."
+  "en": "What had left the ruins and come floating{n}up was that great beast they had seen{n}on the snowfield. This huge creature had{n}been passing through the layer of snow{n}that roofed the sky, and swimming freely{n}through the sea of ether."
  },
  {
   "id": "s0215_01ff0",
