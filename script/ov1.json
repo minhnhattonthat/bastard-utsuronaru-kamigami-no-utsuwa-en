@@ -2314,7 +2314,7 @@
    "ov1:d:48030"
   ],
   "jp": "いくつもの残像を残しつつ、{n}%sは高速で移動しはじめた！",
-  "en": "Leaving many afterimages,{n}%s began to move at{n}high speed!"
+  "en": "%s began to move at{n}high speed, leaving many afterimages!"
  },
  {
   "id": "ov1_02b9c",
@@ -2566,7 +2566,7 @@
    "ov1:d:48084"
   ],
   "jp": "%sが叫ぶと、{n}床から大量の水が吹きだした",
-  "en": "%s shouted, and a{n}great mass of water spouted from{n}the floor."
+  "en": "%s shouted, and a{n}flood of water spouted from the floor."
  },
  {
   "id": "ov1_02f48",
@@ -2662,7 +2662,7 @@
    "ov1:d:480a4"
   ],
   "jp": "%sが軽く{n}地に触れると、大地震が発生した",
-  "en": "%s touched the{n}ground lightly, and a great{n}earthquake struck."
+  "en": "%s touched the{n}ground, and a great earthquake struck."
  },
  {
   "id": "ov1_0309c",
@@ -2854,7 +2854,7 @@
    "ov1:d:480e4"
   ],
   "jp": "無数の電光が空をはしり、{n}次々と地面に突き立った",
-  "en": "Countless bolts ran across the sky and{n}stabbed into the ground, one{n}after another."
+  "en": "Countless bolts ran across the sky and{n}stabbed into the ground one by one!"
  },
  {
   "id": "ov1_033b4",
@@ -3046,7 +3046,7 @@
    "ov1:d:48124"
   ],
   "jp": "魔力を込めた打ち針が、{n}次々と影に突きたった！",
-  "en": "Throwing needles charged with magic{n}stabbed into the shadow, one{n}after another!"
+  "en": "Throwing needles charged with magic{n}stabbed into the shadow one by one!"
  },
  {
   "id": "ov1_036c8",
@@ -11021,6 +11021,6 @@
    "ov1:c:398c8/398cc"
   ],
   "jp": "・・・・・・・・・・・",
-  "en": "..........."
+  "en": "......................"
  }
 ]

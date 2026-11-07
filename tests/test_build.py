@@ -1,4 +1,5 @@
 """The shipped build, made fresh here: every write in its place and every pointer leading to its English (tools/verify_build.py)."""
+import json
 import sys
 from pathlib import Path
 
@@ -30,6 +31,14 @@ def test_wrap_ends_a_page_on_a_full_sentence_when_it_can():
 def test_battle_log_top_row_is_one_line():
     e = {"id": "ov1_00000", "jp": "[01]%sの魔法攻撃！%M%z%z", "kind": "text", "en": ""}
     assert batches.box(e)[:2] == (216, 1)
+    e = {"id": "ov1_00000", "jp": "%sが叫ぶと、{n}床から", "kind": "text", "en": ""}
+    assert batches.box(e)[:2] == (216, 2)
+
+
+def test_target_leader_dots_outlast_the_longest_name():
+    # the game prints this string from byte strlen(name) on; past its end it prints whatever lies next (a stray `e`)
+    entries = json.loads((ROOT / "script/ov1.json").read_text(encoding="utf-8"))
+    assert len(next(e for e in entries if e["id"] == "ov1_479a8")["en"]) >= 22
 
 
 def test_wrap_ends_a_page_early_rather_than_leave_a_word_or_two():

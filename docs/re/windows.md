@@ -16,7 +16,7 @@ Measured in game on stress builds: `build.py --marker --qa FILE.json` with a rul
 ## Battle (`ov1`)
 | Box | px | Lines | Evidence |
 |---|---|---|---|
-| Battle message | 216 (a glyph starting at x 216 wraps: `ov1_0340c` left `f` alone on a row; 221 px wrapped) | 3 | `ev_1_18_0001`, and `ev_3_15_0400` for `ov1_0340c` |
+| Battle message | 216 (a glyph starting at x 216 wraps: `ov1_0340c` left `f` alone on a row; 221 px wrapped) | 2: under the `[01]` top row a third row scrolls the first away (`ov1_02f20` showed only `great mass of water spouted from / the floor.`) | `ev_1_18_0001`, and `ev_3_15_0400` for `ov1_0340c` |
 | Battle message, `[01]` lines | 216, one row: `[01]` is the log's fixed top row, later lines scroll under it, and `{n}` in it prints the second line over the start of the first (`attack! :oji's magic`) | 1 | `ev_1_18_0001`, same on the original |
 | Command labels (`陣形 移動 攻撃 防御 道具`) | 32 | 1 | `battle_commands`: past that it clips at the box edge |
 | Formation row (`ov1_01044` box) | 46 | 1 | `battle_commands` |
@@ -24,7 +24,7 @@ Measured in game on stress builds: `build.py --marker --qa FILE.json` with a rul
 | Information, formation description (table 393, 63 bytes) | 192 | 2 | `battle_commands`, log |
 | Guard, Item and Equipment sub-menus (`ov1_010ec`-`ov1_01134`) | 52, then it clips | 1 | play session from `battle_party`: `Change Ge`, `Main Weap` cut, `Accessory` (51) whole |
 | Information box, command help (`batches.OV1_INFO`) | 192 | 2 | same session: an overlong first line wrapped and the box scrolled, leaving only `my / attacks.` |
-| Selected target, enemy name (tables 551-736, 19 bytes) | 120 (draw log; the HP starts 133 px in) | 1 | `ev_2_10_0700` with a 19-character ruler (114 px): it fits |
+| Selected target, enemy name (tables 551-736, 19 bytes) | 120 (draw log; the HP starts 133 px in) | 1 | `ev_2_10_0700` with a 19-character ruler (114 px): it fits. Leader dots `ov1_479a8` print at x = 6 x name bytes + 4, from byte `name bytes` of the string, so they need 22 bytes: 800F925C |
 
 ## Camp (`ov2`, EXE, tables)
 | Box | px | Lines | Evidence |

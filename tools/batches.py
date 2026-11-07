@@ -86,7 +86,7 @@ def box(e):
             return (32 if w and w <= 36 else 200), 1, 200, False  # labels
         if jp.startswith("[01]"):  # the log's fixed top row: a second line prints over its start, and it wraps like any row
             return 216, 1, 216, False
-        return 216, 3, 216, True  # the log wraps a glyph that starts at x 216 (ov1_0340c: `f` alone on a row)
+        return 216, 2, 216, True  # the log wraps a glyph that starts at x 216 (ov1_0340c: `f` alone on a row); under the top row a 3-row line loses its first (ov1_02f20)
     if i.startswith("ov2"):
         return (32 if len(jp) <= 2 else 212), 1, 212, False
     if i.startswith("ov4"):
