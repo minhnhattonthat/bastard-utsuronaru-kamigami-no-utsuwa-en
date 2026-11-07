@@ -156,3 +156,4 @@ Minor style notes from the review pass, for one polish pass before release. Phas
 - [x] many (`ssg_*`, `ov4`) - `--.` from ――。 reads oddly on screen (`a brief rest--.`, `hiding a certain secret within himself--.`): decided `--`, the glossary's ――; 87 entries changed with `batches.py fix`.
 - [x] monsters.tsv 亜 - enemy name `Ah` (`Ah appeared!`) reads as an interjection: named `Agyo`, its partner 云 `Ungyo`. They appear together (`亜＊２＋云＊２`), so read as the 阿吽 temple-guardian pair; sprite not seen.
 - [x] s0010_02ea4, s0014_0092c, s0014_0223c, s0014_02514, s0014_04634, s0018_00b9c - story pass ch1_1: stiff lines, `fatso` for デカブツ, Vai's `ain't`/`don't` (D.S.'s markers), `D.S.'s yelling` for the group's: fixed.
+- [x] s0026_00d1c, s0034_01a70, s0038_00b90, s0038_01bb8, s0038_055f0, s0038_06d84 - story pass ch1_2: stiff line, romanized `GYUIIOOOOON`, `JAAAH`, `zu, zu, zu` (glossary: no romanized sound effects), `you guys` soft for D.S., snake idiom: fixed.
