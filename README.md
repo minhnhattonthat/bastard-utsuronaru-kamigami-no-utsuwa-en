@@ -1,7 +1,7 @@
 # Bastard!! Utsuronaru Kamigami no Utsuwa English translation
 
 Unofficial English fan translation of **Bastard!! Utsuronaru Kamigami no Utsuwa** (PlayStation, SETA, 1996, SLPS-00542): the source text and tools
-that build the patch. Work in progress: see `docs/status.md`.
+that build the patch. Current state: `docs/status.md`.
 
 **Just want to play?** Download the patch from [Releases](../../releases) and follow its README. This repository holds
 no game data you can play; you need your own dump of the Japanese game.
