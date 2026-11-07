@@ -69,7 +69,7 @@
    "サイクス"
   ],
   "jp": "いや、まだ振り切れてないんだ、ハァ、{n}ハァ……",
-  "en": "No, I still have not shaken it off, hah,{n}hah..."
+  "en": "No, I still have not shaken it off,{n}hah, hah..."
  },
  {
   "id": "s0293_008d0",
@@ -189,7 +189,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "記憶を取り戻す過程で、気づかねえ{n}うちに人格が変化してやがるのか……？{n}ま、でも俺は凶悪非道な自分が好き{n}だしぃ――",
-  "en": "So my personality's been changing without{n}me noticing, while I get my memory back...?{n}Eh, but I like myself vicious and{n}heartless--"
+  "en": "So my personality's been changing without{n}me noticing, while I get my memory back...?{n}Eh, but I like myself vicious{n}and heartless--"
  },
  {
   "id": "s0293_00adc",
@@ -261,7 +261,7 @@
    "サイクス"
   ],
   "jp": "Ｄ・Ｓ……少々気になっていることが{n}ある",
-  "en": "D.S.... There is something that troubles me a{n}little."
+  "en": "D.S.... There is something that troubles me{n}a little."
  },
  {
   "id": "s0293_00b30",
@@ -579,7 +579,7 @@
    "マカパイン"
   ],
   "jp": "……遂にここまで来てしまったか。{n}貴様と再び戦うことなど、あって{n}欲しくはなかったが――",
-  "en": "...So you have finally come this far. I had{n}hoped I would not have to fight you{n}again--"
+  "en": "...So you have finally come this far. I had{n}hoped I would not have to fight{n}you again--"
  },
  {
   "id": "s0293_011b4",
@@ -771,7 +771,7 @@
    "ヨシュア"
   ],
   "jp": "恥じ入るのは、己が正しいと思う道に{n}踏み出せなかった時にこそだ。正しき{n}大義――正義に身を置く限り、貴様は{n}決して恥知らずなどではない！",
-  "en": "One should feel shame only when one{n}cannot step onto the path one believes is{n}right. So long as you stand with the just{page}cause, with justice, you are no{n}shameless man!"
+  "en": "One should feel shame only when one{n}cannot step onto the path one believes{n}is right.{page}So long as you stand with the just cause,{n}with justice, you are no shameless man!"
  },
  {
   "id": "s0293_01430",

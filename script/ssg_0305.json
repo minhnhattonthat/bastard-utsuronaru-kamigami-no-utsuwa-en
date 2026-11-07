@@ -213,7 +213,7 @@
    "ラン"
   ],
   "jp": "カル様……単に憑かれているようにも{n}見えない。何かお考えが――？",
-  "en": "Kall-sama... He does not look merely{n}possessed. Does he have something in{n}mind--?"
+  "en": "Kall-sama... He does not look merely{n}possessed. Does he have something{n}in mind--?"
  },
  {
   "id": "s0305_00b94",
@@ -357,7 +357,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "くそっ！　ヤロウまだ余力を残して{n}いやがる……",
-  "en": "Damn! The bastard's still got something{n}left..."
+  "en": "Damn! The bastard's still got{n}something left..."
  },
  {
   "id": "s0305_00cdc",
@@ -501,7 +501,7 @@
    "イングヴェイイングヴェイ・フォン・マルムステ"
   ],
   "jp": "あ、貴女は……雷帝アーシェス・ネイ！",
-  "en": "Y-you are... Arshes Nei, the Thunder{n}Empress!"
+  "en": "Y-you are... Arshes Nei, the{n}Thunder Empress!"
  },
  {
   "id": "s0305_00e6c",
@@ -525,7 +525,7 @@
    "イングヴェイイングヴェイ・フォン・マルムステ"
   ],
   "jp": "長い髪をなびかせ、颯爽と現れたのは{n}単独で至高王の近辺を探るべく一行を{n}離れていたネイであった。",
-  "en": "With her long hair flying, the one who{n}dashingly appeared was Nei, who had left{n}the party to scout around the High King{n}alone."
+  "en": "With her long hair flying, the one who{n}dashingly appeared was Nei, who had left{n}the party to scout around the High{n}King alone."
  },
  {
   "id": "s0305_00ecc",
@@ -549,7 +549,7 @@
    "ネイ"
   ],
   "jp": "ただいまダーシュ。いいタイミング{n}だったかしら？",
-  "en": "I'm back, Dahsh. Was my timing good, I{n}wonder?"
+  "en": "I'm back, Dahsh. Was my timing good,{n}I wonder?"
  },
  {
   "id": "s0305_00f00",
@@ -645,7 +645,7 @@
    "カイ"
   ],
   "jp": "ネイ様！　よくぞご無事で……ううっ",
-  "en": "Nei-sama! Thank goodness you're safe...{n}sniff."
+  "en": "Nei-sama! Thank goodness you're{n}safe... sniff."
  },
  {
   "id": "s0305_00f9c",
@@ -741,7 +741,7 @@
    "ネイ"
   ],
   "jp": "うむ。あの男はカルに化けて魔戦将軍{n}を離反させ、うまくすれば我々が同士{n}討ちするように仕向けていたのだ――",
-  "en": "Mm. That man disguised himself as Kall to{n}turn the Sorcerer Generals against us, and{n}with luck drive us to fight among{n}ourselves--"
+  "en": "Mm. That man disguised himself as Kall to{n}turn the Sorcerer Generals against us, and{n}with luck drive us to fight{n}among ourselves--"
  },
  {
   "id": "s0305_01090",
@@ -837,7 +837,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "ガイン・エスペランザ――その男の{n}名は、Ｄ・Ｓの記憶を百年近くも{n}さかのぼらせる……。",
-  "en": "Gain Esperanza. That man's name took{n}D.S.'s memory back nearly a hundred{n}years..."
+  "en": "Gain Esperanza. That man's name took{n}D.S.'s memory back nearly a{n}hundred years..."
  },
  {
   "id": "s0305_0117c",
@@ -909,7 +909,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "百年ほど前の時代。この当時は、現在{n}四天王と称される者はひとりとして{n}その座に就いてはいなかった。最も{n}普通の人間に近いガラはまだ世に誕生{n}しておらず、ハーフエルフのネイは{n}まだ幼い少女であった。そしてカルも、{n}Ｄ・Ｓに拾われたばかりで、未だその{n}非凡な魔法の才能を開花させては{n}いなかった――。",
-  "en": "It was about a hundred years ago. In that{n}era, not one of those now called Divine{n}Kings held the title. Gara, the nearest to{n}an ordinary human, had not yet been{n}born, and the half-elf Nei was still a little{n}girl. And Kall, newly taken in by D.S., had{n}not yet let his rare gift for magic{n}flower--"
+  "en": "It was about a hundred years ago. In that{n}era, not one of those now called Divine{n}Kings held the title. Gara, the nearest to{n}an ordinary human, had not yet been{n}born, and the half-elf Nei was still a little{n}girl. And Kall, newly taken in by D.S., had{n}not yet let his rare gift for{n}magic flower--"
  },
  {
   "id": "s0305_013f8",
@@ -957,7 +957,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "とりわけこのガインは、Ｄ・Ｓから{n}支配者の座を奪い取ることに異常な{n}までの執念を燃やしていた。性情は{n}極めて残忍であり、歴代四天王の中で{n}も飛び抜けて悪の素養が強い男だった。",
-  "en": "This Gain above all burned with an almost{n}abnormal obsession to take D.S.'s seat as{n}ruler. He was deeply cruel by nature, a{n}man whose bent for evil stood out even{n}among all the Divine Kings who ever{n}lived."
+  "en": "This Gain above all burned with an almost{n}abnormal obsession to take D.S.'s seat as{n}ruler. He was deeply cruel by nature, a{n}man whose bent for evil stood out even{n}among all the Divine Kings who{n}ever lived."
  },
  {
   "id": "s0305_01594",
@@ -981,7 +981,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "この頃、Ｄ・Ｓにとってある転機と{n}なる戦いがあった。魔力を打ち消す{n}秘密の隠された大陸で、その力の多く{n}を失ったＤ・Ｓは重傷を負い、再生も{n}ままならずに生死の境を彷徨うことと{n}なったのだ。",
-  "en": "At that time, there came a battle that{n}would prove a turning point for D.S. On a{n}continent that held the secret of{n}canceling magic, he lost much of his{n}power and was gravely wounded, drifting{n}between life and death, unable even to{n}regenerate."
+  "en": "At that time, there came a battle that{n}would prove a turning point for D.S. On a{n}continent that held the secret of{n}canceling magic, he lost much of his{n}power and was gravely wounded, drifting{n}between life and death, unable even{n}to regenerate."
  },
  {
   "id": "s0305_01650",
@@ -1197,7 +1197,7 @@
    "ネイ"
   ],
   "jp": "燃えるような赤の髪。欲望に憑かれた{n}ぎらつく双眸。そして、戦いを飾る{n}フェイスペイントの如くに、顔中に{n}施された色鮮やかな刺青――それは{n}輝く鉄球を埋め込んだ腕や胸にも彫り{n}込まれている。",
-  "en": "Hair of burning red. Eyes glaring,{n}possessed by greed. And across his whole{n}face, like paint adorning a warrior, vivid{n}tattoos, also carved on his arms and{n}chest, where shining iron balls were{n}embedded."
+  "en": "Hair of burning red. Eyes glaring,{n}possessed by greed. And across his whole{n}face, like paint adorning a warrior, vivid{n}tattoos, also carved on his arms and{n}chest, where shining iron balls{n}were embedded."
  },
  {
   "id": "s0305_01af4",
@@ -1221,7 +1221,7 @@
    "ネイ"
   ],
   "jp": "それはまさしく、Ｄ・Ｓの記憶の奥底{n}から蘇った過去の亡霊――ガイン・{n}エスペランザであった。",
-  "en": "It was indeed a ghost of the past, risen{n}from the depths of D.S.'s memory: Gain{n}Esperanza."
+  "en": "It was indeed a ghost of the past, risen{n}from the depths of D.S.'s memory:{n}Gain Esperanza."
  },
  {
   "id": "s0305_01b50",
@@ -1317,7 +1317,7 @@
    "ガイン"
   ],
   "jp": "百年も彷徨って、やっと実体を手に{n}入れたんだ。Ｄ・Ｓ、テメエを殺して、{n}この肉体を永遠に俺のものにしてやる！{n}俺が全ての支配者になるんだよ！",
-  "en": "I wandered a hundred years, and finally got{n}a real body. D.S., I'll kill you and make this{n}flesh mine forever! I'm gonna rule{n}everything!"
+  "en": "I wandered a hundred years, and finally got{n}a real body. D.S., I'll kill you and make this{n}flesh mine forever! I'm gonna{n}rule everything!"
  },
  {
   "id": "s0305_01cbc",
@@ -1389,7 +1389,7 @@
    "ガイン"
   ],
   "jp": "ククク……いい気味だ。俺は忘れちゃ{n}いねえ。油断していたとは言え、あの{n}ガキの呪文で腕を千切られ、氷の魔剣{n}で頭を貫かれた痛みをよう――",
-  "en": "Heh heh heh... Serves him right. I haven't{n}forgotten. Off guard or not, that brat's{n}spell tore off my arm, and his ice sword{page}stabbed through my head. I remember that{n}pain--"
+  "en": "Heh heh heh... Serves him right. I haven't{n}forgotten. Off guard or not, that brat's{n}spell tore off my arm, and his ice sword{n}stabbed through my head.{page}I remember that pain--"
  },
  {
   "id": "s0305_01e14",
@@ -1557,7 +1557,7 @@
    "ガイン"
   ],
   "jp": "やはり魔人Ｄ・Ｓ、手強いな……久し{n}ぶりでチョイと遊び過ぎたようだぜ。{n}そろそろこの剣を使うとしようか――",
-  "en": "D.S. the demon's a tough one, sure enough...{n}Guess I played around a little too long, it's{n}been a while. About time I used this{n}sword--"
+  "en": "D.S. the demon's a tough one, sure enough...{n}Guess I played around a little too long, it's{n}been a while. About time I used{n}this sword--"
  },
  {
   "id": "s0305_0202c",
@@ -1581,7 +1581,7 @@
    "ガイン"
   ],
   "jp": "ガインが取り出したのは、艶やかな{n}漆黒の刀身を持つ巨大な両刃剣だった。{page}黒い鋼の付け根には、地獄の獣の瞳を{n}想起させる大粒の紅玉が埋め込まれ、{n}その周りを甲殻類の背を思わせる蛇腹{n}状の鍔が囲んでいる。獰悪な魔剣士に{n}似合いの、禍々しき大剣であった。",
-  "en": "What Gain drew was a huge double-edged{n}sword with a gleaming jet-black blade.{page}At the base of the black steel was set a{n}large ruby, recalling the eye of a hellish{n}beast, ringed by a bellows-like guard{n}resembling a crustacean's back. A sinister{n}great sword, fit for a savage demon{n}swordsman."
+  "en": "What Gain drew was a huge double-edged{n}sword with a gleaming jet-black blade.{page}At the base of the black steel was set a{n}large ruby, recalling the eye of a hellish{n}beast, ringed by a bellows-like guard{n}resembling a crustacean's back. A sinister{n}great sword, fit for a savage{n}demon swordsman."
  },
  {
   "id": "s0305_02120",
@@ -1701,7 +1701,7 @@
    "ジオン"
   ],
   "jp": "あの剣……俺は知っている……あれは{n}魂喰らい――",
-  "en": "That sword... I know it... It is the Soul{n}Eater--"
+  "en": "That sword... I know it... It is the{n}Soul Eater--"
  },
  {
   "id": "s0305_02214",
@@ -2205,7 +2205,7 @@
    "ガラ"
   ],
   "jp": "うぐぐ……せっかく助けてやったって{n}のに、この、この……",
-  "en": "Ugugu... Here I go and save you, and you,{n}you..."
+  "en": "Ugugu... Here I go and save you, and{n}you, you..."
  },
  {
   "id": "s0305_02754",
@@ -2517,7 +2517,7 @@
    "ガイン"
   ],
   "jp": "獣神――狼麒と名乗る巨神は、まだ{n}肉に未練を残して纏わりつくガインの{n}亡霊を掌で払い、魂喰らいの方向へと{n}漂わせた。と、魔剣の紅玉が輝き始め、{n}蛇腹状の鍔が自動的に開く。まるで{n}紅玉が強大な引力を発しているかの{n}如く、ガインの霊体は急速に吸い寄せ{n}られていった。",
-  "en": "The beast god, the giant who named{n}himself Loki, brushed away with his palm{n}the ghost of Gain, who still clung to the{n}flesh, and sent it drifting toward the Soul{n}Eater. Then the demon sword's ruby{n}began to glow, and the bellows-like guard{n}opened by itself. As though the ruby{page}gave off a mighty pull, Gain's spirit body{n}was swiftly drawn in."
+  "en": "The beast god, the giant who named{n}himself Loki, brushed away with his palm{n}the ghost of Gain, who still clung to the{n}flesh, and sent it drifting toward the Soul{n}Eater. Then the demon sword's ruby{n}began to glow, and the bellows-like guard{n}opened by itself.{page}As though the ruby gave off a mighty{n}pull, Gain's spirit body was swiftly{n}drawn in."
  },
  {
   "id": "s0305_02e1c",
@@ -2613,7 +2613,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "ふはははは――。貴様たちの戦闘力は{n}すでに見定めてあるわ。余りある勝算{n}があるからこそ、こうして私が出向い{n}たと何故判らぬ――愚昧よな、Ｄ・Ｓ",
-  "en": "Fwah hah hah hah-- I have already gauged{n}your fighting strength. Why do you not see{n}that I have come because I have more{page}than enough chance of victory? How dull{n}you are, D.S."
+  "en": "Fwah hah hah hah-- I have already gauged{n}your fighting strength. Why do you not see{n}that I have come because I have more than{n}enough chance of victory?{page}How dull you are, D.S."
  },
  {
   "id": "s0305_02fec",
@@ -2757,7 +2757,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "後悔するんなら今のうちだぜ。今から{n}テメエは考えることも喚くこともでき{n}ねえ、無の世界へと旅立つんだからな",
-  "en": "If you're gonna have regrets, have 'em now.{n}From here on you're off to a world of{n}nothing, where you can't think and can't{n}scream."
+  "en": "If you're gonna have regrets, have 'em now.{n}From here on you're off to a world of{n}nothing, where you can't think and{n}can't scream."
  },
  {
   "id": "s0305_031d8",
@@ -3069,7 +3069,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "狼麒の存在を灰も残さず焼き滅ぼした{n}黒炎は、その熱を保ったまま氷の床を{n}溶解させ、重力に従って凄まじい速度{n}で沈降を開始した。氷獄塔の中心を{n}貫いて、触れるもの全てを瞬時に蒸発{n}させ、ほぼ自由落下に近い速度で落ち{n}ていく――。",
-  "en": "The black flame burned away Loki's very{n}existence without leaving ash, then,{n}keeping its heat, melted the icy floor and{n}began to sink with gravity at terrific{n}speed. Piercing the center of the Ice Hell{n}Tower, evaporating all it touched in an{n}instant, it fell at nearly the speed of free{n}fall--"
+  "en": "The black flame burned away Loki's very{n}existence without leaving ash, then,{n}keeping its heat, melted the icy floor and{n}began to sink with gravity at terrific{n}speed. Piercing the center of the Ice Hell{n}Tower, evaporating all it touched in an{n}instant, it fell at nearly the speed of{n}free fall--"
  },
  {
   "id": "s0305_0369c",
@@ -3117,7 +3117,7 @@
    "ネイ"
   ],
   "jp": "おかしいな……死黒核爆烈地獄は対象{n}を焼滅した後、余剰エネルギーを転用{n}して高熱塊を別次元へと飛ばしてしま{n}うはず――ダーシュ、何か考えが？",
-  "en": "Strange... After burning up its target, the{n}Black Death Nuclear Hell should use its{n}surplus energy to send the mass of heat off{n}to another dimension-- Dahsh, do you{page}have something in mind?"
+  "en": "Strange... After burning up its target, the{n}Black Death Nuclear Hell should use its{n}surplus energy to send the mass of heat off{n}to another dimension--{page}Dahsh, do you have something in mind?"
  },
  {
   "id": "s0305_03770",
@@ -3165,7 +3165,7 @@
    "ジオン"
   ],
   "jp": "魂喰らい――何故俺がこんな魔剣を{n}知っている？　いや、俺はこいつを{n}使っていた……いつから？　俺は{n}影流の剣士……ではないのか……？",
-  "en": "Soul Eater-- Why do I know such a demon{n}sword? No, I used it... Since when? I am a{n}swordsman of the Shadow School... am I{n}not...?"
+  "en": "Soul Eater-- Why do I know such a demon{n}sword? No, I used it... Since when? I am a{n}swordsman of the Shadow School... am{n}I not...?"
  },
  {
   "id": "s0305_03840",
@@ -3381,7 +3381,7 @@
    "ヴァイ"
   ],
   "jp": "死黒核爆烈地獄の火球は、遂に塔の{n}最下層を突破し、直下の永久氷河へと{n}落下した。凄まじい熱量は衰えること{n}なく、やがて落下地点を中心に熱が{n}伝播し始める。あたかも水滴が起こし{n}た波紋の如く、それは同心円上に広が{n}って凍土を瞬時に溶かしていった――。",
-  "en": "The fireball of the Black Death Nuclear{n}Hell at last broke through the tower's{n}lowest level and fell into the eternal{n}glacier directly below. Its terrific heat{n}undiminished, it soon began to spread{n}outward from where it fell. Like ripples{n}from a drop of water, it spread in{page}concentric rings, instantly melting the{n}frozen earth--"
+  "en": "The fireball of the Black Death Nuclear{n}Hell at last broke through the tower's{n}lowest level and fell into the eternal{n}glacier directly below. Its terrific heat{n}undiminished, it soon began to spread{n}outward from where it fell.{page}Like ripples from a drop of water, it{n}spread in concentric rings, instantly{n}melting the frozen earth--"
  },
  {
   "id": "s0305_03c30",
@@ -3405,7 +3405,7 @@
    "ヴァイ"
   ],
   "jp": "氷河からなおも沈降した高熱塊は、{n}凍結した水龍の竪穴に達した。それが{n}頭上に降り注いだ瞬間、龍は目覚めた。{page}火球がその身体に宿り、氷と化して{n}いた水の肉体に流動性を取り戻して{n}いく。封印は解かれ、水龍はその全身{n}を波打たせた。",
-  "en": "The hot mass sank on through the glacier{n}and reached the shaft of the frozen{n}Water Dragon. The instant it rained down{n}on its head, the dragon awoke.{page}The fireball settled in its body and gave{n}the water flesh that had become ice its{n}flow again. The seal was undone, and the{n}Water Dragon rippled along its whole{n}length."
+  "en": "The hot mass sank on through the glacier{n}and reached the shaft of the frozen{n}Water Dragon. The instant it rained down{n}on its head, the dragon awoke.{page}The fireball settled in its body and gave{n}the water flesh that had become ice its{n}flow again. The seal was undone, and the{n}Water Dragon rippled along its{n}whole length."
  },
  {
   "id": "s0305_03d10",
@@ -3477,7 +3477,7 @@
    "ヴァイ"
   ],
   "jp": "その刹那、巨獣の肉体は急激にその{n}形態を変化させ始めた。体表は透き{n}通り、細長く、より巨大になった{n}水龍の姿へと――。",
-  "en": "In that moment, the great beast's flesh{n}began a sudden change of form. Its skin{n}turned clear, and it took on the slender{n}and still more huge form of the Water{n}Dragon--"
+  "en": "In that moment, the great beast's flesh{n}began a sudden change of form. Its skin{n}turned clear, and it took on the slender{n}and still more huge form of the{n}Water Dragon--"
  },
  {
   "id": "s0305_03ee0",
@@ -3501,7 +3501,7 @@
    "ヴァイ"
   ],
   "jp": "巨獣は、水龍から分かたれた存在で{n}あった。凍結した水龍は知性、巨獣は{n}知性を失った暴風の如き力、そして{n}魔力球は龍の生命の力――それらが{n}ひとつに融合し、水龍は真の姿を取り{n}戻した。巨獣が赤い光に反応を示して{n}いたのは、わずかに残る知性と、元の{n}姿に戻らんとする本能によるもので{n}あったのだ。",
-  "en": "The great beast was a being split off{n}from the Water Dragon. The frozen Water{n}Dragon was its intellect, the great beast{n}its storm-like power stripped of intellect,{n}and the sphere of magic the dragon's life{n}force. Merged into one, these restored{n}the Water Dragon to its true form. The{n}great beast had reacted to the red{page}light out of a scrap of remaining{n}intelligence, and out of an instinct to{n}return to its original form."
+  "en": "The great beast was a being split off{n}from the Water Dragon. The frozen Water{n}Dragon was its intellect, the great beast{n}its storm-like power stripped of intellect,{n}and the sphere of magic the dragon's life{n}force. Merged into one, these restored{n}the Water Dragon to its true form.{page}The great beast had reacted to the red{n}light out of a scrap of remaining{n}intelligence, and out of an instinct to{n}return to its original form."
  },
  {
   "id": "s0305_04000",
@@ -3573,7 +3573,7 @@
    "ヴァイ"
   ],
   "jp": "氷のコロシアムが崩れ去る直前、一行{n}は復活した水龍の渦にひとり残らず{n}取り込まれた。龍の描く螺旋は高く{n}天に昇り、Ｄ・Ｓたちを乗せたまま{n}空に架かる虹へと吸い込まれていく。{page}水飛沫の航跡を遥かな蒼弓に残し、{n}水龍は虹に沿って地平線へと消えて{n}いった――。",
-  "en": "Just before the icy coliseum collapsed,{n}the party, to the last one, were caught{n}up in the revived Water Dragon's whirl.{n}The spiral it drew rose high into the{n}heavens and, carrying D.S. and the others,{n}was drawn into the rainbow that spanned{n}the sky.{page}Leaving a wake of water spray across the{n}far blue vault, the Water Dragon followed{n}the rainbow and vanished over the{n}horizon--"
+  "en": "Just before the icy coliseum collapsed,{n}the party, to the last one, were caught{n}up in the revived Water Dragon's whirl.{n}The spiral it drew rose high into the{n}heavens and, carrying D.S. and the others,{n}was drawn into the rainbow that spanned{n}the sky.{page}Leaving a wake of water spray across the{n}far blue vault, the Water Dragon followed{n}the rainbow and vanished over{n}the horizon--"
  },
  {
   "id": "s0305_042a4",
@@ -3597,7 +3597,7 @@
    "ヴァイ"
   ],
   "jp": "虹の光に包まれて、Ｄ・Ｓは夢を見た。",
-  "en": "Wrapped in the rainbow's light, D.S.{n}dreamed."
+  "en": "Wrapped in the rainbow's light,{n}D.S. dreamed."
  },
  {
   "id": "s0305_042cc",
@@ -3765,7 +3765,7 @@
    "ヴァイ"
   ],
   "jp": "いつしか、Ｄ・Ｓはその感情を渇望{n}するようになっていった。世に生まれ{n}出た時から、分かたれ、隠された自ら{n}の半身――それを求め、彼は大軍団を{n}率いて征服戦争を起こした。しかし、{n}戦の半ばにしてＤ・Ｓは斃れ、復活の{n}日まで、かりそめの死を迎えることと{n}なった――。",
-  "en": "In time, D.S. came to crave those feelings.{n}Seeking the other half of himself, severed{n}and hidden since the moment he came into{n}the world, he led a great army and began{n}a war of conquest. But halfway through{n}the war D.S. fell, and met a false death{n}that would last until the day of his{n}revival--"
+  "en": "In time, D.S. came to crave those feelings.{n}Seeking the other half of himself, severed{n}and hidden since the moment he came into{n}the world, he led a great army and began{n}a war of conquest. But halfway through{n}the war D.S. fell, and met a false death{n}that would last until the day of{n}his revival--"
  },
  {
   "id": "s0305_0481c",
@@ -3861,7 +3861,7 @@
    "ヴァイ"
   ],
   "jp": "成長すればしただけ、完全であるため{n}のポテンシャルはより高くなる。彼女{n}は永遠に成長し続ける、いつかは世界{n}で最高の女性となる少女であった。",
-  "en": "The more she grew, the higher rose her{n}potential for perfection. She was a girl{n}who would grow forever, who would{n}someday be the finest woman in the{n}world."
+  "en": "The more she grew, the higher rose her{n}potential for perfection. She was a girl{n}who would grow forever, who would{n}someday be the finest woman in{n}the world."
  },
  {
   "id": "s0305_04b00",
@@ -3885,7 +3885,7 @@
    "ヴァイ"
   ],
   "jp": "ともに育てられた彼女は、天涯孤独の{n}ルーシェにとって姉のように強く、{n}母のように優しく、恋人のように温か{n}い存在だった。そのルーシェの想いが{n}影に封じられたＤ・Ｓの人格に融合{n}したのか、それともヨーコという鍵が{n}Ｄ・Ｓの中の欠落した感情の扉を開い{n}たのかは判らない。だが、彼は見つけ{n}たのだ。求め続けたものを。",
-  "en": "Raised with him, she was to the orphaned{n}Lucien strong as a sister, gentle as a{n}mother, warm as a lover. Whether Lucien's{n}love merged with the personality of D.S.,{n}sealed in the shadows, or Yoko was the{n}key that opened the door to the feelings{n}D.S. lacked, no one knows. But he had{page}found it. What he had sought for{n}so long."
+  "en": "Raised with him, she was to the orphaned{n}Lucien strong as a sister, gentle as a{n}mother, warm as a lover. Whether Lucien's{n}love merged with the personality of D.S.,{n}sealed in the shadows, or Yoko was the{n}key that opened the door to the feelings{n}D.S. lacked, no one knows. But he had{n}found it.{page}What he had sought for so long."
  },
  {
   "id": "s0305_04c30",
@@ -3981,7 +3981,7 @@
    "ヴァイ"
   ],
   "jp": "失われていたヨーコの記憶が、途轍も{n}ない速度で蘇っていく。ヨーコと過ご{n}した日々が、ヨーコの様々な姿が、{n}一瞬に数百コマが流れる映像として{n}脳裏に氾濫する。最後に、深海とも{n}虚空とも知れぬ漆黒の世界に浮かぶ{n}ヨーコの裸身が見え、やがて視界は{n}虹色の光の奔流に埋め尽くされた。",
-  "en": "Lost memories of Yoko came back at{n}staggering speed. Days spent with Yoko,{n}Yoko in all her forms, flooded his mind in{n}images flowing hundreds of frames to the{n}moment. At the last he saw Yoko's naked{n}body floating in a jet-black world,{n}whether deep sea or empty sky, he could{n}not tell, and then his sight was filled by{page}a torrent of rainbow light."
+  "en": "Lost memories of Yoko came back at{n}staggering speed. Days spent with Yoko,{n}Yoko in all her forms, flooded his mind in{n}images flowing hundreds of frames to{n}the moment.{page}At the last he saw Yoko's naked body{n}floating in a jet-black world, whether{n}deep sea or empty sky, he could not tell,{n}and then his sight was filled by a torrent{n}of rainbow light."
  },
  {
   "id": "s0305_04f20",
@@ -4005,7 +4005,7 @@
    "ヴァイ"
   ],
   "jp": "意識がブラックアウトする寸前、{n}Ｄ・Ｓは誓った。",
-  "en": "Just before his mind blacked out, D.S.{n}swore."
+  "en": "Just before his mind blacked out,{n}D.S. swore."
  },
  {
   "id": "s0305_04f54",

@@ -21,7 +21,7 @@
    ""
   ],
   "jp": "そこは、ヨーコが最後の砦として築き{n}上げた精神深層の結界の内側であった。",
-  "en": "It was inside the barrier, deep in the mind,{n}that Yoko had built as her last{n}stronghold."
+  "en": "It was inside the barrier, deep in the mind,{n}that Yoko had built as her{n}last stronghold."
  },
  {
   "id": "s0369_00864",
@@ -386,7 +386,7 @@
    "ヨーコ"
   ],
   "jp": "予想外に早かったな。この娘の精神力{n}を甘く見ていたか……まあ良い。{n}多少の手間が増えるだけのこと――",
-  "en": "You are earlier than I expected. Did I{n}underestimate this girl's strength of mind...{n}Ah, no matter. It only adds a little{n}trouble--"
+  "en": "You are earlier than I expected. Did I{n}underestimate this girl's strength of mind...{n}Ah, no matter. It only adds a{n}little trouble--"
  },
  {
   "id": "s0369_00c1c",
@@ -794,7 +794,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "聞け、Ｄ・Ｓ。お前は人間などと言う{n}低次元の生き物に拘泥するべき存在{n}ではない――",
-  "en": "Listen, D.S. You are not a being who should{n}cling to low-dimensional creatures called{n}humans--"
+  "en": "Listen, D.S. You are not a being who should{n}cling to low-dimensional creatures{n}called humans--"
  },
  {
   "id": "s0369_01168",
@@ -890,7 +890,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "神になる方法――それはひとつだ。{n}Ｄ・Ｓ、我と融合しろ。我が器をお前{n}の魔力が満たせば、我々はこの宇宙で{n}最強の存在となれる――",
-  "en": "There is only one way to become a god. D.S.,{n}merge with me. If your magic fills my vessel,{n}we shall become the mightiest being in this{n}universe--"
+  "en": "There is only one way to become a god. D.S.,{n}merge with me. If your magic fills my vessel,{n}we shall become the mightiest being in{n}this universe--"
  },
  {
   "id": "s0369_01310",
@@ -914,7 +914,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "創造神も地獄の魔王も、我々の前には{n}ひれ伏すほかなくなるだろう。かつて{n}お前が望んだ世界征服――いや、宇宙{n}を掌握することさえ可能なのだ！",
-  "en": "The Creator God and the Demon King of Hell{n}alike will have no choice but to prostrate{n}themselves before us. The world conquest{page}you once desired-- no, even grasping the{n}universe is possible!"
+  "en": "The Creator God and the Demon King of Hell{n}alike will have no choice but to prostrate{n}themselves before us. The world conquest{n}you once desired--{page}no, even grasping the universe is possible!"
  },
  {
   "id": "s0369_0139c",
@@ -1104,7 +1104,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "いいだろう。融合しようじゃねえか。{n}来いよ、虚神王――",
-  "en": "All right. Let's merge. Come on, Hollow God{n}King--"
+  "en": "All right. Let's merge. Come on, Hollow{n}God King--"
  },
  {
   "id": "s0369_0156c",
@@ -1200,7 +1200,7 @@
    "ネイ"
   ],
   "jp": "お前たちは運がいい。新たな神の誕生{n}を、目撃することができるのだからな。{n}人間どもよ、神話の語り部となれ――",
-  "en": "You are fortunate. You will witness the birth{n}of a new god. Humans, be the tellers of the{n}myth--"
+  "en": "You are fortunate. You will witness the birth{n}of a new god. Humans, be the tellers of{n}the myth--"
  },
  {
   "id": "s0369_01680",
@@ -1272,7 +1272,7 @@
    "ネイ"
   ],
   "jp": "Ｄ・Ｓの闘争本能が、破壊衝動が{n}具象化したものなのか――さながら{n}煉獄の修羅を連想させるおぞましき{n}巨体がそこにあった。邪悪に彩られた{n}Ｄ・Ｓの貌が、かつての仲間たちを{n}睥睨して嗤う。",
-  "en": "Was it D.S.'s fighting instinct, his urge to{n}destroy, made flesh? There stood a{n}hideous giant that called to mind an asura{n}of purgatory. D.S.'s face, painted with evil,{n}glared down at his former comrades and{n}sneered."
+  "en": "Was it D.S.'s fighting instinct, his urge to{n}destroy, made flesh? There stood a{n}hideous giant that called to mind an asura{n}of purgatory. D.S.'s face, painted with evil,{n}glared down at his former comrades{n}and sneered."
  },
  {
   "id": "s0369_01818",
@@ -1392,7 +1392,7 @@
    "カル"
   ],
   "jp": "もはや、私が師と仰いだ――半身と{n}なろうとしたＤ・Ｓはいない……。{n}ならばせめて、我らの手で世界の敵と{n}なったオマエを止めてみせる――",
-  "en": "The D.S. I looked up to as master-- whose{n}other half I sought to become-- is gone...{n}Then at the very least, we shall stop you{n}with our own hands, you who have{page}become the world's enemy--"
+  "en": "The D.S. I looked up to as master-- whose{n}other half I sought to become-- is gone...{page}Then at the very least, we shall stop you{n}with our own hands, you who have become{n}the world's enemy--"
  },
  {
   "id": "s0369_019e8",
@@ -1488,7 +1488,7 @@
    "アビゲイル"
   ],
   "jp": "あ、貴方は……ルーシェ・レンレン！{n}いや――熾天使ルシフェル！",
-  "en": "Y-you are... Lucien Renren! No-- the seraph{n}Lucifer!"
+  "en": "Y-you are... Lucien Renren! No-- the{n}seraph Lucifer!"
  },
  {
   "id": "s0369_01bbc",
@@ -1632,7 +1632,7 @@
    "ルーシェ"
   ],
   "jp": "グアアァァァ――！　何故だ！{n}神になった俺が、何故敗ける――！？",
-  "en": "Guaaaah--! Why! I became a god-- why do I{n}lose--!?"
+  "en": "Guaaaah--! Why! I became a god-- why do{n}I lose--!?"
  },
  {
   "id": "s0369_01e78",
@@ -1920,7 +1920,7 @@
    "ルーシェ"
   ],
   "jp": "地球全土は瞬く間に戦乱の炎に包まれ、{n}暴虐なる爆炎の征服王に支配された。{page}人々に抵抗する術はなく、世界は正義{n}なき力によって統合を迎えた。",
-  "en": "All the earth was soon engulfed in the{n}flames of war, and ruled by the{n}tyrannical Conqueror King of Explosive{n}Flame.{page}The people had no means to resist, and{n}the world was unified by power without{n}justice."
+  "en": "All the earth was soon engulfed in the{n}flames of war, and ruled by the{n}tyrannical Conqueror King of{n}Explosive Flame.{page}The people had no means to resist, and{n}the world was unified by power{n}without justice."
  },
  {
   "id": "s0369_022e0",
@@ -2256,7 +2256,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "肉の中に無数の針金をねじ込まれ、{n}縛り上げられたかの如き、想像を{n}絶する苦痛がＤ・Ｓを襲った。{page}身動きすら叶わぬ強力な封印――{n}それはＤ・Ｓの存在それ自体を否定{n}する、魂の根源に絡みつく鎖であった。",
-  "en": "Pain beyond imagining assailed D.S., as if{n}countless wires had been screwed into his{n}flesh and bound tight.{page}A mighty seal that barred all movement--{n}these were chains coiling around the root{n}of his soul, denying D.S.'s very{n}existence."
+  "en": "Pain beyond imagining assailed D.S., as if{n}countless wires had been screwed into his{n}flesh and bound tight.{page}A mighty seal that barred all movement--{n}these were chains coiling around the root{n}of his soul, denying D.S.'s{n}very existence."
  },
  {
   "id": "s0369_02778",
@@ -2304,7 +2304,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "ふはははは――先刻までの威勢はどう{n}した、Ｄ・Ｓよ？　いや、もはやお前{n}はＤ・Ｓではない。我こそがＤ・Ｓ{n}なのだ。そう、この娘に認識させた",
-  "en": "Hah hah hah hah-- What became of your{n}bluster, D.S.? No, you are no longer D.S. I am{n}D.S. That is what I have made this girl{n}recognize."
+  "en": "Hah hah hah hah-- What became of your{n}bluster, D.S.? No, you are no longer D.S. I am{n}D.S. That is what I have made this{n}girl recognize."
  },
  {
   "id": "s0369_02828",
@@ -2400,7 +2400,7 @@
    "ネイ"
   ],
   "jp": "まさか――輸魂の秘法の……？",
-  "en": "Surely not-- the secret art of Soul{n}Transfusion...?"
+  "en": "Surely not-- the secret art of{n}Soul Transfusion...?"
  },
  {
   "id": "s0369_028b8",
@@ -2529,7 +2529,7 @@
    "アビゲイル"
   ],
   "jp": "即ち本来のＤ・Ｓを否定し、贋の姿を{n}取った虚神王を本物のＤ・Ｓと認識{n}させたなら？　己の魂の内側から存在{n}を否定されたＤ・Ｓの人格は消え、{n}その無限の魔力はそっくり虚神の器{n}へと移し替えられる――それこそが、{n}この侵攻の狙いであったのだ。",
-  "en": "That is, what if she denied the true D.S.{n}and recognized the Hollow God King, in{n}false guise, as the real D.S.? D.S.'s{n}personality, denied existence from within{n}his own soul, would vanish, and his infinite{n}magic would pass whole into the Hollow{n}God's vessel-- That was the aim of this{n}invasion."
+  "en": "That is, what if she denied the true D.S.{n}and recognized the Hollow God King, in{n}false guise, as the real D.S.? D.S.'s{n}personality, denied existence from within{n}his own soul, would vanish, and his infinite{n}magic would pass whole into the Hollow{n}God's vessel-- That was the aim of{n}this invasion."
  },
  {
   "id": "s0369_02bb4",
@@ -2601,7 +2601,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "お前たちももう、観念するがいい。{n}頼りとする魔人はもはや虫の息だ。{n}この精神世界の消滅の後、現世で我と{n}創造神の闘いを見守るがいい――",
-  "en": "You too may as well resign yourselves. The{n}fiend you rely on is at his last breath. After{n}this spirit world is gone, you may watch{page}my battle with the Creator God from the{n}mortal world--"
+  "en": "You too may as well resign yourselves. The{n}fiend you rely on is at his last breath.{page}After this spirit world is gone, you may{n}watch my battle with the Creator God from{n}the mortal world--"
  },
  {
   "id": "s0369_02e34",
@@ -2697,7 +2697,7 @@
    "ラーズ"
   ],
   "jp": "神々の闘いなど、二度と引き起こさせ{n}てなるものか！",
-  "en": "I'll never let another war of the gods{n}begin!"
+  "en": "I'll never let another war of the{n}gods begin!"
  },
  {
   "id": "s0369_02f04",
@@ -2745,7 +2745,7 @@
    "カル"
   ],
   "jp": "――身の程知らずが。まだ力の差が{n}判らぬのか、カル＝スよ？　良かろう。{n}お前たちが相手にしてきた虚神がどれ{n}だけ格下か、教えてやるとしよう",
-  "en": "--You do not know your place. Can you not{n}yet see the difference in power, Kall-Su?{n}Very well. I shall teach you how far{page}beneath me the Hollow Gods you have faced{n}truly are."
+  "en": "--You do not know your place. Can you not{n}yet see the difference in power, Kall-Su?{n}Very well.{page}I shall teach you how far beneath me the{n}Hollow Gods you have faced truly are."
  },
  {
   "id": "s0369_02ff4",
@@ -2772,7 +2772,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "お前たちがこれほどとは……Ｄ・Ｓの{n}姿を模していては勝てぬ――口惜しい{n}が、本来の姿に戻る他あるまい――",
-  "en": "To think you are this strong... I cannot win{n}while modeled on D.S.-- Galling as it is, I have{n}no choice but to return to my true{n}form--"
+  "en": "To think you are this strong... I cannot win{n}while modeled on D.S.-- Galling as it is, I have{n}no choice but to return to my{n}true form--"
  },
  {
   "id": "s0369_0305c",
@@ -2993,7 +2993,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "肉から抜け出した刺青の獣たちは、{n}集結して奇怪な姿を取り始めた。{page}それぞれが部品となって描き出すのは、{n}巨大な平面のオブジェクト――それが{n}貌であると気づいた瞬間、空間に浮き{n}彫りとなった虚神王の両眼が開いた。",
-  "en": "The tattoo beasts that had left the flesh{n}gathered and began to take a bizarre{n}shape.{page}Each became a part, drawing a huge flat{n}object-- and at the instant they realized{n}it was a face, the eyes of the Hollow God{n}King, carved in relief on space, opened."
+  "en": "The tattoo beasts that had left the flesh{n}gathered and began to take a{n}bizarre shape.{page}Each became a part, drawing a huge flat{n}object-- and at the instant they realized{n}it was a face, the eyes of the Hollow God{n}King, carved in relief on space, opened."
  },
  {
   "id": "s0369_033a4",
@@ -3162,7 +3162,7 @@
    "ネイ"
   ],
   "jp": "……まさか、輸魂の秘法の？",
-  "en": "...Surely not, the secret art of Soul{n}Transfusion?"
+  "en": "...Surely not, the secret art of{n}Soul Transfusion?"
  },
  {
   "id": "s0369_03578",
@@ -3186,7 +3186,7 @@
    "アビゲイル"
   ],
   "jp": "その通りです。彼らは――虚神は、{n}ふたりの魂の共有に気がついていたの{n}ですよ――",
-  "en": "Exactly. They-- the Hollow Gods-- had{n}noticed that the two of them share a{n}soul--"
+  "en": "Exactly. They-- the Hollow Gods-- had{n}noticed that the two of them share{n}a soul--"
  },
  {
   "id": "s0369_035c8",
@@ -3258,7 +3258,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "――身の程知らずが。お前たちが{n}相手にしてきた虚神がどれだけ格下か{n}教えてやろう。その後でゆっくりと、{n}お前の人格を抹消してくれるわ――",
-  "en": "--You do not know your place. I shall teach{n}you how far beneath me the Hollow Gods{n}you have faced truly are. And after that,{page}at my leisure, I shall erase your{n}personality--"
+  "en": "--You do not know your place. I shall teach{n}you how far beneath me the Hollow Gods{n}you have faced truly are.{page}And after that, at my leisure, I shall erase{n}your personality--"
  },
  {
   "id": "s0369_037cc",
@@ -3306,7 +3306,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "すぐに判るぜ……{n}それが間違いだったってことがな！",
-  "en": "You'll see soon enough... See that you got it{n}wrong!"
+  "en": "You'll see soon enough... See that you got{n}it wrong!"
  },
  {
   "id": "s0369_03890",
@@ -3498,7 +3498,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "テメエ言ったよなあ？　同じ神の力で{n}しか、テメエの本体は傷つかねえって。{n}だったらその力を利用してやろうじゃ{n}ねーか！　とくと拝みな――",
-  "en": "You said it, didn't you? That only the same{n}power of a god can hurt your true body.{n}Then let's put that power to use! Feast your{n}eyes--"
+  "en": "You said it, didn't you? That only the same{n}power of a god can hurt your true body.{n}Then let's put that power to use! Feast{n}your eyes--"
  },
  {
   "id": "s0369_03ba4",
@@ -3546,7 +3546,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "あおおおおお……どこだ、虚神王ぅぅ",
-  "en": "Aoooooh... where are you, Hollow God{n}King..."
+  "en": "Aoooooh... where are you, Hollow{n}God King..."
  },
  {
   "id": "s0369_03c7c",
@@ -3642,7 +3642,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "馬鹿な……こやつらは、お前が殺した{n}のでは――まさか、神を虜に？",
-  "en": "Impossible... You killed these, did you not--{n}You cannot have made gods your{n}captives?"
+  "en": "Impossible... You killed these, did you not--{n}You cannot have made gods{n}your captives?"
  },
  {
   "id": "s0369_03d5c",
@@ -3714,7 +3714,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "さあ、我が虜どもよ！　永遠の拷問{n}から逃れて死を迎えたくば、蓄積した{n}苦痛と憎悪の力をテメエらの王に吐き{n}出しやがれ――!!",
-  "en": "Now, my captives! If you wanna escape{n}eternal torture and get to die, spit out all{n}that built-up pain and hate at your{n}king--!!"
+  "en": "Now, my captives! If you wanna escape{n}eternal torture and get to die, spit out all{n}that built-up pain and hate at{n}your king--!!"
  },
  {
   "id": "s0369_03e98",
@@ -3834,7 +3834,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "四方の拷問台から、魔法陣の中心に{n}向けて、想像を絶するエネルギーが{n}放出される。四神が己の存在を消滅{n}するべく解放した高次霊子力が、相乗{n}効果によって凄まじい破壊エネルギー{n}の渦となり、虚神王を飲み込んでいく{n}――。",
-  "en": "From the four torture racks, energy{n}beyond imagining poured toward the{n}center of the magic circle. The higher{n}spirit power the four gods released to{n}annihilate themselves became, by mutual{n}effect, a vortex of terrible destructive{n}energy, swallowing the Hollow God{n}King--."
+  "en": "From the four torture racks, energy{n}beyond imagining poured toward the{n}center of the magic circle. The higher{n}spirit power the four gods released to{n}annihilate themselves became, by mutual{n}effect, a vortex of terrible destructive{n}energy, swallowing the Hollow{n}God King--."
  },
  {
   "id": "s0369_03ff0",
@@ -3882,7 +3882,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "クククク……最高の苦痛だろうが？{n}それじゃ、そろそろとどめをくれて{n}やるぜ！　死ぃぃねえぇぇぇ――！",
-  "en": "Heh heh heh... Pretty great pain, ain't it?{n}Well then, time for the finishing blow!{n}Diiiiie--!"
+  "en": "Heh heh heh... Pretty great pain, ain't it?{n}Well then, time for the finishing{n}blow! Diiiiie--!"
  },
  {
   "id": "s0369_040c8",
@@ -3930,7 +3930,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "四神の力をも吸収し、極限にまで膨れ{n}上がったＤ・Ｓの魔力が一点に向けて{n}――直下の魔法陣の中央で悶え苦しむ{n}虚神王に向けて迸る。星をも砕くほど{n}のエネルギーが積層魔法陣の結界内に{n}凝縮され、原子まで崩壊させる超破壊{n}フィールドを作り上げる。",
-  "en": "D.S.'s magic, swollen to the limit after{n}absorbing even the four gods' power,{n}burst toward one point-- toward the{n}Hollow God King writhing at the center of{n}the magic circle directly below. Energy{n}enough to shatter a star condensed inside{n}the barrier of the stacked circles,{n}forming a field of super-destruction{page}that broke down even atoms."
+  "en": "D.S.'s magic, swollen to the limit after{n}absorbing even the four gods' power,{n}burst toward one point-- toward the{n}Hollow God King writhing at the center of{n}the magic circle directly below.{page}Energy enough to shatter a star{n}condensed inside the barrier of the{n}stacked circles, forming a field of{n}super-destruction that broke down{n}even atoms."
  },
  {
   "id": "s0369_041cc",
@@ -4098,7 +4098,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "何度だって助けるさ。これからも、{n}ずっと――俺にとって、ヨーコさんは{n}宇宙より大切な女なんだから",
-  "en": "I'd save you as many times as it takes. From{n}now on, forever-- To me, Yoko-san, you're{n}the woman who matters more than the{n}universe."
+  "en": "I'd save you as many times as it takes. From{n}now on, forever-- To me, Yoko-san, you're{n}the woman who matters more than{n}the universe."
  },
  {
   "id": "s0369_043d8",
@@ -4410,7 +4410,7 @@
    "シーラ"
   ],
   "jp": "兄様……お父様のようになって{n}きましたわよ",
-  "en": "Brother... You are starting to sound like{n}Father."
+  "en": "Brother... You are starting to sound{n}like Father."
  },
  {
   "id": "s0369_046dc",
@@ -4434,7 +4434,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "さあっ！　とっとと帰るぞ、テメーら！",
-  "en": "All right! Let's get the hell home, you{n}punks!"
+  "en": "All right! Let's get the hell home,{n}you punks!"
  },
  {
   "id": "s0369_04704",
@@ -4650,7 +4650,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "さあ、跳ぶぜ！　超絶美形Ｄ・Ｓ様と、{n}その下僕一行のご帰還だ！",
-  "en": "Now, let's jump! The return of the{n}super-gorgeous D.S.-sama and his band of{n}servants!"
+  "en": "Now, let's jump! The return of the{n}super-gorgeous D.S.-sama and his band{n}of servants!"
  },
  {
   "id": "s0369_04928",
@@ -4674,7 +4674,7 @@
    "ヨーコ"
   ],
   "jp": "どーしてキミはそう口が悪いんだっ！",
-  "en": "Why do you always have such a foul{n}mouth!"
+  "en": "Why do you always have such a{n}foul mouth!"
  },
  {
   "id": "s0369_0494c",
@@ -5154,7 +5154,7 @@
    "ヨーコ"
   ],
   "jp": "こらっ！　ルーシェ！　何が××××{n}だっ！　ボクぜーったいそんなコト{n}させないからね！　未来永劫ねっ!!",
-  "en": "Hey! Lucien! What do you mean, XXXX! I'll{n}never, ever let you do that! Not for all{n}eternity!!"
+  "en": "Hey! Lucien! What do you mean, XXXX! I'll{n}never, ever let you do that! Not for{n}all eternity!!"
  },
  {
   "id": "s0369_05094",

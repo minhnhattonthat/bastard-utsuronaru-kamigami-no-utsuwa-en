@@ -69,7 +69,7 @@
    ""
   ],
   "jp": "枯れ木の森で、その荊だけが艶やかに、{n}樹液の代わりに血液が流れているかに{n}赤黒く精気を放っていた。鋭い棘が{n}生き物の血を求めるが如く突き出し、{n}登ることも潜ることもできぬほど高く{n}厚く繁茂している。荊の壁がこの森の{n}養分を根こそぎ吸い上げているようで{n}あった。",
-  "en": "In a forest of dead trees those thorns{n}alone were lustrous, and gave off a dark{n}red vigor, as if blood flowed in them{n}instead of sap. Sharp spines jutted out as{n}if craving the blood of the living, growing{n}too high and too thick to climb or crawl{n}through. The Wall of Thorns seemed to{page}be sucking up all the nourishment in this{n}forest."
+  "en": "In a forest of dead trees those thorns{n}alone were lustrous, and gave off a dark{n}red vigor, as if blood flowed in them{n}instead of sap. Sharp spines jutted out as{n}if craving the blood of the living, growing{n}too high and too thick to climb or{n}crawl through.{page}The Wall of Thorns seemed to be sucking{n}up all the nourishment in this forest."
  },
  {
   "id": "s0174_00af8",
@@ -93,7 +93,7 @@
    ""
   ],
   "jp": "その壁の向こうに、巨大な城が黒々と{n}聳えているのが見えた。",
-  "en": "Beyond that wall a huge castle towered{n}darkly."
+  "en": "Beyond that wall a huge castle{n}towered darkly."
  },
  {
   "id": "s0174_00b34",
@@ -333,7 +333,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "Ｄ・Ｓの予想通り、荊の壁は翼龍の{n}螺旋軌道に直撃され、ズタズタに引き{n}裂かれたうえに焼き尽くされていた。{page}何者をも拒む死の壁も、解放された龍{n}のエネルギーの前には無力な植物の塊{n}に過ぎなかった。",
-  "en": "Just as D.S. had guessed, the wyvern's{n}spiral path had struck the Wall of Thorns{n}head-on, ripping it to shreds and burning{n}it away.{page}The wall of death that had refused all{n}comers was, before the freed dragon's{n}energy, no more than a helpless mass of{n}plants."
+  "en": "Just as D.S. had guessed, the wyvern's{n}spiral path had struck the Wall of Thorns{n}head-on, ripping it to shreds and burning{n}it away.{page}The wall of death that had refused all{n}comers was, before the freed dragon's{n}energy, no more than a helpless mass{n}of plants."
  },
  {
   "id": "s0174_00e40",
@@ -381,7 +381,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "龍樹の直上に輝いたのは、果たして{n}陽光であったのか――あれから何刻と{n}過ぎてはおらぬはずだったが、今や{n}周囲は薄暗く翳り、夜の帳が静かに{n}舞い降りようとしていた。",
-  "en": "Had that really been sunlight shining right{n}above the Dragon Tree? Not many hours{n}could have passed since then, yet now{n}the surroundings were dim and shadowed,{n}and the curtain of night was quietly{n}falling."
+  "en": "Had that really been sunlight shining right{n}above the Dragon Tree? Not many hours{n}could have passed since then, yet now{n}the surroundings were dim and shadowed,{n}and the curtain of night was{n}quietly falling."
  },
  {
   "id": "s0174_00f24",
@@ -549,7 +549,7 @@
    "ラン"
   ],
   "jp": "……何があろうと、もはや俺は{n}惑うまい。決して――",
-  "en": "...Whatever comes, I shall waver no more.{n}Never--"
+  "en": "...Whatever comes, I shall waver no{n}more. Never--"
  },
  {
   "id": "s0174_01170",
@@ -789,7 +789,7 @@
    "ヨルグ"
   ],
   "jp": "シェンを想って焦燥に駆られるジオン{n}には、この明らかな年齢の差も目に{n}映らないようであった。",
-  "en": "To Zion, driven by worry for Schen, even{n}this plain difference in age seemed{n}invisible."
+  "en": "To Zion, driven by worry for Schen, even{n}this plain difference in age{n}seemed invisible."
  },
  {
   "id": "s0174_01778",
@@ -1101,7 +1101,7 @@
    "ネイ"
   ],
   "jp": "く……何と不安定な。{n}統制すらままならぬわ",
-  "en": "Ngh... So unstable. I can barely keep{n}control."
+  "en": "Ngh... So unstable. I can barely{n}keep control."
  },
  {
   "id": "s0174_01c14",
@@ -1173,7 +1173,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "正体？　ハハハ、笑わせてくれる。{n}まあ良い。姿を晒すことになった以上、{n}この王鴉が直々に貴様らの相手をして{n}やろうではないか――",
-  "en": "What I really am? Hah hah hah, you make me{n}laugh. No matter. Now that I am exposed,{n}this King Raven shall deal with you{n}personally--"
+  "en": "What I really am? Hah hah hah, you make me{n}laugh. No matter. Now that I am exposed,{n}this King Raven shall deal with{n}you personally--"
  },
  {
   "id": "s0174_01d9c",
@@ -1197,7 +1197,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "それは恐慌をもたらす叫びを上げ、{n}襲いかかってきた。",
-  "en": "It let out a cry that brought panic, and{n}attacked."
+  "en": "It let out a cry that brought panic,{n}and attacked."
  },
  {
   "id": "s0174_01dd4",
@@ -1269,7 +1269,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "おのれ……結界の維持ができぬ……{n}樹海中心部への門が開いてしまう……",
-  "en": "Curse you... I cannot hold the barrier... The{n}gate to the heart of the sea of trees will{n}open..."
+  "en": "Curse you... I cannot hold the barrier... The{n}gate to the heart of the sea of trees{n}will open..."
  },
  {
   "id": "s0174_01e7c",
@@ -1365,7 +1365,7 @@
    "ヴァイ"
   ],
   "jp": "……どのみち貴様らはこの樹海で{n}野垂れ死ぬのだ。我が妹に囚われた{n}男がなぶり殺されるのとどちらが先か{n}――鴉どもの報せを楽しみに待とうぞ",
-  "en": "...You will all die like dogs in this sea of trees{n}either way. Which will come first, that, or{n}my sister torturing to death the man she{page}holds captive-- I shall look forward to the{n}crows' news."
+  "en": "...You will all die like dogs in this sea of trees{n}either way. Which will come first, that, or{n}my sister torturing to death the man she{n}holds captive--{page}I shall look forward to the crows' news."
  },
  {
   "id": "s0174_01fa4",
@@ -1509,7 +1509,7 @@
    "ヴァイ"
   ],
   "jp": "深刻なトコでボケをありがとー！",
-  "en": "Thanks for the gag at such a serious{n}moment!"
+  "en": "Thanks for the gag at such a{n}serious moment!"
  },
  {
   "id": "s0174_025f8",
@@ -1607,6 +1607,6 @@
    "Ｄ・Ｓ"
   ],
   "jp": "日が暮れると厄介だ。急ぐぜ――",
-  "en": "Things get nasty once it's dark. Let's{n}hurry--"
+  "en": "Things get nasty once it's dark.{n}Let's hurry--"
  }
 ]

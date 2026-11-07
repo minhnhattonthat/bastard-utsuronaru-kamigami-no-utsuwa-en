@@ -35,11 +35,11 @@ HEAD = re.compile(r"^(?:\[[0-9A-F]{2}\]|\{c\}|%z)+")
 TAIL = re.compile(r"(?:\{n\}|\{page\}|%z)+$")
 ARG = re.compile(r"%[a-zA-Z]")
 # Widest a substitution prints: enemy name 19 bytes and its letter (" A"), item 17, at about 6 px a letter.
-ARG_PX = {"%s": 112, "%M": 72, "%i": 102, "%m": 60, "%l": 60, "%a": 48, "%d": 18, "%z": 0}
+# %M prints nothing in every battle seen (ev_1_18_0001, English and original). shortcut: 0 px, measure it if a player spell shows a name
+ARG_PX = {"%s": 112, "%M": 0, "%i": 102, "%m": 60, "%l": 60, "%a": 48, "%d": 18, "%z": 0}
 HONORIFICS = {"さん": "-san", "様": "-sama", "ちゃん": "-chan", "くん": "-kun", "君": "-kun", "殿": "-dono", "先生": "-sensei"}
 # The text ring is cols x rows x 4 bytes and overflow keeps only the tail (docs/re/windows.md): 304 in a 228 px dialogue box, 288 in a 216 one.
 RING = {"narration": 640, "dialogue": 288}
-STUB_LINE = 6  # characters on a last line: under this, it's one orphaned word
 STUB_PAGE = 3  # words on an added last page
 
 
@@ -84,7 +84,9 @@ def box(e):
             return 52, 1, 52, False
         if not HEAD.match(jp) and "{n}" not in jp and "{page}" not in jp:
             return (32 if w and w <= 36 else 200), 1, 200, False  # labels
-        return (216 if w == 216 else 228), 3, 216, True
+        if jp.startswith("[01]"):  # the log's fixed top row: a second line prints over its start, and it wraps like any row
+            return 216, 1, 216, False
+        return 216, 3, 216, True  # the log wraps a glyph that starts at x 216 (ov1_0340c: `f` alone on a row)
     if i.startswith("ov2"):
         return (32 if len(jp) <= 2 else 212), 1, 212, False
     if i.startswith("ov4"):
@@ -117,7 +119,7 @@ def fill(words, width):
 
 def unstub_line(lines, start, last):
     """lines[start:] came from one run of text: give an orphaned last word company from the line above."""
-    if len(lines) - start > 1 and len(lines[-1].strip()) < STUB_LINE and " " in lines[-2].strip():
+    if len(lines) - start > 1 and " " not in lines[-1].strip() and " " in lines[-2].strip():
         head, word = lines[-2].rsplit(" ", 1)
         if px(word + " " + lines[-1]) <= last:
             lines[-2:] = [head, word + " " + lines[-1]]
@@ -135,6 +137,33 @@ def unstub_page(chunks, width, last):
     if px(chunks[-1][-1]) > last:
         chunks[-1][-1:] = chunks[-1][-1].rsplit(" ", 1)
     unstub_line(chunks[-1], 0, last)
+
+
+SENTENCE_END = re.compile(r"(?<!D\.S)(?:[.!?]|--)+[\"')]*(?= )")
+
+
+def sentence_pages(chunks, width, rows, last):
+    """A page that stops mid-sentence ends at its last full sentence instead, if that leaves it half full."""
+    for k in range(len(chunks) - 1):
+        words = " ".join(chunks[k])
+        ends = [m.end() for m in SENTENCE_END.finditer(words + " ")]
+        if not ends or ends[-1] == len(words):
+            continue
+        head = fill(words[:ends[-1]].split(), width)
+        if len(head) * 2 < rows or px(head[-1]) > last:
+            continue
+        lines, cur = [], ""
+        for word in (words[ends[-1]:] + " " + " ".join(" ".join(c) for c in chunks[k + 1:])).split():
+            limit = last if len(lines) % rows == rows - 1 else width  # a full page's bottom row has the arrow
+            if cur and px(cur + " " + word) > limit:
+                lines.append(cur)
+                cur = word
+            else:
+                cur = cur + " " + word if cur else word
+        lines.append(cur)
+        if px(lines[-1]) > last and " " in lines[-1]:
+            lines[-1:] = lines[-1].rsplit(" ", 1)
+        chunks[k:] = [head] + [lines[j:j + rows] for j in range(0, len(lines), rows)]
 
 
 def wrap(text, e):
@@ -164,6 +193,10 @@ def wrap(text, e):
             lines[-1:] = lines[-1].rsplit(" ", 1)
             unstub_line(lines, start, last)
         chunks = [lines[k:k + rows] for k in range(0, len(lines), rows)]
+        if " // " not in page and pages:
+            sentence_pages(chunks, width, rows, last)
+            for c in chunks:
+                unstub_line(c, 0, last)
         unstub_page(chunks, width, last)
         out += ["{n}".join(c) for c in chunks]
     if len(out) > 1 and not pages:
@@ -290,7 +323,7 @@ def problems(e, en, terms):
     if rows > 1 and not e["id"].startswith(("exe", "t0")) and e["id"] not in FORCED:  # stat sheets and tables are laid out by hand
         pages = body.split("{page}")
         tail = pages[-1].split("{n}")
-        if len(tail) > 1 and len(tail[-1].strip()) < STUB_LINE and " " in tail[-2].strip():
+        if len(tail) > 1 and " " not in tail[-1].strip() and " " in tail[-2].strip():
             out.append(f"stub last line: {tail[-1]!r}")
         if len(pages) > jp.count("{page}") + 1 and len(pages[-1].replace("{n}", " ").split()) <= STUB_PAGE:
             out.append(f"stub last page: {pages[-1]!r}")

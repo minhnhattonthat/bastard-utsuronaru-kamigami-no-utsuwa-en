@@ -21,7 +21,7 @@
    ""
   ],
   "jp": "空間転送による五感の揺れが収まると、{n}そこはすでに自走砦内部に巡らされた{n}通路であることが判った。内壁や床は{n}甲虫の外骨格のような材質で構築され、{n}そこに機械的な部品が融合している。",
-  "en": "When the swaying of the senses from the{n}spatial transfer settled, they found{n}themselves already in the passages that{n}ran through the walking fort. The inner{n}walls and floors were built of a stuff like{n}a beetle's shell, fused with mechanical{n}parts."
+  "en": "When the swaying of the senses from the{n}spatial transfer settled, they found{n}themselves already in the passages that{n}ran through the walking fort. The inner{n}walls and floors were built of a stuff like{n}a beetle's shell, fused with{n}mechanical parts."
  },
  {
   "id": "s0114_008cc",
@@ -45,7 +45,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "ずいぶんと有機的だな。この自走砦{n}ってのは生体兵器の一種か。霊子炉を{n}自前で備えてるってことは、原子力を{n}越える超破壊兵器も内蔵してやがんな",
-  "en": "Pretty organic, ain't it. So this walking fort's{n}a kind of living weapon. And since it's got its{n}own spirit reactor, it's packing some{page}super-destructive weapon beyond nuclear{n}power, too."
+  "en": "Pretty organic, ain't it. So this walking fort's{n}a kind of living weapon.{page}And since it's got its own spirit reactor, it's{n}packing some super-destructive weapon{n}beyond nuclear power, too."
  },
  {
   "id": "s0114_00958",
@@ -69,7 +69,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "……鬼忍将の奴、いや、アイツの裏に{n}いるヤロウは、破界門を開いてこれを{n}異次元に運び出そうとしてやがるって{n}のか――",
-  "en": "...So the High Ninja -- no, the bastard behind{n}him -- means to open the World-Breaker{n}Gate and haul this thing off to another{n}dimension--"
+  "en": "...So the High Ninja -- no, the bastard behind{n}him -- means to open the World-Breaker{n}Gate and haul this thing off to{n}another dimension--"
  },
  {
   "id": "s0114_009cc",
@@ -213,7 +213,7 @@
    "イングヴェイイングヴェイ・フォン・マルムステ"
   ],
   "jp": "その声は――Ｄ・Ｓ！　無事に{n}ここまで辿り着かれたか",
-  "en": "That voice-- D.S.! You have made it here{n}safely."
+  "en": "That voice-- D.S.! You have made it{n}here safely."
  },
  {
   "id": "s0114_00ccc",
@@ -237,7 +237,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "オメエもうまく自走砦に入り込んで{n}いたようだな。こっちは遅れたお陰で{n}ずいぶんと苦労させられたぜ",
-  "en": "Looks like you got into the walking fort too.{n}Being late cost us a hell of a lot of{n}trouble."
+  "en": "Looks like you got into the walking fort too.{n}Being late cost us a hell of a lot{n}of trouble."
  },
  {
   "id": "s0114_00d2c",
@@ -357,7 +357,7 @@
    ""
   ],
   "jp": "この繭のような物体こそが、霊子炉と{n}呼ばれるエネルギー出力装置であった。{n}自走砦の中核とも言える機関であり、{n}カルデラ上空を覆うほどに巨大な次元{n}の穴を穿つだけの膨大なエネルギーを{n}搾り出し続けている。",
-  "en": "This cocoon-like object was the energy{n}generator called the spirit reactor. It{n}could be called the core of the walking{n}fort, and it went on wringing out the vast{n}energy needed to bore a dimensional hole{n}big enough to cover the sky above the{n}caldera."
+  "en": "This cocoon-like object was the energy{n}generator called the spirit reactor. It{n}could be called the core of the walking{n}fort, and it went on wringing out the vast{n}energy needed to bore a dimensional hole{n}big enough to cover the sky above{n}the caldera."
  },
  {
   "id": "s0114_0110c",
@@ -477,7 +477,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "この動力炉の見張りであるらしき、{n}巨大な影が繭の内側から滑り出して{n}きた。",
-  "en": "A huge shadow, apparently the reactor's{n}watchman, slid out from inside the{n}cocoon."
+  "en": "A huge shadow, apparently the reactor's{n}watchman, slid out from inside{n}the cocoon."
  },
  {
   "id": "s0114_01378",
@@ -669,7 +669,7 @@
    "イングヴェイイングヴェイ・フォン・マルムステ"
   ],
   "jp": "シーラ姫……貴女は私の思い描いた{n}通り、慈愛に満ちた素晴らしい女性で{n}あるようだ。だが……",
-  "en": "Princess Sheila... You are indeed the{n}wonderful, compassionate woman I imagined.{n}But..."
+  "en": "Princess Sheila... You are indeed the{n}wonderful, compassionate woman I{n}imagined. But..."
  },
  {
   "id": "s0114_01770",
@@ -933,7 +933,7 @@
    "シーラ"
   ],
   "jp": "Ｄ・Ｓ……実は私、他にも思い出した{n}ことがあるのです",
-  "en": "D.S.... In truth, there is something else I have{n}recalled."
+  "en": "D.S.... In truth, there is something else I{n}have recalled."
  },
  {
   "id": "s0114_01d84",

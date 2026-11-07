@@ -918,7 +918,7 @@
    "ラン"
   ],
   "jp": "マントをなびかせ、ランを追うべく{n}去ったカイが駆け寄ってきた。{n}その後にヨシュアも続く。",
-  "en": "Cape flying, Kai, who had gone off after{n}Ran, came running up. Joshua followed{n}behind."
+  "en": "Cape flying, Kai, who had gone off after{n}Ran, came running up. Joshua{n}followed behind."
  },
  {
   "id": "s0260_012b0",
@@ -990,7 +990,7 @@
    "ヨシュア"
   ],
   "jp": "至高王が魔戦将軍のために用意した{n}乗用生物を利用させてもらった",
-  "en": "We made use of the riding creatures the{n}High King had prepared for the Sorcerer{n}Generals."
+  "en": "We made use of the riding creatures the{n}High King had prepared for the{n}Sorcerer Generals."
  },
  {
   "id": "s0260_0132c",
@@ -1326,7 +1326,7 @@
    "ラン"
   ],
   "jp": "俺は……カイを殺してしまうところ{n}だったのか？　俺は……俺は誓いを{n}破って――？",
-  "en": "I... I nearly killed Kai? I... I broke my{n}oath--?"
+  "en": "I... I nearly killed Kai? I... I broke{n}my oath--?"
  },
  {
   "id": "s0260_017d0",
@@ -1422,7 +1422,7 @@
    "ヨシュア"
   ],
   "jp": "単独で行動した折、行き会ったネイ殿{n}に聞いた――。貴様はカイと戦わねば{n}ならぬことを怖れ、家族にも等しい{n}鬼道衆を捨てたのだろう？",
-  "en": "When I was off on my own, I met Nei-dono,{n}and she told me-- You feared you would{n}have to fight Kai, and that is why you{n}abandoned the Kido Corps, as dear to you{page}as family. Is that not so?"
+  "en": "When I was off on my own, I met Nei-dono,{n}and she told me--{page}You feared you would have to fight Kai, and{n}that is why you abandoned the Kido Corps,{n}as dear to you as family. Is that not so?"
  },
  {
   "id": "s0260_018d8",
@@ -1494,7 +1494,7 @@
    "ラン"
   ],
   "jp": "カイはネイの手ほどきを受け、正統と{n}呼ばれる破裏拳流剣法を学んだ。一方{n}ランは独自の才で我流の剣を磨き、{n}実戦に即した何にも染まらぬ太刀筋を{n}作り上げていた。",
-  "en": "Kai, taught by Nei's own hand, learned the{n}orthodox style of swordsmanship called{n}the Hariken School. Ran, for his part,{n}honed a self-taught sword by his own{n}gifts, and shaped a manner of fighting{n}made for real battle, stained by no{n}school."
+  "en": "Kai, taught by Nei's own hand, learned the{n}orthodox style of swordsmanship called{n}the Hariken School. Ran, for his part,{n}honed a self-taught sword by his own{n}gifts, and shaped a manner of fighting{n}made for real battle, stained by{n}no school."
  },
  {
   "id": "s0260_01a80",
@@ -1542,7 +1542,7 @@
    "ラン"
   ],
   "jp": "当時、腕力に劣る女であることに激し{n}いコンプレックスを抱いていたカイは、{n}ランを負かして鬼道衆一の剣士の座に{n}就くことに異常なまでのこだわりを{n}見せていた。それまでの家庭環境も{n}あったのだろう。弱い女に対し、{n}カイは憎悪に近い感情を抱いていた。{n}故に、強い母親である雷帝ネイを{n}崇拝し、畏敬していたのだ。",
-  "en": "At that time Kai suffered a fierce{n}complex over being a woman, weaker in{n}the arm, and she showed an almost{n}abnormal fixation on beating Ran to{n}become the finest swordsman of the Kido{n}Corps. Her childhood home may have{n}played a part. She felt something close to{n}hatred for weak women. So she{page}worshipped and revered Nei, the Thunder{n}Empress, her strong mother."
+  "en": "At that time Kai suffered a fierce{n}complex over being a woman, weaker in{n}the arm, and she showed an almost{n}abnormal fixation on beating Ran to{n}become the finest swordsman of the Kido{n}Corps. Her childhood home may have{n}played a part. She felt something close to{n}hatred for weak women.{page}So she worshipped and revered Nei, the{n}Thunder Empress, her strong mother."
  },
  {
   "id": "s0260_01c4c",
@@ -1710,7 +1710,7 @@
    "ヨシュア"
   ],
   "jp": "――貴様は誓ったのだろう。荒野に{n}焼け出されたカイとシーンを守るのは{n}自分だと。それ故、カイに勝ち、生き{n}る柱を奪うことはできなかった……",
-  "en": "--You swore it, did you not? That you would{n}protect Kai and Sean, burned out of their{n}home into the wastelands. That is why you{page}could not beat Kai and rob her of what she{n}lived for..."
+  "en": "--You swore it, did you not? That you would{n}protect Kai and Sean, burned out of their{n}home into the wastelands.{page}That is why you could not beat Kai and rob{n}her of what she lived for..."
  },
  {
   "id": "s0260_020f0",

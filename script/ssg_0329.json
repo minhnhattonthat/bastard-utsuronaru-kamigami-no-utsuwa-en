@@ -21,7 +21,7 @@
    ""
   ],
   "jp": "そこは再び、巨大な地底空洞であった。{page}だが、この地には足下から這い上って{n}くる熱気と、鼻を衝く硫黄の臭気が{n}充満している。天を覆うドームは、{n}大地から噴き上がる溶岩の炎を映して{n}赤く染まっていた。",
-  "en": "It was another vast underground{n}hollow.{page}But here heat crept up from underfoot,{n}and the place was thick with the{n}nose-stinging stench of sulfur. The dome{n}above was dyed red by the flames of lava{n}spurting from the earth."
+  "en": "It was another vast{n}underground hollow.{page}But here heat crept up from underfoot,{n}and the place was thick with the{n}nose-stinging stench of sulfur. The dome{n}above was dyed red by the flames of lava{n}spurting from the earth."
  },
  {
   "id": "s0329_008dc",
@@ -117,7 +117,7 @@
    ""
   ],
   "jp": "鮮血を思わせる真っ赤な地下水が、{n}一行の立つ渚を洗っていた。血の色を{n}たたえたこの地底湖が、火山地帯を{n}島状にぐるりと囲んでいるようだった。",
-  "en": "Red underground water, like fresh blood,{n}washed the shore where the party stood.{n}This blood-colored underground lake{n}seemed to ring the volcanic land like an{n}island."
+  "en": "Red underground water, like fresh blood,{n}washed the shore where the party stood.{n}This blood-colored underground lake{n}seemed to ring the volcanic land like{n}an island."
  },
  {
   "id": "s0329_00a9c",
@@ -141,7 +141,7 @@
    "ヴァイ"
   ],
   "jp": "うへえ……ホントに血みたいだぜ？",
-  "en": "Yuck... It really does look like blood,{n}y'know?"
+  "en": "Yuck... It really does look like{n}blood, y'know?"
  },
  {
   "id": "s0329_00ac0",
@@ -285,7 +285,7 @@
    "カイ"
   ],
   "jp": "青白い肌をした青年が、血の池地獄に{n}かがみ込んでいる。その男は、長く{n}渦を巻いたストローを渚に突っ込んで、{n}血のような湖水をチュウチュウと{n}吸っていた。",
-  "en": "A pale-skinned young man crouched at{n}this blood-pool hell. He had thrust a long,{n}spiraling straw into the shore, and was{n}sucking up the bloodlike lake water with a{n}slurp."
+  "en": "A pale-skinned young man crouched at{n}this blood-pool hell. He had thrust a long,{n}spiraling straw into the shore, and was{n}sucking up the bloodlike lake water with{n}a slurp."
  },
  {
   "id": "s0329_00c30",
@@ -501,7 +501,7 @@
    "ダイ"
   ],
   "jp": "ヒィッ！　……お、脅かしたってダメ{n}ですよネイ様。私はね、もはや母代わ{n}りの貴女すら超えた魔力を身につけた{n}のです！　人間以上、エルフ以上のね！",
-  "en": "Eek! ...Y-you cannot frighten me, Nei-sama.{n}For I have now gained magic that surpasses{n}even you, who were as a mother to me!{page}Greater than a human's, greater than an{n}elf's!"
+  "en": "Eek! ...Y-you cannot frighten me, Nei-sama.{n}For I have now gained magic that surpasses{n}even you, who were as a mother to me!{page}Greater than a human's, greater than{n}an elf's!"
  },
  {
   "id": "s0329_00f6c",
@@ -549,7 +549,7 @@
    "ダイ"
   ],
   "jp": "雄叫びとともに、天蓋を仰いだダイの{n}喉から赤い水蒸気が噴き上がる。{page}それは霧となってダイの貧弱な肢体に{n}纏わりつき、白い肌に染み込んでいく。{n}内と外から魔力の源を吸収し、その{n}肉体は急激な変化をきたし始めた。",
-  "en": "With a war cry, red steam spurted from{n}the throat of Di, who gazed up at the{n}canopy.{page}It became a mist, clung to his frail limbs{n}and soaked into his white skin. Absorbing{n}the source of magic from inside and out,{n}his body began to change violently."
+  "en": "With a war cry, red steam spurted from{n}the throat of Di, who gazed up at{n}the canopy.{page}It became a mist, clung to his frail limbs{n}and soaked into his white skin. Absorbing{n}the source of magic from inside and out,{n}his body began to change violently."
  },
  {
   "id": "s0329_01064",
@@ -573,7 +573,7 @@
    "ダイ"
   ],
   "jp": "肌の薄皮が弾け、剥き出しとなった{n}筋肉繊維が凄まじい速度で紡がれて{n}いく。骨格すらも変化し、身長は見る{n}間に１メートル近くも伸び上がる。{n}それを筋肉の束が何重にも包み込み、{n}新たな肌が瞬時に全身を覆い尽くす。{n}魔力によってもたらされた質量の変化{n}は優に三倍を越えていた。",
-  "en": "The thin film of his skin burst, and the{n}bared muscle fibers were spun at a{n}fearsome rate. Even his skeleton changed;{n}in moments he stood nearly a meter{n}taller. Bundle upon bundle of muscle{n}wrapped around it, and new skin at once{n}covered his whole body. The change in{n}mass brought on by the magic was a{page}good three times over."
+  "en": "The thin film of his skin burst, and the{n}bared muscle fibers were spun at a{n}fearsome rate. Even his skeleton changed;{n}in moments he stood nearly a meter{n}taller. Bundle upon bundle of muscle{n}wrapped around it, and new skin at once{n}covered his whole body.{page}The change in mass brought on by the{n}magic was a good three times over."
  },
  {
   "id": "s0329_01170",
@@ -621,7 +621,7 @@
    "ダイ"
   ],
   "jp": "そこに誕生したのは、呪術的効果を{n}生む奇怪な刺青に顔面を彩られた、{n}見るもおぞましい筋肉質の巨漢吸血鬼{n}であった。",
-  "en": "What was born there was a hideous{n}musclebound giant of a vampire, his face{n}painted with weird tattoos that worked{n}curses."
+  "en": "What was born there was a hideous{n}musclebound giant of a vampire, his face{n}painted with weird tattoos that{n}worked curses."
  },
  {
   "id": "s0329_01248",
@@ -669,7 +669,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "み、醜い……とんでもないバカにしか{n}見えねー……",
-  "en": "H-hideous... He just looks like a total{n}moron..."
+  "en": "H-hideous... He just looks like a{n}total moron..."
  },
  {
   "id": "s0329_01374",
@@ -693,7 +693,7 @@
    "ネイ"
   ],
   "jp": "鬼道衆の母として恥ずかしい限りだわ{n}……",
-  "en": "As mother of the Kido Corps, I am{n}mortified..."
+  "en": "As mother of the Kido Corps, I{n}am mortified..."
  },
  {
   "id": "s0329_013a0",
@@ -1005,7 +1005,7 @@
    "ダイ"
   ],
   "jp": "あああ、ハイィ！　喜んで、お供を{n}させて戴きますですぅ……",
-  "en": "Ahhh, yes! I shall gladly accompany you, of{n}course..."
+  "en": "Ahhh, yes! I shall gladly accompany you,{n}of course..."
  },
  {
   "id": "s0329_01b78",
@@ -1101,7 +1101,7 @@
    "マカパイン"
   ],
   "jp": "どうしたのだ？　酷く憂えた貌をして{n}いるが――？",
-  "en": "What is the matter? Your face is terribly{n}troubled--?"
+  "en": "What is the matter? Your face is{n}terribly troubled--?"
  },
  {
   "id": "s0329_01c20",
@@ -1173,7 +1173,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "暗黒僧が言い残した、黒い龍か……？",
-  "en": "The black dragon the Dark Priest talked{n}about...?"
+  "en": "The black dragon the Dark Priest{n}talked about...?"
  },
  {
   "id": "s0329_01d0c",
@@ -1221,7 +1221,7 @@
    "シェラ"
   ],
   "jp": "何という叫び……“死”を与える悦び{n}を謳っているのか!?",
-  "en": "What a cry... Does it sing of the joy of giving{n}\"death\"!?"
+  "en": "What a cry... Does it sing of the joy of{n}giving \"death\"!?"
  },
  {
   "id": "s0329_01db4",
@@ -1341,7 +1341,7 @@
    ""
   ],
   "jp": "黒き龍は火口からゆっくりと身を起こ{n}した。その眼はＤ・Ｓと並び、やがて{n}遥か頭上より見下ろす高さにまで昇っ{n}てゆく。マグマに隠されていたのは、{n}想像を越える長大な巨躯であった。",
-  "en": "The black dragon slowly raised itself from{n}the crater. Its eyes drew level with D.S.'s,{n}then climbed until they looked down from{n}far overhead. What the magma had hidden{n}was a huge length of body beyond{n}imagining."
+  "en": "The black dragon slowly raised itself from{n}the crater. Its eyes drew level with D.S.'s,{n}then climbed until they looked down from{n}far overhead. What the magma had hidden{n}was a huge length of body{n}beyond imagining."
  },
  {
   "id": "s0329_02168",
@@ -1509,7 +1509,7 @@
    "ネイ"
   ],
   "jp": "ダーシュ!?　まさか、限界に――！",
-  "en": "Dahsh!? Don't tell me you've reached your{n}limit--!"
+  "en": "Dahsh!? Don't tell me you've reached{n}your limit--!"
  },
  {
   "id": "s0329_02390",
@@ -1701,7 +1701,7 @@
    "ヴァイ"
   ],
   "jp": "おいＤ・Ｓ……ヨーコの玉だけど、{n}まだ様子がおかしいぜ？",
-  "en": "Hey, D.S.... Yoko's orb still looks kinda off,{n}y'know?"
+  "en": "Hey, D.S.... Yoko's orb still looks kinda{n}off, y'know?"
  },
  {
   "id": "s0329_0258c",
@@ -1965,7 +1965,7 @@
    "ガラ"
   ],
   "jp": "へーい……トホホ、この世界にゃ手下{n}の忍者はいねーし、天下のニンジャ{n}マスターが使いっぱしりとは……{n}男って、ツライねえ",
-  "en": "Yeah, yeah... Boo hoo, no ninja lackeys in this{n}world, and the great Ninja Master's stuck{n}running errands... Being a man sure is{n}rough."
+  "en": "Yeah, yeah... Boo hoo, no ninja lackeys in this{n}world, and the great Ninja Master's stuck{n}running errands... Being a man sure{n}is rough."
  },
  {
   "id": "s0329_028dc",
@@ -2469,7 +2469,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "今の俺に不可能はねーぜ。抑え込まれ{n}ていた炎の力が漲ってきやがる……{n}俺様は人呼んで爆炎の征服者！{n}たかが溶岩流の熱で阻めやしねえ！",
-  "en": "Nothing's impossible for me now. The flame{n}power that was held down is surging back...{n}The great me, known as the Conqueror of{page}Explosive Flame! No puny lava heat's gonna{n}stop me!"
+  "en": "Nothing's impossible for me now. The flame{n}power that was held down is surging back...{n}The great me, known as the Conqueror of{n}Explosive Flame!{page}No puny lava heat's gonna stop me!"
  },
  {
   "id": "s0329_03470",

@@ -21,7 +21,7 @@
    ""
   ],
   "jp": "そこは、深い谷間の中腹だった。{page}険しい山肌を削り取るかに、乾いた{n}風が激しく駆け抜けていく。その風に{n}乗って、強いイオン臭が漂っていた。{n}大気は張りつめたように震え、肌に{n}ピリピリとした感覚が疾る。",
-  "en": "They were partway up the side of a deep{n}valley.{page}A dry wind raced fiercely past, as if to{n}scrape away the steep mountainside, and{n}on it hung a strong smell of ions. The air{n}trembled as if pulled taut, and a prickling{n}ran over their skin."
+  "en": "They were partway up the side of a{n}deep valley.{page}A dry wind raced fiercely past, as if to{n}scrape away the steep mountainside, and{n}on it hung a strong smell of ions. The air{n}trembled as if pulled taut, and a prickling{n}ran over their skin."
  },
  {
   "id": "s0058_008dc",
@@ -45,7 +45,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "別の峡谷に出ちまったようだな",
-  "en": "Looks like we came out in a different{n}gorge."
+  "en": "Looks like we came out in a{n}different gorge."
  },
  {
   "id": "s0058_008fc",
@@ -237,7 +237,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "さっきからの静電気やイオン臭は{n}コイツのせいか。凄まじい高電圧が{n}溜め込まれてやがる。大峡谷の風車も、{n}こっちの塔に電気を送ってやがったな",
-  "en": "So this is what's behind the static and the{n}ion smell. There's a monster voltage stored{n}up in there. So the windmills in the great{page}gorge were sending power to this{n}tower too."
+  "en": "So this is what's behind the static and the{n}ion smell. There's a monster voltage stored{n}up in there.{page}So the windmills in the great gorge were{n}sending power to this tower too."
  },
  {
   "id": "s0058_00d34",
@@ -285,7 +285,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "どこのことわざだソレは。テメエは{n}風力発電も……知らねえんだろーな",
-  "en": "What country's saying is that? You wouldn't{n}know wind power from... No, I guess you{n}wouldn't."
+  "en": "What country's saying is that? You wouldn't{n}know wind power from... No, I guess{n}you wouldn't."
  },
  {
   "id": "s0058_00db8",
@@ -309,7 +309,7 @@
    "イングヴェイイングヴェイ・フォン・マルムステ"
   ],
   "jp": "自走砦と同じ印象の建物だな。と、{n}すれば敵地であることに疑いあるまい",
-  "en": "The building gives the same impression as{n}the walking fort. If so, this is surely enemy{n}ground."
+  "en": "The building gives the same impression as{n}the walking fort. If so, this is surely{n}enemy ground."
  },
  {
   "id": "s0058_00e00",
@@ -333,7 +333,7 @@
    "サイクス"
   ],
   "jp": "自走砦と設計のコンセプトが同じだ。{n}間違いなく鬼忍将の勢力下だろうな",
-  "en": "The same design concept as the walking{n}fort. It must be under the High Ninja's{n}control."
+  "en": "The same design concept as the walking{n}fort. It must be under the High{n}Ninja's control."
  },
  {
   "id": "s0058_00e48",
@@ -501,7 +501,7 @@
    "ロス"
   ],
   "jp": "急な剣幕で振り返ったのは、張った{n}顎骨が特徴的な青年だった。整った{n}顔立ちではあるが、美男子と呼ぶには{n}少々アクが強い。怒った表情の中にも{n}垣間見える飄々とした雰囲気が、男に{n}年齢不詳の不思議な印象を与えている。",
-  "en": "The one who turned with sudden fury was{n}a young man with a striking, square jaw.{n}His features were regular, though a little{n}too strong to be called handsome. A{n}breezy air, glimpsed even through his{n}angry look, gave him a strange, ageless{n}impression."
+  "en": "The one who turned with sudden fury was{n}a young man with a striking, square jaw.{n}His features were regular, though a little{n}too strong to be called handsome. A{n}breezy air, glimpsed even through his{n}angry look, gave him a strange,{n}ageless impression."
  },
  {
   "id": "s0058_01210",
@@ -525,7 +525,7 @@
    "ヴァイ"
   ],
   "jp": "何だよ……何か悪いコトしたか？",
-  "en": "What's your problem... Did I do something{n}wrong?"
+  "en": "What's your problem... Did I do{n}something wrong?"
  },
  {
   "id": "s0058_01230",
@@ -933,6 +933,6 @@
    "ロス"
   ],
   "jp": "今話しかけないでよ！　ここまでの{n}作業がまた台無しになっちゃうんだ{n}から！　気が散るからどっか行ってて{n}ちょうだい！　いーわね？",
-  "en": "Don't talk to me right now! You'll ruin all my{n}work so far all over again! You're distracting{n}me, so go off somewhere, would you? All{n}right?"
+  "en": "Don't talk to me right now! You'll ruin all my{n}work so far all over again! You're distracting{n}me, so go off somewhere, would you?{n}All right?"
  }
 ]

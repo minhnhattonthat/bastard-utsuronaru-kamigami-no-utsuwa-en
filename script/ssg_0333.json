@@ -381,7 +381,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "そうもいかねえ。俺に敵対する神と{n}やらに対抗するには、少しでも力を{n}蓄えなけりゃならねえ。そのためにも、{n}ここの邪神の魔力は必要になる――",
-  "en": "Can't do that. To stand up to these gods{n}against me, I gotta build up all the power I{n}can. And for that I need this evil god's{n}magic--"
+  "en": "Can't do that. To stand up to these gods{n}against me, I gotta build up all the power I{n}can. And for that I need this evil{n}god's magic--"
  },
  {
   "id": "s0333_00d8c",
@@ -549,7 +549,7 @@
    "イダ"
   ],
   "jp": "これは失礼。私はイダ・ディースナ、{n}美しきものの奴隷と自ら任ずる者です。{n}今はこの神殿の神に仕え、その美を{n}侵す者を追い払う責務を負う身――",
-  "en": "Pardon my rudeness. I am Ida Deesna, who{n}has named himself a slave of beautiful{n}things. I now serve the god of this{page}temple, charged with driving out those who{n}would profane its beauty--"
+  "en": "Pardon my rudeness. I am Ida Deesna, who{n}has named himself a slave of{n}beautiful things.{page}I now serve the god of this temple, charged{n}with driving out those who would profane{n}its beauty--"
  },
  {
   "id": "s0333_012c4",
@@ -741,7 +741,7 @@
    "イダ"
   ],
   "jp": "悲しいことですが、またもや我々は{n}敵同士……それでは私の魔獣たちと{n}戦って頂きましょうか！",
-  "en": "It is sad, but once again we are enemies...{n}Now then, I shall have you fight my magic{n}beasts!"
+  "en": "It is sad, but once again we are enemies...{n}Now then, I shall have you fight my{n}magic beasts!"
  },
  {
   "id": "s0333_0155c",
@@ -813,7 +813,7 @@
    "イダ"
   ],
   "jp": "いよいよ決着をつける時が来ましたか{n}――。貴方たちの美しさが上か、それ{n}とも私の召喚術が上か、尋常に勝負と{n}参りましょう",
-  "en": "So the time has come at last to settle{n}this--. Is your beauty greater, or my{n}summoning art? Let us have a fair{n}contest."
+  "en": "So the time has come at last to settle{n}this--. Is your beauty greater, or my{n}summoning art? Let us have a{n}fair contest."
  },
  {
   "id": "s0333_01680",
@@ -1005,7 +1005,7 @@
    "イングヴェイイングヴェイ・フォン・マルムステ"
   ],
   "jp": "貴公はそもそも我々の仲間……私を{n}含め、ここにいる者たちに見覚えは{n}ないか？",
-  "en": "You were one of us from the start... Do you{n}not recognize those here, myself{n}included?"
+  "en": "You were one of us from the start... Do you{n}not recognize those here,{n}myself included?"
  },
  {
   "id": "s0333_01954",
@@ -1101,7 +1101,7 @@
    "イダ"
   ],
   "jp": "幼い頃から召喚が得意で、この体格も{n}あって鬼っ子呼ばわりされていた私は、{n}当時一も二もなく貴方の軍勢に身を{n}投じ、魔獣軍団編成の任を受けました",
-  "en": "I had a gift for summoning from a young{n}age, and with this build, I was called a{n}demon child. So I threw myself into your{n}army without a second thought, and was{page}charged with forming the beast legion."
+  "en": "I had a gift for summoning from a young{n}age, and with this build, I was called a{n}demon child.{page}So I threw myself into your army without a{n}second thought, and was charged with{n}forming the beast legion."
  },
  {
   "id": "s0333_01b48",

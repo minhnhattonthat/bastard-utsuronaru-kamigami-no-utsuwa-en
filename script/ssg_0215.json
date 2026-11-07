@@ -93,7 +93,7 @@
    "ヴァイ"
   ],
   "jp": "なあ、Ｄ・Ｓ。ココって絶対いるよな",
-  "en": "Hey, D.S. There's definitely something here,{n}right?"
+  "en": "Hey, D.S. There's definitely something{n}here, right?"
  },
  {
   "id": "s0215_00a34",
@@ -309,7 +309,7 @@
    "カイ"
   ],
   "jp": "力尽きたのか、その蟲のような生物は{n}ピクリとも動かなくなった。と、見る{n}間に体表から湯気が立ち上り始める。{page}やがて、大量の水分を急速に放出した{n}蟲は拳ほどの大きさにまで干涸らび、{n}サナギのようになって地面に転がった。",
-  "en": "Its strength spent, it seemed, the bug-like{n}creature no longer so much as twitched.{n}Then, as they watched, steam began to{n}rise from its skin.{page}Soon, having rapidly shed a great quantity{n}of water, the bug shriveled to the size of{n}a fist and lay on the ground like a{n}chrysalis."
+  "en": "Its strength spent, it seemed, the bug-like{n}creature no longer so much as twitched.{n}Then, as they watched, steam began to{n}rise from its skin.{page}Soon, having rapidly shed a great quantity{n}of water, the bug shriveled to the size of{n}a fist and lay on the ground like{n}a chrysalis."
  },
  {
   "id": "s0215_00d18",
@@ -669,7 +669,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "巨獣が地表に出たところで、コイツを{n}ブチ割って魔力の核を取り出せば、{n}好物と間違えて寄ってくるかも――。{n}よし、雪原へ戻るぜ！",
-  "en": "When the great beast comes up to the{n}surface, I smash this thing and pull out the{n}magic core. It might mistake it for its{page}favorite food and come over-- Right, back{n}to the snowfield!"
+  "en": "When the great beast comes up to the{n}surface, I smash this thing and pull out the{n}magic core. It might mistake it for its{n}favorite food and come over--{page}Right, back to the snowfield!"
  },
  {
   "id": "s0215_01440",
@@ -693,7 +693,7 @@
    "サイクス"
   ],
   "jp": "しかしその魔力、霧散させてしまう{n}のも惜しいものだな",
-  "en": "Still, it would be a pity to let that magic{n}scatter."
+  "en": "Still, it would be a pity to let that{n}magic scatter."
  },
  {
   "id": "s0215_01478",
@@ -885,7 +885,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "うるさいだまれ。ベタなボケには{n}ツッこんでやらねー",
-  "en": "Shut up. I ain't giving that dumb gag a{n}comeback."
+  "en": "Shut up. I ain't giving that dumb gag{n}a comeback."
  },
  {
   "id": "s0215_018e0",
@@ -1437,7 +1437,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "ヴァイは急速に引っ張り上げられ、{n}エーテルの海に浮かぶ氷山の如き{n}氷結湖の底穴へと引き込まれていく。",
-  "en": "Vai was swiftly hauled up, and drawn into{n}the bottom hole of the Frozen Lake,{n}floating like an iceberg in the sea of{n}ether."
+  "en": "Vai was swiftly hauled up, and drawn into{n}the bottom hole of the Frozen Lake,{n}floating like an iceberg in the sea{n}of ether."
  },
  {
   "id": "s0215_02084",
@@ -1485,7 +1485,7 @@
    "ヴァイ"
   ],
   "jp": "がぼげへっ！　ハァハァ……ななな、{n}何てコトしやがるんだよう！　もう{n}ちょっとで喰われるか、溺れるかする{n}トコだったんだぞう！",
-  "en": "Glub gweh! Hah, hah... wh-wh-what the hell's{n}wrong with you! I almost got eaten, or{n}drowned!"
+  "en": "Glub gweh! Hah, hah... wh-wh-what the hell's{n}wrong with you! I almost got eaten,{n}or drowned!"
  },
  {
   "id": "s0215_0216c",

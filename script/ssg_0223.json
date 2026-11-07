@@ -21,7 +21,7 @@
    ""
   ],
   "jp": "氷獄塔を支える二つの山への登山口と{n}なるこの谷間には、並び立つ山肌から{n}吹き下ろす風が複雑な渦を生み出し、{n}途絶えることのない雪嵐が猛り狂って{n}いた。オーロラの影響なのか、左右の{n}山へと続く登り坂は奇怪な発光を繰り{n}返す吹雪にすっぽりと覆われている。",
-  "en": "In this valley, the entry point for climbing{n}the two mountains that hold up the Ice{n}Hell Tower, winds blowing down from the{n}rock faces on either side made complex{n}eddies, and a snowstorm raged without{n}end. Perhaps through the aurora's{n}influence, the upward paths to the left{n}and right mountains were wholly hidden{page}in a blizzard that gave off an eerie{n}flashing light."
+  "en": "In this valley, the entry point for climbing{n}the two mountains that hold up the Ice{n}Hell Tower, winds blowing down from the{n}rock faces on either side made complex{n}eddies, and a snowstorm raged{n}without end.{page}Perhaps through the aurora's influence,{n}the upward paths to the left and right{n}mountains were wholly hidden in a{n}blizzard that gave off an eerie{n}flashing light."
  },
  {
   "id": "s0223_0094c",
@@ -45,7 +45,7 @@
    "ヨシュア"
   ],
   "jp": "氷獄塔に行くには、ここからどっちか{n}の山を登るしかないようだが……",
-  "en": "To reach the Ice Hell Tower, it seems we{n}have no choice but to climb one of these{n}mountains..."
+  "en": "To reach the Ice Hell Tower, it seems we{n}have no choice but to climb one of{n}these mountains..."
  },
  {
   "id": "s0223_00990",
@@ -357,7 +357,7 @@
    "サイクス"
   ],
   "jp": "――あれは電磁嵐だぞ。迂闊に踏み{n}込めば命も危うい。あんなものが山を{n}覆っていては、とても登攀して氷獄塔{n}まで行き着くことはできまい",
-  "en": "--That is an electromagnetic storm. Step in{n}carelessly and your life is in danger. With{n}such a thing covering the mountains, we{page}could never climb up to the Ice Hell{n}Tower."
+  "en": "--That is an electromagnetic storm. Step in{n}carelessly and your life is in danger.{page}With such a thing covering the mountains,{n}we could never climb up to the Ice{n}Hell Tower."
  },
  {
   "id": "s0223_00f0c",
@@ -477,7 +477,7 @@
    ""
   ],
   "jp": "登山口を包む吹雪の内側は無数の閃光{n}が乱舞し、強大な電磁波がやり取り{n}されていると知れる。それ以上先に{n}進むことはできなかった。",
-  "en": "Inside the blizzard shrouding the entry{n}path, countless flashes danced wildly,{n}revealing a mighty exchange of{n}electromagnetic waves. They could go no{n}farther."
+  "en": "Inside the blizzard shrouding the entry{n}path, countless flashes danced wildly,{n}revealing a mighty exchange of{n}electromagnetic waves. They could go{n}no farther."
  },
  {
   "id": "s0223_012bc",
@@ -693,7 +693,7 @@
    "ヴァイ"
   ],
   "jp": "右の山には登れそうにねえなあ",
-  "en": "Don't look like we can climb the right{n}mountain."
+  "en": "Don't look like we can climb the{n}right mountain."
  },
  {
   "id": "s0223_0163c",
@@ -835,7 +835,7 @@
    "ラン"
   ],
   "jp": "いや、あれは自然に起こったものだと{n}思うが……この山には罠らしい仕掛け{n}は施されていないはずだ",
-  "en": "No, I believe it happened naturally... There{n}should be no trap-like devices on this{n}mountain."
+  "en": "No, I believe it happened naturally... There{n}should be no trap-like devices on{n}this mountain."
  },
  {
   "id": "s0223_01834",

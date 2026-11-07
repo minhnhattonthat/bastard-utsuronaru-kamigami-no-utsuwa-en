@@ -93,7 +93,7 @@
    "ボル"
   ],
   "jp": "どうやらここは針葉樹林帯の外れで{n}ござるな。北に向かえばこの森を{n}抜けられるようでござる",
-  "en": "It would appear this is the edge of the{n}needle-tree forest, forsooth. Heading north,{n}one should be able to leave these woods,{n}forsooth."
+  "en": "It would appear this is the edge of the{n}needle-tree forest, forsooth. Heading north,{n}one should be able to leave these{n}woods, forsooth."
  },
  {
   "id": "s0203_00974",
@@ -117,7 +117,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "俺たちの進んでる方角に間違いはねえ{n}ようだ。感じる……ヨーコさんに、{n}確実に近づいてるぜ",
-  "en": "Looks like we're headed the right way. I can{n}feel it... We're definitely getting closer to{n}Yoko-san."
+  "en": "Looks like we're headed the right way. I can{n}feel it... We're definitely getting closer{n}to Yoko-san."
  },
  {
   "id": "s0203_009cc",
@@ -165,7 +165,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "バッ、馬鹿やめろって、ってギャアァ！{n}痺れるうぅ！",
-  "en": "St-stop it, you idiot, I said-- gyaaah! That{n}stiiings!"
+  "en": "St-stop it, you idiot, I said-- gyaaah!{n}That stiiings!"
  },
  {
   "id": "s0203_00a58",
@@ -189,7 +189,7 @@
    "カイ"
   ],
   "jp": "ネイ様……まだどこかおかしいような{n}……",
-  "en": "Nei-sama... still seems a little off{n}somehow..."
+  "en": "Nei-sama... still seems a little{n}off somehow..."
  },
  {
   "id": "s0203_00a84",
@@ -213,7 +213,7 @@
    "シーン"
   ],
   "jp": "今のネイ様は、Ｄ・Ｓの娘のネイ様な{n}のよ。考えて見ればわたしたち、いつ{n}も鬼道衆の前で気を張っていた、母親{n}としてのネイ様しか知らないものね",
-  "en": "The Nei-sama we see now is Nei-sama as{n}D.S.'s daughter. When you think about it,{n}we've only ever known her as a mother,{page}always on her guard before the Kido{n}Corps."
+  "en": "The Nei-sama we see now is Nei-sama as{n}D.S.'s daughter.{page}When you think about it, we've only ever{n}known her as a mother, always on her guard{n}before the Kido Corps."
  },
  {
   "id": "s0203_00b10",
@@ -357,7 +357,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "さあっ、行くぞテメーら！　ぎゃあっ！{n}アーシェス、もうヤメろって、父さん{n}怒るゾ……アガガガガガ！",
-  "en": "All right, let's go, you lot! Gyah! Arshes,{n}knock it off, or Daddy's gonna get mad...{n}agagagagaga!"
+  "en": "All right, let's go, you lot! Gyah! Arshes,{n}knock it off, or Daddy's gonna get{n}mad... agagagagaga!"
  },
  {
   "id": "s0203_00cd4",

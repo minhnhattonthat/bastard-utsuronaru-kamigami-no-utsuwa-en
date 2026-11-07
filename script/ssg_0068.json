@@ -293,7 +293,7 @@
    ""
   ],
   "jp": "風機神は守護者であるとともに、送電{n}を司る制御装置でもあるようだった。{page}背中から伸びたケーブルが室内の動力{n}機関群に繋がり、それらは風機神の{n}破壊に伴って全ての機能を停止した。{n}風神塔の照明が消え、やがて薄暗い{n}非常灯に切り替わる。",
-  "en": "The Wind Machine God, it seemed, was{n}both guardian and the control device{n}governing the power transmission.{page}Cables running from its back connected to{n}the room's engines, and with its{n}destruction they all ceased to function.{n}The lights of the Wind God Tower went{n}out, and soon gave way to dim emergency{n}lamps."
+  "en": "The Wind Machine God, it seemed, was{n}both guardian and the control device{n}governing the power transmission.{page}Cables running from its back connected to{n}the room's engines, and with its{n}destruction they all ceased to function.{n}The lights of the Wind God Tower went{n}out, and soon gave way to dim{n}emergency lamps."
  },
  {
   "id": "s0068_00f08",
@@ -341,7 +341,7 @@
    ""
   ],
   "jp": "電子ロックが解除されてから、一行が{n}到着するまでに、この室内にはすでに{n}侵入者があったらしかった。部屋は{n}物色された形跡があり、空になった{n}箱が床に転がっていた。",
-  "en": "It seemed someone had already broken{n}into this room between the release of the{n}electronic locks and the party's arrival.{n}There were signs that the room had been{n}ransacked, and empty boxes lay on the{n}floor."
+  "en": "It seemed someone had already broken{n}into this room between the release of the{n}electronic locks and the party's arrival.{n}There were signs that the room had been{n}ransacked, and empty boxes lay on{n}the floor."
  },
  {
   "id": "s0068_01180",
@@ -437,7 +437,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "こうも見事に出し抜かれると、腹も{n}立たねえ。まあ、探してるものがある{n}ワケでもねえしな",
-  "en": "Getting outfoxed this neatly, I can't even{n}get mad. Besides, it's not like I'm looking for{n}anything."
+  "en": "Getting outfoxed this neatly, I can't even{n}get mad. Besides, it's not like I'm looking{n}for anything."
  },
  {
   "id": "s0068_015a8",
@@ -485,7 +485,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "あっちに電気が送られてるところから{n}見て、向こうの塔が重要施設になって{n}るようだな。だが、まずはこの塔の{n}動力を止めなきゃならねえ",
-  "en": "Judging from the power going over there,{n}that other tower looks like the important{n}facility. But first we gotta stop this tower's{n}power."
+  "en": "Judging from the power going over there,{n}that other tower looks like the important{n}facility. But first we gotta stop this{n}tower's power."
  },
  {
   "id": "s0068_01828",

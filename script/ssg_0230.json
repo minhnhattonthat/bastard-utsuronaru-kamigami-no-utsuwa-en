@@ -141,7 +141,7 @@
    "シェラ"
   ],
   "jp": "それが……近いはずなのに、龍の叫び{n}は消え入りそうに小さい。翼龍ですら、{n}ここまで弱々しくはなかった――",
-  "en": "That is just it... it should be close, yet the{n}dragon's cry is so small it seems about to{n}vanish. Even the wyvern was not so weak as{n}this--"
+  "en": "That is just it... it should be close, yet the{n}dragon's cry is so small it seems about to{n}vanish. Even the wyvern was not so weak{n}as this--"
  },
  {
   "id": "s0230_009bc",
@@ -165,7 +165,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "妙だな……よし、急ぎ確かめよう！",
-  "en": "Weird... All right, let's go check it out{n}quick!"
+  "en": "Weird... All right, let's go check it{n}out quick!"
  },
  {
   "id": "s0230_00ac4",
@@ -189,7 +189,7 @@
    ""
   ],
   "jp": "長い地下通路は、巨大な竪穴の壁面に{n}顔を出す形で終わっていた。この穴は{n}恐らく、空中に支えられた氷獄塔の{n}真下に位置していると思われる。",
-  "en": "The long underground passage ended by{n}opening onto the wall of a huge shaft.{n}This hole was likely directly beneath the{n}Ice Hell Tower, suspended in the air{n}above."
+  "en": "The long underground passage ended by{n}opening onto the wall of a huge shaft.{n}This hole was likely directly beneath the{n}Ice Hell Tower, suspended in the{n}air above."
  },
  {
   "id": "s0230_00b4c",
@@ -405,7 +405,7 @@
    "シェラ"
   ],
   "jp": "シェラは両手を耳に当て、極度に神経{n}を集中させ始めた。長い沈黙の後、{n}虚ろな瞳のシェラが言葉を紡ぐ――。{page}それは、水龍の言葉だった。",
-  "en": "Shella put both hands to her ears, and{n}began to concentrate with extreme{n}intensity. After a long silence, Shella, with{n}hollow eyes, spun out words.{page}They were the words of the Water{n}Dragon."
+  "en": "Shella put both hands to her ears, and{n}began to concentrate with extreme{n}intensity. After a long silence, Shella, with{n}hollow eyes, spun out words.{page}They were the words of the{n}Water Dragon."
  },
  {
   "id": "s0230_00f28",

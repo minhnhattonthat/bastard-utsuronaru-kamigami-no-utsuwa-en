@@ -45,7 +45,7 @@
    ""
   ],
   "jp": "定期的に通り抜ける風が虚ろな響きを{n}奏でている。入口を塞いでいた館が{n}崩壊したことで、空気の流れが活性化{n}したようであった。",
-  "en": "A wind passing through at regular{n}intervals made a hollow sound. With the{n}mansion that had blocked the entrance{n}gone, the air seemed to flow more{n}freely."
+  "en": "A wind passing through at regular{n}intervals made a hollow sound. With the{n}mansion that had blocked the entrance{n}gone, the air seemed to flow{n}more freely."
  },
  {
   "id": "s0317_0097c",
@@ -117,7 +117,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "いや、相変わらず心臓は様子がおかし{n}いようだぜ……痛みは遮断しているが、{n}脈拍が一定じゃねえ。呪詛を無効化{n}したワケじゃなさそうだ",
-  "en": "Nah, my heart's still acting weird... I've shut{n}off the pain, but my pulse is all over the{n}place. Doesn't look like the curse got{n}canceled."
+  "en": "Nah, my heart's still acting weird... I've shut{n}off the pain, but my pulse is all over the{n}place. Doesn't look like the curse{n}got canceled."
  },
  {
   "id": "s0317_00a84",
@@ -213,7 +213,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "んだぁ？　このゴリラ野郎！　テメー{n}がもっとしっかりしてりゃ俺様は鼻歌{n}混じりでのんびりできるのによ！{n}四天王ならビッとしろ、ビッと！",
-  "en": "What the hell? You gorilla bastard! If you{n}were doing your job, the great me could be{n}humming a tune and taking it easy! You're{page}one of the Divine Kings, so shape up,{n}shape up!"
+  "en": "What the hell? You gorilla bastard! If you{n}were doing your job, the great me could be{n}humming a tune and taking it easy!{page}You're one of the Divine Kings, so shape up,{n}shape up!"
  },
  {
   "id": "s0317_00c4c",
@@ -1369,7 +1369,7 @@
    "サイクス"
   ],
   "jp": "この半透明の物質は、恐らくその先の{n}空間を越えるための加速器官だ。破壊{n}してしまうと、取り返しのつかない{n}ことになるかも知れん――",
-  "en": "This translucent substance is most likely an{n}accelerator organ for crossing the space{n}beyond. Destroy it and it may be beyond{n}repair--"
+  "en": "This translucent substance is most likely an{n}accelerator organ for crossing the space{n}beyond. Destroy it and it may be{n}beyond repair--"
  },
  {
   "id": "s0317_01e24",
@@ -1417,7 +1417,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "少々アセってるんでな。だが、そう{n}すっとどうやってこの器官とやらを{n}動かしたらいいんだ？",
-  "en": "I'm a little rushed here. But then how the{n}hell am I supposed to work this organ{n}thing?"
+  "en": "I'm a little rushed here. But then how the{n}hell am I supposed to work this{n}organ thing?"
  },
  {
   "id": "s0317_01ee4",
@@ -1441,7 +1441,7 @@
    "サイクス"
   ],
   "jp": "この器官、私にはあの龍が開く“螺”{n}の道に関わるものだと睨んでいる。{n}だが、どのみちここに手がかりは{n}なさそうだな――",
-  "en": "This organ, I suspect, has to do with the{n}\"spiral\" road that the dragons open. But in{n}any case, there seems to be no clue{n}here--"
+  "en": "This organ, I suspect, has to do with the{n}\"spiral\" road that the dragons open. But in{n}any case, there seems to be no{n}clue here--"
  },
  {
   "id": "s0317_01f5c",
@@ -1585,7 +1585,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "いつも通り迅速に、サイクスが亜空間{n}から飛び出してきた。",
-  "en": "As swiftly as ever, Sykes jumped out of{n}subspace."
+  "en": "As swiftly as ever, Sykes jumped out{n}of subspace."
  },
  {
   "id": "s0317_020d0",
@@ -1873,7 +1873,7 @@
    "イングヴェイイングヴェイ・フォン・マルムステ"
   ],
   "jp": "サイクス……相当に追い詰められて{n}いるようだ",
-  "en": "Sykes... He seems to be in a very tight{n}corner."
+  "en": "Sykes... He seems to be in a very{n}tight corner."
  },
  {
   "id": "s0317_024a0",
@@ -2065,7 +2065,7 @@
    "ネイ"
   ],
   "jp": "浮いたのではなかった。頭骨の下には、{n}黒い法衣にすっぽりと包まれた身体が{n}あった。あたかも実体のない者の如く、{n}骨の仮面を被った怪人は岩盤を透過{n}してそこに現れたのであった。",
-  "en": "It had not floated. Beneath the skull was{n}a body swathed entirely in a black{n}vestment. As though it had no substance{n}at all, the masked figure of bone had{n}appeared there by passing through the{n}bedrock."
+  "en": "It had not floated. Beneath the skull was{n}a body swathed entirely in a black{n}vestment. As though it had no substance{n}at all, the masked figure of bone had{n}appeared there by passing through{n}the bedrock."
  },
  {
   "id": "s0317_02a30",
@@ -2185,7 +2185,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "けっ……縁起でもねえ。どうせテメエ{n}も得体の知れねえ神とやらに操られて{n}やがんだろうが。そのけったいな骨頭{n}を外しやがれ！",
-  "en": "Tch... Ain't that a cheery thought. You're{n}just another puppet of some creepy god, I{n}bet. Take off that stupid bonehead of{n}yours!"
+  "en": "Tch... Ain't that a cheery thought. You're{n}just another puppet of some creepy god, I{n}bet. Take off that stupid bonehead{n}of yours!"
  },
  {
   "id": "s0317_02b8c",
@@ -2281,7 +2281,7 @@
    "暗黒僧"
   ],
   "jp": "ここから先は私がお相手しよう。やが{n}て、お前たちは何も信じられなくなる。{n}――人間とは滅ぶべき罪深きものだと、{n}その目で確かめるがいい……",
-  "en": "From here on, I shall be your opponent. In{n}time you will be unable to believe in{n}anything. --See with your own eyes that{page}humans are sinful creatures, fit only to{n}perish..."
+  "en": "From here on, I shall be your opponent. In{n}time you will be unable to believe{n}in anything.{page}--See with your own eyes that humans are{n}sinful creatures, fit only to perish..."
  },
  {
   "id": "s0317_02d04",
@@ -2377,7 +2377,7 @@
    "ガラ"
   ],
   "jp": "直々に相手するってコトは、この先にゃ{n}じっくりと練った罠を用意してあるん{n}だろーぜ",
-  "en": "If he's gonna deal with us personally, I bet{n}he's got a nice, slow-cooked trap laid out up{n}ahead."
+  "en": "If he's gonna deal with us personally, I bet{n}he's got a nice, slow-cooked trap laid out{n}up ahead."
  },
  {
   "id": "s0317_02e04",
@@ -2401,7 +2401,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "構うかよ！　奴をとっ捕まえて、俺に{n}呪詛なんかかけやがったコトを死ぬ{n}ほど後悔させてやるぜ！　うぐっ！{n}こりゃあ、早くしねえとヤバイか……",
-  "en": "Who cares! I'll grab that guy and make him{n}wish he was dead for ever putting a curse{n}on me! Ugh! Damn, better hurry or I'm in{n}trouble..."
+  "en": "Who cares! I'll grab that guy and make him{n}wish he was dead for ever putting a curse{n}on me! Ugh! Damn, better hurry or I'm{n}in trouble..."
  },
  {
   "id": "s0317_030cc",

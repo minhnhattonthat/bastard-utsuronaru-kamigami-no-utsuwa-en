@@ -93,7 +93,7 @@
    "サイクス"
   ],
   "jp": "自走砦の土台となる巨岩部分は、{n}それ自体が結界――魔法陣なのだ。{n}天守閣にあるはずの霊子炉を増幅する{n}ためのブースターなのだよ、ここは",
-  "en": "The huge rock that forms the base of the{n}walking fort is itself a barrier -- a magic{n}circle. This place, gentlemen, is a booster{page}to amplify the spirit reactor that must be in{n}the keep."
+  "en": "The huge rock that forms the base of the{n}walking fort is itself a barrier -- a{n}magic circle.{page}This place, gentlemen, is a booster to{n}amplify the spirit reactor that must be in{n}the keep."
  },
  {
   "id": "s0092_0095c",
@@ -189,7 +189,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "味な真似しやがって……急ぐぜ！",
-  "en": "That's a cute trick, damn them... Let's{n}hurry!"
+  "en": "That's a cute trick, damn them...{n}Let's hurry!"
  },
  {
   "id": "s0092_00b14",
@@ -477,7 +477,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "なるほどな。安定したエネルギー点で{n}炉の能力を臨界寸前まで引き出して{n}やがるのか。こっちを先に止めねえと、{n}触媒のシーラを止められねえ――",
-  "en": "I get it. Stable energy points to push the{n}reactor right up to critical. We gotta stop{n}these first, or we can't stop the catalyst,{n}Sheila--"
+  "en": "I get it. Stable energy points to push the{n}reactor right up to critical. We gotta stop{n}these first, or we can't stop the{n}catalyst, Sheila--"
  },
  {
   "id": "s0092_00efc",
@@ -765,6 +765,6 @@
    "Ｄ・Ｓ"
   ],
   "jp": "これでよし。いつでも俺の思念に{n}遠隔で反応するぜ。他へ急ぐぞ！",
-  "en": "That does it. Now it'll respond to my will{n}from a distance, anytime. Let's hurry to the{n}others!"
+  "en": "That does it. Now it'll respond to my will{n}from a distance, anytime. Let's hurry to{n}the others!"
  }
 ]

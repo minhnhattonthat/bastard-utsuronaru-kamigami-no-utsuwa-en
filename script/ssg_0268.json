@@ -45,7 +45,7 @@
    "ヴァイ"
   ],
   "jp": "前方に、何やら見覚えのある巨大な{n}シルエットがあった。奇妙なマントを{n}羽織り、その下には剥き出しの、鎧の{n}ような筋肉を晒した巨漢である。顔に{n}は奇怪な極彩色のペイントを施し、{n}どこから見ても完全無欠な馬鹿ぶりを{n}演出している。",
-  "en": "Ahead was a huge silhouette they{n}somehow recognized. It was a giant{n}wearing a peculiar cape, under it a bare{n}body of armor-like muscle. His face was{n}covered in bizarre garish paint, staging a{n}flawless picture of idiocy from every{n}angle."
+  "en": "Ahead was a huge silhouette they{n}somehow recognized. It was a giant{n}wearing a peculiar cape, under it a bare{n}body of armor-like muscle. His face was{n}covered in bizarre garish paint, staging a{n}flawless picture of idiocy from{n}every angle."
  },
  {
   "id": "s0268_00908",
@@ -93,7 +93,7 @@
    "ダイ"
   ],
   "jp": "おっ、これはこれは皆さん。しばらく{n}でしたね",
-  "en": "Oh, well, well, everyone. It has been a{n}while."
+  "en": "Oh, well, well, everyone. It has been{n}a while."
  },
  {
   "id": "s0268_00948",
@@ -715,7 +715,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "ほーお。そっちがそういう態度なら、{n}俺ももう容赦しねえぜ。前はあんまり{n}酷いってんで使わなかった呪文だが、{n}今回は勘弁ならねー",
-  "en": "Oh, ho. If that's your attitude, I ain't gonna{n}go easy on you. I didn't use this spell before{n}'cause it's too cruel, but this time I've had{n}enough."
+  "en": "Oh, ho. If that's your attitude, I ain't gonna{n}go easy on you. I didn't use this spell before{n}'cause it's too cruel, but this time I've{n}had enough."
  },
  {
   "id": "s0268_011a0",
@@ -811,7 +811,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "コイツはとびっきり邪悪な呪いでな。{n}このＤ・Ｓ様をナメた野郎にピッタリ{n}の魔法だぜ――",
-  "en": "This is one mighty evil curse. Perfect for a{n}guy who screwed with the great{n}D.S.-sama--"
+  "en": "This is one mighty evil curse. Perfect for a{n}guy who screwed with the{n}great D.S.-sama--"
  },
  {
   "id": "s0268_012e8",
@@ -931,7 +931,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "テメエの五体はバラバラに引き裂か{n}れて、醜い無力なヒキガエルになる。{n}クックック……たとえ吸血鬼でも、{n}そうなっちまえばオシマイだぜぇ",
-  "en": "Your body gets torn limb from limb, and you{n}turn into an ugly, helpless toad. Heh heh{n}heh... Even a vampire's finished when that{n}happens."
+  "en": "Your body gets torn limb from limb, and you{n}turn into an ugly, helpless toad. Heh heh{n}heh... Even a vampire's finished when{n}that happens."
  },
  {
   "id": "s0268_01490",
@@ -1219,7 +1219,7 @@
    "シーン"
   ],
   "jp": "どうしてあんなに性格がねじ曲がった{n}のかしら……？",
-  "en": "How did he ever get so twisted, I{n}wonder...?"
+  "en": "How did he ever get so twisted,{n}I wonder...?"
  },
  {
   "id": "s0268_01770",

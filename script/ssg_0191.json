@@ -69,7 +69,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "カイの奴は水妖がどうとか言って{n}やがったが――",
-  "en": "Kai was going on about some water{n}spirit--"
+  "en": "Kai was going on about some{n}water spirit--"
  },
  {
   "id": "s0191_00a74",
@@ -189,7 +189,7 @@
    "ウンディーネＡ"
   ],
   "jp": "外見は人間にそっくりであったが、{n}娘たちは水妖と呼ばれる妖精の一種、{n}ウンディーネだった。澄んだ水辺を{n}その棲処とし、悪戯半分に男を誘惑{n}しては水中に引きずり込んでしまうと{n}いう。また、人間と恋に落ちることも{n}あるが、もし裏切られれば相手の命を{n}必ず水難にて奪う、愛憎深き水の精霊{n}である。",
-  "en": "They looked just like humans, but the girls{n}were a kind of fairy called water spirits:{n}Undines. They make their homes by clear{n}waters, and half for fun they tempt men{n}and drag them under. They may fall in{n}love with humans too, but if betrayed,{n}these beings of deep love and hate are{page}sure to take the betrayer's life by{n}drowning."
+  "en": "They looked just like humans, but the girls{n}were a kind of fairy called water spirits:{n}Undines. They make their homes by clear{n}waters, and half for fun they tempt men{n}and drag them under.{page}They may fall in love with humans too,{n}but if betrayed, these beings of deep love{n}and hate are sure to take the betrayer's{n}life by drowning."
  },
  {
   "id": "s0191_00c20",
@@ -237,7 +237,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "ウンディーネたちはクスクスと笑い{n}さざめき、人間の男が珍しいのか、{n}盛んにウインクや投げキッスを飛ばし{n}て誘惑してくる。しかし、同性に{n}対しては目をくれようともしない。{n}カイの語っていた、男でなければ駄目{n}だというのは、水妖たちのこの極端な{n}性癖のことであった。",
-  "en": "The Undines giggled and chattered and,{n}perhaps finding human men a rarity,{n}tempted them with winks and blown kisses.{n}But they would not so much as glance at{n}those of their own sex. So this was what{n}Kai had meant by saying only a man would{n}do: the extreme tastes of the water{n}spirits."
+  "en": "The Undines giggled and chattered and,{n}perhaps finding human men a rarity,{n}tempted them with winks and blown kisses.{n}But they would not so much as glance at{n}those of their own sex. So this was what{n}Kai had meant by saying only a man would{n}do: the extreme tastes of the{n}water spirits."
  },
  {
   "id": "s0191_00d68",
@@ -309,7 +309,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "……弱ったな。お、そうだ。ひとつ{n}頼みがあるんだが、俺たちを向こうの{n}島まで渡してもらえねえかな？",
-  "en": "...Well, that's a pain. Oh, right. I got a favor{n}to ask. Could you take us across to that{n}island?"
+  "en": "...Well, that's a pain. Oh, right. I got a favor{n}to ask. Could you take us across to{n}that island?"
  },
  {
   "id": "s0191_00f14",
@@ -429,7 +429,7 @@
    "ヴァイ"
   ],
   "jp": "でもよ、水妖って男を水の中に引き{n}ずり込んだりするんだろ？　ひとりで{n}居残りってコワイんじゃあ――",
-  "en": "But hey, don't water spirits drag men{n}underwater? Staying behind all alone sounds{n}scary--"
+  "en": "But hey, don't water spirits drag men{n}underwater? Staying behind all alone{n}sounds scary--"
  },
  {
   "id": "s0191_010c4",
@@ -1099,7 +1099,7 @@
    "マカパイン"
   ],
   "jp": "――判った。そうまで言われては{n}私も我を通してばかりはいられまい。{n}だが！　後の再戦、決して忘れるなよ",
-  "en": "--Very well. Put that way, I cannot stand{n}only on my own will. But! Do not forget our{n}rematch."
+  "en": "--Very well. Put that way, I cannot stand{n}only on my own will. But! Do not forget{n}our rematch."
  },
  {
   "id": "s0191_0181c",
@@ -1315,7 +1315,7 @@
    "マカパイン"
   ],
   "jp": "フ、笑止な！　私に見捨てられたとは{n}言え、すぐさま敵方に寝返った貴様に{n}あれこれ意見される覚えはないわ！{n}Ｄ・Ｓ、覚悟！",
-  "en": "Heh, how absurd! Abandoned by me or not,{n}you went straight over to the enemy, so I{n}need no advice from you! D.S., prepare{n}yourself!"
+  "en": "Heh, how absurd! Abandoned by me or not,{n}you went straight over to the enemy, so I{n}need no advice from you! D.S.,{n}prepare yourself!"
  },
  {
   "id": "s0191_01abc",
@@ -1891,7 +1891,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "そこはだな、たくさんの女が囲われて{n}いて、男と言えば自分ひとり！{n}もお日替わりで手を変え品を変え――！{n}はぐぅ……",
-  "en": "See, it's this place with loads of women{n}locked away, and the only man is you! Every{n}day a different one, all kinds of ways--!{n}Hngh..."
+  "en": "See, it's this place with loads of women{n}locked away, and the only man is you! Every{n}day a different one, all kinds of{n}ways--! Hngh..."
  },
  {
   "id": "s0191_020b4",
@@ -1939,7 +1939,7 @@
    "シーラ"
   ],
   "jp": "若者に有害なコトを吹き込むな――{n}と言うコトみたいですわね",
-  "en": "It seems to be saying you must not fill{n}young people's heads with harmful things, I{n}believe."
+  "en": "It seems to be saying you must not fill{n}young people's heads with harmful things,{n}I believe."
  },
  {
   "id": "s0191_02128",
@@ -2181,7 +2181,7 @@
    "サイクス"
   ],
   "jp": "外見を褒められるのは慣れっこだが{n}……まあ、結局貴婦人たちは私の知性、{n}つまりは中身に惹かれてゆくのだがね",
-  "en": "I am accustomed to praise for my looks...{n}But, you see, in the end the ladies are{n}drawn to my intellect, that is, what lies{n}within."
+  "en": "I am accustomed to praise for my looks...{n}But, you see, in the end the ladies are{n}drawn to my intellect, that is, what{n}lies within."
  },
  {
   "id": "s0191_02314",
@@ -2325,7 +2325,7 @@
    "ヴァイ"
   ],
   "jp": "待て待て待てえい！　それだけは{n}納得できーん！",
-  "en": "Hold it, hold it, hold it! That I won't{n}accept!"
+  "en": "Hold it, hold it, hold it! That I{n}won't accept!"
  },
  {
   "id": "s0191_02460",
@@ -2349,7 +2349,7 @@
    "ボル"
   ],
   "jp": "そ、それがしもチョットだけ傷ついた{n}でござる",
-  "en": "Th-This one is a little hurt as well,{n}forsooth."
+  "en": "Th-This one is a little hurt as{n}well, forsooth."
  },
  {
   "id": "s0191_02490",
@@ -2949,7 +2949,7 @@
    "バ・ソリー"
   ],
   "jp": "バ・ソリーが耳障りな鳴き真似をする{n}と、それに呼応して窪地の底の柔らか{n}な泥土が盛り上がり、以前遭遇した{n}奇蟲に似た生物が出現した。{page}だが、この珍妙な蟲は、Ｄ・Ｓたちを{n}見るなり唸り声をあげて突進してきた。",
-  "en": "When Ba Thory made a grating imitation of{n}its cry, the soft mud at the bottom of{n}the hollow swelled up in answer, and a{n}creature like the strange bug they had{n}met before appeared.{page}But the moment this bizarre bug saw D.S.{n}and the others, it let out a growl and{n}charged."
+  "en": "When Ba Thory made a grating imitation of{n}its cry, the soft mud at the bottom of{n}the hollow swelled up in answer, and a{n}creature like the strange bug they had{n}met before appeared.{page}But the moment this bizarre bug saw D.S.{n}and the others, it let out a growl{n}and charged."
  },
  {
   "id": "s0191_038b0",
@@ -3021,7 +3021,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "このバカたれが。余計な戦闘に{n}巻き込みやがって！",
-  "en": "You damn idiot. Dragging us into a pointless{n}fight!"
+  "en": "You damn idiot. Dragging us into a{n}pointless fight!"
  },
  {
   "id": "s0191_03964",
@@ -3488,7 +3488,7 @@
    "ヴァイ"
   ],
   "jp": "力尽きたのか、その蟲のような生物は{n}ピクリとも動かなくなった。と、見る{n}間に体表から湯気が立ち上り始める。{page}やがて、大量の水分を急速に放出した{n}蟲は拳ほどの大きさにまで干涸らび、{n}サナギのようになって地面に転がった。",
-  "en": "Its strength spent, it seemed, the bug-like{n}creature no longer so much as twitched.{n}Then, as they watched, steam began to{n}rise from its skin.{page}Soon, having rapidly shed a great quantity{n}of water, the bug shriveled to the size of{n}a fist and lay on the ground like a{n}chrysalis."
+  "en": "Its strength spent, it seemed, the bug-like{n}creature no longer so much as twitched.{n}Then, as they watched, steam began to{n}rise from its skin.{page}Soon, having rapidly shed a great quantity{n}of water, the bug shriveled to the size of{n}a fist and lay on the ground like{n}a chrysalis."
  },
  {
   "id": "s0191_03f00",
@@ -3512,7 +3512,7 @@
    "シーラ"
   ],
   "jp": "仮死状態になったのですか……",
-  "en": "So it has gone into a state of suspended{n}life..."
+  "en": "So it has gone into a state of{n}suspended life..."
  },
  {
   "id": "s0191_03f20",
@@ -3726,7 +3726,7 @@
    ""
   ],
   "jp": "二本に分かれた石柱の間に、ひとりの{n}乙女が吊り下げられるように囚われて{n}いた。捧げ物であると示すためか、{n}巫女を思わせる白絹の衣装を着せられ{n}ている。カイのさらわれた仲間とは、{n}この娘のことであろう。",
-  "en": "Between two stone pillars, a maiden was{n}held as if hung up. Perhaps to mark her as{n}an offering, she had been dressed in{n}white silk that recalled a shrine maiden.{n}This girl must be Kai's kidnapped{n}comrade."
+  "en": "Between two stone pillars, a maiden was{n}held as if hung up. Perhaps to mark her as{n}an offering, she had been dressed in{n}white silk that recalled a shrine maiden.{n}This girl must be Kai's{n}kidnapped comrade."
  },
  {
   "id": "s0191_0474c",
@@ -4014,7 +4014,7 @@
    "シーン"
   ],
   "jp": "娘――呪符魔導士シーン・ハリは、{n}もうひとつの湖で魔性に拉致されたの{n}だと語った。カイのもとに戻る途中、{n}湖に映る城らしきものが見えた――{n}そう思った瞬間、湖面を波立たせて{n}現れた妖魔に捕まり、水棲の魔物に{n}川を通じてこの島まで運ばれてきたと{n}いうことであった。",
-  "en": "The girl--Sean Ari, the talisman{n}sorceress--said a demon had abducted{n}her at the other lake. On her way back to{n}Kai she had seen what looked like a castle{n}reflected on the lake. The moment she{n}thought so, a demon rose from the{n}rippling surface and seized her, and a{n}water monster carried her to this{page}island by way of the river."
+  "en": "The girl--Sean Ari, the talisman{n}sorceress--said a demon had abducted{n}her at the other lake. On her way back to{n}Kai she had seen what looked like a castle{n}reflected on the lake.{page}The moment she thought so, a demon rose{n}from the rippling surface and seized her,{n}and a water monster carried her to this{n}island by way of the river."
  },
  {
   "id": "s0191_04e4c",
@@ -4086,7 +4086,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "なるほどな。王鴉や毒乙女の他にも、{n}まだ妖魔の類がいるってワケか――",
-  "en": "I see. So besides King Raven and the Poison{n}Maiden, there's more demon types{n}around--"
+  "en": "I see. So besides King Raven and the Poison{n}Maiden, there's more demon{n}types around--"
  },
  {
   "id": "s0191_04fa8",
@@ -4182,7 +4182,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "そう言やウンディーネどもはお手{n}柔らかにやってるかな。ちっと心配に{n}なってきたぜ",
-  "en": "Speaking of which, I wonder if those Undines{n}are going easy. I'm starting to get a little{n}worried."
+  "en": "Speaking of which, I wonder if those Undines{n}are going easy. I'm starting to get a{n}little worried."
  },
  {
   "id": "s0191_050e4",
@@ -4542,7 +4542,7 @@
    "マカパイン"
   ],
   "jp": "はっ!?　ここは……あっ！　Ｄ・Ｓ！{n}貴様、私を騙したな！",
-  "en": "Huh!? This is... Ah! D.S.! You tricked me, you{n}wretch!"
+  "en": "Huh!? This is... Ah! D.S.! You tricked me,{n}you wretch!"
  },
  {
   "id": "s0191_05648",
@@ -4686,7 +4686,7 @@
    "マカパイン"
   ],
   "jp": "左目を少し潤ませて、マカパインは{n}後ろも見ずに森へと駆け込んでいった。",
-  "en": "His left eye a little wet, Macalpine ran{n}into the forest without a backward{n}glance."
+  "en": "His left eye a little wet, Macalpine ran{n}into the forest without a{n}backward glance."
  },
  {
   "id": "s0191_057f0",
@@ -5718,7 +5718,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "そりゃ“河豚”だ。そんなボケする{n}ヤツがイルカ！　……と言う結果が{n}出ましたが、サイクスさん？",
-  "en": "That's a blowfish. Nobody's this dumb on{n}porpoise! ...And those are the results,{n}Sykes-san?"
+  "en": "That's a blowfish. Nobody's this dumb on{n}porpoise! ...And those are the{n}results, Sykes-san?"
  },
  {
   "id": "s0191_05f3c",
@@ -5934,7 +5934,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "あ、そーだ。この蟲も、やっぱオメエ{n}のトモダチか？",
-  "en": "Oh, right. This bug's a buddy of yours too,{n}right?"
+  "en": "Oh, right. This bug's a buddy of yours{n}too, right?"
  },
  {
   "id": "s0191_06160",
@@ -6270,7 +6270,7 @@
    "カイ"
   ],
   "jp": "そうか……ならば俺とシーンも同行{n}させてくれないか",
-  "en": "I see... Then will you let Sean and me come{n}along?"
+  "en": "I see... Then will you let Sean and me{n}come along?"
  },
  {
   "id": "s0191_0653c",

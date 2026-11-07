@@ -21,7 +21,7 @@
    ""
   ],
   "jp": "井戸を通じて一行が実体化したのは、{n}奇怪な色彩が渦巻く異様な世界で{n}あった。遥か彼方に見えるのは、{n}この世界の境界を形作るべく空間に{n}描かれた巨大な呪紋――それは即ち、{n}彼らの立つこの場所が切り取られた{n}時空、封印された次元であることを{n}示していた。",
-  "en": "Through the well, the party took form in{n}a strange world of swirling, bizarre{n}colors. Far off they could see a huge{n}curse-sigil drawn in space to form the{n}boundary of this world-- which meant{n}that the place where they stood was a{n}time and space cut away, a sealed{n}dimension."
+  "en": "Through the well, the party took form in{n}a strange world of swirling, bizarre{n}colors. Far off they could see a huge{n}curse-sigil drawn in space to form the{n}boundary of this world-- which meant{n}that the place where they stood was a{n}time and space cut away, a{n}sealed dimension."
  },
  {
   "id": "s0372_00910",
@@ -117,7 +117,7 @@
    "アビゲイル"
   ],
   "jp": "フム……どうやらこの世界では、時間{n}も完全に停止しているようです。後ろ{n}の転移フィールドから元の場所には{n}戻れそうですが、どうします、Ｄ・Ｓ？",
-  "en": "Hmm... It appears time has stopped{n}completely in this world. We can likely{n}return to the original place through the{page}transfer field behind us, but what shall we{n}do, D.S.?"
+  "en": "Hmm... It appears time has stopped{n}completely in this world.{page}We can likely return to the original place{n}through the transfer field behind us, but{n}what shall we do, D.S.?"
  },
  {
   "id": "s0372_00ab8",
@@ -429,7 +429,7 @@
    ""
   ],
   "jp": "神は全能である。故に神は過ちを犯す{n}ことはない。だが彼は、神が人間の位{n}を天使の上に定めたことを大いなる{n}過ちと見なした。即ち、天使たちが{n}絶対の存在と信じ続けた神は、逆説的{n}に決して全能ではないと証明された。",
-  "en": "God is omnipotent. Thus God makes no{n}mistake. Yet he saw God's placing man{n}above the angels as a great mistake. Thus{n}the God that angels had believed absolute{n}was, by paradox, proved in no way{n}omnipotent."
+  "en": "God is omnipotent. Thus God makes no{n}mistake. Yet he saw God's placing man{n}above the angels as a great mistake. Thus{n}the God that angels had believed absolute{n}was, by paradox, proved in no{n}way omnipotent."
  },
  {
   "id": "s0372_01490",
@@ -477,7 +477,7 @@
    ""
   ],
   "jp": "神が全能でない以上、天使の長たる{n}自分とどれほどの差があろう？{n}ならば天に輝く至高の御座は、神の{n}過ちを正すことのできる自分が座る{n}べきではないのか――。",
-  "en": "If God is not omnipotent, how much{n}difference can there be from himself,{n}chief of the angels? Then should not he,{n}who could correct God's mistake, sit on{n}the supreme throne shining in{n}heaven--?"
+  "en": "If God is not omnipotent, how much{n}difference can there be from himself,{n}chief of the angels? Then should not he,{n}who could correct God's mistake, sit on{n}the supreme throne shining{n}in heaven--?"
  },
  {
   "id": "s0372_01698",
@@ -525,7 +525,7 @@
    ""
   ],
   "jp": "彼は天使の半分を率い、神に反旗を{n}翻した。天界は二つに割れ、炎の如き{n}反乱天使の剣は神の座の目前にまで{n}攻め上った。",
-  "en": "He led half of the angels and raised the{n}flag of rebellion against God. Heaven split{n}in two, and the rebel angels' swords, like{n}flame, drove right up to the foot of God's{n}throne."
+  "en": "He led half of the angels and raised the{n}flag of rebellion against God. Heaven split{n}in two, and the rebel angels' swords, like{n}flame, drove right up to the foot of{n}God's throne."
  },
  {
   "id": "s0372_0188c",
@@ -573,7 +573,7 @@
    ""
   ],
   "jp": "しかし、神の力は強大だった。天より{n}降り注ぐ雷は反逆者たちの白き翼を{n}灼き、彼の軍勢はひとり残らず地へと{n}落とされた。その姿さえも奪われ、{n}醜き堕天使として遥か次元の底へ――{n}業火渦巻く地獄へと。",
-  "en": "But God's power was vast. Lightning from{n}heaven burned the white wings of the{n}rebels, and his host was cast down to{n}earth to the last one. Robbed even of{n}their forms, they fell as hideous fallen{n}angels to the far bottom of the{n}dimensions-- into hell, where the fires{n}swirl."
+  "en": "But God's power was vast. Lightning from{n}heaven burned the white wings of the{n}rebels, and his host was cast down to{n}earth to the last one. Robbed even of{n}their forms, they fell as hideous fallen{n}angels to the far bottom of the{n}dimensions-- into hell, where the{n}fires swirl."
  },
  {
   "id": "s0372_01a9c",
@@ -1029,7 +1029,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "装束が爆発的に弾ける、その瞬間――{n}そこに隠されていたサタンの本性が{n}露となる。",
-  "en": "The instant the garb burst apart--{n}Satan's true nature, hidden within, stood{n}revealed."
+  "en": "The instant the garb burst apart--{n}Satan's true nature, hidden within,{n}stood revealed."
  },
  {
   "id": "s0372_0235c",

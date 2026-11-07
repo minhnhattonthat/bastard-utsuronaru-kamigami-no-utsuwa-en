@@ -1243,7 +1243,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "……さーて、中座して悪かったな。{n}まずは予告通り傷口に塩からいくか？",
-  "en": "...Right then, sorry to step away. Shall we{n}start with salt in the wounds, like I{n}promised?"
+  "en": "...Right then, sorry to step away. Shall we{n}start with salt in the wounds, like{n}I promised?"
  },
  {
   "id": "s0030_01ad0",
@@ -1627,7 +1627,7 @@
    "ヨルグ"
   ],
   "jp": "……殺すなら殺せ。この機会に{n}逃げられなかった以上、もはや{n}生き恥を晒すつもりはない",
-  "en": "...Kill me if you're going to. I missed my{n}chance to escape, so I will not live on in{n}shame."
+  "en": "...Kill me if you're going to. I missed my{n}chance to escape, so I will not live on{n}in shame."
  },
  {
   "id": "s0030_020a4",
@@ -1939,7 +1939,7 @@
    "ヨシュア"
   ],
   "jp": "峡谷の先に走り去ったヨルグを追い、{n}ヨシュアもまた、彼方に消えた。",
-  "en": "Chasing Jorg, who had run off up the{n}gorge, Joshua too vanished into the{n}distance."
+  "en": "Chasing Jorg, who had run off up the{n}gorge, Joshua too vanished into{n}the distance."
  },
  {
   "id": "s0030_023e0",
@@ -2179,7 +2179,7 @@
    "イングヴェイイングヴェイ・フォン・マルムステ"
   ],
   "jp": "先刻の男とは違うようだな。{n}戻ってきたのでは、と思ったが",
-  "en": "You are not the same man as before, it{n}seems. I thought perhaps he had{n}returned."
+  "en": "You are not the same man as before, it{n}seems. I thought perhaps he{n}had returned."
  },
  {
   "id": "s0030_03100",
@@ -2395,7 +2395,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "このレリーフの龍、角の部分が動くん{n}じゃねえか？",
-  "en": "This dragon on the relief. I bet the horn{n}moves."
+  "en": "This dragon on the relief. I bet the{n}horn moves."
  },
  {
   "id": "s0030_03528",
@@ -2611,6 +2611,6 @@
    "イングヴェイイングヴェイ・フォン・マルムステ"
   ],
   "jp": "有り難い。思い起こすに私は戦いを{n}生業としていたようだ。自分の身を{n}守る程度なら、剣も使いこなせよう",
-  "en": "I am grateful. As I recall it, I seem to have{n}made my living by battle. I can handle a{n}sword, at least well enough to protect{n}myself."
+  "en": "I am grateful. As I recall it, I seem to have{n}made my living by battle. I can handle a{n}sword, at least well enough to{n}protect myself."
  }
 ]

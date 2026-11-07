@@ -405,7 +405,7 @@
    ""
   ],
   "jp": "空気に、濃密な妖気が漂い始めた。{n}流入する電気の力によって増幅された{n}その気配は、ほとんど物理的な圧力と{n}なって肌を刺してくる。",
-  "en": "A thick demonic energy began to drift{n}through the air. Amplified by the flowing{n}electric power, its presence stung the{n}skin with what was nearly physical{n}pressure."
+  "en": "A thick demonic energy began to drift{n}through the air. Amplified by the flowing{n}electric power, its presence stung the{n}skin with what was nearly{n}physical pressure."
  },
  {
   "id": "s0080_01068",
@@ -429,7 +429,7 @@
    ""
   ],
   "jp": "魔法陣の中の石に突き立てられる形で、{n}一本の刀が地面に打ち込まれていた。{page}霧を吹いたように濡れた刀身は、見る{n}者を虜にするほどに美しく輝き映える。{n}名のある刀であることは疑いようも{n}なかったが、その美しさは同時に滅び{n}をも想起させる妖艶さに満ちている。{n}即ち、剣士を魅せる妖刀の美であった。",
-  "en": "Thrust into a stone within the magic{n}circle, a single sword stood driven into{n}the ground.{page}Its blade, wet as if sprayed with mist,{n}shone with a beauty that held the viewer{n}captive. There was no doubting it was a{n}famous sword, but its beauty brimmed{n}with a bewitching charm that also called{n}ruin to mind. It was, in short, the beauty{n}of a cursed blade that enthralls{n}swordsmen."
+  "en": "Thrust into a stone within the magic{n}circle, a single sword stood driven into{n}the ground.{page}Its blade, wet as if sprayed with mist,{n}shone with a beauty that held the viewer{n}captive. There was no doubting it was a{n}famous sword, but its beauty brimmed{n}with a bewitching charm that also called{n}ruin to mind. It was, in short, the beauty{n}of a cursed blade that{n}enthralls swordsmen."
  },
  {
   "id": "s0080_01188",
@@ -501,7 +501,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "と、ヨーコ球からエクトプラズム状の{n}霊が抜け出し、再びジンの姿を取った。",
-  "en": "At that, the spirit slipped from the Yoko{n}orb like ectoplasm and took on Jin's form{n}again."
+  "en": "At that, the spirit slipped from the Yoko{n}orb like ectoplasm and took on Jin's{n}form again."
  },
  {
   "id": "s0080_0129c",
@@ -525,7 +525,7 @@
    "ジン"
   ],
   "jp": "“……ああ、いい気持ちだ。こんなに{n}安らかな心持ちになれたのは亡霊に{n}なって以来のことだ。ヨーコ殿の{n}御霊の、何と慈愛深きこと……”",
-  "en": "\"...Ahh, how pleasant. It's the first time I've{n}felt so at peace since I became a ghost.{n}How deep is the compassion of Yoko-dono's{n}spirit...\""
+  "en": "\"...Ahh, how pleasant. It's the first time I've{n}felt so at peace since I became a ghost.{n}How deep is the compassion of{n}Yoko-dono's spirit...\""
  },
  {
   "id": "s0080_01320",
@@ -573,7 +573,7 @@
    "ヴァイ"
   ],
   "jp": "おいおい、余計なコト言うなって！{n}Ｄ・Ｓのヤツ、歯が砕けそーなくらい{n}ぎり、ぎりとかやってんじゃねーか！",
-  "en": "Hey, hey, watch your mouth! D.S. is going{n}grind, grind, like he's about to shatter his{n}teeth!"
+  "en": "Hey, hey, watch your mouth! D.S. is going{n}grind, grind, like he's about to shatter{n}his teeth!"
  },
  {
   "id": "s0080_01398",
@@ -645,7 +645,7 @@
    "ジン"
   ],
   "jp": "“うむ。思った通り、オレが離された{n}せいで刀の妖気が暴走しているな。{n}だが、オレが宿り直せば大丈夫だろう。{n}アンタにも刀を引き抜けるはずだ”",
-  "en": "\"Yes. Just as I thought, tearing me away has{n}sent the sword's demon energy out of{n}control. But it should be fine once I{page}inhabit it again. You should be able to draw{n}it too.\""
+  "en": "\"Yes. Just as I thought, tearing me away has{n}sent the sword's demon energy out of{n}control. But it should be fine once I inhabit{n}it again.{page}You should be able to draw it too.\""
  },
  {
   "id": "s0080_01514",
@@ -669,7 +669,7 @@
    "ジン"
   ],
   "jp": "“ただ、一度刀に戻ってしまえば、{n}増大した妖気を抑えるためにオレは{n}しばらく霊体として姿を現すことが{n}できなくなる――”",
-  "en": "\"Only, once I go back into the sword, I'll{n}have to hold down its swollen energy, and{n}won't be able to appear as a spirit for a{n}while--\""
+  "en": "\"Only, once I go back into the sword, I'll{n}have to hold down its swollen energy, and{n}won't be able to appear as a spirit for{n}a while--\""
  },
  {
   "id": "s0080_0158c",
@@ -693,7 +693,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "全っ然構いません！　大体テメエは{n}ヨーコさんに取り憑いたっきりウンと{n}もスンとも言わなくなったじゃねーか",
-  "en": "Don't mind that one bit! Besides, you{n}bastard, ever since you latched on to{n}Yoko-san you ain't said a damn word{n}anyway."
+  "en": "Don't mind that one bit! Besides, you{n}bastard, ever since you latched on to{n}Yoko-san you ain't said a damn{n}word anyway."
  },
  {
   "id": "s0080_015f4",
@@ -933,7 +933,7 @@
    "ジン"
   ],
   "jp": "満身創痍になりながら、ジンは朧に{n}霞む両手で刀の柄を掴んだ。瞬間、{n}妖気は爆発的に膨れ上がり、そして{n}消失した。その時Ｄ・Ｓの目に映った{n}のは、限りなく透明になったジンが{n}微かな笑みを浮かべて刀に吸い込まれ{n}ていく姿であった。",
-  "en": "Wounded from head to toe, Jin gripped{n}the hilt with his misty, fading hands. In{n}that instant the demon energy swelled{n}explosively, and was gone. What D.S. saw{n}then was Jin, grown utterly transparent,{n}being drawn into the sword with a faint{n}smile."
+  "en": "Wounded from head to toe, Jin gripped{n}the hilt with his misty, fading hands. In{n}that instant the demon energy swelled{n}explosively, and was gone. What D.S. saw{n}then was Jin, grown utterly transparent,{n}being drawn into the sword with a{n}faint smile."
  },
  {
   "id": "s0080_019fc",
@@ -1149,7 +1149,7 @@
    "シェラ"
   ],
   "jp": "深く落ち込んだ亀裂の底に、巨大な{n}龍が横臥していた。長い胴を幾重にも{n}くねらせたその姿は、大地の力を{n}統べる龍神に相応しい威風を漂わせて{n}いる。",
-  "en": "At the bottom of the deep rift lay a giant{n}dragon. Its long body coiled in fold upon{n}fold, it had the majesty befitting a{n}dragon god who ruled the power of the{n}earth."
+  "en": "At the bottom of the deep rift lay a giant{n}dragon. Its long body coiled in fold upon{n}fold, it had the majesty befitting a{n}dragon god who ruled the power of{n}the earth."
  },
  {
   "id": "s0080_01f40",
@@ -1221,7 +1221,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "“力を奪われし者、Ｄ・Ｓよ。よくぞ{n}我を縛るくびきを解いた。これより{n}螺の道が開かれる。汝の力の根源と{n}なる、生命の龍が昇る道が――”",
-  "en": "\"D.S., thou who wast robbed of thy power.{n}Well hast thou broken the yoke that bound{n}me. Now the spiral road shall open. The road{n}by which the dragon of life, the source of{page}thy power, doth rise--\""
+  "en": "\"D.S., thou who wast robbed of thy power.{n}Well hast thou broken the yoke that bound{n}me. Now the spiral road shall open.{page}The road by which the dragon of life, the{n}source of thy power, doth rise--\""
  },
  {
   "id": "s0080_02088",
@@ -1413,7 +1413,7 @@
    "ヴァイ"
   ],
   "jp": "おい、Ｄ・Ｓ！　この洞窟持ちそうに{n}ねえぞ！　龍と見つめ合って、{n}何やってやがんだよ！",
-  "en": "Hey, D.S.! This cave's not gonna last! What{n}the hell are you doing, making eyes at a{n}dragon!"
+  "en": "Hey, D.S.! This cave's not gonna last! What{n}the hell are you doing, making eyes at{n}a dragon!"
  },
  {
   "id": "s0080_023b0",
@@ -1461,7 +1461,7 @@
    "ヴァイ"
   ],
   "jp": "それを最後に、地龍の声は途絶えた。{n}龍の双眸は爛々と輝きを増し、その{n}喉からは言葉ではない、天地を震わす{n}咆哮が轟き渡る。",
-  "en": "With that the Earth Dragon's voice{n}ceased. The dragon's eyes blazed ever{n}brighter, and from its throat roared no{n}word, but a howl that shook heaven and{n}earth."
+  "en": "With that the Earth Dragon's voice{n}ceased. The dragon's eyes blazed ever{n}brighter, and from its throat roared no{n}word, but a howl that shook heaven{n}and earth."
  },
  {
   "id": "s0080_024a8",

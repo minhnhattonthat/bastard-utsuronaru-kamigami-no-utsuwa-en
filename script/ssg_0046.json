@@ -45,7 +45,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "こりゃあ、断崖の上まで続いてる{n}かも知れねえな",
-  "en": "This might go all the way to the top of the{n}cliffs."
+  "en": "This might go all the way to the top of{n}the cliffs."
  },
  {
   "id": "s0046_00900",
@@ -333,7 +333,7 @@
    ""
   ],
   "jp": "と、柔らかな土の中を何かが動いた。{n}ぬめりを持った触手めいたものが、{n}地面の下を高速で泳ぎ回る。",
-  "en": "Then something moved in the soft soil. A{n}slimy thing like a tentacle was swimming{n}about at high speed beneath the{n}ground."
+  "en": "Then something moved in the soft soil. A{n}slimy thing like a tentacle was swimming{n}about at high speed beneath{n}the ground."
  },
  {
   "id": "s0046_00e70",
@@ -453,7 +453,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "力尽きたのか、その蟲のような生物は{n}ピクリとも動かなくなった。と、見る{n}間に体表から湯気が立ち上り始める。{page}やがて、大量の水分を急速に放出した{n}蟲は拳ほどの大きさにまで干涸らび、{n}サナギのようになって地面に転がった。",
-  "en": "Its strength spent, it seemed, the bug-like{n}creature no longer so much as twitched.{n}Then, as they watched, steam began to{n}rise from its skin.{page}Soon, having rapidly shed a great quantity{n}of water, the bug shriveled to the size of{n}a fist and lay on the ground like a{n}chrysalis."
+  "en": "Its strength spent, it seemed, the bug-like{n}creature no longer so much as twitched.{n}Then, as they watched, steam began to{n}rise from its skin.{page}Soon, having rapidly shed a great quantity{n}of water, the bug shriveled to the size of{n}a fist and lay on the ground like{n}a chrysalis."
  },
  {
   "id": "s0046_01014",
@@ -693,7 +693,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "好都合と言えば好都合だぜ。地龍は{n}最後に、谷に沿って関を破壊するって{n}言ってやがった。ここから湖に出りゃ、{n}龍の暴走に巻き込まれねえですむ――",
-  "en": "That actually works for us. The Earth{n}Dragon said that in the end it'd wreck the{n}gate, following the valley. If we head out to{n}the lake from here, we won't get caught{page}up in the dragon's rampage--"
+  "en": "That actually works for us. The Earth{n}Dragon said that in the end it'd wreck the{n}gate, following the valley.{page}If we head out to the lake from here, we{n}won't get caught up in the{n}dragon's rampage--"
  },
  {
   "id": "s0046_01560",
@@ -955,7 +955,7 @@
    "ヴァイ"
   ],
   "jp": "ザック……生意気な奴だけど、無事{n}でいろよ――",
-  "en": "Zakk... You're a cocky little punk, but stay{n}safe--"
+  "en": "Zakk... You're a cocky little punk, but{n}stay safe--"
  },
  {
   "id": "s0046_01814",

@@ -189,7 +189,7 @@
    "ザック"
   ],
   "jp": "俺の脳が少ないだあ？　いいかあ？{n}脳ミソってのはシワの数で決まるんだ！{n}って誰かが言ってた！　お前の脳ミソ{n}なんてきっとつるつるだぜっ！",
-  "en": "Little in my brain, you say? Listen up! Brains{n}are all about the number of wrinkles!{n}Somebody said so! I bet your brain's totally{n}smooth!"
+  "en": "Little in my brain, you say? Listen up! Brains{n}are all about the number of wrinkles!{n}Somebody said so! I bet your brain's{n}totally smooth!"
  },
  {
   "id": "s0042_00ab0",
@@ -1341,7 +1341,7 @@
    "ヴァイ"
   ],
   "jp": "湖水を堰き止める役割を果たしていた{n}鬼哭関が破壊され、膨大な水は激流と{n}なって大峡谷に放出されつつあった。{n}谷は大河と化し、海岸方向に向かって{n}勢いよく流れ続けている。人造湖の{n}水位はみるみるうちに減少し、本来の{n}カルデラ盆地の姿を取り戻していく。",
-  "en": "With the Ogre Wail Gate, which had{n}dammed the lake, destroyed, the vast{n}waters were pouring out into the great{n}gorge as a raging torrent. The valley had{n}become a great river, flowing hard{n}toward the coast. The level of the{n}man-made lake fell before their eyes,{page}and the caldera basin began to regain its{n}true form."
+  "en": "With the Ogre Wail Gate, which had{n}dammed the lake, destroyed, the vast{n}waters were pouring out into the great{n}gorge as a raging torrent. The valley had{n}become a great river, flowing hard{n}toward the coast.{page}The level of the man-made lake fell{n}before their eyes, and the caldera basin{n}began to regain its true form."
  },
  {
   "id": "s0042_0192c",
@@ -1461,7 +1461,7 @@
    "ザック"
   ],
   "jp": "ハッキリと目が覚めたぜ！　シーラ{n}とかいう女を助けるってんなら、俺も{n}一緒に行かせてくれ。鬼忍将に正義の{n}鉄拳を喰らわせてやるぜ！",
-  "en": "I'm wide awake now! If you're gonna rescue{n}that Sheila girl, let me come along. I'll give{n}the High Ninja a taste of the iron fist of{n}justice!"
+  "en": "I'm wide awake now! If you're gonna rescue{n}that Sheila girl, let me come along. I'll give{n}the High Ninja a taste of the iron fist{n}of justice!"
  },
  {
   "id": "s0042_01ba8",
@@ -1677,7 +1677,7 @@
    "ブラド"
   ],
   "jp": "しかーし！　真の騎士道とは、かの{n}姫君を敵の手から救い出してこそ{n}認められるものだ",
-  "en": "Howeeever! True chivalry is proven only by{n}rescuing that princess from the enemy's{n}hands."
+  "en": "Howeeever! True chivalry is proven only by{n}rescuing that princess from the{n}enemy's hands."
  },
  {
   "id": "s0042_01da8",
@@ -2061,7 +2061,7 @@
    "ロス"
   ],
   "jp": "結構いい奴かもよ。さっきだって{n}自分だけ助かるように糸を切ることも{n}できたんだろうし",
-  "en": "He might be a pretty nice guy. Back there{n}he could've cut the wire and saved only{n}himself."
+  "en": "He might be a pretty nice guy. Back there{n}he could've cut the wire and saved{n}only himself."
  },
  {
   "id": "s0042_022d8",
@@ -2157,7 +2157,7 @@
    "ロス"
   ],
   "jp": "前に言ったでしょ。探してるモノが{n}あるって。警戒のキツイ雷神塔にある{n}と思ったのに、実は龍のためだった、{n}なんてね。アテが外れたワケよ",
-  "en": "I told you before, didn't I. There's something{n}I'm looking for. I thought it'd be in that{n}heavily guarded Thunder God Tower, but{page}it was all for the dragon's sake. Talk about a{n}letdown."
+  "en": "I told you before, didn't I. There's something{n}I'm looking for. I thought it'd be in that{n}heavily guarded Thunder God Tower, but it{n}was all for the dragon's sake.{page}Talk about a letdown."
  },
  {
   "id": "s0042_023c8",
@@ -2181,7 +2181,7 @@
    "ロス"
   ],
   "jp": "ホントはもっと早く別行動しようと{n}思ってたんだけど、雷神塔からの行き{n}がかり上、途中でケツ……あら下品、{n}オシリまくるのもスッキリしないしね",
-  "en": "I really meant to go my own way sooner,{n}but after how things went from the{n}Thunder God Tower on, turning my ass and--{n}oh, how vulgar, my derriere-- and running{page}halfway wouldn't have felt right."
+  "en": "I really meant to go my own way sooner,{n}but after how things went from the{n}Thunder God Tower on, turning my ass and--{n}oh, how vulgar, my derriere--{page}and running halfway wouldn't have{n}felt right."
  },
  {
   "id": "s0042_02454",
@@ -2325,7 +2325,7 @@
    "ヴァイ"
   ],
   "jp": "それは、カルデラ盆地の中央に嵌め{n}込まれた巨大な岩塊だった。釣り鐘型{n}の六角柱に近い形状で、高く隆起した{n}中央部が湖面から突出し、島と見えた{n}部分を形成していたらしい。",
-  "en": "It was a giant mass of rock set into the{n}middle of the caldera basin. It was close{n}to a hexagonal column in the shape of a{n}bell, and its high central rise, jutting{n}above the surface of the lake, had{n}evidently been what looked like an{n}island."
+  "en": "It was a giant mass of rock set into the{n}middle of the caldera basin. It was close{n}to a hexagonal column in the shape of a{n}bell, and its high central rise, jutting{n}above the surface of the lake, had{n}evidently been what looked like{n}an island."
  },
  {
   "id": "s0042_02600",
@@ -2397,7 +2397,7 @@
    "ヨルグ"
   ],
   "jp": "鬼忍将が自分の砦を“寄岩砦”と{n}呼んでいるのを以前耳にしたんだが、{n}このことだったのか……",
-  "en": "I once heard the High Ninja call his fort the{n}\"Hermit Rock Fort.\" So this is what he{n}meant..."
+  "en": "I once heard the High Ninja call his fort the{n}\"Hermit Rock Fort.\" So this is what{n}he meant..."
  },
  {
   "id": "s0042_0287c",
@@ -2589,7 +2589,7 @@
    "ヴァイ"
   ],
   "jp": "カルデラ湖の底だった盆地を下り、{n}一行は高く聳える寄岩砦へと向かう。{n}途中、取り残された巨大魚が何匹も{n}ぬかるんだ地面でのたうっているのを{n}目にし、彼らは改めて湖を渡ることが{n}不可能であったと認識した。",
-  "en": "Descending into the basin that had been{n}the floor of the caldera lake, the party{n}made for the towering Hermit Rock Fort.{n}Along the way they saw a number of{n}giant fish left behind, thrashing on the{n}muddy ground, and realized anew that{n}crossing the lake would have been{n}impossible."
+  "en": "Descending into the basin that had been{n}the floor of the caldera lake, the party{n}made for the towering Hermit Rock Fort.{n}Along the way they saw a number of{n}giant fish left behind, thrashing on the{n}muddy ground, and realized anew that{n}crossing the lake would have{n}been impossible."
  },
  {
   "id": "s0042_02b84",

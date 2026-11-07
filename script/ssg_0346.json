@@ -69,7 +69,7 @@
    "暗黒僧"
   ],
   "jp": "よもやこの癌臓宮の最奥部まで辿り{n}着こうとはな。さすがは伝説の魔人、{n}地獄の皇太子とまで謳われたＤ・Ｓだ。{n}癌生物どもでは足止めにもならん……",
-  "en": "So you have reached the very depths of{n}this Cancer Palace. Truly the legendary{n}fiend, D.S., sung of as the Crown Prince of{page}Hell. The cancer creatures could not even{n}slow you..."
+  "en": "So you have reached the very depths of{n}this Cancer Palace. Truly the legendary{n}fiend, D.S., sung of as the Crown Prince{n}of Hell.{page}The cancer creatures could not even{n}slow you..."
  },
  {
   "id": "s0346_009a4",
@@ -165,7 +165,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "刹那、Ｄ・Ｓから殺気の塊が放射され{n}た。膨大な“気”は物理エネルギーの{n}刃となって空間を駆け、あえて避けよ{n}うとしない暗黒僧を正面から撃つ。と、{n}骨の仮面に縦に亀裂が疾り、それは{n}左右にゆっくりと割れ落ちていく――。",
-  "en": "In that instant, a mass of killing intent{n}shot out from D.S. The vast \"force\"{n}became a blade of physical energy and{n}raced through space, and struck full-on{n}the Dark Priest, who did not try to dodge.{n}A crack ran vertically down the bone{n}mask, and it split slowly, falling left and{n}right--."
+  "en": "In that instant, a mass of killing intent{n}shot out from D.S. The vast \"force\"{n}became a blade of physical energy and{n}raced through space, and struck full-on{n}the Dark Priest, who did not try to dodge.{n}A crack ran vertically down the bone{n}mask, and it split slowly, falling left{n}and right--."
  },
  {
   "id": "s0346_00b30",
@@ -309,7 +309,7 @@
    "アビゲイル"
   ],
   "jp": "アビゲイル――予測した通り、暗黒僧{n}の正体はＤ・Ｓ四天王最後のひとりで{n}あった。彼もまたガラやネイと同じく{n}敵の精神支配を受けていることは明白{n}であったが、ふたりとは違って名前を{n}封じられてはおらぬ。記憶も奪われて{n}はいない様子で、彼の精神を拘束して{n}いるのは、これまでとは全く異なる術{n}であるらしかった。",
-  "en": "Abigail-- As predicted, the Dark Priest{n}proved to be the last of D.S.'s Divine Kings.{n}Clearly he too, like Gara and Nei, was{n}under the enemy's mind control, but unlike{n}those two his name had not been sealed.{n}Nor did his memories seem to have been{n}stolen; what bound his mind was, it{page}appeared, an art wholly unlike those{n}before."
+  "en": "Abigail-- As predicted, the Dark Priest{n}proved to be the last of D.S.'s Divine Kings.{n}Clearly he too, like Gara and Nei, was{n}under the enemy's mind control, but unlike{n}those two his name had not been sealed.{n}Nor did his memories seem to have been{n}stolen; what bound his mind was, it{page}appeared, an art wholly unlike{n}those before."
  },
  {
   "id": "s0346_00d8c",
@@ -597,7 +597,7 @@
    "アビゲイル"
   ],
   "jp": "う……うう……これは、探していた、{n}答えなのか――？",
-  "en": "Ugh... Uhh... Is this, the answer, I was looking{n}for--?"
+  "en": "Ugh... Uhh... Is this, the answer, I was{n}looking for--?"
  },
  {
   "id": "s0346_01180",
@@ -621,7 +621,7 @@
    "アビゲイル"
   ],
   "jp": "暗黒神に仕える僧侶として、Ｄ・Ｓの{n}四天王の一角を担っていたアビゲイル{n}――その正体は、突出した生体技術に{n}よって四百年以上を生きる、旧世界の{n}科学者のひとりであった。",
-  "en": "A priest serving the dark god, who held a{n}seat among D.S.'s Divine Kings: Abigail-- He{n}was in truth one of the old world's{n}scientists, who had lived over four{n}hundred years thanks to his outstanding{n}bio-technology."
+  "en": "A priest serving the dark god, who held a{n}seat among D.S.'s Divine Kings: Abigail-- He{n}was in truth one of the old world's{n}scientists, who had lived over four{n}hundred years thanks to his{n}outstanding bio-technology."
  },
  {
   "id": "s0346_01228",
@@ -645,7 +645,7 @@
    "アビゲイル"
   ],
   "jp": "かつて繁栄を極めた旧世界の科学文明{n}は、原子力も光子力をも超える無限の{n}エネルギー理論に到達していた。魂の{n}力を源に、無公害の莫大な出力を生み{n}出す霊子エネルギー――この理論の{n}確立に世界は狂喜し、人類は歴史上で{n}最大の栄華を誇る時代に突入した。",
-  "en": "The scientific civilization of the old world,{n}at the height of its prosperity, had{n}arrived at a theory of infinite energy{n}surpassing even atomic and photon power.{n}Spirit energy, drawing on the power of{n}the soul, giving vast output free of{n}pollution-- The world rejoiced at this{n}theory, and humankind entered the{page}most glorious age in history."
+  "en": "The scientific civilization of the old world,{n}at the height of its prosperity, had{n}arrived at a theory of infinite energy{n}surpassing even atomic and photon power.{n}Spirit energy, drawing on the power of{n}the soul, giving vast output free{n}of pollution--{page}The world rejoiced at this theory, and{n}humankind entered the most glorious age{n}in history."
  },
  {
   "id": "s0346_0131c",
@@ -789,7 +789,7 @@
    "アビゲイル"
   ],
   "jp": "続いて生じた、悪魔王サタンの降臨と{n}天使軍団との闘争。それは文字通り、{n}人類を絶滅の縁に追いやる最終戦争の{n}様相を呈した。超存在同士の熾烈な{n}戦いは地軸をも震わせ、地球全土の{n}環境を激変させた。この激闘が終結し、{n}彼らが元の次元へと帰還した時、実に{n}人類の９０パーセント以上が死滅して{n}いたのだった――。",
-  "en": "Next came the descent of Satan, king of{n}devils, and his struggle with the angel{n}host. It took on the shape of a final war{n}that literally drove humankind to the{n}brink of extinction. The fierce battle of{n}those transcendent beings shook even the{n}Earth's axis, and violently changed the{n}environment of the whole planet. When{page}this battle ended and they returned to{n}their own dimensions, over 90 percent of{n}humankind had perished--."
+  "en": "Next came the descent of Satan, king of{n}devils, and his struggle with the angel{n}host. It took on the shape of a final war{n}that literally drove humankind to the{n}brink of extinction. The fierce battle of{n}those transcendent beings shook even the{n}Earth's axis, and violently changed the{n}environment of the whole planet.{page}When this battle ended and they returned{n}to their own dimensions, over 90 percent{n}of humankind had perished--."
  },
  {
   "id": "s0346_01788",
@@ -813,7 +813,7 @@
    "アビゲイル"
   ],
   "jp": "霊子力理論の構築にあたり、中心と{n}なった十人の科学者グループがいた。{page}大破壊後の世界に生き残った彼らは、{n}再び人類を繁栄させるべく力を奮った。{n}科学者たちはいつしか十賢者と呼ばれ、{n}旧世界の記憶を持たぬ人々に神にも{n}等しい存在として崇められるに至った。",
-  "en": "In building the theory of spirit power, a{n}group of ten scientists had stood at the{n}center.{page}Surviving into the world after the great{n}destruction, they strove to make{n}humankind flourish again. The scientists{n}came to be called the Ten Sages, and{n}were worshipped as near to gods by{n}people with no memory of the old{n}world."
+  "en": "In building the theory of spirit power, a{n}group of ten scientists had stood at{n}the center.{page}Surviving into the world after the great{n}destruction, they strove to make{n}humankind flourish again. The scientists{n}came to be called the Ten Sages, and{n}were worshipped as near to gods by{n}people with no memory of the{n}old world."
  },
  {
   "id": "s0346_01880",
@@ -837,7 +837,7 @@
    "アビゲイル"
   ],
   "jp": "だが、彼らこそが――科学に溺れ、{n}神の怒りを買った十賢者こそが、人類{n}の大半を死に追いやったのだ――。{page}科学者のひとりアビゲイルの脳裏には、{n}常にこの思いがあった。人の魂だけは、{n}科学の力で弄ぶべきではなかった――{n}その慚愧が、いつしか彼を十賢者の{n}立場から離れさせた。",
-  "en": "Yet they themselves-- the Ten Sages,{n}drowned in science, who drew the wrath{n}of God-- had driven most of humankind to{n}death--.{page}One of the scientists, Abigail, had this{n}thought always in his mind. The human{n}soul alone should never have been toyed{n}with by the power of science-- That{n}shame in time drew him away from the{n}Ten Sages."
+  "en": "Yet they themselves-- the Ten Sages,{n}drowned in science, who drew the wrath{n}of God-- had driven most of humankind{n}to death--.{page}One of the scientists, Abigail, had this{n}thought always in his mind. The human{n}soul alone should never have been toyed{n}with by the power of science-- That{n}shame in time drew him away from the{n}Ten Sages."
  },
  {
   "id": "s0346_0198c",
@@ -1005,7 +1005,7 @@
    "アビゲイル"
   ],
   "jp": "だが、この世界に呼び込まれた時、{n}アビゲイルはこのトラウマを衝かれた。{page}人類史上、最大の死者を出した責任の{n}一端――Ｄ・Ｓから引き離され、彼は{n}その罪の重さを支える拠り所を失って{n}いた。それを正当化するために、虚神{n}に差し出された救いの綱は“人類は{n}滅亡すべき存在だ”と言う思想だった。",
-  "en": "But when he was called into this world,{n}Abigail's trauma was struck.{page}A share of the guilt for the greatest{n}death toll in human history-- Cut off from{n}D.S., he had lost what let him bear the{n}weight of that sin. To justify it, the rope{n}of salvation the Hollow Gods held out was{n}the idea that \"humankind deserves{n}extinction\"."
+  "en": "But when he was called into this world,{n}Abigail's trauma was struck.{page}A share of the guilt for the greatest{n}death toll in human history-- Cut off from{n}D.S., he had lost what let him bear the{n}weight of that sin. To justify it, the rope{n}of salvation the Hollow Gods held out was{n}the idea that \"humankind{n}deserves extinction\"."
  },
  {
   "id": "s0346_01f94",
@@ -1173,7 +1173,7 @@
    "アビゲイル"
   ],
   "jp": "トゥイ・ステッド・イントゥホーム{n}血の聖餐杯よ{n}還らざる怨霊の罪で満ちよ……{n}封獄死霊砲――!!",
-  "en": "Twisted Into Home! O holy chalice of blood,{n}be filled with the sins of vengeful spirits{n}that return no more... Sealed Hell Ghost{n}Cannon--!!"
+  "en": "Twisted Into Home! O holy chalice of blood,{n}be filled with the sins of vengeful spirits{n}that return no more... Sealed Hell{n}Ghost Cannon--!!"
  },
  {
   "id": "s0346_02234",
@@ -1485,7 +1485,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "常人では通常持ち得ない、闇の魔人に{n}並ぶ魔力――その秘密は、イーカルの{n}正体にあった。彼女は人間ではない。{n}否、エルフなどの亜人種を含めた上で、{n}彼女は人類ではなかった。",
-  "en": "Magic to match the fiend of darkness,{n}beyond any common person-- The secret{n}lay in Ichael's true nature. She was no{n}human being. Indeed, counting even elves{n}and other demi-humans, she was not of{n}humankind."
+  "en": "Magic to match the fiend of darkness,{n}beyond any common person-- The secret{n}lay in Ichael's true nature. She was no{n}human being. Indeed, counting even elves{n}and other demi-humans, she was not{n}of humankind."
  },
  {
   "id": "s0346_02834",
@@ -1509,7 +1509,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "魔族――俗に悪魔と呼ばれる、別次元{n}を棲処とする知的生命体――その中{n}でも、人類の生命力を吸収することで{n}能力を成長させていく高位の種族・{n}夢魔。サキュバスと呼称されるこの{n}魔族こそが、イーカルの正体であった。{page}魔界を逐われた彼女は人間界でＤ・Ｓ{n}と相対し、闘争の末、力ずくで配下に{n}取り込まれたのである。",
-  "en": "A demon-- a thinking being living in{n}another dimension, commonly called a{n}devil-- Of these, a high-ranking race{n}whose power grows by absorbing human{n}life force: the dream demon. Called a{n}succubus, this demon was Ichael's true{n}nature.{page}Driven out of the demon world, she faced{n}D.S. in the human world, and after a{n}struggle he took her by force as his{n}subordinate."
+  "en": "A demon-- a thinking being living in{n}another dimension, commonly called a{n}devil-- Of these, a high-ranking race{n}whose power grows by absorbing human{n}life force: the dream demon. Called a{n}succubus, this demon was Ichael's{n}true nature.{page}Driven out of the demon world, she faced{n}D.S. in the human world, and after a{n}struggle he took her by force as{n}his subordinate."
  },
  {
   "id": "s0346_02960",
@@ -1557,7 +1557,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "蝙蝠めいた皮の翼をばさりと開き、{n}イーカルは形の良い唇を艶めかしく{n}吊り上げた。",
-  "en": "Spreading her bat-like leather wings with{n}a flap, Ichael curled her shapely lips{n}seductively."
+  "en": "Spreading her bat-like leather wings with{n}a flap, Ichael curled her shapely{n}lips seductively."
  },
  {
   "id": "s0346_02ad4",
@@ -1896,7 +1896,7 @@
    "イーカル"
   ],
   "jp": "高位魔族も所詮は女か――彷徨う魂に{n}肉を与え給うた恩を忘れ、男への情に{n}溺れるとはな。貴様には神罰を与える。{n}愛する男の前で、醜く崩れて死ね――",
-  "en": "Even a high demon is but a woman in the{n}end-- Forgetting the grace of the flesh{n}given your wandering soul, drowning in{n}feeling for a man. I give you divine{page}punishment. Before the man you love,{n}crumble hideously and die--"
+  "en": "Even a high demon is but a woman in the{n}end-- Forgetting the grace of the flesh{n}given your wandering soul, drowning in{n}feeling for a man.{page}I give you divine punishment. Before the man{n}you love, crumble hideously and die--"
  },
  {
   "id": "s0346_02f48",
@@ -1944,7 +1944,7 @@
    "イーカル"
   ],
   "jp": "我はこの世界を廃棄する。癌生物に{n}よる汚染は失敗に終わったが、もはや{n}事の収拾は虚神王に任せる他はない。{n}Ｄ・Ｓ――貴様の力は諦めようぞ",
-  "en": "I shall discard this world. The pollution by{n}cancer creatures has failed, and now there{n}is nothing for it but to leave the rest to{page}the Hollow God King. D.S.-- I shall give up on{n}your power."
+  "en": "I shall discard this world. The pollution by{n}cancer creatures has failed, and now there{n}is nothing for it but to leave the rest to the{n}Hollow God King. D.S.--{page}I shall give up on your power."
  },
  {
   "id": "s0346_02fec",
@@ -2088,7 +2088,7 @@
    "イーカル"
   ],
   "jp": "失策の後始末は自分でつけろという{n}ことか――虚神王も手厳しい。不完全{n}なＤ・Ｓにこのオクトールをぶつける{n}おつもりとは……",
-  "en": "So I am to clean up after my own blunder--{n}The Hollow God King is harsh. To think he{n}would pit me, Octol, against an incomplete{n}D.S...."
+  "en": "So I am to clean up after my own blunder--{n}The Hollow God King is harsh. To think he{n}would pit me, Octol, against an{n}incomplete D.S...."
  },
  {
   "id": "s0346_03334",
@@ -2328,7 +2328,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "Ｄ・Ｓの背に、魔法陣から召喚された{n}巨大な三ッ首の龍の姿が浮かび上がる。{page}全身を黄金色に輝かせながらも、その{n}首はそれぞれ地龍、翼龍、水龍のもの{n}であると知れる。",
-  "en": "At D.S.'s back rose a huge three-headed{n}dragon, summoned from the magic{n}circle.{page}Though its whole body shone golden, its{n}heads could be known as those of the{n}Earth Dragon, the wyvern and the Water{n}Dragon."
+  "en": "At D.S.'s back rose a huge three-headed{n}dragon, summoned from the{n}magic circle.{page}Though its whole body shone golden, its{n}heads could be known as those of the{n}Earth Dragon, the wyvern and the{n}Water Dragon."
  },
  {
   "id": "s0346_036d8",
@@ -2376,7 +2376,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "ふははは！　当たりめーだ、このタコ！{n}龍とはひとつの力、この世界の背骨を{n}巡る生命の力――そしてそれは俺自身{n}だ！　第四の龍とは、この俺様だ！",
-  "en": "Hah hah hah! You bet your ass, you octopus!{n}The dragons are one power, the power of{n}life running through this world's spine--{page}And that's me! The fourth dragon is the{n}great me!"
+  "en": "Hah hah hah! You bet your ass, you octopus!{n}The dragons are one power, the power of{n}life running through this world's spine-- And{n}that's me!{page}The fourth dragon is the great me!"
  },
  {
   "id": "s0346_037c4",
@@ -2712,7 +2712,7 @@
    "アビゲイル"
   ],
   "jp": "黙らないで突っ込んで下さいよ",
-  "en": "Please do not fall silent. Give me a{n}comeback."
+  "en": "Please do not fall silent. Give me{n}a comeback."
  },
  {
   "id": "s0346_03d68",
@@ -2928,7 +2928,7 @@
    "イーカル"
   ],
   "jp": "オクトールが用意したあたしの肉体は、{n}癌龍やこの宮殿にはびこる細胞と同じ、{n}癌生命体……どのみち、長くは生きら{n}れない身体なのよ……",
-  "en": "The body Octol prepared for me is a cancer{n}life form, the same as the cancer dragon{n}and the cells overrunning this palace... It{page}wasn't a body that could live long, either{n}way..."
+  "en": "The body Octol prepared for me is a cancer{n}life form, the same as the cancer dragon{n}and the cells overrunning this palace...{page}It wasn't a body that could live long,{n}either way..."
  },
  {
   "id": "s0346_0401c",
@@ -2976,7 +2976,7 @@
    "イーカル"
   ],
   "jp": "でもね……オクトールを恨む気はない{n}わ。こんな形でも、貴方にもう一度{n}逢うことができたんだから――",
-  "en": "But you know... I don't hold it against Octol.{n}Even like this, I got to see you one more{n}time--"
+  "en": "But you know... I don't hold it against Octol.{n}Even like this, I got to see you one{n}more time--"
  },
  {
   "id": "s0346_04088",
@@ -3048,7 +3048,7 @@
    "イーカル"
   ],
   "jp": "こんな身体になってまで蘇ったのも、{n}この一言を伝えたかったがため……{n}これで、思い残すことはないわ――",
-  "en": "It was to tell you this one thing that I came{n}back, even in a body like this... Now I have no{n}regrets--"
+  "en": "It was to tell you this one thing that I came{n}back, even in a body like this... Now I have{n}no regrets--"
  },
  {
   "id": "s0346_04188",
@@ -3120,7 +3120,7 @@
    "イーカル"
   ],
   "jp": "……これでもう、魂を迷わせることも{n}なさそう……さようなら、Ｄ・Ｓ……{n}あたしに心を与えた男――",
-  "en": "...Now my soul shouldn't lose its way again...{n}Farewell, D.S.... The man who gave me a{n}heart--"
+  "en": "...Now my soul shouldn't lose its way again...{n}Farewell, D.S.... The man who gave me{n}a heart--"
  },
  {
   "id": "s0346_04310",
@@ -3168,7 +3168,7 @@
    "ネイ"
   ],
   "jp": "私に影響を与え続けた人だったわ……{n}愛し方も、憎み方も――あの時ヴァイ{n}の命を取らなかったのは、あの子が{n}少しダーシュに似ていたから……",
-  "en": "She went on influencing me all along... How{n}to love, how to hate-- I spared Vai's life{n}that time because the boy was a little like{n}Dahsh..."
+  "en": "She went on influencing me all along... How{n}to love, how to hate-- I spared Vai's life{n}that time because the boy was a little{n}like Dahsh..."
  },
  {
   "id": "s0346_04420",
@@ -3288,7 +3288,7 @@
    "ボル"
   ],
   "jp": "この宮殿、長くは保ちそうにないで{n}ござるよ！",
-  "en": "This palace will not last much longer,{n}forsooth!"
+  "en": "This palace will not last much{n}longer, forsooth!"
  },
  {
   "id": "s0346_045ec",
@@ -3648,7 +3648,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "彼らは高次空間に棲む存在であり、{n}低次元生命体の精神エネルギーを恐怖{n}や崇拝の形で受け取ることによって{n}その力を維持・拡大してきた。{page}糧となるものの多くは系統だった{n}知性を持たぬ動物類の原始的な恐怖で{n}あったが、それでもこれを無数に{n}集める神々の力は、低次元生命体に{n}対して圧倒的な優位を保ってきた。",
-  "en": "They were beings of a higher space, and{n}kept and grew their power by receiving{n}the mental energy of lower life forms as{n}fear or worship.{page}Much of that food was the primal fear of{n}animals lacking organized intelligence, yet{n}the gods, gathering this past counting,{n}held an overwhelming edge over lower life{n}forms."
+  "en": "They were beings of a higher space, and{n}kept and grew their power by receiving{n}the mental energy of lower life forms as{n}fear or worship.{page}Much of that food was the primal fear of{n}animals lacking organized intelligence, yet{n}the gods, gathering this past counting,{n}held an overwhelming edge over lower{n}life forms."
  },
  {
   "id": "s0346_04cbc",
@@ -3720,7 +3720,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "同時に、創造神の権益を護る天使軍団{n}は、既存の信仰に対して徹底的な弾圧{n}を加えた。太古の神々は悪神邪神と{n}して貶められ、彼らを崇める宗教は{n}正義の名の下に滅ぼされた。",
-  "en": "At the same time, the angel host,{n}guarding the Creator's interests, brought{n}down thorough oppression on existing{n}faiths. The ancient gods were cast down{n}as evil gods, and the religions worshipping{n}them were destroyed in the name of{n}justice."
+  "en": "At the same time, the angel host,{n}guarding the Creator's interests, brought{n}down thorough oppression on existing{n}faiths. The ancient gods were cast down{n}as evil gods, and the religions worshipping{n}them were destroyed in the name{n}of justice."
  },
  {
   "id": "s0346_04ea4",
@@ -3888,7 +3888,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "しかし、Ｄ・Ｓもそれを黙って見て{n}いた訳ではなかった。迎撃が間に合わ{n}ぬと見るや、彼は外敵に対抗すべく、{n}即座に四天王を始めとする仲間たちの{n}精神を自らの裡に召喚した。{page}これに対し、虚神たちは召喚直後の{n}無防備な記憶を消去することで対応を{n}遅らせようと謀った。",
-  "en": "But D.S. did not simply look on. Seeing he{n}could not repel them in time, he at once{n}summoned the minds of the Divine Kings{n}and his other comrades into himself, to{n}oppose the invaders.{page}In answer, the Hollow Gods sought to{n}delay their response by erasing their{n}memories in the helpless moment after{n}summoning."
+  "en": "But D.S. did not simply look on. Seeing he{n}could not repel them in time, he at once{n}summoned the minds of the Divine Kings{n}and his other comrades into himself, to{n}oppose the invaders.{page}In answer, the Hollow Gods sought to{n}delay their response by erasing their{n}memories in the helpless moment{n}after summoning."
  },
  {
   "id": "s0346_0538c",
@@ -3960,7 +3960,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "異様な色彩を孕んだ曇天は、台風の{n}直下の如くに、荒野の地平まで届く{n}渦を描いてゆっくりと回転し続けて{n}いる。その渦の中心となる天頂に、{n}巨大な――生物のそれとは思えぬほど{n}巨大な眼がひとつ、神秘的な光を{n}たたえた瞳で下界を見下ろしていた。",
-  "en": "Cloudy skies holding strange colors turned{n}slowly, as if under a typhoon, in a whirl{n}reaching to the horizon of the wasteland.{n}At the zenith, the heart of the whirl, a{n}huge eye-- one eye, too huge to belong{n}to any creature-- looked down on the{n}world below, its pupil filled with a mystic{n}light."
+  "en": "Cloudy skies holding strange colors turned{n}slowly, as if under a typhoon, in a whirl{n}reaching to the horizon of the wasteland.{n}At the zenith, the heart of the whirl, a{n}huge eye-- one eye, too huge to belong{n}to any creature-- looked down on the{n}world below, its pupil filled with a{n}mystic light."
  },
  {
   "id": "s0346_05564",
@@ -4392,7 +4392,7 @@
    "ネイ"
   ],
   "jp": "ダーシュへの切り札にするため、人質{n}として虚神たちが連れ込んだ――？",
-  "en": "Did the Hollow Gods bring her in as a{n}hostage, a trump card against you,{n}Dahsh--?"
+  "en": "Did the Hollow Gods bring her in as a{n}hostage, a trump card against{n}you, Dahsh--?"
  },
  {
   "id": "s0346_05c74",
@@ -4488,7 +4488,7 @@
    "イングヴェイイングヴェイ・フォン・マルムステ"
   ],
   "jp": "威容を誇る砦の近くに、倒れ伏す人影{n}があった。それを認めたイングヴェイ{n}に、尋常ならざる驚愕が疾る。",
-  "en": "Near the stately stronghold, a human{n}figure lay prostrate. On seeing it, Yngwei{n}was struck by a shock beyond the{n}ordinary."
+  "en": "Near the stately stronghold, a human{n}figure lay prostrate. On seeing it, Yngwei{n}was struck by a shock beyond{n}the ordinary."
  },
  {
   "id": "s0346_05dc8",
@@ -4536,7 +4536,7 @@
    "イングヴェイイングヴェイ・フォン・マルムステ"
   ],
   "jp": "いつの頃よりか歳を取らぬ、少年の{n}如く美しい貌を荒野に這わせ、カルは{n}力尽きたようにそこに横たわっていた。{page}その周囲には激闘の痕を示す、魔力で{n}抉り取られたクレーター状の窪みが{n}広がっている。",
-  "en": "His face, boyishly beautiful and for ages{n}unaging, pressed to the wasteland, Kall{n}lay there as if his strength had{n}given out.{page}Around him spread crater-like hollows{n}gouged by magic, the signs of a fierce{n}fight."
+  "en": "His face, boyishly beautiful and for ages{n}unaging, pressed to the wasteland, Kall{n}lay there as if his strength had{n}given out.{page}Around him spread crater-like hollows{n}gouged by magic, the signs of a{n}fierce fight."
  },
  {
   "id": "s0346_05eec",
@@ -4848,7 +4848,7 @@
    "ブラド"
   ],
   "jp": "うおおーん！　ワシは猛烈に感動して{n}おりまするぅ！",
-  "en": "Waaah! I am overcome with fierce{n}emotion!"
+  "en": "Waaah! I am overcome with{n}fierce emotion!"
  },
  {
   "id": "s0346_061c0",
@@ -5232,7 +5232,7 @@
    "ガラ"
   ],
   "jp": "ヨーコ玉の癒しによって力を取り戻し{n}たカルは、迅速に状況を語り始めた。",
-  "en": "His strength restored by the Yoko orb's{n}healing, Kall quickly began to tell the{n}situation."
+  "en": "His strength restored by the Yoko orb's{n}healing, Kall quickly began to tell{n}the situation."
  },
  {
   "id": "s0346_06584",
@@ -5352,7 +5352,7 @@
    "ガラ"
   ],
   "jp": "贋のＤ・Ｓはカルを捨て置き、塔の{n}周辺に巨大な砦を創出した。ヨーコを{n}求め、いずれこの地に到来するで{n}あろうＤ・Ｓの道を阻むために――。",
-  "en": "The false D.S. left Kall where he lay, and{n}created a huge stronghold around the{n}tower. In order to block the road of D.S.,{n}who would seek Yoko and in time arrive{n}here--."
+  "en": "The false D.S. left Kall where he lay, and{n}created a huge stronghold around the{n}tower. In order to block the road of D.S.,{n}who would seek Yoko and in time{n}arrive here--."
  },
  {
   "id": "s0346_06984",
@@ -5568,7 +5568,7 @@
    "カル"
   ],
   "jp": "奴が結界に向かってからかなり経つ。{n}ヨーコを狙う意図は不明だが、急が{n}ないと危険だぞ――",
-  "en": "Much time has passed since he headed for{n}the barrier. I do not know why he seeks{n}Yoko, but if we do not hurry, it will be{n}dangerous--"
+  "en": "Much time has passed since he headed for{n}the barrier. I do not know why he seeks{n}Yoko, but if we do not hurry, it will{n}be dangerous--"
  },
  {
   "id": "s0346_06ce4",

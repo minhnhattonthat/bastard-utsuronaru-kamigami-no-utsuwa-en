@@ -309,7 +309,7 @@
    "シーン"
   ],
   "jp": "そうなの!?　うーん、確かにヨシュア{n}とカイってお似合いだけど、兄さんも{n}……どうなのかな",
-  "en": "Is that so!? Hmm, Joshua and Kai would make{n}a good couple, sure, but my brother too... I{n}wonder."
+  "en": "Is that so!? Hmm, Joshua and Kai would make{n}a good couple, sure, but my brother too...{n}I wonder."
  },
  {
   "id": "s0219_00c14",
@@ -381,7 +381,7 @@
    "ヨシュア"
   ],
   "jp": "かたじけない。では、後で会おう――",
-  "en": "I am obliged to you. Then we will meet{n}later--"
+  "en": "I am obliged to you. Then we will{n}meet later--"
  },
  {
   "id": "s0219_00c7c",
@@ -429,7 +429,7 @@
    "ヴァイ"
   ],
   "jp": "ヨルグ……それ友情と違うゾ。ヤバい",
-  "en": "Jorg... That ain't friendship talking. That's{n}dangerous."
+  "en": "Jorg... That ain't friendship talking.{n}That's dangerous."
  },
  {
   "id": "s0219_00f0c",
@@ -573,7 +573,7 @@
    "イダ"
   ],
   "jp": "これは失礼。私はイダ・ディースナ、{n}美しきものの奴隷と自ら任ずる者です。{n}今はこの神殿の神に仕え、その美を{n}侵す者を追い払う責務を負う身――",
-  "en": "Pardon my rudeness. I am Ida Deesna, who{n}has named himself a slave of beautiful{n}things. I now serve the god of this{page}temple, charged with driving out those who{n}would profane its beauty--"
+  "en": "Pardon my rudeness. I am Ida Deesna, who{n}has named himself a slave of{n}beautiful things.{page}I now serve the god of this temple, charged{n}with driving out those who would profane{n}its beauty--"
  },
  {
   "id": "s0219_0113c",
@@ -789,7 +789,7 @@
    "イダ"
   ],
   "jp": "悲しいことですが、またもや我々は{n}敵同士……それでは私の魔獣たちと{n}戦って頂きましょうか！",
-  "en": "It is sad, but once again we are enemies...{n}Now then, I shall have you fight my magic{n}beasts!"
+  "en": "It is sad, but once again we are enemies...{n}Now then, I shall have you fight my{n}magic beasts!"
  },
  {
   "id": "s0219_013e0",
@@ -909,7 +909,7 @@
    "イダ"
   ],
   "jp": "どうやらイダは、この世界について{n}何も知らないようであった。この神殿{n}の神に魅せられ、唯一残る記憶――{n}美しき者に従えとの声に導かれるまま、{n}ここで守護者を任じていたという。",
-  "en": "It seemed Ida knew nothing about this{n}world. Enchanted by the god of this temple,{n}he said, and led by a voice from the one{n}memory he had left--\"follow the{page}beautiful\"--he had taken the post of{n}guardian here."
+  "en": "It seemed Ida knew nothing about{n}this world.{page}Enchanted by the god of this temple, he{n}said, and led by a voice from the one{n}memory he had left--\"follow the{page}beautiful\"--he had taken the post of{n}guardian here."
  },
  {
   "id": "s0219_015e8",

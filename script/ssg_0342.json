@@ -21,7 +21,7 @@
    ""
   ],
   "jp": "血路を抜けた先は、これまでとは{n}明らかに異なる大空洞が広がっていた。{page}天蓋を支える大壁面には、巨大な生物{n}の骨を思わせる白い石柱が幾筋も浮き{n}出している。天蓋からは赤い、直径が{n}数十メートルにも及ぶ管状の物体が{n}そこかしこから垂れ下がっている。",
-  "en": "Beyond the blood vessel spread a great{n}hollow clearly unlike any before.{page}On the vast walls that held up the{n}canopy, white stone columns stood out in{n}many lines, like the bones of a huge{n}creature. From all over the canopy hung{n}red tubular things tens of meters{n}across."
+  "en": "Beyond the blood vessel spread a great{n}hollow clearly unlike any before.{page}On the vast walls that held up the{n}canopy, white stone columns stood out in{n}many lines, like the bones of a huge{n}creature. From all over the canopy hung{n}red tubular things tens of{n}meters across."
  },
  {
   "id": "s0342_00908",
@@ -45,7 +45,7 @@
    ""
   ],
   "jp": "その管に吊られる形で、空洞の中央に{n}浮かぶ奇怪な建造物があった。",
-  "en": "Suspended by those tubes, a weird{n}construction floated at the center of the{n}hollow."
+  "en": "Suspended by those tubes, a weird{n}construction floated at the center of{n}the hollow."
  },
  {
   "id": "s0342_0094c",
@@ -69,7 +69,7 @@
    ""
   ],
   "jp": "否、それは建物などではなかった。{n}元来この空洞にあったのであろう巨大{n}な岩塊――臓器を彷彿とさせる有機的{n}なフォルムであり、並の城塞を丸ごと{n}包むほどの大きさがある――に、寄生{n}するが如くに繁殖した異物の集合体。",
-  "en": "No, it was no building. On a huge lump of{n}rock that had surely been in the hollow{n}from the start-- of an organic form{n}recalling an internal organ, big enough to{n}wrap a whole ordinary fortress-- a mass{n}of foreign matter had bred, as if a{n}parasite."
+  "en": "No, it was no building. On a huge lump of{n}rock that had surely been in the hollow{n}from the start-- of an organic form{n}recalling an internal organ, big enough to{n}wrap a whole ordinary fortress-- a mass{n}of foreign matter had bred, as if{n}a parasite."
  },
  {
   "id": "s0342_00a20",
@@ -645,7 +645,7 @@
    "ガラ"
   ],
   "jp": "しょーがねえしょーがねえ！　あんな{n}鬼畜ヤロウのコトなんざ忘れちまいな{n}って！　ぎゃはははっ！",
-  "en": "Can't be helped, can't be helped! Forget{n}about that heartless brute already!{n}Gyahahaha!"
+  "en": "Can't be helped, can't be helped! Forget{n}about that heartless brute{n}already! Gyahahaha!"
  },
  {
   "id": "s0342_015a0",
@@ -693,7 +693,7 @@
    "ガラ"
   ],
   "jp": "あんぎゃあぁ――っ！　こ、これで{n}オメエが元気になってくれるなら、{n}オレは……ぎぃやああぁぁぁ――っ！{n}で、電圧キツいってばぁぁ――っ！",
-  "en": "Ahhgyaaah--! I-if this cheers you up, then{n}I'll... Gyaaaaah--! The v-voltage is too{n}strong--!"
+  "en": "Ahhgyaaah--! I-if this cheers you up, then{n}I'll... Gyaaaaah--! The v-voltage is{n}too strong--!"
  },
  {
   "id": "s0342_0164c",
@@ -813,7 +813,7 @@
    "ロス"
   ],
   "jp": "ロスが残された肉面を除けると、青い{n}眼球と思われたのは、引き込まれそう{n}な深みの碧色をたたえた宝玉である{n}ことが判った。その中心には、爬虫類{n}の瞳孔を思わせる縦長の黒いスリット{n}が内包されている。",
-  "en": "When Ros moved the mask of flesh aside,{n}what had seemed a blue eyeball proved{n}to be a gem brimming with a blue-green{n}of bottomless depth. At its center lay a{n}long vertical black slit, like the pupil of a{n}reptile."
+  "en": "When Ros moved the mask of flesh aside,{n}what had seemed a blue eyeball proved{n}to be a gem brimming with a blue-green{n}of bottomless depth. At its center lay a{n}long vertical black slit, like the pupil of{n}a reptile."
  },
  {
   "id": "s0342_017d8",
@@ -861,7 +861,7 @@
    "ロス"
   ],
   "jp": "ロスは宝玉を大事そうに抱えると、{n}自分の剣であるリビングブレードの{n}付け根にある空洞に嵌め込んだ。それ{n}はピタリと収まり、次いで瞼のような{n}シャッターが瞳を完全に包み込む。{page}そして柄頭のジャックにすでに取り{n}つけてあるケーブルを腕に無造作に{n}巻きつけると、ロスは会心の笑みを{n}浮かべて言った。",
-  "en": "Ros took the gem tenderly and set it into{n}a hollow at the base of his sword, the{n}Living Blade. It fit exactly, and an{n}eyelid-like shutter closed fully over the{n}pupil.{page}Then, winding the cable already attached{n}to the pommel's jack carelessly around his{n}arm, Ros smiled in triumph and said:"
+  "en": "Ros took the gem tenderly and set it into{n}a hollow at the base of his sword, the{n}Living Blade. It fit exactly, and an{n}eyelid-like shutter closed fully over{n}the pupil.{page}Then, winding the cable already attached{n}to the pommel's jack carelessly around his{n}arm, Ros smiled in triumph and said:"
  },
  {
   "id": "s0342_01944",
@@ -885,7 +885,7 @@
    "ロス"
   ],
   "jp": "重力剣、完成！　リビングブレードに{n}シナプスケーブル、そしてこの宝玉{n}――“深淵の瞳”が合わさることで、{n}アタシの最強剣が生まれるのよーっ！",
-  "en": "Gravity Sword, complete! Living Blade,{n}synapse cable and this gem, the \"Eye of the{n}Abyss\": together they make my ultimate{n}sword!"
+  "en": "Gravity Sword, complete! Living Blade,{n}synapse cable and this gem, the \"Eye of the{n}Abyss\": together they make my{n}ultimate sword!"
  },
  {
   "id": "s0342_019d0",
@@ -1509,7 +1509,7 @@
    "アビゲイル"
   ],
   "jp": "別にいいんですよ。ただね、私がいな{n}いトコロではいつもこんな風に言われ{n}ていると思うと、アビちゃんのひ弱な{n}ハートは今にもしぼみそうで……",
-  "en": "It is quite all right. It is only that, knowing{n}this is what you always say when I am not{n}around, Abi-chan's frail heart is about to{n}wilt..."
+  "en": "It is quite all right. It is only that, knowing{n}this is what you always say when I am not{n}around, Abi-chan's frail heart is about{n}to wilt..."
  },
  {
   "id": "s0342_02144",
@@ -1797,7 +1797,7 @@
    "ガラ"
   ],
   "jp": "オレも一発ぐらい入れとくかな……{n}スカッドボンバァーッ！",
-  "en": "Guess I'll get a shot in too... Scud{n}Bomberrr!"
+  "en": "Guess I'll get a shot in too...{n}Scud Bomberrr!"
  },
  {
   "id": "s0342_02474",

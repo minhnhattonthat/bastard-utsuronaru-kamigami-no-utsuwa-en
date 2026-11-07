@@ -165,7 +165,7 @@
    "イダ"
   ],
   "jp": "これは失礼。私はイダ・ディースナ、{n}美しきものの奴隷と自ら任ずる者です。{n}今はこの神殿の神に仕え、その美を{n}侵す者を追い払う責務を負う身――",
-  "en": "Pardon my rudeness. I am Ida Deesna, who{n}has named himself a slave of beautiful{n}things. I now serve the god of this{page}temple, charged with driving out those who{n}would profane its beauty--"
+  "en": "Pardon my rudeness. I am Ida Deesna, who{n}has named himself a slave of{n}beautiful things.{page}I now serve the god of this temple, charged{n}with driving out those who would profane{n}its beauty--"
  },
  {
   "id": "s0187_00b60",
@@ -717,7 +717,7 @@
    ""
   ],
   "jp": "やがて、そこに巨大な姿が現れる。{n}美しく、そして邪悪な死の匂いを{n}漂わせて――。",
-  "en": "Soon a giant form appeared there,{n}beautiful, and giving off an evil scent of{n}death."
+  "en": "Soon a giant form appeared there,{n}beautiful, and giving off an evil scent{n}of death."
  },
  {
   "id": "s0187_01588",
@@ -741,7 +741,7 @@
    ""
   ],
   "jp": "太古にその崇拝者たちを失いながらも、{n}時を越えて生き長らえてきた強大な{n}死の女神――その血に飢えた瞳が今、{n}Ｄ・Ｓたちに注がれた。",
-  "en": "A mighty goddess of death who had lived{n}on across the ages, though she had lost{n}her worshippers long ago--her{n}blood-hungry eyes now fell on D.S. and his{n}party."
+  "en": "A mighty goddess of death who had lived{n}on across the ages, though she had lost{n}her worshippers long ago--her{n}blood-hungry eyes now fell on D.S. and{n}his party."
  },
  {
   "id": "s0187_0160c",
@@ -837,7 +837,7 @@
    "シーラ"
   ],
   "jp": "サウンド・デバックモードです。{n}サウンドナンバー３{n}”平静”",
-  "en": "Sound debug mode. Sound number 3,{n}\"Calm\""
+  "en": "Sound debug mode. Sound number{n}3, \"Calm\""
  },
  {
   "id": "s0187_01c88",
@@ -861,7 +861,7 @@
    "シーラ"
   ],
   "jp": "サウンド・デバックモードです。{n}サウンドナンバー４{n}”滑稽”",
-  "en": "Sound debug mode. Sound number 4,{n}\"Comical\""
+  "en": "Sound debug mode. Sound number{n}4, \"Comical\""
  },
  {
   "id": "s0187_01d1c",
@@ -885,7 +885,7 @@
    "シーラ"
   ],
   "jp": "サウンド・デバックモードです。{n}サウンドナンバー５{n}”驚愕”",
-  "en": "Sound debug mode. Sound number 5,{n}\"Astonishment\""
+  "en": "Sound debug mode. Sound number{n}5, \"Astonishment\""
  },
  {
   "id": "s0187_01db0",
@@ -909,7 +909,7 @@
    "シーラ"
   ],
   "jp": "サウンド・デバックモードです。{n}サウンドナンバー６{n}”不可思議”",
-  "en": "Sound debug mode. Sound number 6,{n}\"Strange\""
+  "en": "Sound debug mode. Sound number{n}6, \"Strange\""
  },
  {
   "id": "s0187_01e48",

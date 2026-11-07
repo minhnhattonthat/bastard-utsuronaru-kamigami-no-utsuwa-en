@@ -21,7 +21,7 @@
    ""
   ],
   "jp": "そこは、砦の最上部であった。天を{n}覆うものは何もなく、極限にまで成長{n}した破界門が頭上で不吉に渦を描いて{n}いる。",
-  "en": "It was the very top of the fort. Nothing{n}covered the sky, and the World-Breaker{n}Gate, grown to its limit, swirled ominously{n}overhead."
+  "en": "It was the very top of the fort. Nothing{n}covered the sky, and the World-Breaker{n}Gate, grown to its limit, swirled{n}ominously overhead."
  },
  {
   "id": "s0118_00888",
@@ -405,7 +405,7 @@
    "シーラ"
   ],
   "jp": "ガラ……そう、ニンジャマスター・{n}ガラですわ！　でも、あの貌は……",
-  "en": "Gara... Yes, Ninja Master Gara! But that{n}face..."
+  "en": "Gara... Yes, Ninja Master Gara! But{n}that face..."
  },
  {
   "id": "s0118_00ed0",
@@ -693,7 +693,7 @@
    "ジン"
   ],
   "jp": "飛来したムラサメをひっ掴んだガラは{n}一瞬動きを止め、そして喜悦の表情を{n}浮かべて白刃を抜き払った。殺戮への{n}狂喜が、鬼相をさらに醜く歪める。",
-  "en": "Grabbing the incoming Murasame, Gara{n}froze for an instant, then drew the white{n}blade with a look of delight. The ecstasy{n}of slaughter twisted his demonic face still{n}further."
+  "en": "Grabbing the incoming Murasame, Gara{n}froze for an instant, then drew the white{n}blade with a look of delight. The ecstasy{n}of slaughter twisted his demonic face{n}still further."
  },
  {
   "id": "s0118_0139c",
@@ -861,7 +861,7 @@
    "ガラ"
   ],
   "jp": "絶叫を残し、ニンジャマスター・ガラ{n}の巨体はその場にくずおれた。",
-  "en": "With a final scream, the huge body of{n}Ninja Master Gara crumpled where it{n}stood."
+  "en": "With a final scream, the huge body of{n}Ninja Master Gara crumpled where{n}it stood."
  },
  {
   "id": "s0118_015fc",
@@ -933,7 +933,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "こいつが鬼忍将……ガラに取り憑い{n}ていいように操ってたヤツか",
-  "en": "So this is the High Ninja... the thing that{n}latched on to Gara and worked him like a{n}puppet."
+  "en": "So this is the High Ninja... the thing that{n}latched on to Gara and worked him like{n}a puppet."
  },
  {
   "id": "s0118_017b8",
@@ -957,7 +957,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "それは、気の遠くなるほどの歳月を{n}経て醜悪な巨体に成長した甲虫の亡霊{n}のように見えた。陽炎の如くに虚ろに{n}揺らめくその姿は、この怪物が完全な{n}実体ではなく、アストラルボディ――{n}即ち霊的肉体をこの次元に現出せしめ{n}ていることを示している。",
-  "en": "It looked like the ghost of a beetle grown{n}into a hideous giant over a dizzying span{n}of years. Its form, wavering hollowly like{n}a heat haze, showed that this monster{n}was not fully solid, but had manifested its{n}astral body -- its spiritual body -- in this{n}dimension."
+  "en": "It looked like the ghost of a beetle grown{n}into a hideous giant over a dizzying span{n}of years. Its form, wavering hollowly like{n}a heat haze, showed that this monster{n}was not fully solid, but had manifested its{n}astral body -- its spiritual body -- in{n}this dimension."
  },
  {
   "id": "s0118_018a4",
@@ -1173,7 +1173,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "こうなっては砦は諦め、この身だけ{n}でも破界門よりかの次元へ帰還せねば{n}……彼奴らに嘲笑されようとも、{n}ここで消滅するわけにはゆかぬ――",
-  "en": "It has come to this. I must abandon the{n}fort, and return through the World-Breaker{n}Gate to that dimension, in this body at{page}least... Let those others jeer. I cannot{n}perish here--"
+  "en": "It has come to this. I must abandon the{n}fort, and return through the World-Breaker{n}Gate to that dimension, in this body at{n}least... Let those others jeer.{page}I cannot perish here--"
  },
  {
   "id": "s0118_01c50",
@@ -1197,7 +1197,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "逃がすかよ！　テメエの大事な門と{n}一緒に、二度と迷い出ねえように消滅{n}させてやるぜ！　とっておきの呪文を{n}お見舞いしてなあ！",
-  "en": "Like hell you'll get away! I'll wipe you out{n}along with your precious Gate so you never{n}come creeping back! With a very special{n}spell!"
+  "en": "Like hell you'll get away! I'll wipe you out{n}along with your precious Gate so you never{n}come creeping back! With a very{n}special spell!"
  },
  {
   "id": "s0118_01ccc",
@@ -1629,7 +1629,7 @@
    "イングヴェイイングヴェイ・フォン・マルムステ"
   ],
   "jp": "その問いと同時に、足下で何かが砕け{n}る、重く、鈍い音が響いた。膨大な{n}破壊エネルギーは寄岩砦の基底部を{n}砕き、天守閣にも致命的な損傷を与え{n}ていた。破砕音を皮切りに、激しい{n}震動が始まった。爆発音が幾重にも{n}天守閣内部から轟き、七鍵守護神の{n}飛び出した穴から炎が噴出する。",
-  "en": "At that very question, a heavy, dull sound{n}of something shattering rang out{n}underfoot. The vast destructive energy{n}had broken the base of the Hermit Rock{n}Fort, and dealt the keep fatal damage as{n}well. With that crash, violent shaking{n}began. Explosions roared from inside the{n}keep, one after another, and flames{page}gushed from the hole the Seven-Key{n}Guardian had burst through."
+  "en": "At that very question, a heavy, dull sound{n}of something shattering rang out{n}underfoot. The vast destructive energy{n}had broken the base of the Hermit Rock{n}Fort, and dealt the keep fatal damage as{n}well. With that crash, violent{n}shaking began.{page}Explosions roared from inside the keep,{n}one after another, and flames gushed{n}from the hole the Seven-Key Guardian{n}had burst through."
  },
  {
   "id": "s0118_023b8",
@@ -1701,7 +1701,7 @@
    "ヴァイ"
   ],
   "jp": "バカ！　考えなしっ！　これだから{n}アンタは……",
-  "en": "You idiot! You don't think! That's why you{n}always..."
+  "en": "You idiot! You don't think! That's why{n}you always..."
  },
  {
   "id": "s0118_02434",
@@ -1773,7 +1773,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "破砕音が立て続けに響き、砦の内部{n}から一際激しい爆発が起こる。基部の{n}岩洞が連鎖的に崩壊を始め、激しい{n}火災に自走砦も各所に蓄積された補助{n}エネルギーが誘爆を開始した。{page}やがて、天守閣から凄まじい爆炎が{n}噴き上がるとともに、自走砦は四散し、{n}巨大な岩塊は原型を留めぬほどに崩れ{n}落ちていった。",
-  "en": "Crashes rang out in succession, and an{n}especially violent explosion erupted inside{n}the fort. The rock caves at its base{n}began to collapse in a chain, and in the{n}raging fire, the reserve energy stored{n}throughout the walking fort began to{n}explode.{page}At last, as a terrific blast of flame{n}erupted from the keep, the walking fort{n}flew apart, and the giant rock crumbled{n}until it kept no trace of its original{n}shape."
+  "en": "Crashes rang out in succession, and an{n}especially violent explosion erupted inside{n}the fort. The rock caves at its base{n}began to collapse in a chain, and in the{n}raging fire, the reserve energy stored{n}throughout the walking fort began{n}to explode.{page}At last, as a terrific blast of flame{n}erupted from the keep, the walking fort{n}flew apart, and the giant rock crumbled{n}until it kept no trace of its{n}original shape."
  },
  {
   "id": "s0118_02590",
@@ -1821,7 +1821,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "バーカ。テメエが天国なんかにいく{n}かってんだ。生きてるよ",
-  "en": "Moron. Like you'd ever go to heaven. You're{n}alive."
+  "en": "Moron. Like you'd ever go to heaven.{n}You're alive."
  },
  {
   "id": "s0118_02600",
@@ -2061,7 +2061,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "こりゃあ……海辺にあった竜船じゃ{n}ねえか",
-  "en": "Well, hell... It's the Dragon Ship from the{n}beach."
+  "en": "Well, hell... It's the Dragon Ship from{n}the beach."
  },
  {
   "id": "s0118_02998",
@@ -2109,7 +2109,7 @@
    "ボル"
   ],
   "jp": "それにしても、まるで我々を拾いに{n}きたようでござるな",
-  "en": "Still, it is almost as if it came to pick us up,{n}forsooth."
+  "en": "Still, it is almost as if it came to pick us{n}up, forsooth."
  },
  {
   "id": "s0118_02a00",
@@ -2181,7 +2181,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "やがて船は、鬼哭関跡とは反対の位置{n}にある外輪山の裂け目へと侵入して{n}いった。竜船が通れる程度の幅しか{n}ない水路で、左右は聳え立つ崖が空{n}まで覆うように挟んでいる。竜船は{n}なおも速度を上げ、この隠された水路{n}を矢のように進んでいく。",
-  "en": "In time the ship entered a rift in the{n}outer rim of the caldera, opposite the{n}ruins of the Ogre Wail Gate. It was a{n}waterway just wide enough for the{n}Dragon Ship, with towering cliffs on either{n}side seeming to roof over the sky. The{n}Dragon Ship picked up still more speed,{page}shooting like an arrow along this hidden{n}waterway."
+  "en": "In time the ship entered a rift in the{n}outer rim of the caldera, opposite the{n}ruins of the Ogre Wail Gate. It was a{n}waterway just wide enough for the{n}Dragon Ship, with towering cliffs on either{n}side seeming to roof over the sky.{page}The Dragon Ship picked up still more{n}speed, shooting like an arrow along this{n}hidden waterway."
  },
  {
   "id": "s0118_02bb4",
@@ -2397,7 +2397,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "互いに名声を得たジンとガラは、ある{n}戦で敵対する領主に雇われることと{n}なった。敵味方双方に抱えられる例は、{n}忍者にはそう珍しいことではなく、{n}通常、諜報・暗殺を旨とする忍び同士{n}が戦う可能性もなかった。しかしこの{n}戦は誰も予想し得ぬほどにこじれて{n}激戦を極め、遂に戦場でふたりは相対{n}した。",
-  "en": "Having both won renown, Jin and Gara{n}came to be hired by opposing lords in a{n}certain war. For ninja it was not so rare{n}to be retained by both sides, and normally{n}ninja, whose work was espionage and{n}assassination, would not likely fight one{n}another. But this war grew tangled{n}beyond anyone's expectation, reached{page}fierce heights, and at last the two faced{n}each other on the battlefield."
+  "en": "Having both won renown, Jin and Gara{n}came to be hired by opposing lords in a{n}certain war. For ninja it was not so rare{n}to be retained by both sides, and normally{n}ninja, whose work was espionage and{n}assassination, would not likely fight{n}one another.{page}But this war grew tangled beyond{n}anyone's expectation, reached fierce{n}heights, and at last the two faced each{n}other on the battlefield."
  },
  {
   "id": "s0118_0313c",
@@ -2493,7 +2493,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "その時、ムラサメが囁きかけてきた{n}ように思えた。真の力を使え、と。{n}決して使ってはならぬ秘剣として伝授{n}された、魔性の必殺剣を用いよと――。",
-  "en": "Just then, the Murasame seemed to{n}whisper to him. To use its true power. To{n}use the demonic killing sword, passed{n}down as a secret art that must never be{n}used--."
+  "en": "Just then, the Murasame seemed to{n}whisper to him. To use its true power. To{n}use the demonic killing sword, passed{n}down as a secret art that must never{n}be used--."
  },
  {
   "id": "s0118_033d8",
@@ -2541,7 +2541,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "これより後、ジンの形見のムラサメを{n}手に、ニンジャマスターとして数多の{n}闘いに臨んだガラは、数え切れぬほど{n}の敵の命をその手で絶ってきた。だが、{n}いたずらに人を殺め、命を弄んだこと{n}はなかった。それがガラの流儀であり、{n}他者の命を奪うことに対するルールで{n}あった。",
-  "en": "After this, Gara took up Jin's Murasame as{n}a keepsake and faced many battles as{n}Ninja Master, ending the lives of countless{n}foes by his own hand. But he never killed{n}idly or toyed with life. That was Gara's{n}way, his rule for taking the lives of{n}others."
+  "en": "After this, Gara took up Jin's Murasame as{n}a keepsake and faced many battles as{n}Ninja Master, ending the lives of countless{n}foes by his own hand. But he never killed{n}idly or toyed with life. That was Gara's{n}way, his rule for taking the lives{n}of others."
  },
  {
   "id": "s0118_035b0",
@@ -2637,7 +2637,7 @@
    "ガラ"
   ],
   "jp": "……Ｄ・Ｓ、それにオメエら、ずい{n}ぶんと迷惑をかけちまったみてえだな。{n}特にお姫様、操られてたとは言え、{n}アンタには非道い真似しちまった",
-  "en": "...D.S., and you guys, looks like I caused a{n}whole lot of trouble. You especially,{n}Princess. Puppet or not, I did you a real{n}wrong."
+  "en": "...D.S., and you guys, looks like I caused a{n}whole lot of trouble. You especially,{n}Princess. Puppet or not, I did you a{n}real wrong."
  },
  {
   "id": "s0118_038f4",
@@ -2661,7 +2661,7 @@
    "シーラ"
   ],
   "jp": "いいえ。ガラ、あなたこそ苦しかった{n}でしょうに……",
-  "en": "No. Gara, you are the one who must have{n}suffered..."
+  "en": "No. Gara, you are the one who must{n}have suffered..."
  },
  {
   "id": "s0118_03928",
@@ -2685,7 +2685,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "苦しむって柄か？　この脳まで筋肉の{n}ゴリラヤロウが。俺様の舎弟として{n}生涯を終えるべき輩が、テメエの人生{n}に思い悩むなんざ百億年はええ！",
-  "en": "You, suffer? Not your style, you{n}muscle-brained gorilla. A guy who should end{n}his days as the great me's lackey has no{n}business agonizing over his life for{page}another ten billion years!"
+  "en": "You, suffer? Not your style, you{n}muscle-brained gorilla.{page}A guy who should end his days as the great{n}me's lackey has no business agonizing over{n}his life for another ten billion years!"
  },
  {
   "id": "s0118_039b0",
@@ -2949,7 +2949,7 @@
    "ガラ"
   ],
   "jp": "オレがいねえと心細いかも知れねえが、{n}よ",
-  "en": "I know you might feel lonely without me,{n}though."
+  "en": "I know you might feel lonely without{n}me, though."
  },
  {
   "id": "s0118_03df4",

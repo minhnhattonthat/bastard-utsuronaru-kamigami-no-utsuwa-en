@@ -141,7 +141,7 @@
    "ボル"
   ],
   "jp": "ただ、この地にも魔戦将軍が送り込ま{n}れているはずでござる。巨獣を使わず{n}とも、地下世界と地表を自由に行き来{n}する手段はあったようでござった",
-  "en": "Still, Sorcerer Generals should have been{n}sent to this place too, forsooth. It seems{n}there was a way to pass freely between{n}the underworld and the surface, without{page}using the great beast."
+  "en": "Still, Sorcerer Generals should have been{n}sent to this place too, forsooth.{page}It seems there was a way to pass freely{n}between the underworld and the surface,{n}without using the great beast."
  },
  {
   "id": "s0238_00d20",
@@ -525,7 +525,7 @@
    ""
   ],
   "jp": "そこは明らかに、入った時とは違う{n}回廊の出口であった。{page}先刻までは暗黒空間に通じていた回廊{n}――即ち、宮殿それ自体がこの遺跡の{n}中で位置を変えたのである。",
-  "en": "This was clearly a different corridor exit{n}from the one they had entered by.{page}It was a corridor that until moments ago{n}led to the dark void: that is, the palace{n}itself had changed position within the{n}ruins."
+  "en": "This was clearly a different corridor exit{n}from the one they had entered by.{page}It was a corridor that until moments ago{n}led to the dark void: that is, the palace{n}itself had changed position within{n}the ruins."
  },
  {
   "id": "s0238_01534",
@@ -597,7 +597,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "ここは天体の運行を模して造られた{n}建造物群だ。恐らくは黄道の並びを{n}なぞってたんだろうが、それが移動さ{n}せられて機能を狂わされてやがる――",
-  "en": "These buildings were made to imitate the{n}movement of the heavens. They probably{n}followed the order of the zodiac, but{page}they've been moved around and their{n}function's screwed up--"
+  "en": "These buildings were made to imitate the{n}movement of the heavens.{page}They probably followed the order of the{n}zodiac, but they've been moved around and{n}their function's screwed up--"
  },
  {
   "id": "s0238_01604",
@@ -621,7 +621,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "さっきの違和感はそのせいだろう。{n}今の宮殿を動かしたことで、ひとつは{n}正しい位置に納まったってワケだ。",
-  "en": "That's why it felt off before. Moving that{n}palace just now put one of 'em in the right{n}position."
+  "en": "That's why it felt off before. Moving that{n}palace just now put one of 'em in the{n}right position."
  },
  {
   "id": "s0238_0166c",
@@ -717,7 +717,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "よーし。今の宮殿が動いたぶん、また{n}そこに移動できる宮殿ができたはずだ。{n}片っ端から並べ直してやるぜ！",
-  "en": "All right. With that palace moved, there{n}should be room for another palace to move{n}in. I'll put 'em all back in line, one after{n}another!"
+  "en": "All right. With that palace moved, there{n}should be room for another palace to move{n}in. I'll put 'em all back in line, one{n}after another!"
  },
  {
   "id": "s0238_01934",

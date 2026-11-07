@@ -165,7 +165,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "あそこに、シェラの歌ってた龍が{n}囚われてやがるのか……それにしても、{n}常軌を逸したスケールだぜ",
-  "en": "So that's where the dragon Shella sang{n}about is imprisoned... Still, that's a crazy{n}scale."
+  "en": "So that's where the dragon Shella sang{n}about is imprisoned... Still, that's a{n}crazy scale."
  },
  {
   "id": "s0126_00a68",
@@ -240,7 +240,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "また樫かよ。この根を何とかできねえ{n}とここは通れそうにねえ",
-  "en": "Oak again. Doesn't look like we can get{n}through here unless we deal with these{n}roots."
+  "en": "Oak again. Doesn't look like we can get{n}through here unless we deal with{n}these roots."
  },
  {
   "id": "s0126_00c40",
@@ -408,7 +408,7 @@
    "ヴァイ"
   ],
   "jp": "どーでもいいたあ何だ！　大体いつ{n}俺たちが下僕になったよ！　おい、{n}聞いてんのかよ！",
-  "en": "What do you mean worthless! And since{n}when are we your servants! Hey, are you{n}listening!"
+  "en": "What do you mean worthless! And since{n}when are we your servants! Hey, are{n}you listening!"
  },
  {
   "id": "s0126_010a8",
@@ -576,7 +576,7 @@
    "カイ"
   ],
   "jp": "あの魔女を知らずに、良くもこの森を{n}歩き回れたものだな。樹海に潜む{n}魔性の類は、ほとんどが魔雷妃の{n}手下であると言うのに――",
-  "en": "How did you manage to walk around this{n}forest without knowing that witch? Nearly{n}every demon lurking in this sea of trees is{page}one of the Demon Thunder Queen's{n}minions--"
+  "en": "How did you manage to walk around this{n}forest without knowing that witch?{page}Nearly every demon lurking in this sea of{n}trees is one of the Demon Thunder{n}Queen's minions--"
  },
  {
   "id": "s0126_01268",
@@ -600,7 +600,7 @@
    "カイ"
   ],
   "jp": "魔雷妃は、森の北に聳える樹棺城に{n}棲む残忍な魔女だ。幻術を用い、雷を{n}操り、恐怖でこの森を支配している{n}ダークエルフのハーフさ",
-  "en": "The Demon Thunder Queen is a cruel witch{n}who lives in the Tree-Coffin Castle, towering{n}at the forest's north. She's a half dark elf{n}who rules this forest through fear, using{page}illusions and controlling lightning."
+  "en": "The Demon Thunder Queen is a cruel witch{n}who lives in the Tree-Coffin Castle, towering{n}at the forest's north.{page}She's a half dark elf who rules this forest{n}through fear, using illusions and{n}controlling lightning."
  },
  {
   "id": "s0126_012e8",
@@ -696,7 +696,7 @@
    "カイ"
   ],
   "jp": "カイ自身はやはり記憶を失ったままで、{n}三人の仲間とともにこの地に目覚めた。{page}その直後に魔雷妃の使いが幾度か現れ、{n}配下に下れとの誘いを受けたが、カイ{n}ともうひとりの仲間は本能的にこれを{n}拒んだ。魔雷妃の背景に、従い得ぬ{n}邪悪の匂いを感じ取ったからだ。",
-  "en": "Kai herself remained without her memory,{n}and had awoken in this land with three{n}companions.{page}Soon after, the Demon Thunder Queen's{n}messengers appeared several times,{n}urging them to serve her, but Kai and one{n}other instinctively refused. For they{n}sensed in the queen's background the{n}smell of an evil they could not follow."
+  "en": "Kai herself remained without her memory,{n}and had awoken in this land with{n}three companions.{page}Soon after, the Demon Thunder Queen's{n}messengers appeared several times,{n}urging them to serve her, but Kai and one{n}other instinctively refused. For they{n}sensed in the queen's background the{n}smell of an evil they could not follow."
  },
  {
   "id": "s0126_0154c",
@@ -720,7 +720,7 @@
    "カイ"
   ],
   "jp": "しかし、残るふたりはカイたちの制止{n}も聞かず、魅入られたように樹海の奥{n}へと消えていった。拒絶したカイたち{n}は反逆者として魔雷妃の幻体と配下の{n}魔物に追撃され、森を逃げ惑いながら{n}も何とか九死に一生を得た。そして{n}ここに態勢を立て直し、反攻の機を{n}窺っていたのだった。",
-  "en": "But the other two, ignoring Kai's attempts{n}to stop them, disappeared into the depths{n}of the forest as if bewitched. Those who{n}refused were hunted as rebels by the{n}Demon Thunder Queen's phantom bodies{n}and monster servants, and fled about the{n}forest, barely escaping with their lives.{n}Here they had regrouped, waiting for a{page}chance to strike back."
+  "en": "But the other two, ignoring Kai's attempts{n}to stop them, disappeared into the depths{n}of the forest as if bewitched. Those who{n}refused were hunted as rebels by the{n}Demon Thunder Queen's phantom bodies{n}and monster servants, and fled about the{n}forest, barely escaping with their lives.{page}Here they had regrouped, waiting for a{n}chance to strike back."
  },
  {
   "id": "s0126_01654",
@@ -792,7 +792,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "黒騎士とか名乗って、何度か襲いかか{n}ってきやがった。何かに操られてる{n}みてえだったな。目つきが尋常じゃ{n}なかったし――",
-  "en": "Calls himself the Black Knight. Jumped us a{n}few times, damn him. Looked like something{n}had hold of him. His eyes weren't normal,{n}either--"
+  "en": "Calls himself the Black Knight. Jumped us a{n}few times, damn him. Looked like something{n}had hold of him. His eyes weren't{n}normal, either--"
  },
  {
   "id": "s0126_01728",
@@ -888,7 +888,7 @@
    "カイ"
   ],
   "jp": "あるものを探しに出ている。ここで{n}落ち合うことになっているのだが……{n}幾ら何でも遅いな――",
-  "en": "Off searching for something. We were{n}supposed to meet here... But this is too{n}long--"
+  "en": "Off searching for something. We were{n}supposed to meet here... But this is{n}too long--"
  },
  {
   "id": "s0126_01818",
@@ -912,7 +912,7 @@
    "カイ"
   ],
   "jp": "その時、一羽の白い鳩が森の彼方から{n}飛来した。酷く傷ついており、脚には{n}短刀のようなものを掴んでいる。鳩は{n}カイの腕に舞い降りると、ほころびた{n}かに弾けてぼろぼろの紙片に変じた。{page}式神と呼ばれる、魔力を封じた呪符を{n}使い魔として使役したものであった。",
-  "en": "Just then, a single white dove flew in{n}from the far side of the forest. It was{n}badly wounded, and clutched something{n}like a dagger in its feet. The dove alighted{n}on Kai's arm, burst as if splitting apart,{n}and turned into a tattered scrap of{n}paper.{page}It was what they called a shikigami, a{n}spell charm sealed with magic and{n}employed as a familiar."
+  "en": "Just then, a single white dove flew in{n}from the far side of the forest. It was{n}badly wounded, and clutched something{n}like a dagger in its feet. The dove alighted{n}on Kai's arm, burst as if splitting apart,{n}and turned into a tattered scrap{n}of paper.{page}It was what they called a shikigami, a{n}spell charm sealed with magic and{n}employed as a familiar."
  },
  {
   "id": "s0126_01910",
@@ -1008,7 +1008,7 @@
    "カイ"
   ],
   "jp": "……シーンが――仲間が魔雷妃の{n}手の者に捕らえられたようだ。そこの{n}森を越えた場所にある湖に連れ去られ、{n}魔性の生け贄に捧げられるらしい――",
-  "en": "...Sean-- It seems my companion's been{n}captured by the Demon Thunder Queen's{n}people. Taken to a lake past that forest{page}there, to be offered as a sacrifice to a{n}demon--"
+  "en": "...Sean-- It seems my companion's been{n}captured by the Demon Thunder{n}Queen's people.{page}Taken to a lake past that forest there, to{n}be offered as a sacrifice to a demon--"
  },
  {
   "id": "s0126_019fc",
@@ -1633,7 +1633,7 @@
    "カイ"
   ],
   "jp": "……事情は判った。ならば先にその{n}弟を助けるがいい。あの王鴉を退けた{n}オマエたちだ。牢さえ開けばさほど{n}手間取ることもあるまいが――",
-  "en": "...I understand. Then save his brother first.{n}You drove off that King Raven. Once the{n}prison's open, it shouldn't take much{n}trouble."
+  "en": "...I understand. Then save his brother first.{n}You drove off that King Raven. Once the{n}prison's open, it shouldn't take{n}much trouble."
  },
  {
   "id": "s0126_022dc",

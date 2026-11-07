@@ -117,7 +117,7 @@
    "ボル"
   ],
   "jp": "頭を抱え、脂汗を浮かべてボルは{n}うずくまった。他の者には感じ取れぬ{n}何かが、この剛直な武人に耐え難い{n}恐怖を感じさせているらしい。",
-  "en": "Clutching his head, greasy sweat on his{n}brow, Bol crouched down. Something the{n}others could not sense seemed to fill this{n}stalwart warrior with unbearable{n}terror."
+  "en": "Clutching his head, greasy sweat on his{n}brow, Bol crouched down. Something the{n}others could not sense seemed to fill this{n}stalwart warrior with{n}unbearable terror."
  },
  {
   "id": "s0100_00910",
@@ -141,7 +141,7 @@
    "ボル"
   ],
   "jp": "と、前方の空間に巨大な影が生じた。{page}蠢く生きた闇とも言うべきその空間は、{n}絶えず形を変化させながら行く手を{n}塞いでいた。触手のように伸縮する{n}影が、その危険性を本能に訴えてくる。",
-  "en": "Then a huge shadow arose in the space{n}ahead.{page}That space, which one might call a{n}writhing, living darkness, barred the way,{n}ever changing its shape. Shadows that{n}stretched and shrank like tentacles spoke{n}to the instincts of their danger."
+  "en": "Then a huge shadow arose in the{n}space ahead.{page}That space, which one might call a{n}writhing, living darkness, barred the way,{n}ever changing its shape. Shadows that{n}stretched and shrank like tentacles spoke{n}to the instincts of their danger."
  },
  {
   "id": "s0100_009c0",
@@ -309,7 +309,7 @@
    ""
   ],
   "jp": "ボルを襲う幻影は消えたが、あの闇の{n}集合体はまだそこにわだかまっていた。",
-  "en": "The illusion that had struck Bol was gone,{n}but that mass of darkness still lingered{n}there."
+  "en": "The illusion that had struck Bol was gone,{n}but that mass of darkness still{n}lingered there."
  },
  {
   "id": "s0100_00df0",
@@ -669,7 +669,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "操影術とは、人里離れた地に隠れ住む{n}一族に密かに受け継がれてきた特殊な{n}技能であった。戦局すらも左右する{n}諜報能力ゆえに、一族は代々その力を{n}外の世界には出さず、里の者の多くは{n}極めて閉鎖的な社会で一生を終えた。",
-  "en": "Shadow manipulation was a special skill{n}handed down in secret by a clan living{n}hidden in a remote land. Because its{n}powers of espionage could sway the{n}course of a war, the clan had for{n}generations kept that power from the{n}outside world, and most of the villagers{page}ended their lives in a tightly closed{n}society."
+  "en": "Shadow manipulation was a special skill{n}handed down in secret by a clan living{n}hidden in a remote land. Because its{n}powers of espionage could sway the{n}course of a war, the clan had for{n}generations kept that power from the{n}outside world, and most of the villagers{page}ended their lives in a tightly{n}closed society."
  },
  {
   "id": "s0100_0139c",
@@ -717,7 +717,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "だが、一族は掟を破る脱走者を許さな{n}かった。ボルを抹殺すべく次々と刺客{n}が送り出され、彼は生き延びるために{n}かつての仲間との殺し合いを余儀なく{n}された。長い逃亡生活の果て、ボルの{n}手はともに修行した影使いたちの血に{n}まみれた。",
-  "en": "But the clan did not forgive a runaway{n}who broke its rules. Assassin after{n}assassin was sent to wipe him out, and to{n}survive he was forced to kill his former{n}comrades. After long years on the run,{n}Bol's hands were soaked in the blood of{n}the shadow users he had trained{n}alongside."
+  "en": "But the clan did not forgive a runaway{n}who broke its rules. Assassin after{n}assassin was sent to wipe him out, and to{n}survive he was forced to kill his former{n}comrades. After long years on the run,{n}Bol's hands were soaked in the blood of{n}the shadow users he had{n}trained alongside."
  },
  {
   "id": "s0100_01508",
@@ -741,7 +741,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "同時に、ボルの影使いとしての力は{n}増大していった。倒した刺客の操る{n}影霊は自然、その場に生き残った{n}ボルの影に宿る。数え切れぬ友の{n}返り血が、史上最強の影使いを造り{n}上げていったのだ。",
-  "en": "At the same time, Bol's power as a shadow{n}user grew. The shadow spirits worked by{n}each slain assassin naturally came to{n}dwell in the shadow of Bol, who alone{n}survived. The blood of countless friends{n}built the strongest shadow user in{n}history."
+  "en": "At the same time, Bol's power as a shadow{n}user grew. The shadow spirits worked by{n}each slain assassin naturally came to{n}dwell in the shadow of Bol, who alone{n}survived. The blood of countless friends{n}built the strongest shadow user{n}in history."
  },
  {
   "id": "s0100_015c0",
@@ -765,7 +765,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "しかし、己の支配する影が強大になる{n}度、彼の心は慚愧に震えた。里を抜け{n}たのは生きる道を探すため。他者の{n}生きる道を閉じるためではなかった。",
-  "en": "But each time the shadows he commanded{n}grew mightier, his heart trembled with{n}shame. He had left the village to find a{n}way to live. Not to close that way to{n}others."
+  "en": "But each time the shadows he commanded{n}grew mightier, his heart trembled with{n}shame. He had left the village to find a{n}way to live. Not to close that way{n}to others."
  },
  {
   "id": "s0100_0164c",
@@ -813,7 +813,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "ボルを苦しめた幻覚は、言わば己の{n}記憶の鏡像であった。",
-  "en": "The illusion that had tormented Bol was,{n}in a sense, the mirror image of his own{n}memory."
+  "en": "The illusion that had tormented Bol was,{n}in a sense, the mirror image of his{n}own memory."
  },
  {
   "id": "s0100_01798",
@@ -885,7 +885,7 @@
    "ボル"
   ],
   "jp": "ああ――そして影霊は、またも我が{n}身に宿って……この世界で目覚める前、{n}それがしはどのようにしてこの記憶に{n}耐えていたのでござろう？",
-  "en": "Ah-- And now the shadow spirits dwell in this{n}body once more... Before awakening in this{n}world, how did this one ever bear this{n}memory?"
+  "en": "Ah-- And now the shadow spirits dwell in this{n}body once more... Before awakening in this{n}world, how did this one ever bear{n}this memory?"
  },
  {
   "id": "s0100_018e0",
@@ -1245,7 +1245,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "ケッ……こんなトコで時間食っちゃ{n}いられねえからよ。オラ、キタネエ面{n}拭いて、とっとと行くぜ！",
-  "en": "Tch... I just can't waste any time here. Come{n}on, wipe that filthy face and let's get{n}moving!"
+  "en": "Tch... I just can't waste any time here. Come{n}on, wipe that filthy face and let's{n}get moving!"
  },
  {
   "id": "s0100_01e78",
@@ -1389,7 +1389,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "これでよし。次のブロックに急ぐぜ",
-  "en": "That does it. Let's hurry to the next{n}block."
+  "en": "That does it. Let's hurry to the{n}next block."
  },
  {
   "id": "s0100_02844",

@@ -21,7 +21,7 @@
    "ブラド"
   ],
   "jp": "助かったわい。ではワシはここで{n}別れるとしよう。精進を怠るなよ！",
-  "en": "You have my thanks. I shall part from you{n}here, then. Do not neglect your training, you{n}there!"
+  "en": "You have my thanks. I shall part from you{n}here, then. Do not neglect your training,{n}you there!"
  },
  {
   "id": "s0153_0085c",
@@ -45,7 +45,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "さて、それじゃ森の奥に進むとすっか",
-  "en": "Well then, let's head deeper into the{n}forest."
+  "en": "Well then, let's head deeper into{n}the forest."
  },
  {
   "id": "s0153_00880",
@@ -219,7 +219,7 @@
    "シェラ"
   ],
   "jp": "木々の声、風の嘆きが聞こえた……。{n}この森は残忍な悪意に満ちている。{n}龍は囚われ、この地もまた苦痛の{n}翳りに覆われているようだ……",
-  "en": "I heard the voices of the trees, the lament{n}of the wind... This forest is filled with cruel{n}malice. A dragon is held captive, and this{page}land, too, seems veiled in a shadow of{n}pain..."
+  "en": "I heard the voices of the trees, the lament{n}of the wind... This forest is filled with{n}cruel malice.{page}A dragon is held captive, and this land, too,{n}seems veiled in a shadow of pain..."
  },
  {
   "id": "s0153_00d4c",
@@ -243,7 +243,7 @@
    "ヴァイ"
   ],
   "jp": "囚われの龍か……そいつは地龍とは{n}違うのかよ。水路が真っ直ぐだったん{n}なら、あの龍が飛んでったのはこの{n}森の方角だぜ",
-  "en": "A captive dragon, huh... That's not the Earth{n}Dragon, is it? If that waterway ran straight,{n}then the dragon flew off toward this{n}forest."
+  "en": "A captive dragon, huh... That's not the Earth{n}Dragon, is it? If that waterway ran straight,{n}then the dragon flew off toward{n}this forest."
  },
  {
   "id": "s0153_00dc0",
@@ -579,7 +579,7 @@
    "シェラ"
   ],
   "jp": "言い残し、美しい吟遊詩人は傷心の{n}面持ちで立ち去っていった。",
-  "en": "With those parting words, the beautiful{n}bard walked away, her face heavy with{n}heartache."
+  "en": "With those parting words, the beautiful{n}bard walked away, her face heavy{n}with heartache."
  },
  {
   "id": "s0153_01334",
@@ -747,7 +747,7 @@
    "ボル"
   ],
   "jp": "敵!?　しかしそれがしの影も、接近{n}する者の動きは捉えられなかったが",
-  "en": "An enemy!? But this one's shadow caught no{n}movement of anyone drawing near,{n}forsooth."
+  "en": "An enemy!? But this one's shadow caught no{n}movement of anyone drawing{n}near, forsooth."
  },
  {
   "id": "s0153_01894",
@@ -1299,7 +1299,7 @@
    "シェン"
   ],
   "jp": "駆けつけた一行が目にしたのは、樫の{n}巨木の前で渦を巻く空間の裂け目と、{n}そこに吸い込まれていくふたりの姿で{n}あった。助けの手を差し伸べる間も{n}なく、ジオンとシェンは暗黒の洞穴に{n}飲み込まれ、裂け目は閉じて虚空と{n}化した。宿り木の短刀が、カランと{n}音を立てて地面に転がった。",
-  "en": "What the party found on arrival was a{n}rift in space swirling before a giant oak,{n}and the two being sucked into it. With no{n}time to reach out a helping hand, Zion and{n}Schen were swallowed by the dark hole,{n}and the rift closed into empty air. The{n}Mistletoe Dagger fell to the ground with a{n}clatter."
+  "en": "What the party found on arrival was a{n}rift in space swirling before a giant oak,{n}and the two being sucked into it. With no{n}time to reach out a helping hand, Zion and{n}Schen were swallowed by the dark hole,{n}and the rift closed into empty air. The{n}Mistletoe Dagger fell to the ground with{n}a clatter."
  },
  {
   "id": "s0153_024fc",
@@ -1395,7 +1395,7 @@
    "シェン"
   ],
   "jp": "酷くやつれた様子のシェンが、牢獄の{n}中で身を起こそうとした。その周囲の{n}暗がりから無数の、糸のように細い{n}子蛇がさあっと散り、樹幹の亀裂に{n}潜り込んで姿を消した。見ればシェン{n}の剥き出しの肌には点々と小さな牙の{n}噛み痕が穿たれ、子蛇の群れが生き血{n}を啜ってじわじわと弱らせていたと{n}判る。",
-  "en": "Looking terribly haggard, Schen tried to{n}sit up inside the prison. From the darkness{n}around him countless baby snakes, thin as{n}thread, scattered in a rush, slipped into{n}cracks in the trunk and were gone. On{n}Schen's bare skin were dotted the marks{n}of tiny fangs, a sign that the swarm{page}had been drinking his blood and slowly{n}wearing him down."
+  "en": "Looking terribly haggard, Schen tried to{n}sit up inside the prison. From the darkness{n}around him countless baby snakes, thin as{n}thread, scattered in a rush, slipped into{n}cracks in the trunk and were gone.{page}On Schen's bare skin were dotted the{n}marks of tiny fangs, a sign that the{n}swarm had been drinking his blood and{n}slowly wearing him down."
  },
  {
   "id": "s0153_026d0",
@@ -1443,7 +1443,7 @@
    "ジオン"
   ],
   "jp": "すぐにそこから出してやるぞ！{n}忌々しい樫の根など、この短刀で――",
-  "en": "I shall have you out of there at once! These{n}cursed oak roots are nothing to this{n}dagger--"
+  "en": "I shall have you out of there at once! These{n}cursed oak roots are nothing to{n}this dagger--"
  },
  {
   "id": "s0153_02750",
@@ -1467,7 +1467,7 @@
    "ジオン"
   ],
   "jp": "ジオンが宿り木の短刀で切りつけると、{n}あれほど頑強だった樫の根の格子は、{n}自ら刃を避けるように断ち切れた。{page}ジオンが飛び込み、消耗したシェンに{n}肩を貸して牢から出ようとした、その{n}時であった。",
-  "en": "When Zion slashed with the Mistletoe{n}Dagger, the bars of oak root, so stubborn{n}until now, parted as if shrinking from the{n}blade.{page}Zion leapt in and, lending the exhausted{n}Schen his shoulder, was about to leave{n}the prison, when it happened."
+  "en": "When Zion slashed with the Mistletoe{n}Dagger, the bars of oak root, so stubborn{n}until now, parted as if shrinking from{n}the blade.{page}Zion leapt in and, lending the exhausted{n}Schen his shoulder, was about to leave{n}the prison, when it happened."
  },
  {
   "id": "s0153_02810",
@@ -1611,7 +1611,7 @@
    "ジオン"
   ],
   "jp": "幼い頃、誓った――オマエを護るのは{n}俺の役目だと……さらばだ、シェン！",
-  "en": "I swore it when we were young--that{n}protecting you was my duty... Farewell,{n}Schen!"
+  "en": "I swore it when we were young--that{n}protecting you was my duty...{n}Farewell, Schen!"
  },
  {
   "id": "s0153_02a10",
@@ -1635,7 +1635,7 @@
    "ジオン"
   ],
   "jp": "助けの手を差し伸べる間もなく、{n}ジオンを飲み込んだ裂け目は閉じて{n}元通りの虚空と化した。宿り木の短刀{n}が、カランと音を立てて地面に転がる。",
-  "en": "With no time to reach out a helping hand,{n}the rift that had swallowed Zion closed{n}into the empty air it had been. The{n}Mistletoe Dagger fell to the ground with a{n}clatter."
+  "en": "With no time to reach out a helping hand,{n}the rift that had swallowed Zion closed{n}into the empty air it had been. The{n}Mistletoe Dagger fell to the ground with{n}a clatter."
  },
  {
   "id": "s0153_02a9c",
@@ -1707,7 +1707,7 @@
    "ネイ"
   ],
   "jp": "暗黒洞があった場所に、いつの間にか{n}少女の幻体が姿を現していた。{n}Ｄ・Ｓに背を向けた格好で、嘆き狂う{n}シェンに嘲笑を投げかける。",
-  "en": "Where the dark hole had been, the{n}phantom of a girl had appeared without{n}their noticing. With her back to D.S., she{n}cast her sneer at the grief-maddened{n}Schen."
+  "en": "Where the dark hole had been, the{n}phantom of a girl had appeared without{n}their noticing. With her back to D.S., she{n}cast her sneer at the{n}grief-maddened Schen."
  },
  {
   "id": "s0153_02b58",
@@ -1779,7 +1779,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "テメエっ！　何て真似しやがる！",
-  "en": "You bitch! What the hell do you think you're{n}doing!"
+  "en": "You bitch! What the hell do you think{n}you're doing!"
  },
  {
   "id": "s0153_02c74",
@@ -1827,7 +1827,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "それは、毒蛇を彷彿とさせる衣服を{n}着た、美しいがどこか邪さを感じ{n}させる若い女妖魔だった。王鴉と{n}共通の雰囲気を纏っており、妹と{n}呼ばれたのがこの妖魔であることは{n}疑いないと思われた。",
-  "en": "It was a young demon woman in clothes{n}reminiscent of a venomous snake,{n}beautiful, yet somehow giving off a sense{n}of evil. She had the same air about her as{n}King Raven, and there seemed no doubt{n}that this was the demon called the{n}sister."
+  "en": "It was a young demon woman in clothes{n}reminiscent of a venomous snake,{n}beautiful, yet somehow giving off a sense{n}of evil. She had the same air about her as{n}King Raven, and there seemed no doubt{n}that this was the demon called{n}the sister."
  },
  {
   "id": "s0153_02e54",
@@ -1851,7 +1851,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "お前たちか？　姉君を傷つけて城に{n}追い返したというのは",
-  "en": "So it's you? The ones who wounded my big{n}sister and sent her running back to the{n}castle."
+  "en": "So it's you? The ones who wounded my big{n}sister and sent her running back to{n}the castle."
  },
  {
   "id": "s0153_02e8c",
@@ -1995,7 +1995,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "く……なるほど、姉君が負けたのは{n}油断ではなかったか……",
-  "en": "Ngh... I see, my sister's defeat wasn't just{n}carelessness..."
+  "en": "Ngh... I see, my sister's defeat wasn't{n}just carelessness..."
  },
  {
   "id": "s0153_030d8",
@@ -2165,7 +2165,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "今はカイとの約束を果たさなきゃ{n}ならねえ。水妖の湖とやらに向かおう",
-  "en": "Right now we gotta keep our promise to Kai.{n}Let's head for this water spirits' lake or{n}whatever."
+  "en": "Right now we gotta keep our promise to Kai.{n}Let's head for this water spirits' lake{n}or whatever."
  },
  {
   "id": "s0153_032dc",
@@ -2285,7 +2285,7 @@
    "シェン"
   ],
   "jp": "兄弟は格子越しに再会した。だが、{n}木の根の格子は刃も呪文も受け付けず、{n}シェンを救い出すことができない。{n}この年経た樫の根は、強力な呪力に{n}守られているようであった。{page}幸いシェンの傷は浅く、出血もすでに{n}止まっていた。",
-  "en": "The brothers were reunited through the{n}bars. But the lattice of roots took neither{n}blade nor spell, and they could not get{n}Schen out. These ancient oak roots{n}seemed to be protected by a powerful{n}curse.{page}Luckily Schen's wound was shallow, and{n}the bleeding had already stopped."
+  "en": "The brothers were reunited through the{n}bars. But the lattice of roots took neither{n}blade nor spell, and they could not get{n}Schen out. These ancient oak roots{n}seemed to be protected by a{n}powerful curse.{page}Luckily Schen's wound was shallow, and{n}the bleeding had already stopped."
  },
  {
   "id": "s0153_034f0",
@@ -2405,7 +2405,7 @@
    "ネイ"
   ],
   "jp": "牢の上に、ひとりの娘が腰掛けていた。{page}年の頃は十四、五といったところか、{n}若く勝ち気な雰囲気を漂わせている{n}美しい娘であった。だが、浅黒い肌と{n}とがった耳が、娘に黒き魔の血統と{n}呼ばれ忌み嫌われるダーク・エルフの{n}血が混じっていることを示している。{page}高慢とも言うべき態度で見下ろし、{n}娘は続けた。",
-  "en": "A single girl sat perched atop the{n}prison.{page}She looked fourteen or fifteen, a{n}beautiful girl with a young and{n}headstrong air. But her swarthy skin and{n}pointed ears showed that she had mixed{n}in her the blood of the dark elves,{n}loathed as the black demon bloodline.{page}Looking down with what could only be{n}called arrogance, the girl went on."
+  "en": "A single girl sat perched atop{n}the prison.{page}She looked fourteen or fifteen, a{n}beautiful girl with a young and{n}headstrong air. But her swarthy skin and{n}pointed ears showed that she had mixed{n}in her the blood of the dark elves,{n}loathed as the black demon bloodline.{page}Looking down with what could only be{n}called arrogance, the girl went on."
  },
  {
   "id": "s0153_036b4",
@@ -2621,7 +2621,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "問いかけられ、少女は初めてＤ・Ｓに{n}気づいたという目を向けた。驕慢な{n}光を宿した瞳が、ふと、何かを思い{n}出そうとするかに揺らめく。",
-  "en": "At the question, the girl looked at D.S. as{n}if noticing him for the first time. Her eyes,{n}lit with arrogance, wavered all at once,{n}as if she were trying to recall{n}something."
+  "en": "At the question, the girl looked at D.S. as{n}if noticing him for the first time. Her eyes,{n}lit with arrogance, wavered all at once,{n}as if she were trying to{n}recall something."
  },
  {
   "id": "s0153_039f8",
@@ -2693,7 +2693,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "夢に出てきた女か……いや、もっと{n}若いな……",
-  "en": "The woman from my dream... No, way{n}younger..."
+  "en": "The woman from my dream... No,{n}way younger..."
  },
  {
   "id": "s0153_03adc",
@@ -3291,7 +3291,7 @@
    "ジオン"
   ],
   "jp": "……焦るばかりでも、シェンを救う{n}ことにはならぬか――",
-  "en": "...Haste alone will not save Schen, it{n}seems--"
+  "en": "...Haste alone will not save Schen,{n}it seems--"
  },
  {
   "id": "s0153_04978",
@@ -3387,7 +3387,7 @@
    "ブラド"
   ],
   "jp": "む……？　ここは森の入口とは違う{n}ではないか！",
-  "en": "Hm...? This is not the entrance to the{n}forest!"
+  "en": "Hm...? This is not the entrance to{n}the forest!"
  },
  {
   "id": "s0153_04d20",

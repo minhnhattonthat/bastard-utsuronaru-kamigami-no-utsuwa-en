@@ -21,7 +21,7 @@
    ""
   ],
   "jp": "深海の底を思わせる、重苦しく、{n}静寂に支配された眠りであった。{n}二度と醒めることのない、常闇の{n}深淵へと沈降していくような感覚が、{n}『彼』の中に微かな警報を奏でていた。",
-  "en": "It was a heavy sleep, ruled by silence, like{n}the floor of a deep sea. A sensation of{n}sinking into an abyss of eternal night,{n}from which there would be no second{n}waking, sounded a faint alarm within{n}'him'."
+  "en": "It was a heavy sleep, ruled by silence, like{n}the floor of a deep sea. A sensation of{n}sinking into an abyss of eternal night,{n}from which there would be no second{n}waking, sounded a faint alarm{n}within 'him'."
  },
  {
   "id": "s0010_008c0",
@@ -213,7 +213,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "そこは、波音が虚ろに響く砂浜だった。{n}眼前には暗い色をした海が広がり、{n}大きくうねっている。{n}今にも泣き出しそうな曇り空からは{n}朝なのか、それとも夕刻なのかすらも{n}読み取ることはできなかった。{page}この世の果てを思わせる、陰鬱な、{n}見覚えのない眺めだった。そして――。",
-  "en": "It was a sandy beach, the sound of the{n}waves echoing hollow. Before him{n}stretched a dark sea, heaving in great{n}swells. From the sky, clouded and ready{n}to weep at any moment, he could not{n}even tell whether it was morning or{n}evening.{page}It was a gloomy, unfamiliar sight, like the{n}very end of the world. And then--"
+  "en": "It was a sandy beach, the sound of the{n}waves echoing hollow. Before him{n}stretched a dark sea, heaving in great{n}swells. From the sky, clouded and ready{n}to weep at any moment, he could not{n}even tell whether it was morning{n}or evening.{page}It was a gloomy, unfamiliar sight, like the{n}very end of the world. And then--"
  },
  {
   "id": "s0010_00cbc",
@@ -453,7 +453,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "それでも、Ｄ・Ｓは確信した。{n}この少女は、己にとって欠くことの{n}できぬ重要な存在であると。そして{n}あの声――目覚める寸前に聞こえた{n}助けを求める声は、間違いなくこの{n}ヨーコのものであったと。",
-  "en": "Even so, D.S. was sure. This girl was{n}someone vital, someone he could not do{n}without. And that voice -- the voice he{n}had heard crying for help just before{n}waking -- was this Yoko's beyond all{n}doubt."
+  "en": "Even so, D.S. was sure. This girl was{n}someone vital, someone he could not do{n}without. And that voice -- the voice he{n}had heard crying for help just before{n}waking -- was this Yoko's beyond{n}all doubt."
  },
  {
   "id": "s0010_011fc",
@@ -693,7 +693,7 @@
    "ヴァイ"
   ],
   "jp": "焦点の合わぬ瞳をＤ・Ｓに向け、{n}青年は無言で正面に視線を戻した。{n}口を開くのも億劫といった様子で、{n}ただ無気力に海を眺めている。{n}そのまま放置しておけば、恐らくは{n}息絶えるまでそこで、膝を抱えたまま{n}座り続けるのだろう。生きる力が{n}根こそぎ抜け落ちているようだった。",
-  "en": "Turning unfocused eyes on D.S., the youth{n}wordlessly looked back ahead. As if even{n}opening his mouth were too much bother,{n}he simply gazed listlessly at the sea. Left{n}alone, he would likely go on sitting there{n}hugging his knees until he died. The will to{n}live seemed torn out of him by the{n}roots."
+  "en": "Turning unfocused eyes on D.S., the youth{n}wordlessly looked back ahead. As if even{n}opening his mouth were too much bother,{n}he simply gazed listlessly at the sea. Left{n}alone, he would likely go on sitting there{n}hugging his knees until he died. The will to{n}live seemed torn out of him by{n}the roots."
  },
  {
   "id": "s0010_01a38",
@@ -1029,7 +1029,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "おうよ……!?{n}おい、アンタもって、{n}まさかテメエも……",
-  "en": "Damn right I... !? Hey, \"too\"? Don't tell me{n}you..."
+  "en": "Damn right I... !? Hey, \"too\"? Don't tell{n}me you..."
  },
  {
   "id": "s0010_01f20",
@@ -1485,7 +1485,7 @@
    ""
   ],
   "jp": "海面を隔てて、座礁していると思しき{n}船が見てとれた。船首に龍を象った{n}その船は、外部に大きな損傷はなく、{n}波風に侵食された様子もなかった。{n}暗礁に乗り上げたのはごく最近の{n}ことであるらしい。",
-  "en": "Across the water, a ship that seemed to{n}have run aground could be seen. Its bow{n}was carved like a dragon. It showed no{n}great damage and no wear from wind and{n}wave. It had hit the reef only very{n}recently."
+  "en": "Across the water, a ship that seemed to{n}have run aground could be seen. Its bow{n}was carved like a dragon. It showed no{n}great damage and no wear from wind and{n}wave. It had hit the reef only{n}very recently."
  },
  {
   "id": "s0010_029e8",
@@ -1629,7 +1629,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "それにあの船――竜船とでも呼ぶか。{n}あれはどうにも異質に感じる。敵って{n}ワケじゃねえが、俺が属している{n}ものでもねえ",
-  "en": "And that ship -- let's call it the Dragon Ship.{n}Something about it feels wrong. It ain't an{n}enemy, but it ain't anything I belong to,{n}either."
+  "en": "And that ship -- let's call it the Dragon Ship.{n}Something about it feels wrong. It ain't an{n}enemy, but it ain't anything I belong{n}to, either."
  },
  {
   "id": "s0010_02b6c",
@@ -1869,7 +1869,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "小舟は逆巻く波に翻弄されながらも、{n}予想外にしっかりと、難破船までの{n}短い航路を渡ってのけた。{page}近くから見ると、船体には傷ひとつ{n}ついていないことが判る。まるで{n}この瞬間に進水した新造船のような、{n}海の旅を経たとは思えぬほど真新しい{n}外観であった。",
-  "en": "Tossed by the seething waves, the little{n}boat nonetheless made the short crossing{n}to the wreck more surely than{n}expected.{page}Up close, there was not a scratch on the{n}hull. It looked brand new, like a ship{n}launched that very moment, hardly one{n}that had crossed the sea."
+  "en": "Tossed by the seething waves, the little{n}boat nonetheless made the short crossing{n}to the wreck more surely{n}than expected.{page}Up close, there was not a scratch on the{n}hull. It looked brand new, like a ship{n}launched that very moment, hardly one{n}that had crossed the sea."
  },
  {
   "id": "s0010_02ea4",

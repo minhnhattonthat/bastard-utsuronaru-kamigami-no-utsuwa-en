@@ -261,7 +261,7 @@
    "ロス"
   ],
   "jp": "あらあ……意外とモテモテ。口惜しー！",
-  "en": "Oh my... Popular after all, are we? How{n}galling!"
+  "en": "Oh my... Popular after all, are we?{n}How galling!"
  },
  {
   "id": "s0297_00be8",
@@ -381,7 +381,7 @@
    "ロス"
   ],
   "jp": "だってカル様――っていうか至高王は、{n}どう見たって誰かに操られてるカンジ{n}じゃない？　アタシ、こう見えても{n}魔戦将軍きってのリアリストなのよ",
-  "en": "Well, Kall-sama, or rather the High King, sure{n}looks like he's being worked by someone,{n}doesn't he? I may not look it, but I'm the{page}biggest realist among the Sorcerer{n}Generals."
+  "en": "Well, Kall-sama, or rather the High King, sure{n}looks like he's being worked by someone,{n}doesn't he?{page}I may not look it, but I'm the biggest realist{n}among the Sorcerer Generals."
  },
  {
   "id": "s0297_00d9c",
@@ -619,7 +619,7 @@
    "ロス"
   ],
   "jp": "そうこなくっちゃ！　さあ、イイ男の{n}戦いぶり、見せてもらうわよっ！",
-  "en": "That's the spirit! Now, show me how a hunk{n}fights!"
+  "en": "That's the spirit! Now, show me how a{n}hunk fights!"
  },
  {
   "id": "s0297_00fac",
@@ -811,7 +811,7 @@
    "バ・ソリー"
   ],
   "jp": "ここから先は通さぬぞぉ！　カル様{n}から授かった魔法のドリンクでパワー{n}アップ！　不死身の男バ・ソリー様{n}見参んん！",
-  "en": "You shall not pass! Powered up by a magic{n}drink bestowed by Kall-sama! The immortal{n}man, the great Ba Thory-sama, has{n}arriiived!"
+  "en": "You shall not pass! Powered up by a magic{n}drink bestowed by Kall-sama! The immortal{n}man, the great Ba Thory-sama,{n}has arriiived!"
  },
  {
   "id": "s0297_015c8",
@@ -907,7 +907,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "バ・ソリーの肉体は、その体内に{n}大量に飼育する再生蟲によって、{n}どんな傷でも瞬時に修復していく――{n}だがこの時、蟲たちの機能に重大な{n}障害が発生していた。",
-  "en": "The regenerating bugs Ba Thory bred in{n}great numbers within him mended any{n}wound in his flesh in an instant. But now a{n}grave fault had arisen in the bugs'{n}workings."
+  "en": "The regenerating bugs Ba Thory bred in{n}great numbers within him mended any{n}wound in his flesh in an instant. But now a{n}grave fault had arisen in the{n}bugs' workings."
  },
  {
   "id": "s0297_01728",
@@ -1051,7 +1051,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "蟲にしてみりゃ、殺虫剤を飲まされた{n}ようなもんだな",
-  "en": "For the bugs, it was like drinking bug{n}spray."
+  "en": "For the bugs, it was like drinking{n}bug spray."
  },
  {
   "id": "s0297_01940",
@@ -1099,7 +1099,7 @@
    "バ・ソリー"
   ],
   "jp": "沼沢地方に住み、蟲との共生を余儀{n}なくされた辺境の部族――その中から{n}生まれたのが、積極的に蟲を寄生させ、{n}その能力を利用して身体機能を高める{n}術を身につけた“蟲使い”と呼ばれる{n}者たちであった。",
-  "en": "In the marshlands lived a frontier tribe{n}forced to live alongside bugs. From among{n}them came those called \"bug tamers\",{n}who mastered the art of deliberately{n}taking in bugs as parasites and using their{n}powers to heighten the body's{n}functions."
+  "en": "In the marshlands lived a frontier tribe{n}forced to live alongside bugs. From among{n}them came those called \"bug tamers\",{n}who mastered the art of deliberately{n}taking in bugs as parasites and using their{n}powers to heighten the{n}body's functions."
  },
  {
   "id": "s0297_01a40",
@@ -1147,7 +1147,7 @@
    "バ・ソリー"
   ],
   "jp": "当然ながらバ・ソリーは孤独であった。{page}彼の思い描く夢――多くの人間に、{n}ただ醜いという理由だけで忌み嫌われ{n}る蟲たちが、駆除されることなく安心{n}して繁殖できる楽園の建設に、理解を{n}示す者などいるはずもなかった。",
-  "en": "Ba Thory was alone, as was only{n}natural.{page}No one could ever sympathize with his{n}dream: a paradise where bugs, loathed by{n}so many humans merely for being ugly,{n}could breed in safety and never be{n}exterminated."
+  "en": "Ba Thory was alone, as was{n}only natural.{page}No one could ever sympathize with his{n}dream: a paradise where bugs, loathed by{n}so many humans merely for being ugly,{n}could breed in safety and never{n}be exterminated."
  },
  {
   "id": "s0297_01bfc",
@@ -1243,7 +1243,7 @@
    "バ・ソリー"
   ],
   "jp": "……違う！　カル様は蟲に対しても、{n}決してこんな無道な仕打ちはなされぬ！{n}こんなのは、カル様ではない――",
-  "en": "...No! Kall-sama would never do so vile a{n}thing, even to bugs! This is not{n}Kall-sama--"
+  "en": "...No! Kall-sama would never do so vile a{n}thing, even to bugs! This is{n}not Kall-sama--"
  },
  {
   "id": "s0297_01e08",
@@ -1387,7 +1387,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "三匹目の蟲を吸収したバ・ソリーの{n}肉体に、目には見えぬ変化が起こり{n}始めていた。",
-  "en": "Having absorbed the third bug, Ba Thory's{n}body began to undergo an unseen{n}change."
+  "en": "Having absorbed the third bug, Ba Thory's{n}body began to undergo an{n}unseen change."
  },
  {
   "id": "s0297_01f84",
@@ -1411,7 +1411,7 @@
    "バ・ソリー"
   ],
   "jp": "おお……奇蟲珍蟲変蟲が渾然一体に{n}絡まり合って、俺様のカラダを内側{n}からヒートアップさせるううぅぅ……。{n}ああ、カ・イ・感……",
-  "en": "Oh ho... Odd bugs, rare bugs and strange{n}bugs twine together as one, heating up the{n}great me's body from withiiin... Ahh, such{n}ple-a-sure..."
+  "en": "Oh ho... Odd bugs, rare bugs and strange{n}bugs twine together as one, heating up the{n}great me's body from withiiin... Ahh,{n}such ple-a-sure..."
  },
  {
   "id": "s0297_02004",

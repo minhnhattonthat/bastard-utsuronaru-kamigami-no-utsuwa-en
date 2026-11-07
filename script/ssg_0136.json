@@ -261,7 +261,7 @@
    "ラン"
   ],
   "jp": "オマエたちか。魔雷妃様への反逆者{n}どもめ――",
-  "en": "You two. Traitors to the Demon Thunder{n}Queen-sama--"
+  "en": "You two. Traitors to the Demon{n}Thunder Queen-sama--"
  },
  {
   "id": "s0136_00cd0",
@@ -309,7 +309,7 @@
    "シーン"
   ],
   "jp": "そうよ！　その呪縛を解き放たなけ{n}れば――",
-  "en": "That's right! You have to break that{n}spell--"
+  "en": "That's right! You have to break{n}that spell--"
  },
  {
   "id": "s0136_00d2c",
@@ -357,7 +357,7 @@
    "ラン"
   ],
   "jp": "狂気を宿した目で、ランは会話を拒否{n}するように斬撃を繰り出した。大剣の{n}鈍さを感じさせぬ突風の如き太刀が、{n}矢継ぎ早にカイに襲いかかる。カイも{n}その長剣を見事に振るい、一合、二合{n}と互角に打ち合う。黒騎士の剛剣に{n}全く引けを取らぬ、凄まじいまでの{n}剣技であった。",
-  "en": "With madness in his eyes, Ran swung his{n}blade as if to refuse all talk. Strokes like{n}a gust of wind, with none of a{n}greatsword's sluggishness, assailed Kai in{n}quick succession. Kai too swung her{n}longsword superbly, trading blow after{n}blow on even terms. It was a fearsome{n}swordsmanship that yielded nothing to{page}the Black Knight's mighty blade."
+  "en": "With madness in his eyes, Ran swung his{n}blade as if to refuse all talk. Strokes like{n}a gust of wind, with none of a{n}greatsword's sluggishness, assailed Kai in{n}quick succession. Kai too swung her{n}longsword superbly, trading blow after{n}blow on even terms.{page}It was a fearsome swordsmanship that{n}yielded nothing to the Black Knight's{n}mighty blade."
  },
  {
   "id": "s0136_00e40",
@@ -549,7 +549,7 @@
    "カイ"
   ],
   "jp": "シーンはお前の血を分けた実の妹{n}なのだぞ！",
-  "en": "Sean is your own flesh and blood! Your{n}sister!"
+  "en": "Sean is your own flesh and blood!{n}Your sister!"
  },
  {
   "id": "s0136_01108",
@@ -837,7 +837,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "どうやら、オマエらの言葉で洗脳が{n}解け始めてるぜ。だが、まだ施された{n}術のほうが強いようだな",
-  "en": "Looks like your words started to break the{n}brainwashing. But the spell on him's still{n}stronger."
+  "en": "Looks like your words started to break the{n}brainwashing. But the spell on him's{n}still stronger."
  },
  {
   "id": "s0136_014f4",
@@ -957,7 +957,7 @@
    "カイ"
   ],
   "jp": "カイとシーン、そしてランは、かつて{n}戦で故郷を失った戦災孤児であった。{page}鋼と暴力の掟が支配する荒野において、{n}幼く力なき三人を待つ運命は逃れよう{n}のない死である。だが、彼らは救い{n}上げられた。",
-  "en": "Kai, Sean and Ran were war orphans who{n}had once lost their homeland to war.{page}In a wasteland ruled by the law of steel{n}and violence, the fate awaiting three{n}small, powerless children was inescapable{n}death. But they were picked up and{n}saved."
+  "en": "Kai, Sean and Ran were war orphans who{n}had once lost their homeland to war.{page}In a wasteland ruled by the law of steel{n}and violence, the fate awaiting three{n}small, powerless children was inescapable{n}death. But they were picked up{n}and saved."
  },
  {
   "id": "s0136_016d0",
@@ -1005,7 +1005,7 @@
    "カイ"
   ],
   "jp": "常人の枠を超える剣技、魔力、あるい{n}は秘術を備えるべく行われる修練は{n}苛烈を極めたが、死の顎から救われた{n}彼らにとっては鬼道衆の一員となる{n}ことが唯一の生きる術であり、望み{n}でもあった。三人はいつしか孤児たち{n}の中でも最も優れた戦闘能力を持つ、{n}精鋭中の精鋭に成長していった。",
-  "en": "Their training, meant to give them{n}swordsmanship, magic power or secret{n}arts beyond the reach of common men,{n}was harsh in the extreme. Yet for those{n}saved from the jaws of death, joining the{n}Kido Corps was the only way to live, and{n}their one hope. In time the three grew{n}into the elite of the elite, the finest{page}fighters among the orphans."
+  "en": "Their training, meant to give them{n}swordsmanship, magic power or secret{n}arts beyond the reach of common men,{n}was harsh in the extreme. Yet for those{n}saved from the jaws of death, joining the{n}Kido Corps was the only way to live, and{n}their one hope.{page}In time the three grew into the elite of{n}the elite, the finest fighters among{n}the orphans."
  },
  {
   "id": "s0136_01854",
@@ -1077,7 +1077,7 @@
    "カイ"
   ],
   "jp": "俺の記憶に少しだけ蘇ったそのお方の{n}面影は――魔雷妃に似ているのだ。{n}だが！　俺たち鬼道衆の仕える主は、{n}断じてあのような邪悪ではない！",
-  "en": "The image of that person that has come{n}back to my memory, just a little-- resembles{n}the Demon Thunder Queen. But! The lord we{n}of the Kido Corps serve is no such evil{page}being, I swear it!"
+  "en": "The image of that person that has come{n}back to my memory, just a little-- resembles{n}the Demon Thunder Queen. But!{page}The lord we of the Kido Corps serve is no{n}such evil being, I swear it!"
  },
  {
   "id": "s0136_01a00",
@@ -1149,7 +1149,7 @@
    "カイ"
   ],
   "jp": "だからこそ、確かめたいのだ！　俺の{n}記憶にあるあの方の姿が真実なのか、{n}それとも魔雷妃が本来の主なのかを！{n}それが、俺が樹棺城を目指す理由だ",
-  "en": "That's exactly why I want to confirm it! Is{n}that person in my memory real, or is the{n}Demon Thunder Queen the true lord!{page}That's why I'm heading for the Tree-Coffin{n}Castle."
+  "en": "That's exactly why I want to confirm it! Is{n}that person in my memory real, or is the{n}Demon Thunder Queen the true lord!{page}That's why I'm heading for the{n}Tree-Coffin Castle."
  },
  {
   "id": "s0136_01b24",
@@ -1221,7 +1221,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "情報を整理した一行は、ランの精神を{n}支配する催眠念波は、ヴァイの精神に{n}変調を来す馬頭石像の森が源ではない{n}かとの結論に達した。また、水妖の湖{n}が堰き止められた影響により、シーン{n}が城を目撃したもうひとつの湖の水位{n}に変化が生じた可能性もあった。",
-  "en": "After sorting through what they knew,{n}the party concluded that the hypnotic{n}mind waves ruling Ran might come from{n}the forest of horse-headed statues,{n}which unsettled Vai's mind. Also, the{n}damming of the water spirits' lake might{n}have changed the water level of the{page}other lake, where Sean had seen the{n}castle."
+  "en": "After sorting through what they knew,{n}the party concluded that the hypnotic{n}mind waves ruling Ran might come from{n}the forest of horse-headed statues,{n}which unsettled Vai's mind.{page}Also, the damming of the water spirits'{n}lake might have changed the water level{n}of the other lake, where Sean had seen{n}the castle."
  },
  {
   "id": "s0136_01cc4",
@@ -1317,6 +1317,6 @@
    "ラン"
   ],
   "jp": "龍樹へと続くであろう森の小径は、{n}呪力で封印された扉によって堅く閉ざ{n}されていた。錠を外す鍵がない限り、{n}こじ開けることもできそうにない。",
-  "en": "The forest path that must surely lead to{n}the Dragon Tree was shut tight by a door{n}sealed with a curse. Without a key to the{n}lock, it looked as if it could not be{n}forced."
+  "en": "The forest path that must surely lead to{n}the Dragon Tree was shut tight by a door{n}sealed with a curse. Without a key to the{n}lock, it looked as if it could not{n}be forced."
  }
 ]

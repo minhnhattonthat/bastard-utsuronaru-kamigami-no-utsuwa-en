@@ -69,7 +69,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "それしかねえだろう。肚ぁくくって{n}きりきり渡るぞ",
-  "en": "What else? Screw up your guts and get{n}moving."
+  "en": "What else? Screw up your guts and{n}get moving."
  },
  {
   "id": "s0064_008fc",
@@ -165,7 +165,7 @@
    "サイクス"
   ],
   "jp": "こちらが風神塔……と、なると{n}向こうは雷神塔になるかな",
-  "en": "So this is the Wind God Tower... Which would{n}make the one over there the Thunder God{n}Tower."
+  "en": "So this is the Wind God Tower... Which would{n}make the one over there the Thunder{n}God Tower."
  },
  {
   "id": "s0064_009c8",
@@ -477,7 +477,7 @@
    "マカパイン"
   ],
   "jp": "黙れ！　妖縛士の侮辱は許さんぞ！",
-  "en": "Silence! I will not stand for insults to demon{n}binders!"
+  "en": "Silence! I will not stand for insults to{n}demon binders!"
  },
  {
   "id": "s0064_00ffc",
@@ -621,7 +621,7 @@
    "ヴァイ"
   ],
   "jp": "ヨルグ！　オマエそいつに騙されて{n}いるんだって！　以前だってオマエを{n}放っといて逃げただろ。それに……",
-  "en": "Jorg! He's fooling you, I'm telling you! He{n}ditched you and ran last time too. And{n}besides..."
+  "en": "Jorg! He's fooling you, I'm telling you! He{n}ditched you and ran last time too.{n}And besides..."
  },
  {
   "id": "s0064_011d0",
@@ -741,7 +741,7 @@
    "ヨシュア"
   ],
   "jp": "その時、一行の背後から、ヨルグを{n}追って姿をくらませていたヨシュアが{n}姿を現した。",
-  "en": "Just then, Joshua, who had vanished in{n}pursuit of Jorg, appeared behind the{n}party."
+  "en": "Just then, Joshua, who had vanished in{n}pursuit of Jorg, appeared behind{n}the party."
  },
  {
   "id": "s0064_012fc",
@@ -813,7 +813,7 @@
    "ヨルグ"
   ],
   "jp": "知らぬ！　何故貴様は俺にそんな{n}ことを語る！　他人がどう生きようと{n}勝手ではないか。正義があるとすれば{n}それは自分が生き延びることだ！",
-  "en": "I know nothing of it! Why do you tell me{n}such things! How others live is their own{n}affair. If there is any justice, it is to{n}survive!"
+  "en": "I know nothing of it! Why do you tell me{n}such things! How others live is their own{n}affair. If there is any justice, it is{n}to survive!"
  },
  {
   "id": "s0064_01414",
@@ -1005,7 +1005,7 @@
    "マカパイン"
   ],
   "jp": "だが、私はあきらめんぞ！　もはや{n}鬼忍将など関係ない。Ｄ・Ｓ、私は{n}必ず貴様を倒す！　必ずだ！",
-  "en": "But I will not give up! The High Ninja no{n}longer matters. D.S., I will surely defeat you!{n}Surely!"
+  "en": "But I will not give up! The High Ninja no{n}longer matters. D.S., I will surely defeat{n}you! Surely!"
  },
  {
   "id": "s0064_0169c",
@@ -1029,7 +1029,7 @@
    "マカパイン"
   ],
   "jp": "叫び、マカパインは眼下の虚空へと{n}身を投げた。{page}しかしそれは死のダイヴなどではない。{n}送電線にくくられた鋼糸を伝い、{n}強風に煽られながら、マカパインは{n}蜘蛛のように谷底へと降りていく。",
-  "en": "With that cry, Macalpine threw himself{n}into the void below.{page}But it was no dive to his death. Following{n}the steel wire tied to the power line,{n}buffeted by the strong wind, Macalpine{n}descended to the valley floor like a{n}spider."
+  "en": "With that cry, Macalpine threw himself{n}into the void below.{page}But it was no dive to his death. Following{n}the steel wire tied to the power line,{n}buffeted by the strong wind, Macalpine{n}descended to the valley floor like{n}a spider."
  },
  {
   "id": "s0064_01754",
@@ -1173,7 +1173,7 @@
    "ヨシュア"
   ],
   "jp": "それだけの覚悟があって、何故思い{n}出すことができない？　恐れぬ心は{n}正義に、友情に殉ずる覚悟なくしては{n}持てぬはず！",
-  "en": "With such resolve, why can you not{n}remember? A heart without fear cannot{n}exist without the will to die for justice, for{n}friendship!"
+  "en": "With such resolve, why can you not{n}remember? A heart without fear cannot{n}exist without the will to die for justice,{n}for friendship!"
  },
  {
   "id": "s0064_0195c",
@@ -1629,7 +1629,7 @@
    "サイクス"
   ],
   "jp": "ヨルグの記憶を引き出すための{n}ショック療法だな",
-  "en": "Shock therapy to draw out Jorg's{n}memory."
+  "en": "Shock therapy to draw out{n}Jorg's memory."
  },
  {
   "id": "s0064_01ef0",
@@ -1869,7 +1869,7 @@
    "ヨルグ"
   ],
   "jp": "ヨシュア……判った。お前の代役、{n}きっと果たして見せよう",
-  "en": "Joshua... Understood. I will surely fill your{n}place."
+  "en": "Joshua... Understood. I will surely fill{n}your place."
  },
  {
   "id": "s0064_02218",
@@ -1965,7 +1965,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "湖岸で会った吟遊詩人の女を信用{n}するんならな",
-  "en": "If you believe that bard we met on the{n}lakeshore."
+  "en": "If you believe that bard we met on{n}the lakeshore."
  },
  {
   "id": "s0064_023b8",
@@ -2037,7 +2037,7 @@
    "ヨシュア"
   ],
   "jp": "そうか……ならばＤ・Ｓ、あなたは{n}何としても地龍を、鬼忍将の施した{n}封印から解き放って欲しい。それは{n}必ずあなたを利するよう働くだろう",
-  "en": "I see... Then, D.S., you must free the Earth{n}Dragon from the High Ninja's seal, whatever{n}it takes. That will surely work to your{n}advantage."
+  "en": "I see... Then, D.S., you must free the Earth{n}Dragon from the High Ninja's seal, whatever{n}it takes. That will surely work to{n}your advantage."
  },
  {
   "id": "s0064_0250c",
@@ -2061,7 +2061,7 @@
    "ヨシュア"
   ],
   "jp": "破界門のこともある。事態は急を{n}要する。砦への道を拓くには、{n}龍の解放が不可欠であるはずだ",
-  "en": "There is also the World-Breaker Gate.{n}Matters are urgent. To open the road to{n}the fort, freeing the dragon must be{n}essential."
+  "en": "There is also the World-Breaker Gate.{n}Matters are urgent. To open the road to{n}the fort, freeing the dragon must{n}be essential."
  },
  {
   "id": "s0064_02568",
@@ -2109,7 +2109,7 @@
    "ヨルグ"
   ],
   "jp": "心得た。再会を楽しみに待とう",
-  "en": "I understand. I will look forward to our next{n}meeting."
+  "en": "I understand. I will look forward to our{n}next meeting."
  },
  {
   "id": "s0064_025e8",

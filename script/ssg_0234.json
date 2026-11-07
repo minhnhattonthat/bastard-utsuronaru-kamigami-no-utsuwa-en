@@ -45,7 +45,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "目覚めると、そこは巨大な洞窟の中で{n}あった。否、その壁や床を構成する{n}のは体温を持つ生物の細胞であり、{n}大気の代わりに空間を満たしている{n}のはエーテル――そこは紛れもなく、{n}エーテルの海を潜航しつつある巨獣の{n}体内であった。",
-  "en": "He awoke in a huge cave. No: what made{n}up its walls and floor were living cells{n}with body heat, and what filled the space{n}in place of air was ether. Without{n}question, this was the inside of the great{n}beast as it swam through the sea of{n}ether."
+  "en": "He awoke in a huge cave. No: what made{n}up its walls and floor were living cells{n}with body heat, and what filled the space{n}in place of air was ether. Without{n}question, this was the inside of the great{n}beast as it swam through the sea{n}of ether."
  },
  {
   "id": "s0234_00900",
@@ -309,7 +309,7 @@
    "ヴァイ"
   ],
   "jp": "でも、バ・ソリーは喰われちまったん{n}だろうな……溶けちゃったのかな",
-  "en": "But I guess Ba Thory got eaten... Did he{n}dissolve?"
+  "en": "But I guess Ba Thory got eaten... Did{n}he dissolve?"
  },
  {
   "id": "s0234_00c84",
@@ -645,7 +645,7 @@
    "ボル"
   ],
   "jp": "かたじけない……。お命、頂戴――！",
-  "en": "This one is obliged... Your life, this one shall{n}have--!"
+  "en": "This one is obliged... Your life, this one{n}shall have--!"
  },
  {
   "id": "s0234_011c8",
@@ -765,7 +765,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "Ｄ・Ｓが突進するうちにも、魔道器の{n}点滅は加速度的に間隔を狭めていく。{page}ボルからそれを奪い取った瞬間には、{n}もはや点滅していることも判別できぬ{n}状態にあった。凝縮された魔力が膨れ{n}上がり、Ｄ・Ｓの手の中で目映い閃光{n}が疾る。魔道器の外殻が散弾となって{n}四散する――。",
-  "en": "Even as D.S. rushed forward, the intervals{n}between the device's flashes rapidly{n}shortened.{page}The moment he snatched it from Bol, its{n}flashing could no longer be told apart.{n}The condensed magic swelled, and a{n}dazzling flash burst in D.S.'s hand. The{n}device's shell flew apart like buckshot--"
+  "en": "Even as D.S. rushed forward, the intervals{n}between the device's flashes{n}rapidly shortened.{page}The moment he snatched it from Bol, its{n}flashing could no longer be told apart.{n}The condensed magic swelled, and a{n}dazzling flash burst in D.S.'s hand. The{n}device's shell flew apart like buckshot--"
  },
  {
   "id": "s0234_01434",
@@ -837,7 +837,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "結界の内壁はＤ・Ｓの鮮血で赤く染ま{n}った。やがて結界が解除され、大量の{n}血液と魔道器の破片が、肉の焦げた{n}臭気とともにバラバラと足下に落ちる。",
-  "en": "The inner wall of the barrier was stained{n}red with D.S.'s fresh blood. At last the{n}barrier was undone, and a great quantity{n}of blood and shards of the device fell at{n}his feet with a stench of scorched{n}flesh."
+  "en": "The inner wall of the barrier was stained{n}red with D.S.'s fresh blood. At last the{n}barrier was undone, and a great quantity{n}of blood and shards of the device fell at{n}his feet with a stench of{n}scorched flesh."
  },
  {
   "id": "s0234_015e4",
@@ -933,7 +933,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "その光景が、ボルを現実に引き戻した。{n}拳を白く固め、全身を震わせて、絞り{n}出すような声でボルは呟いた。",
-  "en": "The sight brought Bol back to reality. His{n}fists clenched white, his whole body{n}shaking, Bol muttered in a strangled{n}voice."
+  "en": "The sight brought Bol back to reality. His{n}fists clenched white, his whole body{n}shaking, Bol muttered in a{n}strangled voice."
  },
  {
   "id": "s0234_018c0",
@@ -1053,7 +1053,7 @@
    "ボル"
   ],
   "jp": "……いいや、それがしにはまだ、{n}信じられん……あのカル様が……",
-  "en": "...No, this one still cannot believe it... That{n}Kall-sama..."
+  "en": "...No, this one still cannot believe it...{n}That Kall-sama..."
  },
  {
   "id": "s0234_01aac",
@@ -1221,7 +1221,7 @@
    "ボル"
   ],
   "jp": "うおおおーん……か、かたじけのう{n}ござるー",
-  "en": "Uooooon... This one is o-obliged to you,{n}forsooth!"
+  "en": "Uooooon... This one is o-obliged to{n}you, forsooth!"
  },
  {
   "id": "s0234_01da0",
@@ -1605,7 +1605,7 @@
    "ジオン"
   ],
   "jp": "――異次元に飛ばされたショックで、{n}少し記憶が戻ってな。いい思い出も{n}あれば、嫌な思い出もある……",
-  "en": "--The shock of being thrown into another{n}dimension brought back some of my memory.{n}There are good memories, and there are{n}bad..."
+  "en": "--The shock of being thrown into another{n}dimension brought back some of my memory.{n}There are good memories, and there{n}are bad..."
  },
  {
   "id": "s0234_025c8",
@@ -1821,7 +1821,7 @@
    "シェラ"
   ],
   "jp": "ジオン……？　魔戦将軍に同じ名の{n}魔剣士がいたように思ったが……。{n}影流とやらは侍剣法の流派――魔剣士{n}とは相容れぬ。人違いか……",
-  "en": "Zion...? I believe there was a demon{n}swordsman of the same name among the{n}Sorcerer Generals... But the Shadow School{n}is a samurai sword style, incompatible with{page}demon swordsmen. It must be someone{n}else..."
+  "en": "Zion...? I believe there was a demon{n}swordsman of the same name among the{n}Sorcerer Generals...{page}But the Shadow School is a samurai sword{n}style, incompatible with demon swordsmen.{n}It must be someone else..."
  },
  {
   "id": "s0234_02bc0",
@@ -2013,7 +2013,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "一行は巨獣の凄まじいくしゃみに巻き{n}込まれ、爆発的に放出されるエーテル{n}流に乗って口から外へと射出された。",
-  "en": "Caught in the great beast's terrific{n}sneeze, the party rode the explosive rush{n}of ether and were shot out of its{n}mouth."
+  "en": "Caught in the great beast's terrific{n}sneeze, the party rode the explosive rush{n}of ether and were shot out of{n}its mouth."
  },
  {
   "id": "s0234_02e08",

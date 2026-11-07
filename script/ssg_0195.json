@@ -93,7 +93,7 @@
    "カイ"
   ],
   "jp": "魔雷妃!?　この妖気は――",
-  "en": "The Demon Thunder Queen!? This demonic{n}aura--"
+  "en": "The Demon Thunder Queen!? This{n}demonic aura--"
  },
  {
   "id": "s0195_00a64",
@@ -717,7 +717,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "“馬鹿な！　この女が自分で幻体を{n}作り出すなんて！　夢幻鏡の影響{n}か!?”",
-  "en": "\"Impossible! This woman making a phantom by{n}herself! Is it the Dream Mirror's{n}influence!?\""
+  "en": "\"Impossible! This woman making a phantom by{n}herself! Is it the Dream{n}Mirror's influence!?\""
  },
  {
   "id": "s0195_011e4",
@@ -789,7 +789,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "三姉妹の言葉を吐きながら、魔雷妃は{n}身を翻して広間から逃げ去った。幼女{n}の幻影も、霞むように消えていく。{page}最後に、Ｄ・Ｓへの無垢な笑みを{n}残して――。",
-  "en": "Speaking the three sisters' words, the{n}Demon Thunder Queen whirled and fled{n}the hall. The phantom of the little girl,{n}too, faded like mist.{page}Leaving, at the last, an innocent smile for{n}D.S.--."
+  "en": "Speaking the three sisters' words, the{n}Demon Thunder Queen whirled and fled{n}the hall. The phantom of the little girl,{n}too, faded like mist.{page}Leaving, at the last, an innocent smile{n}for D.S.--."
  },
  {
   "id": "s0195_01348",
@@ -933,7 +933,7 @@
    ""
   ],
   "jp": "前方に、淡く輝く円形の鏡らしきもの{n}が見える――そう気づいた時、視界は{n}深い闇に包まれた。現実に周囲が暗く{n}なったのではない。それは視覚を狂わ{n}せる幻影の一種であり、視神経に直接{n}送り込まれてくる闇の映像であった。",
-  "en": "Ahead they could see what looked like a{n}round mirror, faintly glowing. The moment{n}they noticed it, their sight was wrapped in{n}deep darkness. It had not truly grown{n}dark around them. It was a kind of illusion{n}that deranged the sight, an image of{n}darkness sent straight into the optic{n}nerves."
+  "en": "Ahead they could see what looked like a{n}round mirror, faintly glowing. The moment{n}they noticed it, their sight was wrapped in{n}deep darkness. It had not truly grown{n}dark around them. It was a kind of illusion{n}that deranged the sight, an image of{n}darkness sent straight into the{n}optic nerves."
  },
  {
   "id": "s0195_018d0",
@@ -957,7 +957,7 @@
    ""
   ],
   "jp": "その漆黒の向こうから、ひとりの少年{n}が歩み寄ってくる。光のない空間で、{n}その姿だけが不自然に浮かび上がって{n}見える。",
-  "en": "From beyond that blackness a single boy{n}walked toward them. In the lightless{n}space his form alone stood out{n}unnaturally."
+  "en": "From beyond that blackness a single boy{n}walked toward them. In the lightless{n}space his form alone stood{n}out unnaturally."
  },
  {
   "id": "s0195_01944",
@@ -1101,7 +1101,7 @@
    "ヨルグ"
   ],
   "jp": "鉈が鈍い風切り音をあげて振り抜か{n}れる。その刹那、厚い刃で肌を裂か{n}れる感覚が一行を襲った。{page}現実の傷ではない。痛覚に直接訴え{n}かける擬似的な傷であったが、その{n}痛みは一瞬であれ本物であった。{n}受け続けたなら、ショック死しかね{n}ない危険な幻覚であった。",
-  "en": "The machete swung through with a dull{n}rush of air. In that instant the party felt{n}the sensation of a thick blade splitting{n}their skin.{page}It was no real wound. It was a false{n}wound that spoke straight to the sense{n}of pain, yet that pain, however brief, was{n}real. Suffered again and again, it was a{n}dangerous illusion that could kill by{n}shock."
+  "en": "The machete swung through with a dull{n}rush of air. In that instant the party felt{n}the sensation of a thick blade splitting{n}their skin.{page}It was no real wound. It was a false{n}wound that spoke straight to the sense{n}of pain, yet that pain, however brief, was{n}real. Suffered again and again, it was a{n}dangerous illusion that could kill{n}by shock."
  },
  {
   "id": "s0195_01b6c",
@@ -1366,7 +1366,7 @@
    "ヨルグ"
   ],
   "jp": "だが、幻覚を止めるにはそれしか{n}あるまい",
-  "en": "But that is the only way to stop the{n}illusion."
+  "en": "But that is the only way to stop{n}the illusion."
  },
  {
   "id": "s0195_01d80",
@@ -1390,7 +1390,7 @@
    "ヨシュア"
   ],
   "jp": "危険だ。他の方法を探すべき……",
-  "en": "It is dangerous. We should seek another{n}way..."
+  "en": "It is dangerous. We should seek{n}another way..."
  },
  {
   "id": "s0195_01da0",
@@ -1558,7 +1558,7 @@
    "ヨシュア"
   ],
   "jp": "ヨルグが立ち向かおうとしている苦痛{n}に比べれば、幻覚の痛みなどさほども{n}ない。俺は、見届けねばならん――。{n}あなたこそ、近づき過ぎだ",
-  "en": "Next to the anguish Jorg is about to face,{n}the pain of an illusion is nothing. I must see{n}this through--. It is you who stand too{n}close."
+  "en": "Next to the anguish Jorg is about to face,{n}the pain of an illusion is nothing. I must see{n}this through--. It is you who stand{n}too close."
  },
  {
   "id": "s0195_01fb8",
@@ -1630,7 +1630,7 @@
    "マカパイン"
   ],
   "jp": "ヨルグの心の隙につけ込んでいた身だ。{n}私も、安全な場所から見守るという{n}わけにはいかんな",
-  "en": "I was one who preyed on the gap in Jorg's{n}heart. I too cannot watch from a safe{n}place."
+  "en": "I was one who preyed on the gap in Jorg's{n}heart. I too cannot watch from a{n}safe place."
  },
  {
   "id": "s0195_020cc",
@@ -1846,7 +1846,7 @@
    "ヨシュア"
   ],
   "jp": "これが――ヨルグの心の痛みなのか。{n}俺に隠して、自分を苦しめてきたのか！{n}ヨルグよ！　くうっ……！",
-  "en": "So this--this is the pain in Jorg's heart. He{n}hid it from me, and tormented himself! Jorg!{n}Ngh...!"
+  "en": "So this--this is the pain in Jorg's heart. He{n}hid it from me, and tormented himself!{n}Jorg! Ngh...!"
  },
  {
   "id": "s0195_024f8",
@@ -2182,7 +2182,7 @@
    "ヨシュア"
   ],
   "jp": "何も言わなくていい。俺たちは全て{n}観ていたんだ……お前は、許すことが{n}できたんだな。あの頃の、自分を……",
-  "en": "You need say nothing. We saw it all... You{n}were able to forgive him. Your self of those{n}days..."
+  "en": "You need say nothing. We saw it all... You{n}were able to forgive him. Your self of{n}those days..."
  },
  {
   "id": "s0195_02ba0",
@@ -2374,7 +2374,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "さっきのチビの幻影も、魔雷妃が{n}あの鏡に影響されて生み出したものか。{n}夢幻鏡、とか言ってやがった。人の{n}深層意識から幻を投射するようだな",
-  "en": "Guess that runt's phantom before was{n}something the Demon Thunder Queen made{n}under that mirror's influence. They called it{n}the Dream Mirror. Looks like it projects{page}illusions from people's deep minds."
+  "en": "Guess that runt's phantom before was{n}something the Demon Thunder Queen made{n}under that mirror's influence. They called it{n}the Dream Mirror.{page}Looks like it projects illusions from people's{n}deep minds."
  },
  {
   "id": "s0195_02e78",
@@ -2398,7 +2398,7 @@
    "ヨシュア"
   ],
   "jp": "それが、ヨルグの意識から少年の姿を{n}写し取ったのか――",
-  "en": "So it copied the boy's form from Jorg's{n}mind--"
+  "en": "So it copied the boy's form from{n}Jorg's mind--"
  },
  {
   "id": "s0195_02eb0",
@@ -2542,7 +2542,7 @@
    "ヨルグ"
   ],
   "jp": "それ故に指南役は信望も厚く、そして{n}例外なく存在する、それを妬む姦悪な{n}輩の罠に落とされた。不忠義の汚名を{n}着せられた父は幼いヨルグとともに{n}国を逐われ、旅路の果てに胸を病んで{n}無念のうちに死んでいった。",
-  "en": "For that reason the master enjoyed deep{n}trust, and so, without exception, there{n}were those who envied him, and he fell{n}into the trap of such villains. Branded{n}with the shame of disloyalty, his father{n}was driven from the land together with{n}the young Jorg, and at the end of his{page}travels he died of a chest ailment, his{n}hopes unfulfilled."
+  "en": "For that reason the master enjoyed deep{n}trust, and so, without exception, there{n}were those who envied him, and he fell{n}into the trap of such villains.{page}Branded with the shame of disloyalty, his{n}father was driven from the land together{n}with the young Jorg, and at the end of{n}his travels he died of a chest ailment, his{n}hopes unfulfilled."
  },
  {
   "id": "s0195_03168",
@@ -2758,7 +2758,7 @@
    "ヨルグ"
   ],
   "jp": "友が逐われたことを知り、その消息を{n}八方に手を尽くして調べるうち、野盗{n}と行動をともにする南方系の少年の噂{n}を耳にしたのであった。かつての大戦{n}の勇者であり、要職にあったミフネが{n}わざわざ野盗狩りに同行したのは、{n}無念に死した友の息子だけは何として{n}も救おうと誓ったが故である。",
-  "en": "Learning that his friend had been driven{n}out, he had searched for news of him by{n}every means, and in time heard rumor of{n}a southern-looking boy traveling with{n}bandits. Mifune, a hero of the great war{n}who held high office, had gone out of his{n}way to join a bandit hunt because he had{n}sworn to save at least the son of a{page}friend who died in bitterness."
+  "en": "Learning that his friend had been driven{n}out, he had searched for news of him by{n}every means, and in time heard rumor of{n}a southern-looking boy traveling{n}with bandits.{page}Mifune, a hero of the great war who held{n}high office, had gone out of his way to{n}join a bandit hunt because he had sworn{n}to save at least the son of a friend who{n}died in bitterness."
  },
  {
   "id": "s0195_037cc",
@@ -2782,7 +2782,7 @@
    "ヨルグ"
   ],
   "jp": "処刑から救われたヨルグは、しかし{n}決して心を開こうとはしなかった。{n}この時の彼にとって、全ての人間は{n}彼を裏切り、奪おうとする存在であり、{n}とりわけ侍は父を陥れた者たちの同類{n}――憎悪の対象であったのだ。",
-  "en": "Though saved from execution, Jorg would{n}not open his heart. To him at that time,{n}every human being was one who would{n}betray him and rob him, and samurai{n}above all were the kin of those who had{n}ruined his father: the very objects of his{n}hatred."
+  "en": "Though saved from execution, Jorg would{n}not open his heart. To him at that time,{n}every human being was one who would{n}betray him and rob him, and samurai{n}above all were the kin of those who had{n}ruined his father: the very objects of{n}his hatred."
  },
  {
   "id": "s0195_03898",
@@ -2806,7 +2806,7 @@
    "ヨルグ"
   ],
   "jp": "だが、父譲りの才を認められたヨルグ{n}は、ミフネによって半ば強制的に道場{n}へと入門させられた。未来の侍を育て{n}るべく設けられた、少年たちの修行の{n}場である。同世代の子供たちとの共同{n}生活を余儀なくすることで、頑なな{n}彼の心を少しでも解きほぐそうとする{n}ミフネの配慮であった。",
-  "en": "But Jorg's talent, inherited from his{n}father, was recognized, and Mifune all{n}but forced him to enter a training hall, a{n}place of discipline for boys, set up to{n}raise future samurai. By making him live{n}among children his own age, Mifune hoped{n}to thaw that stubborn heart even a{n}little."
+  "en": "But Jorg's talent, inherited from his{n}father, was recognized, and Mifune all{n}but forced him to enter a training hall, a{n}place of discipline for boys, set up to{n}raise future samurai. By making him live{n}among children his own age, Mifune hoped{n}to thaw that stubborn heart even{n}a little."
  },
  {
   "id": "s0195_039a4",
@@ -2830,7 +2830,7 @@
    "ヨルグ"
   ],
   "jp": "野盗であったという噂は、口さがない{n}者たちによってすでに伝わっていた。{page}少年たちはヨルグを遠巻きに見るばか{n}りで、彼自身も自分から近づこうとは{n}考えなかった。そこでも彼は孤独で、{n}憎悪を紛らわすためだけに、ただただ{n}剣とクォッ・ポーの腕を磨き続けた。",
-  "en": "Rumor that he had been a bandit had{n}already spread by way of wagging{n}tongues.{page}The boys only watched Jorg from a{n}distance, and he himself never thought of{n}going near them. There too he was alone,{n}and purely to distract himself from his{n}hatred, he simply went on honing his{n}sword and his Kwa Po."
+  "en": "Rumor that he had been a bandit had{n}already spread by way of{n}wagging tongues.{page}The boys only watched Jorg from a{n}distance, and he himself never thought of{n}going near them. There too he was alone,{n}and purely to distract himself from his{n}hatred, he simply went on honing his{n}sword and his Kwa Po."
  },
  {
   "id": "s0195_03a9c",
@@ -2854,7 +2854,7 @@
    "ヨルグ"
   ],
   "jp": "そんな生活を続けるうちに、俺は{n}ヨシュアと出会った――",
-  "en": "It was while I lived that way that I met{n}Joshua--"
+  "en": "It was while I lived that way that I{n}met Joshua--"
  },
  {
   "id": "s0195_03ad4",
@@ -3022,7 +3022,7 @@
    "ヨルグ"
   ],
   "jp": "その日、そうした事件があったことを{n}耳にしたヨルグが見たのは、多勢を{n}相手の喧嘩で全身に打撲を負いながら、{n}深夜の道場で鍛錬に励むヨシュアの姿{n}であった。これを契機に、ヨルグの心{n}の氷は少しずつ融け始める――。",
-  "en": "That day Jorg heard what had happened.{n}What he then saw, late at night in the{n}training hall, was Joshua, his whole body{n}bruised from fighting so many, hard at his{n}practice. From that moment, the ice in{n}Jorg's heart began little by little to{n}melt--"
+  "en": "That day Jorg heard what had happened.{n}What he then saw, late at night in the{n}training hall, was Joshua, his whole body{n}bruised from fighting so many, hard at his{n}practice. From that moment, the ice in{n}Jorg's heart began little by little{n}to melt--"
  },
  {
   "id": "s0195_03fec",
@@ -3238,7 +3238,7 @@
    "ヨルグ"
   ],
   "jp": "中に何があるのか――。う……妙だ？{n}何か感じる……",
-  "en": "What could be inside--? Ugh... strange. I feel{n}something..."
+  "en": "What could be inside--? Ugh... strange. I{n}feel something..."
  },
  {
   "id": "s0195_04ce8",
@@ -3286,7 +3286,7 @@
    "シェラ"
   ],
   "jp": "私のは霊感ではない！　自然との{n}交感だと言っているだろう！　そんな{n}風に言われるとインチキ臭くなるでは{n}ないか！",
-  "en": "What I have is not a sixth sense! It is{n}communion with nature, as I keep telling{n}you! You make it sound like some charlatan's{n}trick!"
+  "en": "What I have is not a sixth sense! It is{n}communion with nature, as I keep telling{n}you! You make it sound like some{n}charlatan's trick!"
  },
  {
   "id": "s0195_04dc0",
@@ -3478,7 +3478,7 @@
    "ヨルグ"
   ],
   "jp": "……これは紛れもなく、野盗時代の{n}俺が手にしていた山刀だ。刃こぼれや{n}傷――それに血の痕まで、全て俺の{n}記憶と一緒だ……",
-  "en": "...This is without doubt the machete I held in{n}my bandit days. The chips, the scars, even{n}the bloodstains: all of it just as I{n}remember..."
+  "en": "...This is without doubt the machete I held in{n}my bandit days. The chips, the scars, even{n}the bloodstains: all of it just as{n}I remember..."
  },
  {
   "id": "s0195_04ff4",
@@ -3526,7 +3526,7 @@
    "ヨルグ"
   ],
   "jp": "ヨシュア……俺は記憶を失う以前、{n}どんなことでもお前に話してきたと{n}思う。だが、どうしても打ち明けられ{n}なかったことがひとつあった――",
-  "en": "Joshua... before I lost my memory, I believe{n}I told you everything. But there was one{n}thing I could never bring myself to{n}confess--"
+  "en": "Joshua... before I lost my memory, I believe{n}I told you everything. But there was one{n}thing I could never bring myself{n}to confess--"
  },
  {
   "id": "s0195_050c8",
@@ -3622,7 +3622,7 @@
    "ヨルグ"
   ],
   "jp": "あの時、あいつはアジトから真っ先に{n}逃げようとした。蓄えた金目のものを{n}集め、仲間には徹底抗戦を命じて、{n}裏側の出口から独り脱出を図った――",
-  "en": "That time, he was the first to try to run{n}from the hideout. He gathered up the{n}valuables they'd stored, ordered his men to{n}fight to the last, and tried to slip out{page}alone through the back way--"
+  "en": "That time, he was the first to try to run{n}from the hideout.{page}He gathered up the valuables they'd stored,{n}ordered his men to fight to the last, and{n}tried to slip out alone through the{n}back way--"
  },
  {
   "id": "s0195_05230",
@@ -3694,7 +3694,7 @@
    "ヨルグ"
   ],
   "jp": "俺の目の前で裏口に取り付き、錠を{n}外そうと躍起になっていた。無防備な{n}背を向けて……。俺は憎悪に駆られて、{n}後ろから、頭に、この刀を……おお！",
-  "en": "Right in front of me he was at the back{n}door, frantic to get the lock off. His{n}defenseless back to me... Driven by{page}hatred, from behind, into his head, with this{n}blade... oh!"
+  "en": "Right in front of me he was at the back{n}door, frantic to get the lock off. His{n}defenseless back to me...{page}Driven by hatred, from behind, into his head,{n}with this blade... oh!"
  },
  {
   "id": "s0195_05388",
@@ -3862,7 +3862,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "あの鏡は、そいつの持つトラウマを{n}反射して強い幻影を生み出してやがる{n}んだ。それが深けりゃ深いほど、{n}強力に反射してな――",
-  "en": "That mirror reflects a guy's trauma back at{n}him and makes a strong phantom out of it.{n}The deeper the trauma, the stronger the{n}reflection--"
+  "en": "That mirror reflects a guy's trauma back at{n}him and makes a strong phantom out of it.{n}The deeper the trauma, the stronger{n}the reflection--"
  },
  {
   "id": "s0195_055e0",
@@ -4054,7 +4054,7 @@
    "ブラド"
   ],
   "jp": "回廊を塞ぐように、巨漢ブラドが立ち{n}往生していた。複雑な城の構造に幻惑{n}され、またしても迷っているようで{n}あった。",
-  "en": "Blocking the corridor, the giant Blad stood{n}at a loss. Bewildered by the castle's maze{n}of passages, he was evidently lost yet{n}again."
+  "en": "Blocking the corridor, the giant Blad stood{n}at a loss. Bewildered by the castle's maze{n}of passages, he was evidently lost{n}yet again."
  },
  {
   "id": "s0195_05cf0",
@@ -4174,7 +4174,7 @@
    "ブラド"
   ],
   "jp": "人生これ修行！　迷い、壁に当たる{n}ことも騎士への道の肥やしなのだ。{n}誘いは有り難く受け取っておこう！{n}ワシはあくまで独力で切り開く！",
-  "en": "Life is all training! Wandering and hitting{n}walls are fertilizer on the road to{n}knighthood. I gratefully accept your{page}invitation in spirit! I shall carve my own{n}path, alone!"
+  "en": "Life is all training! Wandering and hitting{n}walls are fertilizer on the road to{n}knighthood. I gratefully accept your{n}invitation in spirit!{page}I shall carve my own path, alone!"
  },
  {
   "id": "s0195_05e20",

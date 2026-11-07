@@ -213,7 +213,7 @@
    "ボル"
   ],
   "jp": "なんと！　それがしはそんな真似を{n}しでかしていたでござるか！",
-  "en": "What! This one committed such an act,{n}forsooth!"
+  "en": "What! This one committed such an{n}act, forsooth!"
  },
  {
   "id": "s0108_009e8",
@@ -309,7 +309,7 @@
    "ボル"
   ],
   "jp": "今はかように濡れネズミの情けない{n}姿でござるが、それがし、必ずお役に{n}立ってみせるでござる。何卒、ご恩を{n}返す機会をくだされ！",
-  "en": "Now this one is a wretched sight, a drowned{n}rat as you see, but this one shall surely{n}prove useful, forsooth. Please, good sirs,{page}grant this one a chance to repay your{n}kindness!"
+  "en": "Now this one is a wretched sight, a drowned{n}rat as you see, but this one shall surely{n}prove useful, forsooth.{page}Please, good sirs, grant this one a chance to{n}repay your kindness!"
  },
  {
   "id": "s0108_00c9c",
@@ -333,7 +333,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "そーゆー暑苦しーのは苦手なんだよ。{n}ついてきたきゃ勝手にしろい。オメエ{n}以外はたいがいそんなヤツばっかだぜ",
-  "en": "I can't stand that sweaty, earnest stuff.{n}Follow us if you want. Everyone here but{n}you is pretty much that kind of guy{n}anyway."
+  "en": "I can't stand that sweaty, earnest stuff.{n}Follow us if you want. Everyone here but{n}you is pretty much that kind of{n}guy anyway."
  },
  {
   "id": "s0108_00d08",

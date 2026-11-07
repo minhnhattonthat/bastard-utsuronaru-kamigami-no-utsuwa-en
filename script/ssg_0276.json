@@ -21,7 +21,7 @@
    ""
   ],
   "jp": "宮殿の内部は、奇妙に息苦しい波動に{n}満たされていた。可聴域外を不協和音{n}が流れているような、調律の狂った{n}音波――そんな波動が、エーテルを{n}通じて全身を幽かに震わせている。",
-  "en": "The inside of the palace was filled with{n}oddly stifling waves. Off-key sound, like{n}dissonance flowing beyond hearing, faintly{n}shook their whole bodies through the{n}ether."
+  "en": "The inside of the palace was filled with{n}oddly stifling waves. Off-key sound, like{n}dissonance flowing beyond hearing, faintly{n}shook their whole bodies through{n}the ether."
  },
  {
   "id": "s0276_008c4",
@@ -141,7 +141,7 @@
    "ラン"
   ],
   "jp": "現れたのは、魔戦将軍の中でも最も{n}純粋に武器を用いた白兵戦闘に秀でた{n}戦士ランであった。その目的は明らか{n}に、この地の探索を始めたＤ・Ｓたち{n}の抹殺である。忠誠を誓った至高王と、{n}短い間ながらもともに戦った仲間――{n}そして実の妹との間に挟まれ、ランの{n}端正な貌は苦悩に翳った。",
-  "en": "Who appeared was Ran, the warrior who{n}among all the Sorcerer Generals excelled{n}most purely at hand-to-hand fighting with{n}weapons. His aim was clearly to slay D.S.{n}and the others, who had begun to search{n}this place. Caught between the High King{n}he had sworn to, his comrades of a short{n}time, and his own sister, Ran's fine face{page}was clouded with anguish."
+  "en": "Who appeared was Ran, the warrior who{n}among all the Sorcerer Generals excelled{n}most purely at hand-to-hand fighting with{n}weapons. His aim was clearly to slay D.S.{n}and the others, who had begun to search{n}this place.{page}Caught between the High King he had{n}sworn to, his comrades of a short time,{n}and his own sister, Ran's fine face was{n}clouded with anguish."
  },
  {
   "id": "s0276_00af8",
@@ -189,7 +189,7 @@
    "ラン"
   ],
   "jp": "そう……もはや黒騎士ではない。だが、{n}俺は自分の意志でカル様に従う。{n}ネイ様のもとを去った後、俺の{n}生き甲斐はカル様とともにあった――",
-  "en": "No... I am no longer the Black Knight. But I{n}follow Kall-sama of my own will. After I left{n}Nei-sama, I found my reason to live with{n}Kall-sama--"
+  "en": "No... I am no longer the Black Knight. But I{n}follow Kall-sama of my own will. After I left{n}Nei-sama, I found my reason to live{n}with Kall-sama--"
  },
  {
   "id": "s0276_00bbc",
@@ -261,7 +261,7 @@
    "ラン"
   ],
   "jp": "く……太刀筋が鈍い。俺はまだ迷って{n}いるのか……？",
-  "en": "Ngh... My strokes are sluggish. Do I still{n}waver...?"
+  "en": "Ngh... My strokes are sluggish. Do I{n}still waver...?"
  },
  {
   "id": "s0276_00c54",
@@ -382,7 +382,7 @@
    "ラン"
   ],
   "jp": "ここは退かせてもらう、Ｄ・Ｓよ。{n}次に遭う時は、迷いなき太刀にて{n}臨ませてもらおう――",
-  "en": "I shall withdraw for now, D.S. Next time we{n}meet, I shall face you with an unwavering{n}sword--"
+  "en": "I shall withdraw for now, D.S. Next time we{n}meet, I shall face you with an{n}unwavering sword--"
  },
  {
   "id": "s0276_00de0",
@@ -478,7 +478,7 @@
    "ラン"
   ],
   "jp": "現れたのは、魔戦将軍の中でも最も{n}純粋に武器を用いた白兵戦闘に秀でた{n}戦士ランであった。その目的は明らか{n}に、この地の探索を始めたＤ・Ｓたち{n}の抹殺である。忠誠を誓った至高王と、{n}短い間ながらもともに戦った仲間――{n}そして幼なじみのカイとの間に挟まれ、{n}ランの端正な貌は苦悩に翳った。",
-  "en": "Who appeared was Ran, the warrior who{n}among all the Sorcerer Generals excelled{n}most purely at hand-to-hand fighting with{n}weapons. His aim was clearly to slay D.S.{n}and the others, who had begun to search{n}this place. Caught between the High King{n}he had sworn to, his comrades of a short{n}time, and his childhood friend Kai, Ran's{page}fine face was clouded with anguish."
+  "en": "Who appeared was Ran, the warrior who{n}among all the Sorcerer Generals excelled{n}most purely at hand-to-hand fighting with{n}weapons. His aim was clearly to slay D.S.{n}and the others, who had begun to search{n}this place.{page}Caught between the High King he had{n}sworn to, his comrades of a short time,{n}and his childhood friend Kai, Ran's fine{n}face was clouded with anguish."
  },
  {
   "id": "s0276_00f6c",

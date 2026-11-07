@@ -69,7 +69,7 @@
    ""
   ],
   "jp": "眼前に半透明の、巨大な岩塊の幻影が{n}通路を塞いで浮かび上がっていた。{page}それは幻でありながら、硬質な触感を{n}持って存在していた。小揺るぎもせぬ{n}幻影の壁に阻まれ、彼らはそこから{n}先に進むことはできなかった。",
-  "en": "Before them floated the translucent{n}phantom of a huge boulder, blocking the{n}passage.{page}Illusion though it was, it had a hard feel{n}to it. Barred by the unshakable phantom{n}wall, they could go no further."
+  "en": "Before them floated the translucent{n}phantom of a huge boulder, blocking{n}the passage.{page}Illusion though it was, it had a hard feel{n}to it. Barred by the unshakable phantom{n}wall, they could go no further."
  },
  {
   "id": "s0026_00ac0",
@@ -237,7 +237,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "すぐ虚像が更新されちまうから、{n}破壊も移動も不可能。およそ厄介な{n}結界だぜ",
-  "en": "The illusion refreshes right away, so you{n}can't break it or move it. One hell of a nasty{n}barrier."
+  "en": "The illusion refreshes right away, so you{n}can't break it or move it. One hell of a{n}nasty barrier."
  },
  {
   "id": "s0026_00cdc",
@@ -261,7 +261,7 @@
    "ボル"
   ],
   "jp": "突破不可能ということでござるか？",
-  "en": "Then it cannot be broken through,{n}forsooth?"
+  "en": "Then it cannot be broken{n}through, forsooth?"
  },
  {
   "id": "s0026_00d00",
@@ -382,7 +382,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "だとすりゃ、考えられるのはあの神殿{n}の中なんだが……",
-  "en": "In that case, the likeliest spot is inside that{n}temple..."
+  "en": "In that case, the likeliest spot is inside{n}that temple..."
  },
  {
   "id": "s0026_00e94",
@@ -430,7 +430,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "どうにもまだ、海岸線の探索が不完全{n}な気がしてならねえ。先にそっちを{n}確かめてみることにしよう",
-  "en": "I can't shake the feeling we didn't finish{n}searching the coastline. Let's check that out{n}first."
+  "en": "I can't shake the feeling we didn't finish{n}searching the coastline. Let's check that{n}out first."
  },
  {
   "id": "s0026_00f08",
@@ -454,7 +454,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "だとすりゃ、考えられるのはあの神殿{n}の中だよな",
-  "en": "In that case, the likeliest spot is inside that{n}temple."
+  "en": "In that case, the likeliest spot is inside{n}that temple."
  },
  {
   "id": "s0026_00f38",

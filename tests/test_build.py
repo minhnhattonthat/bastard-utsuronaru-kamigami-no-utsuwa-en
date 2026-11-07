@@ -18,7 +18,18 @@ def test_wrap_gives_a_lone_last_word_company():
     e = {"id": "s0000_00000", "jp": "x", "fn": [624], "kind": "text", "en": ""}
     text = "In dimensional terms it appears to be a single, isolated world. Even the subspace I travel in has no access to anywhere but this world. And we have been cast out into it."
     pages = batches.wrap(text, e).split("{page}")
-    assert pages[-1].split("{n}")[-1] == "into it."
+    assert all(" " in p.split("{n}")[-1] for p in pages)
+
+
+def test_wrap_ends_a_page_on_a_full_sentence_when_it_can():
+    e = {"id": "s0000_00000", "jp": "x", "fn": [624], "kind": "text", "en": ""}
+    text = "Pretty organic, ain't it. So this walking fort's a kind of living weapon. And since it's got its own spirit reactor, it's packing some super-destructive weapon beyond nuclear power, too."
+    assert batches.wrap(text, e).split("{page}")[0].endswith("living weapon.")
+
+
+def test_battle_log_top_row_is_one_line():
+    e = {"id": "ov1_00000", "jp": "[01]%sの魔法攻撃！%M%z%z", "kind": "text", "en": ""}
+    assert batches.box(e)[:2] == (216, 1)
 
 
 def test_wrap_ends_a_page_early_rather_than_leave_a_word_or_two():

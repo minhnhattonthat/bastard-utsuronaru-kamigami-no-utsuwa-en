@@ -21,7 +21,7 @@
    ""
   ],
   "jp": "風力による送電は断たれているが、{n}この塔自体に蓄電能力があるのか、{n}内部の電気的装置はまだ問題なく作動{n}しているようであった。{page}構造は風神塔と酷似しており、この{n}塔が風神と対になる鬼神の名を冠して{n}雷神塔と呼ばれるであろうことは{n}容易に想像できた。",
-  "en": "The wind-driven power had been cut, but{n}the tower itself seemed able to store{n}current, for the electrical devices inside{n}still appeared to be working without{n}trouble.{page}Its structure closely resembled that of{n}the Wind God Tower, and it was easy to{n}imagine that this one bore the name of{n}the fierce god paired with the wind god,{n}and was called the Thunder God Tower."
+  "en": "The wind-driven power had been cut, but{n}the tower itself seemed able to store{n}current, for the electrical devices inside{n}still appeared to be working{n}without trouble.{page}Its structure closely resembled that of{n}the Wind God Tower, and it was easy to{n}imagine that this one bore the name of{n}the fierce god paired with the wind god,{n}and was called the Thunder God Tower."
  },
  {
   "id": "s0072_00960",
@@ -45,7 +45,7 @@
    ""
   ],
   "jp": "通路の暗がりから、獣のような荒い{n}息が響く。ぎらりと光を反射するのは{n}こちらを凝視する目か、それとも研ぎ{n}すまされた鋼の刃か――。",
-  "en": "From the darkness of the passage echoed{n}rough breathing like a beast's. Was that{n}glint of reflected light the eyes staring{n}at them, or a keenly honed steel{n}blade--"
+  "en": "From the darkness of the passage echoed{n}rough breathing like a beast's. Was that{n}glint of reflected light the eyes staring{n}at them, or a keenly honed{n}steel blade--"
  },
  {
   "id": "s0072_009e4",
@@ -69,7 +69,7 @@
    ""
   ],
   "jp": "闇の向こうから、突如として鋭い斬撃{n}が襲った。牙を噛み鳴らす肉食獣の顎{n}を彷彿させる、熱風の如き殺気籠もる{n}一撃であった。",
-  "en": "Out of the darkness came a sudden, sharp{n}slash. It was a blow charged with{n}bloodlust like a hot wind, calling to mind{n}the jaws of a carnivore gnashing its{n}fangs."
+  "en": "Out of the darkness came a sudden, sharp{n}slash. It was a blow charged with{n}bloodlust like a hot wind, calling to mind{n}the jaws of a carnivore gnashing{n}its fangs."
  },
  {
   "id": "s0072_00a60",
@@ -691,7 +691,7 @@
    "ジオン"
   ],
   "jp": "……聞けば貴殿らは砦に打ち入り、{n}囚われの姫を救う心算とか。我ら兄弟、{n}剣にいささか心得がある。せめてもの{n}礼に、暫し同道させては貰えぬか？",
-  "en": "...I hear you mean to storm the fort and{n}save a captive princess. We brothers have{n}some skill with the sword. As small thanks,{page}would you let us travel with you for{n}a time?"
+  "en": "...I hear you mean to storm the fort and{n}save a captive princess. We brothers have{n}some skill with the sword.{page}As small thanks, would you let us travel with{n}you for a time?"
  },
  {
   "id": "s0072_01234",
@@ -739,7 +739,7 @@
    "ボル"
   ],
   "jp": "影流……ほほう、侍の刀法でも異端、{n}裏の裏に属する門外不出の暗殺剣と{n}聞いた覚えがござる。相対した者は{n}必ず斬られる、とも――",
-  "en": "Shadow School... Oho, this one has heard of{n}it, good sir. Heretical even among samurai{n}sword arts, a secret assassin's blade of the{n}deepest shadow. They say all who face it{page}are cut down, forsooth--"
+  "en": "Shadow School... Oho, this one has heard of{n}it, good sir. Heretical even among samurai{n}sword arts, a secret assassin's blade of the{n}deepest shadow.{page}They say all who face it are cut{n}down, forsooth--"
  },
  {
   "id": "s0072_01334",
@@ -1027,7 +1027,7 @@
    ""
   ],
   "jp": "雷神塔の最上層には、彼らが予想して{n}いたような守護者も、そして探索を{n}進める手がかりらしきものも見当たら{n}なかった。フロアの中央には塔の一階、{n}そして地下まで続いているであろう{n}吹き抜けが深く口を開いている。",
-  "en": "On the top floor of the Thunder God{n}Tower they found neither the guardian{n}they had expected nor anything{n}resembling a clue to further their search.{n}In the center of the floor a shaft{n}yawned deep, surely running down to the{n}first level of the tower and on into the{n}basement."
+  "en": "On the top floor of the Thunder God{n}Tower they found neither the guardian{n}they had expected nor anything{n}resembling a clue to further their search.{n}In the center of the floor a shaft{n}yawned deep, surely running down to the{n}first level of the tower and on into{n}the basement."
  },
  {
   "id": "s0072_01c54",
@@ -1099,7 +1099,7 @@
    "ロス"
   ],
   "jp": "その時、ヨーコ球が淡く輝きながら、{n}吹き抜けに向かってふわりと漂い{n}始めた。",
-  "en": "Just then the Yoko orb began to glow{n}faintly, and drifted lightly toward the{n}shaft."
+  "en": "Just then the Yoko orb began to glow{n}faintly, and drifted lightly toward{n}the shaft."
  },
  {
   "id": "s0072_01d2c",
@@ -1147,7 +1147,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "慌てて手を伸ばそうとしたその刹那、{n}Ｄ・Ｓははっきりと見た。鏡面の如き{n}輝きが薄れた聖玉の中に、見覚えの{n}ない男の姿が映ったのを。男の幻影は{n}Ｄ・Ｓを導くように吹き抜けの中央を{n}指差し、一瞬に掻き消えた。同時に{n}球は垂直に落下し、奈落への穴に吸い{n}込まれる――。",
-  "en": "In the instant he reached out in a panic,{n}D.S. saw it clearly. Within the Holy Orb, its{n}mirror-like shine now faded, was reflected{n}the figure of a man he did not recognize.{n}The man's phantom pointed to the center{n}of the shaft, as if to guide D.S., and{n}vanished in a moment. At the same time{n}the orb dropped straight down, drawn{page}into the hole to the abyss--."
+  "en": "In the instant he reached out in a panic,{n}D.S. saw it clearly. Within the Holy Orb, its{n}mirror-like shine now faded, was reflected{n}the figure of a man he did not recognize.{n}The man's phantom pointed to the center{n}of the shaft, as if to guide D.S., and{n}vanished in a moment.{page}At the same time the orb dropped{n}straight down, drawn into the hole to{n}the abyss--."
  },
  {
   "id": "s0072_01e60",
@@ -1291,7 +1291,7 @@
    "ヨルグ"
   ],
   "jp": "橋が架かっているぞ！　今、その{n}球が跳ねたところに！",
-  "en": "There is a bridge! Right where that orb{n}bounced!"
+  "en": "There is a bridge! Right where that{n}orb bounced!"
  },
  {
   "id": "s0072_020a0",
@@ -1387,7 +1387,7 @@
    ""
   ],
   "jp": "透明の橋の先、吹き抜けを挟んだ反対{n}側の足場に転送機が設置されていた。{n}このテレポーターの周囲は偏光性の{n}シールドに覆われていたらしく、橋を{n}渡らない限り発見できない仕組みに{n}なっていた。",
-  "en": "Beyond the transparent bridge, on the{n}footing across the shaft, stood a{n}transporter. The area around this{n}teleporter had apparently been covered{n}by a polarizing shield, so that no one{n}could discover it without crossing the{n}bridge."
+  "en": "Beyond the transparent bridge, on the{n}footing across the shaft, stood a{n}transporter. The area around this{n}teleporter had apparently been covered{n}by a polarizing shield, so that no one{n}could discover it without crossing{n}the bridge."
  },
  {
   "id": "s0072_02454",

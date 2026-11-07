@@ -45,7 +45,7 @@
    ""
   ],
   "jp": "しかし、今やそこは盆地ではなかった。{n}外輪の切れ目を鬼哭関が塞ぐとともに{n}大量の水が注入され、人造のカルデラ{n}湖となって砦への道行きを阻んでいた{n}のである。砦は湖面に浮かぶ孤島の{n}如く、そしてその上空では乱雲が渦を{n}巻き、異界への扉が着々と開き続けて{n}いることを示していた。",
-  "en": "But it was a basin no longer. With the{n}Ogre Wail Gate plugging the gap in the rim,{n}a great mass of water had been let in,{n}forming a man-made caldera lake that{n}barred the way to the fort. The fort{n}stood like a lone island on the surface,{n}and in the sky above it storm clouds{n}swirled, showing that the door to the{page}other world was steadily opening."
+  "en": "But it was a basin no longer. With the{n}Ogre Wail Gate plugging the gap in the rim,{n}a great mass of water had been let in,{n}forming a man-made caldera lake that{n}barred the way to the fort.{page}The fort stood like a lone island on the{n}surface, and in the sky above it storm{n}clouds swirled, showing that the door to{n}the other world was steadily opening."
  },
  {
   "id": "s0050_00a20",
@@ -621,7 +621,7 @@
    "シェラ"
   ],
   "jp": "満面に喜びの表情を浮かべたシェラは、{n}それまでよりもずっと、本来あるべき{n}美少女らしさを取り戻していた。受け{n}取った竪琴を軽く掻き鳴らし、音階を{n}確かめるようにして、先刻より遥かに{n}心に沁みる調べを、彼女はひとしきり{n}奏でてみせた。大気に満ちた重苦しい{n}気配が、すっと溶けていくようだった。",
-  "en": "Her whole face beaming with joy, Shella{n}looked far more than before like the{n}beautiful girl she truly was. She lightly{n}strummed the lyre she was given, as if{n}testing its scale, then played for a while{n}a melody that sank far deeper into the{n}heart than before. The heavy air that{page}had filled the place seemed to melt{n}quietly away."
+  "en": "Her whole face beaming with joy, Shella{n}looked far more than before like the{n}beautiful girl she truly was. She lightly{n}strummed the lyre she was given, as if{n}testing its scale, then played for a while{n}a melody that sank far deeper into the{n}heart than before.{page}The heavy air that had filled the place{n}seemed to melt quietly away."
  },
  {
   "id": "s0050_013dc",
@@ -861,7 +861,7 @@
    "シェラ"
   ],
   "jp": "大地の龍は巨大な雷の力と、妖気を{n}秘めた鋼の力で地の底に縫い止められ{n}ていると叫んでいる。今、私の心に{n}届いてくるのはそれだけだ",
-  "en": "The dragon of the earth cries out that it is{n}sewn to the depths by a vast power of{n}thunder, and by a power of steel with a{n}demon's air about it. That is all that{page}reaches my heart now."
+  "en": "The dragon of the earth cries out that it is{n}sewn to the depths by a vast power of{n}thunder, and by a power of steel with a{n}demon's air about it.{page}That is all that reaches my heart now."
  },
  {
   "id": "s0050_01688",
@@ -1005,7 +1005,7 @@
    "シェラ"
   ],
   "jp": "今のままでは、己の求めるものを{n}見定めることすらできない。また{n}会おう……あ、あなたの名は……",
-  "en": "As I am, I cannot even make out what I{n}seek. We shall meet again... Wh-What is your{n}name..."
+  "en": "As I am, I cannot even make out what I{n}seek. We shall meet again... Wh-What is{n}your name..."
  },
  {
   "id": "s0050_018a8",
@@ -1101,7 +1101,7 @@
    "シェラ"
   ],
   "jp": "……大地の龍は巨大な雷の力と、{n}妖気を秘めた鋼の力で地の底に縫い{n}止められていると叫び続けている。{n}あなたたちの役に立てばいいが――",
-  "en": "...The dragon of the earth still cries out that{n}it is sewn to the depths by a vast power of{n}thunder, and by a power of steel with a{n}demon's air about it. I hope that may be{page}of use to you--"
+  "en": "...The dragon of the earth still cries out that{n}it is sewn to the depths by a vast power of{n}thunder, and by a power of steel with a{n}demon's air about it.{page}I hope that may be of use to you--"
  },
  {
   "id": "s0050_01f60",
@@ -1245,7 +1245,7 @@
    "バ・ソリー"
   ],
   "jp": "……ああ。たった今釣れたわい",
-  "en": "...Aye. Just this moment I caught{n}something."
+  "en": "...Aye. Just this moment I{n}caught something."
  },
  {
   "id": "s0050_02160",
@@ -1317,7 +1317,7 @@
    "バ・ソリー"
   ],
   "jp": "釣り人は身を翻し、一行に向き直った。{page}思っていたより大柄な男であった。{n}編み笠の下からは爛々と光る目が覗き、{n}男の野性的な容貌に、より獣じみた{n}危険な印象を与えている。口から唾を{n}撒き散らし、男は哄笑した。",
-  "en": "The fisherman whirled to face the{n}party.{page}He was a larger man than they had{n}thought. Eyes glittered from under the{n}straw hat, lending his savage features a{n}more bestial and dangerous air. Spraying{n}spit from his mouth, the man roared with{n}laughter."
+  "en": "The fisherman whirled to face{n}the party.{page}He was a larger man than they had{n}thought. Eyes glittered from under the{n}straw hat, lending his savage features a{n}more bestial and dangerous air. Spraying{n}spit from his mouth, the man roared{n}with laughter."
  },
  {
   "id": "s0050_02260",
@@ -1485,7 +1485,7 @@
    "バ・ソリー"
   ],
   "jp": "はんぐぐぐ……バカな……不死身の{n}俺様が負けるなんてぇ",
-  "en": "Hngggh... Impossible... For the immortal me to{n}lose..."
+  "en": "Hngggh... Impossible... For the immortal me{n}to lose..."
  },
  {
   "id": "s0050_024f8",
@@ -1725,7 +1725,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "（シッ！）それにしても蟲使いって{n}凄えよなあ。再生能力だけでも大した{n}もんだぜ",
-  "en": "(Shh!) Anyway, bug tamers sure are amazing.{n}That regeneration alone's really{n}something."
+  "en": "(Shh!) Anyway, bug tamers sure are amazing.{n}That regeneration alone's{n}really something."
  },
  {
   "id": "s0050_029b4",
@@ -1797,7 +1797,7 @@
    "ヴァイ"
   ],
   "jp": "（ナイス！）そうそうそれソレ！{n}ド悪党の鬼忍将をやっつけにいくのに、{n}蟲使いが仲間ならそりゃあ頼もしいよ{n}なあ",
-  "en": "(Nice!) Yeah, yeah, that's right! We're off to{n}beat that arch-villain High Ninja, so a bug{n}tamer on our side would really be{n}reassuring!"
+  "en": "(Nice!) Yeah, yeah, that's right! We're off to{n}beat that arch-villain High Ninja, so a bug{n}tamer on our side would really{n}be reassuring!"
  },
  {
   "id": "s0050_02aa8",
@@ -2037,7 +2037,7 @@
    "バ・ソリー"
   ],
   "jp": "やめたほうがいいぞ。鬼忍将め、{n}この盆地に水を注ぐと同時に、人など{n}丸飲みにできる大怪魚を放流しおった。{n}舟があっても渡れたもんじゃないわ",
-  "en": "I wouldn't if I were you. Right when that{n}High Ninja let water into this basin, he{n}stocked it with giant monster fish that can{n}swallow a man whole. Even with a boat{page}you'd never get across."
+  "en": "I wouldn't if I were you. Right when that{n}High Ninja let water into this basin, he{n}stocked it with giant monster fish that can{n}swallow a man whole.{page}Even with a boat you'd never get across."
  },
  {
   "id": "s0050_02dd0",

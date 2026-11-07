@@ -21,7 +21,7 @@
    ""
   ],
   "jp": "館の内部は、奇妙に美しく整えられて{n}いた。床には精緻な柄を織り込んだ{n}絨毯が敷き詰められ、黒一色の外見{n}とは対照的な色彩をたたえている。",
-  "en": "Inside, the mansion was oddly and{n}beautifully kept. Laid across the floor{n}were carpets woven with fine patterns,{n}full of color in contrast to its all-black{n}exterior."
+  "en": "Inside, the mansion was oddly and{n}beautifully kept. Laid across the floor{n}were carpets woven with fine patterns,{n}full of color in contrast to its{n}all-black exterior."
  },
  {
   "id": "s0313_008a0",
@@ -189,7 +189,7 @@
    "バ・ソリー"
   ],
   "jp": "バ・ソリーは蟲たちを使い、この館を{n}探ろうとしていたらしい。だが、体内{n}から放たれた蟲は、床の柔突起に阻ま{n}れてろくに身動きが取れない。何匹か{n}はそのまま床に飲まれ、どうやら消化{n}されてしまったようであった。",
-  "en": "Ba Thory had apparently been trying to{n}explore this mansion with his bugs. But the{n}bugs he released from his body could{n}hardly move, blocked by the soft bumps{n}on the floor. Several had been swallowed{n}by the floor, and seemed to have been{n}digested."
+  "en": "Ba Thory had apparently been trying to{n}explore this mansion with his bugs. But the{n}bugs he released from his body could{n}hardly move, blocked by the soft bumps{n}on the floor. Several had been swallowed{n}by the floor, and seemed to have{n}been digested."
  },
  {
   "id": "s0313_00c48",
@@ -285,7 +285,7 @@
    "ロス"
   ],
   "jp": "こういうグロいトコは貴公が得意そう{n}だと思ってたんだけどねー。アタシ{n}みたいに根が高級だとなじめないわぁ",
-  "en": "I'd have thought a gross place like this{n}would be your specialty, sir. For someone as{n}refined at heart as me, it just doesn't sit{n}right."
+  "en": "I'd have thought a gross place like this{n}would be your specialty, sir. For someone as{n}refined at heart as me, it just doesn't{n}sit right."
  },
  {
   "id": "s0313_00d04",
@@ -381,7 +381,7 @@
    ""
   ],
   "jp": "柱の間で蠢動する癌細胞の群体は、{n}今や一帯の床を覆い尽くすほどに成長{n}を遂げていた。接近する獲物の気配を{n}嗅ぎつけ、それは迅速に盛り上がり、{n}番兵の実体を顕し始めた。",
-  "en": "The colony of cancer cells writhing{n}between the pillars had by now grown to{n}cover the whole floor of the area.{n}Scenting the approach of prey, it swiftly{n}rose up, and began to take the form of a{n}sentry."
+  "en": "The colony of cancer cells writhing{n}between the pillars had by now grown to{n}cover the whole floor of the area.{n}Scenting the approach of prey, it swiftly{n}rose up, and began to take the form of{n}a sentry."
  },
  {
   "id": "s0313_01158",
@@ -405,7 +405,7 @@
    ""
   ],
   "jp": "開かれた宝箱の前で、ひとり佇む侍の{n}姿があった。",
-  "en": "Before an open chest stood a lone{n}samurai."
+  "en": "Before an open chest stood a{n}lone samurai."
  },
  {
   "id": "s0313_0118c",
@@ -429,7 +429,7 @@
    ""
   ],
   "jp": "シェンであった。その箱から取り出し{n}たのであろう、脇差を手にその刀身を{n}食い入るように見つめている。{page}もの静かなシェンの貌に、錯覚か、{n}鬼神の激しい憤怒の相が浮かんでいる{n}ように見えた。",
-  "en": "It was Schen. He held a short sword,{n}doubtless taken from that chest, and{n}stared hard at its blade.{page}On Schen's quiet face, was it an illusion,{n}there seemed to be the fierce wrath of a{n}fiend."
+  "en": "It was Schen. He held a short sword,{n}doubtless taken from that chest, and{n}stared hard at its blade.{page}On Schen's quiet face, was it an illusion,{n}there seemed to be the fierce wrath of{n}a fiend."
  },
  {
   "id": "s0313_01244",
@@ -525,7 +525,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "あんまり、無事じゃ、ねえな……。{n}オメエ、兄貴はどうした？",
-  "en": "Not all that... all right, no... What about your{n}brother?"
+  "en": "Not all that... all right, no... What about{n}your brother?"
  },
  {
   "id": "s0313_01374",
@@ -549,7 +549,7 @@
    "シェン"
   ],
   "jp": "――そちらとも一緒ではなかったか{n}……オレは虹の中ではぐれてしまった。{n}いや……オレを避けて、姿をくらませ{n}たのかも知れんな――",
-  "en": "--He wasn't with you either... I got{n}separated from him in the rainbow. No... He{n}may have avoided me and gone into{n}hiding--"
+  "en": "--He wasn't with you either... I got{n}separated from him in the rainbow. No... He{n}may have avoided me and gone{n}into hiding--"
  },
  {
   "id": "s0313_013f4",
@@ -645,7 +645,7 @@
    "ダイ"
   ],
   "jp": "おおお――っ！　美しいーっ！　心の{n}琴線を掻き鳴らすこのセンス！　足下{n}から伝わる総毛立つような肉の感触！{n}素晴らしいぃぃぃ!!",
-  "en": "Ohhhh--! How beautiful! This taste that{n}strums the strings of the heart! This{n}hair-raising feel of flesh from underfoot!{n}Magnificennnt!!"
+  "en": "Ohhhh--! How beautiful! This taste that{n}strums the strings of the heart! This{n}hair-raising feel of flesh from{n}underfoot! Magnificennnt!!"
  },
  {
   "id": "s0313_0168c",
@@ -837,7 +837,7 @@
    "ネイ"
   ],
   "jp": "何っ？　私の雷撃からもう回復する{n}なんて!?",
-  "en": "What? Recovered from my lightning{n}already!?"
+  "en": "What? Recovered from my{n}lightning already!?"
  },
  {
   "id": "s0313_01874",
@@ -861,7 +861,7 @@
    "ダイ"
   ],
   "jp": "効きませんねぇネイ様。私はもはや、{n}母代わりである貴女を超えたのです！{n}魔雷妃であった貴女に奪われた以上の{n}闇の魔力を取り戻したのですよぉぉ！",
-  "en": "That had no effect, Nei-sama. I have now{n}surpassed you, who were as a mother to me!{n}I have regained more dark magic than you{page}stole from me as the Demon Thunder{n}Queen!"
+  "en": "That had no effect, Nei-sama. I have now{n}surpassed you, who were as a mother to me!{n}I have regained more dark magic than you{page}stole from me as the Demon{n}Thunder Queen!"
  },
  {
   "id": "s0313_01904",
@@ -1291,7 +1291,7 @@
    "ダイ"
   ],
   "jp": "あああ、ハイィ！　喜んで、お供を{n}させて戴きますですぅ……",
-  "en": "Ahhh, yes! I shall gladly accompany you, of{n}course..."
+  "en": "Ahhh, yes! I shall gladly accompany you,{n}of course..."
  },
  {
   "id": "s0313_01ef8",
@@ -1363,7 +1363,7 @@
    "ダイ"
   ],
   "jp": "ハイハイ。幾らＤ・Ｓが弱ってても、{n}この青爪の効力がある限り逆らえませ{n}んからねェ。好きなよーに、奴隷の{n}よーにコキ使えばいーじゃないですか",
-  "en": "Yes, yes. However weak D.S. may be, I{n}cannot defy him so long as this blue nail{n}holds. Go ahead, work me like a slave, as you{n}please."
+  "en": "Yes, yes. However weak D.S. may be, I{n}cannot defy him so long as this blue nail{n}holds. Go ahead, work me like a slave, as{n}you please."
  },
  {
   "id": "s0313_0203c",
@@ -1435,7 +1435,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "俺にウソをついても、爪が赤くなるん{n}だよなあ",
-  "en": "Lie to me and the nail turns red too,{n}y'know."
+  "en": "Lie to me and the nail turns red{n}too, y'know."
  },
  {
   "id": "s0313_02130",
@@ -1747,7 +1747,7 @@
    "マカパイン"
   ],
   "jp": "うむ。あのガインと狼麒には我々魔戦{n}将軍の忠誠を利用されてしまった。{n}今一時、カル様への想いを殺して団結{n}しなければな――",
-  "en": "Mm. That Gain and Loki used the loyalty of{n}us Sorcerer Generals. For the moment, we{n}must smother our feelings for Kall-sama and{n}unite--"
+  "en": "Mm. That Gain and Loki used the loyalty of{n}us Sorcerer Generals. For the moment, we{n}must smother our feelings for Kall-sama{n}and unite--"
  },
  {
   "id": "s0313_02a78",
@@ -1915,7 +1915,7 @@
    "シェン"
   ],
   "jp": "――イングヴェイ、ひとつ訊かせて{n}欲しい。兄者は……いや、ジオンは{n}魔戦将軍だったのか？",
-  "en": "--Yngwei, let me ask you one thing. Was my{n}brother... no, was Zion a Sorcerer{n}General?"
+  "en": "--Yngwei, let me ask you one thing. Was my{n}brother... no, was Zion a{n}Sorcerer General?"
  },
  {
   "id": "s0313_02cc4",
@@ -2035,7 +2035,7 @@
    "シェン"
   ],
   "jp": "……何でもない。つかぬことを訊いた",
-  "en": "...It's nothing. Sorry to ask you such a{n}thing."
+  "en": "...It's nothing. Sorry to ask you such{n}a thing."
  },
  {
   "id": "s0313_02e48",
@@ -2441,7 +2441,7 @@
    ""
   ],
   "jp": "双眸が不気味に輝き、開いた顎から{n}剛槍の穂先の如き牙が剥き出される。{page}その口から啖った生物を体内に吸収し、{n}黒い肉腫として腹部から生み出す病巣{n}のような魔物――。新たな肉の原料を{n}前にし、魔神は歓喜の吼え声をあげて{n}巨体を震わせた。",
-  "en": "Its eyes shone eerily, and its open jaws{n}bared fangs like heads of stout spears.{page}A disease-like monster that absorbed the{n}living things it devoured, and bore them{n}from its belly as black tumors. Before the{n}raw material of new flesh, the demon god{n}shook its huge body with a howl of{n}delight."
+  "en": "Its eyes shone eerily, and its open jaws{n}bared fangs like heads of stout spears.{page}A disease-like monster that absorbed the{n}living things it devoured, and bore them{n}from its belly as black tumors. Before the{n}raw material of new flesh, the demon god{n}shook its huge body with a howl{n}of delight."
  },
  {
   "id": "s0313_03a80",
@@ -2561,7 +2561,7 @@
    "マカパイン"
   ],
   "jp": "このまま戦ってはまずいかも知れんが{n}……選択できる状況ではないな。{n}奴が来るぞ！",
-  "en": "Fighting like this may be unwise... but we{n}have no choice in the matter. Here it{n}comes!"
+  "en": "Fighting like this may be unwise... but we{n}have no choice in the matter. Here{n}it comes!"
  },
  {
   "id": "s0313_03bc8",

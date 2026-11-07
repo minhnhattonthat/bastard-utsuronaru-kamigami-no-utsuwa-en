@@ -69,7 +69,7 @@
    "ヴァイ"
   ],
   "jp": "……マカパインが言ってた砦って、{n}コレのことなのかよ……",
-  "en": "...So that's the fort Macalpine was talking{n}about..."
+  "en": "...So that's the fort Macalpine was{n}talking about..."
  },
  {
   "id": "s0038_00a94",
@@ -693,7 +693,7 @@
    "ブラド"
   ],
   "jp": "次の瞬間、ブラドの巨体は宙に浮き、{n}Ｄ・Ｓたちの頭上を越えて後方に弾き{n}飛ばされていた。鬼忍将が構えもせず、{n}軽く振るったように見えた拳の一撃が、{n}体格において遥かに勝るブラドを{n}易々と宙に舞わせたのである。{n}尋常ならざる膂力であり、底知れぬ{n}鬼忍将の能力であった。",
-  "en": "The next moment Blad's huge frame was{n}in the air, sent flying over the heads of{n}D.S. and the others to land far behind{n}them. A single blow of the High Ninja's fist,{n}thrown without so much as a stance and{n}with what looked like no effort, had sent{n}the far larger Blad soaring with ease. It{n}was strength beyond the ordinary, the{page}unfathomable might of the High Ninja."
+  "en": "The next moment Blad's huge frame was{n}in the air, sent flying over the heads of{n}D.S. and the others to land far behind{n}them. A single blow of the High Ninja's fist,{n}thrown without so much as a stance and{n}with what looked like no effort, had sent{n}the far larger Blad soaring with ease.{page}It was strength beyond the ordinary, the{n}unfathomable might of the High Ninja."
  },
  {
   "id": "s0038_0167c",
@@ -717,7 +717,7 @@
    "シーラ"
   ],
   "jp": "（いけない……このままでは、私の{n}ためにゆかりなき人たちまでが……）",
-  "en": "(This will not do... If it goes on like this, even{n}people with no tie to me will suffer on my{n}account...)"
+  "en": "(This will not do... If it goes on like this, even{n}people with no tie to me will suffer on{n}my account...)"
  },
  {
   "id": "s0038_016c4",
@@ -1197,7 +1197,7 @@
    "鬼忍将"
   ],
   "jp": "シーラを抱えた鬼忍将は、驚異的な{n}体術で砦の脚部を駆け上がっていく。{n}同時に自走砦は後退を始め、金縛りが{n}解ける頃には、月夜の浜辺を走る蟹を{n}思わせる迅さで急速に遠ざかりつつ{n}あった。崖に取り付いた異形の忍軍も、{n}自走砦を追って撤退していく。",
-  "en": "With Sheila under his arm, the High Ninja{n}ran up the fort's leg with astonishing{n}agility. At the same moment the walking{n}fort began to back away, and by the time{n}their paralysis lifted, it was swiftly{n}receding at a speed that called to mind a{n}crab scuttling along a moonlit beach. The{n}misshapen ninja force clinging to the{page}cliffs withdrew after it."
+  "en": "With Sheila under his arm, the High Ninja{n}ran up the fort's leg with astonishing{n}agility. At the same moment the walking{n}fort began to back away, and by the time{n}their paralysis lifted, it was swiftly{n}receding at a speed that called to mind a{n}crab scuttling along a moonlit beach.{page}The misshapen ninja force clinging to the{n}cliffs withdrew after it."
  },
  {
   "id": "s0038_01dcc",
@@ -1293,7 +1293,7 @@
    "イングヴェイイングヴェイ・フォン・マルムステ"
   ],
   "jp": "瞬間的な気勢の高まりとともに、{n}イングヴェイの肉体はいち早く縛鎖を{n}解き放った。鬼忍将の不意打ちに対し、{n}彼だけは一瞬早く反応できたらしく、{n}刹那の気構えが金縛りのかかり具合を{n}幾分弱めたようであった。",
-  "en": "With a sudden surge of spirit, Yngwei's{n}body was the first to break free of its{n}bonds. He alone, it seemed, had reacted{n}an instant sooner to the High Ninja's{n}surprise attack, and that split second of{n}readiness had weakened the paralysis{n}somewhat."
+  "en": "With a sudden surge of spirit, Yngwei's{n}body was the first to break free of its{n}bonds. He alone, it seemed, had reacted{n}an instant sooner to the High Ninja's{n}surprise attack, and that split second of{n}readiness had weakened the{n}paralysis somewhat."
  },
  {
   "id": "s0038_01f04",
@@ -1317,7 +1317,7 @@
    "イングヴェイイングヴェイ・フォン・マルムステ"
   ],
   "jp": "思い出した！　いや、わずかに{n}蘇ったに過ぎないが……私は、誰かに{n}仕えてきた。そのお方は、素晴らしい{n}御心の持ち主だった。まるで――",
-  "en": "I remember! No, only a sliver has returned{n}to me, but... I once served someone. That{n}person possessed a wonderful heart. Just{n}like--"
+  "en": "I remember! No, only a sliver has returned{n}to me, but... I once served someone. That{n}person possessed a wonderful heart.{n}Just like--"
  },
  {
   "id": "s0038_01f88",
@@ -1341,7 +1341,7 @@
    "イングヴェイイングヴェイ・フォン・マルムステ"
   ],
   "jp": "まるで、あの姫君のように。そして{n}私は誓っていた。そのお方のお導きに{n}この身全てを捧げると――",
-  "en": "Just like that princess. And I swore an oath,{n}to give my whole self to that person's{n}guidance--"
+  "en": "Just like that princess. And I swore an oath,{n}to give my whole self to that{n}person's guidance--"
  },
  {
   "id": "s0038_01fe8",
@@ -1629,7 +1629,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "実際、鬼忍将のヤロウひとりに{n}俺たちはこのザマだ……俺としちゃ、{n}砦が一番ヤバい相手だと思ってたが、{n}鬼面ゴリラめ――手強いぜ",
-  "en": "As it is, that High Ninja bastard alone did all{n}this to us... I figured the fort was the real{n}danger, but that ogre-faced gorilla-- He's{n}tough."
+  "en": "As it is, that High Ninja bastard alone did all{n}this to us... I figured the fort was the real{n}danger, but that ogre-faced gorilla--{n}He's tough."
  },
  {
   "id": "s0038_023f4",
@@ -1677,7 +1677,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "バカヤロウ。犠牲になんてさせねえ。{n}俺はあの女、すっげー気に入ったぜ。{n}絶対に助け出して、近い将来実現する{n}俺様のハーレムの一員に――",
-  "en": "You idiot. I ain't letting her be any sacrifice.{n}I like that woman a whole lot. I'm gonna{n}rescue her for sure, and make her a{n}member of the great me's harem, which is{page}coming any day now--"
+  "en": "You idiot. I ain't letting her be any sacrifice.{n}I like that woman a whole lot.{page}I'm gonna rescue her for sure, and make her{n}a member of the great me's harem, which is{n}coming any day now--"
  },
  {
   "id": "s0038_024c0",
@@ -1797,7 +1797,7 @@
    "ボル"
   ],
   "jp": "その時であった。彼らの眼前の空間{n}――何も存在せぬ虚空に、そこだけ{n}陽炎が揺らめくような、あるいは{n}大気に波紋が生じたかの如き変化が{n}起こり始めた。向こう側の風景は{n}歪なレンズを通して見たかに屈折し、{n}やがて全く異なる光景――ねじれた{n}異次元の眺めを映す窓となる。",
-  "en": "It was then. In the space before their{n}eyes, an empty void with nothing in it, a{n}change began, as though a heat haze{n}wavered there alone, or ripples had{n}formed in the air. The scenery beyond{n}bent as if seen through a warped lens,{n}and at last became a window on{page}another sight entirely: the view of a{n}twisted other dimension."
+  "en": "It was then. In the space before their{n}eyes, an empty void with nothing in it, a{n}change began, as though a heat haze{n}wavered there alone, or ripples had{n}formed in the air.{page}The scenery beyond bent as if seen{n}through a warped lens, and at last{n}became a window on another sight{n}entirely: the view of a twisted{n}other dimension."
  },
  {
   "id": "s0038_02730",
@@ -1869,7 +1869,7 @@
    "サイクス"
   ],
   "jp": "あでやか、という言葉の似合う青年で{n}あった。ウェーブのかかった金髪に、{n}貴人のそれを思わせる麗しき美貌――{n}しかしその姿に女々しい印象はなく、{n}静かに輝く瞳は叡智を求める者特有の、{n}強靱な意志と神経質さを同居させて{n}いた。",
-  "en": "He was a young man for whom the word{n}\"alluring\" might have been made. He had{n}wavy blond hair and an exquisite beauty{n}that suggested high birth, yet there was{n}nothing effeminate in his look. His quietly{n}shining eyes held both the strong will and{n}the nervous edge peculiar to seekers of{n}wisdom."
+  "en": "He was a young man for whom the word{n}\"alluring\" might have been made. He had{n}wavy blond hair and an exquisite beauty{n}that suggested high birth, yet there was{n}nothing effeminate in his look. His quietly{n}shining eyes held both the strong will and{n}the nervous edge peculiar to seekers{n}of wisdom."
  },
  {
   "id": "s0038_02870",
@@ -2037,7 +2037,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "テメエも記憶を消されているクチか",
-  "en": "So you're another one who got his memory{n}wiped."
+  "en": "So you're another one who got his{n}memory wiped."
  },
  {
   "id": "s0038_02a04",
@@ -2181,7 +2181,7 @@
    "サイクス"
   ],
   "jp": "シーラは霊媒として優れた資質を{n}持っている。鬼忍将はそこに目を付け、{n}この世界に放り出されたばかりの{n}彼女を拉致したのだ",
-  "en": "Sheila has a superb gift as a medium. The{n}High Ninja took note of it and abducted her{n}just after she was cast out into this{n}world."
+  "en": "Sheila has a superb gift as a medium. The{n}High Ninja took note of it and abducted her{n}just after she was cast out into{n}this world."
  },
  {
   "id": "s0038_02c9c",
@@ -2373,7 +2373,7 @@
    "サイクス"
   ],
   "jp": "次元的にはひとつ、孤立した世界で{n}あるらしい。私の移動する亜空間も、{n}この世界以外にはアクセスできない。{n}我々はそこに放り出されているわけだ",
-  "en": "In dimensional terms it appears to be a{n}single, isolated world. Even the subspace I{n}travel in has no access to anywhere but{page}this world. And we have been cast out{n}into it."
+  "en": "In dimensional terms it appears to be a{n}single, isolated world. Even the subspace I{n}travel in has no access to anywhere but{n}this world.{page}And we have been cast out into it."
  },
  {
   "id": "s0038_03008",
@@ -2421,7 +2421,7 @@
    "サイクス"
   ],
   "jp": "……恐ろしい男だな。ビンゴだよ。{n}正体は私にも判らないが、途轍もない{n}魔力を持つ者たちの存在が察知できる。{n}それらが我々をこの事態に陥れ……！",
-  "en": "...You are a frightening man. Bingo. Even I do{n}not know who they are, but I can sense{n}beings of tremendous magical power. They{page}are the ones who put us in this situation,{n}and...!"
+  "en": "...You are a frightening man. Bingo. Even I do{n}not know who they are, but I can sense{n}beings of tremendous magical power.{page}They are the ones who put us in this{n}situation, and...!"
  },
  {
   "id": "s0038_03128",
@@ -2469,7 +2469,7 @@
    "サイクス"
   ],
   "jp": "いかん！　やはり私の思考波を嗅ぎ{n}つけてくるのか！",
-  "en": "This is bad! So it does track my thought{n}waves!"
+  "en": "This is bad! So it does track my{n}thought waves!"
  },
  {
   "id": "s0038_03214",
@@ -2781,7 +2781,7 @@
    "サイクス"
   ],
   "jp": "追跡する者よ、異次元の檻に還れ！",
-  "en": "Hunter, return to your cage in the other{n}dimension!"
+  "en": "Hunter, return to your cage in the{n}other dimension!"
  },
  {
   "id": "s0038_03654",
@@ -2853,7 +2853,7 @@
    "ヴァイ"
   ],
   "jp": "おおっ、凄え……って、いきなり{n}こんな化け物との戦闘に巻き込むか!?",
-  "en": "Whoa, amazing... Wait, you drag us into a{n}fight with a monster like that out of{n}nowhere!?"
+  "en": "Whoa, amazing... Wait, you drag us into a{n}fight with a monster like that out{n}of nowhere!?"
  },
  {
   "id": "s0038_03780",
@@ -2976,7 +2976,7 @@
    "サイクス"
   ],
   "jp": "サイクスが手刀を振るうと、そこに{n}再び異次元の窓が開かれた。現れた{n}時と同様に、彼はそこに忽然と消えた。{n}この越次元を察知したのか、今にも{n}出現しそうに高まった追跡するものの{n}気配は急激に遠退いていった。",
-  "en": "Sykes swung his knife-hand, and once{n}more a window on another dimension{n}opened there. Just as he had appeared,{n}he abruptly vanished into it. Perhaps{n}sensing this crossing, the hunter's{n}presence, which had swelled until it{n}seemed about to emerge, swiftly{n}receded."
+  "en": "Sykes swung his knife-hand, and once{n}more a window on another dimension{n}opened there. Just as he had appeared,{n}he abruptly vanished into it. Perhaps{n}sensing this crossing, the hunter's{n}presence, which had swelled until it{n}seemed about to emerge,{n}swiftly receded."
  },
  {
   "id": "s0038_03998",
@@ -3192,7 +3192,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "ケッ！　偉そーに。テメエだって{n}一発でのされちまったじゃねーか",
-  "en": "Tch! Big talk. You got flattened in one punch{n}yourself."
+  "en": "Tch! Big talk. You got flattened in one{n}punch yourself."
  },
  {
   "id": "s0038_03c58",
@@ -3336,7 +3336,7 @@
    ""
   ],
   "jp": "峡谷は緩やかに曲がりくねっており、{n}遠方を見通すことはできなかった。{n}巨大質量を持つ自走砦の移動音は、{n}まだ足下から微かに伝わってくる{n}ものの、その姿と先行して追撃する{n}イングヴェイは視界に捉えられない。{page}と、谷間のそこここに数人の忍者の{n}屍が転がっているのが見えた。",
-  "en": "The gorge wound gently, and they could{n}not see far ahead. The sound of the{n}massive walking fort's movement still{n}reached them faintly through the ground,{n}but neither it nor Yngwei, pursuing ahead{n}of them, could be seen.{page}Then they saw the bodies of several{n}ninjas lying here and there in the{n}valley."
+  "en": "The gorge wound gently, and they could{n}not see far ahead. The sound of the{n}massive walking fort's movement still{n}reached them faintly through the ground,{n}but neither it nor Yngwei, pursuing ahead{n}of them, could be seen.{page}Then they saw the bodies of several{n}ninjas lying here and there in{n}the valley."
  },
  {
   "id": "s0038_04e2c",
@@ -3432,7 +3432,7 @@
    "ヴァイ"
   ],
   "jp": "胴を真っ二つに両断された屍を見て、{n}Ｄ・Ｓは先刻感じた忍者たちの歪さの{n}正体を知った。全身を包む忍び装束の{n}下に隠されていたのは、人類の敵対{n}種族である邪悪な亜人種ゴブリンの{n}醜悪な肉体であり、他の屍も例外なく、{n}人間はただの一人も存在しなかった。",
-  "en": "Looking at a corpse cut clean in two at{n}the waist, D.S. learned the truth of the{n}deformity he had sensed in the ninjas.{n}Hidden beneath the ninja garb was the{n}hideous body of a goblin, of the evil{n}demi-human race that was mankind's{n}enemy. The other corpses were no{page}exception. Not one human was{n}among them."
+  "en": "Looking at a corpse cut clean in two at{n}the waist, D.S. learned the truth of the{n}deformity he had sensed in the ninjas.{n}Hidden beneath the ninja garb was the{n}hideous body of a goblin, of the evil{n}demi-human race that was mankind's{n}enemy. The other corpses were{n}no exception.{page}Not one human was among them."
  },
  {
   "id": "s0038_05020",
@@ -3456,7 +3456,7 @@
    "ヴァイ"
   ],
   "jp": "デミ・ヒューマンの忍者なんて、{n}聞いたこともない……ような気がする。{n}記憶が消されてるせいかな？",
-  "en": "I've never heard of demi-human ninjas... I{n}think. Is that 'cause my memory got{n}wiped?"
+  "en": "I've never heard of demi-human ninjas... I{n}think. Is that 'cause my memory{n}got wiped?"
  },
  {
   "id": "s0038_05080",
@@ -3504,7 +3504,7 @@
    "ボル"
   ],
   "jp": "人材が不足しているのでござるかな",
-  "en": "Perhaps they lack for manpower,{n}forsooth."
+  "en": "Perhaps they lack for{n}manpower, forsooth."
  },
  {
   "id": "s0038_05130",
@@ -3600,7 +3600,7 @@
    "ヴァイ"
   ],
   "jp": "イングヴェイは数人の忍者を相手に、{n}目にも止まらぬ太刀捌きで渡り合って{n}いた。亜人種の忍者は攻撃を弾かれた{n}瞬間に返す刀で斬り倒され、その数を{n}見る間に減らしていく。しかし、彼も{n}これまでに襲ってきた忍者との連戦で{n}息が上がってきているようだった。",
-  "en": "Yngwei was holding his own against{n}several ninjas with swordplay too fast for{n}the eye. Each demi-human ninja, the{n}instant its attack was turned aside, fell{n}to his returning blade, and their numbers{n}were dropping before the party's eyes.{n}But even he seemed to be running out of{n}breath after battle upon battle with{page}the ninjas that had come at him."
+  "en": "Yngwei was holding his own against{n}several ninjas with swordplay too fast for{n}the eye. Each demi-human ninja, the{n}instant its attack was turned aside, fell{n}to his returning blade, and their numbers{n}were dropping before the party's eyes.{page}But even he seemed to be running out of{n}breath after battle upon battle with the{n}ninjas that had come at him."
  },
  {
   "id": "s0038_05410",
@@ -3768,7 +3768,7 @@
    "サイクス"
   ],
   "jp": "どうやら関門が閉ざされたらしいな",
-  "en": "It would seem the checkpoint has been{n}closed."
+  "en": "It would seem the checkpoint has{n}been closed."
  },
  {
   "id": "s0038_0569c",
@@ -3912,7 +3912,7 @@
    ""
   ],
   "jp": "それは、あまりにも巨大であった。{page}左右に聳え立つ岩壁と同じ規模の、{n}大峡谷の終点を塞ぐ関門――その扉は{n}すでに閉ざされ、内側に退避した砦と{n}Ｄ・Ｓたちの間を堅固に分断している。{n}人の力では破壊できぬ、難攻不落の{n}関所がそこにあった。",
-  "en": "It was simply too huge.{page}On the same scale as the rock walls{n}towering on either side, the checkpoint{n}blocked the end of the great gorge. Its{n}doors were already closed, a firm barrier{n}between D.S.'s party and the fort that{n}had taken refuge inside. Here stood an{n}impregnable gate no human power could{n}break."
+  "en": "It was simply too huge.{page}On the same scale as the rock walls{n}towering on either side, the checkpoint{n}blocked the end of the great gorge. Its{n}doors were already closed, a firm barrier{n}between D.S.'s party and the fort that{n}had taken refuge inside. Here stood an{n}impregnable gate no human power{n}could break."
  },
  {
   "id": "s0038_05a14",
@@ -3984,7 +3984,7 @@
    "サイクス"
   ],
   "jp": "それがだな……猟犬を封印した際の{n}次元断層が亜空間に歪みを発生させて、{n}どうも私の越次元能力に過干渉して{n}いるらしい",
-  "en": "About that... The dimensional fault from{n}when I sealed the hound has caused a{n}distortion in subspace, and it seems to be{page}interfering badly with my dimension-crossing{n}ability."
+  "en": "About that... The dimensional fault from{n}when I sealed the hound has caused a{n}distortion in subspace, and it seems to be{page}interfering badly with my{n}dimension-crossing ability."
  },
  {
   "id": "s0038_05b10",
@@ -4032,7 +4032,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "……役立たずになりましたと素直に{n}言わねーか",
-  "en": "...Why not just admit you've become{n}useless?"
+  "en": "...Why not just admit you've{n}become useless?"
  },
  {
   "id": "s0038_05bb8",
@@ -4104,7 +4104,7 @@
    "イングヴェイイングヴェイ・フォン・マルムステ"
   ],
   "jp": "自走砦に追いつきたかったところだが{n}……ひとまず関門を開く手段を探って{n}みよう",
-  "en": "I wanted to catch up to the walking fort...{n}For now, let us look for a way to open the{n}checkpoint."
+  "en": "I wanted to catch up to the walking fort...{n}For now, let us look for a way to open{n}the checkpoint."
  },
  {
   "id": "s0038_05c88",
@@ -4128,7 +4128,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "ふん……イングヴェイが見当たら{n}ねえってコトは、関門が閉まる前に{n}潜り込んだみてえだな",
-  "en": "Hmph... Yngwei's nowhere around, so looks{n}like he slipped in before the checkpoint{n}closed."
+  "en": "Hmph... Yngwei's nowhere around, so looks{n}like he slipped in before the{n}checkpoint closed."
  },
  {
   "id": "s0038_05ce0",
@@ -4512,7 +4512,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "とにかくヴァイ、テメエは黙ってろ。{n}テメエが口を利くと話が逸れちまって{n}いけねえ。それと、ザックだっけか？{n}そこの頭が悪そうなガキ",
-  "en": "Anyway, Vai, you shut up. Every time you{n}open your mouth, we get off track. And{n}Zakk, was it? You dumb-looking brat over{n}there."
+  "en": "Anyway, Vai, you shut up. Every time you{n}open your mouth, we get off track. And{n}Zakk, was it? You dumb-looking brat{n}over there."
  },
  {
   "id": "s0038_065dc",
@@ -4728,7 +4728,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "なあ、ザックよ。ところでオメエは{n}この扉を開けることができるのか？",
-  "en": "Hey, Zakk. By the way, can you open these{n}doors?"
+  "en": "Hey, Zakk. By the way, can you open{n}these doors?"
  },
  {
   "id": "s0038_068a8",
@@ -4848,7 +4848,7 @@
    "ザック"
   ],
   "jp": "何だとー！　誰が単細胞だー！",
-  "en": "What did you say!? Who's got a simple{n}mind!?"
+  "en": "What did you say!? Who's got a{n}simple mind!?"
  },
  {
   "id": "s0038_06a48",
@@ -5252,7 +5252,7 @@
    "ザック"
   ],
   "jp": "何だよ、まだやろうってのか？{n}しつっこい奴らだぜ。絶対にテコでも{n}どかないっつってんだろ！",
-  "en": "What, you still wanna go? You guys don't{n}quit. I told you, I won't budge for{n}anything!"
+  "en": "What, you still wanna go? You guys don't{n}quit. I told you, I won't budge{n}for anything!"
  },
  {
   "id": "s0038_06d84",
@@ -5732,7 +5732,7 @@
    "ヴァイ"
   ],
   "jp": "この峡谷に来てもしょうがねえんじゃ{n}ねえのか？",
-  "en": "No point coming back to this gorge, is{n}there?"
+  "en": "No point coming back to this gorge,{n}is there?"
  },
  {
   "id": "s0038_072a0",

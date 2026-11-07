@@ -261,7 +261,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "電気に当てられたのか？　ショック{n}状態みたいだな",
-  "en": "The electricity get to him? Looks like he's in{n}shock."
+  "en": "The electricity get to him? Looks like he's{n}in shock."
  },
  {
   "id": "s0084_00ab0",
@@ -285,7 +285,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "ここはまだ高電圧が生きてやがるな。{n}他に回るぜ",
-  "en": "The high voltage is still live here. We'll go{n}around."
+  "en": "The high voltage is still live here. We'll{n}go around."
  },
  {
   "id": "s0084_00c8c",
@@ -429,7 +429,7 @@
    "ヴァイ"
   ],
   "jp": "おい！　水の中に宝箱があるぜ！",
-  "en": "Hey! There's a treasure chest in the{n}water!"
+  "en": "Hey! There's a treasure chest in{n}the water!"
  },
  {
   "id": "s0084_00ef4",
@@ -597,7 +597,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "扉を開けただけだろが。強いて言う{n}ならこの場所を見つけた俺様がエライ",
-  "en": "All you did was open a door. If anybody gets{n}credit, it's the great me, for finding this{n}place."
+  "en": "All you did was open a door. If anybody gets{n}credit, it's the great me, for finding{n}this place."
  },
  {
   "id": "s0084_011e4",

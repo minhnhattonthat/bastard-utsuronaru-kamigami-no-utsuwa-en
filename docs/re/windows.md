@@ -16,7 +16,8 @@ Measured in game on stress builds: `build.py --marker --qa FILE.json` with a rul
 ## Battle (`ov1`)
 | Box | px | Lines | Evidence |
 |---|---|---|---|
-| Battle message | 228 (216 on the last line, arrow) | 3 | `battle_start`, `ev_3_11_0400` |
+| Battle message | 216 (a glyph starting at x 216 wraps: `ov1_0340c` left `f` alone on a row; 221 px wrapped) | 3 | `ev_1_18_0001`, and `ev_3_15_0400` for `ov1_0340c` |
+| Battle message, `[01]` lines | 216, one row: `[01]` is the log's fixed top row, later lines scroll under it, and `{n}` in it prints the second line over the start of the first (`attack! :oji's magic`) | 1 | `ev_1_18_0001`, same on the original |
 | Command labels (`陣形 移動 攻撃 防御 道具`) | 32 | 1 | `battle_commands`: past that it clips at the box edge |
 | Formation row (`ov1_01044` box) | 46 | 1 | `battle_commands` |
 | Formation name (table 393, 19 bytes) | 110, then the arrows | 1 | `battle_commands` |

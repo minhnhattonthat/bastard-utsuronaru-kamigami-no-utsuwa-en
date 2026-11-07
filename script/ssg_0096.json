@@ -69,7 +69,7 @@
    ""
   ],
   "jp": "正面に、巨漢の忍者がいた。右目の{n}横に走った傷から溢れ出す鮮血が、{n}この光景の中で唯一の原色であった。{page}刀を構えながら、男はこちらに語り{n}かけてくる。",
-  "en": "Before him stood a giant ninja. The fresh{n}blood spilling from a scar beside his right{n}eye was the only vivid color in the whole{n}scene.{page}With his sword at the ready, the man{n}spoke."
+  "en": "Before him stood a giant ninja. The fresh{n}blood spilling from a scar beside his right{n}eye was the only vivid color in the{n}whole scene.{page}With his sword at the ready, the{n}man spoke."
  },
  {
   "id": "s0096_00a08",
@@ -621,6 +621,6 @@
    "Ｄ・Ｓ"
   ],
   "jp": "これでよし。次のブロックに急ぐぜ",
-  "en": "That does it. Let's hurry to the next{n}block."
+  "en": "That does it. Let's hurry to the{n}next block."
  }
 ]

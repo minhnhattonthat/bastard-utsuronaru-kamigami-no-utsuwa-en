@@ -117,7 +117,7 @@
    ""
   ],
   "jp": "あたかも大気中の微粒子が意志を持っ{n}たかの如く、そこに凝集して何かの{n}形を取り始める。{page}鬼火のような双眸が浮かび上がった。{n}それは鎧に似た外骨格を持つ、人型の{n}骸骨兵士だった。侵入者を排除する{n}目的で配置された疑似生命体である。",
-  "en": "As if the very particles in the air had{n}gained a will, something began to gather{n}there and take shape.{page}A pair of eyes like will-o'-the-wisps{n}appeared. It was a humanoid skeleton{n}soldier with an armor-like exoskeleton, an{n}artificial life form posted to drive out{n}intruders."
+  "en": "As if the very particles in the air had{n}gained a will, something began to gather{n}there and take shape.{page}A pair of eyes like will-o'-the-wisps{n}appeared. It was a humanoid skeleton{n}soldier with an armor-like exoskeleton, an{n}artificial life form posted to drive{n}out intruders."
  },
  {
   "id": "s0014_00af8",
@@ -237,7 +237,7 @@
    "ヴァイ"
   ],
   "jp": "結構手強かったぜ……でもなあ、俺、{n}自分がもっと強かったって気がするん{n}だけどな",
-  "en": "Those guys were pretty tough... but y'know,{n}I get the feeling I used to be a lot{n}stronger."
+  "en": "Those guys were pretty tough... but y'know,{n}I get the feeling I used to be a{n}lot stronger."
  },
  {
   "id": "s0014_00c04",
@@ -573,7 +573,7 @@
    "ヴァイ"
   ],
   "jp": "俺のことも……待てよ、見覚えが{n}あるぞ……いや、それどころじゃねえ！{n}長い間、俺たちは一緒だった！{n}それなのに、肝心なコトは何も……！",
-  "en": "Me too... wait, I know you from somewhere...{n}no, it's more than that! We were together a{n}long time! But the stuff that matters, I{n}can't...!"
+  "en": "Me too... wait, I know you from somewhere...{n}no, it's more than that! We were together a{n}long time! But the stuff that matters,{n}I can't...!"
  },
  {
   "id": "s0014_01270",
@@ -597,7 +597,7 @@
    "ヨシュア"
   ],
   "jp": "ヴァイ、慌てるな。そのうちに必ず{n}思い出せる",
-  "en": "Vai, do not panic. In time you will surely{n}remember."
+  "en": "Vai, do not panic. In time you will{n}surely remember."
  },
  {
   "id": "s0014_012a0",
@@ -621,7 +621,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "色々と知ってやがるようだな。やい、{n}もったいつけずに説明しやがれ。{n}テメエはどこの誰で、ここはどこだ？{n}俺の敵か？　味方か？",
-  "en": "Seems you know plenty. Hey, quit stringing{n}me along and explain. Who the hell are you,{n}and where is this? You my enemy? My{n}friend?"
+  "en": "Seems you know plenty. Hey, quit stringing{n}me along and explain. Who the hell are you,{n}and where is this? You my enemy?{n}My friend?"
  },
  {
   "id": "s0014_0131c",
@@ -813,7 +813,7 @@
    "ヨシュア"
   ],
   "jp": "少なくともこの船は敵ではない。{n}我々の本当の敵――私にも漠然としか{n}判らないが――は、現時点では大きく{n}先んじているようだ",
-  "en": "This ship, at least, is no enemy. Our true{n}enemy -- whom I myself perceive only{n}vaguely -- seems far ahead of us at{n}present."
+  "en": "This ship, at least, is no enemy. Our true{n}enemy -- whom I myself perceive only{n}vaguely -- seems far ahead of us{n}at present."
  },
  {
   "id": "s0014_01548",
@@ -837,7 +837,7 @@
    "ヴァイ"
   ],
   "jp": "その敵ってのが、ヨーコをどこかで{n}閉じこめてやがるのか！",
-  "en": "So that enemy's got Yoko locked up{n}someplace!"
+  "en": "So that enemy's got Yoko locked{n}up someplace!"
  },
  {
   "id": "s0014_01584",
@@ -981,7 +981,7 @@
    "ヨシュア"
   ],
   "jp": "信じることを決して忘れないでくれ。{n}そして一刻も早く彼女の――ヨーコの{n}もとへ向かってくれ。では、さらば！",
-  "en": "Never forget to trust. And hurry to her side{n}-- to Yoko -- as swiftly as you can. Now,{n}farewell!"
+  "en": "Never forget to trust. And hurry to her side{n}-- to Yoko -- as swiftly as you can.{n}Now, farewell!"
  },
  {
   "id": "s0014_01730",
@@ -1389,7 +1389,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "紛うことなく、それは人間だった。{page}怪物じみた体躯を誇るその男は、{n}あたかもこの瞬間に石化の呪縛から{n}解き放たれたかのように、少しずつ{n}動作に滑らかさを増しながらＤ・Ｓに{n}近づいてくる。",
-  "en": "There was no mistaking it: he was a{n}human.{page}The man, boasting a monstrous frame,{n}approached D.S. with movements growing{n}gradually smoother, as if freed that{n}instant from a curse of stone."
+  "en": "There was no mistaking it: he was{n}a human.{page}The man, boasting a monstrous frame,{n}approached D.S. with movements growing{n}gradually smoother, as if freed that{n}instant from a curse of stone."
  },
  {
   "id": "s0014_020c0",
@@ -1557,7 +1557,7 @@
    "ブラド"
   ],
   "jp": "船……判らん。目覚めたらお前らが{n}そこに立っていた。それ以前のことは{n}何も思い出せん……",
-  "en": "Ship... I know not. When I awoke you two{n}stood before me. Before that, I can recall{n}nothing..."
+  "en": "Ship... I know not. When I awoke you two{n}stood before me. Before that, I can{n}recall nothing..."
  },
  {
   "id": "s0014_022d4",
@@ -2043,7 +2043,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "手遅れにしねえタメには手段を選ば{n}ねえ――それがモテる男、頼りになる{n}スーパー美形の信条だぜ。要は結果だ、{n}結果ぁ！　過程は問題じゃないね",
-  "en": "To never be too late, I'll use whatever it{n}takes -- that's the creed of a ladykiller, a{n}reliable super-gorgeous guy. Results are{page}what count, results! How you got there{n}don't matter!"
+  "en": "To never be too late, I'll use whatever it{n}takes -- that's the creed of a ladykiller, a{n}reliable super-gorgeous guy. Results are{n}what count, results!{page}How you got there don't matter!"
  },
  {
   "id": "s0014_02a00",
@@ -2475,7 +2475,7 @@
    "ブラド"
   ],
   "jp": "む……常住坐臥、命を賭すと？",
-  "en": "Hm... ready to stake your life, sitting or{n}lying?"
+  "en": "Hm... ready to stake your life, sitting{n}or lying?"
  },
  {
   "id": "s0014_02f54",
@@ -3385,7 +3385,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "恩なんざ感じてもらわなくても{n}いいんだけどよ。そもそも俺は{n}そーゆー暑苦しいのは苦手なんだよ。{n}ヒゲ面とかも",
-  "en": "I don't need you feeling you owe me.{n}Besides, I can't stand this sweaty stuff. Or{n}beards."
+  "en": "I don't need you feeling you owe me.{n}Besides, I can't stand this sweaty stuff.{n}Or beards."
  },
  {
   "id": "s0014_043cc",
@@ -3409,7 +3409,7 @@
    "ボル"
   ],
   "jp": "この髭はそれがしの大事なトレード{n}マークで……しかしこれを剃れと{n}言われるならば致し方ない。この場で{n}バッサリと、それがしの決意を……",
-  "en": "This beard is this one's cherished trademark...{n}yet if you bid this one shave it, so be it.{n}Here and now, with one cut, this one's{n}resolve..."
+  "en": "This beard is this one's cherished trademark...{n}yet if you bid this one shave it, so be it.{n}Here and now, with one cut, this{n}one's resolve..."
  },
  {
   "id": "s0014_04454",
@@ -3721,7 +3721,7 @@
    "ボル"
   ],
   "jp": "男の背後に忍び寄るべく、大きく回り{n}込む。だが、濃く影の落ちた床に踏み{n}込んだ瞬間、そこは泥土のように足を{n}呑み、Ｄ・Ｓの自由を奪った。",
-  "en": "They circled wide to sneak behind the{n}man. But the moment D.S. stepped on the{n}thick shadow on the floor, it swallowed{n}his foot like mud and took away his{n}freedom."
+  "en": "They circled wide to sneak behind the{n}man. But the moment D.S. stepped on the{n}thick shadow on the floor, it swallowed{n}his foot like mud and took away{n}his freedom."
  },
  {
   "id": "s0014_0473c",
@@ -3769,7 +3769,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "同時に、その影は蜘蛛の巣の如くに、{n}主に接近する者の存在を伝えた。{page}男は弾かれたようにＤ・Ｓを見た。{n}その眼は恐怖に見開かれ、意味の{n}判らぬ絶叫が唇から迸る。そして、{n}男は襲いかかってきた。",
-  "en": "At the same time, like a spider's web, the{n}shadow told its master someone{n}was near.{page}The man whipped round to look at D.S. His{n}eyes bulged with fear, and a meaningless{n}scream burst from his lips. Then the man{n}attacked."
+  "en": "At the same time, like a spider's web, the{n}shadow told its master someone{n}was near.{page}The man whipped round to look at D.S. His{n}eyes bulged with fear, and a meaningless{n}scream burst from his lips. Then the{n}man attacked."
  },
  {
   "id": "s0014_04828",
@@ -3889,7 +3889,7 @@
    "ボル"
   ],
   "jp": "ぬううっ！　まだだ！　このボル・{n}ギル・ボル、まだ討たれてやる訳には{n}いかぬ！",
-  "en": "Nnngh! Not yet! I, Bol Gil Bol, cannot yet be{n}slain!"
+  "en": "Nnngh! Not yet! I, Bol Gil Bol, cannot yet{n}be slain!"
  },
  {
   "id": "s0014_04990",
@@ -4249,7 +4249,7 @@
    "ヴァイ"
   ],
   "jp": "まだ探索してない船室があるんじゃ{n}ねーか？",
-  "en": "Aren't there still some cabins we haven't{n}explored?"
+  "en": "Aren't there still some cabins we{n}haven't explored?"
  },
  {
   "id": "s0014_05428",
@@ -4321,7 +4321,7 @@
    ""
   ],
   "jp": "ヨーコ玉の癒しと同じ種類の、より{n}根源から力を蘇らせる波動――。{page}溢れる光が治まった時、Ｄ・Ｓの肉体{n}には限界まで活力が充填され、消費した{n}魔力も完全に回復していた。ヨーコ玉{n}もその器いっぱいに法力が補充された{n}ようであった。",
-  "en": "A wave of the same kind as the Yoko orb's{n}healing, restoring strength from a deeper{n}source--{page}When the flood of light subsided, D.S.'s{n}body was charged with vigor to the limit,{n}and his spent magic fully restored. The{n}Yoko orb too seemed refilled with power{n}to the brim."
+  "en": "A wave of the same kind as the Yoko orb's{n}healing, restoring strength from a{n}deeper source--{page}When the flood of light subsided, D.S.'s{n}body was charged with vigor to the limit,{n}and his spent magic fully restored. The{n}Yoko orb too seemed refilled with power{n}to the brim."
  },
  {
   "id": "s0014_057bc",

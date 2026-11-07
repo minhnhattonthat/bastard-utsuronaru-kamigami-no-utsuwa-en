@@ -69,7 +69,7 @@
    "ボル"
   ],
   "jp": "むっ？　何か背後から近づいてくるで{n}ござる",
-  "en": "Hm? Something approaches from behind,{n}forsooth."
+  "en": "Hm? Something approaches from{n}behind, forsooth."
  },
  {
   "id": "s0170_009d4",
@@ -213,7 +213,7 @@
    "カイ"
   ],
   "jp": "だったらシャキっとしろおっ！{n}どうしてこんなのが男に生まれて、{n}俺は女なんだ！　ったく！",
-  "en": "Then stand up straight! Why does a thing like{n}that get born a man when I'm a woman!{n}Honestly!"
+  "en": "Then stand up straight! Why does a thing like{n}that get born a man when I'm a{n}woman! Honestly!"
  },
  {
   "id": "s0170_00af4",
@@ -381,7 +381,7 @@
    "ロス"
   ],
   "jp": "そ。アタシの勘じゃココには結構な{n}お宝が眠ってる気がするのよ。どっち{n}が先にステキな宝物をゲットできるか、{n}競争ってコトでどう？",
-  "en": "Right. My instincts say quite a treasure's{n}sleeping in here. How about a race, to see{n}who gets their hands on a lovely prize{n}first?"
+  "en": "Right. My instincts say quite a treasure's{n}sleeping in here. How about a race, to see{n}who gets their hands on a lovely{n}prize first?"
  },
  {
   "id": "s0170_00cac",
@@ -717,7 +717,7 @@
    "ダイ"
   ],
   "jp": "しかし、それは陽光のもとで光り輝く{n}美しさではなかった。日の射さぬ深い{n}鍾乳洞、あるいは光の届かぬ漆黒の{n}深海――そのような場所でこそ映える、{n}どこか背徳と退廃を漂わせた美である。{page}言葉を吐く度に唇から覗く、白い犬歯{n}が奇妙に長く、鋭く見えた。",
-  "en": "But it was not a beauty that shone in the{n}sunlight. It was the beauty of a place the{n}sun never touches, a deep limestone cave{n}or the lightless black ocean deep--a{n}beauty adrift with a hint of depravity and{n}decadence.{page}The white canines that showed between{n}his lips with every word looked strangely{n}long and sharp."
+  "en": "But it was not a beauty that shone in the{n}sunlight. It was the beauty of a place the{n}sun never touches, a deep limestone cave{n}or the lightless black ocean deep--a{n}beauty adrift with a hint of depravity{n}and decadence.{page}The white canines that showed between{n}his lips with every word looked strangely{n}long and sharp."
  },
  {
   "id": "s0170_01664",
@@ -981,7 +981,7 @@
    "ダイ"
   ],
   "jp": "元は人間であったが、元来その血筋が{n}秘めていた因子を魔術儀式によって{n}顕在化させ、人間以上の能力を有する{n}不死怪物の王へと自らを変質させた{n}異能の術者であった。",
-  "en": "Originally human, he was a gifted sorcerer{n}who had used a magic ritual to bring out{n}a factor hidden in his bloodline,{n}transforming himself into a king of the{n}undead with powers beyond those of{n}humans."
+  "en": "Originally human, he was a gifted sorcerer{n}who had used a magic ritual to bring out{n}a factor hidden in his bloodline,{n}transforming himself into a king of the{n}undead with powers beyond those{n}of humans."
  },
  {
   "id": "s0170_01a88",
@@ -1005,7 +1005,7 @@
    "ダイ"
   ],
   "jp": "しかしランと同じく失った記憶の隙を{n}衝かれ、魔雷妃の誘惑に乗ったダイは{n}妖魔に樹棺城へと連行され、そこで{n}吸血鬼の魔力を根こそぎ搾り取る儀式{n}を強要された。魔力を吸引されたダイ{n}の肉体は吸血鬼としての強靱さを失い、{n}今の、元の人間だった頃の貧弱な身体{n}に戻ってしまったのである。",
-  "en": "But as with Ran, the gap in his lost{n}memory was exploited, and Di fell for the{n}Demon Thunder Queen's temptation.{n}Demons took him to the Tree-Coffin{n}Castle, where he was forced through a{n}ritual that wrung out his vampire magic to{n}the last drop. His magic drained, Di's body{n}lost its vampiric might and went back to{page}the feeble body he had once had as a{n}human."
+  "en": "But as with Ran, the gap in his lost{n}memory was exploited, and Di fell for the{n}Demon Thunder Queen's temptation.{n}Demons took him to the Tree-Coffin{n}Castle, where he was forced through a{n}ritual that wrung out his vampire magic to{n}the last drop.{page}His magic drained, Di's body lost its{n}vampiric might and went back to the{n}feeble body he had once had as{n}a human."
  },
  {
   "id": "s0170_01b9c",
@@ -1053,7 +1053,7 @@
    "ダイ"
   ],
   "jp": "この身体にあの漲る魔力さえ戻って{n}くれば、私には恐れるものなど何も{n}ないのですが……ああ、美しかった私！{n}カムバックマイパワーッ！　あうう",
-  "en": "If only that surging magic would return to{n}this body, I should have nothing to fear... Ah,{n}my beautiful self! Come back, my power!{n}Ohhh..."
+  "en": "If only that surging magic would return to{n}this body, I should have nothing to fear... Ah,{n}my beautiful self! Come back, my{n}power! Ohhh..."
  },
  {
   "id": "s0170_01cb4",
@@ -1341,7 +1341,7 @@
    "ダイ"
   ],
   "jp": "その時、ダイを踏みつけるＤ・Ｓの{n}懐からイヤリングがこぼれた。以前、{n}森で蝙蝠の死骸から入手したもので、{n}月を模した水晶の飾りの中には青白く{n}輝く液体が詰まっている。",
-  "en": "Just then an earring fell from the breast{n}of D.S.'s clothes as he trod on Di. He had{n}gotten it from a dead bat in the forest{n}earlier, and inside its crystal ornament,{n}shaped like a moon, was a pale, glowing{n}liquid."
+  "en": "Just then an earring fell from the breast{n}of D.S.'s clothes as he trod on Di. He had{n}gotten it from a dead bat in the forest{n}earlier, and inside its crystal ornament,{n}shaped like a moon, was a pale,{n}glowing liquid."
  },
  {
   "id": "s0170_020a0",
@@ -1365,7 +1365,7 @@
    "ダイ"
   ],
   "jp": "おお――っ！　それは！　この叡智の{n}塊ダイ・アモンが、儀式を受ける前に{n}少しだけ退避させておいた魔力の{n}エキスではないですかぁ！",
-  "en": "Ooooh! That is! That is the extract of magic{n}that I, Di-Amon, that mass of wisdom, set{n}aside just a little before I underwent the{n}ritual!"
+  "en": "Ooooh! That is! That is the extract of magic{n}that I, Di-Amon, that mass of wisdom, set{n}aside just a little before I underwent{n}the ritual!"
  },
  {
   "id": "s0170_02120",
@@ -1461,7 +1461,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "返してやらねーでもねえが、ひとつ{n}条件がある――",
-  "en": "I might give it back, but I got one{n}condition--"
+  "en": "I might give it back, but I got{n}one condition--"
  },
  {
   "id": "s0170_022b4",
@@ -1509,7 +1509,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "吸血鬼と言やタフで不死身で何かと{n}便利だからな。ひとつこのＤ・Ｓ様{n}御一行に加わって、樹棺城の魔雷妃ん{n}トコまで付き合ってもらおうか",
-  "en": "Vampires are tough and undying and handy{n}all around. So you're gonna join the party of{n}the great D.S.-sama and come along with{page}us to the Demon Thunder Queen at the{n}Tree-Coffin Castle."
+  "en": "Vampires are tough and undying and handy{n}all around.{page}So you're gonna join the party of the great{n}D.S.-sama and come along with us to the{n}Demon Thunder Queen at the{n}Tree-Coffin Castle."
  },
  {
   "id": "s0170_023bc",
@@ -1629,7 +1629,7 @@
    "ダイ"
   ],
   "jp": "きたきたきたキターッ！　我ながら{n}このエキスは効きますよおぉ！　五臓{n}六腑に染み渡って、邪悪な闇のパワー{n}が漲ってきましたよゥオゥオゥ――",
-  "en": "Here it comes, here it comes, HERE IT COMES!{n}I must say this extract of mine has a kick!{n}It's soaking through my very guts, and{page}evil power of darkness is surging through{n}me, Whoa-oh-oh--"
+  "en": "Here it comes, here it comes, HERE IT COMES!{n}I must say this extract of mine has a kick!{page}It's soaking through my very guts, and evil{n}power of darkness is surging through{n}me, Whoa-oh-oh--"
  },
  {
   "id": "s0170_02560",
@@ -1653,7 +1653,7 @@
    "ダイ"
   ],
   "jp": "雄叫びとともに、天井を仰いだダイの{n}喉から赤い水蒸気が噴き上がる。{page}それは霧となってダイの貧弱な肢体に{n}纏わりつき、白い肌に染み込んでいく。{n}内と外から魔力の源を吸収し、その{n}肉体は急激な変化をきたし始めた。",
-  "en": "With a howl, Di looked to the ceiling and{n}red vapor burst from his throat.{page}It became a mist that clung to his puny{n}limbs and soaked into his white skin.{n}Absorbing the source of magic from within{n}and without, his body began to change{n}violently."
+  "en": "With a howl, Di looked to the ceiling and{n}red vapor burst from his throat.{page}It became a mist that clung to his puny{n}limbs and soaked into his white skin.{n}Absorbing the source of magic from within{n}and without, his body began to{n}change violently."
  },
  {
   "id": "s0170_02630",
@@ -1677,7 +1677,7 @@
    "ダイ"
   ],
   "jp": "肌の薄皮が弾け、剥き出しとなった{n}筋肉繊維が凄まじい速度で紡がれて{n}いく。骨格すらも変化し、シーンや{n}カイと同じ程度だった身長は見る間に{n}１メートル近くも伸び上がる。それを{n}筋肉の束が何重にも包み込み、新たな{n}肌が瞬時に全身を覆い尽くす。魔力に{n}よってもたらされた質量の変化は優に{n}三倍を越えていた。",
-  "en": "The thin skin burst, and bared muscle{n}fibers wove themselves with terrifying{n}speed. Even his skeleton changed: his{n}height, once about that of Sean or Kai,{n}shot up nearly a meter before their eyes.{n}Layers of muscle wrapped around it, and{n}new skin covered his whole body in an{n}instant. The change in mass wrought by{page}magic came to well over threefold."
+  "en": "The thin skin burst, and bared muscle{n}fibers wove themselves with terrifying{n}speed. Even his skeleton changed: his{n}height, once about that of Sean or Kai,{n}shot up nearly a meter before their eyes.{n}Layers of muscle wrapped around it, and{n}new skin covered his whole body in{n}an instant.{page}The change in mass wrought by magic{n}came to well over threefold."
  },
  {
   "id": "s0170_02758",
@@ -1773,7 +1773,7 @@
    "シーン"
   ],
   "jp": "ニセ者かと思うほど違ってたものね",
-  "en": "He was so different I took him for an{n}impostor."
+  "en": "He was so different I took him for{n}an impostor."
  },
  {
   "id": "s0170_02920",
@@ -2110,7 +2110,7 @@
    "ダイ"
   ],
   "jp": "ハイハイィッ！　この城を統括して{n}いるのは暴凶の三男神、その長兄とか{n}名乗る妖魔です！　だから延長の呪文{n}をかけてチョーダイ！　お願いぃぃ！",
-  "en": "Yes, yes, yes! The one in command of this{n}castle is a demon who calls himself the{n}eldest of the savage Three Male Gods! So{page}cast your extension spell! Pretty{n}pleeease!"
+  "en": "Yes, yes, yes! The one in command of this{n}castle is a demon who calls himself the{n}eldest of the savage Three Male Gods! So{page}cast your extension spell!{n}Pretty pleeease!"
  },
  {
   "id": "s0170_02e3c",
@@ -2377,7 +2377,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "この時、Ｄ・Ｓの脳裏にはある呪文が、{n}記憶の底から浮かび上がってきていた。{page}蘇るきっかけとなったのは、恐らく{n}ダイのマッチョ姿であると思われる。{n}それは極めて邪悪な、太古の呪いを{n}相手に施す術であった。",
-  "en": "Just then a certain spell floated up in{n}D.S.'s mind from the depths of his{n}memory.{page}What had brought it back was, in all{n}likelihood, the sight of the macho Di. It{n}was an extremely evil art for laying an{n}ancient curse upon a foe."
+  "en": "Just then a certain spell floated up in{n}D.S.'s mind from the depths of{n}his memory.{page}What had brought it back was, in all{n}likelihood, the sight of the macho Di. It{n}was an extremely evil art for laying an{n}ancient curse upon a foe."
  },
  {
   "id": "s0170_030f8",
@@ -2519,7 +2519,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "イヤリングとともに手に入れた蝙蝠の{n}ミイラから剥ぎ取った皮膜が、Ｄ・Ｓ{n}の指先で炎となり、次いで青い爪と{n}なって不気味に蠢き始める。",
-  "en": "The membrane stripped from the{n}mummified bat, obtained along with the{n}earring, turned to flame at D.S.'s fingertip,{n}then to a blue nail, and began to writhe{n}eerily."
+  "en": "The membrane stripped from the{n}mummified bat, obtained along with the{n}earring, turned to flame at D.S.'s fingertip,{n}then to a blue nail, and began to{n}writhe eerily."
  },
  {
   "id": "s0170_03294",
@@ -2567,7 +2567,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "コイツはとびっきり邪悪な呪いでな。{n}このＤ・Ｓ様をナメた野郎にピッタリ{n}の魔法だぜ――",
-  "en": "This is one mighty evil curse. Perfect for a{n}guy who screwed with the great{n}D.S.-sama--"
+  "en": "This is one mighty evil curse. Perfect for a{n}guy who screwed with the{n}great D.S.-sama--"
  },
  {
   "id": "s0170_03308",
@@ -3096,7 +3096,7 @@
    "ダイ"
   ],
   "jp": "何でも、暴凶の三男神の長兄とか{n}名乗る、タチの悪い醜いヤツですよ。{n}掃除をサボったくらいで、私をヒドイ{n}目に遭わせる超凶悪な輩です",
-  "en": "They say he calls himself the eldest of the{n}savage Three Male Gods, a nasty, ugly{n}creature. A most vicious brute, who{page}treats me cruelly for so little as skipping my{n}cleaning."
+  "en": "They say he calls himself the eldest of the{n}savage Three Male Gods, a nasty,{n}ugly creature.{page}A most vicious brute, who treats me cruelly{n}for so little as skipping my cleaning."
  },
  {
   "id": "s0170_039c8",
@@ -3866,7 +3866,7 @@
    "ロス"
   ],
   "jp": "あっ！　それってシナプスケーブル！{n}ここにホントにあるなんて、アタシの{n}勘ってスッゴイわあ――",
-  "en": "Oh! That's a synapse cable! To think it's{n}actually here, my instincts are simply{n}amazing--"
+  "en": "Oh! That's a synapse cable! To think it's{n}actually here, my instincts are{n}simply amazing--"
  },
  {
   "id": "s0170_05384",
@@ -4466,7 +4466,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "だが、傷を受けて水への親和力が弱ま{n}っていたのか、妖魔とともに液状化{n}しなかった物体がそこに残されていた。",
-  "en": "But perhaps his wound had weakened his{n}bond with water, for an object that had{n}not turned liquid with the demon was left{n}behind."
+  "en": "But perhaps his wound had weakened his{n}bond with water, for an object that had{n}not turned liquid with the demon was{n}left behind."
  },
  {
   "id": "s0170_05ed4",

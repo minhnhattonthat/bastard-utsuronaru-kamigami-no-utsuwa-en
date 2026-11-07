@@ -165,7 +165,7 @@
    "ヴァイ"
   ],
   "jp": "あ、頭が割れそうだ……誰の、声？{n}か、母ちゃん……？",
-  "en": "M-My head's splitting... Whose voice is that?{n}M-Mom...?"
+  "en": "M-My head's splitting... Whose voice is{n}that? M-Mom...?"
  },
  {
   "id": "s0158_00a70",
@@ -285,7 +285,7 @@
    "ヴァイ"
   ],
   "jp": "俯いた顔をゆっくりと上げ、ヴァイは{n}襲いかかってきた。",
-  "en": "Slowly raising his lowered face, Vai{n}attacked."
+  "en": "Slowly raising his lowered face,{n}Vai attacked."
  },
  {
   "id": "s0158_00b98",
@@ -429,7 +429,7 @@
    "ヴァイ"
   ],
   "jp": "絶叫し、そのまま白目を剥いてヴァイ{n}は失神した。何かに強烈に抗ったのか、{n}力をこめた指の痕がこめかみの辺りに{n}残っている。",
-  "en": "With a scream Vai rolled his eyes back and{n}fainted. As if he had fought something{n}with all his strength, marks of his{n}clenching fingers remained around his{n}temples."
+  "en": "With a scream Vai rolled his eyes back and{n}fainted. As if he had fought something{n}with all his strength, marks of his{n}clenching fingers remained around{n}his temples."
  },
  {
   "id": "s0158_00d40",
@@ -717,7 +717,7 @@
    "ジオン"
   ],
   "jp": "黒い影と見えたのは、黒く染め上げら{n}れた鎧を着込み、幅広の大剣を手に{n}した戦士であった。美しいブロンドの{n}巻き毛と、彫像造形の模範となるほど{n}に整った容貌、そして肉体賛美の象徴{n}となりそうな、均整の取れた筋肉に{n}覆われた逞しい体躯――。{page}だが、青年の目には尋常ではない、{n}狂信的とも言うべき光が宿っていた。",
-  "en": "What had seemed a black shadow was a{n}warrior in black-dyed armor, holding a{n}broad greatsword. Beautiful curly blond{n}hair, features so perfect they could{n}serve as a sculptor's model, and a{n}powerful frame clad in balanced muscle, a{n}very emblem of the glory of the{n}body--.{page}But in the young man's eyes dwelt an{n}abnormal light, one that could only be{n}called fanatical."
+  "en": "What had seemed a black shadow was a{n}warrior in black-dyed armor, holding a{n}broad greatsword. Beautiful curly blond{n}hair, features so perfect they could{n}serve as a sculptor's model, and a{n}powerful frame clad in balanced muscle, a{n}very emblem of the glory of{n}the body--.{page}But in the young man's eyes dwelt an{n}abnormal light, one that could only be{n}called fanatical."
  },
  {
   "id": "s0158_014d4",
@@ -957,7 +957,7 @@
    "シーン"
   ],
   "jp": "早く……早く兄さんの呪縛を解いて{n}あげたい――",
-  "en": "Quickly... I want to break my brother's curse{n}quickly--"
+  "en": "Quickly... I want to break my brother's{n}curse quickly--"
  },
  {
   "id": "s0158_01a00",
@@ -1053,7 +1053,7 @@
    "ヴァイ"
   ],
   "jp": "ヨルグ！　俺に当て身を入れてくれ！{n}こ……このままじゃ、操られちまう！",
-  "en": "Jorg! Knock me out with a clean chop!{n}Th-The way this is going, I'm gonna get{n}controlled!"
+  "en": "Jorg! Knock me out with a clean chop!{n}Th-The way this is going, I'm gonna{n}get controlled!"
  },
  {
   "id": "s0158_01aa0",
@@ -1413,7 +1413,7 @@
    "ラン"
   ],
   "jp": "ふたりの呼びかけが、屈服しかけた{n}ランの抵抗の炎を再び燃え上がらせた。{page}瞳に激しい輝きが戻り、幻体を振り{n}払うようにして飛び退く。その瞬間、{n}幻惑の子守歌は止まり、子供を慈しむ{n}母のようであった魔雷妃の表情は、{n}狂気の母性を露にした鬼のものへと{n}一変した。",
-  "en": "The two voices calling out rekindled the{n}flame of resistance in Ran, who had been{n}on the verge of yielding.{page}A fierce glow returned to his eyes, and he{n}leapt back as if to shake off the phantom.{n}In that instant the bewitching lullaby{n}stopped, and the Demon Thunder Queen's{n}face, like a mother cherishing her child,{n}became that of an ogress, baring a mad{n}motherhood."
+  "en": "The two voices calling out rekindled the{n}flame of resistance in Ran, who had been{n}on the verge of yielding.{page}A fierce glow returned to his eyes, and he{n}leapt back as if to shake off the phantom.{n}In that instant the bewitching lullaby{n}stopped, and the Demon Thunder Queen's{n}face, like a mother cherishing her child,{n}became that of an ogress, baring a{n}mad motherhood."
  },
  {
   "id": "s0158_01fdc",
@@ -1581,7 +1581,7 @@
    "ネイ"
   ],
   "jp": "鎧の拘束が弛み、ランは激しく息を{n}吐いて意識を失った。動揺した幻体は{n}輪郭を不規則に歪め、妖婦の衣を剥ぎ{n}取られそうに揺らめく。{page}と、中央の石像の目が妖しく光り、{n}そこから真紅の巨馬の幻影が躍り出て{n}魔雷妃の幻体と融合した。",
-  "en": "The armor's grip loosened, and Ran let out{n}a violent breath and lost consciousness.{n}The shaken phantom's outline warped{n}unevenly and wavered, as if her{n}seductress's robe were being{n}torn away.{page}Then the eyes of the central statue{n}gleamed strangely, a phantom of a giant{n}crimson horse leapt out, and it merged{n}with the Demon Thunder Queen's{n}phantom."
+  "en": "The armor's grip loosened, and Ran let out{n}a violent breath and lost consciousness.{n}The shaken phantom's outline warped{n}unevenly and wavered, as if her{n}seductress's robe were being{n}torn away.{page}Then the eyes of the central statue{n}gleamed strangely, a phantom of a giant{n}crimson horse leapt out, and it merged{n}with the Demon Thunder{n}Queen's phantom."
  },
  {
   "id": "s0158_022f0",
@@ -1605,7 +1605,7 @@
    "ネイ"
   ],
   "jp": "正体を現したのは、馬頭を象った兜を{n}被り、血の色に染め上げた甲冑を纏う{n}女妖魔であった。王鴉、毒乙女と{n}似通った容貌であり、この妖魔を{n}含めて三姉妹となることが窺い知れる。{n}美しいが、やはり拭い難い邪悪と{n}狂気を漂わせた魔性であった。",
-  "en": "What now showed itself was a demon{n}woman wearing a helmet shaped like a{n}horse's head and armor dyed the color of{n}blood. Her features were like those of{n}King Raven and the Poison Maiden, and it{n}could be guessed that with this demon{n}they made three sisters. She was{n}beautiful, yet she was a fiendish thing,{page}exuding an evil and madness that nothing{n}could wipe away."
+  "en": "What now showed itself was a demon{n}woman wearing a helmet shaped like a{n}horse's head and armor dyed the color of{n}blood. Her features were like those of{n}King Raven and the Poison Maiden, and it{n}could be guessed that with this demon{n}they made three sisters.{page}She was beautiful, yet she was a fiendish{n}thing, exuding an evil and madness that{n}nothing could wipe away."
  },
  {
   "id": "s0158_023d8",
@@ -1725,7 +1725,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "馬の嘶きに似た叫びを上げて、{n}馬頭母は手にした剣をかざした。{n}それが、闘いの合図となった。",
-  "en": "With a cry like the neighing of a horse,{n}the Horsehead Mother raised the sword in{n}her hand. That was the signal for{n}battle."
+  "en": "With a cry like the neighing of a horse,{n}the Horsehead Mother raised the sword in{n}her hand. That was the signal{n}for battle."
  },
  {
   "id": "s0158_025ec",
@@ -1773,7 +1773,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "馬頭母が剣を振り上げた、その時で{n}あった。微かな風切り音とともに、{n}鋼がしなる響きが一瞬に近づく。と、{n}馬頭母の頬に細い傷が一筋刻まれる。",
-  "en": "Just as the Horsehead Mother raised her{n}sword, it happened. With a faint rush of{n}air, the sound of flexing steel drew near{n}in an instant. Then a single thin wound{n}was carved into the Horsehead Mother's{n}cheek."
+  "en": "Just as the Horsehead Mother raised her{n}sword, it happened. With a faint rush of{n}air, the sound of flexing steel drew near{n}in an instant. Then a single thin wound{n}was carved into the Horsehead{n}Mother's cheek."
  },
  {
   "id": "s0158_026bc",
@@ -1821,7 +1821,7 @@
    "マカパイン"
   ],
   "jp": "その男は私の獲物だ。手を出そうと{n}言うなら妖魅であろうと容赦せぬぞ",
-  "en": "That man is my prey. If you mean to lay a{n}hand on him, I will show no mercy, even to a{n}fiend."
+  "en": "That man is my prey. If you mean to lay a{n}hand on him, I will show no mercy, even to{n}a fiend."
  },
  {
   "id": "s0158_02708",
@@ -2229,7 +2229,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "俺も構わねえぜ。どうしても気に{n}してえってんなら、今の助太刀で{n}チャラにしてやるよ",
-  "en": "I'm fine with it too. If you really gotta fret{n}about it, we'll call that little assist just now{n}square."
+  "en": "I'm fine with it too. If you really gotta fret{n}about it, we'll call that little assist just{n}now square."
  },
  {
   "id": "s0158_02bb0",
@@ -2325,7 +2325,7 @@
    "マカパイン"
   ],
   "jp": "改めてお願いしよう。よろしく頼む",
-  "en": "Let me ask you properly, then. I am in your{n}hands."
+  "en": "Let me ask you properly, then. I am in{n}your hands."
  },
  {
   "id": "s0158_02cd0",
@@ -2757,7 +2757,7 @@
    "カイ"
   ],
   "jp": "鬼道衆としての記憶も、核となる部分{n}には靄がかかったように思い出せない{n}……いずれにせよその鍵は樹棺城に{n}――魔雷妃の正体にあるはずだ",
-  "en": "Even our memories of being the Kido Corps{n}are hazy at the core, I can't recall them...{n}Either way, the key to that must lie in the{n}Tree-Coffin Castle--in what the Demon{page}Thunder Queen truly is."
+  "en": "Even our memories of being the Kido Corps{n}are hazy at the core, I can't recall them...{page}Either way, the key to that must lie in the{n}Tree-Coffin Castle--in what the Demon{n}Thunder Queen truly is."
  },
  {
   "id": "s0158_033b0",
@@ -2925,7 +2925,7 @@
    "ラン"
   ],
   "jp": "あいつは何かの儀式に参加させられる{n}ということだったが……どこにいるの{n}かまでは、黒騎士の任務外だったので{n}判らないな――",
-  "en": "They were going to have him take part in{n}some sort of ritual... But where he is lay{n}outside the Black Knight's duties, so I do not{n}know--"
+  "en": "They were going to have him take part in{n}some sort of ritual... But where he is lay{n}outside the Black Knight's duties, so I do{n}not know--"
  },
  {
   "id": "s0158_035e8",
@@ -2973,7 +2973,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "――そうだ。龍樹に向かう前に、{n}この先の湖を確認してみねえとな",
-  "en": "--Right. Before we head for the Dragon{n}Tree, we oughta check out that lake up{n}ahead."
+  "en": "--Right. Before we head for the Dragon{n}Tree, we oughta check out that lake{n}up ahead."
  },
  {
   "id": "s0158_04098",
@@ -3285,7 +3285,7 @@
    "ヴァイ"
   ],
   "jp": "……あれれ？　俺どうしたんだ？{n}痛、イテテテ……？",
-  "en": "...Huh? What happened to me? Ow, ow,{n}ow...?"
+  "en": "...Huh? What happened to me? Ow,{n}ow, ow...?"
  },
  {
   "id": "s0158_04380",
@@ -3465,7 +3465,7 @@
    "ヴァイ"
   ],
   "jp": "それがＤ・Ｓ……アンタを襲えって{n}囁くんだ。そうすりゃ痛みから解放{n}されるって……そこで、もう頭ン中が{n}真っ白になっちまった",
-  "en": "And it was whispering at me to attack you,{n}D.S.... That I'd be free of the pain if I did...{n}Right then my head just went totally{n}blank."
+  "en": "And it was whispering at me to attack you,{n}D.S.... That I'd be free of the pain if I did...{n}Right then my head just went{n}totally blank."
  },
  {
   "id": "s0158_04648",

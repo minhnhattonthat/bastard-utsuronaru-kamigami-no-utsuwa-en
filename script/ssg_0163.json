@@ -45,7 +45,7 @@
    ""
   ],
   "jp": "湖の半ばで途切れた橋の突端に、湖面{n}に立ち上る霧を纏ってイングヴェイが{n}佇んでいた。謎めいた湖水を見つめる{n}彼の表情は沈み、恐らくはその記憶に{n}かかった霧の向こうにいる、主の安否{n}を気遣って苦悩しているようであった。",
-  "en": "At the tip of a bridge broken off halfway{n}across the lake stood Yngwei, wrapped in{n}the mist rising from the water. His face{n}was sunk in gloom as he gazed at the{n}mysterious lake, and he seemed{n}tormented by fear for his liege, who was{n}perhaps beyond the mist that clouded his{n}memory."
+  "en": "At the tip of a bridge broken off halfway{n}across the lake stood Yngwei, wrapped in{n}the mist rising from the water. His face{n}was sunk in gloom as he gazed at the{n}mysterious lake, and he seemed{n}tormented by fear for his liege, who was{n}perhaps beyond the mist that clouded{n}his memory."
  },
  {
   "id": "s0163_00a48",
@@ -165,7 +165,7 @@
    "イングヴェイイングヴェイ・フォン・マルムステ"
   ],
   "jp": "兄弟が引き裂かれるとは、何と気の{n}毒な……しかし、残念だがその幻術を{n}使う娘とやらには出会っていない",
-  "en": "To see brothers torn apart, how sad... But{n}alas, I have not met this girl who uses{n}illusions."
+  "en": "To see brothers torn apart, how sad... But{n}alas, I have not met this girl who{n}uses illusions."
  },
  {
   "id": "s0163_00c00",
@@ -285,7 +285,7 @@
    "イングヴェイイングヴェイ・フォン・マルムステ"
   ],
   "jp": "祈る仕草を見せ、イングヴェイは{n}桟橋を引き返して森に消えていった。",
-  "en": "With a gesture of prayer, Yngwei went{n}back down the pier and vanished into the{n}forest."
+  "en": "With a gesture of prayer, Yngwei went{n}back down the pier and vanished into{n}the forest."
  },
  {
   "id": "s0163_00d70",
@@ -333,7 +333,7 @@
    ""
   ],
   "jp": "あの神秘的な湖水は、水妖の湖から{n}流入する水量が激減したのを受けて、{n}あたかも幻のように消失していた。{page}どうやらこの湖の底は際限なく水を{n}吸い込む地質らしく、常に膨大な水が{n}供給されていなければ、湖としての{n}外観を保てないようであった。",
-  "en": "As the water flowing in from the water{n}spirits' lake dropped sharply, that{n}mysterious lake had vanished like an{n}illusion.{page}It seemed that the lake's bed was of a{n}kind to swallow water without end, and it{n}could keep its look as a lake only so long{n}as a vast flow was always supplied."
+  "en": "As the water flowing in from the water{n}spirits' lake dropped sharply, that{n}mysterious lake had vanished like{n}an illusion.{page}It seemed that the lake's bed was of a{n}kind to swallow water without end, and it{n}could keep its look as a lake only so long{n}as a vast flow was always supplied."
  },
  {
   "id": "s0163_01098",
@@ -505,7 +505,7 @@
    "ボル"
   ],
   "jp": "ここから降りられそうでござるな",
-  "en": "It seems one can climb down from here,{n}forsooth."
+  "en": "It seems one can climb down from{n}here, forsooth."
  },
  {
   "id": "s0163_012e4",
@@ -793,7 +793,7 @@
    "バ・ソリー"
   ],
   "jp": "ええい、やかましい！　バ・ソリー様{n}の怒りの一撃を受けてみろぉぉぉ！",
-  "en": "Aargh, silence! Take the furious blow of Ba{n}Thory-sama!"
+  "en": "Aargh, silence! Take the furious blow of{n}Ba Thory-sama!"
  },
  {
   "id": "s0163_01688",
@@ -817,7 +817,7 @@
    "バ・ソリー"
   ],
   "jp": "あぐう……きょ、今日はこのくらいで{n}カンベンしてやるう――",
-  "en": "Agugh... I-I'll let you off with this much for{n}today--"
+  "en": "Agugh... I-I'll let you off with this much{n}for today--"
  },
  {
   "id": "s0163_016c4",
@@ -1177,7 +1177,7 @@
    "バ・ソリー"
   ],
   "jp": "そんなコトでいいなら、むわったく{n}問題なし！　どこでもついて行かせて{n}もらおうでわないかあ！",
-  "en": "If that's all, there is abso-looootely no{n}problem! I shall follow you anywhere, yes{n}indeeeed!"
+  "en": "If that's all, there is abso-looootely no{n}problem! I shall follow you anywhere,{n}yes indeeeed!"
  },
  {
   "id": "s0163_01bc4",
@@ -1273,7 +1273,7 @@
    "シーラ"
   ],
   "jp": "む……蟲使いとは、こんなにも凄い{n}能力なのですね",
-  "en": "B-Bug tamers truly have such amazing{n}powers..."
+  "en": "B-Bug tamers truly have such{n}amazing powers..."
  },
  {
   "id": "s0163_01d48",
@@ -1297,7 +1297,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "シーラ……言っとくがアレをまた口{n}から出したりするワケじゃねーからな",
-  "en": "Sheila... Just so you know, he ain't gonna{n}bring that thing back up through his{n}mouth."
+  "en": "Sheila... Just so you know, he ain't gonna{n}bring that thing back up through{n}his mouth."
  },
  {
   "id": "s0163_01d90",

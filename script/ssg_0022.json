@@ -21,7 +21,7 @@
    ""
   ],
   "jp": "洞窟は、先刻とは別の海岸の、島状の{n}岩場に続いていた。",
-  "en": "The cave led to a rocky, island-like{n}stretch on a different shore from{n}before."
+  "en": "The cave led to a rocky, island-like{n}stretch on a different shore{n}from before."
  },
  {
   "id": "s0022_00850",
@@ -669,7 +669,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "ちょっとした重さじゃ踏み板を{n}固定できそうにねえし……おい、{n}ヴァイよ。オマエ扉が閉まる前に{n}気合いで飛び込んでみねえか？",
-  "en": "No small weight's gonna hold the plate{n}down... hey, Vai. Why don't you get psyched{n}up and dive through before the door{n}shuts?"
+  "en": "No small weight's gonna hold the plate{n}down... hey, Vai. Why don't you get psyched{n}up and dive through before the{n}door shuts?"
  },
  {
   "id": "s0022_011a8",
@@ -741,7 +741,7 @@
    "ヴァイ"
   ],
   "jp": "じゃ、何か？　俺が万に一つの{n}命懸けの挑戦をして、しかも無駄に{n}なっちゃうワケか？",
-  "en": "So what, you're saying I bet my life on a{n}one-in-ten-thousand shot, and it's all for{n}nothing?"
+  "en": "So what, you're saying I bet my life on a{n}one-in-ten-thousand shot, and it's all{n}for nothing?"
  },
  {
   "id": "s0022_0128c",
@@ -765,7 +765,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "さらに、ふたつの扉の間に閉じ{n}込められて、もう俺ひとりじゃ開け{n}られないから、そのうち空気もなく{n}なって、あえなく昇天するワケだ",
-  "en": "Plus, you'd get stuck between the two{n}doors, and I couldn't open them on my own,{n}so you'd run out of air and go straight to{n}heaven."
+  "en": "Plus, you'd get stuck between the two{n}doors, and I couldn't open them on my own,{n}so you'd run out of air and go straight{n}to heaven."
  },
  {
   "id": "s0022_0130c",
@@ -909,7 +909,7 @@
    "ヨシュア"
   ],
   "jp": "これ以上手間取っては敵の思う壺だ。{n}しばらく私も同行して助力しよう",
-  "en": "Any more delay plays into the enemy's{n}hands. I will accompany you and help for a{n}while."
+  "en": "Any more delay plays into the enemy's{n}hands. I will accompany you and help for{n}a while."
  },
  {
   "id": "s0022_01440",
@@ -1029,7 +1029,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "そう言うコト。頭数が揃ってて{n}助かったぜ",
-  "en": "That's the idea. Good thing we got enough{n}bodies."
+  "en": "That's the idea. Good thing we got{n}enough bodies."
  },
  {
   "id": "s0022_01574",

@@ -9,6 +9,8 @@ except your one verdict file: no edits to the repo, no git, no subagents.
 - Optional: the original ROM's sheets (`work/qa/tour_jp/`, same ids) and `glossary.md`.
 
 ## How to look
+- Tour sheets are half or third scale, so no text on them can be read, and zooming a sheet doesn't help. Read the full-size pages from `tools/debug/qa_full.py` (`work/qa/full/`, its docstring maps ids to pages; about 1,000 tokens a page of 12, 2,300 for a page of 30). A scene's first page is often boot, card and prologue.
+- A battle's first log row is fixed and later rows scroll under it, on the original too: a row that stays put while the others move is not a bug.
 - Read each sheet whole first. Where text is small, zoom into it with
   `python -X utf8 $SKILL/scripts/sheet.py SHEET.png --crop x,y,w,h --zoom 3 --out <scratch>.png` and read that.
 - When something looks wrong, open the same id from `tour_jp/` (`sheet.py EN.png --compare JP.png`). If the

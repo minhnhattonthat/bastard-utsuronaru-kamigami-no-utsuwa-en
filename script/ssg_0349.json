@@ -117,7 +117,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "関係ねーな。邪魔するヤツはどいつも{n}こいつも木っ端微塵にブチ砕いてやる！",
-  "en": "Don't matter. Anybody who gets in my way,{n}I'll smash every last one of 'em to{n}splinters!"
+  "en": "Don't matter. Anybody who gets in my way,{n}I'll smash every last one of 'em{n}to splinters!"
  },
  {
   "id": "s0349_009d4",
@@ -285,7 +285,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "愛剣や鎧の類は、オメエらの意識に{n}引っ張られて、この世界で実体化した{n}代物だ。それが高次意識界に到達して、{n}真の力を解放し始めたのさ",
-  "en": "Your beloved swords and armor and all that{n}got dragged along by your consciousness{n}and took real form in this world. Now{n}they've reached the Higher Consciousness{page}Realm, they're starting to let loose their{n}true power."
+  "en": "Your beloved swords and armor and all that{n}got dragged along by your consciousness{n}and took real form in this world.{page}Now they've reached the Higher{n}Consciousness Realm, they're starting to let{n}loose their true power."
  },
  {
   "id": "s0349_00eb8",
@@ -526,7 +526,7 @@
    "アビゲイル"
   ],
   "jp": "そうなのですよ。無口なので私も{n}すっかり忘れていましたが……",
-  "en": "Just so. He is so quiet that I too had quite{n}forgotten..."
+  "en": "Just so. He is so quiet that I too had{n}quite forgotten..."
  },
  {
   "id": "s0349_0107c",
@@ -1006,7 +1006,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "だが、かつての強敵であるラーズの{n}侵入は、結果としてＤ・Ｓの精神防壁{n}に“敵”として認識されるに至った。{page}万全の対策を整えていた虚神とは異な{n}り、さしたる手妻を持たぬラーズは{n}防壁から生み出された異分子迎撃の{n}ための猟犬に追われる対象となったの{n}であった。",
-  "en": "But Lars, his mighty foe of old, ended up{n}marked as an \"enemy\" by D.S.'s mental{n}firewall.{page}Unlike the Hollow Gods, with their{n}thorough precautions, Lars had no special{n}tricks, and he became the quarry of the{n}hound that the firewall spawned to{n}intercept intruders."
+  "en": "But Lars, his mighty foe of old, ended up{n}marked as an \"enemy\" by D.S.'s{n}mental firewall.{page}Unlike the Hollow Gods, with their{n}thorough precautions, Lars had no special{n}tricks, and he became the quarry of the{n}hound that the firewall spawned to{n}intercept intruders."
  },
  {
   "id": "s0349_016a8",
@@ -1270,7 +1270,7 @@
    "ラーズ"
   ],
   "jp": "あれは俺の霊質をこの世界で実体化{n}させたものだ。召喚時にはぐれかけた{n}仲間を拾うためにイメージしたもの{n}だが、それなりに役立っただろう？",
-  "en": "That was my spiritual quality given form in{n}this world. I imagined it to pick up comrades{n}who had nearly gone astray in the{page}summoning. It came in pretty handy,{n}didn't it?"
+  "en": "That was my spiritual quality given form in{n}this world. I imagined it to pick up comrades{n}who had nearly gone astray in{n}the summoning.{page}It came in pretty handy, didn't it?"
  },
  {
   "id": "s0349_01afc",
@@ -1342,7 +1342,7 @@
    "ラーズ"
   ],
   "jp": "恐らく俺という標的を見失った異分子{n}迎撃のための成長型プログラムだろう。{n}卿の越次元に反応して、追尾モードに{n}入ってしまったのだろうな",
-  "en": "Most likely a growth-type program for{n}intercepting intruders, one that lost its{n}target: me. It reacted to your{page}dimension-crossing and went into{n}pursuit mode."
+  "en": "Most likely a growth-type program for{n}intercepting intruders, one that lost its{n}target: me.{page}It reacted to your dimension-crossing and{n}went into pursuit mode."
  },
  {
   "id": "s0349_01bfc",

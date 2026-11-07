@@ -69,7 +69,7 @@
    "ボル"
   ],
   "jp": "ザック！　もう止すでござる！　あの{n}お方はカル様であってカル様ではない！{n}我々の手で、正気を取り戻さねば――",
-  "en": "Zakk! Stop this, forsooth! That lord is{n}Kall-sama, yet not Kall-sama! We must{n}restore him to his senses with our own{n}hands--"
+  "en": "Zakk! Stop this, forsooth! That lord is{n}Kall-sama, yet not Kall-sama! We must{n}restore him to his senses with our{n}own hands--"
  },
  {
   "id": "s0301_00908",
@@ -213,7 +213,7 @@
    "ヴァイ"
   ],
   "jp": "ザック！　それがお前の見定めた正義{n}なのかよ!?",
-  "en": "Zakk! Is that what you've decided is{n}right!?"
+  "en": "Zakk! Is that what you've decided{n}is right!?"
  },
  {
   "id": "s0301_00b20",
@@ -261,7 +261,7 @@
    "ザック"
   ],
   "jp": "く……あの時より、ずっと強い！{n}だけど俺は退かない！　この命を燃や{n}し尽くすまで、ここを死守するんだ！",
-  "en": "Ngh... You're way stronger than back then!{n}But I ain't backing down! Till I burn up my{n}whole life, I'm guarding this place to the{n}death!"
+  "en": "Ngh... You're way stronger than back then!{n}But I ain't backing down! Till I burn up my{n}whole life, I'm guarding this place to{n}the death!"
  },
  {
   "id": "s0301_00be0",
@@ -309,7 +309,7 @@
    "ヴァイ"
   ],
   "jp": "その時だった。突如頭上で撃鉄が起き{n}るような音が響き、続いて無数の刃が{n}一行とザックの戦場に降り注いだ。",
-  "en": "It was then. Suddenly overhead there{n}came a sound like a hammer being cocked,{n}and then countless blades rained down on{n}the field where the party and Zakk{n}fought."
+  "en": "It was then. Suddenly overhead there{n}came a sound like a hammer being cocked,{n}and then countless blades rained down on{n}the field where the party and{n}Zakk fought."
  },
  {
   "id": "s0301_00c54",
@@ -741,7 +741,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "騎士の修行は正しき道を見極めるため{n}にあーる！　忠誠を誓うばかりでは、{n}真の騎士道にはほど遠いぜ！",
-  "en": "Knightly training is for telling the right road{n}from the wrong! Swearing loyalty ain't{n}enough, you're a long way off from true{n}chivalry!"
+  "en": "Knightly training is for telling the right road{n}from the wrong! Swearing loyalty ain't{n}enough, you're a long way off from{n}true chivalry!"
  },
  {
   "id": "s0301_01514",
@@ -765,7 +765,7 @@
    "ヴァイ"
   ],
   "jp": "アンタの口から、よもやそんな言葉が{n}出ようとは……",
-  "en": "I never thought I'd hear those words from{n}you..."
+  "en": "I never thought I'd hear those words{n}from you..."
  },
  {
   "id": "s0301_01548",
@@ -1435,7 +1435,7 @@
    "ラン"
   ],
   "jp": "魔戦将軍たちは、Ｄ・Ｓに従った経緯{n}をイングヴェイに告げた。彼の表情{n}には、慈悲深く聡明であったカルとは{n}思えぬ至高王の所業への、衝撃と苦悩{n}の色がありありと浮かぶ。彼自身も、{n}今の至高王に対して忠誠を貫くことに{n}微かな疑問を抱いていたのだろう――。{page}ほどなく、彼の手は剣の柄から離れた。",
-  "en": "The Sorcerer Generals told Yngwei how{n}they had come to follow D.S. His face{n}plainly showed shock and anguish at the{n}High King's deeds, so unlike the merciful,{n}wise Kall. He himself had perhaps held{n}faint doubts about keeping his loyalty to{n}the High King as he was now--{page}Before long, his hand left the hilt of his{n}sword."
+  "en": "The Sorcerer Generals told Yngwei how{n}they had come to follow D.S. His face{n}plainly showed shock and anguish at the{n}High King's deeds, so unlike the merciful,{n}wise Kall. He himself had perhaps held{n}faint doubts about keeping his loyalty to{n}the High King as he was now--{page}Before long, his hand left the hilt of{n}his sword."
  },
  {
   "id": "s0301_021d4",
@@ -1483,7 +1483,7 @@
    "イングヴェイイングヴェイ・フォン・マルムステ"
   ],
   "jp": "イングヴェイはとある国の騎士階級に{n}ある男であった。出自正しき彼は騎士{n}を継ぐ者として幼い頃から訓練を受け、{n}正式に叙位されてからは、諸国に並ぶ{n}ものなしと称された剣の腕もあって、{n}瞬く間に騎士団の要職へと抜擢された。{n}はた目には順風満帆の、将来を約束{n}された人生であった――。",
-  "en": "Yngwei was a man of the knightly class of{n}a certain country. Of good birth, he had{n}trained from childhood to inherit the rank{n}of knight, and once formally dubbed, his{n}swordsmanship, said to be unrivaled in any{n}land, swiftly raised him to high office in{n}the order of knights. To all eyes it was{page}a life of smooth sailing, with a future{n}assured--"
+  "en": "Yngwei was a man of the knightly class of{n}a certain country. Of good birth, he had{n}trained from childhood to inherit the rank{n}of knight, and once formally dubbed, his{n}swordsmanship, said to be unrivaled in any{n}land, swiftly raised him to high office in{n}the order of knights.{page}To all eyes it was a life of smooth sailing,{n}with a future assured--"
  },
  {
   "id": "s0301_0235c",
@@ -1603,7 +1603,7 @@
    "イングヴェイイングヴェイ・フォン・マルムステ"
   ],
   "jp": "人生が、劇的に変わる日を迎えた。{page}皮肉にもそれは、腐敗した王権の{n}終焉の日であった。",
-  "en": "Then came the day his life dramatically{n}changed.{page}Ironically, it was the day the corrupt{n}royal house met its end."
+  "en": "Then came the day his life{n}dramatically changed.{page}Ironically, it was the day the corrupt{n}royal house met its end."
  },
  {
   "id": "s0301_026e0",
@@ -1627,7 +1627,7 @@
    "イングヴェイイングヴェイ・フォン・マルムステ"
   ],
   "jp": "魔導士カル＝ス率いる反逆軍の侵略に、{n}王国は瞬く間に滅ぼされた。完全に{n}統制されたカルの軍隊は庶民に対して{n}一切の略奪、暴行を行わず、堕落しき{n}った支配階級を徹底的に断罪した。{page}国家の機能はカルの手腕によってすぐ{n}さま改善され、民は新たな、そして{n}真の支配者を熱狂的に迎え入れた。",
-  "en": "Invaded by the rebel army led by the{n}sorcerer Kall-Su, the kingdom fell in an{n}instant. Kall's fully disciplined army did no{n}plunder or violence to the common folk,{n}and passed thorough sentence on the{n}utterly debased ruling class.{page}The workings of the state swiftly{n}improved under Kall's skill, and the people{n}welcomed their new, true ruler with{n}fervor."
+  "en": "Invaded by the rebel army led by the{n}sorcerer Kall-Su, the kingdom fell in an{n}instant. Kall's fully disciplined army did no{n}plunder or violence to the common folk,{n}and passed thorough sentence on the{n}utterly debased ruling class.{page}The workings of the state swiftly{n}improved under Kall's skill, and the people{n}welcomed their new, true ruler{n}with fervor."
  },
  {
   "id": "s0301_027f4",
@@ -1651,7 +1651,7 @@
    "イングヴェイイングヴェイ・フォン・マルムステ"
   ],
   "jp": "戦にすらならなかった。少数を除いて{n}腐敗した貴族中心の騎士団はものの{n}数分で壊滅していた。",
-  "en": "It was not even a war. The order of{n}knights, made up of corrupt nobles but{n}for a few, was destroyed in mere{n}minutes."
+  "en": "It was not even a war. The order of{n}knights, made up of corrupt nobles but{n}for a few, was destroyed in{n}mere minutes."
  },
  {
   "id": "s0301_02850",
@@ -1675,7 +1675,7 @@
    "イングヴェイイングヴェイ・フォン・マルムステ"
   ],
   "jp": "イングヴェイはカル＝スと相対し、{n}完膚無きまでに敗北した。戦いの中で{n}思想、胆力、実行力――そのいずれに{n}おいても器の違いを思い知らされた{n}彼は自ら命を断とうとした。新しい、{n}イングヴェイが夢想した国はカルに{n}任せればよい。支配階級の一端を{n}担っていた自分は、王権とともに最期{n}の時を迎えるべきだ――そう思った。",
-  "en": "Yngwei faced Kall-Su and was utterly{n}defeated. In that battle he was made to{n}see the difference in their caliber, in{n}ideals, in courage, in the power to act,{n}and he tried to take his own life. The new{n}land Yngwei had dreamed of could be left{n}to Kall. He himself, who had played a part{n}in the ruling class, should meet his end{page}with the crown. So he thought."
+  "en": "Yngwei faced Kall-Su and was utterly{n}defeated. In that battle he was made to{n}see the difference in their caliber, in{n}ideals, in courage, in the power to act,{n}and he tried to take his own life. The new{n}land Yngwei had dreamed of could be left{n}to Kall.{page}He himself, who had played a part in the{n}ruling class, should meet his end with the{n}crown. So he thought."
  },
  {
   "id": "s0301_02984",
@@ -1699,7 +1699,7 @@
    "イングヴェイイングヴェイ・フォン・マルムステ"
   ],
   "jp": "だが、己に向けた刃はカルによって{n}弾かれた。なおも舌を噛み切ろうと{n}するイングヴェイに新たな王は言った。",
-  "en": "But Kall struck away the blade he had{n}turned on himself. As Yngwei still tried to{n}bite through his own tongue, the new king{n}spoke."
+  "en": "But Kall struck away the blade he had{n}turned on himself. As Yngwei still tried to{n}bite through his own tongue, the new{n}king spoke."
  },
  {
   "id": "s0301_029ec",
@@ -1723,7 +1723,7 @@
    "イングヴェイイングヴェイ・フォン・マルムステ"
   ],
   "jp": "「捨てた命なら、理想の実現のために{n}私に預けろ。私が目指す平等な世界は{n}まだまだ遠い。私にはお前のように、{n}正しき夢を見る人間が必要なのだ――」",
-  "en": "\"If you have thrown your life away,{n}entrust it to me for the sake of an ideal.{n}The equal world I aim for is still far off. I{n}need men like you, who dream true{n}dreams--\""
+  "en": "\"If you have thrown your life away,{n}entrust it to me for the sake of an ideal.{n}The equal world I aim for is still far off. I{n}need men like you, who dream{n}true dreams--\""
  },
  {
   "id": "s0301_02a7c",

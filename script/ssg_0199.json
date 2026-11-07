@@ -69,7 +69,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "そこに、張り巡らせた妖斬糸を弾き、{n}静かに目を伏して待つ妖縛士の姿が{n}あった。横を向いたまま、マカパイン{n}は静かに呟いた。",
-  "en": "There stood the demon binder, plucking{n}his outstretched demon-slash wire,{n}waiting quietly with his eyes cast down.{n}Still looking aside, Macalpine murmured{n}softly."
+  "en": "There stood the demon binder, plucking{n}his outstretched demon-slash wire,{n}waiting quietly with his eyes cast down.{n}Still looking aside, Macalpine{n}murmured softly."
  },
  {
   "id": "s0199_008e4",
@@ -189,7 +189,7 @@
    "マカパイン"
   ],
   "jp": "どうしてもだ。ろくに記憶のない今、{n}貴様との決着――それが私の存在意義{n}なのだ",
-  "en": "I must. With hardly any memory left to me,{n}settling things with you is the reason I{n}exist."
+  "en": "I must. With hardly any memory left to me,{n}settling things with you is the reason{n}I exist."
  },
  {
   "id": "s0199_00a04",
@@ -333,7 +333,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "誰が辱めるっつったよ。仲間として{n}力を貸せって言ってんだ",
-  "en": "Who the hell said anything about disgrace?{n}I'm telling you to lend a hand as a{n}comrade."
+  "en": "Who the hell said anything about disgrace?{n}I'm telling you to lend a hand as{n}a comrade."
  },
  {
   "id": "s0199_00c34",
@@ -597,7 +597,7 @@
    "マカパイン"
   ],
   "jp": "仲間となる道を選ぼう。いや、私から{n}願い出るべきか――よろしく頼む",
-  "en": "I shall choose the path of a comrade. No, I{n}should be the one to ask-- I am in your{n}hands."
+  "en": "I shall choose the path of a comrade. No, I{n}should be the one to ask-- I am in{n}your hands."
  },
  {
   "id": "s0199_01200",
@@ -621,7 +621,7 @@
    ""
   ],
   "jp": "荊に覆われた壁から、巨大な脚が、{n}腕が、頭が抜け出してくる。{page}閃光が疾り、床に激突して燃え上がり、{n}逞しい肉体が実体化する。{page}突風が吹き、霧状の飛沫が宙に渦巻き、{n}巨人の姿に変化していく。",
-  "en": "Out of the thorn-covered wall came huge{n}legs, arms, a head.{page}A flash raced down, struck the floor and{n}blazed up, and a powerful body{n}took form.{page}A gust blew, a mist of spray swirled in the{n}air, and it turned into the shape of a{n}giant."
+  "en": "Out of the thorn-covered wall came huge{n}legs, arms, a head.{page}A flash raced down, struck the floor and{n}blazed up, and a powerful body{n}took form.{page}A gust blew, a mist of spray swirled in the{n}air, and it turned into the shape of{n}a giant."
  },
  {
   "id": "s0199_012bc",
@@ -885,7 +885,7 @@
    "シーン"
   ],
   "jp": "このままでは、我らが、死ぬ――。{n}消滅、してしまう――",
-  "en": "At this rate, we shall die-- We shall be,{n}annihilated--"
+  "en": "At this rate, we shall die-- We shall{n}be, annihilated--"
  },
  {
   "id": "s0199_01558",
@@ -933,7 +933,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "三男神の周囲には、すでに魔法陣が{n}描かれていた。内向きの結界が張られ、{n}暗黒の稲妻の檻が、瀕死の妖魔たちを{n}封じ込めている。",
-  "en": "A magic circle was already drawn around{n}the Three Male Gods. An inward-facing{n}barrier had been raised, and a cage of{n}black lightning held the dying demons{n}sealed."
+  "en": "A magic circle was already drawn around{n}the Three Male Gods. An inward-facing{n}barrier had been raised, and a cage of{n}black lightning held the dying{n}demons sealed."
  },
  {
   "id": "s0199_01618",
@@ -957,7 +957,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "ぐううっ！　じ、実体化を解いて{n}逃げるぞ――",
-  "en": "Urgh! W-we must shed our bodies and{n}flee--"
+  "en": "Urgh! W-we must shed our bodies{n}and flee--"
  },
  {
   "id": "s0199_01648",
@@ -1245,7 +1245,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "妖魔どもが蓄えていた“風”の魔力の{n}結晶体だ。ククク……思ったよりあり{n}やがったな。これならこの樹棺城ごと{n}焼き払えるヤツが使えるぜ――",
-  "en": "The crystallized \"wind\" magic those demons{n}were hoarding. Heh heh heh... More than I{n}expected. With this I can use the kind{page}that'll burn this Tree-Coffin Castle to the{n}ground--"
+  "en": "The crystallized \"wind\" magic those demons{n}were hoarding. Heh heh heh... More than{n}I expected.{page}With this I can use the kind that'll burn this{n}Tree-Coffin Castle to the ground--"
  },
  {
   "id": "s0199_01acc",
@@ -1605,7 +1605,7 @@
    ""
   ],
   "jp": "天へと続くかの如く、長い階段が遥か{n}高みにある尖塔に向かって伸びていた。",
-  "en": "As if it led on up into the heavens, a long{n}staircase stretched toward a spire far{n}above."
+  "en": "As if it led on up into the heavens, a long{n}staircase stretched toward a spire{n}far above."
  },
  {
   "id": "s0199_023cc",
@@ -1701,7 +1701,7 @@
    ""
   ],
   "jp": "紅く妖気を放つ瞳は、何の感情も{n}宿してはおらぬ。記憶の底から姿を{n}現した幼女の幻影は、今や背後で操る{n}妖魔三姉妹の手によって完全に封じ{n}込められているようであった。",
-  "en": "Her eyes, glowing an eerie red, held no{n}feeling. The phantom of the little girl who{n}had surfaced from the depths of memory{n}seemed now to be wholly sealed away by{n}the three demon sisters working her from{n}behind."
+  "en": "Her eyes, glowing an eerie red, held no{n}feeling. The phantom of the little girl who{n}had surfaced from the depths of memory{n}seemed now to be wholly sealed away by{n}the three demon sisters working her{n}from behind."
  },
  {
   "id": "s0199_025d8",
@@ -1725,7 +1725,7 @@
    ""
   ],
   "jp": "操り人形のように立ち上がったハーフ{n}エルフは、長い牙を剥き出して、抑揚{n}なく喋り始めた。それはあたかも、{n}己に向けた暗示の如く空間に響いた。",
-  "en": "The half-elf rose like a marionette, bared{n}her long fangs, and began to speak{n}without inflection. It echoed through the{n}room like a spell she was casting on{n}herself."
+  "en": "The half-elf rose like a marionette, bared{n}her long fangs, and began to speak{n}without inflection. It echoed through the{n}room like a spell she was casting{n}on herself."
  },
  {
   "id": "s0199_02664",
@@ -1773,7 +1773,7 @@
    "ネイ"
   ],
   "jp": "死と血を供する我の贄なり！",
-  "en": "Offerings to me, to serve death and{n}blood!"
+  "en": "Offerings to me, to serve death{n}and blood!"
  },
  {
   "id": "s0199_026fc",
@@ -1821,7 +1821,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "完全に再洗脳されちまってる。一度{n}動きを止めねえとこっちがヤバイぜ",
-  "en": "She's been totally rebrainwashed. Gotta stop{n}her moving first, or we're the ones in deep{n}trouble."
+  "en": "She's been totally rebrainwashed. Gotta stop{n}her moving first, or we're the ones in{n}deep trouble."
  },
  {
   "id": "s0199_027b4",
@@ -1893,7 +1893,7 @@
    "ヴァイ"
   ],
   "jp": "自慢してどーすんだ。厄介な！",
-  "en": "What the hell are you bragging for? Damn{n}nuisance!"
+  "en": "What the hell are you bragging for?{n}Damn nuisance!"
  },
  {
   "id": "s0199_02860",
@@ -1941,7 +1941,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "四の五の言ってるヒマはなさそうだぜ。{n}来るぞ！",
-  "en": "Looks like there's no time to argue. Here she{n}comes!"
+  "en": "Looks like there's no time to argue. Here{n}she comes!"
  },
  {
   "id": "s0199_028ec",
@@ -2133,7 +2133,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "緑の球体は光の帯へと姿を変え、{n}一瞬に魔雷妃の内部へと注ぎ込まれた。{n}それは魔力の核にあった同質の“風”{n}の力に吸収され、そのエネルギーを{n}爆発的に増幅する――。",
-  "en": "The green sphere turned into a band of{n}light, and in an instant poured into the{n}Demon Thunder Queen. It was absorbed by{n}the like power of \"wind\" at the core of{n}her magic, and its energy amplified{n}explosively--"
+  "en": "The green sphere turned into a band of{n}light, and in an instant poured into the{n}Demon Thunder Queen. It was absorbed by{n}the like power of \"wind\" at the core of{n}her magic, and its energy{n}amplified explosively--"
  },
  {
   "id": "s0199_02c7c",
@@ -2661,7 +2661,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "魔雷妃――否、アーシェス・ネイが{n}そこに倒れていた。かつてＤ・Ｓに{n}拾われ、娘として百年以上をともに{n}過ごしたハーフエルフの孤児――。{page}消された名前の封印をＤ・Ｓによって{n}解かれた今、彼女を操る妖魔三姉妹の{n}呪縛もまた、完全に失われていた。",
-  "en": "The Demon Thunder Queen-- no, Arshes{n}Nei lay collapsed there. A half-elf orphan{n}once taken in by D.S., who had spent more{n}than a hundred years with him as his{n}daughter.{page}Now that D.S. had undone the seal on her{n}erased name, the curse by which the{n}three demon sisters worked her was{n}entirely lost as well."
+  "en": "The Demon Thunder Queen-- no, Arshes{n}Nei lay collapsed there. A half-elf orphan{n}once taken in by D.S., who had spent more{n}than a hundred years with him as{n}his daughter.{page}Now that D.S. had undone the seal on her{n}erased name, the curse by which the{n}three demon sisters worked her was{n}entirely lost as well."
  },
  {
   "id": "s0199_0327c",
@@ -2832,7 +2832,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "Ｄ・Ｓの罵倒に、大気がざわざわと{n}震えた。玉座の背後の暗がりに、何か{n}巨大なものが姿を現しつつあった。",
-  "en": "At D.S.'s abuse, the air stirred and{n}trembled. In the darkness behind the{n}throne, something huge was taking{n}shape."
+  "en": "At D.S.'s abuse, the air stirred and{n}trembled. In the darkness behind the{n}throne, something huge was{n}taking shape."
  },
  {
   "id": "s0199_0350c",
@@ -2904,7 +2904,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "いいや譲れぬ。それはわらわが楽しみ{n}よ。絞め殺して全身の骨を砕き、我らが嘴でこやつらの肉をついばみ{n}啖うてやろうではないか――",
-  "en": "No, I shall not yield it. That pleasure is mine.{n}Let us strangle them, crush every bone, and{n}peck and gobble their flesh with our{n}beaks--"
+  "en": "No, I shall not yield it. That pleasure is mine.{n}Let us strangle them, crush every bone, and{n}peck and gobble their flesh with{n}our beaks--"
  },
  {
   "id": "s0199_03670",
@@ -3000,7 +3000,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "それは妖魔三姉妹の貌を持つ、巨大な{n}女神の姿であった。腰から下は大樹の{n}幹ほどの太さを持つ大蛇の胴が長く{n}とぐろを巻き、上半身は三面六臂の{n}異形である。爬虫類と鳥類、そして{n}哺乳類を合成したキメラの如きこの{n}奇態こそが、王鴉、馬頭母、毒乙女ら{n}三姉妹の真の姿であった。",
-  "en": "It was the form of a giant goddess{n}bearing the faces of the three demon{n}sisters. From the waist down, a great{n}serpent's trunk, thick as the bole of a{n}huge tree, lay in long coils; the upper{n}body was a monstrous thing of three{n}faces and six arms. This grotesque{n}chimera of reptile, bird and beast was{page}the true form of the three sisters, King{n}Raven, Horsehead Mother and Poison{n}Maiden."
+  "en": "It was the form of a giant goddess{n}bearing the faces of the three demon{n}sisters. From the waist down, a great{n}serpent's trunk, thick as the bole of a{n}huge tree, lay in long coils; the upper{n}body was a monstrous thing of three{n}faces and six arms.{page}This grotesque chimera of reptile, bird{n}and beast was the true form of the three{n}sisters, King Raven, Horsehead Mother and{n}Poison Maiden."
  },
  {
   "id": "s0199_037cc",
@@ -3384,7 +3384,7 @@
    "ネイ"
   ],
   "jp": "し、死ぬ……殺されてしまう、消えて{n}しまうぅぅぅ……！",
-  "en": "W-we shall die... we shall be killed, we shall{n}vanish...!"
+  "en": "W-we shall die... we shall be killed, we{n}shall vanish...!"
  },
  {
   "id": "s0199_03b0c",
@@ -3456,7 +3456,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "Ｄ・Ｓとネイの合体詠唱により、大地{n}と大気――相反する性質を持つ二種の{n}精霊の力が凄まじい勢いで喚起された。{page}それらは反発し合いながらもふたりの{n}強力な術者の制御により、トライヴン{n}を中心に収斂して共振を始める。",
-  "en": "Through the combined chant of D.S. and{n}Nei, the powers of earth and air, spirits of{n}opposing natures, were called up with{n}terrible force.{page}Though they repelled each other, under{n}the control of the two mighty casters{n}they converged on Trivun and began to{n}resonate."
+  "en": "Through the combined chant of D.S. and{n}Nei, the powers of earth and air, spirits of{n}opposing natures, were called up with{n}terrible force.{page}Though they repelled each other, under{n}the control of the two mighty casters{n}they converged on Trivun and began{n}to resonate."
  },
  {
   "id": "s0199_03c14",
@@ -3504,7 +3504,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "トライヴンを包み込んだ力場に閃光が{n}疾り、その全身を無数の稲妻が駆け{n}巡る。次の瞬間、途轍もない破壊の{n}エネルギーが発生し、トライヴンの{n}巨体をアストラルボディごと粉砕した。{page}続いて爆発の閃光が迸り、西の尖塔を{n}――そして樹棺城を崩壊させながら{n}飲み込んでいく……。",
-  "en": "A flash raced through the field of force{n}enclosing Trivun, and countless bolts of{n}lightning coursed over her whole body.{n}The next instant, a staggering energy of{n}destruction burst forth, and pulverized{n}Trivun's huge body, astral body and all.{page}Then the flash of the explosion spread,{n}swallowing the western spire, and the{n}Tree-Coffin Castle with it, as they{n}collapsed..."
+  "en": "A flash raced through the field of force{n}enclosing Trivun, and countless bolts of{n}lightning coursed over her whole body.{n}The next instant, a staggering energy of{n}destruction burst forth, and pulverized{n}Trivun's huge body, astral body and all.{page}Then the flash of the explosion spread,{n}swallowing the western spire, and the{n}Tree-Coffin Castle with it, as{n}they collapsed..."
  },
  {
   "id": "s0199_03d88",
@@ -3768,7 +3768,7 @@
    "ダイ"
   ],
   "jp": "ヒッ！　じょ、冗談ですお母様ぁ！{n}ごご、ゴメンなさい！",
-  "en": "Eek! J-just a joke, Mother dear! I'm{n}s-s-sorry!"
+  "en": "Eek! J-just a joke, Mother dear!{n}I'm s-s-sorry!"
  },
  {
   "id": "s0199_040ac",
@@ -3912,7 +3912,7 @@
    "ネイ"
   ],
   "jp": "もうよせ、カイ。ランにはランの{n}理由があるのだ。いつかお前にも、{n}判る日が来る――",
-  "en": "Enough, Kai. Ran has his reasons. Someday{n}the day will come when you too{n}understand--"
+  "en": "Enough, Kai. Ran has his reasons. Someday{n}the day will come when you{n}too understand--"
  },
  {
   "id": "s0199_0423c",
@@ -4008,7 +4008,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "ああ。ダークエルフに置き去りに{n}されたお前を拾い、アーシェスと{n}名付けた森だったな……",
-  "en": "Yeah. The forest where I found you, left{n}behind by the dark elves, and named you{n}Arshes..."
+  "en": "Yeah. The forest where I found you, left{n}behind by the dark elves, and named{n}you Arshes..."
  },
  {
   "id": "s0199_04368",
@@ -4176,7 +4176,7 @@
    "オクトールの影"
   ],
   "jp": "鏖帝めは、我々が少々軽く扱い過ぎた{n}かな。この世界でのみ建造し得るあの{n}砦を持ち出し、現世での勢力を少し{n}でも増強しようと図ったようだ――",
-  "en": "Perhaps we treated the Slaughter Emperor{n}somewhat too lightly. It seems he sought to{n}carry off that fort, which can be built in{n}this world alone, to swell his forces in the{page}real world, if only a little--"
+  "en": "Perhaps we treated the Slaughter Emperor{n}somewhat too lightly.{page}It seems he sought to carry off that fort,{n}which can be built in this world alone, to{n}swell his forces in the real world, if only{n}a little--"
  },
  {
   "id": "s0199_045b4",
@@ -4224,7 +4224,7 @@
    "オクトールの影"
   ],
   "jp": "――だが、それは不運ではない。鏖帝{n}ばかりか、トライヴンまでが消滅した{n}今となってはな。恐るべきはＤ・Ｓ、{n}神をも殺す魔人の力よ――",
-  "en": "--Yet this is no mere ill luck. Not now that{n}Trivun as well as the Slaughter Emperor has{n}been annihilated. The one to fear is D.S.,{page}with the power of a demon who slays even{n}gods--"
+  "en": "--Yet this is no mere ill luck. Not now that{n}Trivun as well as the Slaughter Emperor has{n}been annihilated.{page}The one to fear is D.S., with the power of a{n}demon who slays even gods--"
  },
  {
   "id": "s0199_046bc",
@@ -4368,7 +4368,7 @@
    "オクトールの影"
   ],
   "jp": "高次空間経由の念話はこの程度にして{n}おこう。あのお方に聞かれては、無用{n}の咎めを受けることにもなろうからな",
-  "en": "Let us leave our mind-speech through the{n}higher dimension at that. If that one were{n}to overhear us, we might face needless{n}censure."
+  "en": "Let us leave our mind-speech through the{n}higher dimension at that. If that one were{n}to overhear us, we might face{n}needless censure."
  },
  {
   "id": "s0199_04948",
@@ -4392,7 +4392,7 @@
    "ロキの影"
   ],
   "jp": "うむ……しかしあのお方も、何を{n}手間取っておられるのか……",
-  "en": "Mm... Yet what could be keeping that one so{n}long..."
+  "en": "Mm... Yet what could be keeping that one{n}so long..."
  },
  {
   "id": "s0199_04984",

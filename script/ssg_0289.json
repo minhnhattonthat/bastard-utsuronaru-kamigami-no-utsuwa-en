@@ -219,7 +219,7 @@
    "マカパイン"
   ],
   "jp": "……遂にここまで来てしまったか。{n}貴様と再び戦うことなど、あって{n}欲しくはなかったが――",
-  "en": "...So you have finally come this far. I had{n}hoped I would not have to fight you{n}again--"
+  "en": "...So you have finally come this far. I had{n}hoped I would not have to fight{n}you again--"
  },
  {
   "id": "s0289_00ba8",
@@ -411,7 +411,7 @@
    "ヨシュア"
   ],
   "jp": "恥じ入るのは、己が正しいと思う道に{n}踏み出せなかった時にこそだ。正しき{n}大義――正義に身を置く限り、貴様は{n}決して恥知らずなどではない！",
-  "en": "One should feel shame only when one{n}cannot step onto the path one believes is{n}right. So long as you stand with the just{page}cause, with justice, you are no{n}shameless man!"
+  "en": "One should feel shame only when one{n}cannot step onto the path one believes{n}is right.{page}So long as you stand with the just cause,{n}with justice, you are no shameless man!"
  },
  {
   "id": "s0289_00e24",

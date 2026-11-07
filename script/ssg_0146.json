@@ -45,7 +45,7 @@
    ""
   ],
   "jp": "その地は、巨木の内部に繁った森で{n}あった。龍樹の空洞はあまりに巨大で、{n}堆積した土にいつしか木々が芽吹き、{n}そのまま大きな森へと成長したので{n}あろう。",
-  "en": "It was a forest grown lush inside a giant{n}tree. The Dragon Tree's hollow was so{n}vast that trees must have sprouted in{n}the piled earth, growing into a great{n}forest."
+  "en": "It was a forest grown lush inside a giant{n}tree. The Dragon Tree's hollow was so{n}vast that trees must have sprouted in{n}the piled earth, growing into a{n}great forest."
  },
  {
   "id": "s0146_009b4",
@@ -117,7 +117,7 @@
    "シェラ"
   ],
   "jp": "酷い……苦痛の声が聞こえてきたのも{n}無理からぬ姿だ――",
-  "en": "How horrible... No wonder I heard cries of{n}pain--"
+  "en": "How horrible... No wonder I heard cries{n}of pain--"
  },
  {
   "id": "s0146_00ba8",
@@ -381,7 +381,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "妖魔エススの制御が弱まったのか、{n}頭上の翼龍を縛る蔦が弛み、巨体が{n}ぎしりと音を立てて揺らいだ。だが、{n}蔦はほんのわずかに弛緩したに過ぎず、{n}龍は再び宙に静止した。ただ、その{n}振動のせいなのか、それとも死した龍{n}の意志なのか、蔦に絡め取られていた{n}大きな宝石らしき珠が、翼龍の頭部{n}からＤ・Ｓたちのそばに落下してきた。",
-  "en": "Perhaps the demon Esus's control had{n}weakened, for the vines binding the{n}wyvern overhead loosened, and its huge{n}body swayed with a creak. But the vines{n}had slackened only slightly, and the{n}dragon hung still in the air again. Yet{n}whether from the shaking or from the{n}dead dragon's will, a large jewel-like{page}orb tangled in the vines dropped from the{n}wyvern's head, landing near D.S. and his{n}party."
+  "en": "Perhaps the demon Esus's control had{n}weakened, for the vines binding the{n}wyvern overhead loosened, and its huge{n}body swayed with a creak. But the vines{n}had slackened only slightly, and the{n}dragon hung still in the air again.{page}Yet whether from the shaking or from the{n}dead dragon's will, a large jewel-like orb{n}tangled in the vines dropped from the{n}wyvern's head, landing near D.S. and{n}his party."
  },
  {
   "id": "s0146_0114c",
@@ -717,7 +717,7 @@
    "サイクス"
   ],
   "jp": "恐らくはその場所を示すべく、龍は{n}その“翼龍の左眼”を我々に託したと{n}思われるのだが……",
-  "en": "I suspect the dragon entrusted that{n}\"Wyvern's Left Eye\" to us to show that very{n}place..."
+  "en": "I suspect the dragon entrusted that{n}\"Wyvern's Left Eye\" to us to show that{n}very place..."
  },
  {
   "id": "s0146_0167c",
@@ -741,7 +741,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "この謎さえ解けりゃ、心臓を見つけ{n}出せるかも知れねえワケか――",
-  "en": "So if we solve this puzzle, we might find the{n}heart--"
+  "en": "So if we solve this puzzle, we might find{n}the heart--"
  },
  {
   "id": "s0146_016bc",
@@ -765,7 +765,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "その時、目の前の空間に見覚えのある{n}裂け目が生じた。突如現れた亜空間の{n}窓に、それを初めて目にする者は{n}驚愕を露にした。",
-  "en": "Just then a familiar rift opened in the{n}space before them. Those seeing it for{n}the first time showed their shock at the{n}subspace window that had suddenly{n}appeared."
+  "en": "Just then a familiar rift opened in the{n}space before them. Those seeing it for{n}the first time showed their shock at the{n}subspace window that had{n}suddenly appeared."
  },
  {
   "id": "s0146_01734",
@@ -933,7 +933,7 @@
    "カイ"
   ],
   "jp": "奇怪な……妖魔の類ではないのか？",
-  "en": "How bizarre... Is he not some sort of{n}demon?"
+  "en": "How bizarre... Is he not some sort{n}of demon?"
  },
  {
   "id": "s0146_0188c",
@@ -957,7 +957,7 @@
    "サイクス"
   ],
   "jp": "私のことは後でＤ・Ｓにでも説明して{n}もらってくれたまえ",
-  "en": "You may ask D.S. to explain me later, if you{n}please."
+  "en": "You may ask D.S. to explain me later, if{n}you please."
  },
  {
   "id": "s0146_018c4",
@@ -1053,7 +1053,7 @@
    "サイクス"
   ],
   "jp": "だが、龍は暴凶の三男神と名乗る{n}妖魔たちによって心臓を抜かれ、死に{n}等しい状態にある。拘束が弛んだ今、{n}蘇生の鍵はこの心臓にあるのだが――",
-  "en": "But the demons calling themselves the{n}violent Three Male Gods tore out the{n}dragon's heart, leaving it all but dead. Now{n}that its bonds have loosened, the key to{page}reviving it lies in that heart--"
+  "en": "But the demons calling themselves the{n}violent Three Male Gods tore out the{n}dragon's heart, leaving it all but dead.{page}Now that its bonds have loosened, the key{n}to reviving it lies in that heart--"
  },
  {
   "id": "s0146_019f4",
@@ -1101,7 +1101,7 @@
    "サイクス"
   ],
   "jp": "力の波長が根本的に異なるのだ。{n}迂闊に手を出そうものなら、自分自身{n}が変質するほどの影響を受ける――",
-  "en": "The wavelength of its power differs at the{n}root. Lay a careless hand on it, and one is{n}affected so deeply that one's very being{n}changes--"
+  "en": "The wavelength of its power differs at the{n}root. Lay a careless hand on it, and one is{n}affected so deeply that one's very{n}being changes--"
  },
  {
   "id": "s0146_01ae8",
@@ -1125,7 +1125,7 @@
    "サイクス"
   ],
   "jp": "そして、翼龍の意識はまだ完全に{n}失われてはいない。救出者である君{n}たちに、何らかの手段で心臓の隠され{n}た位置を示そうとしているはず――",
-  "en": "And the wyvern's mind is not yet entirely{n}gone. It must be trying somehow to show{n}you, its rescuers, where its heart is{n}hidden--"
+  "en": "And the wyvern's mind is not yet entirely{n}gone. It must be trying somehow to show{n}you, its rescuers, where its heart{n}is hidden--"
  },
  {
   "id": "s0146_01b70",
@@ -1365,7 +1365,7 @@
    ""
   ],
   "jp": "龍樹の内部空間は、降り注ぐ陽光に{n}明るく照らし上げられていた。覆い{n}被さる翼龍の影も、桁違いに増えた{n}光量にはさしたる影響を与えなかった。",
-  "en": "The Dragon Tree's inner space was{n}brightly lit by the falling sunlight. Even{n}the looming shadow of the wyvern had{n}little effect on this vastly greater{n}light."
+  "en": "The Dragon Tree's inner space was{n}brightly lit by the falling sunlight. Even{n}the looming shadow of the wyvern had{n}little effect on this vastly{n}greater light."
  },
  {
   "id": "s0146_02500",
@@ -1581,7 +1581,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "それは心臓と呼ぶよりも、輝くオーラ{n}に包まれた珠のような物体であった。{n}だが、透かし見える内部器官は定期的{n}な膨張収縮を繰り返し、エネルギーを{n}循環させる鼓動を単体で刻んでいる。",
-  "en": "It was less a heart than an object like an{n}orb wrapped in a shining aura. But the{n}inner organs visible through it swelled and{n}shrank at regular intervals, by themselves{n}keeping the beat that circulated{n}energy."
+  "en": "It was less a heart than an object like an{n}orb wrapped in a shining aura. But the{n}inner organs visible through it swelled and{n}shrank at regular intervals, by themselves{n}keeping the beat that{n}circulated energy."
  },
  {
   "id": "s0146_0295c",
@@ -1749,7 +1749,7 @@
    "サイクス"
   ],
   "jp": "天空から一際凄まじい閃光が輝き、{n}稲妻が翼龍を貫いて広場に落雷した。{n}心臓を取り戻したのも束の間、頭上に{n}拘束されたままの翼龍は炎に包まれ{n}始める。",
-  "en": "A far more terrible flash shone out from{n}the heavens, and a bolt of lightning{n}pierced the wyvern and struck the{n}clearing. The wyvern had only just{n}regained its heart when, still bound{n}overhead, it began to be wrapped in{n}flames."
+  "en": "A far more terrible flash shone out from{n}the heavens, and a bolt of lightning{n}pierced the wyvern and struck the{n}clearing. The wyvern had only just{n}regained its heart when, still bound{n}overhead, it began to be wrapped{n}in flames."
  },
  {
   "id": "s0146_02e2c",
@@ -1941,7 +1941,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "翼龍を包んだ炎は、今や龍樹の内壁に{n}燃え移ってこの大樹全体を焼き尽く{n}そうとしていた。空洞はそれ自体を{n}蝕む火に照らされ、頭上からは剥がれ{n}落ちた樹皮や蔦が炎に包まれながら{n}降ってくる。",
-  "en": "The fire around the wyvern had now{n}spread to the Dragon Tree's inner wall,{n}and was set to burn the whole great tree{n}to ash. The hollow was lit by the very fire{n}consuming it, and from overhead fell{n}strips of bark and vines wrapped in{n}flame."
+  "en": "The fire around the wyvern had now{n}spread to the Dragon Tree's inner wall,{n}and was set to burn the whole great tree{n}to ash. The hollow was lit by the very fire{n}consuming it, and from overhead fell{n}strips of bark and vines wrapped{n}in flame."
  },
  {
   "id": "s0146_0318c",
@@ -2061,7 +2061,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "――いいや、死んでねえ。判るぜ。{n}翼龍の鼓動がまだ伝わってくる……。{n}いや！　強まってるぜ！",
-  "en": "--Nope, it ain't dead. I can tell. I can still{n}feel the wyvern's heartbeat... No! It's getting{n}stronger!"
+  "en": "--Nope, it ain't dead. I can tell. I can still{n}feel the wyvern's heartbeat... No! It's{n}getting stronger!"
  },
  {
   "id": "s0146_03300",
@@ -2133,7 +2133,7 @@
    "カイ"
   ],
   "jp": "何という存在だ……むっ！　翼龍が{n}向きを変えるぞ！　あっちは……北、{n}そうだ！　樹棺城の――荊の壁の{n}方角だぞ！",
-  "en": "What a creature... Hm! The wyvern's turning!{n}That way is... north, yes! Toward the{n}Tree-Coffin Castle--toward the Wall of{n}Thorns!"
+  "en": "What a creature... Hm! The wyvern's turning!{n}That way is... north, yes! Toward the{n}Tree-Coffin Castle--toward the Wall{n}of Thorns!"
  },
  {
   "id": "s0146_03500",

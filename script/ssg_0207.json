@@ -45,7 +45,7 @@
    ""
   ],
   "jp": "見渡す限りの広大な雪原が、視覚を{n}麻痺させるかの如くに白い輝きを放っ{n}ていた。低空を覆っていた雲が晴れ、{n}天空からは目映い光が降り注いでいる。{page}――だが、それは太陽の光輝ではない。{n}空を彩るのは、刻々とその色調を{n}変えるオーロラであった。",
-  "en": "As far as the eye could see, a vast field{n}of snow shone with a white glare that{n}seemed to numb the sight. The clouds{n}that had hung low had cleared, and{n}dazzling light rained down from the{n}heavens.{page}--But it was not the radiance of the sun.{n}What colored the sky was an aurora,{n}changing hue from moment to moment."
+  "en": "As far as the eye could see, a vast field{n}of snow shone with a white glare that{n}seemed to numb the sight. The clouds{n}that had hung low had cleared, and{n}dazzling light rained down from{n}the heavens.{page}--But it was not the radiance of the sun.{n}What colored the sky was an aurora,{n}changing hue from moment to moment."
  },
  {
   "id": "s0207_00940",
@@ -189,7 +189,7 @@
    "ネイ"
   ],
   "jp": "それが止んだ時、風の渦の中心に巨馬{n}が忽然と現れていた。あたかも、風が{n}その漆黒の魔馬を運んできたかの如く{n}――。",
-  "en": "When it stopped, at the center of the{n}swirling wind a giant horse had suddenly{n}appeared. It was just as if the wind had{n}carried that jet-black demon steed{n}there--"
+  "en": "When it stopped, at the center of the{n}swirling wind a giant horse had suddenly{n}appeared. It was just as if the wind had{n}carried that jet-black demon{n}steed there--"
  },
  {
   "id": "s0207_00c3c",
@@ -285,7 +285,7 @@
    "イングヴェイイングヴェイ・フォン・マルムステ"
   ],
   "jp": "オーロラの光が変化し、馬上の男を{n}鮮やかに、妖美に照らし出す。",
-  "en": "The aurora's light shifted, and lit the man{n}on horseback vividly, with an eerie{n}beauty."
+  "en": "The aurora's light shifted, and lit the man{n}on horseback vividly, with an{n}eerie beauty."
  },
  {
   "id": "s0207_00d0c",
@@ -357,7 +357,7 @@
    "至高王"
   ],
   "jp": "誓いを思い出せ。魔戦将軍よ――",
-  "en": "Remember your oaths. Sorcerer{n}Generals--"
+  "en": "Remember your oaths.{n}Sorcerer Generals--"
  },
  {
   "id": "s0207_00e04",
@@ -453,7 +453,7 @@
    "イングヴェイイングヴェイ・フォン・マルムステ"
   ],
   "jp": "氷のハイ・キング――カル＝ス！{n}我が主、カル様！",
-  "en": "The High King of Ice-- Kall-Su! My lord,{n}Kall-sama!"
+  "en": "The High King of Ice-- Kall-Su! My{n}lord, Kall-sama!"
  },
  {
   "id": "s0207_00f20",
@@ -477,7 +477,7 @@
    "イングヴェイイングヴェイ・フォン・マルムステ"
   ],
   "jp": "イングヴェイがその名を答えた瞬間、{n}Ｄ・Ｓ一行に閃光の如き衝撃が疾った。{page}カル＝スの名を引き金に、一部の者の{n}脳裏に失われた記憶が蘇っていく――。",
-  "en": "The instant Yngwei answered that name, a{n}shock like a flash of light ran through the{n}party.{page}Kall-Su's name was the trigger, and lost{n}memories came back into the minds of{n}some of them--"
+  "en": "The instant Yngwei answered that name, a{n}shock like a flash of light ran through{n}the party.{page}Kall-Su's name was the trigger, and lost{n}memories came back into the minds of{n}some of them--"
  },
  {
   "id": "s0207_00fb4",
@@ -1053,7 +1053,7 @@
    "イングヴェイイングヴェイ・フォン・マルムステ"
   ],
   "jp": "Ｄ・Ｓ……済まぬ。貴方とカル様が{n}敵するなら、私は貴方の敵となる他{n}ないのだ",
-  "en": "D.S.... Forgive me. If you and Kall-sama are{n}enemies, I have no choice but to be your{n}enemy."
+  "en": "D.S.... Forgive me. If you and Kall-sama are{n}enemies, I have no choice but to be{n}your enemy."
  },
  {
   "id": "s0207_0156c",
@@ -1341,7 +1341,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "魔戦将軍であることを思い出した{n}者たちが、次々と雪原の彼方に{n}去っていく――。",
-  "en": "Those who had remembered they were{n}Sorcerer Generals went away, one after{n}another, into the far reaches of the{n}snowfield--"
+  "en": "Those who had remembered they were{n}Sorcerer Generals went away, one after{n}another, into the far reaches of{n}the snowfield--"
  },
  {
   "id": "s0207_019e8",
@@ -1365,7 +1365,7 @@
    "マカパイン"
   ],
   "jp": "Ｄ・Ｓよ……私も、行かねばならん。{n}だが、次に戦う時は私闘ではない。{n}あの方の楯となり、刃となって貴様に{n}立ち向かうことになろう――",
-  "en": "D.S.... I too must go. But next time we fight,{n}it will be no private quarrel. I shall stand{n}against you as that lord's shield and{n}blade--"
+  "en": "D.S.... I too must go. But next time we fight,{n}it will be no private quarrel. I shall stand{n}against you as that lord's shield{n}and blade--"
  },
  {
   "id": "s0207_01a6c",
@@ -1389,7 +1389,7 @@
    "マカパイン"
   ],
   "jp": "……魔戦将軍は一騎当千の強者たちだ。{n}カル様を戴いた今、その力はこれまで{n}とは比ぶべくもない。油断するなよ",
-  "en": "...The Sorcerer Generals are warriors, each a{n}match for a thousand. With Kall-sama at{n}their head, their strength is beyond{page}compare with what it was. Be on your{n}guard."
+  "en": "...The Sorcerer Generals are warriors, each a{n}match for a thousand. With Kall-sama at{n}their head, their strength is beyond{n}compare with what it was.{page}Be on your guard."
  },
  {
   "id": "s0207_01ad8",
@@ -1581,7 +1581,7 @@
    "ラン"
   ],
   "jp": "Ｄ・Ｓ……黒騎士だった俺を快く迎え{n}てくれたあなたに刃を向ける不逞は{n}重々承知しているつもりだ。この上、{n}あなたに頼み事をする非礼も――",
-  "en": "D.S.... I know full well the insolence of{n}turning my blade on you, who gladly took me{n}in when I was the Black Knight. And the{page}discourtesy of asking you a favor on top of{n}that--"
+  "en": "D.S.... I know full well the insolence of{n}turning my blade on you, who gladly took me{n}in when I was the Black Knight.{page}And the discourtesy of asking you a favor{n}on top of that--"
  },
  {
   "id": "s0207_01d20",
@@ -1677,7 +1677,7 @@
    "ネイ"
   ],
   "jp": "お前が信じた道なら、私は止めぬ――{n}だが、いいのか？　故に鬼道衆を{n}去ってまで避けた道を選ぶことに{n}なっても？",
-  "en": "If this is the path you believe in, I will not{n}stop you. But are you sure? To choose the{n}very path you left the Kido Corps to{n}avoid?"
+  "en": "If this is the path you believe in, I will not{n}stop you. But are you sure? To choose the{n}very path you left the Kido Corps{n}to avoid?"
  },
  {
   "id": "s0207_01e58",
@@ -1797,7 +1797,7 @@
    "ラン"
   ],
   "jp": "言い残し、ランは身を翻した。{page}カイとシーンに呼び止める隙も与えず、{n}逞しき青年戦士は魔光の煌めきの{n}中へと消えていった。",
-  "en": "With those words, Ran turned away.{page}Giving Kai and Sean no moment to call him{n}back, the powerful young warrior{n}disappeared into the gleam of the demon{n}light."
+  "en": "With those words, Ran turned away.{page}Giving Kai and Sean no moment to call him{n}back, the powerful young warrior{n}disappeared into the gleam of the{n}demon light."
  },
  {
   "id": "s0207_01f84",
@@ -1941,7 +1941,7 @@
    "サイクス"
   ],
   "jp": "カル様への忠誠を忘れた訳ではない。{n}だが、我々の置かれた現況を考えれば、{n}今のカル様に従うことがプラスに働く{n}とは思えんからな――",
-  "en": "I have not forgotten my loyalty to{n}Kall-sama. But given our present{n}circumstances, I doubt that obeying{page}Kall-sama as he is now would work in our{n}favor--"
+  "en": "I have not forgotten my loyalty{n}to Kall-sama.{page}But given our present circumstances, I{n}doubt that obeying Kall-sama as he is now{n}would work in our favor--"
  },
  {
   "id": "s0207_02198",
@@ -1989,7 +1989,7 @@
    "マカパイン"
   ],
   "jp": "たとえ不忠の烙印を押されようと、{n}私は決めたのだ。Ｄ・Ｓ――貴様に{n}ついていくと。フ……私は魔戦将軍{n}失格かな……",
-  "en": "Though I be branded disloyal, I have{n}decided. D.S., I shall follow you. Heh... I{n}suppose I am a failure as a Sorcerer{n}General..."
+  "en": "Though I be branded disloyal, I have{n}decided. D.S., I shall follow you. Heh... I{n}suppose I am a failure as a{n}Sorcerer General..."
  },
  {
   "id": "s0207_02290",
@@ -2425,7 +2425,7 @@
    "ネイ"
   ],
   "jp": "ガラも私も、名を伏し、禁ずることで{n}仲間との関わりを断たれ、敵の走狗と{n}して利用されていたわ。それが鍵にな{n}って、私たちは記憶を取り戻した――",
-  "en": "Gara and I were cut off from our friends by{n}having our names hidden and forbidden, and{n}were used as the enemy's lackeys. That{page}was the key, and it let us regain our{n}memories--"
+  "en": "Gara and I were cut off from our friends by{n}having our names hidden and forbidden, and{n}were used as the enemy's lackeys.{page}That was the key, and it let us regain{n}our memories--"
  },
  {
   "id": "s0207_026f0",
@@ -2809,7 +2809,7 @@
    "シェン"
   ],
   "jp": "魔戦将軍……何だ？　この響き、何か{n}を思い出しそうだ……黒い、姿――？",
-  "en": "Sorcerer Generals... What's this? That sound,{n}I almost remember something... a black{n}figure--?"
+  "en": "Sorcerer Generals... What's this? That sound,{n}I almost remember something... a{n}black figure--?"
  },
  {
   "id": "s0207_02bd8",
@@ -2977,7 +2977,7 @@
    "シェラ"
   ],
   "jp": "……我々が歓迎を受けるとは、思え{n}ないがな――どのみち仲間とぶつかる{n}ことになるか……",
-  "en": "...I doubt we shall be welcome there. In any{n}case, we shall end up clashing with our{n}comrades..."
+  "en": "...I doubt we shall be welcome there. In any{n}case, we shall end up clashing with{n}our comrades..."
  },
  {
   "id": "s0207_03df8",
@@ -3121,7 +3121,7 @@
    "ヨルグ"
   ],
   "jp": "まるで、そこから新たな山が造り{n}出されるかのように、雪原それ自体が{n}凄まじい勢いで隆起しつつあった。{n}数秒で隆起は百メートルを超え、{n}なおも膨れ上がってゆく――。",
-  "en": "As if a new mountain were being made{n}there, the snowfield itself was rising with{n}terrific force. In seconds the swell passed{n}a hundred meters, and it kept on{n}growing--"
+  "en": "As if a new mountain were being made{n}there, the snowfield itself was rising with{n}terrific force. In seconds the swell passed{n}a hundred meters, and it kept{n}on growing--"
  },
  {
   "id": "s0207_03fb4",
@@ -3193,7 +3193,7 @@
    "ヨルグ"
   ],
   "jp": "巨獣の備えた魔法的な能力なのか、{n}雪原はあたかも大海原のように抵抗{n}なくその巨体を埋没させる。巨獣の{n}周囲の雪だけは、瞬時に液状のそれと{n}同じ物理法則に置き換えられるようで{n}あった。",
-  "en": "Whether by some magical power of the{n}great beast or not, the snowfield took in{n}the huge body without resistance, as if it{n}were the great ocean. The snow around{n}the beast alone seemed for that instant{n}to obey the same physical laws as a{n}liquid."
+  "en": "Whether by some magical power of the{n}great beast or not, the snowfield took in{n}the huge body without resistance, as if it{n}were the great ocean. The snow around{n}the beast alone seemed for that instant{n}to obey the same physical laws as{n}a liquid."
  },
  {
   "id": "s0207_04220",
@@ -3217,7 +3217,7 @@
    "ヨルグ"
   ],
   "jp": "法螺貝に似た響きを立てて体内の空気{n}を大量に放出すると、巨獣は再び雪原{n}深くへと潜航していった。太い尾が{n}吸い込まれた後の雪原は、何事もなか{n}ったように平坦で、ただ大気中に{n}舞い上げられてオーロラを乱反射する{n}雪の細片だけが、巨獣の出現が幻では{n}なかったことを証明していた。",
-  "en": "Letting out a great gust of air from{n}within with a sound like a conch horn, the{n}great beast dived deep into the snowfield{n}again. Once its thick tail was drawn under,{n}the snowfield lay flat as if nothing had{n}happened. Only the fine flakes of snow{n}flung into the air, scattering the aurora's{n}light, proved that the beast's{page}appearance had been no illusion."
+  "en": "Letting out a great gust of air from{n}within with a sound like a conch horn, the{n}great beast dived deep into the snowfield{n}again. Once its thick tail was drawn under,{n}the snowfield lay flat as if nothing{n}had happened.{page}Only the fine flakes of snow flung into{n}the air, scattering the aurora's light,{n}proved that the beast's appearance had{n}been no illusion."
  },
  {
   "id": "s0207_04330",
@@ -3265,7 +3265,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "途轍もなくデカい化け物だぜ……。{n}あんなのがこの大雪原の下を泳ぎ{n}回ってやがるのか――",
-  "en": "One unbelievably huge monster... So that{n}thing's swimming around under this great{n}snowfield--"
+  "en": "One unbelievably huge monster... So that{n}thing's swimming around under this{n}great snowfield--"
  },
  {
   "id": "s0207_043a0",
@@ -3433,7 +3433,7 @@
    "ヴァイ"
   ],
   "jp": "サカナに喰われたのを恨んでるみたい{n}だからな……また襲いかかってくるん{n}じゃねーか？",
-  "en": "He seems to hold a grudge about getting{n}eaten by that fish... Think he's gonna jump us{n}again?"
+  "en": "He seems to hold a grudge about getting{n}eaten by that fish... Think he's gonna jump{n}us again?"
  },
  {
   "id": "s0207_045a0",
@@ -4009,7 +4009,7 @@
    "バ・ソリー"
   ],
   "jp": "この身体の中の蟲たちが、貴様らに{n}従えと告げておるのだ。カル様の真意{n}が測れぬ以上、その声に沿ってともに{n}行くとしよう……",
-  "en": "The bugs in this body tell me to follow you{n}lot. Since I can't fathom Kall-sama's true{n}intent, I'll go along with you, as that voice{n}says..."
+  "en": "The bugs in this body tell me to follow you{n}lot. Since I can't fathom Kall-sama's true{n}intent, I'll go along with you, as that{n}voice says..."
  },
  {
   "id": "s0207_04cb4",
@@ -4228,7 +4228,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "そーいや巨大魚はアイツを、あっと{n}言う間にパクッといったな。蟲が詰ま{n}ってるからか？　だったら巨獣も……",
-  "en": "Come to think of it, that giant fish gobbled{n}him up in no time flat. Because he's stuffed{n}with bugs? Then the great beast might{n}also..."
+  "en": "Come to think of it, that giant fish gobbled{n}him up in no time flat. Because he's stuffed{n}with bugs? Then the great beast{n}might also..."
  },
  {
   "id": "s0207_05010",
@@ -4754,7 +4754,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "いーや、もう勘弁ならねえ。こういう{n}ヤロウは野放しにしとくとまぁた襲い{n}かかってきやがるんだ",
-  "en": "Nope, I've had enough. Leave a bastard like{n}this running loose and he'll just jump us{n}again."
+  "en": "Nope, I've had enough. Leave a bastard like{n}this running loose and he'll just jump{n}us again."
  },
  {
   "id": "s0207_05638",
@@ -5018,7 +5018,7 @@
    "バ・ソリー"
   ],
   "jp": "大量の雪塊とともにバ・ソリーが{n}吸い込まれた。そして巨獣はそのまま、{n}勢いを失うことなく一行に迫る。",
-  "en": "Ba Thory was sucked in along with a great{n}mass of snow. And the great beast, with{n}no loss of speed, bore down on the{n}party."
+  "en": "Ba Thory was sucked in along with a great{n}mass of snow. And the great beast, with{n}no loss of speed, bore down on{n}the party."
  },
  {
   "id": "s0207_059e4",
@@ -5261,7 +5261,7 @@
    ""
   ],
   "jp": "だが、竪穴の口は半透明の、液状の{n}物質に塞がれていた。それは明らかに{n}液体であり、流動してゆらゆらと揺ら{n}めいている――にもかかわらず、その{n}水の塊は穴に栓をする形で一定の位置{n}に留まっている。その上に乗っても{n}沈むことはなく、足元からは緩く{n}波打つ水の感覚だけが伝わってくる。",
-  "en": "But the mouth of the shaft was stopped{n}with a translucent, liquid substance. It{n}was clearly a liquid, flowing and rippling,{n}yet that mass of water stayed in one{n}place, plugging the hole. It did not give{n}way when stepped on, and only the feel{n}of gently lapping water came up from{n}underfoot."
+  "en": "But the mouth of the shaft was stopped{n}with a translucent, liquid substance. It{n}was clearly a liquid, flowing and rippling,{n}yet that mass of water stayed in one{n}place, plugging the hole. It did not give{n}way when stepped on, and only the feel{n}of gently lapping water came up{n}from underfoot."
  },
  {
   "id": "s0207_068bc",
@@ -5405,7 +5405,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "竪穴に栓をしていた液状の塊は、{n}固体の性質を失って流れ落ちたのか、{n}跡形もなく消失していた。",
-  "en": "The liquid mass that had plugged the{n}shaft had lost its solid nature, perhaps{n}flowing away, and had vanished without a{n}trace."
+  "en": "The liquid mass that had plugged the{n}shaft had lost its solid nature, perhaps{n}flowing away, and had vanished without{n}a trace."
  },
  {
   "id": "s0207_06a04",
@@ -5739,7 +5739,7 @@
    "シーン"
   ],
   "jp": "そうなの!?　うーん、確かにヨシュア{n}とカイってお似合いだけど、兄さんも{n}……どうなのかな",
-  "en": "Is that so!? Hmm, Joshua and Kai would make{n}a good couple, sure, but my brother too... I{n}wonder."
+  "en": "Is that so!? Hmm, Joshua and Kai would make{n}a good couple, sure, but my brother too...{n}I wonder."
  },
  {
   "id": "s0207_06f70",
@@ -5811,7 +5811,7 @@
    "ヨシュア"
   ],
   "jp": "かたじけない。では、後で会おう――",
-  "en": "I am obliged to you. Then we will meet{n}later--"
+  "en": "I am obliged to you. Then we will{n}meet later--"
  },
  {
   "id": "s0207_06fd8",
@@ -5859,7 +5859,7 @@
    "ヴァイ"
   ],
   "jp": "ヨルグ……それ友情と違うゾ。ヤバい",
-  "en": "Jorg... That ain't friendship talking. That's{n}dangerous."
+  "en": "Jorg... That ain't friendship talking.{n}That's dangerous."
  },
  {
   "id": "s0207_071e4",
@@ -5907,7 +5907,7 @@
    ""
   ],
   "jp": "雪原の上には青空が広がっていた。{page}予想通り、遺跡の配置を正したことで{n}魔のオーロラは消え、降り注ぐ天の光{n}に雪原は純白に輝いている。",
-  "en": "A blue sky spread over the snowfield.{page}As expected, setting the ruins in order{n}had dispelled the demon aurora, and the{n}snowfield shone pure white in the light of{n}heaven."
+  "en": "A blue sky spread over the snowfield.{page}As expected, setting the ruins in order{n}had dispelled the demon aurora, and the{n}snowfield shone pure white in the light{n}of heaven."
  },
  {
   "id": "s0207_072b8",
@@ -5955,7 +5955,7 @@
    "ダイ"
   ],
   "jp": "ううう……吸血鬼の私にはちょっと、{n}こういう健康的な光はキツいですねぇ。{n}あうう、肌が焼けるぅ――",
-  "en": "Ooh... For a vampire like me, this sort of{n}healthy light is a bit harsh. Ahh, my skin is{n}burning--"
+  "en": "Ooh... For a vampire like me, this sort of{n}healthy light is a bit harsh. Ahh, my skin{n}is burning--"
  },
  {
   "id": "s0207_07364",
@@ -6003,7 +6003,7 @@
    "シェラ"
   ],
   "jp": "しかし、まだ水龍を解放していないぞ",
-  "en": "But we have not yet released the Water{n}Dragon."
+  "en": "But we have not yet released the{n}Water Dragon."
  },
  {
   "id": "s0207_073e0",

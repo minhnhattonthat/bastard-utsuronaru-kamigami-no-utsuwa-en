@@ -69,7 +69,7 @@
    "ヴァイ"
   ],
   "jp": "そいつがヨルグだったとすると、{n}ヨシュアは？　もう峡谷には誰も{n}いなかったぜ",
-  "en": "If that guy was Jorg, what about Joshua?{n}There was nobody left in the gorge,{n}y'know."
+  "en": "If that guy was Jorg, what about Joshua?{n}There was nobody left in the{n}gorge, y'know."
  },
  {
   "id": "s0034_00928",
@@ -141,7 +141,7 @@
    ""
   ],
   "jp": "それは、彼方に轟く号砲に似ていた。{page}地響きを伴ったその音は、次第に{n}大きく、近くなってくる。洞窟も{n}その度に揺れ、細かな石片が天井から{n}剥がれ落ちてきた。",
-  "en": "It was like a signal gun booming in the{n}distance.{page}The sound, and the shaking of the ground{n}that came with it, slowly grew louder and{n}closer. Each time the cave shook too, and{n}fine chips of stone flaked from the{n}ceiling."
+  "en": "It was like a signal gun booming in{n}the distance.{page}The sound, and the shaking of the ground{n}that came with it, slowly grew louder and{n}closer. Each time the cave shook too, and{n}fine chips of stone flaked from{n}the ceiling."
  },
  {
   "id": "s0034_00b74",
@@ -285,7 +285,7 @@
    "ボル"
   ],
   "jp": "光を感じるでござる！　間もなく{n}出口でござるよ！",
-  "en": "This one senses light! The exit is near,{n}forsooth!"
+  "en": "This one senses light! The exit is{n}near, forsooth!"
  },
  {
   "id": "s0034_0105c",
@@ -513,7 +513,7 @@
    "ヴァイ"
   ],
   "jp": "痛てて……罠はここだけじゃなさそう{n}だぜ",
-  "en": "Ow, ow... I don't think this is the only trap,{n}either."
+  "en": "Ow, ow... I don't think this is the only{n}trap, either."
  },
  {
   "id": "s0034_015c0",
@@ -943,7 +943,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "ああ。呪力がこめられたハープだ。{n}次元の狭間に落ち込んでいたようだな",
-  "en": "Yeah. A harp charged with cursed power.{n}Must've fallen into the gap between{n}dimensions."
+  "en": "Yeah. A harp charged with cursed power.{n}Must've fallen into the gap{n}between dimensions."
  },
  {
   "id": "s0034_01a58",

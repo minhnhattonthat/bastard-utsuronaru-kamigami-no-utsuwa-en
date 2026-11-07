@@ -93,7 +93,7 @@
    "ロス"
   ],
   "jp": "今の湿地に比べればマシでしょーが。{n}アゴの割れ目までびしょ濡れだわよ、{n}マッタク！",
-  "en": "It beats that marsh, for sure! I'm soaked{n}right down to the cleft in my chin,{n}honestly!"
+  "en": "It beats that marsh, for sure! I'm soaked{n}right down to the cleft in my{n}chin, honestly!"
  },
  {
   "id": "s0325_0095c",
@@ -309,7 +309,7 @@
    "シーン"
   ],
   "jp": "式神を使ってみんなを探していたんだ{n}けど……でも、代わりにいいものを{n}見つけたわ。ほら――",
-  "en": "I was using spirit servants to look for you{n}all... but I found something good instead.{n}Here--"
+  "en": "I was using spirit servants to look for you{n}all... but I found something good{n}instead. Here--"
  },
  {
   "id": "s0325_00cb0",

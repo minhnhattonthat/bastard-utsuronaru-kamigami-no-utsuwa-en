@@ -261,7 +261,7 @@
    "サイクス"
   ],
   "jp": "私はこの世界に目覚めてから、次元{n}跳躍能力を使ってあちこち飛び回って{n}みた。おかげで人より多少の知識を{n}得ることができたわけだが――",
-  "en": "Since awakening in this world, I have flown{n}here and there using my power of{n}dimensional leaping. Thanks to that,{n}gentlemen, I have gained a bit more{page}knowledge than most, but--"
+  "en": "Since awakening in this world, I have flown{n}here and there using my power of{n}dimensional leaping.{page}Thanks to that, gentlemen, I have gained a{n}bit more knowledge than most, but--"
  },
  {
   "id": "s0076_00d1c",
@@ -405,7 +405,7 @@
    "サイクス"
   ],
   "jp": "鬼忍将率いる忍軍にしても、あろう{n}ことか中身はゴブリンなどの亜人種{n}だった。私の推察するところ、どうも{n}この世界には人間はいないらしい",
-  "en": "As for the ninja army under the High Ninja,{n}of all things, what was inside them was{n}goblins and other such demi-humans. In{n}brief, as I surmise it, this world seems to{page}have no humans at all."
+  "en": "As for the ninja army under the High Ninja,{n}of all things, what was inside them was{n}goblins and other such demi-humans.{page}In brief, as I surmise it, this world seems to{n}have no humans at all."
  },
  {
   "id": "s0076_00f38",
@@ -453,7 +453,7 @@
    "サイクス"
   ],
   "jp": "私もそう考えていた。だが、話を{n}聞くうちに私はある確証を得た。即ち、{n}我々は皆、記憶を失う前に何らかの{n}関わりを持つ者同士である、と",
-  "en": "So I thought too. But as I listened to you{n}all, I arrived at a certain conviction. Namely,{n}that we are all people with some{page}connection to one another, from before we{n}lost our memories."
+  "en": "So I thought too. But as I listened to you{n}all, I arrived at a certain conviction.{page}Namely, that we are all people with some{n}connection to one another, from before we{n}lost our memories."
  },
  {
   "id": "s0076_01024",
@@ -645,7 +645,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "あのうすらデカイ鬼ゴリラがか？{n}……ゴリラ？　うーん……",
-  "en": "That big dumb ogre gorilla? ...Gorilla?{n}Hmmm..."
+  "en": "That big dumb ogre gorilla?{n}...Gorilla? Hmmm..."
  },
  {
   "id": "s0076_01258",
@@ -813,7 +813,7 @@
    "シェン"
   ],
   "jp": "兄者……どうもあの蟲使い――バ・{n}ソリーとか言ったか、奴を見ると三途{n}の川辺の花畑とやらが思い起こされて{n}ならん。傷による錯覚か……？",
-  "en": "Brother... Somehow, when I see that bug{n}tamer -- Ba Thory, was it? -- I can't help{n}picturing the field of flowers on the bank{page}of the River of Death. An illusion from my{n}wound...?"
+  "en": "Brother... Somehow, when I see that bug{n}tamer -- Ba Thory, was it? -- I can't help{n}picturing the field of flowers on the bank of{n}the River of Death.{page}An illusion from my wound...?"
  },
  {
   "id": "s0076_014c0",
@@ -1125,7 +1125,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "サイクスの奴も言ってたが、ここは{n}次元的・空間的に孤立した世界らしい。{n}そこにいる人間は、放り込まれた{n}俺たちの係累だけってこった",
-  "en": "Like Sykes said, this place seems to be a{n}world cut off in space and between{n}dimensions. The only humans here are the{page}ones who got tossed in, and they're all tied{n}to us."
+  "en": "Like Sykes said, this place seems to be a{n}world cut off in space and{n}between dimensions.{page}The only humans here are the ones who got{n}tossed in, and they're all tied to us."
  },
  {
   "id": "s0076_019d0",
@@ -1269,7 +1269,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "鬼忍将か……あの鬼ゴリラは例外{n}なのか、それとも奴も俺たちに何か{n}関わりがありやがるのか……ゴリラ？{n}うーん……思い出せねえな",
-  "en": "The High Ninja, huh... Is that ogre gorilla an{n}exception, or has that bastard got some tie{n}to us too... Gorilla? Hmmm... Can't{n}remember."
+  "en": "The High Ninja, huh... Is that ogre gorilla an{n}exception, or has that bastard got some tie{n}to us too... Gorilla? Hmmm...{n}Can't remember."
  },
  {
   "id": "s0076_020a8",
@@ -1341,7 +1341,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "気ィつけろ。霊的な温度変化だぜ。{n}かなり強力な霊障が生じてやがる。{n}物理攻撃を受けつけねえタイプの霊にゃ{n}オメエの馬鹿力は利かねえぞ",
-  "en": "Watch it. That's a spiritual temperature{n}change. There's some serious spirit{n}disturbance here. And that dumb strength{n}of yours won't work on a ghost that{page}shrugs off physical attacks."
+  "en": "Watch it. That's a spiritual temperature{n}change. There's some serious spirit{n}disturbance here.{page}And that dumb strength of yours won't work{n}on a ghost that shrugs off{n}physical attacks."
  },
  {
   "id": "s0076_021d0",
@@ -1677,7 +1677,7 @@
    "シェラ"
   ],
   "jp": "霊との交信は専門ではないが……{n}私には悪い気配や妄念は感じ取れない。{n}あるのは友を思う、哀惜に満ちた想念{n}だけ……",
-  "en": "Communing with spirits is not my art... yet I{n}sense no evil presence or delusion here.{n}There is only a sorrowful longing for a{n}friend..."
+  "en": "Communing with spirits is not my art... yet I{n}sense no evil presence or delusion here.{n}There is only a sorrowful longing for{n}a friend..."
  },
  {
   "id": "s0076_0273c",
@@ -1893,7 +1893,7 @@
    "ジン"
   ],
   "jp": "“長年宿り続けた刀だけに、離れて{n}いてもその様子は伝わってくる。{n}あろうことか刀は持ち主の元さえ離れ、{n}邪な封印として悪用されているんだ！”",
-  "en": "\"I lived inside that sword for so many years{n}that I can sense it even from afar. And of{n}all things, the sword has left even its{page}owner's side, and it's being misused as an evil{n}seal!\""
+  "en": "\"I lived inside that sword for so many years{n}that I can sense it even from afar.{page}And of all things, the sword has left even{n}its owner's side, and it's being misused as an{n}evil seal!\""
  },
  {
   "id": "s0076_02b2c",
@@ -2013,7 +2013,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "あり得るな。亡霊が宿る刀ってのも、{n}妖気漂う鋼って話に符合する。それに{n}地龍が封印されてる場所も、この塔の{n}近辺が臭そうだしな",
-  "en": "Could be. A sword with a ghost in it fits the{n}story about steel that reeks of demon{n}energy. And the place where the Earth{page}Dragon's sealed smells like it's around this{n}tower, too."
+  "en": "Could be. A sword with a ghost in it fits the{n}story about steel that reeks of{n}demon energy.{page}And the place where the Earth Dragon's{n}sealed smells like it's around this{n}tower, too."
  },
  {
   "id": "s0076_02cd8",
@@ -2109,7 +2109,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "いよーし、それじゃひとつ封印を{n}ブチ砕きにいくか。幽霊君、貴重な{n}情報をありがとう！　サラバ！",
-  "en": "All riiight, let's go smash us a seal. Thanks{n}for the valuable tip, Mister Ghost!{n}Farewell!"
+  "en": "All riiight, let's go smash us a seal. Thanks{n}for the valuable tip, Mister{n}Ghost! Farewell!"
  },
  {
   "id": "s0076_02e3c",
@@ -2181,7 +2181,7 @@
    "ジン"
   ],
   "jp": "“刀もだが、友のことが気になる。{n}それに、そもそもが妖刀の異名を取る{n}刀だ。オレが戻らない限り、封印から{n}外せないかも知れないぞ”",
-  "en": "\"I care about the sword, but I'm also{n}worried about my friend. Besides, that{n}sword's known as a cursed blade. Unless I{page}return to it, it may not come out of the{n}seal.\""
+  "en": "\"I care about the sword, but I'm also{n}worried about my friend. Besides, that{n}sword's known as a cursed blade.{page}Unless I return to it, it may not come out of{n}the seal.\""
  },
  {
   "id": "s0076_02f00",
@@ -2253,7 +2253,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "……やい、まーた俺様のヨーコさん{n}に乗っかろうってのか、テメエわ？",
-  "en": "...Hey, you're looking to climb on top of the{n}great me's Yoko-san again, are you, you{n}bastard?"
+  "en": "...Hey, you're looking to climb on top of the{n}great me's Yoko-san again, are you,{n}you bastard?"
  },
  {
   "id": "s0076_03024",

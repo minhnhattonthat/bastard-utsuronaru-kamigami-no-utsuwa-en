@@ -45,7 +45,7 @@
    "アビゲイル"
   ],
   "jp": "すでに結界の役割を果たさなくなって{n}きているようですね",
-  "en": "It seems it is no longer serving as a{n}barrier."
+  "en": "It seems it is no longer serving as{n}a barrier."
  },
  {
   "id": "s0361_00884",
@@ -93,7 +93,7 @@
    "アビゲイル"
   ],
   "jp": "残された時間はわずかしかありません。{n}それと……厄介な魔物が召喚されて{n}いる気配がしますね",
-  "en": "There is very little time left. And... I sense{n}that a troublesome monster has been{n}summoned."
+  "en": "There is very little time left. And... I sense{n}that a troublesome monster has{n}been summoned."
  },
  {
   "id": "s0361_00948",
@@ -261,7 +261,7 @@
    ""
   ],
   "jp": "塔の吹き抜けから、途轍もない邪気が{n}吹き寄せてくる。地獄の底に隠れ棲む{n}根源の闇――同族すら震え上がらせる{n}獰悪な高位魔族が、番人としてここに{n}放たれていた。",
-  "en": "An immense malice blew down the tower's{n}open shaft. The primal darkness that hides{n}at the bottom of hell-- savage high{n}demons that make even their own kind{n}tremble had been loosed here as{n}guards."
+  "en": "An immense malice blew down the tower's{n}open shaft. The primal darkness that hides{n}at the bottom of hell-- savage high{n}demons that make even their own kind{n}tremble had been loosed here{n}as guards."
  },
  {
   "id": "s0361_00c7c",
@@ -579,7 +579,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "おーよ。物質界に戻ったら、ヨーコ{n}さんと俺の積み上げた愛の歴史で、{n}正々堂々諦めさせてやるぜ",
-  "en": "Yeah, yeah. Once we're back in the material{n}world, I'll make you give up, fair and square,{n}with the history of love me and Yoko-san{n}built."
+  "en": "Yeah, yeah. Once we're back in the material{n}world, I'll make you give up, fair and square,{n}with the history of love me and{n}Yoko-san built."
  },
  {
   "id": "s0361_00e4c",
@@ -699,7 +699,7 @@
    "ヨシュア"
   ],
   "jp": "悪魔どもは俺が食い止める。{n}先を急いでくれ！",
-  "en": "I shall hold these demons back. Hurry on{n}ahead!"
+  "en": "I shall hold these demons back. Hurry{n}on ahead!"
  },
  {
   "id": "s0361_00f08",
@@ -1749,7 +1749,7 @@
    "ダイ"
   ],
   "jp": "何と美しい悪魔ども……私の身体に{n}流れる闇の血が、うずうず疼いて{n}きましたよぉ！　パワフリャアァァ！",
-  "en": "What beautiful demons... The dark blood{n}flowing in my body is positively aching!{n}Powerfuuuul!"
+  "en": "What beautiful demons... The dark blood{n}flowing in my body is positively{n}aching! Powerfuuuul!"
  },
  {
   "id": "s0361_015d8",
@@ -2289,7 +2289,7 @@
    "ボル"
   ],
   "jp": "それがしは信じたのでござる。貴公の{n}人智を超えた器の大きさを――",
-  "en": "This one has come to believe, forsooth, good{n}sir. In your vessel, great beyond human{n}wisdom--"
+  "en": "This one has come to believe, forsooth, good{n}sir. In your vessel, great beyond{n}human wisdom--"
  },
  {
   "id": "s0361_0197c",
@@ -3069,7 +3069,7 @@
    "ブラド"
   ],
   "jp": "今こそ騎士道精神の見せどころよ！",
-  "en": "Now is the hour to show the spirit of{n}chivalry!"
+  "en": "Now is the hour to show the spirit{n}of chivalry!"
  },
  {
   "id": "s0361_01fec",
@@ -3279,7 +3279,7 @@
    "ザック"
   ],
   "jp": "うおおお――っ！　燃えてきたぜぇ！{n}さあ、きやがれクソ野郎ども！",
-  "en": "Woooooah! I'm all fired up! Come on, you{n}bastards!"
+  "en": "Woooooah! I'm all fired up! Come on,{n}you bastards!"
  },
  {
   "id": "s0361_021c0",
