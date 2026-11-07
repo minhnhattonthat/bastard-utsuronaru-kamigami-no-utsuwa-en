@@ -155,3 +155,4 @@ Minor style notes from the review pass, for one polish pass before release. Phas
 - [x] t0697_00d40, t0604_01494 - オージー read as "Orgy": source unclear (ogre-kin?), check the sprite in phase 8.
 - [x] many (`ssg_*`, `ov4`) - `--.` from ――。 reads oddly on screen (`a brief rest--.`, `hiding a certain secret within himself--.`): decided `--`, the glossary's ――; 87 entries changed with `batches.py fix`.
 - [x] monsters.tsv 亜 - enemy name `Ah` (`Ah appeared!`) reads as an interjection: named `Agyo`, its partner 云 `Ungyo`. They appear together (`亜＊２＋云＊２`), so read as the 阿吽 temple-guardian pair; sprite not seen.
+- [x] s0010_02ea4, s0014_0092c, s0014_0223c, s0014_02514, s0014_04634, s0018_00b9c - story pass ch1_1: stiff lines, `fatso` for デカブツ, Vai's `ain't`/`don't` (D.S.'s markers), `D.S.'s yelling` for the group's: fixed.
