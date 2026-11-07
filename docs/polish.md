@@ -153,5 +153,5 @@ Minor style notes from the review pass, for one polish pass before release. Phas
 - [x] t0388_00486 - 胡蝶 is butterflies, not moths: `Talisman: Flutter` fits 17 bytes.
 - [x] t0594_00a4c, t0594_019b8 - ジン here is the monster, not Jin the ghost: "Jinn x4", "Jinn x2+Hateful Gia" (encounter labels).
 - [x] t0697_00d40, t0604_01494 - オージー read as "Orgy": source unclear (ogre-kin?), check the sprite in phase 8.
-- [ ] many (`ssg_*`, `ov4`) - `--.` from ――。 reads oddly on screen (`a brief rest--.`, `hiding a certain secret within himself--.`): decide `--` or `...`, apply with `batches.py fix`.
-- [ ] monsters.tsv 亜 - enemy name `Ah` (`Ah appeared!`) reads as an interjection: check the sprite and pick a name.
+- [x] many (`ssg_*`, `ov4`) - `--.` from ――。 reads oddly on screen (`a brief rest--.`, `hiding a certain secret within himself--.`): decided `--`, the glossary's ――; 87 entries changed with `batches.py fix`.
+- [x] monsters.tsv 亜 - enemy name `Ah` (`Ah appeared!`) reads as an interjection: named `Agyo`, its partner 云 `Ungyo`. They appear together (`亜＊２＋云＊２`), so read as the 阿吽 temple-guardian pair; sprite not seen.
