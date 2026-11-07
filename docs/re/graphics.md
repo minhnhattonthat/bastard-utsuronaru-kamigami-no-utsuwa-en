@@ -21,7 +21,9 @@ Coverage read by eye: all title cards; all 647 event CG (9 of 9 sheets); entries
 | 8 | Movie `ANIME` #162 (LBA 214076, 8,416 sectors, 840 frames) | STR burned in | Two text pages, seen only as small thumbnails (a narration page, then a shouted line): read them from full frames before translating | Re-encode |
 | 9 | Movies `ANIME` #158, 159 (320×176), 160, 161 | STR | No text in samples; #160 and #161 look near identical to each other (ending variants) | Confirm with a denser sample |
 
-No Japanese seen, leave alone: event CG art, enemy sprites, map textures, the 157 effect clips, `HELP` icon, `WATCH OUT!`, `NOW LOADING`, NEW GAME/CONTINUE, compass letters, staff roll strips, `THANK YOU` calligraphy (hand-drawn decorative art with English on it), overlay 2 fcg #26 (zoomed: a blue pictogram, not a character).
+No Japanese seen, leave alone: event CG art, enemy sprites, map textures, the 157 effect clips, `HELP` icon, `WATCH OUT!`, `NOW LOADING`, NEW GAME/CONTINUE, compass letters, staff roll strips, overlay 2 fcg #26 (zoomed: a blue pictogram, not a character).
+
+Japanese, left as art until the owner rules: the end card in entry 1484, brush calligraphy (probably `おわり`) over an English `THANK YOU!!` (`ending_thanks`, also in movie #162).
 
 Still to tour: **in-game screens** (battle, menus, save, shop-less item screens, game over). Text there goes through the BIOS font unless this list says otherwise. The marker build in phase 5 is the real test: any Japanese that stays is a new row here.
 

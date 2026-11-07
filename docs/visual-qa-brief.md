@@ -33,6 +33,7 @@ Standing non-bugs, `ok` (the controller adds the game's own below):
 - a map or scene still loading after a warp;
 - anything identical in the original's sheet.
 - the battle HUD's name plate `VIE` is game art (`docs/status.md`, D9);
+- the end card's brush art (entry 1484, with English `THANK YOU!!`) is left as art until the owner rules (`docs/status.md`);
 - the handwritten note picture (entry 1172) is Latin scrawl in the original, not Japanese;
 - `Head to %s?` and `Leave %s?` start at the box's left edge: their width depends on the map name;
 - debug screens and the memory card header stay Japanese by intent (`docs/status.md`).
