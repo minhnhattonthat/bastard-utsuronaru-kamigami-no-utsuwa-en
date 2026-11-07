@@ -93,7 +93,7 @@
    "シェラ"
   ],
   "jp": "！　真下には氷漬けの水龍が――もし{n}封印された状態でこの巨大な氷柱を{n}受ければ、いかな水龍といえども……。{n}やはり先に封印を解く方法を――",
-  "en": "Ah! Directly below is the frozen Water{n}Dragon-- If it takes this huge ice pillar while{n}still sealed, even the Water Dragon{page}would... We must first find a way to break{n}the seal--"
+  "en": "Ah! Directly below is the frozen Water{n}Dragon-- If it takes this huge ice pillar while{n}still sealed, even it would... We must first{n}find a way to break the seal--"
  },
  {
   "id": "s0297_009d8",
@@ -931,7 +931,7 @@
    "バ・ソリー"
   ],
   "jp": "うおお！　な、どうしたコトだぁ？{n}む、蟲たちが死んでいくぅ……あああ！{n}身体が再生しないよぉぉぉぅ！",
-  "en": "Uooh! Wh-what's this? M-my bugs are dying...{n}aaah! My body won't regenerate!"
+  "en": "Waaagh! Wh-what's this? M-my bugs are{n}dying... aaah! My body won't regenerate!"
  },
  {
   "id": "s0297_0178c",
