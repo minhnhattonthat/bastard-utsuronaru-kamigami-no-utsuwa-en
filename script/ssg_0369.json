@@ -1128,7 +1128,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "明晰な者は話が早くていい。これなら{n}わざわざこの娘の精神を書き換える{n}必要もなかったな。さあ、ゆくぞ、{n}Ｄ・Ｓ――",
-  "en": "It is good to deal with a clear mind. At this{n}rate I need not even trouble to rewrite this{n}girl's mind. Come, let us go, D.S.--"
+  "en": "It is good to deal with a clear mind. So{n}there was no need to rewrite this girl's mind{n}after all. Come, let us go, D.S.--"
  },
  {
   "id": "s0369_015e0",
@@ -1440,7 +1440,7 @@
    "ラーズ"
   ],
   "jp": "グハアァァ――！　貧弱なお前たちに{n}何ができるというのだ？　ひと薙ぎに{n}してやるぞ――現実世界に戻れぬよう、{n}魂まで分解してやる！",
-  "en": "Guhaaah--! What can you feeble ones do? I{n}shall mow you down with one sweep-- and{n}take apart your very souls, so you cannot{n}return to the real world!"
+  "en": "Graaah--! What can you feeble ones do? I{n}shall mow you down with one sweep-- and{n}take apart your very souls, so you cannot{n}return to the real world!"
  },
  {
   "id": "s0369_01af0",
@@ -1632,7 +1632,7 @@
    "ルーシェ"
   ],
   "jp": "グアアァァァ――！　何故だ！{n}神になった俺が、何故敗ける――！？",
-  "en": "Guaaaah--! Why! I became a god-- why do{n}I lose--!?"
+  "en": "Gwaaaah--! Why! I became a god-- why do{n}I lose--!?"
  },
  {
   "id": "s0369_01e78",
@@ -2232,7 +2232,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "ぬあああっ!?　ぐうああああ――っ！",
-  "en": "Nuaaah!? Gwaaaaargh--!"
+  "en": "Nngaaah!? Gwaaaaargh--!"
  },
  {
   "id": "s0369_026b4",
@@ -2448,7 +2448,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "ぐううおおおお――っ！",
-  "en": "Guuuoooh--!"
+  "en": "Grrraaagh--!"
  },
  {
   "id": "s0369_02918",
@@ -2553,7 +2553,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "虚神王にとって予想外だったのは、{n}与し易しと踏んでいたヨーコの抵抗が{n}頑強だったことであった。カルの援護{n}があったにせよ、配下の四虚神全てを{n}捨て駒にしてなお、Ｄ・Ｓの進行に{n}追いつかれるほど手間取るなど、不測{n}の事態以外の何ものでもなかった。",
-  "en": "What the Hollow God King had not{n}foreseen was the stubborn resistance of{n}Yoko, whom he had judged easy prey.{n}Even granting Kall's support, to be so{n}delayed, after throwing away all four{n}Hollow Gods under him as pawns, that{n}D.S.'s advance caught up with him, was{n}nothing but an unforeseen turn."
+  "en": "What the Hollow God King had not{n}foreseen was the stubborn resistance of{n}Yoko, whom he had judged easy prey.{n}Even granting Kall's support, he had{n}thrown away all four Hollow Gods under{n}him as pawns and was still so delayed{n}that D.S.'s advance caught up with him.{page}That was a turn he had never{n}reckoned on."
  },
  {
   "id": "s0369_02ca4",
@@ -2847,7 +2847,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "うおおおおおおおおお――っ!!",
-  "en": "Uoooooooh--!!"
+  "en": "Raaaaaaagh--!!"
  },
  {
   "id": "s0369_031b0",
@@ -3210,7 +3210,7 @@
    "アビゲイル"
   ],
   "jp": "虚神王にとって予想外だったのは、{n}与し易しと踏んでいたヨーコの抵抗が{n}頑強だったことであった。カルの援護{n}があったにせよ、配下の四虚神全てを{n}捨て駒にしてなお、Ｄ・Ｓの進行に{n}追いつかれるほど手間取るなど、不測{n}の事態以外の何ものでもなかったのだ。",
-  "en": "What the Hollow God King had not{n}foreseen was the stubborn resistance of{n}Yoko, whom he had judged easy prey.{n}Even granting Kall's support, to be so{n}delayed, after throwing away all four{n}Hollow Gods under him as pawns, that{n}D.S.'s advance caught up with him, was{n}nothing but an unforeseen turn."
+  "en": "What the Hollow God King had not{n}foreseen was the stubborn resistance of{n}Yoko, whom he had judged easy prey.{n}Even granting Kall's support, he had{n}thrown away all four Hollow Gods under{n}him as pawns and was still so delayed{n}that D.S.'s advance caught up with him.{page}That was a turn he had never{n}reckoned on."
  },
  {
   "id": "s0369_036bc",
@@ -3306,7 +3306,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "すぐに判るぜ……{n}それが間違いだったってことがな！",
-  "en": "You'll see soon enough... See that you got{n}it wrong!"
+  "en": "You'll see soon enough... just how wrong you{n}got it!"
  },
  {
   "id": "s0369_03890",
@@ -3330,7 +3330,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "ぬううぅぅぅ……凄まじいまでの力よ、{n}Ｄ・Ｓ――。だが、お前が操る霊子力{n}では我の本体を滅ぼすことはできぬ。{n}我が配下の低級神は殺せてもな――",
-  "en": "Nuuuugh... Such terrifying power, D.S.-- But{n}the spirit power you wield cannot destroy{n}my true body. Though it can kill the low{n}gods under me--"
+  "en": "Nnnngh... Such terrifying power, D.S.-- But{n}the spirit power you wield cannot destroy{n}my true body. Though it can kill the low{n}gods under me--"
  },
  {
   "id": "s0369_03920",
@@ -3498,7 +3498,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "テメエ言ったよなあ？　同じ神の力で{n}しか、テメエの本体は傷つかねえって。{n}だったらその力を利用してやろうじゃ{n}ねーか！　とくと拝みな――",
-  "en": "You said it, didn't you? That only the same{n}power of a god can hurt your true body.{n}Then let's put that power to use! Feast{n}your eyes--"
+  "en": "You said it, didn't you? That only the power{n}of a fellow god can hurt your true body.{n}Then let's put that power to use! Feast{n}your eyes--"
  },
  {
   "id": "s0369_03ba4",
@@ -3642,7 +3642,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "馬鹿な……こやつらは、お前が殺した{n}のでは――まさか、神を虜に？",
-  "en": "Impossible... You killed these, did you not--{n}You cannot have made gods{n}your captives?"
+  "en": "Impossible... You killed these, did you not--{n}Surely you did not take gods captive?"
  },
  {
   "id": "s0369_03d5c",
@@ -3762,7 +3762,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "ヒイィィ――ッキャアアァァァァ!!",
-  "en": "Hiiii--kyaaaaaah!!"
+  "en": "Eeeee--yaaaaaaah!!"
  },
  {
   "id": "s0369_03edc",
@@ -3786,7 +3786,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "ゴゥオゥエェェェェェ――!!",
-  "en": "Goh-oh-oeeeeeh--!!"
+  "en": "Hrrrgh-ooooaaargh--!!"
  },
  {
   "id": "s0369_03ef8",
@@ -4890,7 +4890,7 @@
    "Ｄ・Ｓ"
   ],
   "jp": "そこはＤ・Ｓの内宇宙だった。彼方に{n}輝く銀河や星雲は、この広大無辺の{n}空間に無数に存在するＤ・Ｓの世界が{n}群れなしたもの――。そして背後では、{n}たった今あとにした精神世界のひとつ{n}が急速に遠ざかりつつあった。",
-  "en": "It was D.S.'s inner universe. The galaxies{n}and nebulae shining far off were the{n}countless worlds of D.S., gathered in{n}flocks in this boundless space-- And{n}behind them, one of the spirit worlds they{n}had just left was quickly receding."
+  "en": "It was D.S.'s inner universe. The galaxies{n}and nebulae shining far off were the{n}countless worlds of D.S., gathered in{n}flocks in this boundless space-- And{n}behind them, one of those spirit worlds,{n}the one they had just left, was{n}quickly receding."
  },
  {
   "id": "s0369_04dfc",
@@ -5274,6 +5274,6 @@
    "ヨーコ"
   ],
   "jp": "ゴメンね、ルーシェ……。{n}でも、ボクたちはいつも一緒なんだよ。{n}心がいつも、繋がってる……{n}キミのこと……好きだよ",
-  "en": "Sorry, Lucien... But we're always together.{n}Our hearts are always joined... You... I{n}love you."
+  "en": "Sorry, Lucien... But we're always together.{n}Our hearts are always joined... I love you,{n}you know."
  }
 ]

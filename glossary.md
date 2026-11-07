@@ -93,6 +93,7 @@ Title cards carry the developers' own English subtitles (for example 忘却の�
 | 狼麒 | Loki | | the wolf-headed god; ロキ's kanji form | Wolf Qilin |
 | 虚神 | Hollow God | | echoes the game title 虚ろなる神々 | False God |
 | 虚神王 | Hollow God King | | | False God King |
+| 魔人 | fiend / Fiend | | D.S.'s epithet; 魔族 stays "demon" (D11) | |
 | 魂喰らい | Soul Eater | | Gain's and later Zion's sword | |
 | 魔神剣 | Demon Sword | | skill-table spelling | |
 | 黒い断頭台 | Black Guillotine | | skill-table spelling | |
